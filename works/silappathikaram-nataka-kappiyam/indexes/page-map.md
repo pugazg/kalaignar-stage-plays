@@ -22,8 +22,8 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 16 | xvi | author preface | closing | verified | Final asterisk-led observation and acknowledgements checked at enlarged 400/800-ppi resolution; closes with `அன்புடன்,` and facsimile signature; printed `xvi` at lower left. |
 | 17 | — | scene 1 | scene opening | verified | `காட்சி-1`; decorative title verified as `வஞ்சி மூதூரில் முரசறைதல்`; complete two-column stage direction/dialogue and `[முரசு முழங்குகிறது]` checked at enlarged 400/800-ppi resolution; no printed page number. |
 | 18 | 2 | scene 2 | scene opening | verified | `காட்சி-2`; `செங்குட்டுவன் பிறந்தநாள் விழா`; setting `வஞ்சி`; complete two-column dialogue/stage directions checked at enlarged 400/800-ppi resolution; printed page `2`. |
-| 19 | — | scene 3 | scene opening | needs-review | `காட்சி-3`; stylized title provisionally read `விழாவும் விளாவும்`; large illustration. |
-| 20 | 4 | scene 3 | continuation | needs-review | Two-column dialogue; small ornamental illustration. |
+| 19 | — | scene 3 | scene opening | verified | `காட்சி-3`; stylized title corrected after enlargement to `விழாவும் வினாவும்`; setting `சேரன் அரண்மனை`; complete opening stage direction/dialogue verified; large uncaptioned illustration; no printed page number. |
+| 20 | 4 | scene 3 | continuation / close | verified | Complete two-column dialogue and stage directions verified; printed page `4`; small uncaptioned ornamental illustration; closes scene 3 before scan 21 / `காட்சி-4`. |
 | 21 | — | scene 4 | scene opening | needs-review | `காட்சி-4`; `இளங்கோ துறவு`; headed `சேரலாதன் மாளிகை`; large figure illustration. |
 | 22 | 6 | scene 4 | continuation | needs-review | Group illustration above dialogue. |
 | 23 | — | scene 4 | continuation / close | needs-review | Dialogue plus coastal photograph and small printed caption. |
@@ -60,4 +60,6 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–18 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers `காட்சி-1` and `காட்சி-2`. Scans **19–39** have individual page records and direct visual source mapping but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped. Continue next with **scan 19 / காட்சி-3**.
+Scans **1–20 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-3**. Scans **21–39** have individual page records and direct visual source mapping but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped.
+
+Detailed verification should now proceed by **complete scene where practical**, while retaining one source record per physical scan. Next: **காட்சி-4, scans 21–23**.
