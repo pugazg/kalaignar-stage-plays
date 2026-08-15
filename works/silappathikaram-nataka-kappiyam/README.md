@@ -13,8 +13,8 @@ This repository preserves this scanned edition as supplied. The PDF itself is no
 - Scan length: **88 pages**.
 - Scans 1–9: title/front matter plus Anna's `அணிந்துரை`; all verified.
 - Scan 10: M. Karunanidhi author portrait/caption page; verified.
-- Scan 11: opening author-preface page with coastal photograph and complete prefatory prose; now verified at enlarged 300-ppi resolution.
-- Scans 12–16: remaining author's introductory/prefatory material; individually represented and visually mapped, currently `needs-review` pending full character-level transcription audit.
+- Scans 11–12: author's introductory/prefatory text; both now fully transcribed and verified at enlarged resolution.
+- Scans 13–16: remaining author's introductory/prefatory material; individually represented and visually mapped, currently `needs-review` pending full character-level transcription audit.
 - Scan 17: dramatic body begins with **காட்சி-1**.
 - Scans 17–39: individually represented and visually mapped through **காட்சி-10**; currently `needs-review` pending complete dialogue/stage-direction verification.
 - Scan 88: **காட்சி-38** is visible on the final supplied scan page.
@@ -30,8 +30,8 @@ Scene-title readings are accepted only after direct enlarged visual verification
 | Initial scan survey | Complete |
 | Page map | Expanded individually through scan 39 |
 | Page records | Present for scans 1–39 |
-| Fully verified pages | Scans 1–11 |
-| Scans 12–39 | Directly inspected / source-mapped; detailed transcription review pending |
+| Fully verified pages | Scans 1–12 |
+| Scans 13–39 | Directly inspected / source-mapped; detailed transcription review pending |
 | Anna `அணிந்துரை` | Complete and verified |
 | Scene-boundary mapping | Through `காட்சி-10` |
 | Scene assembly | Not started |
@@ -40,7 +40,9 @@ Scene-title readings are accepted only after direct enlarged visual verification
 
 ## Latest detailed verification
 
-`pages/0011.md` now contains the complete scan-11 prose below the பூம்புகார் coastal photograph. The page has no visible printed pagination, so none is inferred. The final printed line ends with `இமயம்`; its sentence continues physically on scan 12 and is not completed editorially in the scan-11 record.
+`pages/0012.md` now contains the complete visible text of scan 12, including its two verse-like inset passages and the printed page marker `xii`. The opening physically continues scan 11's final `இமயம்`, while scan 12 itself ends mid-quotation at `நீவிர் இரு பெருந்`; neither boundary is silently repaired inside the page records.
+
+Source-specific forms preserved on scan 12 include `தமிழ்மீதுள்ள`, `நலங்`, `தொண்டர்க்குத் தொண்டனுடைய`, `ஈழத் துணவும்`, `காழகத் தாக்கமும்`, `திருவிடைக் கழி`, `குராப் பள்ளி`, and `பாடி யிருக்கிறார்`.
 
 ## Batch 10–39
 
@@ -58,4 +60,4 @@ It is **Tale of the Anklet and One Act Plays** (Bharathiar University / Macmilla
 
 ## Next work
 
-Continue the detailed verification pass with **scan 12**, visibly carrying printed page `xii`. Transcribe and compare its complete prose and centred verse-like passage at enlarged/native resolution. Promote each subsequent page from `needs-review` to `verified` only after full wording, punctuation, layout and source marks have been checked.
+Continue the detailed verification pass with **scan 13**. Transcribe and compare its complete prose at enlarged/native resolution, beginning with the continuation of scan 12's unfinished quotation. Promote each subsequent page from `needs-review` to `verified` only after full wording, punctuation, layout and source marks have been checked.
