@@ -18,7 +18,8 @@ This repository preserves this scanned edition as supplied. The PDF itself is no
 - Scan 18: **காட்சி-2**, **`செங்குட்டுவன் பிறந்தநாள் விழா`**, setting **`வஞ்சி`**; verified; printed page `2`.
 - Scans 19–20: complete **காட்சி-3**, **`விழாவும் வினாவும்`**, setting **`சேரன் அரண்மனை`**; verified; scan 20 printed page `4`.
 - Scans 21–23: complete **காட்சி-4**, **`இளங்கோ துறவு`**, setting **`சேரலாதன் மாளிகை`**; verified; scan 22 printed page `6`; scan 23 closes the scene and carries the photograph caption `காவிரி — கடலில் கலக்கும் காட்சி`.
-- Scans 24–39: individually represented and structurally mapped through **காட்சி-10**; currently `needs-review` pending detailed transcription verification.
+- Scans 24–25: complete **காட்சி-5**, **`சிலம்பின் தோற்றம்`**, setting **`சேரநாடு`**; verified. Scan 24 prints page `8`; scan 25 visibly prints anomalous lower-left numeral `2`, preserved exactly rather than normalized to expected pagination.
+- Scans 26–39: individually represented and structurally mapped through **காட்சி-10**; currently `needs-review` pending detailed transcription verification.
 - Scan 88: **காட்சி-38** is visible on the final supplied scan page.
 
 Scene-title readings are accepted only after direct enlarged visual verification; stylized headings are not guessed from context or from the English translation.
@@ -32,49 +33,41 @@ Scene-title readings are accepted only after direct enlarged visual verification
 | Initial scan survey | Complete |
 | Page map | Expanded individually through scan 39 |
 | Page records | Present for scans 1–39 |
-| Fully verified pages | Scans 1–23 |
+| Fully verified pages | Scans 1–25 |
 | Anna `அணிந்துரை` | Complete and verified |
 | Kalaignar preface | Complete and verified |
-| Dramatic-body detailed verification | `காட்சி-1` through `காட்சி-4` verified |
-| Scans 24–39 | Directly inspected / source-mapped; detailed transcription review pending |
+| Dramatic-body detailed verification | `காட்சி-1` through `காட்சி-5` verified |
+| Scans 26–39 | Directly inspected / source-mapped; detailed transcription review pending |
 | Scene-boundary mapping | Through `காட்சி-10` |
 | Scene assembly | Not started |
 | Full source audit | Not started |
 | English translation | Not started; published translation witness recorded for future collation |
 
-## Latest detailed verification — காட்சி-4
+## Latest detailed verification — காட்சி-5
 
-`காட்சி-4` spans `pages/0021.md` through `pages/0023.md` and has now been verified as a complete scene.
+`காட்சி-5` spans `pages/0024.md` and `pages/0025.md` and has now been verified as a complete scene.
 
-### Scan 21
+### Scan 24
 
-- Scene marker: `காட்சி-4`.
-- Decorative title: `இளங்கோ துறவு`.
-- Setting heading: `சேரலாதன் மாளிகை`.
-- Complete dialogue/stage text verified.
-- No printed page number is visible; none is inferred.
-- Large full-height male illustration at right is uncaptioned; no identity is inferred.
-- Source forms retained include `பிறக்கவில்லை / யென்று`, `உரியதாகட் / டும்`, `படைத் தள / பதியாக`, `தாய்மையுள்ளங்`, `இளங்கோவடிகளாக மாறி நிற்கிறான்!`, and `துறவுக் கோலம்!....`.
+- Scene marker: `காட்சி-5`.
+- Decorative title: `சிலம்பின் தோற்றம்`.
+- Setting heading: `சேரநாடு`.
+- Printed page marker: `8` at lower left.
+- Complete two-column stage/dialogue text verified, including the mountain-gifts presentation.
+- The printed gift list is preserved exactly: `யானைத்தந்தம், தேன், சந்தனக் கட்டை, தேங்காய், கரும்பு, மாங்கனி, பலாக்கனி, வாழைக்குலை, சிங்கக்குட்டி, புலிக்குட்டி, யானைக்குட்டி, குறும்பாடு, மான்குட்டி, கிரிப் / பிள்ளை, தோகைமயில், புனுகுபூனை, கிளி`.
+- Source-specific forms retained include `மலைவாழ் தமிழர்களே!....`, `என் / றென்றும்`, `கணவனை இழந்தொரு பெண்...`, and the final physical boundary `கணவன் வருவான் வருவான்`.
+- Small deer illustration is uncaptioned and kept separate from the dramatic text.
 
-### Scan 22
+### Scan 25
 
-- Continues `காட்சி-4` beneath a large uncaptioned group illustration.
-- Printed page marker: `6` at lower left.
-- Complete two-column dialogue verified with targeted 800/1200-ppi checks for difficult source forms.
-- The source visibly prints `வேந்த / னுக` and `வஞ் / சித்திலநகரின்`; both are preserved rather than normalized.
-- The opening of the right column continues the preceding `நற்சோணை` speech without a newly printed speaker label.
-- Other preserved forms include `வேதனைக் களமாகி விடும் தமிழ்நாடு!`, `விதிப்படியே வெற்றி தோல்வி யென`, `விற் / கொடியைப்`, `எடுத்த எடுப்பிலேயே`, and the repeated dotted pauses in `வதை.......அப்பா...`.
+- Continues and closes `காட்சி-5` before scan 26 / `காட்சி-6`.
+- Native-source inspection resolves the lower-left printed numeral as **`2`**. Because scan 24 visibly prints `8`, this is an anomalous source pagination marker; it is preserved exactly and is not silently changed to an expected `9`.
+- The continuation introduces `கண்ணகி....!`, with `சாத்த` narrating the plan for the story to become a காவியம் and naming the three Tamil kingdoms.
+- Source forms preserved include the unusual physical split `நினைவூட்டினர் / கள்`, `சரி யண்ணா!`, `காட்சி மாறுகிறது....`, `காவிரி யாறும்`, `கொடியின்கீழ்`, and `தனிப்பெருந் திலகராம்!...`.
+- Stage directions show சாத்தனார் beginning the story, இளங்கோவடிகள் beginning to write, the tiger flag flying, and the scene shifting to பூம்புகார்.
+- A large standing ascetic/monk-like illustration at right is uncaptioned; no identity is inferred.
 
-### Scan 23
-
-- Continues and closes `காட்சி-4`.
-- No printed page number is visible; none is inferred.
-- The page preserves the farewell sequence `அப்பா!...`, `அம்மா!...`, `அண்ணி!...`, `அண்ணா!...`, followed by `வருகிறேன்.......`.
-- A long bracketed narrative crosses from the left column into the right and ends with `எதிரே நிமித்திகன் வருகிறான்.]`.
-- The scene closes with `நிமித் : இப்போது பிழைப்பே போனது...` and `[திகைத்து நிற்கும் நிமித்திகரோடு காட்சி முடிகிறது.]`.
-- A lower-right coastal/river-mouth photograph has the printed caption **`காவிரி — கடலில் கலக்கும் காட்சி`**, recorded separately from dramatic text.
-
-Verification used the controlling Tamil scan at enlarged 400-ppi resolution with targeted 800/1200-ppi crops where required. The published English translation was not used to settle Tamil readings.
+Verification used the controlling Tamil scan, its native 1662×2630 page image, and enlarged 400-ppi/cropped views for difficult readings and pagination. The published English translation was not used to settle Tamil text.
 
 ## Detailed-review working unit
 
@@ -82,7 +75,7 @@ Detailed verification proceeds by **one complete scene per activity where practi
 
 ## Batch 10–39
 
-See `BATCH_0010_0039_REVIEW.md` for the structural survey and evolving verification status. Scans 10–23 have now been upgraded to verified as detailed review progressed.
+See `BATCH_0010_0039_REVIEW.md` for the structural survey and evolving verification status. Scans 10–25 have now been upgraded to verified as detailed review progressed.
 
 Scene openings mapped in this structural range occur at scans 17, 18, 19, 21, 24, 26, 29, 33, 36 and 39, corresponding to `காட்சி-1` through `காட்சி-10`.
 
@@ -96,4 +89,4 @@ It is **Tale of the Anklet and One Act Plays** (Bharathiar University / Macmilla
 
 ## Next work
 
-Process **காட்சி-5 as one complete activity across scans 24–25**. Verify scan 24's `காட்சி-5` / `சிலம்பின் தோற்றம்` heading and setting `சேரநாடு`, then transcribe all dialogue, stage directions, printed pagination, illustration layers and source-specific punctuation through the close of scene 5 on scan 25. Promote each physical page independently to `verified` only after direct enlarged comparison.
+Process **காட்சி-6 as one complete activity across scans 26–28**. First settle the ornate scan-26 title at enlarged/native resolution, then verify all dialogue, stage directions, printed pagination and image/caption layers through the scene close before moving to `காட்சி-7`.
