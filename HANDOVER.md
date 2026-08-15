@@ -27,23 +27,23 @@ Source facts:
 
 ## Current verification checkpoint
 
-Scans **1–13 are now fully verified**.
+Scans **1–14 are now fully verified**.
 
-### Scan 13 — newly verified
+### Scan 14 — newly verified
 
-`works/silappathikaram-nataka-kappiyam/pages/0013.md`
+`works/silappathikaram-nataka-kappiyam/pages/0014.md`
 
-- Complete dense author-preface prose transcribed and checked against an enlarged 400-ppi render.
-- The first paragraph physically continues scan 12's unfinished quotation; the page boundary is retained rather than silently repaired.
-- No printed page number is visible, so `xiii` is not inferred.
-- Source-supported material includes `இளங்கோகொண்டு`, `அகஸ்டஸ் சீசர்`, `நீரோ`, `கடிமதில் வாயிற் சிறந்த - அடல்வாள் யவனர்`, `தண்கமழ் தேறல்`, `பவுண்டு`, `காவிரிஸ்`, and `புடோக்கா`.
-- The final printed words are `பாண்டி நாட்டுக் கொற்கைப்`; the sentence continues physically on scan 14 and is deliberately not completed inside scan 13.
+- Printed page marker: `xiv` at lower left.
+- Complete prose, the inset Korkai quotation and the later character-name transformation passage were transcribed and checked against an enlarged 400-ppi render.
+- The page physically continues scan 13's terminal `பாண்டி நாட்டுக் கொற்கைப்` with `பெருந்துறைக்கு அருகில்...`; the page boundary remains explicit rather than silently repairing the sentence.
+- Source-supported forms preserved include `இணை இல்ல யென்பதை`, `நுண்ணியபருத்தி`, `முசிறித்துறை`, `தமிழிலக்கியம்`, `கர்ணகி`, `மாதகியானாள்; ஏன் / பாதகியும் ஆனாள்`, `கோவலன்; கோவிலன் ஆனான்—`, `மாச்சோட்டான்`, `மாணுக்கன்`, and `குந்தகமின்றிப்`.
+- One narrow OCR check was used only as assistive evidence for the difficult reading `தரப்படுகிற உருவகமும்`; visual comparison with the scan remained authoritative.
 
 ## 30-page structural batch state
 
-Scans **10–39 inclusive** were previously directly inspected and individually represented. Scans 10–13 are now verified. Scans 14–39 remain `needs-review` until their complete Tamil text is enlarged and checked character by character.
+Scans **10–39 inclusive** were previously directly inspected and individually represented. Scans 10–14 are now verified. Scans 15–39 remain `needs-review` until their complete Tamil text is enlarged and checked character by character.
 
-Visible Roman pagination in the remaining preface includes scan 14=`xiv`, scan 15=`xv`, scan 16=`xvi`. Scan 16 closes with `அன்புடன்,` and facsimile signature.
+Visible Roman pagination in the remaining preface includes scan 15=`xv` and scan 16=`xvi`. Scan 16 closes with `அன்புடன்,` and facsimile signature.
 
 The dramatic body from scans 17–39 is mapped through `காட்சி-10`, but scene assembly must not begin from pages still marked `needs-review`.
 
@@ -53,9 +53,8 @@ The user supplied `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf`, re
 
 ## Next activity
 
-1. Process **scan 14**, visibly carrying printed page `xiv`.
-2. Begin with the continuation of scan 13's terminal `பாண்டி நாட்டுக் கொற்கைப்`.
-3. Preserve every printed line, punctuation mark, inset/list-like passage and page boundary at enlarged/native resolution.
-4. Promote scan 14 to `verified` only after complete character-level comparison.
-5. Continue sequentially through scans 15–39 before scene assembly.
-6. Do not begin English translation until Tamil transcription/audit is complete.
+1. Process **scan 15**, visibly carrying printed page `xv`.
+2. Preserve all asterisk-led passages, punctuation, paragraphing and page boundaries at enlarged/native resolution.
+3. Promote scan 15 to `verified` only after complete character-level comparison.
+4. Continue sequentially through scans 16–39 before scene assembly.
+5. Do not begin English translation until Tamil transcription/audit is complete.
