@@ -14,12 +14,13 @@ This repository preserves this scanned edition as supplied. The PDF itself is no
 - Scans 1–9: title/front matter plus Anna's `அணிந்துரை`; all verified.
 - Scan 10: M. Karunanidhi author portrait/caption page; verified.
 - Scans 11–16: Kalaignar's complete introductory/prefatory material; fully transcribed and verified at enlarged resolution. Scan 16 closes the preface with `அன்புடன்,` and a facsimile signature.
-- Scan 17: **காட்சி-1**, decorative title **`வஞ்சி மூதூரில் முரசறைதல்`**; complete opening stage direction and `முரசறைவோன்` speech verified.
-- Scan 18: **காட்சி-2**, **`செங்குட்டுவன் பிறந்தநாள் விழா`**, setting **`வஞ்சி`**; complete two-column dialogue/stage directions verified; printed page `2`.
-- Scans 19–39: individually represented and visually mapped through **காட்சி-10**; currently `needs-review` pending complete dialogue/stage-direction verification.
+- Scan 17: **காட்சி-1**, decorative title **`வஞ்சி மூதூரில் முரசறைதல்`**; verified.
+- Scan 18: **காட்சி-2**, **`செங்குட்டுவன் பிறந்தநாள் விழா`**, setting **`வஞ்சி`**; verified; printed page `2`.
+- Scans 19–20: complete **காட்சி-3**; decorative title verified as **`விழாவும் வினாவும்`** and setting **`சேரன் அரண்மனை`**. Scan 20 carries printed page `4` and closes the scene.
+- Scans 21–39: individually represented and visually mapped through **காட்சி-10**; currently `needs-review` pending complete dialogue/stage-direction verification.
 - Scan 88: **காட்சி-38** is visible on the final supplied scan page.
 
-Scene-title readings are accepted only after direct enlarged visual verification; stylized headings are not to be guessed from context or from the English translation.
+Scene-title readings are accepted only after direct enlarged visual verification; stylized headings are not guessed from context or from the English translation.
 
 ## Processing status
 
@@ -30,31 +31,51 @@ Scene-title readings are accepted only after direct enlarged visual verification
 | Initial scan survey | Complete |
 | Page map | Expanded individually through scan 39 |
 | Page records | Present for scans 1–39 |
-| Fully verified pages | Scans 1–18 |
+| Fully verified pages | Scans 1–20 |
 | Anna `அணிந்துரை` | Complete and verified |
 | Kalaignar preface | Complete and verified |
-| Dramatic-body detailed verification | `காட்சி-1` and `காட்சி-2` verified |
-| Scans 19–39 | Directly inspected / source-mapped; detailed transcription review pending |
+| Dramatic-body detailed verification | `காட்சி-1` through `காட்சி-3` verified |
+| Scans 21–39 | Directly inspected / source-mapped; detailed transcription review pending |
 | Scene-boundary mapping | Through `காட்சி-10` |
 | Scene assembly | Not started |
 | Full source audit | Not started |
 | English translation | Not started; published translation witness recorded for future collation |
 
-## Latest detailed verification
+## Latest detailed verification — காட்சி-3
 
-`pages/0018.md` now contains the complete visible content of scan 18 / `காட்சி-2`. Enlarged 400-ppi and targeted 800-ppi inspection confirmed the decorative title as `செங்குட்டுவன் பிறந்தநாள் விழா`, followed by the setting heading `வஞ்சி`, and the printed page marker `2` at lower left.
+`காட்சி-3` spans `pages/0019.md` and `pages/0020.md` and has now been verified as a complete scene.
 
-The left column opens with `[செங்குட்டுவனின் தனி மாடம்... அவன் துணைவி வேண்மாள்.]`, then dialogue among `செங்குட்டுவன்`, `வேண்மாள்`, `செங்கு`, and `வேண்`. The right column continues with `இளங்கோ`, `செங்கு`, and abbreviated `இளங்` labels, ending with the bracketed exit/action description in which வேண்மாள் watches and `மகிழ்ச்சிப் பெருமூச்சு விடுகிறாள்`.
+### Scan 19
 
-Source-specific forms and punctuation preserved include `அவனை அழகு படுத்திக் கொண்டிருக்கிறாள்`, `பிறகென்ன;`, `நமக்கொன்று பிறக்கவில்லே`, `றீர்களா?....`, the printed run `களேன்;எப்போது`, `[புன்னகை தவழ]`, and `குறும்புக்காரா!...வேண்மாள்!...`. Physical word splits such as `மண்டபத் / திற்கு`, `பெறுத / வர்கள்`, `என்கி / றீர்களா`, `கேளுங் / களேன்`, `நம்புகிறீர் / களா`, `இருக்க / கிறாள்`, `அனுப் / புங்கள்`, and `வரு / கிறேன்` are retained.
+- Scene marker: `காட்சி-3`.
+- Enlarged heading inspection corrected the earlier provisional reading `விழாவும் விளாவும்` to the source-supported **`விழாவும் வினாவும்`**.
+- Setting heading: `சேரன் அரண்மனை`.
+- Complete opening stage direction and `நெடுஞ்சேரலாதன்` speech verified.
+- No printed page number is visible; none is inferred.
+- A large uncaptioned man-and-woman illustration and a decorative hanging-lamp-like image are recorded separately from the dramatic text.
+- Source forms preserved include `மிக்க அழகுற`, `நற்சோணையும்`, `சேர நன்னாட்டின்`, `தம்பியுடையான் படைக்கஞ்சான்`, `என்னருஞ் செல்வனை`, and the physical split `நன் / ஞாளில்!`.
 
-A small uncaptioned stylized head/face illustration appears near the lower centre of scan 18. No identity is inferred.
+### Scan 20
+
+- Continues and closes `காட்சி-3`.
+- Printed page marker: `4` at lower left.
+- Complete two-column dialogue among `நிமித்திகன்`, `சேரலாதன்`, `அவையோர்`, and abbreviated `இளங்` was verified together with all bracketed action lines.
+- The quoted குறள் wording is preserved exactly as this scan prints it rather than being silently corrected against another edition.
+- Source-supported unusual forms include `முடியினையும் உரிமை`, `விதி புனையும்`, `வேறுக இருக்கிறது!`, `சேர மண்டிலத்தை`, `ஆளுவனும்...`, `பொய்க் காது`, `உண்மைக் காது!....`, and `நிமித்திகரே,பழைய`.
+- The final bracketed action records இளங்கோ leaving the hall and the royal couple looking at one another `வேதனையோடு!`.
+- A small uncaptioned ornamental throne/royal-seat-like image appears near the lower centre.
+
+Verification used the controlling Tamil scan at enlarged 400-ppi resolution with targeted larger crops for stylized/difficult readings. The published English translation was not used to settle Tamil text.
+
+## Detailed-review working unit
+
+From this checkpoint onward, detailed verification should proceed by **one complete scene per activity where practical**, while preserving one archival `pages/00xx.md` record per physical scan. A scene may be split into smaller activities only when its length or source difficulty warrants it.
 
 ## Batch 10–39
 
-See `BATCH_0010_0039_REVIEW.md` for the exact status of the earlier 30-page source-inspection pass. Scans 10–18 have now been upgraded to verified as the detailed review progressed. Dense dramatic pages are not marked `verified` until their complete Tamil dialogue, stage directions, headings and source marks have been enlarged and checked.
+See `BATCH_0010_0039_REVIEW.md` for the structural survey and its evolving verification status. Scans 10–20 have now been upgraded to verified as detailed review progressed.
 
-Scene openings identified in this batch occur at scans 17, 18, 19, 21, 24, 26, 29, 33, 36 and 39, corresponding to `காட்சி-1` through `காட்சி-10`.
+Scene openings already mapped in this structural range occur at scans 17, 18, 19, 21, 24, 26, 29, 33, 36 and 39, corresponding to `காட்சி-1` through `காட்சி-10`.
 
 ## Published English translation witness
 
@@ -66,4 +87,4 @@ It is **Tale of the Anklet and One Act Plays** (Bharathiar University / Macmilla
 
 ## Next work
 
-Continue detailed dramatic-body verification with **scan 19 / காட்சி-3**. Enlarge the stylized scene heading before accepting or correcting its provisional title, then transcribe every printed line, speaker/stage-direction element, punctuation and illustration-related source note exactly. Promote the page to `verified` only after full character-level comparison. Do not begin scene assembly or English translation from unverified pages.
+Process **காட்சி-4 as one complete activity across scans 21–23**. Verify scan 21's heading/title and setting, then transcribe all dialogue, stage directions, printed pagination, photograph/illustration captions and source-specific punctuation through the end of scene 4 on scan 23. Promote each physical page independently to `verified` only after direct enlarged comparison. Do not begin scene assembly or English translation from unverified pages.
