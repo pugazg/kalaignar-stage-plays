@@ -29,11 +29,11 @@ Scene-title readings will be transcribed only after direct enlarged visual verif
 | Repository bootstrap | Complete |
 | Source identity / checksum | Complete |
 | Initial scan survey | Complete |
-| Page map | Started; scans 1–4 expanded individually |
-| Page-by-page transcription | Started; scans 1–4 verified |
+| Page map | Started; scans 1–5 expanded individually |
+| Page-by-page transcription | Started; scans 1–5 verified |
 | Scene assembly | Not started |
 | Full source audit | Not started |
-| English translation | Not started |
+| English translation | Not started; published translation witness recorded for future collation |
 
 ## Verified page records
 
@@ -41,7 +41,16 @@ Scene-title readings will be transcribed only after direct enlarged visual verif
 - `pages/0002.md` — Anna photograph and `அணிந்துரை` caption, with library/copy marks separated from printed text.
 - `pages/0003.md` — opening prose page of the `அணிந்துரை`, visibly carrying printed page marker `iii`; complete prose checked against the PDF's native embedded 300-ppi scan image.
 - `pages/0004.md` — continuation of the `அணிந்துரை`, visibly carrying printed page marker `iv` at lower left; complete prose checked against the native embedded scan image, preserving source-specific forms including `ஒப்புவமையற்ற`, `ஈருடல்`, `காட்டினனே`, `துயரமுள்`, and `இக்கவின்`.
+- `pages/0005.md` — continuation of the `அணிந்துரை`; no printed page marker is visibly present and none is inferred. Enlarged inspection preserves source-specific readings such as `கொணர்ந்து`, `அந்நாள் நல்வாழ்வை`, `தமிழ் ஆளுநிறன்`, `செயற்பட்டதாக`, `அழகுதரும்`, and `நிறையுருவைக்`.
+
+## Published English translation witness
+
+A user-supplied published English volume has been recorded at:
+
+`metadata/english-translation-source.md`
+
+It is **Tale of the Anklet and One Act Plays** (Bharathiar University / Macmillan, first published 2009). The relevant `Tale of the Anklet` portion is credited to translator **T. G. Narayanaswamy** and its contents list 38 numbered sections. This is a future secondary translation witness only; it is not authority for the Tamil transcription and the PDF is not committed.
 
 ## Next work
 
-Continue sequentially from **scan page 5**. Preserve the Anna foreword exactly as printed, including historical spelling, punctuation, paragraphing and visible page numbering. Keep physical-copy marks separate from printed prose. Do not jump directly to scene assembly before the physical page records exist.
+Continue sequentially from **scan page 6**, which visibly carries printed page `vi`. Preserve the Anna foreword exactly as printed, including historical spelling, punctuation, paragraphing and visible page numbering. Keep physical-copy marks separate from printed prose. Do not jump directly to scene assembly before the physical page records exist.
