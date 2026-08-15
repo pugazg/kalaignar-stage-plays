@@ -13,8 +13,7 @@ This repository preserves this scanned edition as supplied. The PDF itself is no
 - Scan length: **88 pages**.
 - Scans 1–9: title/front matter plus Anna's `அணிந்துரை`; all verified.
 - Scan 10: M. Karunanidhi author portrait/caption page; verified.
-- Scans 11–15: author's introductory/prefatory text; fully transcribed and verified at enlarged resolution.
-- Scan 16: final author-preface page; individually represented and visually mapped, currently `needs-review` pending full character-level transcription audit.
+- Scans 11–16: Kalaignar's complete introductory/prefatory material; fully transcribed and verified at enlarged resolution. Scan 16 closes the preface with `அன்புடன்,` and a facsimile signature.
 - Scan 17: dramatic body begins with **காட்சி-1**.
 - Scans 17–39: individually represented and visually mapped through **காட்சி-10**; currently `needs-review` pending complete dialogue/stage-direction verification.
 - Scan 88: **காட்சி-38** is visible on the final supplied scan page.
@@ -30,9 +29,10 @@ Scene-title readings are accepted only after direct enlarged visual verification
 | Initial scan survey | Complete |
 | Page map | Expanded individually through scan 39 |
 | Page records | Present for scans 1–39 |
-| Fully verified pages | Scans 1–15 |
-| Scans 16–39 | Directly inspected / source-mapped; detailed transcription review pending |
+| Fully verified pages | Scans 1–16 |
 | Anna `அணிந்துரை` | Complete and verified |
+| Kalaignar preface | Complete and verified |
+| Scans 17–39 | Directly inspected / source-mapped; detailed transcription review pending |
 | Scene-boundary mapping | Through `காட்சி-10` |
 | Scene assembly | Not started |
 | Full source audit | Not started |
@@ -40,13 +40,15 @@ Scene-title readings are accepted only after direct enlarged visual verification
 
 ## Latest detailed verification
 
-`pages/0015.md` now contains the complete visible text of scan 15, including the introductory prose, the printed lead-in `எடுத்துக் காட்டுகளாகச் சில:-`, all seven asterisk-led observations, and printed page marker `xv`.
+`pages/0016.md` now contains the complete visible closing text of Kalaignar's preface, including the final asterisk-led adaptation note, the acknowledgements, printed page marker `xvi`, `அன்புடன்,`, and the facsimile-signature layer.
 
-The page was checked against an enlarged 400-ppi render. Source-specific material preserved includes `மாறுதல்களச்`, `வனேத்`, `அழகுங்கொண்ட`, `உள்ளத்தையேப்`, `(அவன் கூன்-குருடு-கிழடு யாராக இருந்தாலும்)`, `நிகழ்ச்சி யொன்றுக`, `‘கிரேக்கக் கிழவன்’`, `பழந் தமிழகத்திற்கும்`, `கேள்விக் கண் தாக்கிறது`, `அதின அறிந்த`, `ஒருமாற்றம்`, and `அதின நான் குறித்துள்ளேன்`. The physical line break `என் / றெழுந்த` is retained rather than silently recombined.
+The page was checked against enlarged 400-ppi and targeted 800-ppi views. Source-specific forms preserved include `சிலம்புகளையுந்தான்`, `யிருக்காது`, `கண்டிருக்கமுடியாது`, `ஒற்றைச்சிலம்பு`, `அச்சியற்றிய`, `அவர்கட்கும்`, `என்னருந்தலைவர்`, and the visibly printed `தலதாழ்ந்த` rather than silently modernizing it to `தலைதாழ்ந்த`. Physical word splits such as `வாங்கு / வது`, `உரு / வாக்கிய`, and `வெளியீட் / டார்க்கும்` are retained.
+
+The acknowledgements on scan 16 visibly name `டி. ஜி. நாராயணசாமி`, `பி. என். கே.`, `ஐடியல் அச்சகத்தார்`, artists `அமுதன்` and `விஜயா`, archaeological-department director `திரு. நாகசாமி`, `அஞ்சுகம் வெளியீட்டார்`, and `ஆனந்தம்`, `கோபாலசாமி`, `தினகரன்`.
 
 ## Batch 10–39
 
-See `BATCH_0010_0039_REVIEW.md` for the exact status of the 30-page source-inspection pass. Dense pages are not marked `verified` until their complete Tamil text has been enlarged and checked.
+See `BATCH_0010_0039_REVIEW.md` for the exact status of the earlier 30-page source-inspection pass. Scans 10–16 have now been upgraded to verified as the detailed review progressed. Dense dramatic pages are not marked `verified` until their complete Tamil dialogue, stage directions, headings and source marks have been enlarged and checked.
 
 Scene openings identified in this batch occur at scans 17, 18, 19, 21, 24, 26, 29, 33, 36 and 39, corresponding to `காட்சி-1` through `காட்சி-10`.
 
@@ -60,4 +62,4 @@ It is **Tale of the Anklet and One Act Plays** (Bharathiar University / Macmilla
 
 ## Next work
 
-Continue the detailed verification pass with **scan 16**, visibly carrying printed page `xvi`. It is the closing author-preface page and ends with `அன்புடன்,` plus a facsimile signature. Verify the complete text and signature/caption evidence before beginning detailed verification of `காட்சி-1` on scan 17.
+Begin the detailed dramatic-body verification with **scan 17 / காட்சி-1**. Enlarge the decorative scene heading before accepting its title, then transcribe every printed line, speaker/stage-direction element, caption and illustration-related source note exactly. Promote the page to `verified` only after full character-level comparison. Do not begin scene assembly or English translation from unverified pages.
