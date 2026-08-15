@@ -13,8 +13,8 @@ This repository preserves this scanned edition as supplied. The PDF itself is no
 - Scan length: **88 pages**.
 - Scans 1–9: title/front matter plus Anna's `அணிந்துரை`; all verified.
 - Scan 10: M. Karunanidhi author portrait/caption page; verified.
-- Scans 11–14: author's introductory/prefatory text; fully transcribed and verified at enlarged resolution.
-- Scans 15–16: remaining author's introductory/prefatory material; individually represented and visually mapped, currently `needs-review` pending full character-level transcription audit.
+- Scans 11–15: author's introductory/prefatory text; fully transcribed and verified at enlarged resolution.
+- Scan 16: final author-preface page; individually represented and visually mapped, currently `needs-review` pending full character-level transcription audit.
 - Scan 17: dramatic body begins with **காட்சி-1**.
 - Scans 17–39: individually represented and visually mapped through **காட்சி-10**; currently `needs-review` pending complete dialogue/stage-direction verification.
 - Scan 88: **காட்சி-38** is visible on the final supplied scan page.
@@ -30,8 +30,8 @@ Scene-title readings are accepted only after direct enlarged visual verification
 | Initial scan survey | Complete |
 | Page map | Expanded individually through scan 39 |
 | Page records | Present for scans 1–39 |
-| Fully verified pages | Scans 1–14 |
-| Scans 15–39 | Directly inspected / source-mapped; detailed transcription review pending |
+| Fully verified pages | Scans 1–15 |
+| Scans 16–39 | Directly inspected / source-mapped; detailed transcription review pending |
 | Anna `அணிந்துரை` | Complete and verified |
 | Scene-boundary mapping | Through `காட்சி-10` |
 | Scene assembly | Not started |
@@ -40,9 +40,9 @@ Scene-title readings are accepted only after direct enlarged visual verification
 
 ## Latest detailed verification
 
-`pages/0014.md` now contains the complete visible text of scan 14, including the indented Korkai quotation, the compact character-name transformation passage, and printed page marker `xiv`.
+`pages/0015.md` now contains the complete visible text of scan 15, including the introductory prose, the printed lead-in `எடுத்துக் காட்டுகளாகச் சில:-`, all seven asterisk-led observations, and printed page marker `xv`.
 
-The page was checked against an enlarged 400-ppi render. It begins by physically continuing scan 13's terminal `பாண்டி நாட்டுக் கொற்கைப்` with `பெருந்துறைக்கு அருகில்...`; the cross-page sentence is not silently joined in either page record. Source-specific material preserved includes `இணை இல்ல யென்பதை`, `நுண்ணியபருத்தி`, `முசிறித்துறை`, `தமிழிலக்கியம்`, `கர்ணகி`, `மாதகியானாள்; ஏன் / பாதகியும் ஆனாள்`, `கோவலன்; கோவிலன் ஆனான்—`, `மாச்சோட்டான்`, `மாணுக்கன்`, and `குந்தகமின்றிப்`. A narrow OCR check was used only as assistive evidence for the difficult source reading `தரப்படுகிற உருவகமும்`; the scan image remained controlling authority.
+The page was checked against an enlarged 400-ppi render. Source-specific material preserved includes `மாறுதல்களச்`, `வனேத்`, `அழகுங்கொண்ட`, `உள்ளத்தையேப்`, `(அவன் கூன்-குருடு-கிழடு யாராக இருந்தாலும்)`, `நிகழ்ச்சி யொன்றுக`, `‘கிரேக்கக் கிழவன்’`, `பழந் தமிழகத்திற்கும்`, `கேள்விக் கண் தாக்கிறது`, `அதின அறிந்த`, `ஒருமாற்றம்`, and `அதின நான் குறித்துள்ளேன்`. The physical line break `என் / றெழுந்த` is retained rather than silently recombined.
 
 ## Batch 10–39
 
@@ -60,4 +60,4 @@ It is **Tale of the Anklet and One Act Plays** (Bharathiar University / Macmilla
 
 ## Next work
 
-Continue the detailed verification pass with **scan 15**, visibly carrying printed page `xv`. Preserve the asterisk-led passages, punctuation and source layout exactly, and promote the page to `verified` only after full character-level comparison.
+Continue the detailed verification pass with **scan 16**, visibly carrying printed page `xvi`. It is the closing author-preface page and ends with `அன்புடன்,` plus a facsimile signature. Verify the complete text and signature/caption evidence before beginning detailed verification of `காட்சி-1` on scan 17.
