@@ -30,30 +30,31 @@ Source facts already recorded:
 
 ## Completed page records
 
-### Scans 1–7 — verified
+### Scans 1–8 — verified
 
 Previously completed and retained as documented in the work README and page map.
 
-### Scan 8 — verified
+### Scan 9 — verified
 
-`works/silappathikaram-nataka-kappiyam/pages/0008.md`
+`works/silappathikaram-nataka-kappiyam/pages/0009.md`
 
-Continuation of Anna's `அணிந்துரை`; printed page marker `viii` is visible at the lower left.
+This is the final page of Anna's `அணிந்துரை`.
 
-The page was checked directly against the supplied scan and an enlarged 300-ppi render. Important source-supported readings and typography include:
+Important source evidence preserved:
 
-- `மயிர்க்கூச்செறிகிறது`
-- `கைம் / பெண்` as a physical printed line split
-- emphatic `“மன்னனே! நீ? ஏ! பாண்டியனே!”` passage
-- source form `அன்றதும்`
-- `கொவ்வைக் கனிவாய்`
-- `ஒப்புவமையற்ற நடையழகு`
-- `செழுஞ் சொல்லோட்டத்தை`
-- `புதுமிக்க`
-- `கருத்தமைதி`
-- source form `உலகமா காவியங்களில்`
+- opening `இந்நாடக நூல் ஆங்கிலத்தில் மொழி பெயர்ப்பது இக்காலத்தின் தேவையாகும்.`;
+- translator reference `திரு. டி. ஜி. நாராயணசாமி`;
+- source forms including `வெளிக் கொணர்வதன்`, `தமிழகத்தைவிடப்`, `தரமுடியும்,-`, `இந் நூலின்`, `ஐயிரண்டு திசையிலும்`, and `நமதருமைத்`;
+- concluding `வாழ்க தமிழ்! வாழ்க தமிழகம்!`;
+- printed `அன்பன்,` followed by Anna's facsimile signature;
+- lower-left bracketed printed note identifying this as the Tamil rendering of Anna's foreword for the English translation;
+- a standalone printed capital `B` below that note, kept as a printer/copy mark and **not** treated as pagination.
 
-No library stamp or later handwriting crosses this prose.
+No page number is visibly printed on scan 9 and none is inferred.
+
+## Anna foreword status
+
+Scans **2–9** now fully represent the photograph/caption plus Anna's `அணிந்துரை`; scans **3–9** contain the foreword prose and are all verified.
 
 ## Published English translation witness — future phase
 
@@ -69,18 +70,18 @@ It remains a **secondary published translation witness**, not authority for the 
 
 ## Page-map state
 
-`indexes/page-map.md` records scans 1–8 individually as `verified`. The remaining Anna-foreword page is scan 9, which ends with `அன்பன்,` and signature.
+`indexes/page-map.md` records scans 1–9 individually as `verified`. Anna's foreword is complete. Scan 10 is the next unprocessed page and is an author photograph / transition page with a printed caption.
 
 ## Exact checkpoint
 
-Scans **1–8 are complete and verified**. No dramatic body page has yet been transcribed.
+Scans **1–9 are complete and verified**. No dramatic body page has yet been transcribed.
 
 ## Next activity
 
-1. Process **scan page 9**, the final page of Anna's foreword.
-2. Preserve every source-supported spelling, punctuation mark, paragraph break, attribution and signature/caption evidence.
-3. Use enlarged/native scan inspection where small type is uncertain.
-4. After scan 9 is verified, proceed to scan 10 (author photograph / transition page).
+1. Process **scan page 10**, the author photograph / transition page.
+2. Transcribe its printed caption exactly; describe the photograph rather than treating image content as text.
+3. Keep any physical-copy/library marks separate from the printed caption.
+4. Then continue sequentially into scans 11–16, the author's introductory/prefatory material.
 5. Expand `indexes/page-map.md` one scan at a time.
 6. Do not assemble scenes yet.
 7. Do not begin English translation yet; retain the published English volume only as a documented future witness until the Tamil archival text is complete and audited.
