@@ -27,48 +27,47 @@ Source facts:
 
 ## Current verification checkpoint
 
-Scans **1–35 are fully verified**.
+Scans **1–38 are fully verified**.
 
-This includes the complete front matter/prefaces and **காட்சி-1 through காட்சி-8**.
+This includes the complete front matter/prefaces and **காட்சி-1 through காட்சி-9**.
 
-## Newly completed activity — காட்சி-8, scans 33–35
+## Newly completed activity — காட்சி-9, scans 36–38
 
-### Scan 33 — `pages/0033.md`
+### Scan 36 — `pages/0036.md`
 
-- `காட்சி-8`.
-- Decorative title: **`கண்ணகி இல்லறம்`**.
-- Setting heading: **`கோவலன் வீடு:—பள்ளியறை`**.
-- Complete two-column Kannagi–Kovalan dialogue and opening bedchamber stage direction verified.
-- Preserve source forms including `பரப்பப் பட்டுள்ளன`, `நீ யில்லாமல்`, `சுவையே யில்லை!`, `அரும்பெறற் பாவாய்!`, and the physical `வருணித் / துக்` split.
-- Preserve the source quotation `“மாமுது பார்ப்பார் மறைவழி காட்டிடத் தீவலம் செய்து நிகழ்த்திய திருமணம்”` exactly.
+- `காட்சி-9`.
+- Enlarged source inspection confirms the stylized title **`பிரிவினை தந்த பேதை`**.
+- Exact setting: **`கண்ணகி.கோவலன்—கட்டில் அறை`**. Preserve the source punctuation.
+- Complete two-column dramatic text verified.
 - No printed page number is visible.
-- Two lower figure/statue photographs are uncaptioned; do not infer identities.
+- Lower-centre lamp/interior illustration is uncaptioned.
+- Preserve source forms including `ஊடலா?...அப்படியென்றுல்?...`, `ஊடல் என்றுல்`, `தில சிறந்தது`, `இது ஒன்றும் ஊடல் இல்ல;`, `வெளிநாட்டுக்கா?.`, `அகஸ்டஸ் சீமான்`, `கத்து கடல் கிழிச்`, and `செல்கின்றேரும்...`.
 
-### Scan 34 — `pages/0034.md`
+### Scan 37 — `pages/0037.md`
 
-- Continues scene 8 with Kannagi's parents and Kovalan's parents.
-- Printed page marker: `18` at lower left.
-- Complete two-column dialogue and bracketed stage directions verified.
-- Preserve source forms including `உன் தல எழுத்து`, `நம்பி யிருந்தேன்`, the visibly printed **`மருமகளாக வாழ்த்து;`**, `போவதில்ல.`, `கனி யுன்னைத்`, `கவலைப்படாதே யம்மா!`, and `தவங்கிடந்து`.
-- The right column begins as a continuation of `மாசாத்`'s speech without a repeated speaker label.
-- An upper-left ornament/jewel-like illustration and lower-right lotus illustration are uncaptioned.
-
-### Scan 35 — `pages/0035.md`
-
-- Continues and closes `காட்சி-8`; scan 36 directly begins `காட்சி-9`.
+- Continues scene 9 around a central photograph.
+- Exact printed caption: **`(சம்பாபதி கோயில் — பூம்புகார்)`**.
 - No printed page number is visible.
-- Complete family reconciliation dialogue and closing stage directions verified.
-- Preserve source-specific forms including **`இரண்டு / சொன்று`**, `தானு இருக்கிறாய்?`, `பொய்தானு?`, `ஆயிரத்தெட்டு கழஞ்சு பொன்னுக்கு மால்`, `எல்லோருந்தான்`, `அப்படியானு....`, `ஆதரவுபட்ட`, and `பார் முழுதும்`.
-- The final printed stage line is exactly `[கண்ணகி ஆனந்தக் கண்ணீர்]`; do not editorially supply a verb.
-- Large standing-woman illustration at right is uncaptioned; do not identify it by inference.
+- Complete dialogue verified.
+- Preserve source forms such as `உன் மறந்தாலன்றோ`, `முடவனுயிருப்பேன்.`, `செல்வ!`, `உனைப் பிரியேன்`, `விழியாத சிரிப்பு முத்தைக்`, `கொல்லாமற் கொல்லாதீர் கண்ணுளா!...`, `எண்ணிரண்டு பதினாறு கிழமை`, and `அகல்வதில்லே`.
 
-Verification used the controlling Tamil scan at enlarged 400-ppi resolution with targeted larger crops. The published English translation was not used to settle Tamil readings.
+### Scan 38 — `pages/0038.md`
+
+- Continues and closes `காட்சி-9`.
+- Printed page marker: **`22`** at lower left.
+- Complete two-column dialogue and stage directions verified.
+- A bracketed direction crosses the source column boundary; preserve that physical continuation in the page record.
+- Central/lower sculptural photograph is uncaptioned; do not infer an identity.
+- Preserve unusual source forms including `மெய்தானு`, `என்பது தவறுதான்!`, `கிணை தொடுத் / தாலும்`, `என் வெறுக்கிறீர்`, and especially the visibly printed **`உன் / நூல்தான் எல்லாம்...`**.
+- Scan 39 directly begins `காட்சி-10`, so scan 38 closes scene 9.
+
+Verification used the controlling Tamil scan with enlarged targeted crops. The published English translation was not used to settle Tamil readings.
 
 ## Structural batch state
 
-Scans **10–39 inclusive** were previously directly inspected and individually represented. Scans **10–35** are now verified. Scans **36–39** remain `needs-review` pending complete character-level checking.
+The earlier scans 10–39 structural survey has now been detailed through scan 38. **Scans 10–38 are verified. Scan 39 remains `needs-review`.**
 
-The dramatic body is structurally mapped through `காட்சி-10`.
+Scan 39 is only the opening of `காட்சி-10`; the rest of scene 10 lies outside the original 10–39 structural batch and has not yet been individually mapped.
 
 ## Working-unit decision
 
@@ -80,11 +79,11 @@ The user supplied `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf`, re
 
 ## Next activity
 
-Process **காட்சி-9 across scans 36–38 as one complete activity**.
+Continue with **காட்சி-10**, beginning at scan 39.
 
-1. Resolve scan 36's stylized title from enlarged/native source before accepting the provisional reading `பிரிவினை தந்த பேதை`.
-2. Transcribe and verify all text on scans 36–38, including speaker labels, stage directions, punctuation and physical word splits.
-3. Verify printed page `22` on scan 38 directly from source.
-4. Treat scan 37's brick-shrine photograph/caption and scan 38's central statue photograph as distinct source layers; preserve only printed captions/identifications.
-5. Confirm scan 38 closes scene 9 before moving to `காட்சி-10`.
-6. Do not begin English translation until the Tamil transcription/audit is complete.
+1. Inspect scan 39 and subsequent scans until the next `காட்சி-` heading to determine the complete physical extent of scene 10.
+2. Create/expand individual page records and `indexes/page-map.md` for every newly encountered physical scan; do not infer pagination.
+3. Resolve scan 39's ornate title from enlarged/native source rather than guessing it from context.
+4. Verify all text, speaker labels, stage directions, punctuation, physical word splits, pagination and image/caption layers for the complete scene.
+5. Promote each physical page independently to `verified` only after direct comparison.
+6. Do not begin scene assembly or English translation yet.
