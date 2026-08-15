@@ -29,9 +29,9 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 23 | — | scene 4 | continuation / close | verified | Complete dialogue/stage text verified; coastal photograph captioned `காவிரி — கடலில் கலக்கும் காட்சி`; no printed page number; closes scene 4 before scan 24 / `காட்சி-5`. |
 | 24 | 8 | scene 5 | scene opening | verified | `காட்சி-5`; `சிலம்பின் தோற்றம்`; setting `சேரநாடு`; complete two-column text and mountain-gifts list verified; small uncaptioned deer illustration; printed page `8`. |
 | 25 | 2 | scene 5 | continuation / close | verified | Complete continuation and transition toward பூம்புகார் verified; large uncaptioned ascetic figure. Native scan visibly prints lower-left numeral `2`; preserved as an anomalous source marker rather than normalized to expected sequence. Closes scene 5 before scan 26 / `காட்சி-6`. |
-| 26 | — | scene 6 | scene opening | needs-review | `காட்சி-6`; ornate title provisionally read `பூம்புகார்ப் பொற்றொடி`; large couple illustration. |
-| 27 | — | scene 6 | continuation | needs-review | `ஆடல், பாடல்` passage; large dancer illustration. |
-| 28 | 12 | scene 6 | continuation | needs-review | Dense two-column dialogue; small ship illustration. |
+| 26 | — | scene 6 | scene opening | verified | `காட்சி-6`; ornate title verified as `பூம்புகார்ப் பொற்றொடி`; complete two-column narration verified; large uncaptioned woman-and-man illustration; no printed page number. |
+| 27 | — | scene 6 | continuation | verified | `ஆடல், பாடல்` passage, source form `[சாத்தனூரின் குரல் தொடர்கிறது]`, Kannagi/coastal-arrival narration and dialogue verified; large uncaptioned dancer illustration; no printed page number. |
+| 28 | 12 | scene 6 | continuation / close | verified | Dense two-column Kannagi–Kovalan–Greek elder dialogue verified; printed page `12`; small uncaptioned ship illustration; closes scene 6 before scan 29 / `காட்சி-7`. |
 | 29 | — | scene 7 | scene opening | needs-review | `காட்சி-7`; `கலைக்கரசி மாதவி`; subheading `முத்துப் பந்தல்`; large court/dancer illustration. |
 | 30 | — | scene 7 | pictorial / caption | needs-review | Archaeological/object reproductions, elephant drawing and short `பூம்புகார்` caption. |
 | 31 | 15 | scene 7 | continuation | needs-review | Dialogue around central statue photograph. |
@@ -60,6 +60,6 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–25 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-5**. Scans **26–39** have individual page records and direct visual source mapping but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped.
+Scans **1–28 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-6**. Scans **29–39** have individual page records and direct visual source mapping but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped.
 
-Detailed verification proceeds by **complete scene where practical**, while retaining one source record per physical scan. Next: **காட்சி-6, scans 26–28**.
+Detailed verification proceeds by **complete scene where practical**, while retaining one source record per physical scan. Next: **காட்சி-7, scans 29–32**.
