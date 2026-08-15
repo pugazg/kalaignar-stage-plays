@@ -36,9 +36,9 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 30 | — | scene 7 | pictorial / caption | verified | Pictorial source page; exact caption verified as `“பூம்புகார்” அகழ்வாராய்ச்சியில் கிடைத்த / யானச்சின்னம் பொறிக்கப்பட்ட / கரிகாலன் காலத்துக் காசுகள்.`; no printed page number. |
 | 31 | 15 | scene 7 | continuation | verified | Complete dense dialogue around an uncaptioned sculptural photograph verified; printed page `15`; preserves forms including `கணவனுகலாம்`, `இளவெட்டு`, and `கிழட்டுப் பூனை`. |
 | 32 | 16 | scene 7 | continuation / close | verified | Complete dialogue/stage text verified around an uncaptioned circular dancing-figure sculpture photograph; printed page `16`; closes scene 7 before scan 33 / `காட்சி-8`. |
-| 33 | — | scene 8 | scene opening | needs-review | `காட்சி-8`; `கண்ணகி இல்லறம்`; `கோவலன் வீடு--பள்ளியறை`; two lower photographs. |
-| 34 | 18 | scene 8 | continuation | needs-review | Dialogue with jewel/ornament and lotus illustrations. |
-| 35 | — | scene 8 | continuation / close | needs-review | Dialogue plus large standing-woman illustration. |
+| 33 | — | scene 8 | scene opening | verified | `காட்சி-8`; `கண்ணகி இல்லறம்`; setting `கோவலன் வீடு:—பள்ளியறை`; complete two-column Kannagi–Kovalan dialogue verified; two uncaptioned lower figure/statue photographs; no printed page number. |
+| 34 | 18 | scene 8 | continuation | verified | Complete family/household dialogue and stage directions verified; printed page `18`; uncaptioned ornament/jewel-like and lotus illustrations. |
+| 35 | — | scene 8 | continuation / close | verified | Complete reconciliation dialogue verified; large uncaptioned standing-woman illustration; no printed page number; closes scene 8 before scan 36 / `காட்சி-9`. |
 | 36 | — | scene 9 | scene opening | needs-review | `காட்சி-9`; stylized title provisionally read `பிரிவினை தந்த பேதை`; `கண்ணகி-கோவலன்-கட்டில் அறை`. |
 | 37 | — | scene 9 | continuation | needs-review | Dialogue around large brick-shrine photograph with parenthetical caption mentioning `பூம்புகார்`. |
 | 38 | 22 | scene 9 | continuation / close | needs-review | Dialogue plus central statue photograph. |
@@ -60,6 +60,6 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–32 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-7**. Scans **33–39** have individual page records and direct visual source mapping but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped.
+Scans **1–35 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-8**. Scans **36–39** have individual page records and direct visual source mapping but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped.
 
-Detailed verification proceeds by **complete scene where practical**, while retaining one source record per physical scan. Next: **காட்சி-8, scans 33–35**.
+Detailed verification proceeds by **complete scene where practical**, while retaining one source record per physical scan. Next: **காட்சி-9, scans 36–38**.
