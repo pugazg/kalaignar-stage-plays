@@ -33,23 +33,23 @@ This includes the complete front matter/prefaces and **காட்சி-1 thro
 
 Individual structural records exist through scan **45**. Scans 44–45 remain `needs-review`.
 
-## Newly completed activity — காட்சி-12, scan 43
+## Newly completed / corrected activity — காட்சி-12, scan 43
 
 ### Scan 43 — `pages/0043.md`
 
 - `காட்சி-12`.
-- Enlarged/native inspection confirms the decorative title **`இரு வாழ்விலும் கோவலன்`**.
+- Enlarged Tamil-source inspection confirms the decorative title **`இன்ப வாழ்வில் கோவலன்`**. The earlier repository reading `இரு வாழ்விலும் கோவலன்` was incorrect and has been replaced.
 - Setting heading: **`மாதவி வீடு`**.
 - Printed page marker: **`27`** at lower right.
 - This is a one-scan scene; scan 44 directly begins `காட்சி-13`.
 - Complete two-column dramatic text is verified.
-- Madhavi strings a garland while Kovalan watches her fingers; Kovalan gives a long poetic description of her beauty; the garland is first placed on Kovalan and then transferred to Madhavi.
-- Preserve the physical cross-column transition in Kovalan's long speech: the left column ends at `அலை-` and the right column resumes `வதுபோல்...`.
-- Preserve source-supported unusual forms/punctuation including `சேற் / கெண்டை`, `இருண்டு-கண்பறிக்கும்`, `வித்ததினிலே`, `யாரு / மில்ல !......`, `மன்னு!...`, and the visibly printed `ஏற்பட்ட / டும்!......`.
-- Preserve physical source splits including `தொடுத்துக்கொண்டிருக் / கிறாள்`, `பார்த்துக்கொண் / டிருக்கிறான்`, `படைக் / கப்பட்டவள்`, `மேனி / யிலே`, `கண்ணுடிப் / பேழைக்குள்`, `கரு / வற்ற`, `பலாச்சுளைப் / போல்`, `கார / ணத்தால்`, `மொழி / வளத்தைப்`, `தொடுப் / பது`, `உண்டா / கிறது`, and `இருப்ப / தால்`.
-- The lower-centre peacock illustration is uncaptioned; do not infer symbolic meaning or a character identity from it.
-
-Verification used the controlling Tamil scan rendered at enlarged 400-ppi resolution with targeted crops for the title, dense dialogue and difficult source forms. The published English translation was not used to settle Tamil readings.
+- Preserve the source's `மால்` in `மாதவி மால் தொடுத்துக்கொண்டிருக் / கிறாள்` and later `மலர் எடுத்து மால் தொடுப் / பது`; do not normalize either to `மாலை`.
+- Preserve `கலை / யழகைக்`, not the earlier erroneous `கவி / யழகைக்`.
+- Preserve `சேற் / கெண்டை செவ்விதழ்போல்`, `வித்தினிலே`, and `மால்க்கும்` exactly as supported by the scan.
+- The long Kovalan description crosses the source column boundary: left column ends **`அசி`**, right column resumes **`வதுபோல்...`**. Together this reads `அசிவதுபோல்`; do not restore the earlier erroneous `அலை-`.
+- Other source-specific forms include `இருண்டு-கண்பறிக்கும்`, `யாரு / மில்ல !......`, `மன்னு !...`, and the physical `ஏற்பட் / டும்!......` split.
+- The lower-centre peacock illustration is uncaptioned; do not infer symbolic meaning or character identity.
+- The user-supplied published English translation's contents gives scene 12 as “Kovalan in Newfound Joy”. This is secondary corroboration only; the corrected Tamil title is supported directly by the enlarged Tamil source.
 
 ## Forward mapped pages
 
