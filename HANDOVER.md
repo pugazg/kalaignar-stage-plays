@@ -27,44 +27,50 @@ Source facts:
 
 ## Current verification checkpoint
 
-Scans **1–20 are fully verified**.
+Scans **1–23 are fully verified**.
 
-This includes the title/front matter, Anna's `அணிந்துரை`, Karunanidhi portrait page, Kalaignar's complete introductory/prefatory section through printed page `xvi`, and **காட்சி-1 through காட்சி-3**.
+This includes the title/front matter, Anna's `அணிந்துரை`, Karunanidhi portrait page, Kalaignar's complete introductory/prefatory section through printed page `xvi`, and **காட்சி-1 through காட்சி-4**.
 
-## Newly completed activity — காட்சி-3, scans 19–20
+## Newly completed activity — காட்சி-4, scans 21–23
 
-### Scan 19 — `pages/0019.md`
+### Scan 21 — `pages/0021.md`
 
-- Scene marker: `காட்சி-3`.
-- Enlarged direct inspection corrected the earlier provisional title `விழாவும் விளாவும்` to **`விழாவும் வினாவும்`**.
-- Setting heading: `சேரன் அரண்மனை`.
-- Complete opening stage direction and `நெடுஞ்சேரலாதன்` speech are transcribed and verified.
-- No printed page number is visible; none is inferred.
-- Source-supported forms include `மிக்க அழகுற`, `நற்சோணையும்`, `சேர நன்னாட்டின்`, `தம்பியுடையான் படைக்கஞ்சான்`, `என்னருஞ் செல்வனை`, and the physical split `நன் / ஞாளில்!`.
-- Large man-and-woman line-art illustration plus hanging-lamp-like decoration are recorded as image layers; no caption/identity is inferred.
+- `காட்சி-4`
+- Decorative title: `இளங்கோ துறவு`.
+- Setting heading: `சேரலாதன் மாளிகை`.
+- Complete dramatic text verified against enlarged source.
+- No printed page number is visible.
+- Large full-height male illustration is uncaptioned; do not identify it by inference.
+- Preserve source forms including `பிறக்கவில்லை / யென்று`, `உரியதாகட் / டும்`, `படைத் தள / பதியாக`, `தாய்மையுள்ளங்`, `இளங்கோவடிகளாக மாறி நிற்கிறான்!`, and `துறவுக் கோலம்!....`.
 
-### Scan 20 — `pages/0020.md`
+### Scan 22 — `pages/0022.md`
 
-- Continues and closes `காட்சி-3`.
-- Printed page marker: `4` at lower left.
-- Complete two-column dialogue and bracketed action text verified.
-- Speaker labels include `நிமித்திகன்`, `சேரலாதன்`, `அவையோர்`, and abbreviated `இளங்`.
-- Preserve source forms exactly, including `முடியினையும் உரிமை`, `விதி புனையும்`, the visibly printed `வேறுக இருக்கிறது!`, `சேர மண்டிலத்தை`, `ஆளுவனும்...`, `பொய்க் காது`, `உண்மைக் காது!....`, and `நிமித்திகரே,பழைய`.
-- The quoted குறள் wording is preserved exactly as printed on this scan; do not correct it from another edition.
-- The closing bracketed action has இளங்கோ leave the hall and ends with the royal couple looking at one another `வேதனையோடு!`.
-- Small ornamental throne/royal-seat-like illustration near the lower centre has no caption.
+- Continues `காட்சி-4` in two columns below a large uncaptioned group illustration.
+- Printed page marker: `6` at lower left.
+- Complete dialogue/stage text verified with enlarged 400/800-ppi inspection and targeted 1200-ppi checks.
+- Preserve the visibly printed physical forms `வேந்த / னுக` and `வஞ் / சித்திலநகரின்`; do not silently normalize them.
+- The right column begins by continuing `நற்சோணை`'s speech without a newly printed speaker label: `அதோ பார்; உன் அண்ணி...`.
+- Preserve source wording/punctuation including `வேதனைக் களமாகி விடும் தமிழ்நாடு!`, `விதிப்படியே வெற்றி தோல்வி யென`, `விற் / கொடியைப்`, `எடுத்த எடுப்பிலேயே`, and the repeated dotted pauses.
 
-Verification used the controlling scan at enlarged 400-ppi resolution plus targeted larger crops. The published English translation was not used to settle Tamil readings.
+### Scan 23 — `pages/0023.md`
+
+- Continues and closes `காட்சி-4`.
+- No printed page number is visible.
+- Farewell sequence: `அப்பா!...`, `அம்மா!...`, `அண்ணி!...`, `அண்ணா!...`, `வருகிறேன்.......`.
+- Long bracketed narrative crosses the column boundary and closes after `எதிரே நிமித்திகன் வருகிறான்.]`.
+- Later dialogue uses full `நிமித்திகன்` plus abbreviated `நிமித்` and `இளங்` speaker labels.
+- Scene closes with `[திகைத்து நிற்கும் நிமித்திகரோடு காட்சி முடிகிறது.]`.
+- Lower-right photograph has the exact printed caption `காவிரி — கடலில் கலக்கும் காட்சி`; keep this caption distinct from the dramatic text.
 
 ## Structural batch state
 
-Scans **10–39 inclusive** were previously directly inspected and individually represented. Scans **10–20** have now been upgraded to `verified`. Scans **21–39** remain `needs-review` until their full Tamil text, headings, stage directions, captions and source marks are checked character by character.
+Scans **10–39 inclusive** were previously directly inspected and individually represented. Scans **10–23** have now been upgraded to `verified`. Scans **24–39** remain `needs-review` until their complete Tamil text, headings, stage directions, captions and source marks are checked character by character.
 
 The dramatic body is structurally mapped through `காட்சி-10`.
 
 ## Working-unit decision
 
-From this checkpoint, detailed verification should proceed by **one complete scene per activity where practical**, while preserving one independent archival page record per physical scan. Split a scene only when length or source difficulty makes that necessary.
+Detailed verification proceeds by **one complete scene per activity where practical**, while preserving one independent archival page record per physical scan. Split a scene only when length or source difficulty makes that necessary.
 
 ## Published English translation witness — future phase
 
@@ -72,11 +78,11 @@ The user supplied `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf`, re
 
 ## Next activity
 
-Process **காட்சி-4 across scans 21–23 as one complete activity**.
+Process **காட்சி-5 across scans 24–25 as one complete activity**.
 
-1. Verify scan 21's `காட்சி-4` heading/title and the setting heading currently mapped as `சேரலாதன் மாளிகை`.
-2. Transcribe and verify all text on scans 21, 22 and 23, including speaker labels, stage directions, punctuation, physical word splits, printed pagination and any photograph/illustration captions.
-3. Keep images/captions distinct from dramatic text and do not identify uncaptioned figures by inference.
-4. Promote each scan independently to `verified` only after direct enlarged comparison.
-5. Confirm scan 23 closes scene 4 before moving to `காட்சி-5`.
-6. Do not begin scene assembly or English translation until the underlying Tamil page records are verified.
+1. Verify scan 24's `காட்சி-5`, title `சிலம்பின் தோற்றம்`, and setting `சேரநாடு`.
+2. Transcribe and verify all text on scans 24 and 25, including speaker labels, stage directions, punctuation, physical word splits, printed pagination and illustration layers.
+3. Resolve the lower-left numeral on scan 25 only from enlarged direct inspection; do not infer it from pagination sequence.
+4. Keep uncaptioned images distinct from dramatic text and do not identify figures by inference.
+5. Confirm scan 25 closes scene 5 before moving to `காட்சி-6`.
+6. Do not begin English translation until the Tamil transcription/audit is complete.
