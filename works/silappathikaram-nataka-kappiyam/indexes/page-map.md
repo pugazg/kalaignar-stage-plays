@@ -8,7 +8,7 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 2 | — | front matter | photograph / caption | verified | Anna photograph / `அணிந்துரை`; library/copy marks separated. |
 | 3 | iii | Anna foreword | foreword | verified | Opening prose. |
 | 4 | iv | Anna foreword | foreword | verified | Foreword continuation. |
-| 5 | — | Anna foreword | foreword | verified | No page marker inferred. |
+| 5 | — | Anna foreword | foreword | verified | No `v` inferred. |
 | 6 | vi | Anna foreword | foreword | verified | Foreword continuation. |
 | 7 | — | Anna foreword | foreword | verified | No `vii` inferred. |
 | 8 | viii | Anna foreword | foreword | verified | Foreword continuation. |
@@ -42,10 +42,10 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 36 | — | scene 9 | scene opening | verified | `காட்சி-9`; `பிரிவினை தந்த பேதை`; exact setting `கண்ணகி.கோவலன்—கட்டில் அறை`. |
 | 37 | — | scene 9 | continuation | verified | Exact photograph caption `(சம்பாபதி கோயில் — பூம்புகார்)`; complete dialogue verified. |
 | 38 | 22 | scene 9 | continuation / close | verified | Complete dialogue/stage directions verified; closes scene 9. |
-| 39 | — | scene 10 | scene opening | verified | `காட்சி-10`; ornate title verified as `கலையரசி கண்ட உவகை`; setting `மாதவி இல்லம்`; complete stage prose verified; circular library stamp separated from publication text. |
-| 40 | 24 | scene 10 | continuation / close-text | verified | Complete dance/collapse and Kovalan–Madhavi dialogue verified; printed page `24`; final literary-text scan of scene 10. |
-| 41 | — | scene 10 | pictorial / final physical scan | verified | Full-page uncaptioned sculptural photograph/reproduction; no printed text or page number; scan 42 begins scene 11. |
-| 42 | 26 | scene 11 | scene opening | needs-review | `காட்சி-11`; title provisionally read `கற்பரசியின் கலக்கம்`; setting `கண்ணகி வீடு`; full text pending enlarged verification. |
+| 39 | — | scene 10 | scene opening | verified | `காட்சி-10`; title `கலையரசி கண்ட உவகை`; setting `மாதவி இல்லம்`; complete stage prose verified; circular library stamp separated. |
+| 40 | 24 | scene 10 | continuation / close-text | verified | Complete dance/collapse and Kovalan–Madhavi dialogue verified; final literary-text scan of scene 10. |
+| 41 | — | scene 10 | pictorial / final physical scan | verified | Full-page uncaptioned sculptural photograph/reproduction; scan 42 begins scene 11. |
+| 42 | 26 | scene 11 | scene opening / close | verified | `காட்சி-11`; enlarged title verified as `கற்பரசியின் கலக்கம்`; setting `கண்ணகி வீடு`; complete two-column text and lower-centre uncaptioned illustration verified; scan 43 begins scene 12. |
 | 43 | 27 | scene 12 | scene opening | needs-review | `காட்சி-12`; decorative title intentionally unresolved pending enlarged audit; setting `மாதவி வீடு`; peacock illustration. |
 | 44 | — | scene 13 | scene opening | needs-review | `காட்சி-13`; title provisionally read `துன்பப் புயலில் கண்ணகி`; setting `கண்ணகி வீடு`; large uncaptioned photograph/reproduction. |
 | 45 | — | scene 13 | continuation | needs-review | Dense two-column continuation with lower-right uncaptioned sculptural photograph/reproduction. |
@@ -66,8 +66,8 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–41 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-10**.
+Scans **1–42 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-11**.
 
-Scans **42–45** have been individually structurally mapped while locating the scene-10 boundary and remain `needs-review`. The next complete-scene verification target is **காட்சி-11 on scan 42**; scan 43 directly begins `காட்சி-12`.
+Scans **43–45** remain individually structurally mapped at `needs-review`. The next complete-scene verification target is **காட்சி-12 on scan 43**; scan 44 directly begins `காட்சி-13`.
 
 Detailed verification continues by **complete scene where practical**, while retaining one source record per physical scan.
