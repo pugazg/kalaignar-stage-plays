@@ -18,7 +18,8 @@ This repository preserves this scanned edition as supplied. The PDF itself is no
 - Scans 21–23: complete **காட்சி-4**, **`இளங்கோ துறவு`**; verified; scan 22 printed page `6`; scan 23 includes `காவிரி — கடலில் கலக்கும் காட்சி`.
 - Scans 24–25: complete **காட்சி-5**, **`சிலம்பின் தோற்றம்`**; verified. Scan 24 prints `8`; scan 25 visibly prints anomalous `2`, preserved exactly.
 - Scans 26–28: complete **காட்சி-6**, **`பூம்புகார்ப் பொற்றொடி`**; verified. Scan 28 prints page `12` and closes the scene.
-- Scans 29–39: individually represented and structurally mapped through **காட்சி-10**; currently `needs-review` pending detailed transcription verification.
+- Scans 29–32: complete **காட்சி-7**, **`கலைக்கரசி மாதவி`**, setting **`முத்துப் பந்தல்`**; verified. Scan 30 is a pictorial/caption page; scans 31 and 32 print pages `15` and `16` respectively.
+- Scans 33–39: individually represented and structurally mapped through **காட்சி-10**; currently `needs-review` pending detailed transcription verification.
 - Scan 88 visibly carries **காட்சி-38**.
 
 Scene-title readings are accepted only after direct enlarged visual verification; stylized headings are not guessed from context or from the English translation.
@@ -32,48 +33,61 @@ Scene-title readings are accepted only after direct enlarged visual verification
 | Initial scan survey | Complete |
 | Page map | Expanded individually through scan 39 |
 | Page records | Present for scans 1–39 |
-| Fully verified pages | Scans 1–28 |
+| Fully verified pages | Scans 1–32 |
 | Anna `அணிந்துரை` | Complete and verified |
 | Kalaignar preface | Complete and verified |
-| Dramatic-body detailed verification | `காட்சி-1` through `காட்சி-6` verified |
-| Scans 29–39 | Directly inspected / source-mapped; detailed transcription review pending |
+| Dramatic-body detailed verification | `காட்சி-1` through `காட்சி-7` verified |
+| Scans 33–39 | Directly inspected / source-mapped; detailed transcription review pending |
 | Scene-boundary mapping | Through `காட்சி-10` |
 | Scene assembly | Not started |
 | Full source audit | Not started |
 | English translation | Not started; published translation witness recorded for future collation |
 
-## Latest detailed verification — காட்சி-6
+## Latest detailed verification — காட்சி-7
 
-`காட்சி-6` spans `pages/0026.md` through `pages/0028.md` and is now verified as a complete scene.
+`காட்சி-7` spans `pages/0029.md` through `pages/0032.md` and is now verified as a complete scene.
 
-### Scan 26
+### Scan 29
 
-- Scene marker: `காட்சி-6`.
-- Enlarged inspection confirms the ornate title **`பூம்புகார்ப் பொற்றொடி`**.
-- Complete narration beginning `[சாத்தனார் குரலுடன் பூம்புகார்க் / காட்சிகள்]` is verified.
-- The text describes the இந்திர விழா, பூம்புகார்'s divisions, the `தோரண வாயில்`, `முத்துப் பந்தல்`, `பட்டிமண்டபம்`, and the city's festive display.
+- Scene marker: `காட்சி-7`.
+- Decorative title: **`கலைக்கரசி மாதவி`**.
+- Setting heading: **`முத்துப் பந்தல்`**.
+- Complete dance-stage description, Greek elder/Kovalan exchange, Chola king's verse, royal gifts and the `சுயம்வரம்` announcement are verified.
+- The source-specific verse line **`வாக்கினில் ஆடரங்கின் வந்து!`** is preserved exactly.
+- Other notable forms include `ஆயிரத் தெட்டு கழஞ்சு பொன்` and the visibly printed close `சுயம்வரம் ஏற்பாடு செய்யப்பட்டிருக்கிறது!.`.
 - No printed page number is visible.
-- Large lower woman-and-man illustration is uncaptioned; no identities are inferred.
+- Large lower court/dance illustration is uncaptioned.
 
-### Scan 27
+### Scan 30
 
-- Begins with `ஆடல், பாடல்` and three printed praise lines: `ஞாயிறு`, `திங்கள்`, `மாமழை`.
-- The source visibly prints **`[சாத்தனூரின் குரல் தொடர்கிறது]`**; this form is preserved rather than silently changing it to `சாத்தனாரின்`.
-- Narration introduces கண்ணகி, followed by the ship-arrival sequence, கோவலன் and the Greek elder.
-- Source forms preserved include `ஈகைவான் கொடியன்னாள்`, `போதிலார் திருவினாள்`, `கப்பல். வருங் காட்சி!`, and `அலைகளைப் பொருட்படுத்தாமல்!`.
+- Predominantly pictorial source page within scene 7.
+- Exact printed caption:
+
+  `“பூம்புகார்” அகழ்வாராய்ச்சியில் கிடைத்த`  
+  `யானச்சின்னம் பொறிக்கப்பட்ட`  
+  `கரிகாலன் காலத்துக் காசுகள்.`
+
+- The source visibly prints `யானச்சின்னம்`; it is not normalized.
+- Several object reproductions and an elephant line drawing are present; no unprinted identities are inferred.
 - No printed page number is visible.
-- Large dancer/performer illustration is uncaptioned.
 
-### Scan 28
+### Scan 31
 
-- Printed page marker: `12`.
-- Complete two-column dialogue among `கண்`, `கோவ`, `கோவலன்`, `கண்ணகி`, and `கி. கிழவர்` is verified.
-- Source-specific forms preserved include `நாளத்தான்`, `கிரேக்கத்தில்வாங்கிவந்த`, `கலைஞர்கள் கைபட்டு`, `மறப்பேனு`, `திலசிறந்த`, `கிழவனுகவா`, `கி.கிழவர்:`, `மூவருமேசென்று`, and `நடனமென்றல் ?...`.
-- The quoted `“கண்ணகி பிறந்த தமிழ் / நாடு”` passage and the poetic `கண்ணகி! கயலெழுதி...` lines are preserved exactly as printed.
-- A small ship illustration is uncaptioned.
-- Scan 29 begins `காட்சி-7`, so scan 28 closes `காட்சி-6`.
+- Printed page marker: `15` at lower right.
+- Complete self-choice/marriage-price dialogue around an uncaptioned sculptural photograph is verified.
+- Source forms preserved include `கணவனுகலாம்!...`, `நான் தயார்!......`, `இளவெட்டு!`, `கிழட்டுப் பூனை`, `ஒருவருக் கொருவர்`, and the unspaced `பாற்றுகிறேன்;அதற்கு`.
+- The page ends with Chitrapathi accusing Madhavi of embarrassing her after previously saying she would marry one man.
 
-Verification used the controlling Tamil scan at enlarged 400-ppi resolution with targeted larger crops for difficult readings. The published English translation was not used to settle Tamil text.
+### Scan 32
+
+- Printed page marker: `16` at lower left.
+- Complete continuation and close of scene 7 verified.
+- Source forms preserved include `பெண்ணுகவே`, `கிழவனுக்கு இளங் கிளி`, the split `மால் / களை`, the source construction `கோவலன் போய்விட்டது கண்ட மாதவி`, and `கோவலன் - கண்ணகியும்`.
+- Kovalan answers the Greek elder's challenge by giving an ornament of equivalent value and taking Madhavi's garland; the stage then disperses.
+- A large upper-left circular dancing-figure sculpture photograph is uncaptioned; no identity is inferred.
+- Scan 33 begins `காட்சி-8`, so scan 32 closes `காட்சி-7`.
+
+Verification used the controlling Tamil scan at enlarged 300/600-ppi resolution with targeted crops for dense and stylized readings. The published English translation was not used to settle Tamil text.
 
 ## Detailed-review working unit
 
@@ -81,7 +95,7 @@ Detailed verification proceeds by **one complete scene per activity where practi
 
 ## Batch 10–39
 
-See `BATCH_0010_0039_REVIEW.md` for the structural survey and evolving verification status. Scans 10–28 have now been upgraded to verified.
+See `BATCH_0010_0039_REVIEW.md` for the structural survey and evolving verification status. Scans 10–32 have now been upgraded to verified.
 
 ## Published English translation witness
 
@@ -89,4 +103,4 @@ A user-supplied published English volume is recorded at `metadata/english-transl
 
 ## Next work
 
-Process **காட்சி-7 as one complete activity across scans 29–32**. Verify the `கலைக்கரசி மாதவி` heading/subheading, all dialogue and stage directions, all printed pagination, and the pictorial/caption material on scan 30 before moving to `காட்சி-8`.
+Process **காட்சி-8 as one complete activity across scans 33–35**. Verify the `கண்ணகி இல்லறம்` heading, the setting line, all dialogue/stage directions and all pictorial layers before moving to `காட்சி-9`.
