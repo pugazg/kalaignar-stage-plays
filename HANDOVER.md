@@ -27,25 +27,28 @@ Source facts:
 
 ## Current verification checkpoint
 
-Scans **1–16 are now fully verified**.
+Scans **1–17 are now fully verified**.
 
-This means the title/front matter, Anna's `அணிந்துரை`, Karunanidhi portrait page, and Kalaignar's complete introductory/prefatory section through printed page `xvi` are all represented by character-level checked page records.
+The title/front matter, Anna's `அணிந்துரை`, Karunanidhi portrait page, Kalaignar's complete introductory/prefatory section through printed page `xvi`, and the first dramatic page (`காட்சி-1`) are now represented by character-level checked page records.
 
-### Scan 16 — newly verified
+### Scan 17 — newly verified
 
-`works/silappathikaram-nataka-kappiyam/pages/0016.md`
+`works/silappathikaram-nataka-kappiyam/pages/0017.md`
 
-- Printed page marker: `xvi` at lower left.
-- Contains the final asterisk-led observation begun as part of the adaptation-change series on scan 15.
-- Complete closing prose and acknowledgements were checked against enlarged 400-ppi and targeted 800-ppi source views.
-- Source-supported forms preserved include `சிலம்புகளையுந்தான்`, `யிருக்காது`, `கண்டிருக்கமுடியாது`, `ஒற்றைச்சிலம்பு`, `அச்சியற்றிய`, `அவர்கட்கும்`, `என்னருந்தலைவர்`, and the visibly printed `தலதாழ்ந்த`.
-- Physical word splits retained include `வாங்கு / வது`, `உரு / வாக்கிய`, and `வெளியீட் / டார்க்கும்`.
-- The acknowledgements visibly name `டி. ஜி. நாராயணசாமி`, `பி. என். கே.`, `ஐடியல் அச்சகத்தார்`, artists `அமுதன்` and `விஜயா`, archaeological-department director `திரு. நாகசாமி`, `அஞ்சுகம் வெளியீட்டார்`, and `ஆனந்தம்`, `கோபாலசாமி`, `தினகரன்`.
-- The page closes with `அன்புடன்,` above a large facsimile signature. The signature remains image evidence rather than conjectural typed text.
+- Scene marker: `காட்சி-1`.
+- Decorative title confirmed at enlarged resolution as `வஞ்சி மூதூரில் முரசறைதல்`.
+- No printed page number is visible; none is inferred.
+- The page uses two dramatic-text columns beneath the ornate title.
+- Left column: bracketed opening stage description beginning `சேர நாட்டுத் தலை நகரான வஞ்சி மூதூரில்...` and ending `முழக்குகிறான் பூரிப்போடு!`.
+- Right column: `முரசறைவோன் :` proclamation beginning `வாழ்க தமிழ்! வெல்க...` and ending `செந்தமிழர் தாயகம்!`, followed by `[முரசு முழங்குகிறது]`.
+- Source forms/punctuation preserved include `தலை நகரான`, `ஆனை`, `அறிவிப்பு!....`, `இமிழ் கடல் வேலித் தமிழகம்`, the visibly printed `விற்கொடி. நாட்டிய`, and `பூரிப்போடு!`.
+- Physical printed word splits retained include `இருக் / கிறது`, `வேலைப் / பாடமைந்த`, `காணப் / படுகிறது`, `தமி / ழகம்`, and `சேர / லாதர்`.
+- The lower half contains a large grayscale printed image of a female figure/bust. There is no visibly printed caption on this scan, so no identity is inferred.
+- Verification used the source scan plus enlarged 400-ppi and targeted 800-ppi views. The published English translation was not used to settle Tamil readings.
 
 ## 30-page structural batch state
 
-Scans **10–39 inclusive** were previously directly inspected and individually represented. Scans 10–16 have now been upgraded to `verified` during the detailed review pass. Scans 17–39 remain `needs-review` until their complete Tamil dialogue, headings, stage directions and illustrations/captions are enlarged and checked character by character.
+Scans **10–39 inclusive** were previously directly inspected and individually represented. Scans 10–17 have now been upgraded to `verified` during the detailed review pass. Scans 18–39 remain `needs-review` until their complete Tamil dialogue, headings, stage directions and illustrations/captions are enlarged and checked character by character.
 
 The dramatic body from scans 17–39 is mapped through `காட்சி-10`, but scene assembly must not begin from pages still marked `needs-review`.
 
@@ -55,10 +58,9 @@ The user supplied `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf`, re
 
 ## Next activity
 
-1. Begin detailed verification of **scan 17 / காட்சி-1**.
-2. Enlarge the decorative heading before accepting or correcting the provisional scene-title reading.
-3. Transcribe the complete printed text, including stage directions, paragraphing, punctuation and any printed caption associated with the lower illustration.
-4. Keep illustration/image evidence distinct from dramatic text.
-5. Promote scan 17 to `verified` only after complete character-level comparison.
-6. Continue sequentially through scans 18–39 before scene assembly.
-7. Do not begin English translation until Tamil transcription/audit is complete.
+1. Process **scan 18 / காட்சி-2**, visibly carrying printed page `2`.
+2. Verify the heading `செங்குட்டுவன் பிறந்தநாள் விழா` at enlarged/native resolution.
+3. Transcribe the complete two-column dialogue/stage text, speaker labels, punctuation, physical word splits and any illustration/caption evidence exactly.
+4. Promote scan 18 to `verified` only after complete character-level comparison.
+5. Continue sequentially through scans 19–39 before scene assembly.
+6. Do not begin English translation until Tamil transcription/audit is complete.
