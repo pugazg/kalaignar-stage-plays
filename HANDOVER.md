@@ -27,24 +27,23 @@ Source facts:
 
 ## Current verification checkpoint
 
-Scans **1–11 are now fully verified**.
+Scans **1–12 are now fully verified**.
 
-### Scan 11 — newly verified
+### Scan 12 — newly verified
 
-`works/silappathikaram-nataka-kappiyam/pages/0011.md`
+`works/silappathikaram-nataka-kappiyam/pages/0012.md`
 
-- Upper portion: black-and-white coastal/settlement photograph associated with பூம்புகார்.
-- Lower portion: complete opening author-preface prose transcribed and checked against an enlarged 300-ppi render.
-- Opening: `பூம்புகார் - இதுதான் இன்றைய பூம்புகார் - ...`
-- Source-specific material preserved includes `காவிரிப்பூம் / பட்டினத்துக்`, `தென்மாரி பொழிகின்ற தீந்தமிழ் இலக்கிய`, `அவந்திநன்னன்`, `வச்சிரநாட்டு`, `முத்துப்பந்தர்`, `பட்டிமண்டபம்`, and `தாழாது - தாழாது!`.
-- No printed page number is visible; none is inferred.
-- Final printed line ends with `இமயம்`; the sentence continues on scan 12 and is deliberately not completed inside scan 11.
+- Printed page marker: `xii` at lower left.
+- Complete visible prose plus both indented/verse-like passages transcribed and checked against an enlarged 400-ppi render.
+- The page begins by physically continuing scan 11's terminal `இமயம்` with `சென்று கண்ணகிக்குச்...`; this cross-page sentence is not silently joined inside either page record.
+- Source forms preserved include `தமிழ்மீதுள்ள`, `நலங்`, `தொண்டர்க்குத் தொண்டனுடைய`, `ஈழத் துணவும்`, `காழகத் தாக்கமும்`, `திருவிடைக் கழி`, `குராப் பள்ளி`, and `பாடி யிருக்கிறார்`.
+- The final quotation ends physically at `நீவிர் இரு பெருந்` and continues on scan 13; it is deliberately not completed from context in scan 12.
 
 ## 30-page structural batch state
 
-Scans **10–39 inclusive** were previously directly inspected and individually represented. Scan 10 was already verified. Scans 12–39 remain `needs-review` until their complete Tamil text is enlarged and checked character by character.
+Scans **10–39 inclusive** were previously directly inspected and individually represented. Scans 10–12 are now verified. Scans 13–39 remain `needs-review` until their complete Tamil text is enlarged and checked character by character.
 
-Visible Roman pagination in the remaining preface includes scan 12=`xii`, scan 14=`xiv`, scan 15=`xv`, scan 16=`xvi`. Scan 16 closes with `அன்புடன்,` and facsimile signature.
+Visible Roman pagination in the remaining preface includes scan 14=`xiv`, scan 15=`xv`, scan 16=`xvi`. Scan 16 closes with `அன்புடன்,` and facsimile signature.
 
 The dramatic body from scans 17–39 is mapped through `காட்சி-10`, but scene assembly must not begin from pages still marked `needs-review`.
 
@@ -54,9 +53,10 @@ The user supplied `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf`, re
 
 ## Next activity
 
-1. Process **scan 12** in the detailed transcription-review pass.
-2. Verify the visible printed page marker `xii`.
-3. Preserve the continuation from scan 11 exactly as printed and transcribe the centred verse-like passage without modernization.
-4. Promote scan 12 to `verified` only after complete character-level comparison.
-5. Continue sequentially through scans 13–39 before scene assembly.
-6. Do not begin English translation until Tamil transcription/audit is complete.
+1. Process **scan 13** in the detailed transcription-review pass.
+2. Begin with the continuation of scan 12's unfinished quotation and preserve its exact page boundary.
+3. Verify every printed line, punctuation mark and paragraph at enlarged/native resolution.
+4. Do not infer a page number for scan 13 unless one is directly visible.
+5. Promote scan 13 to `verified` only after complete character-level comparison.
+6. Continue sequentially through scans 14–39 before scene assembly.
+7. Do not begin English translation until Tamil transcription/audit is complete.
