@@ -15,7 +15,7 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 9 | — | Anna foreword | foreword conclusion | verified | Closes with `அன்பன்,` and facsimile signature. |
 | 10 | — | front matter | author photograph / caption | verified | Full-page portrait of M. Karunanidhi; caption recorded in `pages/0010.md`. |
 | 11 | — | author preface | text + photograph | verified | Coastal photograph above opening prefatory prose; complete text checked at enlarged 300-ppi resolution; final line ends `இமயம்` and continues on scan 12. |
-| 12 | xii | author preface | text | needs-review | Prose with centred verse-like passage. |
+| 12 | xii | author preface | text | verified | Complete prose and two verse-like passages checked at enlarged 400-ppi resolution; final quotation ends physically at `நீவிர் இரு பெருந்` and continues on scan 13. |
 | 13 | — | author preface | text | needs-review | Dense prose continuation; no pagination inferred. |
 | 14 | xiv | author preface | text | needs-review | Prose plus inset/verse-like and list-like passages. |
 | 15 | xv | author preface | text | needs-review | Prose plus asterisk-led points. |
@@ -60,4 +60,4 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–11 are verified**. Scans **12–39** have individual page records and direct visual source mapping, but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped. Continue next with **scan 12**.
+Scans **1–12 are verified**. Scans **13–39** have individual page records and direct visual source mapping, but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped. Continue next with **scan 13**.
