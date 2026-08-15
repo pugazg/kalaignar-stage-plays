@@ -12,8 +12,8 @@ This repository preserves this scanned edition as supplied. The PDF itself is no
 
 - Scan length: **88 pages**.
 - Scans **1–16**: front matter, Anna's `அணிந்துரை`, author portrait and Kalaignar's complete prefatory material; verified.
-- Scans **17–41**: detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-10**.
-- Scans **42–45**: individually mapped while locating the scene-10 boundary; currently `needs-review`.
+- Scans **17–42**: detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-11**.
+- Scans **43–45**: individually mapped and currently `needs-review`.
 - Scan **88** visibly carries `காட்சி-38`.
 
 Scene-title readings are accepted only after direct enlarged visual verification; stylized headings are not guessed from context or from the English translation.
@@ -27,51 +27,36 @@ Scene-title readings are accepted only after direct enlarged visual verification
 | Initial scan survey | Complete |
 | Page map | Individual records through scan 45 |
 | Page records | Present through scan 45 |
-| Fully verified pages | **Scans 1–41** |
+| Fully verified pages | **Scans 1–42** |
 | Anna `அணிந்துரை` | Complete and verified |
 | Kalaignar preface | Complete and verified |
-| Dramatic-body detailed verification | **காட்சி-1 through காட்சி-10 verified** |
-| Scans 42–45 | Structurally mapped; `needs-review` |
+| Dramatic-body detailed verification | **காட்சி-1 through காட்சி-11 verified** |
+| Scans 43–45 | Structurally mapped; `needs-review` |
 | Scene assembly | Not started |
 | Full source audit | Not started |
 | English translation | Not started; published translation witness recorded for future collation |
 
-## Latest detailed verification — காட்சி-10
+## Latest detailed verification — காட்சி-11
 
-`காட்சி-10` spans physical scans **39–41**.
+`காட்சி-11` is a one-scan scene on **scan 42 / `pages/0042.md`**.
 
-### Scan 39 — `pages/0039.md`
+- Scene marker: `காட்சி-11`.
+- Enlarged source inspection confirms the decorative title **`கற்பரசியின் கலக்கம்`**.
+- Setting heading: **`கண்ணகி வீடு`**.
+- Printed page marker: **`26`** at lower left.
+- Complete two-column dramatic text is verified: Kannagi waits at the street door for Kovalan; only the cart driver returns, saying Kovalan has not come and has postponed the Rome journey; Devandhi arrives, questions Kannagi and takes her inside.
+- The source's speaker-label variation is preserved: `கண்ணகி`, `கண்`, `வண்டிக்காரன்`, `வண்`, `தேவ`, and `தேவந்தி` all appear as printed.
+- The first right-column line `ஏன் ......என்ன நடந்தது ?` has no repeated speaker label in the source and is therefore not editorially assigned one.
+- Source-supported punctuation/forms preserved include `அவர் எங்கே ?`, `ஆ !...`, `ஒன்றுமில்ல தேவந்தி!......`, `அவர் எங்கே, உன் புருஷன் ?...`, `ஓகோ ...`, `ஆள்மேலே ஆள் விட்டாளே;`, `(இருபொருளில்)`, and `அவமானப்பட்டாளே; ஏன்?....`.
+- Physical source splits include `நின்ற / வாறு`, `வரு / கிறது`, `தேவந்தி / யைப்`, and `அழுகிறாயாக் / கும்`.
+- A small lower-centre moon/cloud-like decorative landscape illustration is uncaptioned; no further identification is inferred.
+- Scan 43 directly begins `காட்சி-12`, confirming scene 11 closes on scan 42.
 
-- Scene marker: `காட்சி-10`.
-- Enlarged source inspection resolves the decorative title as **`கலையரசி கண்ட உவகை`**.
-- Setting heading: **`மாதவி இல்லம்`**.
-- Complete stage prose is verified: Kovalan's arrival, Madhavi's welcome, the shawl spread over muddy water, the garland, entry to the dance hall and dancers gradually withdrawing.
-- A circular library/accession stamp overlaps the upper-right of the ornate heading; it is recorded as later copy evidence and is not merged into the literary text.
-- No printed page number is visible.
-- Large lower-right man/woman illustration is uncaptioned; no identity is inferred.
+Verification used the controlling Tamil scan at enlarged 400-ppi resolution with targeted 2x crops for the heading, dialogue and punctuation. The published English translation was not used to settle Tamil readings.
 
-### Scan 40 — `pages/0040.md`
+## Forward structural mapping
 
-- Printed page marker: **`24`**.
-- Complete dance/collapse sequence and Kovalan–Madhavi dialogue are verified.
-- The source's repeated `ஆடுகிறாள்.` lines, `“தொப்”`, `“தடால்!”`, and unusual forms such as `அது வும்`, `கலை பெண்ணும் அலை`, `மண்ணுளும்`, `கண்ணுளன்`, and `கண்ணு!` are preserved rather than normalized.
-- Madhavi collapses after the dance and the page closes with `[மாதவி அவன் மடியில் மயங்கிச் சாய்கிறாள்]`.
-- A small lower-centre ornamental/conch-like illustration is uncaptioned.
-- This is the final physical scan of scene 10 containing literary text.
-
-### Scan 41 — `pages/0041.md`
-
-- Full-page monochrome photograph/reproduction of a standing sculptural female figure.
-- No printed literary text, caption or page number is visible.
-- No identity is inferred from the image.
-- Scan 42 directly begins `காட்சி-11`, confirming scan 41 as the final physical scan associated with scene 10.
-
-Verification used the controlling Tamil scan at enlarged resolution with targeted crops for the stylized heading and dense text. The published English translation was not used to settle Tamil readings.
-
-## Forward structural mapping established during scene-10 boundary work
-
-- Scan 42: `காட்சி-11`, printed page `26`, setting `கண்ணகி வீடு`; title provisionally read `கற்பரசியின் கலக்கம்`; `needs-review`.
-- Scan 43: `காட்சி-12`, printed page `27`, setting `மாதவி வீடு`; decorative title deliberately unresolved pending enlargement; `needs-review`.
+- Scan 43: `காட்சி-12`, printed page `27`, setting `மாதவி வீடு`; decorative title unresolved pending enlarged audit; `needs-review`.
 - Scan 44: `காட்சி-13`, setting `கண்ணகி வீடு`; title provisionally read `துன்பப் புயலில் கண்ணகி`; `needs-review`.
 - Scan 45: continuation of `காட்சி-13`; `needs-review`.
 
@@ -85,4 +70,4 @@ A user-supplied published English volume is recorded at `metadata/english-transl
 
 ## Next work
 
-Process **காட்சி-11 on scan 42 as the next complete scene**. Scan 43 directly begins `காட்சி-12`, so scene 11 is a one-scan scene. First verify the ornate title from enlarged source, then transcribe all dialogue/stage directions, printed page `26` and the illustration layer. Do not begin scene assembly or English translation yet.
+Process **காட்சி-12 on scan 43 as the next complete scene**. Scan 44 directly begins `காட்சி-13`, so scene 12 is also a one-scan scene. Resolve its ornate title from enlarged source, then verify all text, printed page `27`, and the peacock illustration layer. Do not begin scene assembly or English translation yet.
