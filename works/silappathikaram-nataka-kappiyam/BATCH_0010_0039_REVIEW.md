@@ -22,7 +22,7 @@ Scans **10 through 39 inclusive** were inspected directly from the controlling P
 | 1 | 17 | verified: `வஞ்சி மூதூரில் முரசறைதல்` |
 | 2 | 18 | verified: `செங்குட்டுவன் பிறந்தநாள் விழா` |
 | 3 | 19 | verified after enlarged correction: `விழாவும் வினாவும்` |
-| 4 | 21 | `இளங்கோ துறவு`; detailed verification pending |
+| 4 | 21 | verified: `இளங்கோ துறவு`; setting `சேரலாதன் மாளிகை` |
 | 5 | 24 | `சிலம்பின் தோற்றம்`; detailed verification pending |
 | 6 | 26 | ornate title provisionally read `பூம்புகார்ப் பொற்றொடி`; requires enlarged audit |
 | 7 | 29 | `கலைக்கரசி மாதவி`; detailed verification pending |
@@ -37,8 +37,11 @@ The original 30-page pass was intentionally structural rather than a claim of ch
 - **Scans 10–16:** verified; portrait/front matter and complete Kalaignar preface.
 - **Scan 17 / காட்சி-1:** verified.
 - **Scan 18 / காட்சி-2:** verified.
-- **Scans 19–20 / காட்சி-3:** verified as a complete scene. Enlarged inspection corrected the provisional scene title from `விழாவும் விளாவும்` to `விழாவும் வினாவும்`.
-- **Scans 21–39:** remain `needs-review` pending full enlarged character-level verification.
+- **Scans 19–20 / காட்சி-3:** verified as a complete scene; enlarged inspection corrected its title to `விழாவும் வினாவும்`.
+- **Scans 21–23 / காட்சி-4:** verified as a complete scene. Scan 22 carries printed page `6`; scan 23 closes the scene and includes the printed photograph caption `காவிரி — கடலில் கலக்கும் காட்சி`.
+- **Scans 24–39:** remain `needs-review` pending full enlarged character-level verification.
+
+The scene-4 verification deliberately preserved difficult source forms including `வேந்த / னுக`, `வஞ் / சித்திலநகரின்`, `வேதனைக் களமாகி விடும் தமிழ்நாடு!`, the repeated dotted pauses in the family farewell passages, and the cross-column bracketed narration on scan 23.
 
 No wording from the published English translation witness has been imported into the Tamil transcription. It remains a later collation source only.
 
@@ -48,8 +51,8 @@ A physical page is promoted to `verified` only after its complete printed Tamil 
 
 ## Working unit for subsequent detailed review
 
-Detailed verification now proceeds by **complete scene where practical**, while every physical scan continues to retain its own `pages/00xx.md` record and independent verification status.
+Detailed verification proceeds by **complete scene where practical**, while every physical scan continues to retain its own `pages/00xx.md` record and independent verification status.
 
 ## Next exact work
 
-Process **காட்சி-4 across scans 21–23 as one activity**. Verify all three physical page records through the scene close before moving to `காட்சி-5`. Do not begin scene assembly or English translation from unverified source pages.
+Process **காட்சி-5 across scans 24–25 as one activity**. Verify both physical page records through the scene close before moving to `காட்சி-6`. Resolve scan 25's lower-left numeral only by direct enlarged inspection. Do not begin English translation from unverified source pages.
