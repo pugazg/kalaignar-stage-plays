@@ -24,9 +24,9 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 18 | 2 | scene 2 | scene opening | verified | `காட்சி-2`; `செங்குட்டுவன் பிறந்தநாள் விழா`; setting `வஞ்சி`; complete two-column dialogue/stage directions checked at enlarged 400/800-ppi resolution; printed page `2`. |
 | 19 | — | scene 3 | scene opening | verified | `காட்சி-3`; stylized title corrected after enlargement to `விழாவும் வினாவும்`; setting `சேரன் அரண்மனை`; complete opening stage direction/dialogue verified; large uncaptioned illustration; no printed page number. |
 | 20 | 4 | scene 3 | continuation / close | verified | Complete two-column dialogue and stage directions verified; printed page `4`; small uncaptioned ornamental illustration; closes scene 3 before scan 21 / `காட்சி-4`. |
-| 21 | — | scene 4 | scene opening | needs-review | `காட்சி-4`; `இளங்கோ துறவு`; headed `சேரலாதன் மாளிகை`; large figure illustration. |
-| 22 | 6 | scene 4 | continuation | needs-review | Group illustration above dialogue. |
-| 23 | — | scene 4 | continuation / close | needs-review | Dialogue plus coastal photograph and small printed caption. |
+| 21 | — | scene 4 | scene opening | verified | `காட்சி-4`; `இளங்கோ துறவு`; setting `சேரலாதன் மாளிகை`; complete dramatic text verified; large uncaptioned male figure; no printed page number. |
+| 22 | 6 | scene 4 | continuation | verified | Complete two-column continuation verified at enlarged 400/800-ppi with targeted 1200-ppi checks; printed page `6`; large uncaptioned group illustration. |
+| 23 | — | scene 4 | continuation / close | verified | Complete dialogue/stage text verified; coastal photograph captioned `காவிரி — கடலில் கலக்கும் காட்சி`; no printed page number; closes scene 4 before scan 24 / `காட்சி-5`. |
 | 24 | 8 | scene 5 | scene opening | needs-review | `காட்சி-5`; `சிலம்பின் தோற்றம்`; headed `சேரநாடு`; deer illustration. |
 | 25 | — | scene 5 | continuation | needs-review | Dialogue plus large ascetic/monk illustration; lower-left numeral not normalized until enlargement. |
 | 26 | — | scene 6 | scene opening | needs-review | `காட்சி-6`; ornate title provisionally read `பூம்புகார்ப் பொற்றொடி`; large couple illustration. |
@@ -60,6 +60,6 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–20 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-3**. Scans **21–39** have individual page records and direct visual source mapping but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped.
+Scans **1–23 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-4**. Scans **24–39** have individual page records and direct visual source mapping but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped.
 
-Detailed verification should now proceed by **complete scene where practical**, while retaining one source record per physical scan. Next: **காட்சி-4, scans 21–23**.
+Detailed verification proceeds by **complete scene where practical**, while retaining one source record per physical scan. Next: **காட்சி-5, scans 24–25**.
