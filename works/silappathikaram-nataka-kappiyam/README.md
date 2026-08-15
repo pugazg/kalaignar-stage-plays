@@ -29,8 +29,8 @@ Scene-title readings will be transcribed only after direct enlarged visual verif
 | Repository bootstrap | Complete |
 | Source identity / checksum | Complete |
 | Initial scan survey | Complete |
-| Page map | Started; scans 1–6 expanded individually |
-| Page-by-page transcription | Started; scans 1–6 verified |
+| Page map | Started; scans 1–7 expanded individually |
+| Page-by-page transcription | Started; scans 1–7 verified |
 | Scene assembly | Not started |
 | Full source audit | Not started |
 | English translation | Not started; published translation witness recorded for future collation |
@@ -42,7 +42,8 @@ Scene-title readings will be transcribed only after direct enlarged visual verif
 - `pages/0003.md` — opening prose page of the `அணிந்துரை`, visibly carrying printed page marker `iii`; complete prose checked against the PDF's native embedded 300-ppi scan image.
 - `pages/0004.md` — continuation of the `அணிந்துரை`, visibly carrying printed page marker `iv` at lower left; complete prose checked against the native embedded scan image.
 - `pages/0005.md` — continuation of the `அணிந்துரை`; no printed page marker is visibly present and none is inferred.
-- `pages/0006.md` — continuation of the `அணிந்துரை`, visibly carrying printed page marker `vi` at lower left. Enlarged 300-ppi inspection was used for difficult readings; source line-break forms such as `சமூகங் / களுக்கிடையேயுள்ள`, `எழுத்தோவி / யத்தில்`, `உரு / வாக்குவதாய்`, and `கொண்ட / வனாய்` are retained.
+- `pages/0006.md` — continuation of the `அணிந்துரை`, visibly carrying printed page marker `vi` at lower left. Enlarged 300-ppi inspection was used for difficult readings and source line-break forms.
+- `pages/0007.md` — continuation of the `அணிந்துரை`; no printed page marker is visibly present, so `vii` is not inferred. Enlarged 300-ppi inspection preserves unusual source readings including `குன்றோபம்`, `கல்லாக்களிமகன்`, `வாளாயிருக்க`, and `கொலு மண்டபம்`.
 
 ## Published English translation witness
 
@@ -54,4 +55,4 @@ It is **Tale of the Anklet and One Act Plays** (Bharathiar University / Macmilla
 
 ## Next work
 
-Continue sequentially from **scan page 7**. Preserve the Anna foreword exactly as printed, including historical spelling, punctuation, paragraphing and any visible page numbering. Keep physical-copy marks separate from printed prose. Do not jump directly to scene assembly before the physical page records exist.
+Continue sequentially from **scan page 8**, visibly carrying printed page `viii`. Preserve the Anna foreword exactly as printed, including historical spelling, punctuation, paragraphing and visible page numbering. Keep physical-copy marks separate from printed prose. Do not jump directly to scene assembly before the physical page records exist.
