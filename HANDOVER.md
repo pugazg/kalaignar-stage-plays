@@ -63,16 +63,21 @@ Continuation of the `அணிந்துரை`; printed page marker `iv` at l
 
 Continuation of the `அணிந்துரை`. No printed page marker is visibly present; do **not** infer `v` from neighbouring pagination.
 
-The page was checked against an enlarged 300-ppi render. Source-supported readings and typography preserved include:
+### Scan 6 — verified
 
-- `கொணர்ந்து`
-- `அந்நாள் நல்வாழ்வை`
-- `தமிழ் ஆளுநிறன்`
-- `செயற்பட்டதாக`
-- doubled question marks in the quoted question
-- `அழகுதரும்`
-- `நிறையுருவைக்`
-- physical line break `அமைக்கப்பட் / டிருக்கிறது!`
+`works/silappathikaram-nataka-kappiyam/pages/0006.md`
+
+Continuation of the `அணிந்துரை`; printed page marker `vi` at lower left.
+
+The page was checked directly against the supplied scan and an enlarged 300-ppi render. Important source-supported readings and typography include:
+
+- `இப்பழியால்`
+- `சுயமரியாதையே`
+- `இன்றமிழ்`
+- `அறிமுகமற்றவனைத்`
+- `திரவியமற்றவனாய்`
+- `புதுவாழ்வைக்காணும்`
+- physical line-break forms `சமூகங் / களுக்கிடையேயுள்ள`, `எழுத்தோவி / யத்தில்`, `உரு / வாக்குவதாய்`, and `கொண்ட / வனாய்`
 
 No library stamp or later handwriting crosses this prose.
 
@@ -103,18 +108,18 @@ Policy: this is a **secondary published translation witness**, not authority for
 
 ## Page-map state
 
-`indexes/page-map.md` records scans 1–5 individually as `verified`. Remaining Anna-foreword startup range is now `6–9`.
+`indexes/page-map.md` records scans 1–6 individually as `verified`. Remaining Anna-foreword startup range is now `7–9`.
 
 ## Exact checkpoint
 
-Scans **1–5 are complete and verified**. No dramatic body page has yet been transcribed.
+Scans **1–6 are complete and verified**. No dramatic body page has yet been transcribed.
 
 ## Next activity
 
-1. Process **scan page 6**, visibly carrying printed page `vi`.
+1. Process **scan page 7**, continuing the Anna foreword.
 2. Preserve every source-supported spelling, punctuation mark and paragraph break.
 3. Use enlarged/native scan inspection where small type is uncertain.
-4. Continue sequentially through scans 7–9 only after each preceding page is visually checked.
+4. Continue sequentially through scans 8–9 only after each preceding page is visually checked.
 5. Expand `indexes/page-map.md` one scan at a time.
 6. Do not assemble scenes yet.
 7. Do not begin English translation yet; retain the published English volume only as a documented future witness until the Tamil archival text is complete and audited.
