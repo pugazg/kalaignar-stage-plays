@@ -29,8 +29,8 @@ Scene-title readings will be transcribed only after direct enlarged visual verif
 | Repository bootstrap | Complete |
 | Source identity / checksum | Complete |
 | Initial scan survey | Complete |
-| Page map | Started; scans 1–3 expanded individually |
-| Page-by-page transcription | Started; scans 1–3 verified |
+| Page map | Started; scans 1–4 expanded individually |
+| Page-by-page transcription | Started; scans 1–4 verified |
 | Scene assembly | Not started |
 | Full source audit | Not started |
 | English translation | Not started |
@@ -40,7 +40,8 @@ Scene-title readings will be transcribed only after direct enlarged visual verif
 - `pages/0001.md` — title / imprint page.
 - `pages/0002.md` — Anna photograph and `அணிந்துரை` caption, with library/copy marks separated from printed text.
 - `pages/0003.md` — opening prose page of the `அணிந்துரை`, visibly carrying printed page marker `iii`; complete prose checked against the PDF's native embedded 300-ppi scan image.
+- `pages/0004.md` — continuation of the `அணிந்துரை`, visibly carrying printed page marker `iv` at lower left; complete prose checked against the native embedded scan image, preserving source-specific forms including `ஒப்புவமையற்ற`, `ஈருடல்`, `காட்டினனே`, `துயரமுள்`, and `இக்கவின்`.
 
 ## Next work
 
-Continue sequentially from **scan page 4**. Preserve the Anna foreword exactly as printed, including historical spelling, punctuation, paragraphing and visible page numbering. Keep physical-copy marks separate from printed prose. Do not jump directly to scene assembly before the physical page records exist.
+Continue sequentially from **scan page 5**. Preserve the Anna foreword exactly as printed, including historical spelling, punctuation, paragraphing and visible page numbering. Keep physical-copy marks separate from printed prose. Do not jump directly to scene assembly before the physical page records exist.
