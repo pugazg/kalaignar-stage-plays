@@ -19,7 +19,7 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 13 | — | author preface | text | verified | Complete prose checked at enlarged 400-ppi resolution; begins by continuing scan 12's quotation and ends physically at `பாண்டி நாட்டுக் கொற்கைப்`; no `xiii` inferred. |
 | 14 | xiv | author preface | text | verified | Complete prose checked at enlarged 400-ppi resolution; inset Korkai quotation and character-transformation list preserved; printed `xiv` at lower left. |
 | 15 | xv | author preface | text | verified | Complete prose and all seven asterisk-led observations checked at enlarged 400-ppi resolution; printed `xv` at lower right. |
-| 16 | xvi | author preface | closing | needs-review | Ends with `அன்புடன்,` and facsimile signature. |
+| 16 | xvi | author preface | closing | verified | Final asterisk-led observation and acknowledgements checked at enlarged 400/800-ppi resolution; closes with `அன்புடன்,` and facsimile signature; printed `xvi` at lower left. |
 | 17 | — | scene 1 | scene opening | needs-review | `காட்சி-1`; decorative title provisionally read `வஞ்சி மூதூரில் முரசறைதல்`; large lower illustration. |
 | 18 | 2 | scene 2 | scene opening | needs-review | `காட்சி-2`; `செங்குட்டுவன் பிறந்தநாள் விழா`; two-column dialogue. |
 | 19 | — | scene 3 | scene opening | needs-review | `காட்சி-3`; stylized title provisionally read `விழாவும் விளாவும்`; large illustration. |
@@ -60,4 +60,4 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–15 are verified**. Scans **16–39** have individual page records and direct visual source mapping, but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped. Continue next with **scan 16**, visibly carrying printed page `xvi` and closing the author's preface with `அன்புடன்,` and a facsimile signature.
+Scans **1–16 are verified**. The complete front matter, Anna `அணிந்துரை`, author portrait and Kalaignar's introductory/prefatory material are now transcribed and verified through the printed `xvi` closing page. Scans **17–39** have individual page records and direct visual source mapping but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped. Continue next with **scan 17 / காட்சி-1**.
