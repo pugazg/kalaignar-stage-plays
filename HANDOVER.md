@@ -8,14 +8,14 @@
 
 Read `STAGE_PLAY_PROCESSING_GUIDE.md` completely before continuing any work.
 
-The supplied scan is the controlling source. Do not silently modernize, correct, normalize, reconstruct or improve the Tamil. OCR is assistive only. Source PDFs are not committed to the repository.
+The supplied Tamil scan is the controlling source. Do not silently modernize, correct, normalize, reconstruct or improve the Tamil. OCR is assistive only. Source PDFs are not committed to the repository.
 
 ## Current work
 
 **சிலப்பதிகாரம் — நாடகக் காப்பியம்**  
 Path: `works/silappathikaram-nataka-kappiyam/`
 
-Source:
+Tamil source:
 
 `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf`
 
@@ -34,77 +34,87 @@ Source facts already recorded:
 
 `works/silappathikaram-nataka-kappiyam/pages/0001.md`
 
-Title / imprint page directly rechecked at enlarged resolution. Important source-specific punctuation preserved exactly:
+Title / imprint page. Important source-specific punctuation preserved exactly:
 
 - lower left: `பதிப்புரிமை ]`
 - lower right: `[ விலை ரூ. 5`
-
-Do not symmetrize or silently repair these brackets.
 
 ### Scan 2 — verified
 
 `works/silappathikaram-nataka-kappiyam/pages/0002.md`
 
-Photograph/caption page. Printed caption preserved as:
-
-`தமிழக முதல்வர்`  
-`பேரறிஞர் அண்ணா`  
-`அணிந்துரை`
-
-Non-authorial marks are recorded separately:
-
-- large circular library/ownership stamp;
-- handwritten accession number `164596` inside the stamp;
-- later pencil/shelf notation at mid-right, first line not secure enough for normalization; second line clearly reads `N67`.
+Anna photograph/caption page. Printed caption preserved separately from library/copy marks.
 
 ### Scan 3 — verified
 
 `works/silappathikaram-nataka-kappiyam/pages/0003.md`
 
-Opening prose page of the `அணிந்துரை`. The lower-right printed page marker is `iii`.
-
-The complete page was checked against the PDF's native embedded scan image (1662 × 2630 pixels, 300 ppi), rather than relying on the lower-resolution render. This resolved and preserved source-supported readings including:
-
-- `இமய உயர்வில்`
-- `கலைகளைப் படைத்த மாதவி!`
-- `இனிய காதலிக் கலையாகிய பெருந்தலைவி`
-- `துயரக் கடலில்`
-- `மலைமலையான பொருளைத் தண்ணீராய்ச் செலவிடும்`
-
-No library stamp or later handwriting crosses the prose on this scan; age staining and speckling are recorded as physical-copy evidence.
+Opening prose page of the `அணிந்துரை`; printed page marker `iii`.
 
 ### Scan 4 — verified
 
 `works/silappathikaram-nataka-kappiyam/pages/0004.md`
 
-Continuation of the `அணிந்துரை`. The printed page marker `iv` appears at the lower left.
+Continuation of the `அணிந்துரை`; printed page marker `iv` at lower left.
 
-The full page was compared directly against the PDF's native embedded scan image. Source-specific wording and typography preserved without normalization include:
+### Scan 5 — verified
 
-- `ஒப்புவமையற்ற`
-- `காழ்ப்பு உணர்ச்சி`
-- `மூழ்கி-ஈருடல்`
-- `காட்டினனே கோவலன்!`
-- `துயரமுள் காட்டில்`
-- `ஐம்பெருங் காப்பியங்களில்`
-- `மாயமந்திர காவியத்தாரிகை`
-- `இக்கவின் தமிழ்க்கதையின்`
+`works/silappathikaram-nataka-kappiyam/pages/0005.md`
 
-No library stamp or later handwriting crosses the prose on this scan; age staining and speckling remain copy/scan evidence.
+Continuation of the `அணிந்துரை`. No printed page marker is visibly present; do **not** infer `v` from neighbouring pagination.
+
+The page was checked against an enlarged 300-ppi render. Source-supported readings and typography preserved include:
+
+- `கொணர்ந்து`
+- `அந்நாள் நல்வாழ்வை`
+- `தமிழ் ஆளுநிறன்`
+- `செயற்பட்டதாக`
+- doubled question marks in the quoted question
+- `அழகுதரும்`
+- `நிறையுருவைக்`
+- physical line break `அமைக்கப்பட் / டிருக்கிறது!`
+
+No library stamp or later handwriting crosses this prose.
+
+## Published English translation witness — future phase
+
+The user supplied:
+
+`TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf`
+
+Recorded in:
+
+`works/silappathikaram-nataka-kappiyam/metadata/english-translation-source.md`
+
+Source facts:
+
+- title: **Tale of the Anklet and One Act Plays**
+- series/display line: **Kalaignar in English Translation**
+- Bharathiar University / Macmillan
+- first published **2009**
+- `Tale of the Anklet` translated by **T. G. Narayanaswamy**
+- `One Act Plays` translated by **M. D. Jayabalan**
+- editors: **P. Marudanayagam** and **V. Murugan**
+- English contents list **38** numbered sections for `Tale of the Anklet`
+- SHA-256 `d1f00bc5738f381fbe9547c718c35d8b73ad5148cbecdd7582bb8797ffe30cdb`
+- 96,518,108 bytes; 158 scan pages
+
+Policy: this is a **secondary published translation witness**, not authority for the Tamil archival text. Do not use it to silently alter Tamil readings. When translation work eventually begins, collate it against the completed verified Tamil transcription, preserve translator choices separately, and respect copyright rather than committing the scanned English book or reproducing it extensively.
 
 ## Page-map state
 
-`indexes/page-map.md` now records scans 1–4 individually as `verified`. The remaining Anna-foreword startup range is now `5–9` and must continue to be expanded one scan at a time.
+`indexes/page-map.md` records scans 1–5 individually as `verified`. Remaining Anna-foreword startup range is now `6–9`.
 
 ## Exact checkpoint
 
-Scans **1–4 are complete and verified**. No dramatic body page has yet been transcribed.
+Scans **1–5 are complete and verified**. No dramatic body page has yet been transcribed.
 
 ## Next activity
 
-1. Process **scan page 5**, continuing the Anna foreword.
-2. Preserve every source-supported spelling, punctuation mark and paragraph break; do not silently regularize wording.
-3. Use the PDF's native embedded scan image when the normal render leaves small type uncertain.
-4. Continue sequentially through scans 6–9 only after each preceding page is visually checked.
+1. Process **scan page 6**, visibly carrying printed page `vi`.
+2. Preserve every source-supported spelling, punctuation mark and paragraph break.
+3. Use enlarged/native scan inspection where small type is uncertain.
+4. Continue sequentially through scans 7–9 only after each preceding page is visually checked.
 5. Expand `indexes/page-map.md` one scan at a time.
-6. Do not assemble scenes yet. Scene assembly begins only after the underlying physical pages are visually transcribed and reviewed.
+6. Do not assemble scenes yet.
+7. Do not begin English translation yet; retain the published English volume only as a documented future witness until the Tamil archival text is complete and audited.
