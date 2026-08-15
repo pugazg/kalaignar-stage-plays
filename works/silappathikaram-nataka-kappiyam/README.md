@@ -29,8 +29,8 @@ Scene-title readings will be transcribed only after direct enlarged visual verif
 | Repository bootstrap | Complete |
 | Source identity / checksum | Complete |
 | Initial scan survey | Complete |
-| Page map | Started; scans 1–7 expanded individually |
-| Page-by-page transcription | Started; scans 1–7 verified |
+| Page map | Started; scans 1–8 expanded individually |
+| Page-by-page transcription | Started; scans 1–8 verified |
 | Scene assembly | Not started |
 | Full source audit | Not started |
 | English translation | Not started; published translation witness recorded for future collation |
@@ -44,6 +44,7 @@ Scene-title readings will be transcribed only after direct enlarged visual verif
 - `pages/0005.md` — continuation of the `அணிந்துரை`; no printed page marker is visibly present and none is inferred.
 - `pages/0006.md` — continuation of the `அணிந்துரை`, visibly carrying printed page marker `vi` at lower left. Enlarged 300-ppi inspection was used for difficult readings and source line-break forms.
 - `pages/0007.md` — continuation of the `அணிந்துரை`; no printed page marker is visibly present, so `vii` is not inferred. Enlarged 300-ppi inspection preserves unusual source readings including `குன்றோபம்`, `கல்லாக்களிமகன்`, `வாளாயிருக்க`, and `கொலு மண்டபம்`.
+- `pages/0008.md` — continuation of the `அணிந்துரை`, visibly carrying printed page marker `viii` at lower left. Enlarged 300-ppi inspection preserves emphatic quotation structure, the physical `கைம் / பெண்` split, and unusual source readings such as `மயிர்க்கூச்செறிகிறது`, `அன்றதும்`, `கருத்தமைதி`, and `உலகமா காவியங்களில்`.
 
 ## Published English translation witness
 
@@ -55,4 +56,4 @@ It is **Tale of the Anklet and One Act Plays** (Bharathiar University / Macmilla
 
 ## Next work
 
-Continue sequentially from **scan page 8**, visibly carrying printed page `viii`. Preserve the Anna foreword exactly as printed, including historical spelling, punctuation, paragraphing and visible page numbering. Keep physical-copy marks separate from printed prose. Do not jump directly to scene assembly before the physical page records exist.
+Continue sequentially from **scan page 9**, the final page of Anna's `அணிந்துரை`, ending with `அன்பன்,` and signature. Preserve the foreword exactly as printed, including historical spelling, punctuation, paragraphing and visible page numbering. Keep physical-copy marks separate from printed prose. Do not jump directly to scene assembly before the physical page records exist.
