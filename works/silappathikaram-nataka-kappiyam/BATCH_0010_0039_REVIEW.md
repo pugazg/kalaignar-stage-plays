@@ -25,7 +25,7 @@ Scans **10 through 39 inclusive** were inspected directly from the controlling P
 | 4 | 21 | verified: `இளங்கோ துறவு`; setting `சேரலாதன் மாளிகை` |
 | 5 | 24 | verified: `சிலம்பின் தோற்றம்`; setting `சேரநாடு` |
 | 6 | 26 | verified after enlarged audit: `பூம்புகார்ப் பொற்றொடி` |
-| 7 | 29 | `கலைக்கரசி மாதவி`; detailed verification pending |
+| 7 | 29 | verified: `கலைக்கரசி மாதவி`; setting `முத்துப் பந்தல்` |
 | 8 | 33 | `கண்ணகி இல்லறம்`; detailed verification pending |
 | 9 | 36 | stylized title provisionally read `பிரிவினை தந்த பேதை`; requires enlarged audit |
 | 10 | 39 | scene number secure; ornate title intentionally unresolved rather than guessed |
@@ -41,9 +41,10 @@ The original 30-page pass was intentionally structural rather than a claim of ch
 - **Scans 21–23 / காட்சி-4:** verified as a complete scene; scan 23 includes `காவிரி — கடலில் கலக்கும் காட்சி`.
 - **Scans 24–25 / காட்சி-5:** verified as a complete scene; scan 25's visible numeral `2` is preserved as an anomalous source marker.
 - **Scans 26–28 / காட்சி-6:** verified as a complete scene; ornate title confirmed as `பூம்புகார்ப் பொற்றொடி`; scan 28 carries printed page `12` and closes the scene.
-- **Scans 29–39:** remain `needs-review` pending full enlarged character-level verification.
+- **Scans 29–32 / காட்சி-7:** verified as a complete scene. Scan 30 is a pictorial/caption page; scans 31 and 32 carry printed pages `15` and `16`.
+- **Scans 33–39:** remain `needs-review` pending full enlarged character-level verification.
 
-Scene-6 verification preserves notable source forms including `[சாத்தனூரின் குரல் தொடர்கிறது]`, `ஈகைவான் கொடியன்னாள்`, `போதிலார் திருவினாள்`, `நாளத்தான்`, `கலைஞர்கள் கைபட்டு`, `மறப்பேனு`, `திலசிறந்த`, `கிழவனுகவா`, `மூவருமேசென்று`, and `நடனமென்றல் ?...`.
+Scene-7 verification preserves notable source forms including `வாக்கினில் ஆடரங்கின் வந்து!`, `சுயம்வரம் ஏற்பாடு செய்யப்பட்டிருக்கிறது!.`, scan 30's `யானச்சின்னம்`, `கணவனுகலாம்`, `இளவெட்டு`, `கிழட்டுப் பூனை`, `பெண்ணுகவே`, `கிழவனுக்கு இளங் கிளி`, and the construction `கோவலன் போய்விட்டது கண்ட மாதவி`.
 
 No wording from the published English translation witness has been imported into the Tamil transcription. It remains a later collation source only.
 
@@ -57,4 +58,4 @@ Detailed verification proceeds by **complete scene where practical**, while ever
 
 ## Next exact work
 
-Process **காட்சி-7 across scans 29–32 as one activity**. Verify the `கலைக்கரசி மாதவி` heading/subheading, all four physical page records, printed pages `15` and `16`, and all pictorial/caption layers on scan 30 before moving to `காட்சி-8`. Do not begin English translation from unverified source pages.
+Process **காட்சி-8 across scans 33–35 as one activity**. Verify the `கண்ணகி இல்லறம்` heading and setting, all three physical page records, printed page `18` on scan 34, and every pictorial/source layer before moving to `காட்சி-9`. Do not begin English translation from unverified source pages.
