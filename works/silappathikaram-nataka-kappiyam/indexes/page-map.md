@@ -46,7 +46,7 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 40 | 24 | scene 10 | continuation / close-text | verified | Complete dance/collapse and Kovalan–Madhavi dialogue verified; final literary-text scan of scene 10. |
 | 41 | — | scene 10 | pictorial / final physical scan | verified | Full-page uncaptioned sculptural photograph/reproduction; scan 42 begins scene 11. |
 | 42 | 26 | scene 11 | scene opening / close | verified | `காட்சி-11`; enlarged title verified as `கற்பரசியின் கலக்கம்`; setting `கண்ணகி வீடு`; complete two-column text and lower-centre uncaptioned illustration verified; scan 43 begins scene 12. |
-| 43 | 27 | scene 12 | scene opening | needs-review | `காட்சி-12`; decorative title intentionally unresolved pending enlarged audit; setting `மாதவி வீடு`; peacock illustration. |
+| 43 | 27 | scene 12 | scene opening / close | verified | `காட்சி-12`; enlarged title verified as `இரு வாழ்விலும் கோவலன்`; setting `மாதவி வீடு`; complete two-column text and lower-centre uncaptioned peacock illustration verified; scan 44 begins scene 13. |
 | 44 | — | scene 13 | scene opening | needs-review | `காட்சி-13`; title provisionally read `துன்பப் புயலில் கண்ணகி`; setting `கண்ணகி வீடு`; large uncaptioned photograph/reproduction. |
 | 45 | — | scene 13 | continuation | needs-review | Dense two-column continuation with lower-right uncaptioned sculptural photograph/reproduction. |
 | 46–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. No pagination or scene boundaries are inferred here. |
@@ -66,8 +66,8 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–42 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-11**.
+Scans **1–43 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-12**.
 
-Scans **43–45** remain individually structurally mapped at `needs-review`. The next complete-scene verification target is **காட்சி-12 on scan 43**; scan 44 directly begins `காட்சி-13`.
+Scans **44–45** remain individually structurally mapped at `needs-review`. The next complete-scene verification target is **காட்சி-13 across scans 44–45**; the following scene boundary must be confirmed by forward inspection before closing that activity.
 
 Detailed verification continues by **complete scene where practical**, while retaining one source record per physical scan.
