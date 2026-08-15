@@ -17,7 +17,7 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 11 | — | author preface | text + photograph | verified | Coastal photograph above opening prefatory prose; complete text checked at enlarged 300-ppi resolution; final line ends `இமயம்` and continues on scan 12. |
 | 12 | xii | author preface | text | verified | Complete prose and two verse-like passages checked at enlarged 400-ppi resolution; final quotation ends physically at `நீவிர் இரு பெருந்` and continues on scan 13. |
 | 13 | — | author preface | text | verified | Complete prose checked at enlarged 400-ppi resolution; begins by continuing scan 12's quotation and ends physically at `பாண்டி நாட்டுக் கொற்கைப்`; no `xiii` inferred. |
-| 14 | xiv | author preface | text | needs-review | Prose plus inset/verse-like and list-like passages. |
+| 14 | xiv | author preface | text | verified | Complete prose checked at enlarged 400-ppi resolution; inset Korkai quotation and character-transformation list preserved; printed `xiv` at lower left. |
 | 15 | xv | author preface | text | needs-review | Prose plus asterisk-led points. |
 | 16 | xvi | author preface | closing | needs-review | Ends with `அன்புடன்,` and facsimile signature. |
 | 17 | — | scene 1 | scene opening | needs-review | `காட்சி-1`; decorative title provisionally read `வஞ்சி மூதூரில் முரசறைதல்`; large lower illustration. |
@@ -42,7 +42,7 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 36 | — | scene 9 | scene opening | needs-review | `காட்சி-9`; stylized title provisionally read `பிரிவினை தந்த பேதை`; `கண்ணகி-கோவலன்-கட்டில் அறை`. |
 | 37 | — | scene 9 | continuation | needs-review | Dialogue around large brick-shrine photograph with parenthetical caption mentioning `பூம்புகார்`. |
 | 38 | 22 | scene 9 | continuation / close | needs-review | Dialogue plus central statue photograph. |
-| 39 | — | scene 10 | scene opening | needs-review | `காட்சி-10`; `மாதவி இல்லம்`; ornate title deliberately left unresolved pending enlarged crop. |
+| 39 | — | scene 10 | scene opening | needs-review | `காட்சி-10`; `மாதவி இல்லம்`; ornate scene title deliberately left unresolved pending enlarged crop. |
 | 40–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. No pagination or scene boundaries are inferred here. |
 | 88 | — | dramatic body | scene | not-started | `காட்சி-38` visibly present on final supplied scan. |
 
@@ -60,4 +60,4 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–13 are verified**. Scans **14–39** have individual page records and direct visual source mapping, but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped. Continue next with **scan 14**, visibly carrying printed page `xiv`.
+Scans **1–14 are verified**. Scans **15–39** have individual page records and direct visual source mapping, but remain `needs-review` pending enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped. Continue next with **scan 15**, visibly carrying printed page `xv`.
