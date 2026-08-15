@@ -27,44 +27,37 @@ Source facts:
 
 ## Current verification checkpoint
 
-Scans **1–23 are fully verified**.
+Scans **1–25 are fully verified**.
 
-This includes the title/front matter, Anna's `அணிந்துரை`, Karunanidhi portrait page, Kalaignar's complete introductory/prefatory section through printed page `xvi`, and **காட்சி-1 through காட்சி-4**.
+This includes the title/front matter, Anna's `அணிந்துரை`, Karunanidhi portrait page, Kalaignar's complete introductory/prefatory section through printed page `xvi`, and **காட்சி-1 through காட்சி-5**.
 
-## Newly completed activity — காட்சி-4, scans 21–23
+## Newly completed activity — காட்சி-5, scans 24–25
 
-### Scan 21 — `pages/0021.md`
+### Scan 24 — `pages/0024.md`
 
-- `காட்சி-4`
-- Decorative title: `இளங்கோ துறவு`.
-- Setting heading: `சேரலாதன் மாளிகை`.
-- Complete dramatic text verified against enlarged source.
-- No printed page number is visible.
-- Large full-height male illustration is uncaptioned; do not identify it by inference.
-- Preserve source forms including `பிறக்கவில்லை / யென்று`, `உரியதாகட் / டும்`, `படைத் தள / பதியாக`, `தாய்மையுள்ளங்`, `இளங்கோவடிகளாக மாறி நிற்கிறான்!`, and `துறவுக் கோலம்!....`.
+- `காட்சி-5`
+- Decorative title: `சிலம்பின் தோற்றம்`.
+- Setting heading: `சேரநாடு`.
+- Printed page marker: `8` at lower left.
+- Complete two-column dramatic text verified against native/enlarged source.
+- Mountain-gifts list preserved exactly, including `யானைத்தந்தம்`, `சந்தனக் கட்டை`, `தேங்காய்`, `சிங்கக்குட்டி`, `புலிக்குட்டி`, `யானைக்குட்டி`, `குறும்பாடு`, `கிரிப் / பிள்ளை`, `புனுகுபூனை` and the remaining printed items.
+- Preserve source forms/punctuation such as `மலைவாழ் தமிழர்களே!....`, `என் / றென்றும்`, `கணவனை இழந்தொரு பெண்...`, and the scan-ending `கணவன் வருவான் வருவான்`.
+- Small deer illustration is uncaptioned; do not assign narrative identity beyond the visible animal.
 
-### Scan 22 — `pages/0022.md`
+### Scan 25 — `pages/0025.md`
 
-- Continues `காட்சி-4` in two columns below a large uncaptioned group illustration.
-- Printed page marker: `6` at lower left.
-- Complete dialogue/stage text verified with enlarged 400/800-ppi inspection and targeted 1200-ppi checks.
-- Preserve the visibly printed physical forms `வேந்த / னுக` and `வஞ் / சித்திலநகரின்`; do not silently normalize them.
-- The right column begins by continuing `நற்சோணை`'s speech without a newly printed speaker label: `அதோ பார்; உன் அண்ணி...`.
-- Preserve source wording/punctuation including `வேதனைக் களமாகி விடும் தமிழ்நாடு!`, `விதிப்படியே வெற்றி தோல்வி யென`, `விற் / கொடியைப்`, `எடுத்த எடுப்பிலேயே`, and the repeated dotted pauses.
-
-### Scan 23 — `pages/0023.md`
-
-- Continues and closes `காட்சி-4`.
-- No printed page number is visible.
-- Farewell sequence: `அப்பா!...`, `அம்மா!...`, `அண்ணி!...`, `அண்ணா!...`, `வருகிறேன்.......`.
-- Long bracketed narrative crosses the column boundary and closes after `எதிரே நிமித்திகன் வருகிறான்.]`.
-- Later dialogue uses full `நிமித்திகன்` plus abbreviated `நிமித்` and `இளங்` speaker labels.
-- Scene closes with `[திகைத்து நிற்கும் நிமித்திகரோடு காட்சி முடிகிறது.]`.
-- Lower-right photograph has the exact printed caption `காவிரி — கடலில் கலக்கும் காட்சி`; keep this caption distinct from the dramatic text.
+- Continues and closes `காட்சி-5`.
+- The lower-left numeral was resolved from the native 1662×2630 scan as **`2`**. This conflicts with the expected numerical sequence after scan 24=`8`; preserve the visible source numeral `2` and do **not** silently normalize it to `9`.
+- Continuation begins from scan 24's `கணவன் வருவான் வருவான்` and leads into `கண்ணகி....!`.
+- Speaker labels include `செங்கு`, abbreviated `சாத்த`, and `இளங்`.
+- Preserve source-specific forms including `நினைவூட்டினர் / கள்`, `சரி யண்ணா!`, `காட்சி மாறுகிறது....`, `காவிரி யாறும்`, `கொடியின்கீழ்`, and `தனிப்பெருந் திலகராம்!...`.
+- Stage directions show சாத்தனார் beginning the story, இளங்கோவடிகள் beginning to write, `புலிக் கொடி பறக்கிறது`, and `பூம்புகார்ப் பட்டினக் காட்சிகள் துவங்கு / கின்றன.`
+- Large standing ascetic/monk-like figure at right is uncaptioned; do not identify it by inference.
+- Scan 26 begins `காட்சி-6`.
 
 ## Structural batch state
 
-Scans **10–39 inclusive** were previously directly inspected and individually represented. Scans **10–23** have now been upgraded to `verified`. Scans **24–39** remain `needs-review` until their complete Tamil text, headings, stage directions, captions and source marks are checked character by character.
+Scans **10–39 inclusive** were previously directly inspected and individually represented. Scans **10–25** have now been upgraded to `verified`. Scans **26–39** remain `needs-review` until their complete Tamil text, headings, stage directions, captions and source marks are checked character by character.
 
 The dramatic body is structurally mapped through `காட்சி-10`.
 
@@ -78,11 +71,11 @@ The user supplied `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf`, re
 
 ## Next activity
 
-Process **காட்சி-5 across scans 24–25 as one complete activity**.
+Process **காட்சி-6 across scans 26–28 as one complete activity**.
 
-1. Verify scan 24's `காட்சி-5`, title `சிலம்பின் தோற்றம்`, and setting `சேரநாடு`.
-2. Transcribe and verify all text on scans 24 and 25, including speaker labels, stage directions, punctuation, physical word splits, printed pagination and illustration layers.
-3. Resolve the lower-left numeral on scan 25 only from enlarged direct inspection; do not infer it from pagination sequence.
-4. Keep uncaptioned images distinct from dramatic text and do not identify figures by inference.
-5. Confirm scan 25 closes scene 5 before moving to `காட்சி-6`.
+1. Resolve scan 26's ornate scene title from enlarged/native source before accepting the provisional reading.
+2. Transcribe and verify all text on scans 26, 27 and 28, including speaker labels, stage directions, punctuation, physical word splits, printed pagination and illustration/caption layers.
+3. Keep uncaptioned images distinct from dramatic text and do not identify figures by inference.
+4. Promote each scan independently to `verified` only after direct source comparison.
+5. Confirm the scene boundary before moving to `காட்சி-7`.
 6. Do not begin English translation until the Tamil transcription/audit is complete.
