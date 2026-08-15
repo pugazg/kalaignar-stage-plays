@@ -25,42 +25,28 @@ Source facts:
 - scan 17 begins `காட்சி-1`
 - scan 88 visibly carries `காட்சி-38`
 
-## Exact checkpoint after 30-page batch
+## Current verification checkpoint
 
-The user requested that the next **30 pages** be considered in one activity. Scans **10–39 inclusive** were therefore directly inspected and individually represented in `pages/0010.md` through `pages/0039.md`.
+Scans **1–11 are now fully verified**.
 
-### Verified
+### Scan 11 — newly verified
 
-- Scans **1–9**: previously complete and verified.
-- Scan **10**: author photograph/caption page, now verified.
+`works/silappathikaram-nataka-kappiyam/pages/0011.md`
 
-### Directly inspected / needs-review
+- Upper portion: black-and-white coastal/settlement photograph associated with பூம்புகார்.
+- Lower portion: complete opening author-preface prose transcribed and checked against an enlarged 300-ppi render.
+- Opening: `பூம்புகார் - இதுதான் இன்றைய பூம்புகார் - ...`
+- Source-specific material preserved includes `காவிரிப்பூம் / பட்டினத்துக்`, `தென்மாரி பொழிகின்ற தீந்தமிழ் இலக்கிய`, `அவந்திநன்னன்`, `வச்சிரநாட்டு`, `முத்துப்பந்தர்`, `பட்டிமண்டபம்`, and `தாழாது - தாழாது!`.
+- No printed page number is visible; none is inferred.
+- Final printed line ends with `இமயம்`; the sentence continues on scan 12 and is deliberately not completed inside scan 11.
 
-- Scans **11–16**: author's prefatory material; individual page records exist. Visible Roman pagination recorded where secure: scan 12=`xii`, scan 14=`xiv`, scan 15=`xv`, scan 16=`xvi`. Scan 16 closes with `அன்புடன்,` and facsimile signature.
-- Scans **17–39**: dramatic body mapped page by page through `காட்சி-10`. Individual files exist, but remain `needs-review` because their complete dialogue/prose has not yet received enlarged character-by-character verification.
+## 30-page structural batch state
 
-Do **not** misread `needs-review` as uninspected: these pages were visually inspected for page identity, scene boundaries, layout, illustrations/photos, visible pagination and major headings. They are intentionally not called `verified` until full text is audited.
+Scans **10–39 inclusive** were previously directly inspected and individually represented. Scan 10 was already verified. Scans 12–39 remain `needs-review` until their complete Tamil text is enlarged and checked character by character.
 
-## Scene map through scan 39
+Visible Roman pagination in the remaining preface includes scan 12=`xii`, scan 14=`xiv`, scan 15=`xv`, scan 16=`xvi`. Scan 16 closes with `அன்புடன்,` and facsimile signature.
 
-- scan 17 — `காட்சி-1`; decorative title provisionally read `வஞ்சி மூதூரில் முரசறைதல்`
-- scan 18 — `காட்சி-2`; `செங்குட்டுவன் பிறந்தநாள் விழா`; printed page `2`
-- scan 19 — `காட்சி-3`; stylized title provisional, enlarged audit still required
-- scan 21 — `காட்சி-4`; `இளங்கோ துறவு`
-- scan 24 — `காட்சி-5`; `சிலம்பின் தோற்றம்`; printed page `8`
-- scan 26 — `காட்சி-6`; ornate title provisionally read `பூம்புகார்ப் பொற்றொடி`
-- scan 29 — `காட்சி-7`; `கலைக்கரசி மாதவி`
-- scan 33 — `காட்சி-8`; `கண்ணகி இல்லறம்`
-- scan 36 — `காட்சி-9`; stylized title provisionally read `பிரிவினை தந்த பேதை`
-- scan 39 — `காட்சி-10`; `மாதவி இல்லம்`; ornate scene title intentionally left unresolved rather than guessed
-
-Other secure printed page numbers in the batch include scan 20=`4`, 22=`6`, 28=`12`, 31=`15`, 32=`16`, 34=`18`, and 38=`22`. Where a number was not secure, none was inferred.
-
-## Batch documentation
-
-`works/silappathikaram-nataka-kappiyam/BATCH_0010_0039_REVIEW.md`
-
-This document explains exactly what was completed in the 30-page pass and why scans 11–39 remain `needs-review`.
+The dramatic body from scans 17–39 is mapped through `காட்சி-10`, but scene assembly must not begin from pages still marked `needs-review`.
 
 ## Published English translation witness — future phase
 
@@ -68,9 +54,9 @@ The user supplied `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf`, re
 
 ## Next activity
 
-1. Resume at **scan 11** for the detailed transcription-review pass.
-2. Enlarge/native-render each page and transcribe every printed line, punctuation mark, paragraph break, caption and special inset.
-3. For scene pages, preserve speaker labels, stage directions, column reading order and physical page breaks exactly.
-4. Promote each page from `needs-review` to `verified` only after character-level comparison.
-5. Proceed sequentially through scan 39 before scene assembly.
+1. Process **scan 12** in the detailed transcription-review pass.
+2. Verify the visible printed page marker `xii`.
+3. Preserve the continuation from scan 11 exactly as printed and transcribe the centred verse-like passage without modernization.
+4. Promote scan 12 to `verified` only after complete character-level comparison.
+5. Continue sequentially through scans 13–39 before scene assembly.
 6. Do not begin English translation until Tamil transcription/audit is complete.
