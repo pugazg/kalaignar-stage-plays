@@ -73,19 +73,38 @@ The complete page was checked against the PDF's native embedded scan image (1662
 
 No library stamp or later handwriting crosses the prose on this scan; age staining and speckling are recorded as physical-copy evidence.
 
+### Scan 4 — verified
+
+`works/silappathikaram-nataka-kappiyam/pages/0004.md`
+
+Continuation of the `அணிந்துரை`. The printed page marker `iv` appears at the lower left.
+
+The full page was compared directly against the PDF's native embedded scan image. Source-specific wording and typography preserved without normalization include:
+
+- `ஒப்புவமையற்ற`
+- `காழ்ப்பு உணர்ச்சி`
+- `மூழ்கி-ஈருடல்`
+- `காட்டினனே கோவலன்!`
+- `துயரமுள் காட்டில்`
+- `ஐம்பெருங் காப்பியங்களில்`
+- `மாயமந்திர காவியத்தாரிகை`
+- `இக்கவின் தமிழ்க்கதையின்`
+
+No library stamp or later handwriting crosses the prose on this scan; age staining and speckling remain copy/scan evidence.
+
 ## Page-map state
 
-`indexes/page-map.md` now records scans 1, 2 and 3 individually as `verified`. The remaining Anna-foreword startup range is now `4–9` and must continue to be expanded one scan at a time.
+`indexes/page-map.md` now records scans 1–4 individually as `verified`. The remaining Anna-foreword startup range is now `5–9` and must continue to be expanded one scan at a time.
 
 ## Exact checkpoint
 
-Scans **1–3 are complete and verified**. No dramatic body page has yet been transcribed.
+Scans **1–4 are complete and verified**. No dramatic body page has yet been transcribed.
 
 ## Next activity
 
-1. Process **scan page 4**, visibly carrying printed page `iv`, as the next Anna-foreword page record.
+1. Process **scan page 5**, continuing the Anna foreword.
 2. Preserve every source-supported spelling, punctuation mark and paragraph break; do not silently regularize wording.
 3. Use the PDF's native embedded scan image when the normal render leaves small type uncertain.
-4. Continue sequentially through scans 5–9 only after each preceding page is visually checked.
+4. Continue sequentially through scans 6–9 only after each preceding page is visually checked.
 5. Expand `indexes/page-map.md` one scan at a time.
 6. Do not assemble scenes yet. Scene assembly begins only after the underlying physical pages are visually transcribed and reviewed.
