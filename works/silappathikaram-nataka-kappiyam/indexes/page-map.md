@@ -2,36 +2,62 @@
 
 This is the physical-source map. Printed pagination is recorded only when directly visible; nothing is inferred from neighbouring pages.
 
-| Scan page(s) | Printed page | Section | Page type | Status | Notes |
+| Scan page | Printed page | Section / scene | Page type | Status | Notes |
 |---|---|---|---|---|---|
-| 1 | — | front matter | title / imprint | verified | Title-page wording visually verified; enlarged inspection confirms source shows `பதிப்புரிமை ]` at lower left and `[ விலை ரூ. 5` at lower right. |
-| 2 | — | front matter | photograph / caption | verified | Anna photograph; printed caption `தமிழக முதல்வர் / பேரறிஞர் அண்ணா / அணிந்துரை`; circular library stamp with handwritten `164596`; later pencil notation kept separate. |
-| 3 | iii | front matter | foreword | verified | Opening prose of the `அணிந்துரை`; complete text checked against the PDF's native 1662 × 2630, 300-ppi scan image. No library stamp or later handwriting crosses the prose. |
-| 4 | iv | front matter | foreword | verified | `அணிந்துரை` continuation; complete prose and source-specific forms checked against the native embedded scan image; printed `iv` appears at lower left. |
-| 5 | — | front matter | foreword | verified | `அணிந்துரை` continuation; no visible printed page marker, so none is inferred. Enlarged 300-ppi inspection used for source-specific readings and punctuation. |
-| 6 | vi | front matter | foreword | verified | `அணிந்துரை` continuation; complete prose checked against enlarged 300-ppi render; physical line-break forms retained where words split across printed lines; printed `vi` at lower left. |
-| 7 | — | front matter | foreword | verified | `அணிந்துரை` continuation; no visible printed page marker, so `vii` is not inferred. Enlarged 300-ppi inspection used for unusual readings including `குன்றோபம்`, `கல்லாக்களிமகன்`, `வாளாயிருக்க`, and `கொலு மண்டபம்`. |
-| 8 | viii | front matter | foreword | verified | `அணிந்துரை` continuation; enlarged 300-ppi inspection used for emphatic quoted passages and unusual readings including `மயிர்க்கூச்செறிகிறது`, `அன்றதும்`, `கருத்தமைதி`, and source form `உலகமா காவியங்களில்`; printed `viii` at lower left. |
-| 9 | — | front matter | foreword conclusion | verified | Final Anna foreword page; closes with `வாழ்க தமிழ்! வாழ்க தமிழகம்!`, `அன்பன்,` and printed facsimile signature. Lower-left bracketed note identifies the text as the Tamil rendering of Anna's foreword for the English translation. Standalone printed `B` is not treated as pagination. |
-| 10 | — | front matter | photograph / transition | not-started | Author portrait page; printed caption visible beneath photograph. |
-| 11–16 | — | front matter | introductory / prefatory text | not-started | Scan 16 ends with signature. Each scan must be expanded to its own row when transcribed. |
-| 17 | — | dramatic body | scene | not-started | `காட்சி-1` begins. Decorative scene title requires enlarged visual verification. |
-| 18 | 2 | dramatic body | scene | not-started | `காட்சி-2` begins; printed page number `2` is visibly present. |
-| 19–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. No pagination or scene boundaries are inferred here. |
-| 88 | — | dramatic body | scene | not-started | `காட்சி-38` is visibly present on the final supplied scan page. |
+| 1 | — | front matter | title / imprint | verified | Title-page wording visually verified; source shows `பதிப்புரிமை ]` and `[ விலை ரூ. 5`. |
+| 2 | — | front matter | photograph / caption | verified | Anna photograph / `அணிந்துரை`; library/copy marks separated. |
+| 3 | iii | Anna foreword | foreword | verified | Opening prose. |
+| 4 | iv | Anna foreword | foreword | verified | Foreword continuation. |
+| 5 | — | Anna foreword | foreword | verified | No page marker inferred. |
+| 6 | vi | Anna foreword | foreword | verified | Foreword continuation. |
+| 7 | — | Anna foreword | foreword | verified | No `vii` inferred. |
+| 8 | viii | Anna foreword | foreword | verified | Foreword continuation. |
+| 9 | — | Anna foreword | foreword conclusion | verified | Closes with `அன்பன்,` and facsimile signature. |
+| 10 | — | front matter | author photograph / caption | verified | Full-page portrait of M. Karunanidhi; caption recorded in `pages/0010.md`. |
+| 11 | — | author preface | text + photograph | needs-review | Coastal photograph above opening prefatory prose. |
+| 12 | xii | author preface | text | needs-review | Prose with centred verse-like passage. |
+| 13 | — | author preface | text | needs-review | Dense prose continuation; no pagination inferred. |
+| 14 | xiv | author preface | text | needs-review | Prose plus inset/verse-like and list-like passages. |
+| 15 | xv | author preface | text | needs-review | Prose plus asterisk-led points. |
+| 16 | xvi | author preface | closing | needs-review | Ends with `அன்புடன்,` and facsimile signature. |
+| 17 | — | scene 1 | scene opening | needs-review | `காட்சி-1`; decorative title provisionally read `வஞ்சி மூதூரில் முரசறைதல்`; large lower illustration. |
+| 18 | 2 | scene 2 | scene opening | needs-review | `காட்சி-2`; `செங்குட்டுவன் பிறந்தநாள் விழா`; two-column dialogue. |
+| 19 | — | scene 3 | scene opening | needs-review | `காட்சி-3`; stylized title provisionally read `விழாவும் விளாவும்`; large illustration. |
+| 20 | 4 | scene 3 | continuation | needs-review | Two-column dialogue; small ornamental illustration. |
+| 21 | — | scene 4 | scene opening | needs-review | `காட்சி-4`; `இளங்கோ துறவு`; headed `சேரலாதன் மாளிகை`; large figure illustration. |
+| 22 | 6 | scene 4 | continuation | needs-review | Group illustration above dialogue. |
+| 23 | — | scene 4 | continuation / close | needs-review | Dialogue plus coastal photograph and small printed caption. |
+| 24 | 8 | scene 5 | scene opening | needs-review | `காட்சி-5`; `சிலம்பின் தோற்றம்`; headed `சேரநாடு`; deer illustration. |
+| 25 | — | scene 5 | continuation | needs-review | Dialogue plus large ascetic/monk illustration; lower-left numeral not normalized until enlargement. |
+| 26 | — | scene 6 | scene opening | needs-review | `காட்சி-6`; ornate title provisionally read `பூம்புகார்ப் பொற்றொடி`; large couple illustration. |
+| 27 | — | scene 6 | continuation | needs-review | `ஆடல், பாடல்` passage; large dancer illustration. |
+| 28 | 12 | scene 6 | continuation | needs-review | Dense two-column dialogue; small ship illustration. |
+| 29 | — | scene 7 | scene opening | needs-review | `காட்சி-7`; `கலைக்கரசி மாதவி`; subheading `முத்துப் பந்தல்`; large court/dancer illustration. |
+| 30 | — | scene 7 | pictorial / caption | needs-review | Archaeological/object reproductions, elephant drawing and short `பூம்புகார்` caption. |
+| 31 | 15 | scene 7 | continuation | needs-review | Dialogue around central statue photograph. |
+| 32 | 16 | scene 7 | continuation | needs-review | Dialogue around Nataraja/Shiva photograph. |
+| 33 | — | scene 8 | scene opening | needs-review | `காட்சி-8`; `கண்ணகி இல்லறம்`; `கோவலன் வீடு--பள்ளியறை`; two lower photographs. |
+| 34 | 18 | scene 8 | continuation | needs-review | Dialogue with jewel/ornament and lotus illustrations. |
+| 35 | — | scene 8 | continuation / close | needs-review | Dialogue plus large standing-woman illustration. |
+| 36 | — | scene 9 | scene opening | needs-review | `காட்சி-9`; stylized title provisionally read `பிரிவினை தந்த பேதை`; `கண்ணகி-கோவலன்-கட்டில் அறை`. |
+| 37 | — | scene 9 | continuation | needs-review | Dialogue around large brick-shrine photograph with parenthetical caption mentioning `பூம்புகார்`. |
+| 38 | 22 | scene 9 | continuation / close | needs-review | Dialogue plus central statue photograph. |
+| 39 | — | scene 10 | scene opening | needs-review | `காட்சி-10`; `மாதவி இல்லம்`; ornate title deliberately left unresolved pending enlarged crop. |
+| 40–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. |
+| 88 | — | dramatic body | scene | not-started | `காட்சி-38` visibly present on final supplied scan. |
 
 ## Expansion rule
 
-Before transcription closure, **all 88 scan pages must have individual rows**. Range rows above are startup survey records only and must be replaced by one-row-per-scan records as work advances.
+Before transcription closure, **all 88 scan pages must have individual rows**. Range rows are startup survey records only and must be replaced by one-row-per-scan records as work advances.
 
 ## Status key
 
 - `not-started` — page identified but not yet transcribed.
 - `partial` — transcription begun but incomplete.
-- `needs-review` — provisional transcription exists but one or more readings/layout details remain uncertain.
-- `verified` — directly compared against the source scan.
+- `needs-review` — page record exists and source layers/layout have been inspected, but complete character-level transcription or one or more difficult readings remain unresolved.
+- `verified` — directly compared against the source scan at character/layout level.
 - `blocked` — unresolved only after the full difficult-reading escalation procedure.
 
 ## Current checkpoint
 
-Scans **1–9 are verified**. Anna's `அணிந்துரை` is now completely represented page by page. Continue sequential detailed processing with **scan page 10**, the author photograph / transition page. Do not jump to scene assembly before the physical page records are complete.
+Scans **1–10 are verified**. Scans **11–39 now all have individual page records and direct visual source mapping**, but are intentionally `needs-review` rather than falsely marked verified because their complete prose/dialogue has not yet received enlarged character-by-character transcription audit. Scene boundaries through **காட்சி-10** are mapped. Continue next with the review/transcription pass beginning at scan 11, unless a later batch survey is explicitly requested.
