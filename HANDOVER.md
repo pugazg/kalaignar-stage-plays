@@ -57,18 +57,35 @@ Non-authorial marks are recorded separately:
 - handwritten accession number `164596` inside the stamp;
 - later pencil/shelf notation at mid-right, first line not secure enough for normalization; second line clearly reads `N67`.
 
+### Scan 3 — verified
+
+`works/silappathikaram-nataka-kappiyam/pages/0003.md`
+
+Opening prose page of the `அணிந்துரை`. The lower-right printed page marker is `iii`.
+
+The complete page was checked against the PDF's native embedded scan image (1662 × 2630 pixels, 300 ppi), rather than relying on the lower-resolution render. This resolved and preserved source-supported readings including:
+
+- `இமய உயர்வில்`
+- `கலைகளைப் படைத்த மாதவி!`
+- `இனிய காதலிக் கலையாகிய பெருந்தலைவி`
+- `துயரக் கடலில்`
+- `மலைமலையான பொருளைத் தண்ணீராய்ச் செலவிடும்`
+
+No library stamp or later handwriting crosses the prose on this scan; age staining and speckling are recorded as physical-copy evidence.
+
 ## Page-map state
 
-`indexes/page-map.md` now records scans 1 and 2 individually as `verified`. Startup range `3–9` remains for the Anna foreword and must be expanded page by page during transcription.
+`indexes/page-map.md` now records scans 1, 2 and 3 individually as `verified`. The remaining Anna-foreword startup range is now `4–9` and must continue to be expanded one scan at a time.
 
 ## Exact checkpoint
 
-Scans **1–2 are complete and verified**. No literary body page has yet been transcribed.
+Scans **1–3 are complete and verified**. No dramatic body page has yet been transcribed.
 
 ## Next activity
 
-1. Process **scan page 3**, the opening page of the Anna foreword, as its own page record.
-2. Preserve the printed prose exactly as visible, including historical spelling, punctuation, paragraphing and any page marks.
-3. Continue sequentially through scans 4–9 only after each preceding page is visually checked.
-4. Expand `indexes/page-map.md` one scan at a time.
-5. Do not assemble scenes yet. Scene assembly begins only after the underlying physical pages are visually transcribed and reviewed.
+1. Process **scan page 4**, visibly carrying printed page `iv`, as the next Anna-foreword page record.
+2. Preserve every source-supported spelling, punctuation mark and paragraph break; do not silently regularize wording.
+3. Use the PDF's native embedded scan image when the normal render leaves small type uncertain.
+4. Continue sequentially through scans 5–9 only after each preceding page is visually checked.
+5. Expand `indexes/page-map.md` one scan at a time.
+6. Do not assemble scenes yet. Scene assembly begins only after the underlying physical pages are visually transcribed and reviewed.
