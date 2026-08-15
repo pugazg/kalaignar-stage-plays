@@ -27,47 +27,39 @@ Source facts:
 
 ## Current verification checkpoint
 
-Scans **1–42 are fully verified**.
+Scans **1–43 are fully verified**.
 
-This includes the complete front matter/prefaces and **காட்சி-1 through காட்சி-11**.
+This includes the complete front matter/prefaces and **காட்சி-1 through காட்சி-12**.
 
-Individual structural records exist through scan **45**. Scans 43–45 remain `needs-review`.
+Individual structural records exist through scan **45**. Scans 44–45 remain `needs-review`.
 
-## Newly completed activity — காட்சி-11, scan 42
-
-### Scan 42 — `pages/0042.md`
-
-- `காட்சி-11`.
-- Enlarged/native inspection confirms the decorative title **`கற்பரசியின் கலக்கம்`**.
-- Setting heading: **`கண்ணகி வீடு`**.
-- Printed page marker: **`26`** at lower left.
-- This is a one-scan scene; scan 43 directly begins `காட்சி-12`.
-- Complete two-column dramatic text is verified.
-- The opening shows Kannagi waiting at the street door for Kovalan; the palanquin/cart returns with only the driver. The driver says Kovalan has not come and has postponed the Rome journey. Devandhi arrives, questions Kannagi and takes her inside.
-- Preserve all speaker-label variants exactly as printed: `கண்ணகி`, `கண்`, `வண்டிக்காரன்`, `வண்`, `தேவ`, and `தேவந்தி`.
-- Preserve the unlabeled first line of the right column, `ஏன் ......என்ன நடந்தது ?`; do not invent a repeated speaker label.
-- Preserve source punctuation/forms including `அவர் எங்கே ?`, `ஆ !...`, `ஒன்றுமில்ல தேவந்தி!......`, `அவர் எங்கே, உன் புருஷன் ?...`, `ஓகோ ...`, `ஆள்மேலே ஆள் விட்டாளே;`, `(இருபொருளில்)`, and `அவமானப்பட்டாளே; ஏன்?....`.
-- Preserve physical source splits including `நின்ற / வாறு`, `வரு / கிறது`, `தேவந்தி / யைப்`, and `அழுகிறாயாக் / கும்`.
-- A small lower-centre moon/cloud-like decorative landscape illustration is uncaptioned; do not infer a further identity or meaning.
-
-Verification used the controlling Tamil scan rendered at enlarged 400-ppi resolution with targeted 2x crops. The published English translation was not used to settle Tamil readings.
-
-## Forward mapped pages
+## Newly completed activity — காட்சி-12, scan 43
 
 ### Scan 43 — `pages/0043.md`
 
 - `காட்சி-12`.
-- Printed page `27`.
-- Setting `மாதவி வீடு`.
-- Decorative title intentionally unresolved pending enlarged audit.
-- Peacock illustration; `needs-review`.
-- Scan 44 begins scene 13, so scene 12 is a one-scan scene.
+- Enlarged/native inspection confirms the decorative title **`இரு வாழ்விலும் கோவலன்`**.
+- Setting heading: **`மாதவி வீடு`**.
+- Printed page marker: **`27`** at lower right.
+- This is a one-scan scene; scan 44 directly begins `காட்சி-13`.
+- Complete two-column dramatic text is verified.
+- Madhavi strings a garland while Kovalan watches her fingers; Kovalan gives a long poetic description of her beauty; the garland is first placed on Kovalan and then transferred to Madhavi.
+- Preserve the physical cross-column transition in Kovalan's long speech: the left column ends at `அலை-` and the right column resumes `வதுபோல்...`.
+- Preserve source-supported unusual forms/punctuation including `சேற் / கெண்டை`, `இருண்டு-கண்பறிக்கும்`, `வித்ததினிலே`, `யாரு / மில்ல !......`, `மன்னு!...`, and the visibly printed `ஏற்பட்ட / டும்!......`.
+- Preserve physical source splits including `தொடுத்துக்கொண்டிருக் / கிறாள்`, `பார்த்துக்கொண் / டிருக்கிறான்`, `படைக் / கப்பட்டவள்`, `மேனி / யிலே`, `கண்ணுடிப் / பேழைக்குள்`, `கரு / வற்ற`, `பலாச்சுளைப் / போல்`, `கார / ணத்தால்`, `மொழி / வளத்தைப்`, `தொடுப் / பது`, `உண்டா / கிறது`, and `இருப்ப / தால்`.
+- The lower-centre peacock illustration is uncaptioned; do not infer symbolic meaning or a character identity from it.
+
+Verification used the controlling Tamil scan rendered at enlarged 400-ppi resolution with targeted crops for the title, dense dialogue and difficult source forms. The published English translation was not used to settle Tamil readings.
+
+## Forward mapped pages
 
 ### Scans 44–45 — `pages/0044.md`, `pages/0045.md`
 
 - Scan 44 begins `காட்சி-13`, setting `கண்ணகி வீடு`; ornate title provisionally appears `துன்பப் புயலில் கண்ணகி`.
 - Scan 45 continues scene 13.
-- Both remain `needs-review`; image identifications must not be inferred beyond printed captions.
+- Both remain `needs-review`.
+- Image identifications must not be inferred beyond printed captions.
+- Before scene-13 verification is closed, inspect forward beyond scan 45 to locate the next `காட்சி-` heading and establish the complete physical scene extent.
 
 ## Working-unit decision
 
@@ -79,12 +71,12 @@ The user supplied `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf`, re
 
 ## Next activity
 
-Process **காட்சி-12 on scan 43 as one complete activity**.
+Process **காட்சி-13 beginning at scan 44**.
 
-1. Resolve the ornate decorative title from enlarged/native source before accepting any reading.
-2. Transcribe and verify the complete physical page: speaker labels, dialogue, stage directions, punctuation and physical word splits.
-3. Preserve printed page `27` exactly.
-4. Keep the peacock illustration distinct from dramatic text and do not infer meaning beyond visible support.
-5. Promote scan 43 to `verified` only after direct source comparison.
-6. Scan 44 already establishes the next boundary as `காட்சி-13`.
+1. Inspect forward from scans 44–45 until the next `காட்சி-` heading to establish the complete physical extent of scene 13.
+2. Resolve scan 44's ornate title from enlarged/native source before accepting the provisional `துன்பப் புயலில் கண்ணகி`.
+3. Transcribe and verify every physical scan in the scene: speaker labels, dialogue, stage directions, punctuation and physical word splits.
+4. Record printed pagination only where directly visible.
+5. Keep all photographs/reproductions distinct from dramatic text and use only printed captions/identifications.
+6. Promote each scan independently to `verified` only after direct source comparison.
 7. Do not begin scene assembly or English translation yet.
