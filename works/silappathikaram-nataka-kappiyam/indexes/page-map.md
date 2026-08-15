@@ -7,7 +7,8 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 1 | — | front matter | title / imprint | verified | Title-page wording visually verified; enlarged inspection confirms source shows `பதிப்புரிமை ]` at lower left and `[ விலை ரூ. 5` at lower right. |
 | 2 | — | front matter | photograph / caption | verified | Anna photograph; printed caption `தமிழக முதல்வர் / பேரறிஞர் அண்ணா / அணிந்துரை`; circular library stamp with handwritten `164596`; later pencil notation kept separate. |
 | 3 | iii | front matter | foreword | verified | Opening prose of the `அணிந்துரை`; complete text checked against the PDF's native 1662 × 2630, 300-ppi scan image. No library stamp or later handwriting crosses the prose. |
-| 4–9 | — | front matter | foreword | not-started | Anna foreword continues; scan 9 ends with `அன்பன்,` and signature. Each scan must be expanded to its own row when transcribed. |
+| 4 | iv | front matter | foreword | verified | `அணிந்துரை` continuation; complete prose and source-specific forms checked against the native embedded scan image; printed `iv` appears at lower left. |
+| 5–9 | — | front matter | foreword | not-started | Anna foreword continues; scan 9 ends with `அன்பன்,` and signature. Each scan must be expanded to its own row when transcribed. |
 | 10 | — | front matter | photograph / transition | not-started | Author portrait page. |
 | 11–16 | — | front matter | introductory / prefatory text | not-started | Scan 16 ends with signature. Each scan must be expanded to its own row when transcribed. |
 | 17 | — | dramatic body | scene | not-started | `காட்சி-1` begins. Decorative scene title requires enlarged visual verification. |
@@ -29,4 +30,4 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–3 are verified**. Continue sequential detailed processing with **scan page 4**, printed page `iv`, which continues the Anna foreword. Do not jump to scene assembly before the physical page records are complete.
+Scans **1–4 are verified**. Continue sequential detailed processing with **scan page 5**, which continues the Anna foreword. Do not jump to scene assembly before the physical page records are complete.
