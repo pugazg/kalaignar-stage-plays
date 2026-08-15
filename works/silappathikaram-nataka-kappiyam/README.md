@@ -41,17 +41,17 @@ Scene-title readings are accepted only after direct enlarged visual verification
 `காட்சி-12` is a one-scan scene on **scan 43 / `pages/0043.md`**.
 
 - Scene marker: `காட்சி-12`.
-- Enlarged source inspection confirms the ornate title **`இரு வாழ்விலும் கோவலன்`**.
+- Rechecking the enlarged Tamil source resolves the ornate title as **`இன்ப வாழ்வில் கோவலன்`**. An earlier repository reading `இரு வாழ்விலும் கோவலன்` was corrected.
 - Setting heading: **`மாதவி வீடு`**.
 - Printed page marker: **`27`** at lower right.
-- Complete two-column dramatic text is verified. Madhavi strings a garland while Kovalan watches her fingers; Kovalan launches into an extended description of her beauty, and the scene closes with the garland passing from Kovalan to Madhavi.
-- The long Kovalan speech crosses the physical column boundary: the left column ends at `அலை-`, and the right column resumes `வதுபோல்...`; this source structure is preserved in the page record.
-- Source-supported unusual forms preserved include `சேற் / கெண்டை`, `இருண்டு-கண்பறிக்கும்`, `வித்ததினிலே`, `யாரு / மில்ல !......`, `மன்னு!...`, and the visibly printed `ஏற்பட்ட / டும்!......`.
-- Physical source splits include `தொடுத்துக்கொண்டிருக் / கிறாள்`, `பார்த்துக்கொண் / டிருக்கிறான்`, `படைக் / கப்பட்டவள்`, `மேனி / யிலே`, `கண்ணுடிப் / பேழைக்குள்`, `கரு / வற்ற`, `பலாச்சுளைப் / போல்`, `கார / ணத்தால்`, `மொழி / வளத்தைப்`, `தொடுப் / பது`, `உண்டா / கிறது`, and `இருப்ப / தால்`.
+- Complete two-column dramatic text is verified. Madhavi strings a garland while Kovalan watches her fingers; Kovalan gives an extended description of her beauty, and the scene closes with the garland passing from Kovalan to Madhavi.
+- The long Kovalan speech crosses the physical column boundary: the left column ends at **`அசி`** and the right column resumes **`வதுபோல்...`**, forming the printed reading `அசிவதுபோல்`. An earlier `அலை- / வதுபோல்` transcription was corrected.
+- Other corrected source readings include **`மால்`** rather than `மாலை` in the opening and later `மலர் எடுத்து மால்...`, **`கலை / யழகைக்`** rather than `கவி / யழகைக்`, **`செவ்விதழ்போல்`**, **`வித்தினிலே`**, and **`மால்க்கும்`**.
+- Source-supported unusual forms retained include `சேற் / கெண்டை`, `இருண்டு-கண்பறிக்கும்`, `யாரு / மில்ல !......`, `மன்னு !...`, and the physical `ஏற்பட் / டும்!......` split.
 - A small lower-centre peacock illustration is uncaptioned; no symbolic meaning or character identity is inferred.
 - Scan 44 directly begins `காட்சி-13`, confirming scene 12 closes on scan 43.
 
-Verification used the controlling Tamil scan at enlarged 400-ppi resolution with targeted crops for the decorative heading, dense dialogue, column transition and unusual source forms. The published English translation was not used to settle Tamil readings.
+The title was settled from the enlarged Tamil scan itself. The user-supplied published English translation's contents independently renders scene 12 as “Kovalan in Newfound Joy”; this was used only as explicit secondary corroboration after the Tamil source reading, not as authority for transcription.
 
 ## Forward structural mapping
 
