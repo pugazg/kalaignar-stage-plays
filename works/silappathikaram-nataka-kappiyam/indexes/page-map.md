@@ -46,7 +46,7 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 40 | 24 | scene 10 | continuation / close-text | verified | Complete dance/collapse and Kovalan–Madhavi dialogue verified; final literary-text scan of scene 10. |
 | 41 | — | scene 10 | pictorial / final physical scan | verified | Full-page uncaptioned sculptural photograph/reproduction; scan 42 begins scene 11. |
 | 42 | 26 | scene 11 | scene opening / close | verified | `காட்சி-11`; enlarged title verified as `கற்பரசியின் கலக்கம்`; setting `கண்ணகி வீடு`; complete two-column text and lower-centre uncaptioned illustration verified; scan 43 begins scene 12. |
-| 43 | 27 | scene 12 | scene opening / close | verified | `காட்சி-12`; enlarged title verified as `இரு வாழ்விலும் கோவலன்`; setting `மாதவி வீடு`; complete two-column text and lower-centre uncaptioned peacock illustration verified; scan 44 begins scene 13. |
+| 43 | 27 | scene 12 | scene opening / close | verified | `காட்சி-12`; enlarged source title verified as `இன்ப வாழ்வில் கோவலன்`; setting `மாதவி வீடு`; complete corrected two-column text and lower-centre uncaptioned peacock illustration verified; scan 44 begins scene 13. |
 | 44 | — | scene 13 | scene opening | needs-review | `காட்சி-13`; title provisionally read `துன்பப் புயலில் கண்ணகி`; setting `கண்ணகி வீடு`; large uncaptioned photograph/reproduction. |
 | 45 | — | scene 13 | continuation | needs-review | Dense two-column continuation with lower-right uncaptioned sculptural photograph/reproduction. |
 | 46–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. No pagination or scene boundaries are inferred here. |
