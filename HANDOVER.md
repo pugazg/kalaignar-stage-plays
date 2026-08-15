@@ -30,54 +30,27 @@ Source facts already recorded:
 
 ## Completed page records
 
-### Scan 1 — verified
+### Scans 1–6 — verified
 
-`works/silappathikaram-nataka-kappiyam/pages/0001.md`
+Previously completed and retained as documented in the work README and page map.
 
-Title / imprint page. Important source-specific punctuation preserved exactly:
+### Scan 7 — verified
 
-- lower left: `பதிப்புரிமை ]`
-- lower right: `[ விலை ரூ. 5`
+`works/silappathikaram-nataka-kappiyam/pages/0007.md`
 
-### Scan 2 — verified
-
-`works/silappathikaram-nataka-kappiyam/pages/0002.md`
-
-Anna photograph/caption page. Printed caption preserved separately from library/copy marks.
-
-### Scan 3 — verified
-
-`works/silappathikaram-nataka-kappiyam/pages/0003.md`
-
-Opening prose page of the `அணிந்துரை`; printed page marker `iii`.
-
-### Scan 4 — verified
-
-`works/silappathikaram-nataka-kappiyam/pages/0004.md`
-
-Continuation of the `அணிந்துரை`; printed page marker `iv` at lower left.
-
-### Scan 5 — verified
-
-`works/silappathikaram-nataka-kappiyam/pages/0005.md`
-
-Continuation of the `அணிந்துரை`. No printed page marker is visibly present; do **not** infer `v` from neighbouring pagination.
-
-### Scan 6 — verified
-
-`works/silappathikaram-nataka-kappiyam/pages/0006.md`
-
-Continuation of the `அணிந்துரை`; printed page marker `vi` at lower left.
+Continuation of Anna's `அணிந்துரை`. No printed page marker is visibly present; do **not** infer `vii` merely because scan 6 shows `vi` and scan 8 shows `viii`.
 
 The page was checked directly against the supplied scan and an enlarged 300-ppi render. Important source-supported readings and typography include:
 
-- `இப்பழியால்`
-- `சுயமரியாதையே`
-- `இன்றமிழ்`
-- `அறிமுகமற்றவனைத்`
-- `திரவியமற்றவனாய்`
-- `புதுவாழ்வைக்காணும்`
-- physical line-break forms `சமூகங் / களுக்கிடையேயுள்ள`, `எழுத்தோவி / யத்தில்`, `உரு / வாக்குவதாய்`, and `கொண்ட / வனாய்`
+- `மிரளும் தனிமையும்`
+- `குன்றோபம்`
+- `தில கொய்யப்பட்டபோது`
+- `கல்லாக்களிமகன்`
+- `அரசர்குடிப்`
+- `நெஞ்சுங்`
+- `வாளாயிருக்க`
+- `கொலு மண்டபம்`
+- source punctuation such as `ஆனால்...!` and the emphatic quoted `“இல்லை! இல்லை! ...”` passage
 
 No library stamp or later handwriting crosses this prose.
 
@@ -91,35 +64,22 @@ Recorded in:
 
 `works/silappathikaram-nataka-kappiyam/metadata/english-translation-source.md`
 
-Source facts:
-
-- title: **Tale of the Anklet and One Act Plays**
-- series/display line: **Kalaignar in English Translation**
-- Bharathiar University / Macmillan
-- first published **2009**
-- `Tale of the Anklet` translated by **T. G. Narayanaswamy**
-- `One Act Plays` translated by **M. D. Jayabalan**
-- editors: **P. Marudanayagam** and **V. Murugan**
-- English contents list **38** numbered sections for `Tale of the Anklet`
-- SHA-256 `d1f00bc5738f381fbe9547c718c35d8b73ad5148cbecdd7582bb8797ffe30cdb`
-- 96,518,108 bytes; 158 scan pages
-
-Policy: this is a **secondary published translation witness**, not authority for the Tamil archival text. Do not use it to silently alter Tamil readings. When translation work eventually begins, collate it against the completed verified Tamil transcription, preserve translator choices separately, and respect copyright rather than committing the scanned English book or reproducing it extensively.
+It remains a **secondary published translation witness**, not authority for the Tamil archival text. Do not use it to silently alter Tamil readings. English translation work must wait until the Tamil transcription is complete and audited.
 
 ## Page-map state
 
-`indexes/page-map.md` records scans 1–6 individually as `verified`. Remaining Anna-foreword startup range is now `7–9`.
+`indexes/page-map.md` records scans 1–7 individually as `verified`. Remaining Anna-foreword startup range is now `8–9`; scan 8 visibly carries printed page `viii`.
 
 ## Exact checkpoint
 
-Scans **1–6 are complete and verified**. No dramatic body page has yet been transcribed.
+Scans **1–7 are complete and verified**. No dramatic body page has yet been transcribed.
 
 ## Next activity
 
-1. Process **scan page 7**, continuing the Anna foreword.
+1. Process **scan page 8**, visibly carrying printed page `viii`.
 2. Preserve every source-supported spelling, punctuation mark and paragraph break.
 3. Use enlarged/native scan inspection where small type is uncertain.
-4. Continue sequentially through scans 8–9 only after each preceding page is visually checked.
+4. Process scan 9 only after scan 8 is visually checked.
 5. Expand `indexes/page-map.md` one scan at a time.
 6. Do not assemble scenes yet.
 7. Do not begin English translation yet; retain the published English volume only as a documented future witness until the Tamil archival text is complete and audited.
