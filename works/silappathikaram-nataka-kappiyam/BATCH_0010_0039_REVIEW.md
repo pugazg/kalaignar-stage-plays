@@ -11,7 +11,7 @@ Scans **10 through 39 inclusive** were inspected directly from the controlling P
 - Scan 10 author portrait/caption page is represented.
 - Scans 11–16 are individually mapped as the author's introductory/prefatory material, including visible Roman pagination on scans 12 (`xii`), 14 (`xiv`), 15 (`xv`) and 16 (`xvi`), and the closing `அன்புடன்,` plus facsimile signature on scan 16.
 - The dramatic body from scans 17–39 is mapped page by page through **காட்சி-10**.
-- Visible printed Arabic page markers securely recorded in this range include scan 18=`2`, 20=`4`, 22=`6`, 24=`8`, 28=`12`, 31=`15`, 32=`16`, 34=`18`, and 38=`22`.
+- Visible printed Arabic page markers securely recorded in this range include scan 18=`2`, 20=`4`, 22=`6`, 24=`8`, scan 25=`2` **as an anomalous source marker**, 28=`12`, 31=`15`, 32=`16`, 34=`18`, and 38=`22`.
 - Photograph/illustration layers are separated from literary text in the individual page records.
 - No page number is inferred where the scan does not directly show one.
 
@@ -23,7 +23,7 @@ Scans **10 through 39 inclusive** were inspected directly from the controlling P
 | 2 | 18 | verified: `செங்குட்டுவன் பிறந்தநாள் விழா` |
 | 3 | 19 | verified after enlarged correction: `விழாவும் வினாவும்` |
 | 4 | 21 | verified: `இளங்கோ துறவு`; setting `சேரலாதன் மாளிகை` |
-| 5 | 24 | `சிலம்பின் தோற்றம்`; detailed verification pending |
+| 5 | 24 | verified: `சிலம்பின் தோற்றம்`; setting `சேரநாடு` |
 | 6 | 26 | ornate title provisionally read `பூம்புகார்ப் பொற்றொடி`; requires enlarged audit |
 | 7 | 29 | `கலைக்கரசி மாதவி`; detailed verification pending |
 | 8 | 33 | `கண்ணகி இல்லறம்`; detailed verification pending |
@@ -39,15 +39,16 @@ The original 30-page pass was intentionally structural rather than a claim of ch
 - **Scan 18 / காட்சி-2:** verified.
 - **Scans 19–20 / காட்சி-3:** verified as a complete scene; enlarged inspection corrected its title to `விழாவும் வினாவும்`.
 - **Scans 21–23 / காட்சி-4:** verified as a complete scene. Scan 22 carries printed page `6`; scan 23 closes the scene and includes the printed photograph caption `காவிரி — கடலில் கலக்கும் காட்சி`.
-- **Scans 24–39:** remain `needs-review` pending full enlarged character-level verification.
+- **Scans 24–25 / காட்சி-5:** verified as a complete scene. Scan 24 carries printed page `8`; enlarged native inspection resolves scan 25's lower-left source numeral as `2`, which is preserved as printed rather than normalized to an expected `9`.
+- **Scans 26–39:** remain `needs-review` pending full enlarged character-level verification.
 
-The scene-4 verification deliberately preserved difficult source forms including `வேந்த / னுக`, `வஞ் / சித்திலநகரின்`, `வேதனைக் களமாகி விடும் தமிழ்நாடு!`, the repeated dotted pauses in the family farewell passages, and the cross-column bracketed narration on scan 23.
+Scene-5 verification preserved the complete mountain-gifts list, scan 24's physical ending `கணவன் வருவான் வருவான்`, the unusual scan-25 split `நினைவூட்டினர் / கள்`, and the transition in which `புலிக் கொடி பறக்கிறது` and `பூம்புகார்ப் பட்டினக் காட்சிகள்` begin.
 
 No wording from the published English translation witness has been imported into the Tamil transcription. It remains a later collation source only.
 
 ## Verification discipline
 
-A physical page is promoted to `verified` only after its complete printed Tamil wording, punctuation, speaker labels, stage directions, headings, captions and source layers have been directly compared against the scan at enlarged/native resolution. Historical/source-supported spellings and apparent typographical forms are preserved rather than silently normalized.
+A physical page is promoted to `verified` only after its complete printed Tamil wording, punctuation, speaker labels, stage directions, headings, captions and source layers have been directly compared against the scan at enlarged/native resolution. Historical/source-supported spellings, anomalous pagination and apparent typographical forms are preserved rather than silently normalized.
 
 ## Working unit for subsequent detailed review
 
@@ -55,4 +56,4 @@ Detailed verification proceeds by **complete scene where practical**, while ever
 
 ## Next exact work
 
-Process **காட்சி-5 across scans 24–25 as one activity**. Verify both physical page records through the scene close before moving to `காட்சி-6`. Resolve scan 25's lower-left numeral only by direct enlarged inspection. Do not begin English translation from unverified source pages.
+Process **காட்சி-6 across scans 26–28 as one activity**. Resolve the ornate scan-26 title from enlarged/native source, verify all three physical page records through the scene boundary, and preserve all printed pagination/source anomalies exactly. Do not begin English translation from unverified source pages.
