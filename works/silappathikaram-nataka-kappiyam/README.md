@@ -11,11 +11,10 @@ This repository preserves this scanned edition as supplied. The PDF itself is no
 ## Current source inspection
 
 - Scan length: **88 pages**.
-- Scans 1–16: front matter, Anna's `அணிந்துரை`, author portrait and Kalaignar's complete prefatory material; verified.
-- `காட்சி-1` through `காட்சி-9` are now completely transcribed and verified from scans 17–38.
-- Scan 39 visibly begins **காட்சி-10** and is structurally mapped; detailed verification of that scene has not yet begun.
-- Scans 40–87 still require individual sequential mapping.
-- Scan 88 visibly carries **காட்சி-38**.
+- Scans **1–16**: front matter, Anna's `அணிந்துரை`, author portrait and Kalaignar's complete prefatory material; verified.
+- Scans **17–41**: detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-10**.
+- Scans **42–45**: individually mapped while locating the scene-10 boundary; currently `needs-review`.
+- Scan **88** visibly carries `காட்சி-38`.
 
 Scene-title readings are accepted only after direct enlarged visual verification; stylized headings are not guessed from context or from the English translation.
 
@@ -26,56 +25,59 @@ Scene-title readings are accepted only after direct enlarged visual verification
 | Repository bootstrap | Complete |
 | Source identity / checksum | Complete |
 | Initial scan survey | Complete |
-| Page map | Individual records through scan 39; later range still to expand |
-| Page records | Present through scan 39 |
-| Fully verified pages | **Scans 1–38** |
+| Page map | Individual records through scan 45 |
+| Page records | Present through scan 45 |
+| Fully verified pages | **Scans 1–41** |
 | Anna `அணிந்துரை` | Complete and verified |
 | Kalaignar preface | Complete and verified |
-| Dramatic-body detailed verification | **காட்சி-1 through காட்சி-9 verified** |
-| Scan 39 / காட்சி-10 opening | Structurally mapped; `needs-review` |
+| Dramatic-body detailed verification | **காட்சி-1 through காட்சி-10 verified** |
+| Scans 42–45 | Structurally mapped; `needs-review` |
 | Scene assembly | Not started |
 | Full source audit | Not started |
 | English translation | Not started; published translation witness recorded for future collation |
 
-## Latest detailed verification — காட்சி-9
+## Latest detailed verification — காட்சி-10
 
-`காட்சி-9` spans `pages/0036.md` through `pages/0038.md` and is now verified as a complete scene.
+`காட்சி-10` spans physical scans **39–41**.
 
-### Scan 36
+### Scan 39 — `pages/0039.md`
 
-- Scene marker: `காட்சி-9`.
-- Enlarged inspection confirms the decorative title **`பிரிவினை தந்த பேதை`**.
-- Exact printed setting line: **`கண்ணகி.கோவலன்—கட்டில் அறை`**. The punctuation is source evidence and is not normalized.
-- Complete two-column opening dialogue/stage text verified.
+- Scene marker: `காட்சி-10`.
+- Enlarged source inspection resolves the decorative title as **`கலையரசி கண்ட உவகை`**.
+- Setting heading: **`மாதவி இல்லம்`**.
+- Complete stage prose is verified: Kovalan's arrival, Madhavi's welcome, the shawl spread over muddy water, the garland, entry to the dance hall and dancers gradually withdrawing.
+- A circular library/accession stamp overlaps the upper-right of the ornate heading; it is recorded as later copy evidence and is not merged into the literary text.
 - No printed page number is visible.
-- Lower-centre lamp/interior illustration is uncaptioned.
-- Source forms retained include `ஊடலா?...அப்படியென்றுல்?...`, `ஊடல் என்றுல்`, `தில சிறந்தது`, `இது ஒன்றும் ஊடல் இல்ல;`, `வெளிநாட்டுக்கா?.`, `அகஸ்டஸ் சீமான்`, `கத்து கடல் கிழிச்`, and `செல்கின்றேரும்...`.
+- Large lower-right man/woman illustration is uncaptioned; no identity is inferred.
 
-### Scan 37
+### Scan 40 — `pages/0040.md`
 
-- Continues scene 9 above and below a central photograph.
-- Exact printed photograph caption: **`(சம்பாபதி கோயில் — பூம்புகார்)`**.
-- No printed page number is visible.
-- Complete dialogue verified, including source forms `உன் மறந்தாலன்றோ`, `முடவனுயிருப்பேன்.`, `செல்வ!`, `உனைப் பிரியேன்`, `விழியாத சிரிப்பு முத்தைக்`, `கொல்லாமற் கொல்லாதீர் கண்ணுளா!...`, `எண்ணிரண்டு பதினாறு கிழமை`, and `அகல்வதில்லே`.
+- Printed page marker: **`24`**.
+- Complete dance/collapse sequence and Kovalan–Madhavi dialogue are verified.
+- The source's repeated `ஆடுகிறாள்.` lines, `“தொப்”`, `“தடால்!”`, and unusual forms such as `அது வும்`, `கலை பெண்ணும் அலை`, `மண்ணுளும்`, `கண்ணுளன்`, and `கண்ணு!` are preserved rather than normalized.
+- Madhavi collapses after the dance and the page closes with `[மாதவி அவன் மடியில் மயங்கிச் சாய்கிறாள்]`.
+- A small lower-centre ornamental/conch-like illustration is uncaptioned.
+- This is the final physical scan of scene 10 containing literary text.
 
-### Scan 38
+### Scan 41 — `pages/0041.md`
 
-- Printed page marker: **`22`** at lower left.
-- Complete two-column continuation and scene close verified.
-- A bracketed stage direction crosses from the left column into the right; this physical source structure is preserved.
-- A central/lower sculptural photograph has no printed caption and is not identified by inference.
-- Difficult enlarged checks preserve unusual source forms including `மெய்தானு`, `என்பது தவறுதான்!`, `கிணை தொடுத் / தாலும்`, `என் வெறுக்கிறீர்`, and especially the visibly printed **`உன் / நூல்தான் எல்லாம்...`** rather than replacing it with an expected wording.
-- Scan 39 visibly begins `காட்சி-10`, confirming the scene boundary.
+- Full-page monochrome photograph/reproduction of a standing sculptural female figure.
+- No printed literary text, caption or page number is visible.
+- No identity is inferred from the image.
+- Scan 42 directly begins `காட்சி-11`, confirming scan 41 as the final physical scan associated with scene 10.
 
-Verification used the controlling Tamil scan at enlarged resolution with targeted crops for stylized headings, dense dialogue, captions and unusual source forms. The published English translation was not used to settle Tamil readings.
+Verification used the controlling Tamil scan at enlarged resolution with targeted crops for the stylized heading and dense text. The published English translation was not used to settle Tamil readings.
+
+## Forward structural mapping established during scene-10 boundary work
+
+- Scan 42: `காட்சி-11`, printed page `26`, setting `கண்ணகி வீடு`; title provisionally read `கற்பரசியின் கலக்கம்`; `needs-review`.
+- Scan 43: `காட்சி-12`, printed page `27`, setting `மாதவி வீடு`; decorative title deliberately unresolved pending enlargement; `needs-review`.
+- Scan 44: `காட்சி-13`, setting `கண்ணகி வீடு`; title provisionally read `துன்பப் புயலில் கண்ணகி`; `needs-review`.
+- Scan 45: continuation of `காட்சி-13`; `needs-review`.
 
 ## Detailed-review working unit
 
 Detailed verification proceeds by **one complete scene per activity where practical**, while preserving one archival `pages/00xx.md` record per physical scan.
-
-## Batch 10–39
-
-See `BATCH_0010_0039_REVIEW.md` for the structural survey and evolving verification status. Scans **10–38** have now been upgraded to verified. Scan **39** remains the only page in that original structural batch still at `needs-review`.
 
 ## Published English translation witness
 
@@ -83,4 +85,4 @@ A user-supplied published English volume is recorded at `metadata/english-transl
 
 ## Next work
 
-Begin **காட்சி-10** at scan 39. Because the original structural survey stops at that opening page, first inspect forward until the next scene boundary to establish the complete physical extent of காட்சி-10. Then verify the whole scene as one activity where practical, preserving one page record per scan. Do not begin scene assembly or English translation yet.
+Process **காட்சி-11 on scan 42 as the next complete scene**. Scan 43 directly begins `காட்சி-12`, so scene 11 is a one-scan scene. First verify the ornate title from enlarged source, then transcribe all dialogue/stage directions, printed page `26` and the illustration layer. Do not begin scene assembly or English translation yet.
