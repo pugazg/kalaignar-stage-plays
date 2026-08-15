@@ -28,26 +28,47 @@ Source facts already recorded:
 - scan 18 begins `காட்சி-2` and visibly carries printed page `2`
 - scan 88 visibly carries `காட்சி-38`
 
-## Files created
+## Completed page records
 
-- `README.md`
-- `STAGE_PLAY_PROCESSING_GUIDE.md`
-- `HANDOVER.md`
-- `works/silappathikaram-nataka-kappiyam/README.md`
-- `works/silappathikaram-nataka-kappiyam/metadata/source.md`
-- `works/silappathikaram-nataka-kappiyam/indexes/page-map.md`
-- `works/silappathikaram-nataka-kappiyam/pages/0001.md`
+### Scan 1 — verified
+
+`works/silappathikaram-nataka-kappiyam/pages/0001.md`
+
+Title / imprint page directly rechecked at enlarged resolution. Important source-specific punctuation preserved exactly:
+
+- lower left: `பதிப்புரிமை ]`
+- lower right: `[ விலை ரூ. 5`
+
+Do not symmetrize or silently repair these brackets.
+
+### Scan 2 — verified
+
+`works/silappathikaram-nataka-kappiyam/pages/0002.md`
+
+Photograph/caption page. Printed caption preserved as:
+
+`தமிழக முதல்வர்`  
+`பேரறிஞர் அண்ணா`  
+`அணிந்துரை`
+
+Non-authorial marks are recorded separately:
+
+- large circular library/ownership stamp;
+- handwritten accession number `164596` inside the stamp;
+- later pencil/shelf notation at mid-right, first line not secure enough for normalization; second line clearly reads `N67`.
+
+## Page-map state
+
+`indexes/page-map.md` now records scans 1 and 2 individually as `verified`. Startup range `3–9` remains for the Anna foreword and must be expanded page by page during transcription.
 
 ## Exact checkpoint
 
-`pages/0001.md` contains the title-page lexical transcription and source notes, but remains `needs-review` because the lower-left `பதிப்புரிமை` and lower-right price label have bracket/spacing details that should be checked at enlarged/native resolution before promotion to `verified`.
-
-No other scan page has yet been transcribed.
+Scans **1–2 are complete and verified**. No literary body page has yet been transcribed.
 
 ## Next activity
 
-1. Finish the native/enlarged audit of scan page 1 and update its status if justified.
-2. Process scan page 2 as a photograph/caption page, keeping the library stamp/accession and handwriting separate from printed caption text.
-3. Continue sequentially through the Anna foreword on scans 3–9.
-4. Expand the startup range rows in `indexes/page-map.md` into one row per scan as each page is processed.
+1. Process **scan page 3**, the opening page of the Anna foreword, as its own page record.
+2. Preserve the printed prose exactly as visible, including historical spelling, punctuation, paragraphing and any page marks.
+3. Continue sequentially through scans 4–9 only after each preceding page is visually checked.
+4. Expand `indexes/page-map.md` one scan at a time.
 5. Do not assemble scenes yet. Scene assembly begins only after the underlying physical pages are visually transcribed and reviewed.
