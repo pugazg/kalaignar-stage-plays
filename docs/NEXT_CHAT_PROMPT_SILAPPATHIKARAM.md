@@ -1,6 +1,6 @@
 # Next Chat Prompt — சிலப்பதிகாரம் நாடகக் காப்பியம்
 
-Copy/paste the prompt below into a fresh ChatGPT window. Attach the Tamil source PDF `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` because the audit may require targeted source-pixel rechecks.
+Copy/paste the prompt below into a fresh ChatGPT window. Attach the Tamil source PDF `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` so any assembly discrepancy can be rechecked directly against source pixels.
 
 ---
 
@@ -28,68 +28,86 @@ Before making any change, read these files completely and follow them exactly:
 4. root `HANDOVER.md`
 5. `works/silappathikaram-nataka-kappiyam/README.md`
 6. `works/silappathikaram-nataka-kappiyam/indexes/page-map.md`
-7. `works/silappathikaram-nataka-kappiyam/pages/0088.md`
+7. `works/silappathikaram-nataka-kappiyam/audit.md`
+8. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PLAN.md`
+9. `works/silappathikaram-nataka-kappiyam/pages/0017.md`
 
 Use the GitHub connector and work directly in the existing repository.
 
 ## Source authority
 
-The Tamil scan remains controlling authority. Do not silently modernize, correct, normalize, reconstruct or improve Kalaignar's Tamil. Preserve spelling, punctuation, speaker labels, stage directions, repetitions, unusual grammar, page/column continuations, pagination anomalies, captions and distinctions between publication text and later library/accession marks.
+The Tamil scan remains controlling authority. Verified `pages/NNNN.md` records are the immediate source for scene assembly. Do not silently modernize, correct, normalize, reconstruct or improve Kalaignar's Tamil.
 
-OCR, parsed text, another edition and the published English translation are secondary/assistive only.
+Preserve spelling, punctuation, speaker labels, stage directions, repetition, unusual grammar, source-supported spacing, page/column continuations and source anomalies. OCR, another edition and the published English translation are secondary/assistive only.
 
-## Completed page-level work — do not restart
+## Completed work — do not restart
 
 - All **88 supplied physical scans are visually verified**.
 - **காட்சி-1 through காட்சி-38 are complete at page-record level**.
-- Scan 88's same-scan post-scene closing tableau is archived.
-- Tamil page-level visual verification is complete for the supplied source.
+- The scan-88 post-scene closing tableau is archived.
+- Tamil page-level visual verification is complete.
+- Repository-wide Tamil transcription completion audit is **complete / PASS**.
+- `audit.md` confirms continuous `pages/0001.md`–`pages/0088.md` coverage and scene extents 1–38.
+- `SCENE_ASSEMBLY_PLAN.md` defines the scene assembly format and rules.
+- No scene assembly file has yet been created.
+- English translation has not begun.
 
-Do not retranscribe or casually modify verified pages. Change a verified reading only if direct source-pixel inspection proves it wrong, and document the correction explicitly.
+Do not retranscribe or casually modify verified pages. Change a verified page only if an assembly discrepancy gives a concrete reason and direct source-pixel inspection proves the existing reading wrong.
 
-### Final scan checkpoint
+## Assembly convention
 
-`pages/0088.md` is `verified`.
+Planned output:
 
-It contains:
+`works/silappathikaram-nataka-kappiyam/scenes/01.md` through `38.md`, plus `scenes/closing-tableau.md`.
 
-- `காட்சி-38`
-- title: `கண்ணகி சிலைக்குக் கல்`
-- setting: `இமயத்தில் - குயிலாலுவம்`
-- final supplied physical scan
-- post-scene `வஞ்சிமூதூரில் / கண்ணகி சிலை நாட்டு விழா` tableau after three centred `*` marks
+Assembly rules:
 
-A later circular library/accession stamp with handwritten `164596` obscures the leading characters of two closing-tableau lines. The page record explicitly marks those source-obscured positions before the visible suffixes `ங்குட்டுவன்` and `ங்கோவடிகள்`; do not invent or silently restore hidden letters.
+- assemble only from verified page records;
+- keep page records authoritative;
+- mechanical printed line/column wrapping may be joined only when wording and punctuation are unchanged;
+- preserve repeated wording and source-specific punctuation;
+- preserve exact speaker labels and stage directions;
+- keep visual material/captions in a separate source-visual section;
+- retain scan provenance for multi-scan scenes;
+- do not infer printed pagination;
+- do not reconstruct scan-88 stamp-obscured characters;
+- an assembled scene starts at `draft` and needs separate assembly review.
 
-## Exact next activity — Tamil transcription completion audit / scene-assembly readiness
+## Exact next activity — scene-1 assembly pilot
 
-Do **not** begin English translation yet.
+Assemble **காட்சி-1 / scan 17**.
 
-Perform a repository-wide audit of the completed Tamil page archive:
+Input:
 
-1. Confirm all 88 `pages/NNNN.md` records exist.
-2. Confirm page-record statuses match `indexes/page-map.md`.
-3. Find any remaining `needs-review`, `partial` or `blocked` page records.
-4. Inventory all source anomalies and special layers, including:
-   - uncertain/missing printed pagination;
-   - scan 73's visible anomalous `8`;
-   - scan 81's unresolved lower-left pagination mark;
-   - scan 88's stamp-obscured tableau characters;
-   - printed captions;
-   - photographs/illustrations;
-   - later library/accession/handwritten marks.
-5. Verify the physical scan extents of **காட்சி-1 through காட்சி-38** against page records and `page-map.md`.
-6. Confirm scene titles, settings/sub-settings and cross-page/cross-column continuations needed for assembly.
-7. Create or update a work-level audit record documenting findings and any remaining source-obstruction issues.
-8. Create a scene-assembly readiness/plan record mapping each scene to verified page records.
-9. Do not normalize wording, punctuation, spelling, stage directions or source anomalies during planning.
-10. Do not begin actual English translation in this activity.
+`works/silappathikaram-nataka-kappiyam/pages/0017.md`
 
-If a discrepancy is found, re-open only the affected scan/page and verify it directly against the attached Tamil source. Do not reopen completed material without a concrete audit reason.
+Output target:
+
+`works/silappathikaram-nataka-kappiyam/scenes/01.md`
+
+Verified structure:
+
+- scene: `காட்சி-1`
+- decorative title: **`வஞ்சி மூதூரில் முரசறைதல்`**
+- physical source extent: scan **17 only**
+- there is **no separate printed setting heading**; use `setting: null` and do not invent one from the opening stage direction
+- the decorative architectural/drummer heading artwork is a separate visual layer, not literary text
+
+For the pilot:
+
+1. Read `pages/0017.md` completely.
+2. Create `scenes/01.md` using the front-matter convention in `SCENE_ASSEMBLY_PLAN.md`.
+3. Assemble the scene from the verified page record without changing source wording, punctuation, speaker labels or stage directions.
+4. Remove only mechanical printed line wrapping where the assembly plan permits it; do not remove genuine repetition or source-significant spacing/punctuation.
+5. Keep title artwork in a separate `Source visual layers` section.
+6. Set assembly status to `draft` and `assembled_from_verified_pages: true`.
+7. Perform an assembly-level comparison of the new scene file against `pages/0017.md`.
+8. If the pilot format is sound, update the assembly plan/handover to record the accepted convention and identify `காட்சி-2 / scan 18` as the next assembly activity.
+9. Do not begin scene 2 in the same activity unless explicitly instructed.
 
 ## Translation lock
 
-English translation remains a later phase.
+Do not begin English translation.
 
 Permanent terminology instruction: **Do not automatically translate `அந்தணர்` as “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and other source terms. English renderings will be decided only in dedicated terminology review.
 
@@ -99,14 +117,15 @@ When translation eventually begins, retain Kalaignar's language, rhetoric, caden
 
 Report:
 
-- whether all 88 page records are present and status-consistent;
-- any remaining `needs-review` / `partial` / `blocked` records;
-- all material anomalies/source obstructions requiring preservation;
-- whether scenes 1–38 map cleanly to verified pages;
-- files created/updated for audit and assembly readiness;
-- whether any verified page required correction and why;
-- exact next archival activity after the audit.
+- scene assembled and exact source scan;
+- whether any verified page reading required correction;
+- mechanical joins performed, if any;
+- visual layers separated;
+- files created/updated;
+- assembly status of `scenes/01.md`;
+- whether the pilot format was accepted;
+- exact next scene assembly activity.
 
-Proceed now with the **Tamil transcription completion audit / scene-assembly readiness review**.
+Proceed now with **காட்சி-1 / scan 17 scene assembly pilot**.
 
 ---
