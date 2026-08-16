@@ -17,27 +17,54 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 
 ## Current verification checkpoint
 
-Scans **1–71 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-28**.
+Scans **1–75 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-29**.
 
-## Newly completed activity — காட்சி-28, scan 71
+## Newly completed activity — காட்சி-29, scans 72–75
 
-### Scan 71 — `pages/0071.md`
+### Scene identity / extent
 
-- `காட்சி-28`.
-- Decorative title verified as **`பொற்கொல்லர் முறையீடு`**.
-- Setting: **`பாண்டியன் தனிமாடம்`**.
-- No printed page number is securely visible; do not infer one.
-- Complete two-column dramatic text verified using enlarged 500-ppi source views.
-- Preserve the source's unmatched closing bracket after `கோப்பெருந்தேவி கேட்டுக்கொண்டே / வருகிறாள்.]`; do not repair it editorially.
-- `கோப்` asks about the delayed royal anklet while `நெடுஞ்` writes a poem on the greatness of education, including the printed fragment `“உற்றுழி உதவியும் / உறுபொருள் கொடுத்தும்”...`.
-- `தலைமைப் பொற்` reports that the queen's anklet has vanished from the locked box even though he retained the key; Nedunchezhiyan orders all one hundred goldsmiths brought before the court and says he will conduct the inquiry himself.
-- Preserve speaker labels exactly: `கோப்`, `நெடுஞ்`, `தோழி`, `தலைமைப் பொற்`.
-- Preserve source forms/punctuation including `பார்க்கிறர்`, `ஊகூம்`, `அப்படி யென்ன`, `பள்ளிக்கூடமுமல்ல`, `செய்தியைச் சொல்லும்`, `நீதி மன்றத்தில்`, `நிறுத்தும்!`, and `கண்டு பிடிக்கிறேன்`.
-- Preserve physical splits including `எழுதிக்கொண் / டிருக்கிறான்`, `கொண் / டிருக்கிறீர்களாம்`, `புறத் / துறைப்`, `கொண்டிருக் / கிறேன்`, `முழக் / கம்`, `திறவுகோலை / யும்`, and `சொல்லு / வேன்`.
-- Small lower-centre oval anklet/ornament-like illustration is uncaptioned.
-- Scan 72 directly begins `காட்சி-29`, so scene 28 is a one-scan scene.
+- `காட்சி-29`.
+- Decorative title verified as **`ஒற்றைச் சிலம்பின் ஒலி`**.
+- Setting: **`மாதரி வீடு`**.
+- Physical extent: scans **72–75**.
+- Scan 76 directly begins `காட்சி-30`.
 
-Verification used the controlling Tamil scan only for wording. The supplied published English translation was not used to settle Tamil readings.
+### Scan 72 — `pages/0072.md`
+
+- Printed page **56** visibly present.
+- Complete two-column text verified.
+- Kannagi and Kovalan discuss restarting trade; Kannagi proposes using one of the anklets from her marriage gifts.
+- Preserve source forms including `அழுகக்கேன்`, `கழற்றுமல்`, `வழி யென்று`, `எலி மயிரினால்`, `நெய்யுந் தொழில்`, `பலதொழில்`, and `காற்சிலம்புகள்`.
+- Small lower-centre bird/dove-like illustration is uncaptioned.
+
+### Scan 73 — `pages/0073.md`
+
+- Complete continuation verified.
+- The lower-left visibly prints only **`8`**. Preserve that anomalous marker exactly; do not infer or substitute expected sequential pagination.
+- Preserve source forms including `வீட்டு வைத்திருக்கும்`, `சுந்தரச் சிலம்பையா`, `போனதை யெல்லாம்`, `எப்படி யிருக்கிறது?`, `வழக்கத்தைவிடக்`, and the visibly printed `தலிநகருக்கு!`.
+- Large lower-right dramatic illustration of a man and woman is uncaptioned.
+
+### Scan 74 — `pages/0074.md`
+
+- Complete continuation verified.
+- The emotional single-anklet passage is preserved source-faithfully.
+- Preserve source forms including `வருமத்தான்`, `ஒலி யெழுப்பும்`, `உன்மத்தனின்`, `சம்மட்டியடிகள்`, `ஆவிநிகர் மீனியாளே`, `புன்மதியாளனுக்கு`, `கவலைப் படாதீர்கள்`, and `நனவதற்கோ`.
+- No visible printed page number is inferred.
+- Small upper-centre elephant-like illustration is uncaptioned.
+
+### Scan 75 — `pages/0075.md`
+
+- Complete scene close verified.
+- Preserve source forms including `ஒரு முறை யத்தான்!`, `திரும்பிவந்து விட்டார்களே...`, `ஆரம்பமாகி விட்ட`, and `கோவலன் நகர - மாதரி`.
+- No visible printed page number is inferred.
+- Lower archaeological/object panel exact caption:
+  - `“பூம்புகார்” அகழ்வாராய்ச்சி—`
+  - `கரிகாலன் காலத்துப் பொற்காசு`
+  - `களும் அவற்றில் பொறித்துள்ள`
+  - `சின்னங்களும்.`
+- The panel contains two line-drawn symbols at left and two photographed/reproduced coin-like or inscribed objects at right.
+
+Verification used the controlling Tamil scan and enlarged 4x / 6x direct visual comparison. The supplied published English translation was not used to settle Tamil wording.
 
 ## Permanent future-translation terminology note
 
@@ -47,15 +74,17 @@ Do **not** automatically translate Kalaignar's `அந்தணர்` as “Bra
 
 Detailed verification proceeds by **one complete scene per activity where practical**, with one independent archival record per physical scan.
 
-## Forward mapped scene — காட்சி-29
+## Forward mapped scene — காட்சி-30
 
-Individual structural records now exist for scans **72–75**, all at `needs-review`.
+### Scan 76 — `pages/0076.md`
 
-- Scan 72 — `pages/0072.md`: begins `காட்சி-29`; provisional title **`ஒற்றைச் சிலம்பின் ஒலி`**; setting **`மாதரி வீடு`**; printed page **56**.
-- Scan 73 — `pages/0073.md`: continuation with a large lower-right dramatic illustration; pagination not yet accepted.
-- Scan 74 — `pages/0074.md`: continuation with a small elephant-like illustration; pagination not yet accepted.
-- Scan 75 — `pages/0075.md`: continuation / close with archaeological/object images and a printed Tamil caption that still requires exact enlarged transcription.
-- Scan 76 begins `காட்சி-30`, so scene 29 spans scans **72–75**.
+- Begins `காட்சி-30`.
+- Provisional decorative title: **`சிலம்போ சிலம்பு`**.
+- Setting: **`பொற்கொல்லர் நிலையம்`**.
+- Printed page **60** visibly present.
+- Dense two-column text plus a small uncaptioned bow-and-arrow-like lower illustration.
+- Scan 77 directly begins `காட்சி-31`, so scene 30 is a one-scan scene.
+- Status: `needs-review`.
 
 ## Published English translation witness
 
@@ -63,4 +92,4 @@ The supplied published English volume remains a secondary future collation witne
 
 ## Next activity
 
-Process **காட்சி-29 across scans 72–75** as one complete scene. Verify the ornate title, all four pages of dialogue/stage directions, speaker labels, punctuation, actual visible pagination, illustrations and the exact archaeological/object caption on scan 75 before marking those pages `verified`. Do not begin scene assembly or English translation yet.
+Process **காட்சி-30 / scan 76** as one complete scene. Verify the ornate title, all dialogue/stage directions, speaker labels, punctuation, physical splits and lower illustration before marking it `verified`. Do not begin scene assembly or English translation yet.
