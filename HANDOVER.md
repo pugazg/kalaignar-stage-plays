@@ -23,8 +23,8 @@ Before continuing read completely:
 9. `translations/en/README.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
 11. `translations/en/PILOT_REVIEW.md`
-12. `translations/en/02_REVIEW.md` through `translations/en/26_REVIEW.md`
-13. completed English `translations/en/01.md` through `translations/en/26.md`
+12. `translations/en/02_REVIEW.md` through `translations/en/29_REVIEW.md`
+13. completed English `translations/en/01.md` through `translations/en/29.md`
 14. the verified Tamil scenes currently being translated.
 
 ## Permanent Tamil-source rules
@@ -46,9 +46,9 @@ Do not redo Tamil scene assembly during translation.
 
 ## English translation checkpoint
 
-- scenes **1–26**: **PASS / `translation-reviewed`**.
-- English progress: **26/38 numbered scenes**.
-- no published English witness used for scenes 1–26.
+- scenes **1–29**: **PASS / `translation-reviewed`**.
+- English progress: **29/38 numbered scenes**.
+- no published English witness used for scenes 1–29.
 
 ## Kalaignar-language / Dravidian-movement relation rule
 
@@ -60,38 +60,42 @@ Relate Dravidian movement concepts only when source wording or Kalaignar's drama
 
 Latest accepted patterns:
 
-- scene 24: Kural-based practical courage/human agency and Pandya historical symbolism;
-- scene 25: Tamil literary culture as a public good, justice, labour/authorship and protection of the `kaviyam` over personal fame;
-- scene 26: skilled craft and official wrongdoing shown as human action, with movement interpretation kept deliberately restrained.
+- scene 27: Aayar/Aychiyar social memory, Jain-linked hospitality and Kannagi's entrustment to Madhari are handled through dignity/protection without imposed caste modernization;
+- scene 28: `Tamil... is a breeze! It enters everywhere.` preserves Kalaignar's intimate language politics; learning/inquiry/justice resonance remains in the note;
+- scene 29: Kannagi uses her anklet as economic capital, while Kovalan imagines the remaining anklet as a voice of conscience rather than fate; domestic and performance culture remain fully present.
 
 ## Permanent terminology lock
 
 `அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்`, and related terms through contextual terminology review.
 
-New controlling decisions through scene 26:
+New controlling decisions through scene 29:
 
-- `இடுக்கண் வருங்கால் நகுக!` → `When adversity comes, smile!`, independently translated from Kalaignar's printed Tamil;
-- `தமிழ்ச் சங்கம்` → `Tamil Sangam`;
-- scene 25 repeated `காவியம்` → `kaviyam`;
-- `நீதி வழுவா` → `unswerving in justice`;
-- `அரசாங்கச் சிலம்பு` → `government anklet` in the comic context;
-- `மணி மோதிரம்` → `gem-set ring`;
-- uncertain `மல்லிகை கல்` → retained `malligai-kal`.
+- `ஆய்ச்சியர்` → retained `Aychiyar`;
+- `ஆயர்குல மங்கை` → `a woman of the Aayar people` in scene 27;
+- `பாற்சோறு` → `milk-rice`;
+- `அடைக்கலம்` follows immediate protection/entrustment sense;
+- `[ஊடல்]` → `[oodal]`;
+- `புறத்துறைப் பாடல் / புறப்பாடல்` retains `puram` terminology;
+- `நீதி மன்றம்` → `hall of justice` in scene 28;
+- `குரவைக் கூத்து` → `kuravai koothu`;
+- `தாம்பூலம்` → `taamboolam`;
+- `கணீர் கணீர்` → `kanir, kanir`;
+- source-opaque `ஆவிநிகர் மீனியாளே ஆளவிட்ட கரும்பாக்கி` is retained transliterated rather than reconstructed.
 
 The published English edition, if later consulted, is a secondary comparison witness only.
 
-## Exact next activity — controlled batch scenes 27–29
+## Exact next activity — controlled batch scenes 30–32
 
 Translate and individually review:
 
-- Scene 27 — `ஆய்ச்சியர் அறிமுகம்`, initial setting `மதுரை எல்லை`, internal `மாதரி வீடு...`;
-- Scene 28 — `பொற்கொல்லர் முறையீடு`, setting `பாண்டியன் தனிமாடம்`;
-- Scene 29 — `ஒற்றைச் சிலம்பின் ஒலி`, setting `மாதரி வீடு`.
+- Scene 30 — `சிலம்போ சிலம்பு`, initial setting `பொற்கொல்லர் நிலையம்`, internal `சாலை`;
+- Scene 31 — `வளைந்தது செங்கோல்`, initial setting `நெடுஞ்செழியன் பள்ளியறை`, internal `தாழ்வாரம்`;
+- Scene 32 — `மதுரை மண்ணில் கோவலன் குருதி`, setting `வீதியிலுள்ள மண்டபம்`.
 
 Special attention:
 
-- scene 27: Aiyai/Madhari hospitality, `ஆயர்குல மங்கை`, Jain-ascetic context and Kannagi's placement under Madhari's protection; avoid unsupported caste/community modernization;
-- scene 28: royal-couple wit, Tamil-as-breeze image, quoted `உற்றுழி உதவியும் / உறுபொருள் கொடுத்தும்` verse, missing-anklet report and planned inquiry; translate quoted verse independently and preserve source bracket anomaly;
-- scene 29: domestic intimacy, trade planning, anklet-as-capital, `குரவைக் கூத்து`, one-anklet removal and the remaining anklet's moral personification.
+- scene 30: hundred-goldsmith denial, street-sale sequence and the chief goldsmith's recognition; preserve colloquial timing and do not grant Kovalan narrator hindsight;
+- scene 31: royal-couple dispute, country-versus-private rhetoric, unmatched opening bracket, goldsmith accusation and abrupt `உடனே அவனைக் கொன்று வருக!...` order; do not soften the failure of justice;
+- scene 32: Kovalan's accusation scene, his Tamil/justice/aram rhetoric, demand to face Nedunchezhiyan and the movement toward his killing; preserve the accumulation and institutional violence without inserting modern legal terminology.
 
 Each scene must independently pass line-by-line coverage, semantic fidelity, Kalaignar voice, terminology, stage timing and Dravidian-context separation.
