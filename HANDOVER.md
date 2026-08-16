@@ -4,6 +4,16 @@
 
 `pugazg/kalaignar-stage-plays` on `main`.
 
+## Fresh-session continuation package
+
+For a new chat/window, use these three files together:
+
+1. `docs/SILAPPATHIKARAM_PROJECT_HANDOVER.md` — exact project state and next activity
+2. `docs/SILAPPATHIKARAM_CONTINUATION_GUIDELINES.md` — work-specific source/verification rules
+3. `docs/NEXT_CHAT_PROMPT_SILAPPATHIKARAM.md` — ready-to-copy prompt for the next chat
+
+The repository-level `STAGE_PLAY_PROCESSING_GUIDE.md` remains mandatory and controlling for general workflow.
+
 ## Permanent rules
 
 Read `STAGE_PLAY_PROCESSING_GUIDE.md` completely before continuing. The supplied Tamil scan is controlling authority. Do not silently modernize, correct, normalize, reconstruct or improve Kalaignar's Tamil. OCR is assistive only. Source PDFs are not committed.
