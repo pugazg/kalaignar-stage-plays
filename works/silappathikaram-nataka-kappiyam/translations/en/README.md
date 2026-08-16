@@ -19,58 +19,56 @@ The English must retain Kalaignar's cadence, repetition, imagery, wit, emotional
 ## Current status
 
 - Tamil archival/assembly/global-review gates: **complete / PASS**.
-- Scenes **1–14**: translated / `translation-reviewed` / PASS.
-- English progress: **14 / 38 numbered scenes**.
-- No published English witness has been used for scenes 1–14.
+- Scenes **1–17**: translated / `translation-reviewed` / PASS.
+- English progress: **17 / 38 numbered scenes**.
+- No published English witness has been used for scenes 1–17.
 
-Completed translation stages:
+Completed stages:
 
-- scenes 1–2: two-register pilot — PASS;
+- scenes 1–2: pilot — PASS;
 - scenes 3–5: controlled batch — PASS;
 - scenes 6–8: controlled batch — PASS;
 - scenes 9–11: controlled batch — PASS;
-- scenes 12–14: controlled batch — PASS.
+- scenes 12–14: controlled batch — PASS;
+- scenes 15–17: controlled batch — PASS.
 
-## Latest batch — scenes 12–14
+## Latest batch — scenes 15–17
 
-### Scene 12 — `இன்ப வாழ்வில் கோவலன்`
+### Scene 15 — `மனமாறிந்த கோவலன்`
 
-- English: `Kovalan in a Life of Delight`.
-- Preserves Kovalan's long cumulative erotic praise rather than shortening it.
-- `காந்தள்` remains `kanthal`; unresolved verified `சேற் கெண்டை` is retained as `ser-kendai` rather than guessed.
-- The scene's climax remains explicit: describing Madhavi gives **glory to Tamil itself**.
+- English: `Kovalan, His Heart Changed`.
+- Preserves the unusual verified title rather than silently normalizing it to a stronger `repentant` label.
+- Keeps the complete visual-memory montage, `THADAAL`, spear/heart rhetoric and repeated `அத்தான்` appeals.
+- `தமிழ்ச் சுவையைப் பருகுதற்கு` remains `drinking the taste of Tamil`.
 
-### Scene 13 — `துன்பப் புயலில் கண்ணகி`
+### Scene 16 — `மணிமேகலை பிறப்பு`
 
-- English: `Kannagi in a Storm of Sorrow`.
-- Preserves the deliberate emotional contrast with scene 12.
-- `தமிழர் வழக்கப்படி` → `according to Tamil custom`.
-- Kannagi's defence of Madhavi, her defence of Kovalan before both families, and the three final repetitions of `யாரும் இங்கே வராதீர்கள்` remain intact.
+- English: `The Birth of Manimekalai`.
+- `நன்னிராட்டு` is retained as `nanniraattu` because the scene does not define a safer one-to-one English ritual label.
+- `குறளி` is retained as `kurali`; no instrument/voice identity is guessed.
+- `மேகலை / மேலானகலை / மணிமேகலை` sound-play is preserved rather than replaced by an English pun.
+- `மறையவன்` → `man of sacred lore`, **not `Brahmin`**.
 
-### Scene 14 — `மாதவியின் மாண்பு`
+### Scene 17 — `மாசறு பொன்மகிழ்வு`
 
-- English: `Madhavi's Nobility`.
-- Preserves the `மாதவி / மாதா / பிதா` pregnancy wordplay through transliteration plus in-line meaning.
-- The parrot-and-snake story is translated exactly as the verified source gives it; no external literary variant is substituted.
-- `பிராமண`, `பார்ப்பன`, `அந்தணர்`, and `மறையவர்` are **not collapsed**:
-  - `பிராமண மாது / பிராமணமாது` → `Brahmin woman`;
-  - `பார்ப்பனமாது` → `paarppana woman` in that stage direction;
-  - `அந்தணர் / அந்தணன்` → `Antanar`, **not Brahmin**;
-  - `மறையவர்` → `man of sacred lore`;
-  - `தமிழ் மறை` → `Tamil sacred lore`.
-- Kovalan's practical atonement argument and Madhavi's `it is not enough to preach to the whole town` reversal are preserved.
+- English: `Stainless Gold Rejoices`, keeping Kannagi's established `மாசறு பொன்` image.
+- `தமிழரல்லவா ?...` remains explicitly `Is he not a Tamil ?...`.
+- Kannagi's `என் தங்கை` remains `my younger sister`, preserving her relation to Madhavi rather than converting it to rivalry.
+- Pictorial-only scan 52 receives no invented literary content.
 
 ## Permanent terminology discipline
 
-Do **not** collapse `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவர்` into one English label. In particular, `அந்தணர்` remains explicitly **not automatically `Brahmin`**.
+Do **not** collapse `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்` into one English label. `அந்தணர்` remains explicitly **not automatically `Brahmin`**.
 
-## Exact next controlled batch — scenes 15–17
+## Exact next controlled batch — scenes 18–20
 
 Translate and review independently:
 
-- `15.md` — `மனமாறிந்த கோவலன்`, setting `கண்ணகி வீடு`;
-- `16.md` — `மணிமேகலை பிறப்பு`, setting `மாதவி வீடு`;
-- `17.md` — `மாசறு பொன்மகிழ்வு`, setting `கண்ணகி வீடு`.
+- `18.md` — `இந்திர விழா-இருமனைகளில்`: cross-cut festival sequence across Puhar, Madhavi's house, Kannagi's house and the seashore;
+- `19.md` — `கானல் வரியும் / காதல் பிரிவும்`, setting `புகார்`: yaazh, quoted Kaanal Vari material, jealousy and love-separation;
+- `20.md` — `திருந்திய கோவலன் / திரும்பி வருதல்`, setting `கண்ணகி வீடு`: repentance/return, Kannagi's defence of Madhavi and Manimekalai, and highly loaded social-status language.
+
+Scene 19 source songs/quotations must be translated independently from the verified Tamil; do not import a published standard English rendering. Scene 20 requires occurrence-level review of every caste/social/sexual-status term.
 
 Each scene requires its own `NN_REVIEW.md` and PASS before the batch is complete.
 
