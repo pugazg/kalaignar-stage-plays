@@ -23,8 +23,8 @@ Before continuing read completely:
 9. `translations/en/README.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
 11. `translations/en/PILOT_REVIEW.md`
-12. `translations/en/02_REVIEW.md` through `translations/en/17_REVIEW.md`
-13. completed English `translations/en/01.md` through `translations/en/17.md`
+12. `translations/en/02_REVIEW.md` through `translations/en/20_REVIEW.md`
+13. completed English `translations/en/01.md` through `translations/en/20.md`
 14. the verified Tamil scenes currently being translated.
 
 ## Permanent Tamil-source rules
@@ -48,9 +48,9 @@ Do not redo Tamil scene assembly during translation.
 
 Completed and individually reviewed:
 
-- scenes **1–17**: **PASS / `translation-reviewed`**.
-- English progress: **17/38 numbered scenes**.
-- no published English witness used for scenes 1–17.
+- scenes **1–20**: **PASS / `translation-reviewed`**.
+- English progress: **20/38 numbered scenes**.
+- no published English witness used for scenes 1–20.
 
 Completed translation stages:
 
@@ -59,13 +59,8 @@ Completed translation stages:
 - scenes 6–8: controlled batch — PASS;
 - scenes 9–11: controlled batch — PASS;
 - scenes 12–14: controlled batch — PASS;
-- scenes 15–17: controlled batch — PASS.
-
-## Latest accepted translation handling
-
-- scene 15 preserves the unusual `மனமாறிந்த` title without normalizing it, the complete visual-memory montage, `THADAAL`, repeated appeals and `தமிழ்ச் சுவை` as `the taste of Tamil`;
-- scene 16 retains `நன்னிராட்டு` as `nanniraattu`, unresolved `குறளி` as `kurali`, the `மேகலை / மேலானகலை / மணிமேகலை` wordplay and `மறையவன்` as `man of sacred lore`;
-- scene 17 preserves `மாசறு பொன்`, explicit `தமிழரல்லவா ?...` and Kannagi's `என் தங்கை` relationship to Madhavi.
+- scenes 15–17: controlled batch — PASS;
+- scenes 18–20: controlled batch — PASS.
 
 ## Kalaignar-language / Dravidian-movement relation rule
 
@@ -75,32 +70,40 @@ Relate Dravidian movement concepts only when source wording or Kalaignar's drama
 
 **Do not insert those concepts into translated dialogue if the Tamil does not state them.** Use a separately labelled `Dravidian movement resonance — interpretive note` when useful.
 
+Latest accepted patterns:
+
+- scene 18: Tamil historical festival framing, `தமிழச்சி` identity and the juxtaposition of Madhavi/Kannagi households;
+- scene 19: Madhavi questions the unequal chastity logic in Kovalan's Kaanal Vari interpretation; Kovalan's later hereditary-status abuse is preserved as his failure, not translator truth;
+- scene 20: Kannagi counters Kovalan's stigma by calling Madhavi her younger sister and Manimekalai her child; her anklet offer provides practical economic agency.
+
 ## Permanent terminology lock
 
-`அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்`, and related terms through contextual review.
+`அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்`, and related terms through contextual terminology review.
 
-Key precedents:
+Scene 14 remains the strongest lexical precedent; scene 16 continues `மறையவன் → man of sacred lore`.
 
-- explicit `பிராமண` may be `Brahmin` where the source says it;
-- `பார்ப்பன` remains occurrence-specific;
-- `அந்தணர் / அந்தணன்` is not automatically `Brahmin`;
-- `மறையவன் / மறையவர்` is handled by immediate learned/sacred-lore context;
-- `தமிழ் மறை` remains `Tamil sacred lore` unless a later occurrence requires documented revision.
+Scenes 18–20 add:
+
+- `பழந்தமிழ் மன்னன் இந்திரன்` → `Indran, the ancient Tamil king`;
+- `மானங் காக்கும் தமிழச்சி` → `Tamil woman who guards honour`;
+- `கானல் வரி` → `Kaanal Vari`, with quoted verses translated independently from verified Tamil;
+- `காட்டுவரி / கண்கூடுவரி` → retained `kaattivari / kankooduvari` pending secure technical equivalence;
+- `கணிகை`, `விலை மாது`, `உடல் வாணிபம்`, `காமக்கடை`, `குலத்தொழில்` remain distinct and speaker-attributed rather than collapsed into one social label.
 
 The published English edition, if later consulted, is a secondary comparison witness only.
 
-## Exact next activity — controlled batch scenes 18–20
+## Exact next activity — controlled batch scenes 21–23
 
 Translate and individually review:
 
-- Scene 18 — `இந்திர விழா-இருமனைகளில்`;
-- Scene 19 — `கானல் வரியும் / காதல் பிரிவும்`;
-- Scene 20 — `திருந்திய கோவலன் / திரும்பி வருதல்`.
+- Scene 21 — `கலைமகள்`, setting `மாதவி வீடு`;
+- Scene 22 — `மதுரைப் பயணம்`, setting `மதுரை செல்லும் வழி`;
+- Scene 23 — `மாதவி துறவு`, setting `மாசாத்துவான் வீடு`.
 
 Special attention:
 
-- scene 18: cross-cut festival spectacle and two-household emotional contrast; preserve `பழந்தமிழ் மன்னன் இந்திரன்`, internal settings and repeated calls;
-- scene 19: yaazh, quoted Kaanal Vari poetry, jealousy and separation; translate quotations independently from the verified Tamil, not from a published standard English edition;
-- scene 20: repentance/reunion, Kannagi's defence of Madhavi and Manimekalai, harsh social-status/sexual-status rhetoric, honour/wealth and any `தமிழ் மறை` recurrence. Keep character abuse distinct from translator narration.
+- scene 21: Madhavi's artistic/emotional aftermath and Manimekalai context; preserve visual/caption layers as provenance only;
+- scene 22: journey hardship, companionship and exact source continuation across scans;
+- scene 23: renunciation/ascetic terminology and Madhavi's agency; do not turn her choice into an externally imposed moral punishment.
 
 Each scene must independently pass line-by-line coverage, semantic fidelity, Kalaignar voice, terminology, stage timing and Dravidian-context separation.
