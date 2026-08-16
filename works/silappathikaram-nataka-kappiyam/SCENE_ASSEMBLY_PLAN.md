@@ -8,16 +8,18 @@ Create readable scene-level archival files **only from verified page records** w
 
 This phase is assembly, not rewriting, editing, modernization, correction or translation.
 
+Every assembled scene must also pass the direct **visual text fidelity check** defined in `VISUAL_TEXT_FIDELITY_CHECK.md` before it can become `assembly-reviewed`.
+
 ## Source authority during assembly
 
 Use this hierarchy:
 
-1. verified `pages/NNNN.md` records;
-2. controlling Tamil scan only when a join or page-record interpretation must be rechecked;
+1. verified `pages/NNNN.md` records for mechanical scene assembly;
+2. the controlling Tamil scan for the mandatory visual-text fidelity check and whenever a join or page-record interpretation must be rechecked;
 3. repository verification notes for provenance;
 4. other editions / published English translation only as explicitly labelled later witnesses, never to change Tamil silently.
 
-If an assembled line conflicts with a verified page record, the verified page record controls unless a new direct source-pixel correction is documented first.
+If an assembled line conflicts with a verified page record, the verified page record controls unless a new direct source-pixel correction is documented first. If the verified page record itself conflicts with clearly inspected source pixels, the scan controls and only the affected page may be corrected with explicit documentation.
 
 ## Planned output structure
 
@@ -46,6 +48,7 @@ setting: null
 source_scan_pages: [17]
 status: "draft"
 assembled_from_verified_pages: true
+visual_text_fidelity: "pending"
 language: "ta"
 source_filename: "TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf"
 ---
@@ -137,6 +140,28 @@ No English translation is performed during assembly.
 
 Permanent terminology instruction remains active: `அந்தணர்` must not automatically be rendered as “Brahmin” in the future. Distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்` and related source terms must survive into later terminology review.
 
+### 9. Mandatory visual text fidelity check
+
+After a scene is assembled at `draft`, compare the **assembled scene directly against the actual controlling scan pixels**, not only against its page record.
+
+Follow `VISUAL_TEXT_FIDELITY_CHECK.md` completely.
+
+At minimum, visually recheck:
+
+- scene number and decorative lexical title;
+- explicit setting/internal headings;
+- every speaker label and abbreviation;
+- every dialogue and stage-direction character;
+- punctuation, ellipses, dashes, quotation/bracket marks and repetitions;
+- every mechanical line/column/page join introduced by assembly;
+- source-significant spacing and unusual forms;
+- printed textual separators/captions;
+- separation of artwork, photographs, pagination and later library/accession marks from literary text.
+
+For multi-scan scenes, inspect both sides of every source-page boundary.
+
+Use `visual_text_fidelity: "passed"` only after the direct scan-to-scene comparison succeeds. If it fails, keep the scene at `draft`, document the mismatch and correct only with source-pixel evidence.
+
 ## Scene manifest for assembly
 
 | Scene | Scans | Title | Setting / special structure |
@@ -183,27 +208,38 @@ Permanent terminology instruction remains active: `அந்தணர்` must n
 
 ## Assembly review gates
 
-Each assembled scene moves through these states:
+Each assembled scene moves through these gates:
 
-1. **draft** — mechanically assembled from verified page records;
-2. **assembly-reviewed** — checked against all contributing page records, including every cross-page/column join;
-3. **ready-for-global-review** — title, setting, stage directions, visual-layer separation and provenance all confirmed.
+1. **draft** — mechanically assembled from verified page records; `visual_text_fidelity: pending`;
+2. **visual-text-fidelity passed** — assembled text checked directly against all contributing source-scan pixels according to `VISUAL_TEXT_FIDELITY_CHECK.md`;
+3. **assembly-reviewed** — direct scan fidelity has passed and the scene has also been checked against all contributing page records, including every cross-page/column join;
+4. **ready-for-global-review** — title, setting, stage directions, visual-layer separation, provenance and review notes all confirmed.
 
-Do not mark a scene assembly final merely because its page sources are verified; assembly introduces a new risk at joins and therefore needs its own review.
+Do not mark a scene assembly reviewed/final merely because its page sources are verified; assembly introduces a new risk at mechanical joins, and the assembled derivative must therefore be checked directly against the scan again.
 
 ## Pilot decision
 
-The first assembly activity will be **காட்சி-1 / scan 17**.
+The first assembly activity will be **காட்சி-1 / scan 17**, and the same activity must include its **visual text fidelity check**.
 
 Reasons:
 
 - it is a complete one-scan scene;
 - its page record is verified;
 - it exercises scene heading, decorative title, stage direction, speaker/dialogue structure and title artwork without a cross-page join;
-- it can establish the exact reusable scene-file format before multi-scan scenes are assembled.
+- it can establish the exact reusable scene-file format and the visual-fidelity review method before multi-scan scenes are assembled.
 
-After the pilot is reviewed, continue in numerical scene order unless a later assembly issue requires a targeted recheck.
+Pilot sequence:
+
+1. assemble `scenes/01.md` from verified `pages/0017.md` at `draft`;
+2. inspect the actual scan 17 at native/enlarged resolution;
+3. perform character-level scan-to-scene fidelity comparison under `VISUAL_TEXT_FIDELITY_CHECK.md`;
+4. compare again against `pages/0017.md` to ensure no assembly-only omission/duplication/normalization;
+5. set `visual_text_fidelity: "passed"` and `status: "assembly-reviewed"` only if both checks pass;
+6. document any correction if direct source pixels prove an existing page record wrong;
+7. accept the reusable scene-file format before proceeding to scene 2.
+
+After the pilot passes, continue in numerical scene order unless a later assembly issue requires a targeted recheck.
 
 ## Translation boundary
 
-English translation remains locked throughout this assembly phase. After all scene files are assembled and assembly-reviewed, perform a global Tamil consistency/source audit before deciding whether the work is ready for translation.
+English translation remains locked throughout this assembly phase. After all scene files are assembled, visually fidelity-checked and assembly-reviewed, perform a global Tamil consistency/source audit before deciding whether the work is ready for translation.
