@@ -1,6 +1,6 @@
 # Next Chat Prompt — சிலப்பதிகாரம் நாடகக் காப்பியம்
 
-Copy/paste the prompt below into a fresh ChatGPT window. **Attach the Tamil source PDF** `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` because every scene assembly requires a direct visual-text fidelity comparison against the controlling scan.
+Copy/paste the prompt below into a fresh ChatGPT window. **Attach the Tamil source PDF** `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` because every scene assembly requires direct visual-text fidelity comparison against the controlling scan.
 
 ---
 
@@ -20,7 +20,7 @@ Controlling Tamil source:
 
 ## Mandatory startup
 
-Before making any change, read these files completely and follow them exactly:
+Before making any change, read completely:
 
 1. `STAGE_PLAY_PROCESSING_GUIDE.md`
 2. `docs/SILAPPATHIKARAM_CONTINUATION_GUIDELINES.md`
@@ -32,122 +32,95 @@ Before making any change, read these files completely and follow them exactly:
 8. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PLAN.md`
 9. `works/silappathikaram-nataka-kappiyam/VISUAL_TEXT_FIDELITY_CHECK.md`
 10. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PILOT_REVIEW.md`
-11. `works/silappathikaram-nataka-kappiyam/scenes/01.md`
-12. `works/silappathikaram-nataka-kappiyam/scenes/02.md`
-13. `works/silappathikaram-nataka-kappiyam/scenes/03.md`
-14. `works/silappathikaram-nataka-kappiyam/pages/0021.md`
-15. `works/silappathikaram-nataka-kappiyam/pages/0022.md`
-16. `works/silappathikaram-nataka-kappiyam/pages/0023.md`
+11. `works/silappathikaram-nataka-kappiyam/scenes/01.md` through `scenes/04.md`
+12. `works/silappathikaram-nataka-kappiyam/pages/0024.md`
+13. `works/silappathikaram-nataka-kappiyam/pages/0025.md`
 
 Use the GitHub connector and work directly in the existing repository.
 
-If the Tamil PDF is not attached/available, **stop and ask me to attach it**. Do not perform the visual-text fidelity gate from repository text alone.
+If the Tamil PDF is not attached/available, **stop and ask me to attach it**. Do not perform visual fidelity from repository text alone.
 
 ## Source authority
 
-The Tamil scan remains controlling authority. Verified `pages/NNNN.md` records are the immediate source for scene assembly, but every assembled scene must also be compared directly against the actual source pixels.
+The Tamil scan remains controlling authority. Verified `pages/NNNN.md` records are the immediate construction source, but every assembled scene must also be compared directly against actual source pixels.
 
-Do not silently modernize, correct, normalize, reconstruct or improve Kalaignar's Tamil.
-
-Preserve spelling, punctuation, speaker labels, stage directions, repetition, unusual grammar, source-supported spacing, page/column continuations and source anomalies. OCR, another edition and the published English translation are secondary/assistive only.
+Do not silently modernize, correct, normalize, reconstruct or improve Kalaignar's Tamil. Preserve spelling, spacing, punctuation, speaker labels, stage directions, repetitions, unusual grammar, page/column continuations and source anomalies. OCR, other editions and the published English translation are secondary/assistive only.
 
 ## Completed work — do not restart
 
-- All **88 supplied physical scans are visually verified**.
-- **காட்சி-1 through காட்சி-38 are complete at page-record level**.
-- The scan-88 post-scene closing tableau is archived.
-- Tamil page-level visual verification is complete.
-- Repository-wide Tamil transcription completion audit is **complete / PASS**.
-- Scene-assembly plan and mandatory visual-text fidelity protocol are active.
-- `காட்சி-1 / scan 17` → `scenes/01.md`: **assembly-reviewed**, `visual_text_fidelity: "passed"`.
-- `காட்சி-2 / scan 18` → `scenes/02.md`: **assembly-reviewed**, `visual_text_fidelity: "passed"`.
-- `காட்சி-3 / scans 19–20` → `scenes/03.md`: **assembly-reviewed**, `visual_text_fidelity: "passed"`.
-- **3 of 38 numbered scenes are now assembled and assembly-reviewed.**
+- All **88 supplied scans are visually verified**.
+- `காட்சி-1` through `காட்சி-38` are complete at page-record level.
+- Tamil completion audit is **PASS**.
+- Mandatory scene-assembly visual fidelity protocol is active.
+- `காட்சி-1 / scan 17` → `scenes/01.md`: assembly-reviewed / fidelity passed.
+- `காட்சி-2 / scan 18` → `scenes/02.md`: assembly-reviewed / fidelity passed.
+- `காட்சி-3 / scans 19–20` → `scenes/03.md`: assembly-reviewed / fidelity passed.
+- `காட்சி-4 / scans 21–23` → `scenes/04.md`: assembly-reviewed / fidelity passed.
+- **4 of 38 numbered scenes are assembly-reviewed.**
 - English translation has not begun.
 
-Scene-3 fidelity review corrected only source-pixel-proven issues:
+Latest scene-4 fidelity corrections, already committed and documented:
 
-- scan 19 `என்றும்....அந்நாள்` → `என்றும்...அந்நாள்`;
-- scan 20 `உண்மைக் காது!....அவர்` → `உண்மைக் காது!...அவர்`;
-- scan 20 `கலங்காது!....` → `கலங்காது!...`;
-- scan 20 `இதோ....நான்` → `இதோ...நான்`;
-- scan 20 `வெல்லுகிறேன்....அண்ணனையே` → `வெல்லுகிறேன்...அண்ணனையே`;
-- scan 20 `பாரும்!....வருகிறேன்!...` → `பாரும்!...வருகிறேன்!...`.
+- scan 22: `தங்கப்போகிறேன்!` → `தங்கப் போகிறேன்!` in `pages/0022.md`.
+- scan 23: seven-dot `வருகிறேன்.......` → six-dot `வருகிறேன்......` in `pages/0023.md`.
+- scene-4 draft assembly-only spacing before `....அப்பா` was removed, yielding `எண்ணியிருந்தால்....அப்பா`.
 
-The scene-3 draft also briefly collapsed source spacing `செங்குட்டுவனுக்குத் தான்`; that assembly-only error was corrected before fidelity passed.
-
-Do not retranscribe or casually modify verified pages. Change a verified page only if direct source-pixel inspection during a fidelity check proves the existing reading wrong.
+Do not retranscribe or casually modify verified pages. Change a verified page only when direct source pixels prove the existing reading wrong.
 
 ## Accepted assembly convention
 
 For each scene:
 
 - assemble only from verified page record(s);
-- begin at `status: "draft"` and `visual_text_fidelity: "pending"`;
-- join only demonstrably mechanical print line/column/page wrapping;
-- preserve exact source wording, punctuation, repetitions, speaker labels, stage directions and source-supported spacing;
-- keep visual material/captions separate from literary text;
-- preserve explicit scan provenance for multi-scan scenes;
+- begin `status: "draft"`, `visual_text_fidelity: "pending"`;
+- join only demonstrably mechanical printed wrapping;
+- preserve exact wording, spacing, punctuation, repetition, speaker labels and stage directions;
+- retain explicit scan provenance for multi-scan scenes;
+- keep illustrations, photographs, captions and printed pagination separate from dramatic literary text;
 - inspect every contributing source scan directly at native/enlarged resolution;
-- compare every assembled character and mechanical join to source pixels;
-- for multi-scan scenes, inspect both sides of every source-page boundary and every column transition;
-- compare the assembly again against all contributing verified page records;
-- promote to `status: "assembly-reviewed"` / `visual_text_fidelity: "passed"` only if both checks succeed;
-- if source pixels prove a verified page wrong, correct only the affected reading with explicit documentation before updating the scene.
+- inspect both sides of every physical page and column boundary;
+- compare the assembled scene character-by-character against source pixels and then against all contributing page records;
+- promote to `assembly-reviewed` / `visual_text_fidelity: "passed"` only when both checks pass;
+- if pixels prove a page record wrong, correct only that reading with explicit documentation before finalizing the scene.
 
-## Exact next activity — காட்சி-4 / scans 21–23
+## Exact next activity — காட்சி-5 / scans 24–25
 
-Process **காட்சி-4 / scans 21–23 — `இளங்கோ துறவு`, setting `சேரலாதன் மாளிகை`** as one complete scene-assembly + visual-text-fidelity activity.
+Process **காட்சி-5 / scans 24–25 — `சிலம்பின் தோற்றம்`, setting `சேரநாடு`** as one complete scene-assembly + visual-text-fidelity activity.
 
 Inputs:
 
-- `works/silappathikaram-nataka-kappiyam/pages/0021.md`
-- `works/silappathikaram-nataka-kappiyam/pages/0022.md`
-- `works/silappathikaram-nataka-kappiyam/pages/0023.md`
+- `works/silappathikaram-nataka-kappiyam/pages/0024.md`
+- `works/silappathikaram-nataka-kappiyam/pages/0025.md`
 
 Output target:
 
-`works/silappathikaram-nataka-kappiyam/scenes/04.md`
+`works/silappathikaram-nataka-kappiyam/scenes/05.md`
 
 For this activity:
 
-1. Read all three contributing verified page records completely.
-2. Create `scenes/04.md` using the accepted front-matter convention, initially `status: "draft"`, `visual_text_fidelity: "pending"`.
-3. Preserve `காட்சி-4`, decorative title `இளங்கோ துறவு`, explicit setting `சேரலாதன் மாளிகை`, all stage directions, speaker labels, dialogue, punctuation, repetitions and unusual forms.
-4. Keep explicit source-scan boundary provenance in the scene file so contributions from scans 21, 22 and 23 remain recoverable.
-5. Join only demonstrably mechanical printed wrapping. Do not silently join a page/column continuation until both physical sides have been inspected.
-6. Keep all illustrations/decorative artwork/captions as separate source-visual layers.
-7. Inspect the **actual attached scans 21, 22 and 23** at native/enlarged resolution.
-8. Compare the complete assembled Tamil character-by-character against source pixels, including scene/title/setting, directions, speaker labels, dialogue, punctuation, source-supported spacing and all joins.
-9. Inspect both physical page boundaries and every column transition especially carefully for omissions, duplications or normalized wording.
-10. Confirm pagination/visual/library layers remain outside literary text.
-11. Compare the visually checked scene again against all three verified page records.
-12. If source pixels prove any page record wrong anywhere, correct only that affected verified reading with explicit source-pixel documentation, then regenerate/recheck the scene.
-13. Set `visual_text_fidelity: "passed"` and `status: "assembly-reviewed"` only after both direct scan and page-record checks pass.
-14. Update README/handover records and identify the next complete scene assembly activity.
+1. Read both page records completely.
+2. Create `scenes/05.md` initially at `draft` / `visual_text_fidelity: pending`.
+3. Preserve `காட்சி-5`, decorative title `சிலம்பின் தோற்றம்`, setting `சேரநாடு`, all speaker labels, stage directions, punctuation and the complete scan-24 gift list exactly.
+4. Keep explicit scan-24 / scan-25 provenance.
+5. Scan 24 physically ends `கணவன் வருவான் வருவான்`; scan 25 begins `என்று கண் கலங்கக் கூறிக் கொண்டிருந்தாள்...`. Visually inspect both sides before joining the cross-page sentence.
+6. Keep scan 24's small uncaptioned deer illustration and scan 25's large uncaptioned standing figure as separate visual layers.
+7. Preserve scan 24 printed page `8` and scan 25's anomalous source-visible printed `2` as provenance only. **Do not normalize scan 25 to an expected `9`.**
+8. Inspect actual scans 24 and 25 at native/enlarged resolution and compare every assembled character, punctuation sequence and mechanical join against source pixels.
+9. Compare the visually checked scene again against both verified page records.
+10. If source pixels prove a page record wrong, correct only that affected reading with explicit documentation, then regenerate/recheck the scene.
+11. Promote to `assembly-reviewed` / `visual_text_fidelity: passed` only after both checks pass.
+12. Update README/handover records and identify the next complete scene assembly activity.
 
 ## Translation lock
 
 Do not begin English translation.
 
-Permanent terminology instruction: **Do not automatically translate `அந்தணர்` as “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and other source terms. English renderings will be decided only in dedicated terminology review.
-
-When translation eventually begins, retain Kalaignar's language, rhetoric, cadence, repetition and dramatic voice.
+Permanent terminology instruction: **Do not automatically translate `அந்தணர்` as “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and other source terms. English renderings will be decided only during dedicated terminology review.
 
 ## End-of-activity report
 
-Report:
+Report the scene assembled, source scans, visual fidelity result, cross-page verification, any pixel-proven page correction, important joins, visual layers, files updated, final scene status/fidelity state, and exact next activity.
 
-- scene assembled and exact source scans;
-- direct visual-text fidelity result;
-- both page-boundary / all column-transition verification results;
-- whether any verified page reading required correction and why;
-- important mechanical joins performed and visually verified;
-- visual layers separated;
-- files created/updated;
-- final `scenes/04.md` status and fidelity state;
-- exact next complete scene assembly activity.
-
-Proceed now with **காட்சி-4 / scans 21–23 scene assembly + visual text fidelity**.
+Proceed now with **காட்சி-5 / scans 24–25 scene assembly + visual text fidelity**.
 
 ---
