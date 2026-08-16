@@ -24,63 +24,70 @@ Before continuing, read `STAGE_PLAY_PROCESSING_GUIDE.md` completely and then rea
 
 As of this handover:
 
-- Scans **1–80 are fully verified**.
-- Detailed dramatic-body verification is complete through **காட்சி-33**.
-- **காட்சி-1 through காட்சி-33 must not be restarted, retranscribed or casually modified.**
+- Scans **1–81 are fully verified**.
+- Detailed dramatic-body verification is complete through **காட்சி-34**.
+- **காட்சி-1 through காட்சி-34 must not be restarted, retranscribed or casually modified.**
 - Any change to a previously verified page requires a direct source-pixel reason and should be documented explicitly.
 
 The latest completed scene is:
 
-### காட்சி-33 — `கணவன் கள்வனா?`
+### காட்சி-34 — `வஞ்சினங் கூறுதல்`
 
-- Setting: `குரவைக் கூத்து`
-- Physical extent: scan **80 only**
-- Printed page `64` visibly present at lower-left.
+- Setting: `வீதியிலுள்ள மண்டபம்`
+- Physical extent: scan **81 only**
 - Complete dense two-column dramatic text verified against native/enlarged controlling-source views and targeted crops.
-- The scene closes with Kannagi running in anguish while a fallen lamp causes fire to spread through the hut; the source's dramatic and punctuation structure is preserved rather than normalized.
-- Large lower-centre decorative line illustration containing a bird/peacock-like figure inside an ornate teardrop/paisley-like medallion is uncaptioned and remains separate from literary text.
-- Scan 81 directly begins `காட்சி-34`, confirming the one-scan scene boundary.
+- No separate illustration or printed caption is present.
+- Lower-left pagination is anomalous/uncertain: a clear printed `9` is followed by a small damaged/indistinct mark. The complete page number is not securely recoverable; `printed_page` remains `null` and no expected sequential number is inferred.
+- Scan 82 directly begins `காட்சி-35`, confirming the one-scan scene boundary.
 
-Source-specific readings preserved in scene 33 include `அலறியவாறு`, `கள்வனென்று`, `கண்களிலேயிருந்து`, `அருவி யென`, `வெற்றுடம்பு`, `உளறுகிறோம்`, `இல்ல! இல்ல! இல்ல!`, and `உணர்ச்சி, குழுமும் கடலாகிறது`. Physical source splits retained include `உச்சக் / குரலில்`, `விட்டார் / களாம்`, `பெருக் / கெடுக்கிறது`, `வெற் / றுடம்பு`, `பதிந்திருக் / கின்றன`, and `துவங்கு / கிறது`.
+Source-specific readings preserved in scene 34 include `இதற்குத்தானு;`, `அகிற்புகையால்`, `பொன்னவிர்`, `புதுக் கிழிஞ்சல்`, `மாசறுபொன்னே`, `உங்களே ரத்தச் சகதி யிலே`, `மதுரை மூதார்`, and `பழிக்குப்பழி!`. The left/right column transition preserves `என்னை ஏமாற்றிவிட்டீர்களே / அத்தான், என்னை ஏமாற்றி விட்டீர்களே!` exactly with the source's repetition and spacing difference. Physical splits retained include `விட்டார் / களா`, `கொலையுண்டீர் / கள்`, `எண் / ணெயிட்ட`, `சிலம் / போடு`, `சொல் / லுங்கள்`, `கொஞ்சுவீர் / களே`, `வந்திருக் / கிறேன்`, `சகதி / யிலே`, and `அரண் / மனை`.
 
 The supplied published English translation was not used to settle Tamil wording.
 
 ## Current active scene / exact next work
 
-### காட்சி-34 — scan 81
+### காட்சி-35 — scans 82–85
 
-Repository record:
+Repository records:
 
-`works/silappathikaram-nataka-kappiyam/pages/0081.md`
+- `works/silappathikaram-nataka-kappiyam/pages/0082.md`
+- `works/silappathikaram-nataka-kappiyam/pages/0083.md`
+- `works/silappathikaram-nataka-kappiyam/pages/0084.md`
+- `works/silappathikaram-nataka-kappiyam/pages/0085.md`
 
-Current status: `needs-review`
+Current status: all `needs-review`
 
 Structurally established by direct scan inspection:
 
-- Scene: `காட்சி-34`
-- Decorative title: **`வஞ்சினங் கூறுதல்`**
-- Setting: **`வீதியிலுள்ள மண்டபம்`**
-- Physical extent: scan **81 only**
-- Dense two-column dramatic text
-- Lower-left visibly contains a printed **`9`** followed by a small indistinct mark. The complete printed page number is not securely recoverable, so `printed_page` remains `null`; do not infer the expected sequential number.
-- No separate illustration or printed caption is visible on this scan.
-- Scan **82 directly begins `காட்சி-35`**, so scene 34 is physically a **one-scan scene**
+- Scene: `காட்சி-35`
+- Decorative title: **`வழக்குரை படலம்`**
+- Setting: **`பாண்டியன் கொலு மண்டபம் (வெளியே)`**
+- Physical extent: scans **82–85**
+- Scan 82 printed page: **66** visibly present at lower-left
+- Scans 83–85: no securely visible printed page number; none inferred
+- Scan 83: large uncaptioned dramatic illustration occupying much of the lower half
+- Scan 84: printed photograph/reproduction with visible caption `“பூம்புகார்” அகழ்வாராய்ச்சியில் / கண்ட படகுத்துறை`
+- Scan 85: small uncaptioned burst/fragment-like lower illustration
+- Scan **86 directly begins `காட்சி-36`**, so scene 35 spans exactly four scans
 
-The title, setting, uncertain pagination mark and boundary above have been visually inspected for structural mapping. The complete scene-34 literary text has **not** yet undergone the full character-level verification pass, so `pages/0081.md` must remain `needs-review` until that is completed.
+The title, setting, pagination behaviour, visual layers and complete physical scene boundary above have been visually inspected for structural mapping. The complete scene-35 literary text has **not** yet undergone the full character-level verification pass, so all four page records must remain `needs-review` until that is completed.
 
 ### Next activity
 
-Process **காட்சி-34 / scan 81 as one complete scene**:
+Process **காட்சி-35 / scans 82–85 as one complete scene**:
 
-1. Inspect the actual scan at native/enlarged resolution.
+1. Inspect all four actual scans at native/enlarged resolution.
 2. Reconfirm the mapped title/setting while performing the complete visual pass.
-3. Transcribe the complete two-column literary text in source reading order.
-4. Preserve every speaker abbreviation/label, punctuation mark, stage direction, ellipsis, unusual spelling and physical source split.
-5. Reinspect the lower-left `9` plus indistinct mark using enlarged/non-destructive variants; do not infer a page number if it remains insecure.
-6. Confirm scan 82 as the following `காட்சி-35` boundary.
-7. Promote `pages/0081.md` to `verified` only after direct visual comparison.
-8. Update `indexes/page-map.md`, the work `README.md`, root `HANDOVER.md`, this handover, and the next-chat prompt when the checkpoint advances.
-9. Inspect forward to establish the complete physical extent of `காட்சி-35` before creating/continuing its page records.
+3. Transcribe the complete two-column literary text across scans 82–85 in source reading order.
+4. Preserve every speaker abbreviation/label, punctuation mark, stage direction, ellipsis, unusual spelling and physical word/column/page split.
+5. Preserve each physical page boundary in its page record; do not silently join across scans.
+6. Verify scan-82 printed page `66` and the absence of securely visible pagination on scans 83–85.
+7. Keep scan-83 and scan-85 illustrations separate from literary text; do not invent captions or identities.
+8. Verify scan-84's printed photograph caption character by character and keep image/caption separate from dramatic text.
+9. Confirm scan 86 as the following `காட்சி-36` boundary.
+10. Promote all four page records to `verified` only after direct visual comparison.
+11. Update `indexes/page-map.md`, the work `README.md`, root `HANDOVER.md`, this handover, and the next-chat prompt when the checkpoint advances.
+12. Inspect forward to establish the complete physical extent of `காட்சி-36` before creating/continuing its page records.
 
 ## Core repository files to read before work
 
@@ -91,8 +98,11 @@ Read these before changing anything:
 3. `docs/SILAPPATHIKARAM_PROJECT_HANDOVER.md`
 4. `works/silappathikaram-nataka-kappiyam/README.md`
 5. `works/silappathikaram-nataka-kappiyam/indexes/page-map.md`
-6. `works/silappathikaram-nataka-kappiyam/pages/0081.md`
-7. Root `HANDOVER.md`
+6. `works/silappathikaram-nataka-kappiyam/pages/0082.md`
+7. `works/silappathikaram-nataka-kappiyam/pages/0083.md`
+8. `works/silappathikaram-nataka-kappiyam/pages/0084.md`
+9. `works/silappathikaram-nataka-kappiyam/pages/0085.md`
+10. Root `HANDOVER.md`
 
 Do not rely on memory of an earlier chat when these repository records and the source scan are available.
 
@@ -100,7 +110,7 @@ Do not rely on memory of an earlier chat when these repository records and the s
 
 Detailed verification proceeds by **one complete scene per activity where practical**, while keeping one independent archival page record for every physical scan.
 
-A scene may contain one page or many pages. Do not artificially limit an activity to one scan when the complete scene spans several scans. Conversely, a one-scan scene should be completed as one activity.
+A scene may contain one page or many pages. Do not artificially limit an activity to one scan when the complete scene spans several scans.
 
 ## Verification discipline
 
@@ -141,4 +151,4 @@ Complete Tamil page-level verification first.
 
 ## Handover completion condition
 
-A new chat should be able to continue from scan 81 without asking the user to repeat prior decisions. If the Tamil source PDF is not available in the new chat, ask the user to attach it before performing character-level verification; do not attempt to verify new pages from repository text alone.
+A new chat should be able to continue from scans 82–85 without asking the user to repeat prior decisions. If the Tamil source PDF is not available in the new chat, ask the user to attach it before performing character-level verification; do not attempt to verify new pages from repository text alone.
