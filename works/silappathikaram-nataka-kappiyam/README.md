@@ -16,6 +16,7 @@ The supplied scan is the controlling source. The PDF itself is not committed.
 - Visual text fidelity protocol: **defined and mandatory for every assembled scene** — see `VISUAL_TEXT_FIDELITY_CHECK.md`.
 - Scene assembly: **started**.
 - `காட்சி-1 / scan 17`: **assembly-reviewed**, `visual_text_fidelity: passed`.
+- `காட்சி-2 / scan 18`: **assembly-reviewed**, `visual_text_fidelity: passed`.
 - Reusable pilot format/fidelity method: **accepted** — see `SCENE_ASSEMBLY_PILOT_REVIEW.md`.
 - English translation: **not started** and remains locked through assembly/global Tamil review unless the user explicitly changes phase.
 
@@ -61,6 +62,21 @@ A scene cannot become `assembly-reviewed` until:
 
 The detailed pilot review is recorded in `SCENE_ASSEMBLY_PILOT_REVIEW.md`.
 
+## Completed assembly — காட்சி-2
+
+`scenes/02.md` assembles scan 18 / verified `pages/0018.md`.
+
+- Title: `செங்குட்டுவன் பிறந்தநாள் விழா`.
+- Explicit setting: `வஞ்சி`.
+- Status: `assembly-reviewed`.
+- Visual text fidelity: `passed`.
+- Scan 18 was inspected as full-page and enlarged title, left-column, right-column and final-stage-direction views.
+- Mechanical word-wrap joins were checked directly against pixels, including `மண்டபத் / திற்கு` → `மண்டபத்திற்கு`, `பெறுத / வர்கள்` → `பெறுதவர்கள்`, `என்கி / றீர்களா` → `என்கிறீர்களா`, `கேளுங் / களேன்` → `கேளுங்களேன்`, `நம்புகிறீர் / களா` → `நம்புகிறீர்களா`, `இருக்க / கிறாள்` → `இருக்கிறாள்`, `அனுப் / புங்கள்` → `அனுப்புங்கள்`, and `வரு / கிறேன்` → `வருகிறேன்`.
+- Source-specific wording/punctuation remains unchanged, including `பிறகென்ன;`, `நமக்கொன்று பிறக்கவில்லே`, `என்கிறீர்களா?....`, `கேளுங்களேன்;எப்போது`, `[புன்னகை தவழ]`, and `குறும்புக்காரா!...வேண்மாள்!...`.
+- The visual fidelity pass caught one pre-existing page-record spacing error: scan 18 visibly prints `தனி மாடத்தை விட்டு`, while the earlier `pages/0018.md` had `தனி மாடத்தைவிட்டு`. The verified page record was corrected on direct source-pixel evidence and the correction is documented in that page file.
+- The decorative title flourish and small lower-centre uncaptioned head/face illustration remain separate visual layers.
+- Printed page marker `2` remains provenance metadata and is not inserted into literary text.
+
 ## Final verified source scene — காட்சி-38
 
 `காட்சி-38` is physically a **one-scan scene on scan 88**, which is also the final supplied physical scan.
@@ -87,14 +103,15 @@ Mechanical line/column/page wrapping may be joined for readability only where it
 
 ## Exact next work
 
-Process **காட்சி-2 / scan 18 — `செங்குட்டுவன் பிறந்தநாள் விழா`, setting `வஞ்சி`** as the next combined **scene-assembly + visual-text fidelity activity**.
+Process **காட்சி-3 / scans 19–20 — `விழாவும் வினாவும்`, setting `சேரன் அரண்மனை`** as the next complete combined **scene-assembly + visual-text fidelity activity**.
 
-1. Assemble `scenes/02.md` from verified `pages/0018.md` at `draft` / `visual_text_fidelity: pending`.
+1. Assemble `scenes/03.md` from verified `pages/0019.md` and `pages/0020.md` at `draft` / `visual_text_fidelity: pending`.
 2. Preserve the printed title, setting, stage directions, speaker labels, dialogue and punctuation exactly.
-3. Join only demonstrably mechanical print wrapping.
-4. Inspect actual scan 18 at native/enlarged resolution and compare the complete assembled text character-by-character against source pixels.
-5. Compare the assembly again against `pages/0018.md`.
-6. Move to `assembly-reviewed` / `visual_text_fidelity: passed` only when both checks pass.
-7. Document any source-pixel correction explicitly if one is required.
+3. Retain explicit source-scan provenance and the physical boundary between scans 19 and 20 in the scene file.
+4. Join only demonstrably mechanical print wrapping, especially across the page boundary.
+5. Inspect actual scans 19 and 20 at native/enlarged resolution and compare the complete assembled text character-by-character against source pixels, including both sides of the physical page boundary.
+6. Compare the assembly again against both contributing verified page records.
+7. Move to `assembly-reviewed` / `visual_text_fidelity: passed` only when both checks pass.
+8. Document any source-pixel correction explicitly if one is required.
 
 Do not begin English translation.
