@@ -11,10 +11,23 @@ The supplied scan is the controlling source. The PDF itself is not committed.
 - Detailed dramatic-body verification covers **காட்சி-1 through காட்சி-38**.
 - The post-scene closing tableau on scan **88** has also been inspected and archived.
 - Tamil page-level visual verification: **complete for the supplied source**.
-- Scene assembly: not started.
-- Repository-wide transcription completion audit: next.
-- Full source / assembly audit: not started.
-- English translation: **not started**; translation remains locked until the Tamil audit/assembly phase is completed or the user explicitly changes phase.
+- Repository-wide Tamil transcription completion audit: **complete / PASS** — see `audit.md`.
+- Scene-assembly readiness plan: **complete** — see `SCENE_ASSEMBLY_PLAN.md`.
+- Scene assembly: **not yet started**.
+- English translation: **not started** and remains locked through assembly/global Tamil review unless the user explicitly changes phase.
+
+## Audit result
+
+The completion audit confirms:
+
+- a continuous repository page-record sequence `pages/0001.md` through `pages/0088.md`;
+- all physical scans represented;
+- the live page map at final `verified` state for scans 1–88;
+- verified scene extents for `காட்சி-1` through `காட்சி-38`;
+- known pagination anomalies, image/caption layers and library/accession obstructions documented;
+- no scene-assembly files yet exist, so no assembled text can accidentally supersede the page archive.
+
+The assembly manifest and rules are recorded in `SCENE_ASSEMBLY_PLAN.md`. Scene assembly will create `scenes/01.md` through `scenes/38.md`, plus a separate `scenes/closing-tableau.md` for the post-scene scan-88 material.
 
 ## Final verified scene — காட்சி-38
 
@@ -52,19 +65,14 @@ Kalaignar's `அந்தணர்` must **not** be automatically equated with o
 
 When translation eventually begins, it must be based on the verified Tamil archival text and retain Kalaignar's rhetoric, cadence, repetition and dramatic voice. The published English volume remains only a secondary comparison witness.
 
-## Working-unit rule
+## Assembly rule
 
-Page-level verification was performed by complete scene where practical while preserving one archival page record per physical scan. Previously verified pages are protected from casual rewriting.
+Assembly is a new derivative archival layer. Verified page records remain controlling.
+
+Mechanical line/column/page wrapping may be joined for readability only where it does not alter source wording or punctuation. Repetition, unusual spacing/punctuation, stage directions and genuine source anomalies must remain. Visual material stays in separate source-layer notes. Every multi-scan scene must retain scan provenance.
 
 ## Exact next work
 
-Perform a repository-wide **Tamil transcription completion audit / scene-assembly readiness review** before translation:
+Assemble **காட்சி-1 / scan 17** as the scene-assembly pilot using `SCENE_ASSEMBLY_PLAN.md`.
 
-1. confirm all 88 `pages/NNNN.md` records exist and have appropriate final status;
-2. reconcile every page-map entry with its page record;
-3. inventory documented source anomalies, uncertain pagination and source obstructions, including the scan-88 stamp overlap;
-4. verify scene extents **1–38** against the page records;
-5. identify any remaining `needs-review`, `partial` or `blocked` records;
-6. prepare scene assembly strictly from verified page records without silently normalizing wording or punctuation.
-
-Do not begin English translation during this next activity.
+The pilot must establish the reusable `scenes/NN.md` format, preserve the verified title `வஞ்சி மூதூரில் முரசறைதல்`, keep the decorative title artwork separate from literary text, and move only to `draft` assembly status. Do not begin English translation.
