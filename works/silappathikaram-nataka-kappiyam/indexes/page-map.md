@@ -40,10 +40,14 @@ After scene 38 closes, three centred `*` marks introduce the closing tableau hea
 
 A large later circular library/accession stamp with handwritten `164596` overlaps the lower-left publication area. Non-destructive enlarged/contrast/gamma inspection cannot securely recover the leading characters beneath the opaque stamp on two tableau lines. `pages/0088.md` therefore preserves the source-visible suffixes `ங்குட்டுவன்` and `ங்கோவடிகள்` with explicit obstruction markers rather than silently reconstructing hidden letters. Additional later handwriting at the lower margin is likewise kept outside Kalaignar's publication text.
 
-The **Tamil page-level visual verification phase is now complete for the supplied 88-scan source**, with the scan-88 stamp obstruction explicitly documented rather than fabricated.
+The **Tamil page-level visual verification phase is complete for the supplied 88-scan source**.
+
+The repository-wide **Tamil transcription completion audit / scene-assembly readiness review has also completed with PASS**. See `../audit.md` and `../SCENE_ASSEMBLY_PLAN.md` for the full 38-scene extent manifest, anomaly inventory and assembly rules.
 
 The future-translation terminology lock remains in force: Kalaignar's `அந்தணர்` must not be automatically flattened to “Brahmin”; distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, and other source terms such as `மறையவன்` must be preserved pending dedicated translation review.
 
 ## Next phase
 
-Do **not** begin English translation yet. Next, perform a repository-wide **Tamil transcription completion audit / scene-assembly readiness review**: confirm all 88 page records and page-map statuses, inventory any documented source obstructions/anomalies, verify scene extents 1–38 against page records, and prepare verified-page scene assembly without altering source wording.
+Do **not** begin English translation yet.
+
+Next: assemble **காட்சி-1 / scan 17** as the scene-assembly pilot in `../scenes/01.md`, strictly from verified `../pages/0017.md`, using `../SCENE_ASSEMBLY_PLAN.md`. The scene should begin at assembly status `draft`; review the pilot against the page record before moving to scene 2.
