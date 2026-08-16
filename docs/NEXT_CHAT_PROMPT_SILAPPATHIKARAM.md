@@ -28,7 +28,7 @@ Before making any change, read these files completely and follow them exactly:
 4. root `HANDOVER.md`
 5. `works/silappathikaram-nataka-kappiyam/README.md`
 6. `works/silappathikaram-nataka-kappiyam/indexes/page-map.md`
-7. `works/silappathikaram-nataka-kappiyam/pages/0087.md`
+7. `works/silappathikaram-nataka-kappiyam/pages/0088.md`
 
 Use the GitHub connector and inspect the actual attached Tamil PDF scan before changing transcription status.
 
@@ -46,57 +46,60 @@ OCR/parsed text is assistive only and is never authoritative. Do not use another
 
 ## Completed work — do not restart
 
-Scans **1–86 are already fully verified**.
+Scans **1–87 are already fully verified**.
 
-**காட்சி-1 through காட்சி-36 are complete.**
+**காட்சி-1 through காட்சி-37 are complete.**
 
 Do not retranscribe, restart or casually modify those released/verified page records. Change a verified reading only if direct source-pixel inspection proves it wrong, and document the correction explicitly.
 
 The latest completed scene is:
 
-- `காட்சி-36`
-- title: `தீயினில் திருநகர்`
-- setting: `தெருக்கள்`
-- scan 86 only
+- `காட்சி-37`
+- title: `வடபுலப் படையெடுப்பு`
+- setting: `சேரன் செங்குட்டுவன் அவை`
+- scan 87 only
 - no securely visible printed page number
-- printed `★` separator retained
-- two lower photographic/reproduction images with no securely visible separate caption
+- decorative weapon/shield title artwork separated from literary text
 
-Source-specific readings/punctuation deliberately preserved in scene 36 include `என்னுள் அன்றே`, `தணலாகிறார்!`, `வாய்மூடிக் கிடந்த கூடல் நகரத்தாரே!`, `கனலே கிளம்பு....!`, repeated `பழிக்குப் பழி!`, and `விரும்பினர்கள்`. Physical splits such as `இடிபாடு / களில்`, `அழி / கிறான்`, `கோவ / லரைக்`, `கதறுங் / கள்`, `பழிக் / குப்`, and `அழி / வதை` are intentionally preserved.
+Source-specific readings/punctuation deliberately preserved in scene 37 include `காணப்புல்லன்`, `கேட்டறியாக் கசடன்`, `மண்டுக`, `தீவர்களாம்`, `சோழனு பாண்டியனு`, `பகைவனுக`, `சுடற்ற புலவனே`, `ஆசைத்தம்பி`, `கல்வாணரே`, `வளங்குறையாச்`, `நாகாக்கத்`, `தும்பிவாடி`, `தோரணங்கற்பட்டு`, `கிழித் தெறியப்படலாம்!`, `இகழ்ந்தார்கள்!....அன்ன`, and final `புறப்படுங்கள்!’`.
 
 ## Exact next activity
 
-Process **காட்சி-37 / scan 87** as one complete scene.
+Process **காட்சி-38 / scan 88** as the final supplied scene activity.
 
 Current structural record:
 
-- `pages/0087.md`
+- `pages/0088.md`
 - status: `needs-review`
-- `காட்சி-37`
-- decorative title visually mapped as **`வடபுலப் படையெடுப்பு`**
-- setting: **`சேரன் செங்குட்டுவன் அவை`**
-- dense two-column dramatic text
-- decorative heading contains weapon/shield motifs; treat them as heading artwork, not dialogue
+- scan **88 is the final supplied scan**
+- `காட்சி-38`
+- decorative title visually mapped as **`கண்ணகி சிலைக்குக் கல்`**
+- setting visually mapped as **`இமயத்தில் - குயிலாலுவம்`**
+- the numbered scene visibly closes on scan 88
+- after the scene, three centred `*` separators introduce a distinct post-scene closing tableau headed **`வஞ்சிமூதூரில்`** and **`கண்ணகி சிலை நாட்டு விழா`**
 - no securely visible printed page number; do not infer one
-- no separate lower illustration or printed caption layer visible
-- scan **88 begins `காட்சி-38`**, so scene 37 is physically a one-scan scene
+- decorative mountain/stone title artwork is a separate visual layer
+- a large circular library/accession stamp overlaps the lower-left publication area and includes later handwritten `164596`
+- additional handwriting/accession notation appears near the lower margin; treat it as later non-publication material
 
-For scan 87:
+For scan 88:
 
-1. inspect native/enlarged source pixels;
+1. inspect native/enlarged source pixels across the whole final scan;
 2. reconfirm scene title and setting during the complete visual pass;
-3. transcribe the complete two-column dialogue/stage text;
+3. transcribe the complete two-column `காட்சி-38` dialogue/stage text;
 4. preserve speaker abbreviations, punctuation, physical word breaks and column transitions;
 5. verify pagination behaviour without inferring from neighbouring scans;
-6. record decorative heading artwork separately from literary text;
-7. confirm scan 88 as the next-scene boundary;
-8. mark `pages/0087.md` `verified` only after the complete visual pass.
+6. record decorative title artwork separately from literary text;
+7. verify the three-asterisk transition and the complete same-scan `வஞ்சிமூதூரில் / கண்ணகி சிலை நாட்டு விழா` closing-tableau text;
+8. distinguish publication text from the circular library/accession stamp and later handwriting;
+9. mark `pages/0088.md` `verified` only after the complete visual pass of all publication text on the final scan;
+10. because scan 88 is the final supplied scan, do not infer continuation beyond it.
 
-After completing scene 37, update the page map, work README, root handover, project handover, and this next-chat prompt as needed. Then inspect scan 88 to establish the physical status of `காட்சி-38`. Because scan 88 is the final supplied scan, document any uncertainty about continuation beyond the supplied source rather than inferring missing pages.
+After completing scan 88, update the page map, work README, root handover, project handover, and this next-chat prompt. Then assess the correct next archival phase only after all supplied Tamil scans are verified; do not begin English translation unless explicitly directed.
 
 ## Working-unit rule
 
-Work by **one complete scene per activity where practical**, not by one arbitrary page. If a scene spans multiple scans, process the whole scene together while maintaining one page record per physical scan.
+Work by **one complete scene per activity where practical**, not by one arbitrary page. Here the final scene and the post-scene closing tableau share one physical scan, so verify both source layers in the same activity while keeping their structural distinction explicit.
 
 ## Translation lock
 
@@ -108,8 +111,8 @@ When English translation eventually begins, retain Kalaignar's language, rhetori
 
 ## End-of-activity report
 
-At the end of the activity, report exact scan(s) completed; scene title/setting/boundary verified; important unusual source readings preserved; captions/illustrations handled; repository files updated; new verified checkpoint; and exact next complete scene to process.
+At the end of the activity, report exact scan completed; scene title/setting/boundary verified; important unusual source readings preserved; closing-tableau headings/text handled; library/accession marks distinguished; repository files updated; new verified checkpoint; and the exact next archival phase after completion of all supplied Tamil scans.
 
-Proceed now with **காட்சி-37 / scan 87**.
+Proceed now with **காட்சி-38 / scan 88**.
 
 ---
