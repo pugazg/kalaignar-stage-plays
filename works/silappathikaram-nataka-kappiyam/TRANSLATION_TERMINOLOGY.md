@@ -54,11 +54,16 @@ This is the living register for recurring culturally, historically, politically 
 | `இந்திரன் / இந்திர` | contextual historical | `Indran / Indra` | Scene 18 `பழந்தமிழ் மன்னன் இந்திரன்` → `Indran, the ancient Tamil king`; preserve Kalaignar's framing. |
 | `கவுந்தியடிகள்` | locked character/title | `Kavundhi Adigal` | Scene 22 onward; retain `Adigal` as title/name form. |
 | `சமண மதத் துறவி` | contextual descriptive | `ascetic of the Jain faith` | Scene 22 source explicitly explains Kavundhi's religious role. |
+| `ஆய்ச்சியர்` | retained cultural/community term | `Aychiyar` | Scene 27 title; do not force a modern caste gloss. |
+| `ஆயர்குல மங்கை` | contextual social/cultural | `a woman of the Aayar people` | Scene 27; preserve Kalaignar's social vocabulary without imposing later taxonomy. |
+| `பாற்சோறு` | contextual food term | `milk-rice` | Scene 27 hospitality for Jain ascetics. |
+| `அடைக்கலம்` | contextual relational | `protection / refuge / charge`, according to immediate relation | Scenes 27 and 29 use entrustment/protection rather than abstract theology. |
 | `தரணி` | contextual | `land / soil / earth` | Rhetoric decides. |
 | `எழுச்சி` | contextual | `awakening / upsurge / rising` | Scene 6 `எழுச்சி விழா` → `festival of awakening`. |
 | `அறம்` | contextual | `virtue / justice / ethical order` or retain `aram` | Scene 3 `தமிழ் அறம்` retains `Tamil aram`. |
 | `நீதி` | preferred | `justice` | Distinguish from `அறம்`; scene 25 title/court rhetoric foregrounds justice. |
 | `நீதி வழுவா` | contextual ethical epithet | `unswerving in justice` | Scene 25 title. |
+| `நீதி மன்றம்` | contextual royal-judicial | `hall of justice` | Scene 28; avoid falsely modern courtroom vocabulary. |
 | `மானம்` | contextual | `honour / dignity / self-respect` | Do not auto-import movement-specific sense. Scenes 18 and 20 use `honour`. |
 | `இனம்` | contextual | `people / community / race / kind` | Politically sensitive; immediate rhetoric controls. |
 | `நாடு` | contextual | `land / country / realm / kingdom` | Ancient polity ≠ automatically modern nation. |
@@ -67,6 +72,7 @@ This is the living register for recurring culturally, historically, politically 
 | `கொலு மண்டபம்` | preferred | `royal audience hall` | Courtly setting. |
 | `பட்டி மண்டபம்` | retained/contextual cultural | `Patti mandapam` | Scene 18 festival architecture. |
 | `காவியம்` | contextual literary | `kaviyam` when the repeated Tamil literary term itself matters; otherwise `epic/literary work` by context | Scene 25 uses `kaviyam` throughout the authorship dispute. |
+| `புறத்துறைப் பாடல் / புறப்பாடல்` | retained/contextual literary | `puram-theme poem / puram-song` | Scene 28 wordplay with `போர் முழக்கம்`; retain `puram` rather than invent a modern genre label. |
 | `நிமித்திகன்` | preferred | `soothsayer` | Scenes 2–4. |
 | `ஆருடம் / ஆரூடம்` | contextual | `prophecy / divination / oracle` | Preserve sceptical force when challenged. |
 | `விதி` | preferred | `fate` | Scenes 3–4 explicit fate/reason axis. |
@@ -91,11 +97,11 @@ This is the living register for recurring culturally, historically, politically 
 | `இயல் / இசை / கூத்து` | contextual cultural | retain `iyal / isai / koothu` where taxonomy/wordplay matters | Scene 6. |
 | `பண்` | contextual cultural | retain `pann` when technical | Scene 7. |
 | `தலைக்கோல்` | preferred cultural | `thalaikkol` + source explanation | Scene 7. |
-| `கழஞ்சு` | locked historical | `kalanju` | Do not convert to speculative modern value. Scene 25: `five thousand kalanju of gold`. |
+| `கழஞ்சு` | locked historical | `kalanju` | Do not convert to speculative modern value. Scene 25: `five thousand kalanju of gold`; scene 29: `fifty thousand kalanju of gold`. |
 | `சுயம்வரம்` | preferred cultural | `swayamvaram` | Scene 7. |
 | `அத்தான்` | contextual intimate | usually `my dear` in Kannagi's spousal address | Preserve intimacy, not literal kinship. |
 | `இல்லறம்` | contextual | `married life / householder life / relational phrasing` | Scene 8. |
-| `ஊடல்` | preferred cultural | retain `oodal` on first use | Scenes 9 and 19. |
+| `ஊடல்` | preferred cultural | retain `oodal` on first use | Scenes 9, 19 and 28. |
 | `கானல் வரி` | retained cultural/literary | `Kaanal Vari` | Scenes 18–19; translate quoted passages independently from verified Tamil. |
 | `காட்டுவரி / கண்கூடுவரி` | retained technical | `kaattivari / kankooduvari` | Scene 19; no secure one-to-one technical equivalent established. |
 | `கன்னி` | contextual poetic/geographic | retain `Kanni` in scene-19 verse | Kovalan's prose supplies Kanyakumari gloss. |
@@ -125,6 +131,10 @@ This is the living register for recurring culturally, historically, politically 
 | `அரசாங்கச் சிலம்பு` | contextual comic/administrative | `government anklet` | Scene 25; preserve Kalaignar's colloquial `அரசாங்க` wording and comic threat. |
 | `மணி மோதிரம்` | contextual craft | `gem-set ring` | Scene 26 workshop context. |
 | `மல்லிகை கல்` | retained / unresolved craft term | `malligai-kal` | Scene 26; no secure one-to-one craft equivalent established from source alone. |
+| `குரவைக் கூத்து` | retained cultural/performance | `kuravai koothu` | Scene 29; named communal performance, not generic `dance`. |
+| `தாம்பூலம்` | retained cultural/domestic | `taamboolam` | Scene 29; explicit preceding stage direction shows betel leaf and lime preparation. |
+| `கணீர் கணீர்` | retained sound-image | `kanir, kanir` | Scene 29 anklet sound; preserve audible repetition. |
+| `ஆவிநிகர் மீனியாளே ஆளவிட்ட கரும்பாக்கி` | retained / unresolved | `aavi-nigar meeniyaale aalavitta karumbaakki` | Scene 29 verified source-opaque insult-string; do not reconstruct from another edition. |
 
 ## Established scene-level decisions
 
@@ -152,11 +162,14 @@ This is the living register for recurring culturally, historically, politically 
 - Scene 24: `இடுக்கண் வருங்கால் நகுக!` → `When adversity comes, smile!`, translated independently from Kalaignar's printed Tamil; preserve Kovalan's repeated thorn/self-reproach and Pandya fish-banner transition.
 - Scene 25: `நீதி வழுவா நெடுஞ்செழியன்` → `Nedunchezhiyan, Unswerving in Justice`; `தமிழ்ச் சங்கம்` → `Tamil Sangam`; repeated `காவியம்` retained as `kaviyam`; `தமிழைக் கொளுத்தும்` stays `burning Tamil`; `அரசாங்கச் சிலம்பு` → `government anklet` in the official's comic line.
 - Scene 26: theft is narrated only where the source stage direction states it; `மணி மோதிரம்` → `gem-set ring`; uncertain `மல்லிகை கல்` retained as `malligai-kal`; no foreshadowing added.
+- Scene 27: retain `Aychiyar / Aayar` rather than impose a modern caste gloss; `பாற்சோறு` → `milk-rice`; `அடைக்கலம்` follows the immediate entrustment/protection sense.
+- Scene 28: preserve unmatched source bracket; `[ஊடல்]` → `[oodal]`; retain `puram` in `புறத்துறைப் பாடல் / புறப்பாடல்`; `தமிழ்...ஒரு தென்றல்!` → `Tamil... is a breeze!`; quoted lines translated independently; `நீதி மன்றம்` → `hall of justice`.
+- Scene 29: retain `kalanju`, `kanir, kanir`, `taamboolam`, `kuravai koothu`; preserve Kannagi's anklet as economic capital; source-opaque `ஆவிநிகர் மீனியாளே ஆளவிட்ட கரும்பாக்கி` remains transliterated rather than guessed; the one anklet's accusatory poetic voice remains explicit.
 
 ## Dravidian-movement relation rule
 
 Preserve source-supported concepts that later carry Dravidian movement force — Tamil linguistic-cultural self-respect, Tamilakam consciousness, dignity, justice, anti-hierarchical argument, rational human agency, women's agency and Tamil historical consciousness — **without inserting movement vocabulary into dialogue when it is absent from the Tamil source**.
 
-Through scene 26, the strongest recurring patterns are: fate versus reason/human agency; Tamil peoplehood/history; Tamil-centred maritime cosmopolitanism; language as love and collective worth; women's choice and dignity; artistic achievement against inherited stigma; Tamil custom and collective identity; practical ethical responsibility grounded in `தமிழ் மறை`; intimate `தமிழ்ச் சுவை`; literary-cultural naming; explicit Tamil identity; Tamil historical festival framing; Madhavi's questioning of unequal chastity expectations; exposure of birth-status/sexual stigma as dramatic violence; Kannagi's refusal to define herself through hostility toward Madhavi; women's material agency; Madhavi's rejection of household profit logic; Kavundhi's conscience/accountability ethics; Maasathuvan's dignity-conferring acceptance of Madhavi; Tirukkural-based endurance and human agency; Tamil/Sangam cultural stewardship joined to justice and labour; and the contrast between skilled craft and an official's human act of theft.
+Through scene 29, the strongest recurring patterns are: fate versus reason/human agency; Tamil peoplehood/history; Tamil-centred maritime cosmopolitanism; language as love and collective worth; women's choice and dignity; artistic achievement against inherited stigma; Tamil custom and collective identity; practical ethical responsibility grounded in `தமிழ் மறை`; intimate `தமிழ்ச் சுவை`; literary-cultural naming; explicit Tamil identity; Tamil historical festival framing; Madhavi's questioning of unequal chastity expectations; exposure of birth-status/sexual stigma as dramatic violence; Kannagi's refusal to define herself through hostility toward Madhavi; women's material agency; Madhavi's rejection of household profit logic; Kavundhi's conscience/accountability ethics; Maasathuvan's dignity-conferring acceptance of Madhavi; Tirukkural-based endurance and human agency; Tamil/Sangam cultural stewardship joined to justice and labour; the contrast between skilled craft and an official's human act of theft; hospitality/protection across Aayar and Jain-associated social worlds; Tamil as an intimate `breeze` entering domestic space; and Kannagi's use of her anklet as capital while Kovalan turns the remaining anklet into a voice of conscience rather than fate.
 
 These relations belong in separately labelled interpretive notes unless the source itself uses later movement terminology.
