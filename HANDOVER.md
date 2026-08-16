@@ -6,7 +6,7 @@
 
 ## Permanent rules
 
-Read `STAGE_PLAY_PROCESSING_GUIDE.md` completely before continuing any work. The supplied Tamil scan is the controlling source. Do not silently modernize, correct, normalize, reconstruct or improve the Tamil. OCR is assistive only. Source PDFs are not committed.
+Read `STAGE_PLAY_PROCESSING_GUIDE.md` completely before continuing. The supplied Tamil scan is controlling authority. Do not silently modernize, correct, normalize, reconstruct or improve Kalaignar's Tamil. OCR is assistive only. Source PDFs are not committed.
 
 ## Current work
 
@@ -15,48 +15,32 @@ Path: `works/silappathikaram-nataka-kappiyam/`
 
 Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf`
 
-Source facts: 88 scans; scan 17 begins `காட்சி-1`; scan 88 visibly carries `காட்சி-38`.
-
 ## Current verification checkpoint
 
-Scans **1–54 are fully verified**, including the complete front matter/prefaces and **காட்சி-1 through காட்சி-18**.
+Scans **1–58 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-19**.
 
-## Newly completed activity — காட்சி-18, scans 53–54
+## Newly completed activity — காட்சி-19, scans 55–58
 
-### Scan 53 — `pages/0053.md`
-
-- `காட்சி-18`.
-- Decorative title verified from enlarged Tamil source as **`இந்திர விழா-இருமனைகளில்`**.
-- Printed page **`37`** visibly present.
-- Multi-location festival sequence with printed internal headings `மாதவி வீடு` and `கண்ணகி வீடு`.
-- Complete two-column text verified directly against enlarged source.
-- The final stage prose physically continues onto scan 54 and is not editorially completed in scan 53.
-
-### Scan 54 — `pages/0054.md`
-
-- Continues and closes scene 18.
-- Completes Kannagi's stage sequence and contains printed internal headings **`கடற்கரை`** and **`மாதவி வீட்டுப் பள்ளியறை`**.
-- Records the completion of the twenty-eight-day Indra festival and the Madhavi–Kovalan preparations for the dawn seashore / `கானல்வரி` sequence.
-- No printed page number is inferred.
-- Small dark circular bottom-centre illustration/decorative element is uncaptioned.
-- Scan 55 directly begins `காட்சி-19`.
+- Decorative title: **`கானல் வரியும் / காதல் பிரிவும்`**.
+- Setting: **`புகார்`**.
+- Complete character-level records: `pages/0055.md` through `pages/0058.md`.
+- Scan 56: upper-left sculptural photograph; the text below it is dramatic text, not a photograph caption.
+- Scan 57: uncaptioned lower-right sculptural photograph/reproduction.
+- Scan 58: printed page **42**, small uncaptioned யாழ்-like illustration, and scene close.
+- Scan 59 directly begins `காட்சி-20`.
 
 ## Permanent future-translation terminology note
 
-Do **not** automatically translate Kalaignar's `அந்தணர்` as “Brahmin.” Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, and other authorial/source terms such as `மறையவன்`. Decide English renderings only during dedicated terminology/translation review; a published translator's choice is not automatically the archival project's choice.
+Do **not** automatically translate Kalaignar's `அந்தணர்` as “Brahmin.” Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, and other source terms such as `மறையவன்`. Decide English renderings only during dedicated terminology/translation review.
 
 ## Working-unit decision
 
 Detailed verification proceeds by **one complete scene per activity where practical**, with one independent archival record per physical scan.
 
-## Forward boundary
-
-Direct inspection establishes **காட்சி-19 spans scans 55–58**. Scan **59** begins `காட்சி-20`.
-
 ## Published English translation witness
 
-The supplied published English volume remains a secondary future collation witness only. Do not use it to silently alter Tamil readings or solve stylized Tamil headings by translation inference.
+The supplied published English volume remains a secondary future collation witness only. Do not use it to silently alter Tamil readings.
 
 ## Next activity
 
-Process **காட்சி-19 across scans 55–58** as one complete scene. Resolve its ornate title from enlarged Tamil source and verify every page, speaker label, stage direction, physical break and illustration/caption before promotion. Do not begin scene assembly or English translation yet.
+Begin **காட்சி-20 at scan 59**. Inspect forward until the next `காட்சி-` heading, establish the complete physical scene extent, then perform enlarged character-level verification of the whole scene. Do not begin scene assembly or English translation yet.
