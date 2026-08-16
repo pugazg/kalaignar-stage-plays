@@ -7,14 +7,14 @@ Prepared for continuation in a fresh chat/session.
 - Repository: `pugazg/kalaignar-stage-plays`
 - Branch: `main`
 - Active work: `works/silappathikaram-nataka-kappiyam/`
-- Controlling source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf`
+- Controlling Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf`
 - Source PDF is **not committed**.
 
-## Mandatory source authority
+## Source authority
 
-The supplied Tamil scan controls the Tamil archival edition. Do not silently modernize, normalize, correct, reconstruct or improve the printed Tamil. Preserve source-supported wording, spacing, punctuation, labels, stage directions, repetitions, physical page/column evidence, pagination and anomalies. OCR, other editions and the published English translation are secondary witnesses only.
+The supplied Tamil scan controls Tamil readings. The verified assembled Tamil corpus is the immediate translation source. Never silently modernize, normalize, correct, reconstruct or improve the Tamil, and never change Tamil merely to fit an English translation.
 
-Verified Tamil page/scene records may change only when direct source pixels prove an error, with explicit documentation. Translation must never retroactively change the Tamil archive. Source obstructions must stay explicit rather than being filled from context.
+If a Tamil reading becomes doubtful during translation, return to the verified page record and controlling scan pixels. Another edition or a published English translation may be used only as labelled secondary corroboration.
 
 ## Mandatory startup
 
@@ -25,79 +25,103 @@ Read completely:
 3. this handover
 4. root `HANDOVER.md`
 5. work `README.md`
-6. `indexes/page-map.md`
-7. `audit.md`
-8. `SCENE_ASSEMBLY_PLAN.md`
-9. `VISUAL_TEXT_FIDELITY_CHECK.md`
-10. `SCENE_ASSEMBLY_PILOT_REVIEW.md`
-11. `GLOBAL_TAMIL_REVIEW.md`
-12. `scenes/01.md` through `scenes/38.md`
-13. `scenes/closing-tableau.md`
+6. `GLOBAL_TAMIL_REVIEW.md`
+7. `TRANSLATION_GUIDE.md`
+8. `TRANSLATION_TERMINOLOGY.md`
+9. `translations/en/README.md`
+10. `translations/en/TRANSLATION_REVIEW.md`
+11. `translations/en/PILOT_REVIEW.md`
+12. the verified Tamil scene file currently being translated.
 
-## Current checkpoint
+## Completed Tamil state
 
 - 88 source scans; scans 1–88 visually verified at page-record level.
 - Tamil transcription completion audit: **PASS**.
-- Scenes **1–38** are `assembly-reviewed`, visual fidelity `passed`.
-- `scenes/closing-tableau.md` is also assembly-reviewed / fidelity passed.
-- **38 of 38 numbered scenes plus the separate closing tableau are assembled.**
+- Scenes 1–38: `assembly-reviewed`, visual fidelity `passed`.
+- Separate closing tableau: assembly-reviewed / fidelity passed.
 - Global Tamil consistency/source review: **PASS**.
-- Tamil archival/assembly/global-review gates: **COMPLETE**.
-- English translation has **not started**, but the translation gate is now open.
+- Tamil archival / assembly / global-review phases: **COMPLETE**.
 
-## Global Tamil review
+The global review found no new Tamil literary/page-record correction and no new scene-text correction. Known anomalies and the scan-88 obstruction remain protected.
 
-Authoritative report: `works/silappathikaram-nataka-kappiyam/GLOBAL_TAMIL_REVIEW.md`.
+## English translation state
 
-The global review checked all 39 assembled outputs, all scene front matter, the 38-scene manifest, all multi-scan scene provenance, earlier source-pixel corrections, source-specific punctuation/repetition, visual/caption layers, pagination anomalies, unmatched brackets and the final scan-88 obstruction.
+Translation phase has begun under a dedicated protocol.
 
-Result: **PASS**.
+Created:
 
-No new Tamil literary/page-record correction and no new assembled-scene text correction were required.
+- `works/silappathikaram-nataka-kappiyam/TRANSLATION_GUIDE.md`
+- `works/silappathikaram-nataka-kappiyam/TRANSLATION_TERMINOLOGY.md`
+- `works/silappathikaram-nataka-kappiyam/translations/en/README.md`
+- `works/silappathikaram-nataka-kappiyam/translations/en/TRANSLATION_REVIEW.md`
+- `works/silappathikaram-nataka-kappiyam/translations/en/01.md`
+- `works/silappathikaram-nataka-kappiyam/translations/en/PILOT_REVIEW.md`
 
-The review specifically reconfirmed that earlier pixel-proven corrections have not regressed, including `தனி மாடத்தை விட்டு`, `தங்கப் போகிறேன்!`, `செங்கு : கண்ணகி...!`, `[சாத்தனரின் குரல் தொடர்கிறது]`, `உனை மறந்தாலன்றோ`, `என்னை எடுத்துப்`, `உண்மைதானே?..`, `உச்சக் குரலில்`, `நடைபெற்ற`, and `அது உங்களை மன்னிக்கட்டும்.`.
+### Pilot — காட்சி-1
 
-Protected anomalies remain unchanged:
+Tamil: `வஞ்சி மூதூரில் முரசறைதல்`  
+English title: `Drum Proclamation in Vanchi, the Ancient City`
 
-- scan 25 anomalous page `2`;
-- scan 73 anomalous page `8`;
-- scan 81 unresolved `9` plus damaged following mark;
-- scene 28 unmatched closing bracket;
-- scene 31 unmatched opening bracket;
-- scene 35 `“கொன்று வருக அவனை!”` / `“கொன்று வருக அவன்”` distinction;
-- scene 36 `★` separator;
-- scene 37 four-dot sequence and final unusual closing mark;
-- scan 88 three-star separator and unreconstructed stamp-obscured leading characters.
+Status:
 
-One documentation drift was corrected: `indexes/page-map.md` had retained an obsolete instruction to start scene-1 assembly.
+- `translation-reviewed`
+- review: **PASS**
+- secondary English witness used: **No**
+- pilot convention: **accepted**
 
-The old `audit.md` remains a historical page-level completion/readiness audit from before scene assembly; use `GLOBAL_TAMIL_REVIEW.md` for the current post-assembly Tamil checkpoint.
+The translation preserves Kalaignar's proclamation rhythm, repetition, direct public address, historical imagery and slogan structure.
 
-## Translation terminology and voice lock
+Accepted terminology includes:
 
-Translation must be made from the **verified assembled Tamil corpus**. If the published English volume is available, use it only as a labelled secondary comparison witness.
+- `தமிழகம்` → `Tamilakam`
+- `முரசறைவோன்` → `drum-announcer`
+- `இமிழ் கடல் வேலித் தமிழகம்` → `Tamilakam, girdled by the sounding sea`
+- `விற்கொடி` → `bow-banner`
+- `கொட்டுவோம், கொட்டுவோம் முரசம்!` → `Let us beat, let us beat the drum!`
+- `தாயகம்` → `homeland`
 
-Preserve Kalaignar's rhetorical force, cadence, wit, repetition, dramatic timing, polemical force and literary/political language. Do not smooth deliberate repetition or unusual source rhetoric simply to make English conventional.
+`செந்தமிழர்` remains deliberately elevated in the pilot rather than being flattened automatically; revisit only through terminology consistency review if later evidence suggests a better stable English solution.
 
-Permanent terminology instruction:
+## Kalaignar voice requirement
 
-`அந்தணர்` is **not automatically equivalent to “Brahmin.”** Preserve distinctions among:
+Retain Kalaignar's language in English:
 
-- `பிராமண`
-- `பார்ப்பன`
-- `அந்தணர்`
-- `மறையவன்`
-- other context-specific source terms.
+- rhetorical force;
+- cadence and repetition;
+- wit and teasing;
+- dramatic timing;
+- emotional escalation;
+- polemical force;
+- literary/political register;
+- Tamil historical and cultural imagery.
 
-Decide English renderings during dedicated terminology review, with context and consistency recorded.
+Do not convert the play into neutral explanatory prose.
 
-## Exact next activity — translation preparation and pilot
+## Dravidian movement conceptual relation
 
-1. Create a work-specific English translation protocol/style guide.
-2. Create a terminology register for recurring culturally, historically and politically loaded expressions.
-3. Create `works/silappathikaram-nataka-kappiyam/translations/en/` and a translation-review tracker.
-4. Translate **காட்சி-1 / `scenes/01.md`** as the English pilot.
-5. Review the pilot line-by-line against the verified Tamil, with particular attention to Kalaignar's cadence, repetition, imagery, dramatic timing and rhetorical register.
-6. Accept the pilot convention before scaling translation to subsequent scenes/batches.
+Translation choices should preserve source-supported conceptual resonances with the Dravidian movement, especially where Kalaignar's wording invokes Tamil linguistic-cultural self-respect, Tamilakam consciousness, dignity/self-respect, rational agency, justice, anti-hierarchical argument, women's agency or Tamil historical memory.
 
-Do not modify verified Tamil merely to simplify English translation.
+However, **interpretation must not be inserted into character dialogue**. Where useful, add a separate `Dravidian movement resonance — interpretive note` after the translation.
+
+Scene 1's note relates `வாழ்க தமிழ்! வெல்க தமிழகம்!`, `புதிய எழுச்சி`, the repeated drum-call and `தாயகம்` to Tamil identity, historical consciousness and public mobilization. It explicitly does not insert later terms such as `self-respect`, `social justice`, `rationalism` or `Dravidian` because scene 1 does not contain them.
+
+## Permanent terminology lock
+
+`அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and related source terms. Decide contextually and record decisions in `TRANSLATION_TERMINOLOGY.md`.
+
+## Exact next activity — காட்சி-2 translation/review
+
+Translate **காட்சி-2 — `செங்குட்டுவன் பிறந்தநாள் விழா`**, setting `வஞ்சி`, from verified `scenes/02.md`.
+
+Scene 2 is deliberately one more single-scene pilot before batching because it tests:
+
+- intimate family dialogue rather than public proclamation;
+- humour and teasing;
+- affection;
+- abbreviated/full speaker-label shifts;
+- stage directions and emotional subtext;
+- natural English that still retains Kalaignar's cadence.
+
+Review the completed translation line-by-line against `scenes/02.md`, update the terminology register only where new recurring decisions arise, add a Dravidian-movement interpretive note only if the source supports one, and advance `TRANSLATION_REVIEW.md`.
+
+After scene 2 passes, establish the first controlled multi-scene translation batch.
