@@ -25,9 +25,9 @@ Read completely before changing anything:
 9. `translations/en/README.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
 11. `translations/en/PILOT_REVIEW.md`
-12. `translations/en/02_REVIEW.md` through `translations/en/26_REVIEW.md`
-13. completed English `translations/en/01.md` through `translations/en/26.md`
-14. verified Tamil `scenes/27.md`, `scenes/28.md`, and `scenes/29.md` before translating the next batch.
+12. `translations/en/02_REVIEW.md` through `translations/en/29_REVIEW.md`
+13. completed English `translations/en/01.md` through `translations/en/29.md`
+14. verified Tamil `scenes/30.md`, `scenes/31.md`, and `scenes/32.md` before translating the next batch.
 
 ## Completed Tamil work — do not restart
 
@@ -42,11 +42,11 @@ The Tamil scan remains controlling authority. Never alter verified Tamil merely 
 
 ## Completed English translation
 
-Scenes **1–26** are `translation-reviewed` / PASS.
+Scenes **1–29** are `translation-reviewed` / PASS.
 
-English progress: **26/38 numbered scenes**.
+English progress: **29/38 numbered scenes**.
 
-No published English edition was used for scenes 1–26.
+No published English edition was used for scenes 1–29.
 
 ## Kalaignar-language requirement
 
@@ -76,53 +76,56 @@ When useful, add a separate:
 
 Accepted recent handling:
 
-- scene 24: relate Tirukkural-based practical courage and human agency to later rational/humanist currents only in the note; preserve the fish/Pandya symbol directly;
-- scene 25: preserve Tamil/Sangam cultural stewardship, justice and labour/authorship in dialogue, while keeping modern movement/legal interpretation outside it;
-- scene 26: preserve skilled craft and official theft as direct human action; keep movement interpretation restrained.
+- scene 27: keep `Aychiyar / Aayar` culturally specific and relate hospitality/protection to dignity only in the note; do not impose a later caste label;
+- scene 28: preserve `Tamil... is a breeze! It enters everywhere.`, `[oodal]`, `puram` wordplay and royal justice language directly; keep movement/legal interpretation outside dialogue;
+- scene 29: preserve Kannagi's anklet as material capital, domestic/performance culture and Kovalan's conscience through the remaining anklet without turning the scene into a later ideological speech.
 
 ## Permanent terminology lock
 
 `அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்`, and related terms. Resolve contextually and record new decisions in `TRANSLATION_TERMINOLOGY.md`.
 
-Additional controlling precedents through scene 26:
+Additional controlling precedents through scene 29:
 
-- `திருக்குறள்` → `Tirukkural`;
-- `இடுக்கண் வருங்கால் நகுக!` → `When adversity comes, smile!`, independently translated from Kalaignar's printed Tamil;
-- `தமிழ்ச் சங்கம்` → `Tamil Sangam`;
-- `நீதி வழுவா` → `unswerving in justice`;
-- repeated scene-25 `காவியம்` → `kaviyam`;
-- `தமிழைக் கொளுத்தும்` remains `burning Tamil`;
-- `அரசாங்கச் சிலம்பு` → `government anklet` in its comic context;
-- `மணி மோதிரம்` → `gem-set ring`;
-- unresolved `மல்லிகை கல்` → `malligai-kal`.
+- `ஆய்ச்சியர்` → retained `Aychiyar`;
+- `ஆயர்குல மங்கை` → `a woman of the Aayar people` in scene 27;
+- `பாற்சோறு` → `milk-rice`;
+- `அடைக்கலம்` → contextual protection/refuge/charge;
+- `[ஊடல்]` → `[oodal]`;
+- `புறத்துறைப் பாடல் / புறப்பாடல்` → retain `puram` terminology;
+- scene-28 quoted `உற்றுழி உதவியும் / உறுபொருள் கொடுத்தும்` was independently translated from Kalaignar's printed Tamil;
+- `நீதி மன்றம்` → `hall of justice` in the royal setting;
+- `குரவைக் கூத்து` → `kuravai koothu`;
+- `தாம்பூலம்` → `taamboolam`;
+- `கணீர் கணீர்` → `kanir, kanir`;
+- source-opaque `ஆவிநிகர் மீனியாளே ஆளவிட்ட கரும்பாக்கி` → retain transliteration rather than guess.
 
 The published English edition, if later consulted, is a labelled secondary witness only.
 
-## Exact next activity — controlled English translation batch scenes 27–29
+## Exact next activity — controlled English translation batch scenes 30–32
 
 Translate and individually review:
 
-1. `காட்சி-27 — ஆய்ச்சியர் அறிமுகம்`, initial setting `மதுரை எல்லை`, internal `மாதரி வீடு...`;
-2. `காட்சி-28 — பொற்கொல்லர் முறையீடு`, setting `பாண்டியன் தனிமாடம்`;
-3. `காட்சி-29 — ஒற்றைச் சிலம்பின் ஒலி`, setting `மாதரி வீடு`.
+1. `காட்சி-30 — சிலம்போ சிலம்பு`, initial setting `பொற்கொல்லர் நிலையம்`, internal `சாலை`;
+2. `காட்சி-31 — வளைந்தது செங்கோல்`, initial setting `நெடுஞ்செழியன் பள்ளியறை`, internal `தாழ்வாரம்`;
+3. `காட்சி-32 — மதுரை மண்ணில் கோவலன் குருதி`, setting `வீதியிலுள்ள மண்டபம்`.
 
 Create:
 
-- `translations/en/27.md` and `27_REVIEW.md`;
-- `translations/en/28.md` and `28_REVIEW.md`;
-- `translations/en/29.md` and `29_REVIEW.md`.
+- `translations/en/30.md` and `30_REVIEW.md`;
+- `translations/en/31.md` and `31_REVIEW.md`;
+- `translations/en/32.md` and `32_REVIEW.md`.
 
-### Scene 27 special care
+### Scene 30 special care
 
-Preserve Aiyai and Madhari's introduction, the Madurai-border-to-Madhari-house internal location change, `Kavundhi Adigal`, Jain-ascetic hospitality, `ஆயர்குல மங்கை`, and Kannagi being entrusted to Madhari. Do not force source community terms into a modern caste label unless the occurrence itself requires it.
+Preserve the hundred goldsmiths' collective denial, the chief goldsmith's colloquial frustration, the internal shift to the road, Kovalan's attempts to sell the anklet, and the chief goldsmith's recognition that what he sought has appeared before him. Do not give Kovalan knowledge of the theft/plot that he does not possess.
 
-### Scene 28 special care
+### Scene 31 special care
 
-Preserve Nedunchezhiyan/Kopperundevi's intimate teasing, `தமிழ்...ஒரு தென்றல்!`, the quoted `உற்றுழி உதவியும் / உறுபொருள் கொடுத்தும்` lines, the goldsmith's complaint that the anklet is missing, and the king's planned investigation. Translate the quoted verse independently from the Tamil printed in this scene. Preserve the unmatched closing bracket and do not silently normalize Kalaignar's `நீதி மன்றம்` into modern constitutional procedure.
+Preserve the royal-couple dispute, `நாடு பெரியது` rhetoric, the internal `தாழ்வாரம்` shift, the visibly unmatched opening bracket in the source stage direction, the goldsmith's accusation and Nedunchezhiyan's immediate order `உடனே அவனைக் கொன்று வருக!...`. Do not soften, justify or modernize the judicial failure.
 
-### Scene 29 special care
+### Scene 32 special care
 
-This is a long four-scan scene. Preserve trade planning, Kannagi's anklet as economic capital, food/betel/decoration intimacy, `குரவைக் கூத்து`, the emotional act of removing only one anklet, and Kovalan's extended personification of the remaining anklet as a voice that rebukes him. Preserve repetitions and source roughness; do not compress the domestic sequences merely to reach the plot event.
+This is a rhetorically dense accusation/death scene. Preserve Kovalan's demand to face the king, his self-accounting, `செந்தமிழாள்`, `தமிழ்த் தாய்`, justice/straightness/aram/love/Tamil accumulation, and his faith in Nedunchezhiyan's reputation. Keep accusation, Kovalan's defence and institutional violence distinct. Do not import modern due-process/legal vocabulary into the dialogue.
 
 ### Review gate
 
@@ -137,6 +140,6 @@ For each scene:
 7. set `translation-reviewed` / `passed` only after individual review;
 8. update terminology, tracker, README and handovers after the batch.
 
-Proceed now with **காட்சி-27 through காட்சி-29**.
+Proceed now with **காட்சி-30 through காட்சி-32**.
 
 ---
