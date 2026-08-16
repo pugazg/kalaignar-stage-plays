@@ -49,9 +49,9 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 43 | 27 | scene 12 | scene opening / close | verified | `காட்சி-12`; enlarged source title verified as `இன்ப வாழ்வில் கோவலன்`; setting `மாதவி வீடு`; complete corrected two-column text and lower-centre uncaptioned peacock illustration verified; scan 44 begins scene 13. |
 | 44 | — | scene 13 | scene opening | verified | `காட்சி-13`; enlarged title verified as `துன்பப் புயலில் கண்ணகி`; setting `கண்ணகி வீடு`; complete two-column text verified; large lower-left photograph/reproduction is uncaptioned. |
 | 45 | — | scene 13 | continuation / close | verified | Complete two-column family dialogue verified; lower-right sculptural photograph/reproduction is uncaptioned; scan 46 begins scene 14. |
-| 46 | 30 | scene 14 | scene opening | needs-review | `காட்சி-14`; provisional title `மாதவியின் மாண்பு`; setting `காவிரி ஆற்றோரம்`; complete text pending enlarged verification. |
-| 47 | 31 | scene 14 | continuation | needs-review | Dense two-column continuation with small uncaptioned lower-centre illustration; complete text pending verification. |
-| 48 | 32 | scene 14 | continuation / close | needs-review | Dense two-column continuation with small uncaptioned figure illustration; scan 49 begins scene 15. |
+| 46 | 30 | scene 14 | scene opening | verified | `காட்சி-14`; enlarged title verified as `மாதவியின் மாண்பு`; setting `காவிரி ஆற்றோரம்`; complete two-column text verified. |
+| 47 | 31 | scene 14 | continuation | verified | Complete two-column continuation verified; Brahmin-woman episode begins; small lower-centre illustration is uncaptioned. |
+| 48 | 32 | scene 14 | continuation / close | verified | Complete reconciliation/advice dialogue verified; small figure illustration uncaptioned; scan 49 begins scene 15. |
 | 49 | — | scene 15 | scene opening | needs-review | `காட்சி-15`; title intentionally unresolved pending enlargement; setting `கண்ணகி வீடு`; lower-right sculptural photograph/reproduction uncaptioned. |
 | 50–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. No pagination or scene boundaries are inferred here. |
 | 88 | — | dramatic body | scene | not-started | `காட்சி-38` visibly present on final supplied scan. |
@@ -70,8 +70,8 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–45 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-13**.
+Scans **1–48 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-14**.
 
-Scans **46–49** are individually structurally mapped at `needs-review`. Forward inspection establishes that **காட்சி-14 spans scans 46–48**, and scan **49 begins காட்சி-15**.
+Scan **49** is individually structurally mapped as the opening of `காட்சி-15` and remains `needs-review`. Scans **50–87** still require individual mapping; scan 88 visibly carries `காட்சி-38`.
 
-Detailed verification continues by **complete scene where practical**, while retaining one source record per physical scan. Next: **காட்சி-14 across scans 46–48**.
+Detailed verification continues by **complete scene where practical**, while retaining one source record per physical scan. Next: begin at scan **49 / காட்சி-15**, inspect forward to establish that scene's complete physical extent, then verify the whole scene as one activity where practical.
