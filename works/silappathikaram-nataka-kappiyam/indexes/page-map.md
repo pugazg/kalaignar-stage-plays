@@ -18,24 +18,21 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 70 | 54 | scene 27 | scene opening / close + illustration | verified | `காட்சி-27`; title `ஆய்ச்சியர் அறிமுகம்`; initial setting `மதுரை எல்லை`, internal location shift `மாதரி வீடு...`; complete one-scan transcription verified. |
 | 71 | — | scene 28 | scene opening / close + illustration | verified | `காட்சி-28`; title `பொற்கொல்லர் முறையீடு`; setting `பாண்டியன் தனிமாடம்`; complete one-scan transcription verified. |
 | 72–75 | 56 / 8 / — / — | scene 29 | opening + continuations / close + archaeological images | verified | `காட்சி-29`; title `ஒற்றைச் சிலம்பின் ஒலி`; setting `மாதரி வீடு`; complete four-scan transcription and exact scan-75 archaeological caption verified. Scan 73 visibly prints the anomalous numeral `8`; no replacement pagination is inferred. |
-| 76 | 60 | scene 30 | scene opening / close + illustration | needs-review | `காட்சி-30`; provisional title `சிலம்போ சிலம்பு`; setting `பொற்கொல்லர் நிலையம்`; scan 77 begins scene 31. |
-| 77–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. |
+| 76 | 60 | scene 30 | scene opening / close + illustration | verified | `காட்சி-30`; title `சிலம்போ சிலம்பு`; setting `பொற்கொல்லர் நிலையம்`; internal heading `சாலை`; complete two-column transcription verified; scan 77 begins scene 31. |
+| 77 | 61 | scene 31 | scene opening / close + illustration | needs-review | `காட்சி-31`; title `வளைந்தது செங்கோல்`; setting `நெடுஞ்செழியன் பள்ளியறை`; internal heading `தாழ்வாரம்`; structural mapping only; scan 78 begins scene 32. |
+| 78–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. Scan 78 visibly begins `காட்சி-32`. |
 | 88 | — | dramatic body | scene | not-started | `காட்சி-38` visibly present on final supplied scan. |
 
 ## Current checkpoint
 
-Scans **1–75 are verified**. Detailed dramatic-body verification covers **காட்சி-1 through காட்சி-29**.
+Scans **1–76 are verified**. Detailed dramatic-body verification covers **காட்சி-1 through காட்சி-30**.
 
-`காட்சி-29` spans scans **72–75**, titled **`ஒற்றைச் சிலம்பின் ஒலி`** with setting **`மாதரி வீடு`**. It follows Kannagi and Kovalan's discussion of restarting trade, Kannagi offering an anklet, Kovalan asking her to retain one anklet, the emotionally charged single-anklet passage, and Kovalan's departure while the kuravai begins.
+`காட்சி-30` is physically confined to scan **76**, titled **`சிலம்போ சிலம்பு`** with setting **`பொற்கொல்லர் நிலையம்`**. The complete two-column text has been checked against native/enlarged controlling-source pixels. The internal heading `சாலை` is retained within the scene. Printed page **`60`** is visibly present at lower-left. The small lower-centre bow-and-arrow-like line illustration is uncaptioned and is archived separately from the dramatic text.
 
-Visible pagination is preserved strictly from the physical source: scan **72** prints `56`; scan **73** visibly prints only `8`, which is retained as an anomalous source marker rather than silently converted to an expected sequence number; scans **74–75** have no securely visible printed page number.
+Source-specific scene-30 readings retained without normalization include `ம்...நீதி`, `முளைத்தா`, `பகற்`, `அதற்கென்றுள்`, `வணக்கம் அய்யா...`, `தருகிறேனய்யா`, `எனப்பா`, and `தானுகவே`. Physical source splits such as `புறப் / படுங்கள்`, `சிலம் / பாக`, `வரு / கிறாரே`, and `அழ / கான` remain visible in the page record.
 
-Scan 75's exact printed caption is `“பூம்புகார்” அகழ்வாராய்ச்சி— / கரிகாலன் காலத்துப் பொற்காசு / களும் அவற்றில் பொறித்துள்ள / சின்னங்களும்.` The lower panel contains line-drawn symbols and photographed/reproduced coin-like or inscribed objects.
-
-Source-specific readings retained during scene-29 verification include `அழுகக்கேன்`, `கழற்றுமல்`, `வீட்டு வைத்திருக்கும்`, `தலிநகருக்கு!`, `வருமத்தான்`, `ஒலி யெழுப்பும்`, `ஆவிநிகர் மீனியாளே`, `புன்மதியாளனுக்கு`, `ஒரு முறை யத்தான்!`, and `திரும்பிவந்து விட்டார்களே...`.
-
-Scan **76** is structurally mapped as the one-scan `காட்சி-30`, printed page **60**, provisional title **`சிலம்போ சிலம்பு`**, setting **`பொற்கொல்லர் நிலையம்`**, at `needs-review`; scan **77** directly begins `காட்சி-31`.
+Scan **77** has now been structurally inspected as the complete physical extent of **காட்சி-31**: title **`வளைந்தது செங்கோல்`**, initial setting **`நெடுஞ்செழியன் பள்ளியறை`**, internal heading **`தாழ்வாரம்`**, printed page **`61`**, and an uncaptioned lower ornate illustration. Scan **78** directly begins `காட்சி-32`, so scene 31 is also a one-scan scene. `pages/0077.md` remains `needs-review` until its complete literary text is visually verified.
 
 The future-translation terminology lock remains in force: Kalaignar's `அந்தணர்` must not be automatically flattened to “Brahmin”; distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, and other source terms such as `மறையவன்` must be preserved pending dedicated translation review.
 
-Detailed verification continues by complete scene where practical. Next: **காட்சி-30 / scan 76**.
+Detailed verification continues by complete scene where practical. Next: **காட்சி-31 / scan 77**.
