@@ -26,8 +26,8 @@ Before continuing, read completely:
 8. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PLAN.md`
 9. `works/silappathikaram-nataka-kappiyam/VISUAL_TEXT_FIDELITY_CHECK.md`
 10. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PILOT_REVIEW.md`
-11. `works/silappathikaram-nataka-kappiyam/scenes/01.md` through `scenes/10.md`
-12. next input `works/silappathikaram-nataka-kappiyam/pages/0042.md`
+11. `works/silappathikaram-nataka-kappiyam/scenes/01.md` through `scenes/11.md`
+12. next input `works/silappathikaram-nataka-kappiyam/pages/0043.md`
 
 ## Current checkpoint
 
@@ -36,42 +36,35 @@ Before continuing, read completely:
 - Page-level verification covers **காட்சி-1 through காட்சி-38** and the scan-88 closing tableau.
 - Tamil transcription completion audit / assembly-readiness review: **PASS**.
 - Mandatory direct visual-text fidelity protocol: active for every assembled scene.
-- Scenes **1–10** are `assembly-reviewed` with visual fidelity `passed`.
-- **10 of 38 numbered scenes are assembly-reviewed.**
+- Scenes **1–11** are `assembly-reviewed` with visual fidelity `passed`.
+- **11 of 38 numbered scenes are assembly-reviewed.**
 - English translation has not started and remains locked.
 
 Previously verified page records must not be casually modified. Any change requires direct source-pixel evidence and explicit documentation.
 
-## Latest completed assembly — காட்சி-10
+## Latest completed assembly — காட்சி-11
 
-File: `works/silappathikaram-nataka-kappiyam/scenes/10.md`
+File: `works/silappathikaram-nataka-kappiyam/scenes/11.md`
 
-- Title: `கலையரசி கண்ட உவகை`
-- Setting: `மாதவி இல்லம்`
-- Internal heading: `தெரு`
-- Source scans: 39–41
+- Title: `கற்பரசியின் கலக்கம்`
+- Setting: `கண்ணகி வீடு`
+- Source scan: 42
 - Status: `assembly-reviewed`
 - Visual fidelity: `passed`
 
-Direct enlarged inspection rechecked scans 39–41, the complete scene text, all relevant column structure, both physical boundaries and all visual/provenance layers.
+Direct enlarged inspection rechecked the complete scan, both columns, the unlabeled continuation into the right column, printed page `26`, the lower-centre uncaptioned decorative illustration, and the boundary before scan 43.
 
 Source-pixel correction:
 
-- scan 40 / `pages/0040.md`: `உண்மைதானே?...` → source-visible **`உண்மைதானே?..`**.
-
-No wording correction was required on scans 39 or 41.
+- scan 42 / `pages/0042.md`: `வா உள்ளே!` → source-visible **`வா உள்ளே !`**.
 
 Boundary/structure verification:
 
-- scan 39 opens the scene and includes the internal heading `தெரு`;
-- the later circular library/accession stamp overlapping the decorative heading is not publication text;
-- scan 39 closes its bracketed reception sequence with `பெண்கள் எப்படியோ ஒவ்வொருவராக அதை விட்டு நீங்கி விடுகின்றனர்.]`;
-- scan 40 starts new stage prose `நடனங்களில் கோவலன் மயங்கி அமர்ந்திருக்கிறான்.` and contains the final literary text;
-- scan 40 visibly prints page `24` and retains repeated `ஆடுகிறாள்.`, `அது வும்`, `“தடால்!”`, `கலை பெண்ணும் அலை`, `மண்ணுளும்`, `கண்ணுளன்`, `அடிச் சுவட்டை!`, `கண்ணு!`, and `உண்மைதானே?..`;
-- scan 41 is the final physical scan associated with scene 10 but is pictorial-only: no literary text, printed caption or visible pagination; no identity is inferred for the standing sculptural female figure;
-- scan 42 begins `காட்சி-11`.
-
-Visual layers remain separate: scan 39's uncaptioned man/woman interior illustration, scan 40's small uncaptioned ornamental/conch-like illustration, and scan 41's full-page sculptural photograph/reproduction.
+- scan 42 is both opening and close of scene 11;
+- after `[கண்ணகி மெதுவாகத் திரும்பி தேவந்தியைப் பார்க்கிறாள்.]`, the right column begins `ஏன் ......என்ன நடந்தது ?` without a repeated speaker label; none was invented;
+- mechanical joins verified include `நின்ற / வாறு` → `நின்றவாறு`, `வரு / கிறது` → `வருகிறது`, `தேவந்தி / யைப்` → `தேவந்தியைப்`, and `அழுகிறாயாக் / கும்` → `அழுகிறாயாக்கும்`;
+- protected punctuation/forms include `அவர் எங்கே ?`, `ஆ !...`, `ஒன்றுமில்ல தேவந்தி!......`, `அவர் எங்கே, உன் புருஷன் ?...`, `ஓகோ ...`, `வா உள்ளே !`, `ஆமாம்........`, `(இருபொருளில்)`, and `அவமானப்பட்டாளே; ஏன்?....`;
+- scan 43 directly begins `காட்சி-12`.
 
 ## Assembly phase rules
 
@@ -102,23 +95,23 @@ Future English translation has not started.
 
 The published English translation remains a secondary comparison witness only.
 
-## Exact next activity — காட்சி-11 assembly + visual fidelity
+## Exact next activity — காட்சி-12 assembly + visual fidelity
 
-Process **காட்சி-11 / scan 42 — `கற்பரசியின் கலக்கம்`, setting `கண்ணகி வீடு`** as one complete one-scan activity.
+Process **காட்சி-12 / scan 43 — `இன்ப வாழ்வில் கோவலன்`, setting `மாதவி வீடு`** as one complete one-scan activity.
 
-1. Read verified `pages/0042.md` completely.
-2. Create `scenes/11.md` at `status: "draft"`, `visual_text_fidelity: "pending"`.
+1. Read verified `pages/0043.md` completely.
+2. Create `scenes/12.md` at `status: "draft"`, `visual_text_fidelity: "pending"`.
 3. Preserve the exact scene/title/setting and every speaker label, stage direction, punctuation sequence, repetition and source-specific form.
-4. Scan 42 is both the opening and closing physical scan; scan 43 directly begins `காட்சி-12`.
-5. Preserve printed page `26`.
-6. Preserve the source's unlabeled right-column continuation `ஏன் ......என்ன நடந்தது ?`; do not invent a repeated speaker label.
-7. Preserve forms/punctuation including `அவர் எங்கே ?`, `ஆ !...`, `ஒன்றுமில்ல தேவந்தி!......`, `அவர் எங்கே, உன் புருஷன் ?...`, `ஓகோ ...`, `ஆள்மேலே ஆள் விட்டாளே;`, `(இருபொருளில்)`, and `அவமானப்பட்டாளே; ஏன்?....`.
-8. Keep the small uncaptioned moon/cloud-like lower-centre illustration separate from literary text.
-9. Inspect actual scan 42 at native/enlarged resolution; compare every assembled character/punctuation sequence and every mechanical join against source pixels and then `pages/0042.md`.
+4. Scan 43 is both the opening and closing physical scan; scan 44 directly begins `காட்சி-13`.
+5. Preserve printed page `27`.
+6. Kovalan's long description crosses the column boundary at `அசி / வதுபோல்`; join only this demonstrable physical wrap to `அசிவதுபோல்` and do not replace it from literary expectation.
+7. Preserve forms/punctuation including `மால்`, `சேற் / கெண்டை`, `இருண்டு-கண்பறிக்கும்`, `வித்தினிலே`, `யாரு / மில்ல !......`, `மன்னு !...`, `மால்க்கும்`, and `ஏற்பட் / டும்!......`.
+8. Keep the small uncaptioned peacock illustration near the lower centre separate from literary text.
+9. Inspect actual scan 43 at native/enlarged resolution; compare every assembled character/punctuation sequence and mechanical join against source pixels and then `pages/0043.md`.
 10. Promote only after both checks pass; correct a verified page only on direct source-pixel evidence.
 
 ## Phase state
 
-Completed: all page mapping/verification, Tamil completion audit, scene-assembly plan, visual-fidelity protocol, and scenes 1–10 assembly/fidelity review.
+Completed: all page mapping/verification, Tamil completion audit, scene-assembly plan, visual-fidelity protocol, and scenes 1–11 assembly/fidelity review.
 
-Next: scene 11, then scenes 12–38 + closing tableau with the same gate, followed by global Tamil consistency/source review. Only then, if directed, begin English translation.
+Next: scene 12, then scenes 13–38 + closing tableau with the same gate, followed by global Tamil consistency/source review. Only then, if directed, begin English translation.
