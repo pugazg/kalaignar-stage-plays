@@ -42,12 +42,18 @@ A large later circular library/accession stamp with handwritten `164596` overlap
 
 The **Tamil page-level visual verification phase is complete for the supplied 88-scan source**.
 
-The repository-wide **Tamil transcription completion audit / scene-assembly readiness review has also completed with PASS**. See `../audit.md` and `../SCENE_ASSEMBLY_PLAN.md` for the full 38-scene extent manifest, anomaly inventory and assembly rules.
+The repository-wide **Tamil transcription completion audit / scene-assembly readiness review completed with PASS**. See `../audit.md` and `../SCENE_ASSEMBLY_PLAN.md` for the full 38-scene extent manifest, anomaly inventory and assembly rules.
+
+The scene-assembly phase is also complete: **காட்சி-1 through காட்சி-38 plus `scenes/closing-tableau.md` are `assembly-reviewed` with direct visual-text fidelity passed**.
+
+The repository-wide **global Tamil consistency/source review has completed with PASS**. See `../GLOBAL_TAMIL_REVIEW.md`. No new literary/page-record correction was required during that global review; its only correction was to advance stale continuation documentation.
 
 The future-translation terminology lock remains in force: Kalaignar's `அந்தணர்` must not be automatically flattened to “Brahmin”; distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, and other source terms such as `மறையவன்` must be preserved pending dedicated translation review.
 
 ## Next phase
 
-Do **not** begin English translation yet.
+The Tamil archival/assembly/global-review gates are complete.
 
-Next: assemble **காட்சி-1 / scan 17** as the scene-assembly pilot in `../scenes/01.md`, strictly from verified `../pages/0017.md`, using `../SCENE_ASSEMBLY_PLAN.md`. The scene should begin at assembly status `draft`; review the pilot against the page record before moving to scene 2.
+Next: create the **work-specific English translation protocol and terminology register**, create the translation directory structure, and translate **காட்சி-1** as the English pilot from verified `../scenes/01.md`.
+
+The published English volume, if used, is a secondary comparison witness only. It must not control or retroactively alter the Tamil archive.
