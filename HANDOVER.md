@@ -17,23 +17,25 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 
 ## Current verification checkpoint
 
-Scans **1–70 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-27**.
+Scans **1–71 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-28**.
 
-## Newly completed activity — காட்சி-27, scan 70
+## Newly completed activity — காட்சி-28, scan 71
 
-### Scan 70 — `pages/0070.md`
+### Scan 71 — `pages/0071.md`
 
-- `காட்சி-27`.
-- Decorative title verified as **`ஆய்ச்சியர் அறிமுகம்`**.
-- Initial setting: **`மதுரை எல்லை`**.
-- Printed page **54** visibly present.
-- Complete two-column dramatic text verified using enlarged 600-ppi source views.
-- The page contains a printed internal location heading **`மாதரி வீடு...`**; retain it inside scene 27.
-- The first section introduces `ஐயை` and identifies `மாதரி`; the travellers move with the cattle group toward Madhari's house.
-- The second section has Madhari receive the travellers and Kavunti entrust Kannagi to her.
-- Preserve source forms/splits including `இளங் கூட்டத்திற்குள்`, `சமணத் துறவிகளுக்குப் பாற்சோறு`, `பசக் கூட்டத்தோடு`, `தடையா சொல்லப் போகிறேன்?`, `எவ்வளவோ ஆறுதலாக இருந்தது!`, `என் / னும்`, `விருந் / தினராக`, `இருக் / கிறாளே`, and `சொல் / வேன்`.
-- Small lower-centre standing-woman figure holding a tray/lamp-like object is uncaptioned.
-- Scan 71 directly begins `காட்சி-28`, so scene 27 is a one-scan scene.
+- `காட்சி-28`.
+- Decorative title verified as **`பொற்கொல்லர் முறையீடு`**.
+- Setting: **`பாண்டியன் தனிமாடம்`**.
+- No printed page number is securely visible; do not infer one.
+- Complete two-column dramatic text verified using enlarged 500-ppi source views.
+- Preserve the source's unmatched closing bracket after `கோப்பெருந்தேவி கேட்டுக்கொண்டே / வருகிறாள்.]`; do not repair it editorially.
+- `கோப்` asks about the delayed royal anklet while `நெடுஞ்` writes a poem on the greatness of education, including the printed fragment `“உற்றுழி உதவியும் / உறுபொருள் கொடுத்தும்”...`.
+- `தலைமைப் பொற்` reports that the queen's anklet has vanished from the locked box even though he retained the key; Nedunchezhiyan orders all one hundred goldsmiths brought before the court and says he will conduct the inquiry himself.
+- Preserve speaker labels exactly: `கோப்`, `நெடுஞ்`, `தோழி`, `தலைமைப் பொற்`.
+- Preserve source forms/punctuation including `பார்க்கிறர்`, `ஊகூம்`, `அப்படி யென்ன`, `பள்ளிக்கூடமுமல்ல`, `செய்தியைச் சொல்லும்`, `நீதி மன்றத்தில்`, `நிறுத்தும்!`, and `கண்டு பிடிக்கிறேன்`.
+- Preserve physical splits including `எழுதிக்கொண் / டிருக்கிறான்`, `கொண் / டிருக்கிறீர்களாம்`, `புறத் / துறைப்`, `கொண்டிருக் / கிறேன்`, `முழக் / கம்`, `திறவுகோலை / யும்`, and `சொல்லு / வேன்`.
+- Small lower-centre oval anklet/ornament-like illustration is uncaptioned.
+- Scan 72 directly begins `காட்சி-29`, so scene 28 is a one-scan scene.
 
 Verification used the controlling Tamil scan only for wording. The supplied published English translation was not used to settle Tamil readings.
 
@@ -45,19 +47,15 @@ Do **not** automatically translate Kalaignar's `அந்தணர்` as “Bra
 
 Detailed verification proceeds by **one complete scene per activity where practical**, with one independent archival record per physical scan.
 
-## Forward mapped page
+## Forward mapped scene — காட்சி-29
 
-### Scan 71 — `pages/0071.md`
+Individual structural records now exist for scans **72–75**, all at `needs-review`.
 
-- Begins `காட்சி-28`.
-- Provisional decorative title: **`பொற்கொல்லர் முறையீடு`**.
-- Setting: **`பாண்டியன் தனிமாடம்`**.
-- Dense two-column dramatic text plus a small uncaptioned anklet-like lower illustration.
-- No printed page number is securely visible; do not infer one.
-- Scan 72 directly begins `காட்சி-29`, so scene 28 is a one-scan scene.
-- Status: `needs-review`.
-
-Forward inspection also establishes that `காட்சி-29` spans scans **72–75**, because scan 76 begins `காட்சி-30`; detailed transcription has not started for those pages.
+- Scan 72 — `pages/0072.md`: begins `காட்சி-29`; provisional title **`ஒற்றைச் சிலம்பின் ஒலி`**; setting **`மாதரி வீடு`**; printed page **56**.
+- Scan 73 — `pages/0073.md`: continuation with a large lower-right dramatic illustration; pagination not yet accepted.
+- Scan 74 — `pages/0074.md`: continuation with a small elephant-like illustration; pagination not yet accepted.
+- Scan 75 — `pages/0075.md`: continuation / close with archaeological/object images and a printed Tamil caption that still requires exact enlarged transcription.
+- Scan 76 begins `காட்சி-30`, so scene 29 spans scans **72–75**.
 
 ## Published English translation witness
 
@@ -65,4 +63,4 @@ The supplied published English volume remains a secondary future collation witne
 
 ## Next activity
 
-Process **காட்சி-28 / scan 71** as one complete scene. Verify the ornate title, all dialogue/stage directions, speaker labels, punctuation, physical splits and lower illustration before marking it `verified`. Do not begin scene assembly or English translation yet.
+Process **காட்சி-29 across scans 72–75** as one complete scene. Verify the ornate title, all four pages of dialogue/stage directions, speaker labels, punctuation, actual visible pagination, illustrations and the exact archaeological/object caption on scan 75 before marking those pages `verified`. Do not begin scene assembly or English translation yet.
