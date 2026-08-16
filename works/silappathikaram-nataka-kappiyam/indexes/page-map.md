@@ -50,10 +50,11 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 44 | — | scene 13 | scene opening | verified | `காட்சி-13`; enlarged title verified as `துன்பப் புயலில் கண்ணகி`; setting `கண்ணகி வீடு`; complete two-column text verified; large lower-left photograph/reproduction is uncaptioned. |
 | 45 | — | scene 13 | continuation / close | verified | Complete two-column family dialogue verified; lower-right sculptural photograph/reproduction is uncaptioned; scan 46 begins scene 14. |
 | 46 | 30 | scene 14 | scene opening | verified | `காட்சி-14`; enlarged title verified as `மாதவியின் மாண்பு`; setting `காவிரி ஆற்றோரம்`; complete two-column text verified. |
-| 47 | 31 | scene 14 | continuation | verified | Complete two-column continuation verified; Brahmin-woman episode begins; small lower-centre illustration is uncaptioned. |
-| 48 | 32 | scene 14 | continuation / close | verified | Complete reconciliation/advice dialogue verified; small figure illustration uncaptioned; scan 49 begins scene 15. |
-| 49 | — | scene 15 | scene opening | needs-review | `காட்சி-15`; title intentionally unresolved pending enlargement; setting `கண்ணகி வீடு`; lower-right sculptural photograph/reproduction uncaptioned. |
-| 50–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. No pagination or scene boundaries are inferred here. |
+| 47 | 31 | scene 14 | continuation | verified | Complete two-column continuation verified; source distinguishes `பிராமண மாது` / `பிராமணமாது` / `பார்ப்பனமாது` from male label `அந்தணர் ;`; small lower-centre illustration uncaptioned. |
+| 48 | 32 | scene 14 | continuation / close | verified | Complete continuation/advice dialogue verified; source continues male label as `அந்த` and prints `அந்தணனுக்கும்`; small figure illustration uncaptioned; scan 49 begins scene 15. |
+| 49 | — | scene 15 | scene opening / close | verified | `காட்சி-15`; enlarged title verified as source form `மனமாறிந்த கோவலன்`; setting `கண்ணகி வீடு`; complete stage prose/Kannagi speech verified; lower-right sculptural photograph/reproduction uncaptioned; scan 50 begins scene 16. |
+| 50 | — | scene 16 | scene opening / close | needs-review | `காட்சி-16`; title provisionally read `மணிமேகலை பிறப்பு`; setting `மாதவி வீடு`; large lower illustration of two women with infant; scan 51 begins scene 17. |
+| 51–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. No pagination or scene boundaries are inferred here. |
 | 88 | — | dramatic body | scene | not-started | `காட்சி-38` visibly present on final supplied scan. |
 
 ## Expansion rule
@@ -70,8 +71,10 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–48 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-14**.
+Scans **1–49 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-15**.
 
-Scan **49** is individually structurally mapped as the opening of `காட்சி-15` and remains `needs-review`. Scans **50–87** still require individual mapping; scan 88 visibly carries `காட்சி-38`.
+Scan **50** is individually structurally mapped at `needs-review`. Forward inspection shows it is a one-scan `காட்சி-16`, because scan **51** directly begins `காட்சி-17`.
 
-Detailed verification continues by **complete scene where practical**, while retaining one source record per physical scan. Next: begin at scan **49 / காட்சி-15**, inspect forward to establish that scene's complete physical extent, then verify the whole scene as one activity where practical.
+A future-translation terminology lock is recorded in `metadata/english-translation-source.md`: Kalaignar's `அந்தணர்` must not be automatically flattened to “Brahmin”; source distinctions among `பிராமண`, `பார்ப்பன`, and `அந்தணர்` must be preserved.
+
+Detailed verification continues by **complete scene where practical**, while retaining one source record per physical scan. Next: **காட்சி-16 on scan 50**.
