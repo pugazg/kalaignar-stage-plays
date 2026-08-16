@@ -24,22 +24,22 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 80 | 64 | scene 33 | scene opening / close + illustration | verified | `காட்சி-33`; title `கணவன் கள்வனா?`; setting `குரவைக் கூத்து`; complete one-scan transcription verified; lower decorative bird/peacock-like medallion illustration uncaptioned; scan 81 begins scene 34. |
 | 81 | — | scene 34 | scene opening / close | verified | `காட்சி-34`; title `வஞ்சினங் கூறுதல்`; setting `வீதியிலுள்ள மண்டபம்`; complete two-column transcription verified. Lower-left visibly shows a clear `9` plus a damaged/indistinct following mark, so no complete printed page number is inferred. Scan 82 begins scene 35. |
 | 82–85 | 66 / — / — / — | scene 35 | opening + continuations / close + image layers | verified | `காட்சி-35`; title `வழக்குரை படலம்`; setting `பாண்டியன் கொலு மண்டபம் (வெளியே)`; complete four-scan transcription verified; scan 83 has a large uncaptioned dramatic illustration; scan 84 preserves the printed `“பூம்புகார்” அகழ்வாராய்ச்சியில் / கண்ட படகுத்துறை` photograph caption; scan 85 has a small uncaptioned burst/fragment-like illustration; scan 86 begins scene 36. |
-| 86 | — | scene 36 | scene opening / close + photographs | needs-review | `காட்சி-36`; title `தீயினில் திருநகர்`; setting `தெருக்கள்`; structural mapping only; two lower photographic/reproduction images have no securely visible separate caption; scan 87 begins scene 37. |
-| 87 | — | dramatic body | scene 37 | not-started | Scan 87 visibly begins `காட்சி-37`; detailed mapping pending. |
-| 88 | — | dramatic body | scene 38 | not-started | `காட்சி-38` visibly present on final supplied scan. |
+| 86 | — | scene 36 | scene opening / close + photographs | verified | `காட்சி-36`; title `தீயினில் திருநகர்`; setting `தெருக்கள்`; complete sparse two-column transcription verified; printed `★` separator retained; two lower photographic/reproduction images have no securely visible separate caption; scan 87 begins scene 37. |
+| 87 | — | scene 37 | scene opening / close | needs-review | `காட்சி-37`; title `வடபுலப் படையெடுப்பு`; setting `சேரன் செங்குட்டுவன் அவை`; dense two-column text; decorative weapon/shield title motifs; no secure printed pagination; scan 88 begins scene 38. |
+| 88 | — | scene 38 | scene opening / final supplied scan | not-started | `காட்சி-38` visibly present on final supplied scan. |
 
 ## Current checkpoint
 
-Scans **1–85 are verified**. Detailed dramatic-body verification covers **காட்சி-1 through காட்சி-35**.
+Scans **1–86 are verified**. Detailed dramatic-body verification covers **காட்சி-1 through காட்சி-36**.
 
-`காட்சி-35` spans scans **82–85**, titled **`வழக்குரை படலம்`** with setting **`பாண்டியன் கொலு மண்டபம் (வெளியே)`**. Scan 82 visibly prints page **`66`**; no secure printed page number is visible on scans 83–85, and none is inferred. The complete dramatic text across all four scans has been checked directly against native/enlarged controlling-source pixels.
+`காட்சி-36` is physically confined to scan **86**, titled **`தீயினில் திருநகர்`** with setting **`தெருக்கள்`**. No printed page number is securely visible, and none is inferred. The complete sparse two-column dramatic text has been checked directly against native/enlarged controlling-source pixels.
 
-The physical source structure remains explicit across the page records. Source-specific readings and punctuation retained without normalization include `காவியுக`, `கரிகாற் சோழனது`, `கணவனு`, `அறிந்திடுக!.`, `நல்லான் வகுத்ததோ நீதி?`, `வல்லான் வகுத்ததே இங்கு நீதி!`, `முடிவானேன்?`, `நடைபெறுவானேன்?`, `அவனி யெல்லாம்`, `மெய்ப்பித்து என்ன பயன்?`, `மதுரைப் பாண்டியா!`, `மாணிக்கமிழைத்த`, `மாசு படரவும் மாநிலம் இகழவும்`, `இமிழ் கடல் வேலித் தமிழகம் மெங்கும்`, `நன்றுக அழு!`, and the deliberate contrast between `“கொன்று வருக அவனை!”` and `“கொன்று வருக அவன்”`.
+The physical source structure remains explicit in `pages/0086.md`. The printed `★` separator between the goldsmith-fire and palace-fire blocks is retained. Source-specific readings and punctuation preserved without normalization include `என்னுள் அன்றே`, `தணலாகிறார்!`, `வாய்மூடிக் கிடந்த கூடல் நகரத்தாரே!`, `கனலே கிளம்பு....!`, the repeated `பழிக்குப் பழி!`, and the unusual printed `விரும்பினர்கள்`. Physical source splits include `இடிபாடு / களில்`, `அழி / கிறான்`, `கோவ / லரைக்`, `கதறுங் / கள்`, `பழிக் / குப்`, and `அழி / வதை`.
 
-Image/caption layers remain separate from the literary text: scan 83 carries a large uncaptioned dramatic line illustration; scan 84 contains a printed photograph/reproduction with the character-by-character verified caption **`“பூம்புகார்” அகழ்வாராய்ச்சியில் / கண்ட படகுத்துறை`**; scan 85 carries a small uncaptioned burst/fragment-like line illustration.
+The two lower photographic/reproduction images on scan 86 remain separate from literary text; no separate printed caption is securely visible and no unsupported identity is supplied.
 
-Scan **86** has now been structurally inspected as the complete physical extent of **காட்சி-36**: decorative title **`தீயினில் திருநகர்`**, setting **`தெருக்கள்`**, no securely visible printed page number, and two lower photographic/reproduction images without a securely visible separate printed caption. Scan **87** directly begins `காட்சி-37`, so scene 36 is a one-scan scene. `pages/0086.md` remains `needs-review` until its complete literary text is visually verified.
+Scan **87** has been structurally inspected as the complete physical extent of **காட்சி-37**: decorative title **`வடபுலப் படையெடுப்பு`**, setting **`சேரன் செங்குட்டுவன் அவை`**, dense two-column dramatic text, no securely visible printed page number, and no separate lower illustration/caption layer. Scan **88** directly begins `காட்சி-38`, so scene 37 is a one-scan scene. `pages/0087.md` remains `needs-review` until complete literary verification.
 
 The future-translation terminology lock remains in force: Kalaignar's `அந்தணர்` must not be automatically flattened to “Brahmin”; distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, and other source terms such as `மறையவன்` must be preserved pending dedicated translation review.
 
-Detailed verification continues by complete scene where practical. Next: **காட்சி-36 / scan 86**.
+Detailed verification continues by complete scene where practical. Next: **காட்சி-37 / scan 87**.
