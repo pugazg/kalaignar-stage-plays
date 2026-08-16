@@ -13,6 +13,7 @@ The supplied scan is the controlling source. The PDF itself is not committed.
 - Tamil page-level visual verification: **complete for the supplied source**.
 - Repository-wide Tamil transcription completion audit: **complete / PASS** — see `audit.md`.
 - Scene-assembly readiness plan: **complete** — see `SCENE_ASSEMBLY_PLAN.md`.
+- Visual text fidelity protocol: **defined and mandatory for every assembled scene** — see `VISUAL_TEXT_FIDELITY_CHECK.md`.
 - Scene assembly: **not yet started**.
 - English translation: **not started** and remains locked through assembly/global Tamil review unless the user explicitly changes phase.
 
@@ -28,6 +29,19 @@ The completion audit confirms:
 - no scene-assembly files yet exist, so no assembled text can accidentally supersede the page archive.
 
 The assembly manifest and rules are recorded in `SCENE_ASSEMBLY_PLAN.md`. Scene assembly will create `scenes/01.md` through `scenes/38.md`, plus a separate `scenes/closing-tableau.md` for the post-scene scan-88 material.
+
+## Visual text fidelity rule
+
+Scene assembly creates a new derivative text layer and therefore receives a second direct source-pixel check.
+
+After each `scenes/NN.md` draft is assembled from verified page records, compare the complete assembled Tamil directly against the actual contributing scan(s), following `VISUAL_TEXT_FIDELITY_CHECK.md`.
+
+A scene cannot become `assembly-reviewed` until:
+
+- every source-supported character/textual layer has been rechecked against the scan;
+- every mechanical line/column/page join has been verified not to omit, duplicate or normalize text;
+- visual/non-literary layers remain separated correctly; and
+- `visual_text_fidelity: "passed"` is recorded.
 
 ## Final verified scene — காட்சி-38
 
@@ -67,12 +81,23 @@ When translation eventually begins, it must be based on the verified Tamil archi
 
 ## Assembly rule
 
-Assembly is a new derivative archival layer. Verified page records remain controlling.
+Assembly is a new derivative archival layer. Verified page records remain controlling for construction, and the actual scan remains controlling for the mandatory visual-text fidelity gate.
 
 Mechanical line/column/page wrapping may be joined for readability only where it does not alter source wording or punctuation. Repetition, unusual spacing/punctuation, stage directions and genuine source anomalies must remain. Visual material stays in separate source-layer notes. Every multi-scan scene must retain scan provenance.
 
 ## Exact next work
 
-Assemble **காட்சி-1 / scan 17** as the scene-assembly pilot using `SCENE_ASSEMBLY_PLAN.md`.
+Process **காட்சி-1 / scan 17** as the combined **scene-assembly + visual-text fidelity pilot** using `SCENE_ASSEMBLY_PLAN.md` and `VISUAL_TEXT_FIDELITY_CHECK.md`.
 
-The pilot must establish the reusable `scenes/NN.md` format, preserve the verified title `வஞ்சி மூதூரில் முரசறைதல்`, keep the decorative title artwork separate from literary text, and move only to `draft` assembly status. Do not begin English translation.
+The activity must:
+
+1. create `scenes/01.md` from verified `pages/0017.md` at `draft` with `visual_text_fidelity: "pending"`;
+2. preserve the verified title `வஞ்சி மூதூரில் முரசறைதல்` and use `setting: null` because no separate printed setting heading exists;
+3. keep the decorative architectural/drummer title artwork separate from literary text;
+4. inspect the actual scan 17 at native/enlarged resolution and compare the complete assembled scene character-by-character against the pixels;
+5. verify every mechanical join, speaker label, stage direction, punctuation mark, repetition and source-significant spacing;
+6. compare the assembled file against `pages/0017.md` after the visual pass;
+7. set `visual_text_fidelity: "passed"` and `status: "assembly-reviewed"` only if both the direct scan comparison and page-record comparison pass;
+8. do not begin scene 2 until the pilot format and fidelity method are accepted.
+
+Do not begin English translation.
