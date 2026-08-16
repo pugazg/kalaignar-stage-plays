@@ -17,37 +17,25 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 
 ## Current verification checkpoint
 
-Scans **1–68 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-25**.
+Scans **1–69 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-26**.
 
-## Newly completed activity — காட்சி-25, scans 67–68
+## Newly completed activity — காட்சி-26, scan 69
 
-### Scan 67 — `pages/0067.md`
+### Scan 69 — `pages/0069.md`
 
-- `காட்சி-25`.
-- Decorative title verified as **`நீதி வழுவா நெடுஞ்செழியன்`**.
-- Setting: **`பாண்டியன் அவை`**.
-- No visible printed page number.
-- Complete two-column dramatic text verified using enlarged 350/500-ppi source views.
-- The authorship dispute is between `மல்லவாணர்` and `அருளாளர்`; Nedunchezhiyan tests the competing claims by proposing to burn the காவியம்.
-- Exact archaeological caption:
-  - `“பூம்புகார்” அகழ்வாராய்ச்சி-`
-  - `கி.மு. 3ஆம் நூற்றாண்டின்`
-  - `படகு கட்டும் துறை.`
-- Circular library/accession stamp overlaps the upper-right heading area; it is not publication text.
-- Preserve source forms including `அநீதிக்கு இடமில்லை!`, `காட்சியாதல்`, `அருளாளர் எழுதினர்`, and `மாணவனாயிருந்ததே யில்லை!`.
+- `காட்சி-26`.
+- Decorative title verified as **`அரசியின் சிலம்பு`**.
+- Setting: **`பொற்கொல்லன் வீடு`**.
+- Printed page **53** visibly present.
+- Complete two-column dramatic text verified using enlarged 600-ppi source views and a cross-column crop.
+- The palace `அதிகாரி` brings the queen's damaged anklet to the chief goldsmith. During a stage direction that crosses columns, the chief goldsmith turns away to correct another worker and the officer steals the anklet.
+- Preserve speaker abbreviations exactly: `பொற்` and `அதி`.
+- Preserve the physical stage-direction transition: left column ends at `எழுந்து`; right column begins `செல்லும்போது, அதிகாரி அந்தச் சிலம்பைத் / திருடிவிடுகிறான்]`.
+- Preserve source forms/splits including `கோப்பெருந் தேவியின்`, `அனுப்பச் சொன்னார்....மன்னர்.`, `நாளைக்கே`, `மல்லிகை கல்`, `(அதிகாரியிடம்) பிறகு...`, `பொற்கொல்ல / ரிடம்`, `உட் / காருங்கள்`, `பொற் கொல் / லர்`, `செதுக்கு / வது`, `செய் / யுங்கள்`, `நாளைக் / குள்`, and `விடு / கிறேன்`.
+- Small lower-centre shell/pearl-like illustration is uncaptioned.
+- Scan 70 directly begins `காட்சி-27`, so scene 26 is a one-scan scene.
 
-### Scan 68 — `pages/0068.md`
-
-- Continues and closes scene 25.
-- Printed page **52** visibly present.
-- Arulalar refuses the destruction of the Tamil work; Nedunchezhiyan identifies him as the true author and orders a reward of `ஐயாயிரம் கழஞ்சு பொன்`.
-- The scene then moves to the royal anklet repair handoff involving the queen, தோழி and an `அதிகாரி`.
-- Preserve speaker-label variants exactly: `அருளா`, `பாண்டி`, `அரசி`, `தோழி`, `அதிகாரி`.
-- Preserve source readings including `பெற்றவருக் கல்லவா`, `காவியமேதான்`, `காற்சிலம்பு`, `கொடுத்துப்பழுது`, `சீர்செய்தால்`, the visibly printed **`சிலம்பு-தொட்டால் தொங்கிவிடும் தல!`**, and `சமாதானப் படுத்திக்கொண்டு`.
-- Small lower-centre tablet/book-like illustration is uncaptioned.
-- Scan 69 directly begins `காட்சி-26`.
-
-Verification used the controlling Tamil scan only for wording; the supplied published English translation was not used to settle Tamil readings.
+Verification used the controlling Tamil scan only for wording. The supplied published English translation was not used to settle Tamil readings.
 
 ## Permanent future-translation terminology note
 
@@ -59,14 +47,14 @@ Detailed verification proceeds by **one complete scene per activity where practi
 
 ## Forward mapped page
 
-### Scan 69 — `pages/0069.md`
+### Scan 70 — `pages/0070.md`
 
-- Begins `காட்சி-26`.
-- Provisional decorative title: **`அரசியின் சிலம்பு`**.
-- Setting: **`பொற்கொல்லன் வீடு`**.
-- Printed page **53** visibly present.
-- Two-column dramatic text plus a small uncaptioned shell/pearl-like lower illustration.
-- Scan 70 directly begins `காட்சி-27`, so scene 26 is a one-scan scene.
+- Begins `காட்சி-27`.
+- Provisional decorative title: **`ஆய்ச்சியர் அறிமுகம்`**; final character-level acceptance pending.
+- Setting: **`மதுரை எல்லை`**.
+- Printed page **54** visibly present.
+- Dense two-column dramatic text plus a small uncaptioned standing-woman illustration holding a tray/lamp-like object near the lower centre.
+- Scan 71 directly begins `காட்சி-28`, so scene 27 is a one-scan scene.
 - Status: `needs-review`.
 
 ## Published English translation witness
@@ -75,4 +63,4 @@ The supplied published English volume remains a secondary future collation witne
 
 ## Next activity
 
-Process **காட்சி-26 / scan 69** as one complete scene. Verify the ornate title, all dialogue/stage directions, speaker labels, punctuation, physical splits and lower illustration before marking it `verified`. Do not begin scene assembly or English translation yet.
+Process **காட்சி-27 / scan 70** as one complete scene. Verify the ornate title, all dialogue/stage directions, speaker labels, punctuation, physical splits and lower illustration before marking it `verified`. Do not begin scene assembly or English translation yet.
