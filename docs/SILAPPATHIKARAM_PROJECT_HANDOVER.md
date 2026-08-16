@@ -28,8 +28,8 @@ Before continuing, read completely:
 8. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PLAN.md`
 9. `works/silappathikaram-nataka-kappiyam/VISUAL_TEXT_FIDELITY_CHECK.md`
 10. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PILOT_REVIEW.md`
-11. `works/silappathikaram-nataka-kappiyam/scenes/01.md` through `scenes/05.md`
-12. next inputs `pages/0026.md`, `pages/0027.md`, and `pages/0028.md`
+11. `works/silappathikaram-nataka-kappiyam/scenes/01.md` through `scenes/06.md`
+12. next inputs `pages/0029.md` through `pages/0032.md`
 
 ## Current verified checkpoint
 
@@ -39,40 +39,43 @@ Before continuing, read completely:
 - Tamil transcription completion audit / scene-assembly readiness review: **PASS**.
 - Mandatory direct visual-text fidelity protocol: active for every assembled scene.
 - Scene assembly is active.
-- Scenes **1–5** are `assembly-reviewed` with visual fidelity `passed`.
-- **5 of 38 numbered scenes are assembly-reviewed.**
+- Scenes **1–6** are `assembly-reviewed` with visual fidelity `passed`.
+- **6 of 38 numbered scenes are assembly-reviewed.**
 - English translation has not started and remains locked.
 
 Previously verified page records must not be casually modified. Any change to a verified reading requires direct source-pixel evidence and explicit documentation.
 
-## Latest completed assembly — காட்சி-5
+## Latest completed assembly — காட்சி-6
 
-File: `works/silappathikaram-nataka-kappiyam/scenes/05.md`
+File: `works/silappathikaram-nataka-kappiyam/scenes/06.md`
 
-- Title: `சிலம்பின் தோற்றம்`
-- Setting: `சேரநாடு`
-- Source scans: 24–25
+- Title: `பூம்புகார்ப் பொற்றொடி`
+- Separate printed setting heading: none; `setting: null`
+- Source scans: 26–28
 - Status: `assembly-reviewed`
 - Visual fidelity: `passed`
 
-Direct high-resolution review inspected both controlling scans and the cross-page sentence boundary.
+Direct high-resolution review inspected all three controlling scans, scan 27's `ஆடல், பாடல்` heading and song/verse block, both physical page boundaries, scan 28's dense two-column continuation, printed page `12`, and all visual layers.
 
 Source-pixel correction:
 
-- scan 25 / `pages/0025.md`: `கண்ணகி....!` → source-visible `கண்ணகி...!`.
+- scan 27 / `pages/0027.md`: `[சாத்தனூரின் குரல் தொடர்கிறது]` → source-visible `[சாத்தனரின் குரல் தொடர்கிறது]`.
 
-No scan-24 page-record correction was required.
+No wording correction was required in `pages/0026.md` or `pages/0028.md`.
+
+Assembly-only fidelity fixes:
+
+- `வெண்மணல்` was not allowed to replace source-separated `வெண் மணல்`;
+- the line-wrap boundary after `தங்கமே...இந்தா...` retains a word boundary: `தங்கமே...இந்தா... உனக்காகக்`.
 
 Boundary/structure verification:
 
-- scan 24 ends `கணவன் வருவான் வருவான்`;
-- scan 25 resumes the same `ஒருவன்` speech with `என்று கண் கலங்கக் கூறிக் கொண்டிருந்தாள்...`;
-- no speaker label or punctuation was inserted at that page boundary;
-- scan 24's gift-list action retains source-visible `குவிக்கின்றனர்.]` without an invented opening bracket;
-- scan 24's deer illustration and scan 25's standing figure remain visual-only layers;
-- scan 24 printed page `8` and anomalous scan 25 printed `2` remain provenance only, with no normalization to an expected `9`.
-
-Mechanical joins remain limited to demonstrable print wrapping. Important assembled source forms include `இவைகள்`, `கிரிப்பிள்ளை`, `என்றென்றும்`, `நினைவூட்டினர்கள்`, `சொல்லுகிறேன்`, and `பெருமைகளைக்`.
+- scan 26 closes `தெருவெல்லாம் தமிழ் முழக்கம்!`; scan 27 opens the separate printed `ஆடல், பாடல்` block;
+- scan 27 closes `கோவ : கண்ணகி!`; scan 28 begins the new `கண் : எத்தனை நாளத்தான்...` reply;
+- scan 28's left-column `முகம்—தேன் சிந்தும் திங்கள்` continues in the right column with `முகம்—மறப்பேனு கண்ணே!` without added punctuation;
+- scan 27's three quoted song lines and standalone `......` remain exactly source-derived;
+- scans 26–27 have no securely visible pagination; scan 28 visibly prints page `12`;
+- scan 26's man/woman illustration, scan 27's dancer/performer illustration and scan 28's ship illustration remain separate visual layers.
 
 ## Assembly phase rules
 
@@ -105,26 +108,25 @@ Future English translation has not started.
 
 The published English translation remains a secondary comparison witness only.
 
-## Exact next activity — காட்சி-6 assembly + visual fidelity
+## Exact next activity — காட்சி-7 assembly + visual fidelity
 
 Do **not** begin English translation.
 
-Process **காட்சி-6 / scans 26–28 — `பூம்புகார்ப் பொற்றொடி`** as one complete scene.
+Process **காட்சி-7 / scans 29–32 — `கலைக்கரசி மாதவி`, setting `முத்துப் பந்தல்`** as one complete scene.
 
-1. Read verified `pages/0026.md`, `pages/0027.md`, and `pages/0028.md` completely.
-2. Create `scenes/06.md` at `status: "draft"`, `visual_text_fidelity: "pending"`.
-3. There is **no separate printed setting heading**; use `setting: null` and do not infer one from the பூம்புகார் narration.
-4. Preserve the exact scene/title, narration, speaker labels, stage directions, punctuation, repetitions and unusual forms.
-5. Insert explicit source-scan provenance so both physical page boundaries remain recoverable.
-6. Preserve scan 27's heading `ஆடல், பாடல்`, all three quoted song lines and `[சாத்தனூரின் குரல் தொடர்கிறது]` exactly as printed; do not silently change `சாத்தனூரின்` to an expected form.
-7. Preserve quoted/verse wording exactly as this physical source gives it; do not substitute a standard literary text.
-8. Keep scan 26's large uncaptioned man/woman illustration, scan 27's full-height uncaptioned female dancer/performer illustration and scan 28's small uncaptioned ship illustration as separate visual layers.
-9. Scans 26–27 have no securely visible printed pagination; scan 28 visibly prints page `12`.
-10. Inspect actual scans 26–28 at native/enlarged resolution, compare the complete assembled Tamil character-by-character against source pixels, verify both page boundaries and every column transition, then compare against all three verified page records.
-11. Promote only if both direct scan fidelity and page-record checks pass; correct any page record only on explicit source-pixel evidence.
+1. Read verified `pages/0029.md` through `pages/0032.md` completely.
+2. Create `scenes/07.md` at `status: "draft"`, `visual_text_fidelity: "pending"`.
+3. Preserve the exact scene/title/setting, stage directions, speaker labels, verse blocks, punctuation, repetitions and unusual forms.
+4. Insert explicit source-scan provenance so all three physical page boundaries remain recoverable.
+5. Preserve scan 29's verse block exactly as printed and retain its terminal `சுயம்வரம் ஏற்பாடு செய்யப்பட்டிருக்கிறது!.` without correction.
+6. Inspect actual scans 29–32 at native/enlarged resolution and compare the complete assembled Tamil character-by-character against source pixels.
+7. Verify every page boundary and every column transition directly.
+8. Keep all illustrations/photographs separate from literary text; scan 32 contains a large uncaptioned circular dancing-figure sculpture photograph/reproduction.
+9. Preserve each scan's verified pagination exactly; scan 29 has no visible page number and scan 32 visibly prints `16`.
+10. Compare `scenes/07.md` again against all four verified page records and promote only if both checks pass.
 
 ## Phase state
 
-Completed: all page mapping/verification, Tamil completion audit, scene-assembly plan, visual-fidelity protocol, and scenes 1–5 assembly/fidelity review.
+Completed: all page mapping/verification, Tamil completion audit, scene-assembly plan, visual-fidelity protocol, and scenes 1–6 assembly/fidelity review.
 
-Next: scene 6, then scenes 7–38 + closing tableau with the same gate, followed by a global Tamil consistency/source review. Only then, if directed, begin English translation.
+Next: scene 7, then scenes 8–38 + closing tableau with the same gate, followed by a global Tamil consistency/source review. Only then, if directed, begin English translation.
