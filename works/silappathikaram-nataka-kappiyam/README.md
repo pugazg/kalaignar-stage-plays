@@ -15,13 +15,8 @@ The supplied scan is the controlling source. The PDF itself is not committed.
 - Scene-assembly readiness plan: **complete** — see `SCENE_ASSEMBLY_PLAN.md`.
 - Visual text fidelity protocol: **defined and mandatory for every assembled scene** — see `VISUAL_TEXT_FIDELITY_CHECK.md`.
 - Scene assembly: **started**.
-- `காட்சி-1 / scan 17`: **assembly-reviewed**, `visual_text_fidelity: passed`.
-- `காட்சி-2 / scan 18`: **assembly-reviewed**, `visual_text_fidelity: passed`.
-- `காட்சி-3 / scans 19–20`: **assembly-reviewed**, `visual_text_fidelity: passed`.
-- `காட்சி-4 / scans 21–23`: **assembly-reviewed**, `visual_text_fidelity: passed`.
-- `காட்சி-5 / scans 24–25`: **assembly-reviewed**, `visual_text_fidelity: passed`.
-- `காட்சி-6 / scans 26–28`: **assembly-reviewed**, `visual_text_fidelity: passed`.
-- **6 of 38 numbered scenes are now assembly-reviewed.**
+- `காட்சி-1` through `காட்சி-7`: **assembly-reviewed**, `visual_text_fidelity: passed`.
+- **7 of 38 numbered scenes are now assembly-reviewed.**
 - English translation: **not started** and remains locked through assembly/global Tamil review unless the user explicitly changes phase.
 
 ## Audit result
@@ -58,17 +53,22 @@ Scene assembly creates a derivative text layer and therefore receives a second d
 
 ### காட்சி-6
 
-`scenes/06.md` assembles scans 26–28.
+`scenes/06.md` — `பூம்புகார்ப் பொற்றொடி`, `setting: null`, scans 26–28. Direct scan-27 review corrected `[சாத்தனூரின் குரல் தொடர்கிறது]` to source-visible `[சாத்தனரின் குரல் தொடர்கிறது]`. Source-separated `வெண் மணல்`, scan-27 song/verse material and scan-28 column continuation remain fidelity-protected.
 
-- Title: `பூம்புகார்ப் பொற்றொடி`.
-- No separate printed setting heading; `setting: null`.
+### காட்சி-7
+
+`scenes/07.md` assembles scans 29–32.
+
+- Title: `கலைக்கரசி மாதவி`.
+- Explicit setting: `முத்துப் பந்தல்`.
 - Status: `assembly-reviewed`; visual text fidelity: `passed`.
-- Actual scans 26–28 were inspected directly at high resolution, including scan 27's `ஆடல், பாடல்`/song block, both physical page boundaries, and scan 28's left-to-right column continuation.
-- Direct scan-27 pixels corrected the earlier verified reading `[சாத்தனூரின் குரல் தொடர்கிறது]` to source-visible `[சாத்தனரின் குரல் தொடர்கிறது]` in `pages/0027.md`.
-- No page-record wording correction was required on scans 26 or 28.
-- Assembly review retained source-separated `வெண் மணல்` rather than collapsing it to `வெண்மணல்`, and retained the word boundary in `தங்கமே...இந்தா... உனக்காகக்`.
-- Scan 26's uncaptioned man/woman illustration, scan 27's uncaptioned dancer/performer figure, and scan 28's small uncaptioned ship remain separate visual layers.
-- Scans 26–27 have no securely visible printed pagination; scan 28 visibly prints page `12`.
+- Actual scans 29–32 were inspected directly at high resolution, including scan 29's verse block and terminal `சுயம்வரம் ஏற்பாடு செய்யப்பட்டிருக்கிறது!.`, scan 30's pictorial/caption-only page, scan 31's dialogue around its central pictorial interruption, scan 32's two-column close, and all physical scan boundaries.
+- Scan 30 remains in the physical scene sequence but contributes no dramatic dialogue. Its exact printed caption is preserved separately: `“பூம்புகார்” அகழ்வாராய்ச்சியில் கிடைத்த / யானச்சின்னம் பொறிக்கப்பட்ட / கரிகாலன் காலத்துக் காசுகள்.`
+- Boundary 29 → 30 preserves the transition from கூனி's announcement into the pictorial page without inventing text; boundary 30 → 31 resumes with `கி. கிழவர் : அப்படிச் சொல்!...`; boundary 31 → 32 ends சித்ராபதி's `அவமானப்படுத்துகிறாய்.....` before மாதவி's new reply.
+- Source forms/punctuation retained include `ஆயிரத் தெட்டு கழஞ்சு பொன்`, `கணவனுகலாம்!...`, `...?....!....!`, `ஒருவருக் கொருவர்`, `ஆளப் பார் இளவெட்டு!`, `காப்பாற்றுகிறேன்;அதற்கு`, `பெண்ணுகவே`, seven-dot `போகலாம்.......`, `...கொடு மாதவி மாலையை! ம்! இதோ`, and `கோவலன் - கண்ணகியும்`.
+- No verified page-record correction was required during scene-7 fidelity review.
+- Scan 29 and scan 30 have no securely visible printed pagination; scan 31 prints `15`; scan 32 prints `16`.
+- Scan 32 closes `காட்சி-7`; scan 33 directly begins `காட்சி-8`.
 
 ## Final verified source scene — காட்சி-38
 
@@ -84,14 +84,16 @@ Assembly is a derivative archival layer. Verified page records control construct
 
 ## Exact next work
 
-Process **காட்சி-7 / scans 29–32 — `கலைக்கரசி மாதவி`, setting `முத்துப் பந்தல்`** as the next complete combined scene-assembly + visual-text fidelity activity.
+Process **காட்சி-8 / scans 33–35 — `கண்ணகி இல்லறம்`, setting `கோவலன் வீடு:—பள்ளியறை`** as the next complete combined scene-assembly + visual-text fidelity activity.
 
-- Inputs: verified `pages/0029.md` through `pages/0032.md`.
-- Output: `scenes/07.md`, initially `draft` / `visual_text_fidelity: pending`.
-- Preserve explicit scan provenance across all four scans and inspect all three physical page boundaries.
-- Preserve scan 29's verse block and terminal `சுயம்வரம் ஏற்பாடு செய்யப்பட்டிருக்கிறது!.` exactly as printed.
-- Keep every illustration/photograph layer separate from literary text; scan 32 contains a large uncaptioned circular dancing-figure sculpture photograph/reproduction.
-- Scan 29 has no securely visible printed page number; scan 32 visibly prints page `16`; retain each page record's pagination exactly as verified.
-- Inspect actual scans 29–32 at native/enlarged resolution, compare the complete assembled scene against source pixels and all four page records, and promote only after both checks pass.
+- Inputs: verified `pages/0033.md` through `pages/0035.md`.
+- Output: `scenes/08.md`, initially `draft` / `visual_text_fidelity: pending`.
+- Preserve explicit scan provenance across scans 33–35 and inspect both physical page boundaries plus every column transition.
+- Preserve scan 33's quoted `“மாமுது பார்ப்பார் மறைவழி காட்டிடத் தீவலம் செய்து நிகழ்த்திய திருமணம்”` exactly as printed; do not substitute a standard literary reading.
+- Preserve unusual source forms such as `நீ யில்லாமல்`, `சுவையே யில்லை!`, `உன் தல எழுத்து`, `மருமகளாக வாழ்த்து;`, `போவதில்ல.`, `இரண்டு சொன்று`, `தானு இருக்கிறாய்?`, `பொய்தானு?`, `எல்லோருந்தான்`, `அப்படியானு....`, and `ஆதரவுபட்ட`.
+- Keep scan 33's two uncaptioned figure/statue photographs, scan 34's ornament/jewel-like and lotus illustrations, and scan 35's large uncaptioned standing-woman illustration separate from literary text.
+- Scan 33 has no securely visible printed pagination; scan 34 visibly prints `18`; scan 35 has no securely visible page number.
+- Scan 35 closes scene 8 and scan 36 begins `காட்சி-9`.
+- Inspect actual scans 33–35 at native/enlarged resolution, compare the complete assembly against source pixels and all three verified page records, and promote only after both checks pass.
 
 Do not begin English translation.
