@@ -54,7 +54,8 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 - Complete source-visible two-column scene text checked against native/enlarged controlling-source pixels.
 - No printed page number is securely visible; none is inferred.
 - Left column ends `இதற்குப் பதில்`; right column continues `சொல்லுங்கள்!`.
-- Preserve source-supported forms/punctuation including `காஷாய`, `ரிஷிகளைப்`, `உரிய / தான`, `மகானாய் மாறுவது!`, `வட நாட்டிலே நடத்தியபோர்`, `பதினெட்டே நாழிகையில்`, the unusual `அது உங்களே மன்னிக்கட்டும்.`, `முப்பத்திரண்டு`, `வில்லவா ;`, and the physical `கனக— / விஜயா` break.
+- Preserve source-supported forms/punctuation including `காஷாய`, `ரிஷிகளைப்`, `உரிய / தான`, `மகானாய் மாறுவது!`, `வட நாட்டிலே நடத்தியபோர்`, `பதினெட்டே நாழிகையில்`, `அது உங்களை மன்னிக்கட்டும்.`, `முப்பத்திரண்டு`, `வில்லவா ;`, and the physical `கனக— / விஜயா` break.
+- Final targeted source-pixel reinspection established `நடைபெற்ற` in the opening direction and `அது உங்களை மன்னிக்கட்டும்.` in the king's speech; these replace earlier provisional misreads.
 - Decorative mountain/stone artwork belongs to the scene-title layer and is not literary dialogue.
 
 ### Post-scene closing tableau
