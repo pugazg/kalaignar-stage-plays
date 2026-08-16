@@ -17,17 +17,30 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 
 ## Current verification checkpoint
 
-Scans **1–58 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-19**.
+Scans **1–60 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-20**.
 
-## Newly completed activity — காட்சி-19, scans 55–58
+## Newly completed activity — காட்சி-20, scans 59–60
 
-- Decorative title: **`கானல் வரியும் / காதல் பிரிவும்`**.
-- Setting: **`புகார்`**.
-- Complete character-level records: `pages/0055.md` through `pages/0058.md`.
-- Scan 56: upper-left sculptural photograph; the text below it is dramatic text, not a photograph caption.
-- Scan 57: uncaptioned lower-right sculptural photograph/reproduction.
-- Scan 58: printed page **42**, small uncaptioned யாழ்-like illustration, and scene close.
-- Scan 59 directly begins `காட்சி-20`.
+### Scan 59 — `pages/0059.md`
+
+- `காட்சி-20`.
+- Decorative title: **`திருந்திய கோவலன் / திரும்பி வருதல்`**.
+- Setting: **`கண்ணகி வீடு`**.
+- No visible printed page number; none inferred.
+- Complete two-column reconciliation dialogue verified.
+- Lower-right coin photograph exact caption: **`“பூம்புகார்” அகழ்வாராய்ச்சியில் கிடைத்த / இராசராசன் காசுகள்.`**
+- Final text ends physically at `பாவச்`; scan 60 begins `சின்னம்!...`.
+- Preserve source forms/splits such as `உனவிடத்துக்`, `கணவரோகூடத்`, `கூந்த / வீச`, `குவிந் / திருந்த`, and the physical page break.
+
+### Scan 60 — `pages/0060.md`
+
+- Continues and closes scene 20.
+- Printed page **44** visibly present.
+- Complete discussion of lost wealth, Kannagi's anklets, selling the anklet, and departure toward the Pandya country / Madurai verified.
+- Left column ends physically at `புதுத்`; right column resumes `தொல்லை கொடுப்பதற்கு...`.
+- Preserve source forms including `என்னுலே`, `கரைபேற`, `என் கண்ணு`, `ஆனை உயரம்`, `காற் சிலம்பு`, `கழற்றுமல்`, **`மதுரைத் தல நகரில்`**, and `அணுப் / பொழுதும்`.
+- Small rooster illustration at bottom centre is uncaptioned.
+- Scan 61 directly begins `காட்சி-21`.
 
 ## Permanent future-translation terminology note
 
@@ -37,10 +50,27 @@ Do **not** automatically translate Kalaignar's `அந்தணர்` as “Bra
 
 Detailed verification proceeds by **one complete scene per activity where practical**, with one independent archival record per physical scan.
 
+## Forward mapped pages
+
+### Scan 61 — `pages/0061.md`
+
+- Begins `காட்சி-21`.
+- Setting `மாதவி வீடு`.
+- Printed page **45**.
+- Ornate title and complete dense two-column literary text intentionally left `needs-review` pending dedicated enlarged verification.
+- Lower photograph/reproduction present.
+
+### Scan 62 — `pages/0062.md`
+
+- Full-page pictorial continuation associated with scene 21.
+- Printed vertical Tamil caption is visibly present and requires exact enlarged transcription.
+- No new scene heading.
+- Scan 63 begins `காட்சி-22`; therefore **காட்சி-21 spans scans 61–62**.
+
 ## Published English translation witness
 
 The supplied published English volume remains a secondary future collation witness only. Do not use it to silently alter Tamil readings.
 
 ## Next activity
 
-Begin **காட்சி-20 at scan 59**. Inspect forward until the next `காட்சி-` heading, establish the complete physical scene extent, then perform enlarged character-level verification of the whole scene. Do not begin scene assembly or English translation yet.
+Process **காட்சி-21 across scans 61–62** as one complete scene. Resolve scan 61's ornate title, verify every speaker label/dialogue/stage direction, and transcribe scan 62's vertical printed caption exactly before marking both scans verified. Do not begin scene assembly or English translation yet.
