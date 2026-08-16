@@ -25,7 +25,8 @@ The supplied scan is the controlling source. The PDF itself is not committed.
 - Complete source-visible two-column dramatic text verified directly against native/enlarged controlling-source views and targeted crops.
 - No printed page number is securely visible; none is inferred.
 - The left column ends mid-speech with `இதற்குப் பதில்`; the right column continues `சொல்லுங்கள்!`.
-- Source-supported readings/punctuation retained without normalization include `காஷாய`, `ரிஷிகளைப்`, `உரிய / தான`, `மகானாய் மாறுவது!`, `வட நாட்டிலே நடத்தியபோர்`, `பதினெட்டே நாழிகையில்`, the unusual `அது உங்களே மன்னிக்கட்டும்.`, `முப்பத்திரண்டு`, `வில்லவா ;`, and the physical `கனக— / விஜயா` split.
+- Source-supported readings/punctuation retained without normalization include `காஷாய`, `ரிஷிகளைப்`, `உரிய / தான`, `மகானாய் மாறுவது!`, `வட நாட்டிலே நடத்தியபோர்`, `பதினெட்டே நாழிகையில்`, `அது உங்களை மன்னிக்கட்டும்.`, `முப்பத்திரண்டு`, `வில்லவா ;`, and the physical `கனக— / விஜயா` split.
+- Final targeted source-pixel reinspection established `நடைபெற்ற` in the opening direction and `அது உங்களை மன்னிக்கட்டும்.` in the king's speech; these replace the earlier provisional misreads `நடைபெறுகிற` / `உங்களே`.
 - Decorative mountain/stone title artwork is recorded separately from literary text.
 
 ## Same-scan closing tableau
