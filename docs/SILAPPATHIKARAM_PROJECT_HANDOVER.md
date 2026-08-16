@@ -47,7 +47,9 @@ Before continuing, read completely:
 - Left column ends `இதற்குப் பதில்`; right column continues `சொல்லுங்கள்!`.
 - Decorative mountain/stone title artwork is separate from literary text.
 
-Source-specific forms/punctuation preserved in scene 38 include `காஷாய`, `ரிஷிகளைப்`, `உரிய / தான`, `மகானாய் மாறுவது!`, `வட நாட்டிலே நடத்தியபோர்`, `பதினெட்டே நாழிகையில்`, the unusual `அது உங்களே மன்னிக்கட்டும்.`, `முப்பத்திரண்டு`, `வில்லவா ;`, and the physical `கனக— / விஜயா` break.
+Source-specific forms/punctuation preserved in scene 38 include `காஷாய`, `ரிஷிகளைப்`, `உரிய / தான`, `மகானாய் மாறுவது!`, `வட நாட்டிலே நடத்தியபோர்`, `பதினெட்டே நாழிகையில்`, `அது உங்களை மன்னிக்கட்டும்.`, `முப்பத்திரண்டு`, `வில்லவா ;`, and the physical `கனக— / விஜயா` break.
+
+Final targeted source-pixel reinspection established `நடைபெற்ற` in the opening stage direction and `அது உங்களை மன்னிக்கட்டும்.` in the king's speech, correcting earlier provisional misreads before final closeout.
 
 ## Scan-88 closing tableau
 
