@@ -22,41 +22,46 @@ Before continuing read completely:
 8. `SCENE_ASSEMBLY_PLAN.md`
 9. `VISUAL_TEXT_FIDELITY_CHECK.md`
 10. `SCENE_ASSEMBLY_PILOT_REVIEW.md`
-11. assembled `scenes/01.md` through `scenes/36.md`
+11. assembled `scenes/01.md` through `scenes/38.md`
+12. `scenes/closing-tableau.md`
 
 ## Permanent rules
 
-The supplied Tamil scan is controlling authority. Do not silently modernize, normalize, correct, reconstruct or improve Kalaignar's Tamil. Verified page records are protected; change one only when direct source pixels prove it wrong and document the correction. Every assembled scene must be compared both with the verified page record(s) and with the actual source scan(s). Keep images, captions, page numbers, stamps and handwriting separate from literary text.
+The supplied Tamil scan is controlling authority. Do not silently modernize, normalize, correct, reconstruct or improve Kalaignar's Tamil. Verified page records are protected; change one only when direct source pixels prove it wrong and document the correction. Keep images, captions, page numbers, stamps and handwriting separate from literary text. The scan-88 stamp-obscured leading characters must remain unresolved unless source pixels themselves make them recoverable.
 
 ## Current checkpoint
 
 - Source length: **88 scans**; scans **1–88 visually verified** at page-record level.
 - Tamil transcription completion audit: **PASS**.
-- Scenes **1–36 are assembly-reviewed** with `visual_text_fidelity: "passed"`.
-- **36 of 38 numbered scenes are assembly-reviewed.**
-- Remaining assembly: scenes 37–38 plus the separate scan-88 closing tableau.
+- Scenes **1–38 are assembly-reviewed** with `visual_text_fidelity: "passed"`.
+- `scenes/closing-tableau.md` is also assembly-reviewed with visual fidelity passed.
+- **38/38 numbered scenes plus the separate closing tableau are assembled.**
+- Numbered-scene assembly phase: **COMPLETE**.
 - English translation has not started and remains locked.
 
-## Latest five-scene iteration — scenes 32–36
+## Final assembly iteration
 
-- **32 / scans 78–79 — `மதுரை மண்ணில் கோவலன் குருதி`, `வீதியிலுள்ள மண்டபம்`**: fidelity passed; scan 78 page `62`; scan 79 no secure page number; scan boundary and large uncaptioned illustration retained; no page correction.
-- **33 / scan 80 — `கணவன் கள்வனா?`, `குரவைக் கூத்து`**: fidelity passed; page `64`; source forms including `வெற்றுடம்பு`, `இல்ல! இல்ல! இல்ல!`, and `உணர்ச்சி, குழுமும் கடலாகிறது` protected; no page correction.
-- **34 / scan 81 — `வஞ்சினங் கூறுதல்`, `வீதியிலுள்ள மண்டபம்`**: fidelity passed; lower-left clear `9` plus damaged mark remains unresolved and no `65` is inferred; `மதுரை மூதார்` and other unusual forms retained; no page correction.
-- **35 / scans 82–85 — `வழக்குரை படலம்`, `பாண்டியன் கொலு மண்டபம் (வெளியே)`**: fidelity passed across all four scans; scan 82 page `66`; exact scan-84 `“பூம்புகார்” ... கண்ட படகுத்துறை` caption separate; command distinction `“கொன்று வருக அவனை!”` / `“கொன்று வருக அவன்”` preserved; no page correction.
-- **36 / scan 86 — `தீயினில் திருநகர்`, `தெருக்கள்`**: fidelity passed; no secure page number; printed `★` retained; two lower images kept separate; no page correction.
+- **37 / scan 87 — `வடபுலப் படையெடுப்பு`, `சேரன் செங்குட்டுவன் அவை`**: direct fidelity passed; no secure pagination; weapon/shield title artwork separate; source `இகழ்ந்தார்கள்!....அன்ன` and final `புறப்படுங்கள்!’` protected; no page correction.
+- **38 / scan 88 — `கண்ணகி சிலைக்குக் கல்`, `இமயத்தில் - குயிலாலுவம்`**: direct fidelity passed; no secure pagination; `இதற்குப் பதில்` → `சொல்லுங்கள்!` column continuation verified; physical `உரிய / தான` mechanically assembled as `உரியதான`; `கனக— / விஜயா` assembled as `கனக—விஜயா`; no new page correction.
+- **Closing tableau / scan 88**: three centred `*` marks followed by `வஞ்சிமூதூரில் / கண்ணகி சிலை நாட்டு விழா`; direct fidelity passed. Later circular stamp with handwritten `164596` obscures two leading portions; explicit obstruction markers before `ங்குட்டுவன்` and `ங்கோவடிகள்` remain unresolved and un-reconstructed.
 
 ## Translation terminology lock
 
 Do **not** automatically translate `அந்தணர்` as “Brahmin.” Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and related source terms. Translation is a later phase.
 
-## Exact next activity — final Tamil assembly iteration
+## Exact next activity — global Tamil consistency/source review
 
-1. `காட்சி-37 / scan 87` — `வடபுலப் படையெடுப்பு`, setting `சேரன் செங்குட்டுவன் அவை`; no secure printed page number.
-2. `காட்சி-38 / scan 88` — `கண்ணகி சிலைக்குக் கல்`, setting `இமயத்தில் - குயிலாலுவம்`; no secure printed page number.
-3. Create/review `scenes/closing-tableau.md` for the post-scene scan-88 `வஞ்சிமூதூரில் / கண்ணகி சிலை நாட்டு விழா` tableau after the three centred `*` marks. The library stamp obscures leading characters before source-visible `ங்குட்டுவன்` and `ங்கோவடிகள்`; preserve explicit obstruction markers and do not reconstruct them.
+Review `scenes/01.md` through `scenes/38.md` plus `scenes/closing-tableau.md` as one completed Tamil assembled corpus.
 
-Inspect scans 87–88 directly at enlarged resolution, assemble from verified `pages/0087.md`–`pages/0088.md`, and promote each output only after source-pixel and page-record checks both pass.
+Required checks:
 
-After that, perform the global Tamil consistency/source review across all 38 numbered scene files plus `closing-tableau.md`.
+- inventory all 39 assembled outputs and front-matter statuses;
+- reconcile scene numbers/titles/settings/source scans with the assembly plan, page map and verified pages;
+- audit multi-scan, column and line-wrap joins for accidental normalization;
+- review speaker-label variants, stage directions, quotations, punctuation, repetition and unusual source forms;
+- inventory all captions, illustrations/pictorial-only scans, pagination anomalies, unmatched brackets, title artwork and accession/library layers;
+- preserve all known source anomalies and the scan-88 obstruction markers;
+- use direct source-pixel reinspection for any mismatch discovered;
+- create a global Tamil review report with PASS/issues/corrections and update the handover state accordingly.
 
-Do not begin English translation.
+Do not begin English translation until that review is complete.
