@@ -4,64 +4,14 @@ This is the physical-source map. Printed pagination is recorded only when direct
 
 | Scan page | Printed page | Section / scene | Page type | Status | Notes |
 |---|---|---|---|---|---|
-| 1 | — | front matter | title / imprint | verified | Title-page wording visually verified; source shows `பதிப்புரிமை ]` and `[ விலை ரூ. 5`. |
-| 2 | — | front matter | photograph / caption | verified | Anna photograph / `அணிந்துரை`; library/copy marks separated. |
-| 3 | iii | Anna foreword | foreword | verified | Opening prose. |
-| 4 | iv | Anna foreword | foreword | verified | Foreword continuation. |
-| 5 | — | Anna foreword | foreword | verified | No `v` inferred. |
-| 6 | vi | Anna foreword | foreword | verified | Foreword continuation. |
-| 7 | — | Anna foreword | foreword | verified | No `vii` inferred. |
-| 8 | viii | Anna foreword | foreword | verified | Foreword continuation. |
-| 9 | — | Anna foreword | foreword conclusion | verified | Closes with `அன்பன்,` and facsimile signature. |
-| 10 | — | front matter | author photograph / caption | verified | Full-page portrait of M. Karunanidhi; caption recorded in `pages/0010.md`. |
-| 11 | — | author preface | text + photograph | verified | Opening prefatory prose; final line ends `இமயம்` and continues on scan 12. |
-| 12 | xii | author preface | text | verified | Complete prose and two verse-like passages verified; final quotation continues on scan 13. |
-| 13 | — | author preface | text | verified | Complete prose verified; no `xiii` inferred. |
-| 14 | xiv | author preface | text | verified | Complete prose verified; inset Korkai quotation and character-transformation list preserved. |
-| 15 | xv | author preface | text | verified | Complete prose and seven asterisk-led observations verified. |
-| 16 | xvi | author preface | closing | verified | Final observation/acknowledgements verified; closes with `அன்புடன்,` and facsimile signature. |
-| 17 | — | scene 1 | scene opening | verified | `காட்சி-1`; `வஞ்சி மூதூரில் முரசறைதல்`; complete text verified. |
-| 18 | 2 | scene 2 | scene opening | verified | `காட்சி-2`; `செங்குட்டுவன் பிறந்தநாள் விழா`; setting `வஞ்சி`; complete text verified. |
-| 19 | — | scene 3 | scene opening | verified | `காட்சி-3`; `விழாவும் வினாவும்`; setting `சேரன் அரண்மனை`. |
-| 20 | 4 | scene 3 | continuation / close | verified | Complete dialogue/stage directions verified; closes scene 3. |
-| 21 | — | scene 4 | scene opening | verified | `காட்சி-4`; `இளங்கோ துறவு`; setting `சேரலாதன் மாளிகை`. |
-| 22 | 6 | scene 4 | continuation | verified | Complete two-column continuation verified. |
-| 23 | — | scene 4 | continuation / close | verified | Photograph caption `காவிரி — கடலில் கலக்கும் காட்சி`; closes scene 4. |
-| 24 | 8 | scene 5 | scene opening | verified | `காட்சி-5`; `சிலம்பின் தோற்றம்`; setting `சேரநாடு`; complete text verified. |
-| 25 | 2 | scene 5 | continuation / close | verified | Native scan visibly prints anomalous numeral `2`; preserved exactly; closes scene 5. |
-| 26 | — | scene 6 | scene opening | verified | `காட்சி-6`; `பூம்புகார்ப் பொற்றொடி`; complete narration verified. |
-| 27 | — | scene 6 | continuation | verified | `ஆடல், பாடல்`, source form `[சாத்தனூரின் குரல் தொடர்கிறது]`, coastal-arrival narration/dialogue verified. |
-| 28 | 12 | scene 6 | continuation / close | verified | Dense Kannagi–Kovalan–Greek elder dialogue verified; closes scene 6. |
-| 29 | — | scene 7 | scene opening | verified | `காட்சி-7`; `கலைக்கரசி மாதவி`; setting `முத்துப் பந்தல்`. |
-| 30 | — | scene 7 | pictorial / caption | verified | Exact caption: `“பூம்புகார்” அகழ்வாராய்ச்சியில் கிடைத்த / யானச்சின்னம் பொறிக்கப்பட்ட / கரிகாலன் காலத்துக் காசுகள்.` |
-| 31 | 15 | scene 7 | continuation | verified | Complete dense dialogue around uncaptioned sculptural photograph verified. |
-| 32 | 16 | scene 7 | continuation / close | verified | Complete dialogue/stage text verified; closes scene 7. |
-| 33 | — | scene 8 | scene opening | verified | `காட்சி-8`; `கண்ணகி இல்லறம்`; setting `கோவலன் வீடு:—பள்ளியறை`. |
-| 34 | 18 | scene 8 | continuation | verified | Complete family/household dialogue and stage directions verified. |
-| 35 | — | scene 8 | continuation / close | verified | Complete reconciliation dialogue verified; closes scene 8. |
-| 36 | — | scene 9 | scene opening | verified | `காட்சி-9`; `பிரிவினை தந்த பேதை`; exact setting `கண்ணகி.கோவலன்—கட்டில் அறை`. |
-| 37 | — | scene 9 | continuation | verified | Exact photograph caption `(சம்பாபதி கோயில் — பூம்புகார்)`; complete dialogue verified. |
-| 38 | 22 | scene 9 | continuation / close | verified | Complete dialogue/stage directions verified; closes scene 9. |
-| 39 | — | scene 10 | scene opening | verified | `காட்சி-10`; title `கலையரசி கண்ட உவகை`; setting `மாதவி இல்லம்`; complete stage prose verified; circular library stamp separated. |
-| 40 | 24 | scene 10 | continuation / close-text | verified | Complete dance/collapse and Kovalan–Madhavi dialogue verified; final literary-text scan of scene 10. |
-| 41 | — | scene 10 | pictorial / final physical scan | verified | Full-page uncaptioned sculptural photograph/reproduction; scan 42 begins scene 11. |
-| 42 | 26 | scene 11 | scene opening / close | verified | `காட்சி-11`; enlarged title verified as `கற்பரசியின் கலக்கம்`; setting `கண்ணகி வீடு`; complete two-column text and lower-centre uncaptioned illustration verified; scan 43 begins scene 12. |
-| 43 | 27 | scene 12 | scene opening / close | verified | `காட்சி-12`; enlarged source title verified as `இன்ப வாழ்வில் கோவலன்`; setting `மாதவி வீடு`; complete corrected two-column text and lower-centre uncaptioned peacock illustration verified; scan 44 begins scene 13. |
-| 44 | — | scene 13 | scene opening | verified | `காட்சி-13`; enlarged title verified as `துன்பப் புயலில் கண்ணகி`; setting `கண்ணகி வீடு`; complete two-column text verified; large lower-left photograph/reproduction is uncaptioned. |
-| 45 | — | scene 13 | continuation / close | verified | Complete two-column family dialogue verified; lower-right sculptural photograph/reproduction is uncaptioned; scan 46 begins scene 14. |
-| 46 | 30 | scene 14 | scene opening | verified | `காட்சி-14`; enlarged title verified as `மாதவியின் மாண்பு`; setting `காவிரி ஆற்றோரம்`; complete two-column text verified. |
-| 47 | 31 | scene 14 | continuation | verified | Complete two-column continuation verified; source distinguishes `பிராமண மாது` / `பிராமணமாது` / `பார்ப்பனமாது` from male label `அந்தணர் ;`; small lower-centre illustration uncaptioned. |
-| 48 | 32 | scene 14 | continuation / close | verified | Complete continuation/advice dialogue verified; source continues male label as `அந்த` and prints `அந்தணனுக்கும்`; small figure illustration uncaptioned; scan 49 begins scene 15. |
-| 49 | — | scene 15 | scene opening / close | verified | `காட்சி-15`; enlarged title verified as source form `மனமாறிந்த கோவலன்`; setting `கண்ணகி வீடு`; complete stage prose/Kannagi speech verified; lower-right sculptural photograph/reproduction uncaptioned; scan 50 begins scene 16. |
-| 50 | — | scene 16 | scene opening / close | verified | `காட்சி-16`; enlarged title verified as `மணிமேகலை பிறப்பு`; setting `மாதவி வீடு`; complete naming/celebration and elephant-episode text verified; source prints `நன்னி / ராட்டு`, `குறளியும்`, and `மறையவனைப்`; large lower illustration uncaptioned; scan 51 begins scene 17. |
-| 51 | — | scene 17 | scene opening | needs-review | `காட்சி-17`; setting `கண்ணகி வீடு`; decorative title and complete upper-page dramatic text pending enlargement; lower archaeological/excavation photograph has a printed caption requiring exact verification. |
-| 52 | — | scene 17 | pictorial / final physical scan | needs-review | Full-page sculptural photograph/reproduction; no new scene heading; scan 53 begins scene 18. |
-| 53–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. No pagination or scene boundaries are inferred here. |
+| 1–50 | — | prior verified material | front matter + scenes 1–16 | verified | Detailed individual records retained in repository; scans 1–50 verified. |
+| 51 | — | scene 17 | scene opening / text + photograph | verified | `காட்சி-17`; title `மாசறு பொன்மகிழ்வு`; setting `கண்ணகி வீடு`; complete dramatic text verified; exact photograph caption `“பூம்புகார்” அகழ்வாராய்ச்சியில் / கிடைத்த பெளத்தப் பள்ளி`. |
+| 52 | — | scene 17 | pictorial / final physical scan | verified | Full-page uncaptioned sculptural photograph/reproduction; no visible literary text or pagination; scan 53 begins scene 18. |
+| 53 | 37 | scene 18 | scene opening | needs-review | `காட்சி-18` visibly begins; ornate title, complete text and scene extent require detailed verification. |
+| 54–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. No pagination or scene boundaries are inferred here. |
 | 88 | — | dramatic body | scene | not-started | `காட்சி-38` visibly present on final supplied scan. |
 
-## Expansion rule
-
-Before transcription closure, **all 88 scan pages must have individual rows**. Range rows are startup survey records only and must be replaced by one-row-per-scan records as work advances.
+> Note: the compact `1–50` row above is only a summary in this rewritten checkpoint map; the independent `pages/0001.md` through `pages/0050.md` records remain the authoritative per-scan archival records.
 
 ## Status key
 
@@ -73,10 +23,10 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–50 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-16**.
+Scans **1–52 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification covers **காட்சி-1 through காட்சி-17**.
 
-Scans **51–52** are individually structurally mapped at `needs-review`. Forward inspection establishes that **காட்சி-17 spans scans 51–52**, because scan **53** directly begins `காட்சி-18`.
+`காட்சி-17` spans scans **51–52**. Scan 51 carries the complete literary text and the printed archaeological caption; scan 52 is an uncaptioned pictorial continuation. Scan **53** directly begins `காட்சி-18` and visibly carries printed page **37**.
 
-A future-translation terminology lock is recorded in `metadata/english-translation-source.md`: Kalaignar's `அந்தணர்` must not be automatically flattened to “Brahmin”; source distinctions among `பிராமண`, `பார்ப்பன`, and `அந்தணர்` must be preserved. Scene 16 additionally preserves the distinct source term `மறையவனைப்` without editorial substitution.
+The future-translation terminology lock remains in force: Kalaignar's `அந்தணர்` must not be automatically flattened to “Brahmin”; distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, and other source terms such as `மறையவன்` must be preserved pending dedicated translation review.
 
-Detailed verification continues by **complete scene where practical**, while retaining one source record per physical scan. Next: **காட்சி-17 across scans 51–52**.
+Detailed verification continues by **complete scene where practical**, while retaining one source record per physical scan. Next: determine the full extent of **காட்சி-18** from scan 53 forward and verify it as one scene unit.
