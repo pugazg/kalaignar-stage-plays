@@ -18,6 +18,8 @@ Before continuing Silappathikaram, read completely:
 8. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PLAN.md`
 9. `works/silappathikaram-nataka-kappiyam/VISUAL_TEXT_FIDELITY_CHECK.md`
 10. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PILOT_REVIEW.md`
+11. `works/silappathikaram-nataka-kappiyam/scenes/01.md`
+12. `works/silappathikaram-nataka-kappiyam/scenes/02.md`
 
 ## Permanent source rules
 
@@ -41,43 +43,37 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 - Scene-assembly readiness plan: complete.
 - Mandatory direct visual-text fidelity protocol: active.
 - Scene assembly: **started**.
-- `காட்சி-1 / scan 17`: `scenes/01.md` is **assembly-reviewed** with `visual_text_fidelity: "passed"`.
-- Reusable assembly/fidelity pilot: **accepted**.
+- `காட்சி-1 / scan 17`: `scenes/01.md` is **assembly-reviewed**, `visual_text_fidelity: "passed"`.
+- `காட்சி-2 / scan 18`: `scenes/02.md` is **assembly-reviewed**, `visual_text_fidelity: "passed"`.
 - English translation: **not started and remains locked**.
 
-## Completed scene-1 assembly pilot
+## Scene-2 fidelity result
 
-Pilot review:
+`scenes/02.md` assembles `காட்சி-2 — செங்குட்டுவன் பிறந்தநாள் விழா`, setting `வஞ்சி`, from verified `pages/0018.md`.
 
-`works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PILOT_REVIEW.md`
+The actual controlling scan 18 was inspected at full-page and enlarged heading/left-column/right-column/final-direction views. Every speaker label, dialogue line, stage direction, punctuation mark, repetition and mechanical word-wrap join was compared directly against source pixels and then against the page record.
 
-Scene file:
+The fidelity gate caught one pre-existing page-record spacing error:
 
-`works/silappathikaram-nataka-kappiyam/scenes/01.md`
+- source pixels visibly print `தனி மாடத்தை விட்டு`;
+- the earlier verified `pages/0018.md` had `தனி மாடத்தைவிட்டு`.
 
-Verified results:
+`pages/0018.md` was corrected only on that direct pixel evidence, with the correction explicitly documented in the page record. No other scan-18 reading required correction.
 
-- scene: `காட்சி-1`;
-- title: `வஞ்சி மூதூரில் முரசறைதல்`;
-- physical extent: scan 17 only;
-- no separate printed setting heading; `setting: null` is correct;
-- actual controlling scan 17 was rendered at high resolution and inspected as full-page plus enlarged title/left/right text views;
-- complete assembled stage direction, speaker label, dialogue, punctuation, repetitions and mechanical joins were compared directly against source pixels and against `pages/0017.md`;
-- no verified page-record correction was required;
-- title artwork and the lower uncaptioned pictorial layer remain separate from literary text.
+Verified mechanical joins in `scenes/02.md` include `மண்டபத் / திற்கு` → `மண்டபத்திற்கு`, `பெறுத / வர்கள்` → `பெறுதவர்கள்`, `என்கி / றீர்களா` → `என்கிறீர்களா`, `கேளுங் / களேன்` → `கேளுங்களேன்`, `நம்புகிறீர் / களா` → `நம்புகிறீர்களா`, `இருக்க / கிறாள்` → `இருக்கிறாள்`, `அனுப் / புங்கள்` → `அனுப்புங்கள்`, and `வரு / கிறேன்` → `வருகிறேன்`.
 
-Accepted mechanical joins include `பொறிக்கப்பட்டிருக் / கிறது` → `பொறிக்கப்பட்டிருக்கிறது`, `வேலைப் / பாடமைந்த` → `வேலைப்பாடமைந்த`, `காணப் / படுகிறது` → `காணப்படுகிறது`, `தமி / ழகம்` → `தமிழகம்`, and `சேர / லாதர்` → `சேரலாதர்` within `நெடுஞ் சேரலாதர்`.
+Source-specific forms/punctuation such as `பிறகென்ன;`, `நமக்கொன்று பிறக்கவில்லே`, `என்கிறீர்களா?....`, `கேளுங்களேன்;எப்போது`, `[புன்னகை தவழ]`, and `குறும்புக்காரா!...வேண்மாள்!...` remain unchanged.
 
-Source-supported forms such as `தலை நகரான`, `அறிவிப்பு!....`, `ஆனை`, `விற்கொடி. நாட்டிய`, repeated `கொட்டுவோம்`, and `பூரிப்போடு!` remain unchanged.
+The decorative title flourish and lower-centre uncaptioned stylized head/face illustration remain outside literary text. Printed page marker `2` remains provenance metadata.
 
 ## Assembly rules now controlling
 
 - Assemble only from verified `pages/NNNN.md` records.
 - Actual scan pixels are controlling for the mandatory fidelity gate.
 - Join only demonstrably mechanical line/column/page wrapping.
-- Preserve source wording, speaker labels, stage directions, repetitions, unusual forms and punctuation.
+- Preserve source wording, speaker labels, stage directions, repetitions, unusual forms, punctuation and source-supported spacing.
 - Keep illustrations, photographs, captions and decorative artwork in separate source-visual sections.
-- Preserve scan provenance for multi-scan scenes.
+- Preserve scan provenance for multi-scan scenes and inspect both sides of every source-page boundary.
 - Do not infer pagination or reconstruct damaged/stamp-obscured text.
 - Every scene begins `draft` / `visual_text_fidelity: pending` and can become `assembly-reviewed` only after direct scan comparison and page-record comparison both pass.
 
@@ -87,13 +83,14 @@ Do **not** automatically translate Kalaignar's `அந்தணர்` as “Bra
 
 ## Exact next activity
 
-Process **காட்சி-2 / scan 18 — `செங்குட்டுவன் பிறந்தநாள் விழா`, setting `வஞ்சி`** as the next combined scene-assembly + visual-text-fidelity activity.
+Process **காட்சி-3 / scans 19–20 — `விழாவும் வினாவும்`, setting `சேரன் அரண்மனை`** as one complete scene-assembly + visual-text-fidelity activity.
 
-- Input: `pages/0018.md`.
-- Output: `scenes/02.md`.
+- Inputs: `pages/0019.md` and `pages/0020.md`.
+- Output: `scenes/03.md`.
 - Assemble at `draft` / `visual_text_fidelity: pending`.
-- Inspect actual scan 18 at native/enlarged resolution.
-- Compare all scene/title/setting text, stage directions, speaker labels, dialogue, punctuation and every mechanical join character-by-character against source pixels.
-- Compare again with `pages/0018.md`.
+- Preserve explicit source-scan provenance and the scan-19 → scan-20 boundary.
+- Inspect actual scans 19 and 20 at native/enlarged resolution.
+- Compare all scene/title/setting text, stage directions, speaker labels, dialogue, punctuation and every mechanical join character-by-character against source pixels, with particular attention to the cross-page continuation.
+- Compare again with both verified page records.
 - Promote only after both checks pass.
 - Do not begin English translation.
