@@ -17,23 +17,23 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 
 ## Current verification checkpoint
 
-Scans **1–69 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-26**.
+Scans **1–70 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-27**.
 
-## Newly completed activity — காட்சி-26, scan 69
+## Newly completed activity — காட்சி-27, scan 70
 
-### Scan 69 — `pages/0069.md`
+### Scan 70 — `pages/0070.md`
 
-- `காட்சி-26`.
-- Decorative title verified as **`அரசியின் சிலம்பு`**.
-- Setting: **`பொற்கொல்லன் வீடு`**.
-- Printed page **53** visibly present.
-- Complete two-column dramatic text verified using enlarged 600-ppi source views and a cross-column crop.
-- The palace `அதிகாரி` brings the queen's damaged anklet to the chief goldsmith. During a stage direction that crosses columns, the chief goldsmith turns away to correct another worker and the officer steals the anklet.
-- Preserve speaker abbreviations exactly: `பொற்` and `அதி`.
-- Preserve the physical stage-direction transition: left column ends at `எழுந்து`; right column begins `செல்லும்போது, அதிகாரி அந்தச் சிலம்பைத் / திருடிவிடுகிறான்]`.
-- Preserve source forms/splits including `கோப்பெருந் தேவியின்`, `அனுப்பச் சொன்னார்....மன்னர்.`, `நாளைக்கே`, `மல்லிகை கல்`, `(அதிகாரியிடம்) பிறகு...`, `பொற்கொல்ல / ரிடம்`, `உட் / காருங்கள்`, `பொற் கொல் / லர்`, `செதுக்கு / வது`, `செய் / யுங்கள்`, `நாளைக் / குள்`, and `விடு / கிறேன்`.
-- Small lower-centre shell/pearl-like illustration is uncaptioned.
-- Scan 70 directly begins `காட்சி-27`, so scene 26 is a one-scan scene.
+- `காட்சி-27`.
+- Decorative title verified as **`ஆய்ச்சியர் அறிமுகம்`**.
+- Initial setting: **`மதுரை எல்லை`**.
+- Printed page **54** visibly present.
+- Complete two-column dramatic text verified using enlarged 600-ppi source views.
+- The page contains a printed internal location heading **`மாதரி வீடு...`**; retain it inside scene 27.
+- The first section introduces `ஐயை` and identifies `மாதரி`; the travellers move with the cattle group toward Madhari's house.
+- The second section has Madhari receive the travellers and Kavunti entrust Kannagi to her.
+- Preserve source forms/splits including `இளங் கூட்டத்திற்குள்`, `சமணத் துறவிகளுக்குப் பாற்சோறு`, `பசக் கூட்டத்தோடு`, `தடையா சொல்லப் போகிறேன்?`, `எவ்வளவோ ஆறுதலாக இருந்தது!`, `என் / னும்`, `விருந் / தினராக`, `இருக் / கிறாளே`, and `சொல் / வேன்`.
+- Small lower-centre standing-woman figure holding a tray/lamp-like object is uncaptioned.
+- Scan 71 directly begins `காட்சி-28`, so scene 27 is a one-scan scene.
 
 Verification used the controlling Tamil scan only for wording. The supplied published English translation was not used to settle Tamil readings.
 
@@ -47,15 +47,17 @@ Detailed verification proceeds by **one complete scene per activity where practi
 
 ## Forward mapped page
 
-### Scan 70 — `pages/0070.md`
+### Scan 71 — `pages/0071.md`
 
-- Begins `காட்சி-27`.
-- Provisional decorative title: **`ஆய்ச்சியர் அறிமுகம்`**; final character-level acceptance pending.
-- Setting: **`மதுரை எல்லை`**.
-- Printed page **54** visibly present.
-- Dense two-column dramatic text plus a small uncaptioned standing-woman illustration holding a tray/lamp-like object near the lower centre.
-- Scan 71 directly begins `காட்சி-28`, so scene 27 is a one-scan scene.
+- Begins `காட்சி-28`.
+- Provisional decorative title: **`பொற்கொல்லர் முறையீடு`**.
+- Setting: **`பாண்டியன் தனிமாடம்`**.
+- Dense two-column dramatic text plus a small uncaptioned anklet-like lower illustration.
+- No printed page number is securely visible; do not infer one.
+- Scan 72 directly begins `காட்சி-29`, so scene 28 is a one-scan scene.
 - Status: `needs-review`.
+
+Forward inspection also establishes that `காட்சி-29` spans scans **72–75**, because scan 76 begins `காட்சி-30`; detailed transcription has not started for those pages.
 
 ## Published English translation witness
 
@@ -63,4 +65,4 @@ The supplied published English volume remains a secondary future collation witne
 
 ## Next activity
 
-Process **காட்சி-27 / scan 70** as one complete scene. Verify the ornate title, all dialogue/stage directions, speaker labels, punctuation, physical splits and lower illustration before marking it `verified`. Do not begin scene assembly or English translation yet.
+Process **காட்சி-28 / scan 71** as one complete scene. Verify the ornate title, all dialogue/stage directions, speaker labels, punctuation, physical splits and lower illustration before marking it `verified`. Do not begin scene assembly or English translation yet.
