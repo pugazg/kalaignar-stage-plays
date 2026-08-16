@@ -16,19 +16,21 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 67–68 | — / 52 | scene 25 | opening + continuation / close | verified | `காட்சி-25`; title `நீதி வழுவா நெடுஞ்செழியன்`; complete authorship-dispute / royal-anklet sequence verified. |
 | 69 | 53 | scene 26 | scene opening / close + illustration | verified | `காட்சி-26`; title `அரசியின் சிலம்பு`; complete one-scan transcription verified. |
 | 70 | 54 | scene 27 | scene opening / close + illustration | verified | `காட்சி-27`; title `ஆய்ச்சியர் அறிமுகம்`; initial setting `மதுரை எல்லை`, internal location shift `மாதரி வீடு...`; complete one-scan transcription verified. |
-| 71 | — | scene 28 | scene opening / close + illustration | needs-review | `காட்சி-28`; provisional title `பொற்கொல்லர் முறையீடு`; setting `பாண்டியன் தனிமாடம்`; scan 72 begins scene 29. |
-| 72–75 | 56 / — / — / — | scene 29 | opening + continuations | not-started | `காட்சி-29` visibly begins on scan 72; scan 76 begins `காட்சி-30`, establishing a four-scan physical extent. Detailed page records pending. |
+| 71 | — | scene 28 | scene opening / close + illustration | verified | `காட்சி-28`; title `பொற்கொல்லர் முறையீடு`; setting `பாண்டியன் தனிமாடம்`; complete one-scan transcription verified; scan 72 begins scene 29. |
+| 72–75 | 56 / — / — / — | scene 29 | opening + continuations / close | needs-review | `காட்சி-29`; provisional title `ஒற்றைச் சிலம்பின் ஒலி`; setting `மாதரி வீடு`; individual structural page records created; scan 76 begins scene 30. |
 | 76–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. |
 | 88 | — | dramatic body | scene | not-started | `காட்சி-38` visibly present on final supplied scan. |
 
 ## Current checkpoint
 
-Scans **1–70 are verified**. Detailed dramatic-body verification covers **காட்சி-1 through காட்சி-27**.
+Scans **1–71 are verified**. Detailed dramatic-body verification covers **காட்சி-1 through காட்சி-28**.
 
-`காட்சி-27` is a one-scan scene on scan **70**, printed page **54**, titled **`ஆய்ச்சியர் அறிமுகம்`**. It begins at `மதுரை எல்லை` and contains a printed internal move to **`மாதரி வீடு...`**. Source-specific readings retained include `இளங் கூட்டத்திற்குள்`, `சமணத் துறவிகளுக்குப் பாற்சோறு`, `பசக் கூட்டத்தோடு`, `தடையா சொல்லப் போகிறேன்?`, and Kannagi's `எவ்வளவோ ஆறுதலாக இருந்தது!`.
+`காட்சி-28` is a one-scan scene on scan **71**, titled **`பொற்கொல்லர் முறையீடு`** with setting **`பாண்டியன் தனிமாடம்`**. No printed page number is securely visible. The complete exchange among `கோப்`, `நெடுஞ்`, `தோழி`, and `தலைமைப் பொற்` is verified, including the head goldsmith's report that the queen's anklet has disappeared from the locked box and Nedunchezhiyan's order to bring all one hundred goldsmiths before the court.
 
-Scan **71** is structurally mapped as the one-scan `காட்சி-28`, with provisional title **`பொற்கொல்லர் முறையீடு`** and setting **`பாண்டியன் தனிமாடம்`**, at `needs-review`. Scan **72** directly begins `காட்சி-29`.
+Source-specific readings retained during scene-28 verification include the unmatched closing bracket in `கோப்பெருந்தேவி கேட்டுக்கொண்டே / வருகிறாள்.]`, `பார்க்கிறர்`, `ஊகூம்`, `பள்ளிக்கூடமுமல்ல`, `செய்தியைச் சொல்லும்`, `நீதி மன்றத்தில்`, `நிறுத்தும்!`, and `கண்டு பிடிக்கிறேன்`.
+
+Scans **72–75** are now individually structurally mapped as `காட்சி-29` (`ஒற்றைச் சிலம்பின் ஒலி`, setting `மாதரி வீடு`) at `needs-review`; scan **76** begins `காட்சி-30`.
 
 The future-translation terminology lock remains in force: Kalaignar's `அந்தணர்` must not be automatically flattened to “Brahmin”; distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, and other source terms such as `மறையவன்` must be preserved pending dedicated translation review.
 
-Detailed verification continues by complete scene where practical. Next: **காட்சி-28 / scan 71**.
+Detailed verification continues by complete scene where practical. Next: **காட்சி-29 across scans 72–75**.
