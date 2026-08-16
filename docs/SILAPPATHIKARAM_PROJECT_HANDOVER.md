@@ -24,8 +24,10 @@ Before continuing, read completely:
 2. `docs/SILAPPATHIKARAM_CONTINUATION_GUIDELINES.md`
 3. this handover
 4. root `HANDOVER.md`
-5. the work `README.md`
-6. `indexes/page-map.md`
+5. `works/silappathikaram-nataka-kappiyam/README.md`
+6. `works/silappathikaram-nataka-kappiyam/indexes/page-map.md`
+7. `works/silappathikaram-nataka-kappiyam/audit.md`
+8. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PLAN.md`
 
 ## Current verified checkpoint
 
@@ -34,43 +36,82 @@ Before continuing, read completely:
 - Detailed dramatic-body verification covers **காட்சி-1 through காட்சி-38**.
 - The post-scene closing tableau on scan 88 is also archived.
 - **Tamil page-level visual verification is complete for the supplied source.**
+- **Tamil transcription completion audit / scene-assembly readiness review is complete and passed.**
+- Scene assembly has **not yet started**.
 - Previously verified page records must not be restarted, retranscribed or casually modified.
 - Any change to a verified reading requires direct source-pixel evidence and explicit documentation.
 
-## Final completed scene — காட்சி-38 `கண்ணகி சிலைக்குக் கல்`
+## Completion-audit result
 
-- Setting: `இமயத்தில் - குயிலாலுவம்`
-- Physical extent: scan **88 only**
-- Scan 88 is the final supplied physical scan.
-- No printed page number is securely visible; none is inferred.
-- Complete source-visible two-column scene text verified against native/enlarged controlling-source views and targeted crops.
-- Left column ends `இதற்குப் பதில்`; right column continues `சொல்லுங்கள்!`.
-- Decorative mountain/stone title artwork is separate from literary text.
+Audit record:
 
-Source-specific forms/punctuation preserved in scene 38 include `காஷாய`, `ரிஷிகளைப்`, `உரிய / தான`, `மகானாய் மாறுவது!`, `வட நாட்டிலே நடத்தியபோர்`, `பதினெட்டே நாழிகையில்`, `அது உங்களை மன்னிக்கட்டும்.`, `முப்பத்திரண்டு`, `வில்லவா ;`, and the physical `கனக— / விஜயா` break.
+`works/silappathikaram-nataka-kappiyam/audit.md`
 
-Final targeted source-pixel reinspection established `நடைபெற்ற` in the opening stage direction and `அது உங்களை மன்னிக்கட்டும்.` in the king's speech, correcting earlier provisional misreads before final closeout.
+Assembly plan:
 
-## Scan-88 closing tableau
+`works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PLAN.md`
 
-After the numbered scene closes, three centred printed `*` marks introduce:
+The audit establishes:
+
+- continuous page-record coverage `pages/0001.md` through `pages/0088.md`;
+- no missing physical page record;
+- live page-map status `verified` for scans 1–88;
+- verified scene extents for all 38 numbered scenes;
+- scene headings/settings/special internal headings reconciled for assembly;
+- known pagination anomalies, photographs, illustrations, captions and library/accession obstructions inventoried;
+- scan-88 stamp-covered leading characters remain explicitly unresolved and may not be reconstructed from context.
+
+The assembly manifest records the following broad scene extents:
+
+- scenes 1–10: scans 17–41;
+- scenes 11–16: scans 42–50;
+- scenes 17–28: scans 51–71;
+- scene 29: scans 72–75;
+- scenes 30–34: scans 76–81;
+- scene 35: scans 82–85;
+- scenes 36–38: scans 86–88;
+- scan 88 additionally contains a **separate post-scene closing tableau** after scene 38.
+
+Use the exact per-scene manifest in `audit.md` / `SCENE_ASSEMBLY_PLAN.md`; do not infer boundaries from the broad ranges above.
+
+## Final source obstruction — scan 88
+
+After `காட்சி-38 — கண்ணகி சிலைக்குக் கல்`, three centred printed `*` marks introduce:
 
 - `வஞ்சிமூதூரில்`
 - `கண்ணகி சிலை நாட்டு விழா`
 
-The visible tableau ending is:
+A later circular library/accession stamp containing handwritten `164596` obscures leading characters on two closing-tableau lines. Native/enlarged and non-destructive image variants could not securely recover the hidden strokes.
 
-`மாதவி, துறவுக் கோலத்தில், கண்களில் நீர்வழிய, குழந்தை`
+`pages/0088.md` therefore preserves explicit obstruction markers before the source-visible suffixes `ங்குட்டுவன்` and `ங்கோவடிகள்`. Scene assembly and later translation must retain that uncertainty unless new source evidence defensibly resolves it.
 
-`மணிமேகலையைக் கொண்டுவந்து சிலையின் காலடியில் வைக்கிறாள்.]`
+## Assembly phase rules
 
-### Source obstruction
+Assembly is a new derivative archival layer; verified page records remain controlling.
 
-A later circular library/accession stamp overlaps the lower-left publication area and contains handwritten `164596`. It obscures the leading characters of two closing-tableau lines.
+Planned output:
 
-Native/enlarged views plus non-destructive contrast/gamma variants were checked. The characters directly beneath the opaque stamp are not securely recoverable. Therefore `pages/0088.md` uses explicit obstruction markers before the source-visible suffixes `ங்குட்டுவன்` and `ங்கோவடிகள்`; hidden letters are **not silently reconstructed**.
+```text
+works/silappathikaram-nataka-kappiyam/scenes/
+  01.md
+  02.md
+  ...
+  38.md
+  closing-tableau.md
+```
 
-Additional later handwriting/accession notation near the lower margin is also kept outside Kalaignar's publication text.
+Rules:
+
+- assemble only from verified page records;
+- retain exact speaker labels, dialogue, stage directions, repetition and punctuation;
+- mechanical printed line/column wrapping may be joined only where wording/punctuation remain unchanged;
+- preserve scan provenance, especially across multi-scan scenes;
+- visual material and captions remain a distinct source layer;
+- do not infer a setting heading where the source has none;
+- do not insert printed page numbers into literary text;
+- do not repair anomalous printed pagination;
+- do not reconstruct library-stamp-obscured text;
+- every assembled scene begins at `draft` and requires assembly-level review before it is considered ready for global review.
 
 ## Translation terminology lock
 
@@ -85,40 +126,35 @@ Permanent instruction:
 
 The published English translation remains a secondary comparison witness only and must never be used to alter the verified Tamil silently.
 
-## Exact next activity — Tamil completion audit / assembly readiness
+## Exact next activity — scene assembly pilot
 
-Do **not** begin English translation yet.
+Do **not** begin English translation.
 
-Run a repository-wide audit over the completed page-level archive:
+Assemble **காட்சி-1 / scan 17** as the pilot scene file:
 
-1. Confirm all **88** `pages/NNNN.md` records exist.
-2. Confirm each page record status matches `indexes/page-map.md`.
-3. Identify any remaining `needs-review`, `partial` or `blocked` records.
-4. Inventory every documented source anomaly: uncertain/missing pagination, unusual printed numerals, source damage/obstruction, library/accession marks, captions, photographs and illustrations.
-5. Verify scene extents **காட்சி-1 through காட்சி-38** against the page records.
-6. Confirm all scene numbers, decorative titles, settings/sub-settings and page/column continuations required for assembly.
-7. Create/update a work-level audit record and a scene-assembly readiness record.
-8. Prepare the scene-assembly plan using only verified page records.
-9. Do not normalize wording, punctuation, spelling or stage directions during assembly.
-10. Keep the scan-88 stamp-obscured characters explicitly unresolved unless a defensible source-supported recovery becomes available.
+- verified page source: `works/silappathikaram-nataka-kappiyam/pages/0017.md`;
+- output target: `works/silappathikaram-nataka-kappiyam/scenes/01.md`;
+- decorative title: **`வஞ்சி மூதூரில் முரசறைதல்`**;
+- no separate printed setting heading is present, so `setting: null` should be used rather than inventing one from the opening stage direction;
+- the architectural/drummer heading artwork remains a separate visual layer;
+- assemble at status `draft`;
+- immediately perform an assembly-level comparison against `pages/0017.md` and document whether the pilot file format is accepted before moving to scene 2.
 
 ## Phase state
 
 Completed:
 
 - physical page mapping for all 88 scans;
-- direct page-level Tamil verification for the supplied source;
-- detailed verification of `காட்சி-1` through `காட்சி-38`;
-- scan-88 closing-tableau source-layer separation.
+- direct Tamil page-level verification;
+- detailed verification of scenes 1–38;
+- final closing-tableau source-layer separation;
+- Tamil transcription completion audit;
+- scene-assembly readiness plan.
 
-Not yet started/completed:
+Next:
 
-- repository-wide transcription completion audit;
-- scene assembly from verified page records;
+- scene-1 assembly pilot;
 - assembly review;
-- global consistency review;
-- English translation;
-- translation review;
-- final release packaging.
-
-The immediate continuation must begin with the **Tamil completion audit / scene-assembly readiness review**, not translation.
+- scenes 2–38 + closing tableau assembly;
+- global Tamil consistency/source review;
+- only then, if directed, English translation and translation review.
