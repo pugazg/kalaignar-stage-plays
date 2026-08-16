@@ -7,38 +7,39 @@ The supplied scan is the controlling source. The PDF itself is not committed.
 ## Processing status
 
 - Scan length: **88 pages**.
-- Scans **1–62 are fully verified**.
-- Dramatic-body detailed verification covers **காட்சி-1 through காட்சி-21**.
-- Scans **63–64** are structurally mapped as `காட்சி-22` and remain `needs-review`.
-- Scan **65** visibly begins `காட்சி-23`.
+- Scans **1–64 are fully verified**.
+- Dramatic-body detailed verification covers **காட்சி-1 through காட்சி-22**.
+- Scan **65** is structurally mapped as the one-scan `காட்சி-23` and remains `needs-review`.
+- Scan **66** visibly begins `காட்சி-24`.
 - Scene assembly: not started.
 - Full source audit: not started.
 - English translation: not started; published translation witness and terminology lock recorded.
 
-## Latest detailed verification — காட்சி-21
+## Latest detailed verification — காட்சி-22
 
-`காட்சி-21` spans **scans 61–62**; scan 63 begins `காட்சி-22`.
+`காட்சி-22` spans **scans 63–64**; scan 65 begins `காட்சி-23`.
 
-### Scan 61 — literary page
+### Scan 63 — literary opening
 
-- Scene marker: `காட்சி-21`.
-- The visible lexical title is **`கலைமகள்`**.
-- Immediately after that word, the title artwork depicts a large eye with falling tear drops. No second lexical word is visibly typeset, so the archive records the artwork separately rather than silently inventing title text from the image.
-- Setting: **`மாதவி வீடு`**.
-- Printed page **45** visibly present.
-- Complete two-column dramatic text is verified, including the Madhavi–Vasanthamalai–Chitrapathi–Kooni exchange.
-- Source-specific forms/splits retained include `மணி / மேகலையுடன்`, `உட்கார்ந் / திருக்கிறாள்`, `ஆவ / லோடு`, `விட்டா / ரம்மா`, `என் / னமோ`, `அனு / பவிக்கும்`, `குடிகெடுக் / கும்`, `பொருளுக்கா / கவா`, `உயி / ரோடு`, and the visibly printed `ஆதரவில்ல / யம்மா`.
-- The source phrase **`என்னைச் சொல் / உதிர்க்கின்ற தமிழ்க் கனியே`** is preserved exactly.
-- Lower sculptural photograph/reproduction is uncaptioned; no identity is inferred.
-
-### Scan 62 — pictorial continuation
-
-- Full-page photograph/reproduction of the `தாழி` identified by the source caption.
+- Scene marker: `காட்சி-22`.
+- Decorative title verified as **`மதுரைப் பயணம்`**.
+- Setting: **`மதுரை செல்லும் வழி`**.
 - No visible printed page number.
-- Exact vertical printed caption:
-  - `“மூலன் பேடு அந்தனன் உமண்”...... என்ற தமிழ் எழுத்துக்களின் அந்நாளைய வரிவடிவம்,`
-  - `பூம்புகார் அகழ்வாராய்ச்சியில் கிடைத்த தாழி`
-- The quoted sequence and punctuation are preserved as printed; the inscription is not normalized or interpreted editorially.
+- Complete two-column text verified: Kovalan and Kannagi meet `கவுந்தியடிகள்`; Kovalan identifies Puhar and himself, and explains his fault.
+- Large lower-half three-figure line illustration is uncaptioned.
+- The page ends physically at `என் பத்தினியின்`; scan 64 continues `பாதம் பட்டுப்...`.
+- Source-specific forms/splits retained include `நிறைந்து தோற்ற மளிக்கும்`, `பூம்புகார்த் தில / நகரே`, `குணகடல் பவளமும்`, and `துணைநலம்`.
+
+### Scan 64 — continuation / close
+
+- Printed page **48** visibly present.
+- Complete continuation verified: கவுந்தியடிகள் joins the journey, describes hazards on the route, and the scene shifts to the delivery and reading of Madhavi's letter.
+- The left column ends physically at `உராய்ந்துவிட்டால்`; the right begins `அங்குள்ள பெரிய தேன்கூடுகள்...`.
+- Source forms retained include `பாகற்பழம்`, `நீர் நாயினுல்`, `தவறுன`, `நல்லவைகளா யிருக் / கட்டும்`, `பேரன்புடையவரே!...`, `தவறுள்`, and `பிழைக்காக`.
+- Small bottom-centre palm/tree illustration is uncaptioned.
+- Scan 65 begins scene 23.
+
+Verification used the controlling scan with 500-ppi enlarged renders and targeted contrast/sharpened crops for difficult readings. No wording was imported from the published English translation or another edition.
 
 ## Translation terminology lock
 
@@ -50,9 +51,8 @@ Detailed verification proceeds by one complete scene per activity where practica
 
 ## Forward structural mapping
 
-- Scan 63: begins `காட்சி-22`; setting `மதுரை செல்லும் வழி`; decorative title provisionally reads `மதுரைப் பயணம்`; complete text pending enlarged verification.
-- Scan 64: continues scene 22; printed page `48`; small uncaptioned palm/tree illustration.
-- Scan 65 directly begins `காட்சி-23`, so **காட்சி-22 spans scans 63–64**.
+- Scan 65: `காட்சி-23`; title `மாதவி துறவு`; setting `மாசாத்துவான் வீடு`; printed page `49`; one-scan scene; status `needs-review`.
+- Scan 66 directly begins `காட்சி-24`.
 
 ## Published English translation witness
 
@@ -60,4 +60,4 @@ The user-supplied published English volume remains a secondary future collation 
 
 ## Next work
 
-Process **காட்சி-22 across scans 63–64** as one complete scene. Verify the ornate title, all dialogue/stage directions, punctuation, physical splits and illustrations before promotion.
+Process **காட்சி-23 / scan 65** as one complete scene. Verify its full two-column text, speaker labels, punctuation, physical splits and lower illustration before promotion.
