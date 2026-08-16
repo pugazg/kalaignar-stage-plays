@@ -29,26 +29,27 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 
 ## Current verification checkpoint
 
-Scans **1–76 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-30**.
+Scans **1–77 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-31**.
 
-## Newly completed activity — காட்சி-30, scan 76
+## Newly completed activity — காட்சி-31, scan 77
 
 ### Scene identity / extent
 
-- `காட்சி-30`.
-- Decorative title verified as **`சிலம்போ சிலம்பு`**.
-- Setting: **`பொற்கொல்லர் நிலையம்`**.
-- Physical extent: scan **76 only**.
-- Scan 77 directly begins `காட்சி-31`.
+- `காட்சி-31`.
+- Decorative title verified as **`வளைந்தது செங்கோல்`**.
+- Initial setting: **`நெடுஞ்செழியன் பள்ளியறை`**.
+- Internal location heading: **`தாழ்வாரம்`**.
+- Physical extent: scan **77 only**.
+- Scan 78 directly begins `காட்சி-32`.
 
-### Scan 76 — `pages/0076.md`
+### Scan 77 — `pages/0077.md`
 
-- Printed page **60** visibly present at lower-left.
-- Complete two-column dialogue/stage text verified against the native 300 ppi controlling-source image and enlarged targeted crops.
-- Internal location heading `சாலை` retained in the left column.
-- Preserve source forms including `ம்...நீதி`, `முளைத்தா`, `பகற்`, `அதற்கென்றுள்`, `வணக்கம் அய்யா...`, `தருகிறேனய்யா`, `எனப்பா`, and `தானுகவே`.
-- Preserve physical splits including `புறப் / படுங்கள்`, `சிலம் / பாக`, `வரு / கிறாரே`, and `அழ / கான`.
-- Small lower-centre bow-and-arrow-like line illustration within/over a circular outline is uncaptioned and remains separate from literary text.
+- Printed page **61** visibly present at lower-right.
+- Complete two-column dialogue/stage text verified against native/enlarged controlling-source views and targeted crops.
+- Preserve source forms including `அவைக்க்களம்`, `திருடனையுந்தான்`, `மண்டிலத்துச்`, `அற்பச் சிலம்புக்காக`, `அற்பச் சிலம்பாகத்தானிருக்கும்`, and `கள்வனு?`.
+- Preserve physical splits including `பாண்டி / யன்`, `புறப்பட / வில்லை`, `போகி / றேனே`, `உங்களுக் / குப்`, `நேரமிருக் / குமே`, `தங்க / ளுக்கு`, `வணங்கு / கிறார்`, and `புறப் / படுதல்`.
+- The stage direction beginning `[என வேகமாகப் போகிறான்!` visibly has no closing square bracket before the next bracketed direction; the anomaly is preserved exactly rather than editorially repaired.
+- Small lower-centre ornate line illustration of a decorated object/headgear-like form on an oval base is uncaptioned and remains separate from literary text.
 - The supplied published English translation was not used to settle Tamil wording.
 
 ## Permanent future-translation terminology note
@@ -59,19 +60,18 @@ Do **not** automatically translate Kalaignar's `அந்தணர்` as “Bra
 
 Detailed verification proceeds by **one complete scene per activity where practical**, with one independent archival record per physical scan.
 
-## Forward mapped scene — காட்சி-31
+## Forward mapped scene — காட்சி-32
 
-### Scan 77 — `pages/0077.md`
+### Scans 78–79 — `pages/0078.md`, `pages/0079.md`
 
-- Begins `காட்சி-31`.
-- Decorative title visually confirmed as **`வளைந்தது செங்கோல்`**.
-- Initial setting visually confirmed as **`நெடுஞ்செழியன் பள்ளியறை`**.
-- Internal location heading **`தாழ்வாரம்`** visibly present in the right column.
-- Printed page **61** visibly present at lower-right.
-- Dense two-column dramatic text.
-- Small uncaptioned ornate line illustration resembling ceremonial headgear on an oval/base near the lower centre.
-- Scan **78 directly begins `காட்சி-32`**, so scene 31 is physically a one-scan scene.
-- Status: `needs-review`; complete literary text has not yet been transcribed/verified.
+- Scene begins on scan **78** and continues/closes on scan **79**.
+- Decorative title visually confirmed as **`மதுரை மண்ணில் கோவலன் குருதி`**.
+- Setting visually confirmed as **`வீதியிலுள்ள மண்டபம்`**.
+- Scan 78 visibly prints page **62** at lower-left.
+- Scan 79 has no securely visible printed page number; none is inferred.
+- Scan 79 carries a large uncaptioned dramatic line illustration of three human figures, one holding a tall spear/staff-like object.
+- Scan **80 directly begins `காட்சி-33`**, establishing scene 32's complete physical extent as scans **78–79**.
+- Both page records are `needs-review`; complete literary text has not yet been transcribed/verified.
 
 ## Published English translation witness
 
@@ -79,6 +79,6 @@ The supplied published English volume remains a secondary future collation witne
 
 ## Next activity
 
-Process **காட்சி-31 / scan 77** as one complete scene. Verify the complete two-column dialogue/stage text, speaker labels and abbreviations, punctuation/ellipses, physical splits, `தாழ்வாரம்` internal heading, printed page `61`, and uncaptioned lower illustration before marking it `verified`.
+Process **காட்சி-32 / scans 78–79** as one complete scene. Verify both scans' complete two-column dialogue/stage text, speaker labels and abbreviations, punctuation/ellipses, physical page/column splits, scan-78 printed page `62`, scan-79 absence of securely visible pagination, and the uncaptioned scan-79 illustration before marking both page records `verified`.
 
 Do not begin scene assembly or English translation yet.
