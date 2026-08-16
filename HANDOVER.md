@@ -29,47 +29,27 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 
 ## Current verification checkpoint
 
-Scans **1–85 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-35**.
+Scans **1–86 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-36**.
 
-## Newly completed activity — காட்சி-35, scans 82–85
+## Newly completed activity — காட்சி-36, scan 86
 
 ### Scene identity / extent
 
-- `காட்சி-35`.
-- Decorative title verified as **`வழக்குரை படலம்`**.
-- Setting: **`பாண்டியன் கொலு மண்டபம் (வெளியே)`**.
-- Physical extent: scans **82–85**.
-- Scan 86 directly begins `காட்சி-36`.
+- `காட்சி-36`.
+- Decorative title verified as **`தீயினில் திருநகர்`**.
+- Setting: **`தெருக்கள்`**.
+- Physical extent: scan **86 only**.
+- Scan 87 directly begins `காட்சி-37`.
 
-### Scan 82 — `pages/0082.md`
+### Scan 86 — `pages/0086.md`
 
-- Printed page **66** visibly present at lower-left.
-- Complete opening text verified against native/enlarged controlling-source views.
-- Preserve source forms including `காவியுக`, `கரிகாற் சோழனது`, `மாசாத்துவானின்`, `மன்னு!`, `கணவனு`, and the punctuation `அறிந்திடுக!.`.
-
-### Scan 83 — `pages/0083.md`
-
-- Complete continuation text verified; no printed page number is securely visible.
-- Preserve repeated questions and source forms including `நல்லான் வகுத்ததோ நீதி?`, `வல்லான் வகுத்ததே இங்கு நீதி!`, `கொற்றவனே!`, `குடைநிழலில் குஞ்சரம் ஊர்பவனே!`, `முடிவானேன்?`, and `நடைபெறுவானேன்?`.
-- Large lower-half dramatic line illustration is uncaptioned and remains separate from literary text.
-
-### Scan 84 — `pages/0084.md`
-
-- Complete continuation text verified; no printed page number is securely visible.
-- Preserve source forms/punctuation including `அவனி யெல்லாம்`, `ஆணையாகத்-தமிழ்மேல்`, `மெய்ப்பித்து என்ன பயன்?`, `மதுரைப் பாண்டியா!`, and `முத்துக்கள்! கொற்கை முத்துக்கள்!`.
-- Printed photograph/reproduction is retained separately from dialogue with character-by-character verified caption:
-  - `“பூம்புகார்” அகழ்வாராய்ச்சியில்`
-  - `கண்ட படகுத்துறை`
-
-### Scan 85 — `pages/0085.md`
-
-- Complete scene close verified; no printed page number is securely visible.
-- Preserve source forms including `மாணிக்கமிழைத்த`, `மாசு படரவும் மாநிலம் இகழவும்`, `இமிழ் கடல் வேலித் தமிழகம் மெங்கும்`, and `நன்றுக அழு!`.
-- Preserve the source's distinct quoted orders in the king's confession: `“கொன்று வருக அவனை!”` followed by `“கொன்று வருக அவன்”`.
-- Small lower-centre burst/fragment-like line illustration is uncaptioned and remains separate from literary text.
-- Scan 86 begins the next numbered scene.
-
-The supplied published English translation was not used to settle Tamil wording.
+- Complete sparse two-column dialogue/stage text verified against native/enlarged controlling-source views and targeted crops.
+- No printed page number is securely visible; none is inferred.
+- The printed `★` separator is retained as part of source typography.
+- Preserve physical splits including `இடிபாடு / களில்`, `அழி / கிறான்`, `கோவ / லரைக்`, `கதறுங் / கள்`, `பழிக் / குப்`, and `அழி / வதை`.
+- Preserve source forms/punctuation including `என்னுள் அன்றே`, `தணலாகிறார்!`, `வாய்மூடிக் கிடந்த கூடல் நகரத்தாரே!`, `கனலே கிளம்பு....!`, the repeated `பழிக்குப் பழி!`, and the unusual `விரும்பினர்கள்`.
+- Two lower photographic/reproduction images have no securely visible separate printed caption; they remain separate visual layers without invented identities.
+- The supplied published English translation was not used to settle Tamil wording.
 
 ## Permanent future-translation terminology note
 
@@ -79,17 +59,18 @@ Do **not** automatically translate Kalaignar's `அந்தணர்` as “Bra
 
 Detailed verification proceeds by **one complete scene per activity where practical**, with one independent archival record per physical scan.
 
-## Forward mapped scene — காட்சி-36
+## Forward mapped scene — காட்சி-37
 
-### Scan 86 — `pages/0086.md`
+### Scan 87 — `pages/0087.md`
 
-- Begins `காட்சி-36`.
-- Decorative title visually confirmed as **`தீயினில் திருநகர்`**.
-- Setting visually confirmed as **`தெருக்கள்`**.
+- Begins `காட்சி-37`.
+- Decorative title visually confirmed as **`வடபுலப் படையெடுப்பு`**.
+- Setting visually confirmed as **`சேரன் செங்குட்டுவன் அவை`**.
+- Dense two-column dramatic text.
+- The decorative heading includes weapon/shield motifs; they are title artwork, not literary dialogue.
 - No printed page number is securely visible; none is inferred.
-- Dramatic text is arranged in two relatively sparse columns.
-- Two printed photographic/reproduction images occupy the lower portion; no separate printed caption is securely visible, so no caption or unsupported identity is supplied.
-- Scan **87 directly begins `காட்சி-37`**, so scene 36 is physically a one-scan scene.
+- No separate lower illustration or printed caption layer is visible.
+- Scan **88 directly begins `காட்சி-38`**, so scene 37 is physically a one-scan scene.
 - Status: `needs-review`; complete literary text has not yet been transcribed/verified.
 
 ## Published English translation witness
@@ -98,6 +79,6 @@ The supplied published English volume remains a secondary future collation witne
 
 ## Next activity
 
-Process **காட்சி-36 / scan 86** as one complete scene. Verify the complete dialogue/stage text, speaker labels and abbreviations, punctuation/ellipses, physical splits, pagination behaviour and both lower photographic/reproduction images before marking it `verified`.
+Process **காட்சி-37 / scan 87** as one complete scene. Verify the complete two-column dialogue/stage text, speaker labels and abbreviations, punctuation/ellipses, physical splits, pagination behaviour, decorative title artwork and scan-88 boundary before marking it `verified`.
 
 Do not begin scene assembly or English translation yet.
