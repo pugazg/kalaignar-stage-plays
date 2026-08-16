@@ -8,7 +8,7 @@ Immediate source: `../../scenes/NN.md`.
 
 If a Tamil reading needs checking, return to the verified `../../pages/NNNN.md` record and controlling Tamil scan. A published English edition, if later consulted, is a secondary comparison witness only.
 
-Mandatory translation controls:
+Mandatory controls:
 
 - `../../TRANSLATION_GUIDE.md`
 - `../../TRANSLATION_TERMINOLOGY.md`
@@ -19,34 +19,35 @@ The English must retain Kalaignar's cadence, repetition, imagery, wit, emotional
 ## Current status
 
 - Tamil archival/assembly/global-review gates: **complete / PASS**.
-- Scenes **1–8**: translated / `translation-reviewed` / PASS.
-- English progress: **8 / 38 numbered scenes**.
-- No published English witness has been used for scenes 1–8.
-- Two-register pilot (1–2): PASS.
+- Scenes **1–11**: translated / `translation-reviewed` / PASS.
+- English progress: **11 / 38 numbered scenes**.
+- No published English witness has been used for scenes 1–11.
+- Pilot scenes 1–2: PASS.
 - Controlled batch 3–5: PASS.
 - Controlled batch 6–8: PASS.
+- Controlled batch 9–11: PASS.
 
-## Scene 6–8 findings
+## Scene 9–11 findings
 
-- **Scene 6 — `பூம்புகார்ப் பொற்றொடி`**: preserves Puhar's maritime cosmopolitanism, Kalaignar's `ancient Tamil named Indran` framing, Tamil-land/Tamilakam distinction, explicit Tamil/other-language love metaphor, and Muthamizh wordplay.
-- **Scene 7 — `கலைக்கரசி மாதவி`**: preserves dance/performance vocabulary, `swayamvaram`, `kalanju`, the transaction-versus-worthiness reversal, Madhavi/Vasanthamalai's resistance, and Kovalan's assertion of `Tamilakam's worth`.
-- **Scene 8 — `கண்ணகி இல்லறம்`**: preserves marital lyricism and family humour; the quote containing `பார்ப்பார்` passed mandatory terminology review. In this occurrence `பார்ப்பார்` is rendered `venerable ritual officiants`, **not `Brahmin`**, because the clause defines the role through `மறைவழி` and `தீவலம்`.
-
-The scene-8 decision is occurrence-specific; future `பார்ப்பார்` occurrences still require contextual review.
+- **Scene 9 — `பிரிவினை தந்த பேதை`**: preserves `oodal`, the Kural-linked love register, Rome/pearl trade, `தமிழர் வளம்`, repeated Tamil-language metaphors, separation paradoxes, and Kannagi's active decision to send Kovalan to explain matters to Madhavi. The verified source `உன் நூல்தான் எல்லாம்...` remains an acknowledged lexical ambiguity and is not silently corrected.
+- **Scene 10 — `கலையரசி கண்ட உவகை`**: preserves the exact repeated dance cadence `She dances. / She dances. / She goes on dancing.`, `THADAAL!`, the art/sorrow argument, Tamilakam imagery, Madhavi's repeated renunciation of wealth/fame, and inherited social stigma in `மயக்குகின்ற மாதர் வழி வந்தவள்`.
+- **Scene 11 — `கற்பரசியின் கலக்கம்`**: preserves the intentionally unlabelled `Why ...what happened?`, Devandhi's colloquial humour, the double-meaning cue, the Sita/Rama/Surpanakha comparison, and Kannagi's refusal to insult Madhavi.
 
 ## Permanent terminology discipline
 
-Do **not** collapse `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன்` into one English label. `அந்தணர்` remains explicitly **not automatically `Brahmin`**.
+Do **not** collapse `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன்` into one English label. `அந்தணர்` remains explicitly **not automatically `Brahmin`**; scene 8's `பார்ப்பார்` decision remains occurrence-specific.
 
-## Exact next controlled batch — scenes 9–11
+Other active decisions now include `oodal`, `anguish of separation` for scene-10 `விரகதாபம்`, and contextual treatment of inherited social-status language rather than harsher modernization.
+
+## Exact next controlled batch — scenes 12–14
 
 Translate and review independently:
 
-- `09.md` — `பிரிவினை தந்த பேதை`: separation, `ஊடல்`, Rome trade, Tamil wealth/language imagery, and the transition toward Madhavi;
-- `10.md` — `கலையரசி கண்ட உவகை`: Madhavi's dance as emotional speech, repeated `ஆடுகிறாள்.`, artistic despair, love and social stigma;
-- `11.md` — `கற்பரசியின் கலக்கம்`: Kannagi's concealment, Devandhi's epic comparison, and Kannagi's refusal to insult Madhavi.
+- `12.md` — `இன்ப வாழ்வில் கோவலன்`, setting `மாதவி வீடு`;
+- `13.md` — `துன்பப் புயலில் கண்ணகி`, setting `கண்ணகி வீடு`;
+- `14.md` — `மாதவியின் மாண்பு`, setting `காவிரி ஆற்றோரம்`.
 
-Each scene requires its own `NN_REVIEW.md` and PASS before the batch is complete.
+The next batch should preserve the deliberate contrast between Kovalan's pleasurable life, Kannagi's storm of suffering, and Kalaignar's framing of Madhavi's moral stature. Each scene requires its own `NN_REVIEW.md` and PASS.
 
 ## File convention
 
