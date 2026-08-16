@@ -19,22 +19,35 @@ A scene may be marked `translation-reviewed` only after:
 | Scene | Tamil title | English status | Review | Secondary English witness | Dravidian-context note | Notes |
 |---:|---|---|---|---|---|---|
 | 1 | `வஞ்சி மூதூரில் முரசறைதல்` | `translation-reviewed` | PASS | No | Yes | Pilot accepted; proclamation cadence, repetition, Tamilakam/homeland terminology and source/interpretation separation passed. |
-| 2 | `செங்குட்டுவன் பிறந்தநாள் விழா` | not started | pending | — | pending | Exact next translation activity. |
-| 3–38 | — | not started | pending | — | pending | Proceed only under accepted protocol. |
+| 2 | `செங்குட்டுவன் பிறந்தநாள் விழா` | `translation-reviewed` | PASS | No | Yes | Second single-scene test passed; family intimacy, humour, erotic metaphor, kinship register and rationalist scepticism retained. See `02_REVIEW.md`. |
+| 3–5 | — | not started | pending | — | pending | Exact next controlled translation batch. Each scene requires its own review. |
+| 6–38 | — | not started | pending | — | pending | Proceed only under accepted protocol and batch review discipline. |
 | closing tableau | `கண்ணகி சிலை நாட்டு விழா` | not started | pending | — | pending | Preserve scan-88 obstruction in Tamil provenance; translation handling to be decided only when reached. |
 
-## Pilot decisions now controlling
+## Accepted conventions now controlling
 
 Unless later scene evidence requires an explicitly documented revision:
 
 - retain `Tamilakam` rather than modernizing it to `Tamil Nadu`;
-- preserve slogans and public-oratory repetition;
+- preserve slogans, repetitions, direct address and public-oratory rhythm;
 - retain historical dynastic identity (`Chera`, `Senguttuvan`, `Nedun Cheralathan`);
 - use `drum-announcer` for scene-1 `முரசறைவோன்`;
 - use `bow-banner` for `விற்கொடி`;
+- preserve rhetorical pairings such as scene-2 `festive array` / `battle array`;
+- retain metaphor without over-explaining it, as in scene-2 lips-as-`medicine`;
+- use `soothsayer` for `நிமித்திகன்` provisionally, with scene-3 consistency review;
 - keep movement-context commentary outside translated dialogue;
 - do not automatically translate `அந்தணர்` as `Brahmin`.
 
 ## Scale-up rule
 
-Scene 1 is accepted as the translation pilot. Scene 2 should be translated next as a single-scene follow-up before the project switches to larger batches. This provides one additional test of intimate dialogue, humour and family register, rather than scaling immediately from a public proclamation alone.
+The two-register pilot stage is complete:
+
+- Scene 1 tested proclamation, slogans and Tamil historical-political rhetoric.
+- Scene 2 tested intimate dialogue, humour, affection, kinship language and explicit scepticism toward divination.
+
+**Both passed.**
+
+The project may now translate its first controlled batch: **காட்சி-3 through காட்சி-5**.
+
+Each scene must still be translated and reviewed individually inside the batch. Scene 3 requires special care because Kalaignar makes the conflict between `விதி` and human reason/agency explicit; scene 4 intensifies that argument through renunciation and sacrifice; scene 5 shifts into the framing of the Kannagi epic and Tamil historical-cultural memory.
