@@ -2,84 +2,72 @@
 
 Archive slug: `silappathikaram-nataka-kappiyam`
 
-The supplied scan is the controlling source. The PDF itself is not committed.
+The supplied Tamil scan is the controlling source. The PDF itself is not committed.
 
 ## Processing status
 
 - Scan length: **88 pages**.
 - Scans **1–88 are visually verified**.
-- Detailed dramatic-body verification covers **காட்சி-1 through காட்சி-38**.
-- The post-scene closing tableau on scan **88** has also been inspected and archived.
-- Tamil page-level visual verification: **complete for the supplied source**.
-- Repository-wide Tamil transcription completion audit: **complete / PASS** — see `audit.md`.
-- Scene-assembly readiness plan: **complete** — see `SCENE_ASSEMBLY_PLAN.md`.
-- Visual text fidelity protocol: **defined and mandatory for every assembled scene** — see `VISUAL_TEXT_FIDELITY_CHECK.md`.
+- Page-level verification covers **காட்சி-1 through காட்சி-38** plus the scan-88 closing tableau.
+- Tamil transcription completion audit: **PASS**.
+- Scene-assembly readiness plan: complete — see `SCENE_ASSEMBLY_PLAN.md`.
+- Direct visual-text fidelity protocol: mandatory — see `VISUAL_TEXT_FIDELITY_CHECK.md`.
 - Scene assembly: **active**.
-- `காட்சி-1` through `காட்சி-9`: **assembly-reviewed**, `visual_text_fidelity: passed`.
-- **9 of 38 numbered scenes are now assembly-reviewed.**
+- `காட்சி-1` through `காட்சி-10`: **assembly-reviewed**, `visual_text_fidelity: passed`.
+- **10 of 38 numbered scenes are now assembly-reviewed.**
 - English translation: **not started** and remains locked through assembly/global Tamil review unless the user explicitly changes phase.
 
-## Audit result
+## Source and assembly rules
 
-The completion audit confirms continuous page-record coverage `pages/0001.md` through `pages/0088.md`, all physical scans represented, verified scene extents for `காட்சி-1` through `காட்சி-38`, and known pagination anomalies, visual/caption layers and library/accession obstructions documented.
+Verified `pages/NNNN.md` records are the immediate construction source, but the actual Tamil scan controls the fidelity gate. Do not silently modernize, normalize, repair, reconstruct or improve Kalaignar's text. Preserve source-supported spelling, punctuation, spacing, repetitions, speaker labels, stage directions and unusual forms. Join only demonstrably mechanical line/column/page wrapping. Keep illustrations, photographs, printed captions, page numbers, stamps and handwriting separate from the dramatic literary layer.
 
-The assembly manifest and rules are recorded in `SCENE_ASSEMBLY_PLAN.md`. Scene assembly creates `scenes/01.md` through `scenes/38.md`, plus separate `scenes/closing-tableau.md` for the post-scene scan-88 material.
+A verified page record may be changed only when direct source-pixel inspection proves the existing reading wrong, and the correction must be documented.
 
-## Visual text fidelity rule
+## Assembly checkpoint
 
-Scene assembly is a derivative text layer and therefore receives a second direct source-pixel check. A scene cannot become `assembly-reviewed` until every source-supported character/textual layer and every mechanical join have been rechecked directly against the contributing scan(s), visual/non-literary layers remain separated correctly, and the scene is compared again against all verified page records.
+Completed scene files: `scenes/01.md` through `scenes/10.md`.
 
-## Completed assemblies
+Recent source-pixel corrections during the mandatory second-pass fidelity review include:
 
-- `காட்சி-1 / scan 17` — `வஞ்சி மூதூரில் முரசறைதல்`, `setting: null`.
-- `காட்சி-2 / scan 18` — `செங்குட்டுவன் பிறந்தநாள் விழா`, setting `வஞ்சி`; source review corrected `தனி மாடத்தைவிட்டு` → `தனி மாடத்தை விட்டு`.
-- `காட்சி-3 / scans 19–20` — `விழாவும் வினாவும்`, setting `சேரன் அரண்மனை`; direct review corrected source-supported ellipsis counts and one assembly-only spacing collapse.
-- `காட்சி-4 / scans 21–23` — `இளங்கோ துறவு`, setting `சேரலாதன் மாளிகை`; source review corrected `தங்கப்போகிறேன்!` → `தங்கப் போகிறேன்!` and seven-dot `வருகிறேன்.......` → six-dot `வருகிறேன்......`.
-- `காட்சி-5 / scans 24–25` — `சிலம்பின் தோற்றம்`, setting `சேரநாடு`; source review corrected `கண்ணகி....!` → `கண்ணகி...!`; anomalous printed scan-25 page `2` remains source provenance.
-- `காட்சி-6 / scans 26–28` — `பூம்புகார்ப் பொற்றொடி`, `setting: null`; source review corrected `[சாத்தனூரின் குரல் தொடர்கிறது]` → `[சாத்தனரின் குரல் தொடர்கிறது]`.
-- `காட்சி-7 / scans 29–32` — `கலைக்கரசி மாதவி`, setting `முத்துப் பந்தல்`; visual fidelity passed with no page-record correction. Scan 30 is a pictorial/caption-only physical page.
-- `காட்சி-8 / scans 33–35` — `கண்ணகி இல்லறம்`, setting `கோவலன் வீடு:—பள்ளியறை`; visual fidelity passed with no page-record correction. One assembly-only `மகன்! ...என்` spacing issue was corrected to source-faithful `மகன்!...என்`.
+- scene 8: no page-record wording correction; assembly-only `மகன்! ...என்` restored to source-faithful `மகன்!...என்`;
+- scene 9 / scan 37: `உன் மறந்தாலன்றோ` → `உனை மறந்தாலன்றோ`; `என்ன எடுத்துப்` → `என்னை எடுத்துப்`;
+- scene 10 / scan 40: `உண்மைதானே?...` → source-visible **`உண்மைதானே?..`**.
 
-### காட்சி-9
+## Latest completed assembly — காட்சி-10
 
-`scenes/09.md` assembles scans 36–38.
+`scenes/10.md` assembles scans **39–41**.
 
-- Title: `பிரிவினை தந்த பேதை`.
-- Exact setting: `கண்ணகி.கோவலன்—கட்டில் அறை`.
+- Title: `கலையரசி கண்ட உவகை`.
+- Setting: `மாதவி இல்லம்`.
+- Internal heading: `தெரு`.
 - Status: `assembly-reviewed`; visual text fidelity: `passed`.
-- Actual scans 36–38 were inspected directly at high resolution, including scan 36's ornate heading/setting and two-line quotation, both physical page boundaries, scan 37's split left/right textual blocks around its photograph, scan 37's printed caption, and scan 38's bracketed left-column direction continuing at the top of the right column.
-- Scan 36's quotation remains exactly source-derived: `“பெய்யெனப் பெய்யும் மழையே! / கொழுநனைத் தொழுதெழும் நேரிழையே!”`.
-- Direct scan-37 pixels corrected two earlier verified readings in `pages/0037.md`: `உன் மறந்தாலன்றோ` → `உனை மறந்தாலன்றோ`, and `என்ன எடுத்துப்` → `என்னை எடுத்துப்`.
-- No wording correction was required in `pages/0036.md` or `pages/0038.md`.
-- The scan-37 reading order is preserved across the photograph: the left-column speech `...உன் கொய்யா இதழ் நினைத்து உறங்குவேன்.` continues below the photograph with unlabelled `கனவுக் கற்பனையில் உன் எழிலே உண்ணுவேன்.` before the assembly proceeds to the right-column dialogue.
-- Protected source forms/punctuation include `அப்படியென்றுல்?...`, `ஊடல் என்றுல்`, `தில சிறந்தது`, `இது ஒன்றும் ஊடல் இல்ல;`, `வெளிநாட்டுக்கா?.`, `கத்து கடல் கிழிச்`, `உனை மறந்தாலன்றோ`, `முடவனுயிருப்பேன்.`, `செல்வ!`, `கொல்லாமற் கொல்லாதீர் கண்ணுளா!...`, `மெய்தானு`, `கிணை தொடுத்தாலும்`, `என் வெறுக்கிறீர்`, `ஏற்படும் அல்லவா?....`, and `உன் நூல்தான் எல்லாம்...`.
-- Visual layers remain separate: scan 36's uncaptioned ornamental oil-lamp/interior illustration; scan 37's photograph with printed caption `(சம்பாபதி கோயில் — பூம்புகார்)`; scan 38's uncaptioned sculptural photograph.
-- Pagination provenance: scans 36–37 none visible; scan 38 prints `22`.
-- Scan 38 closes `காட்சி-9`; scan 39 directly begins `காட்சி-10`.
+- Scan 39 opens the scene. The later circular library/accession stamp overlapping the decorative heading remains excluded from publication text. The large lower-right man/woman illustration is uncaptioned and remains a separate visual layer.
+- Scan 39's long bracketed reception sequence closes with `பெண்கள் எப்படியோ ஒவ்வொருவராக அதை விட்டு நீங்கி விடுகின்றனர்.]`.
+- Scan 40 begins new stage prose `நடனங்களில் கோவலன் மயங்கி அமர்ந்திருக்கிறான்.` and contains the final dialogue/stage text. Printed page `24` is visible.
+- Source-specific forms/punctuation retained include repeated `ஆடுகிறாள்.`, `அது வும்`, `“தடால்!”`, `கலை பெண்ணும் அலை`, `மண்ணுளும்`, `கண்ணுளன்`, `அடிச் சுவட்டை!`, `கண்ணு!`, and corrected `உண்மைதானே?..`.
+- Scan 40 carries a small uncaptioned ornamental/conch-like illustration near the lower centre.
+- Scan 41 is a **pictorial-only physical scan** associated with scene 10: no literary text, no printed caption and no visible pagination. Its full-page standing sculptural female figure photograph/reproduction remains explicit source provenance and no identity is inferred.
+- Scan 42 directly begins `காட்சி-11`, so scene 10 physically spans scans 39–41 even though literary text ends on scan 40.
 
 ## Final verified source scene — காட்சி-38
 
-`காட்சி-38` is physically a one-scan scene on scan 88, the final supplied scan. The separate post-scene `வஞ்சிமூதூரில் / கண்ணகி சிலை நாட்டு விழா` tableau remains distinct from scene 38. Scan 88's later library/accession stamp obscures leading characters of two tableau lines; those positions remain explicitly unresolved and must not be reconstructed.
+`காட்சி-38` is physically a one-scan scene on scan 88. The separate post-scene `வஞ்சிமூதூரில் / கண்ணகி சிலை நாட்டு விழா` tableau remains distinct. A later library/accession stamp obscures leading characters of two tableau lines; those positions remain unresolved and must not be reconstructed without new source evidence.
 
 ## Translation terminology lock
 
-Kalaignar's `அந்தணர்` must **not** be automatically equated with or translated as “Brahmin.” Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and other source terms. English renderings will be decided only during dedicated terminology review. When translation eventually begins, it must retain Kalaignar's rhetoric, cadence, repetition and dramatic voice; the published English volume remains only a secondary comparison witness.
-
-## Assembly rule
-
-Assembly is a derivative archival layer. Verified page records control construction, while the actual scan controls the mandatory visual-text fidelity gate. Mechanical line/column/page wrapping may be joined only when source wording/punctuation are unchanged. Repetition, source-supported spacing, unusual forms, stage directions and genuine anomalies remain. Visual material stays in separate source-layer notes. Every multi-scan scene retains scan provenance.
+Kalaignar's `அந்தணர்` must **not** automatically be translated as “Brahmin.” Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and related source-specific terms. When translation eventually begins, retain Kalaignar's rhetoric, cadence, repetition and dramatic voice. The published English edition remains a secondary witness only.
 
 ## Exact next work
 
-Process **காட்சி-10 / scans 39–41 — `கலையரசி கண்ட உவகை`, setting `மாதவி இல்லம்`** as the next complete combined scene-assembly + visual-text fidelity activity.
+Process **காட்சி-11 / scan 42 — `கற்பரசியின் கலக்கம்`, setting `கண்ணகி வீடு`** as the next complete scene-assembly + visual-text-fidelity activity.
 
-- Inputs: verified `pages/0039.md`, `pages/0040.md`, and `pages/0041.md`.
-- Output: `scenes/10.md`, initially `draft` / `visual_text_fidelity: pending`.
-- Scan 39 opens the scene and contains an internal `தெரு` heading; a later circular library/accession stamp overlaps the decorative heading and must remain separate from publication text.
-- Scan 40 contains the final dramatic dialogue/stage text and visibly prints page `24`; preserve repeated `ஆடுகிறாள்.`, `அது வும்`, `“தடால்!”`, `கலை பெண்ணும் அலை`, `மண்ணுளும்`, `கண்ணுளன்`, and `கண்ணு!` exactly as printed.
-- Scan 40 has a small uncaptioned ornamental/conch-like illustration near the lower centre.
-- Scan 41 is a **pictorial-only physical scan** associated with scene 10: no literary text, no printed caption, no visible pagination. Its full-page sculptural photograph/reproduction must remain a separate visual layer and must not be omitted from scene provenance.
-- Scan 42 begins `காட்சி-11`; therefore scene 10 physically spans scans 39–41 even though literary text ends on scan 40.
-- Inspect actual scans 39–41 at native/enlarged resolution, verify the scan-39 → scan-40 literary boundary and scan-40 → scan-41 pictorial boundary, every column transition, and compare the assembled scene against source pixels plus all three verified page records before promotion.
+- Input: verified `pages/0042.md`.
+- Output: `scenes/11.md`, initially `draft` / `visual_text_fidelity: pending`.
+- Scan 42 is both the opening and closing physical scan of scene 11; scan 43 directly begins `காட்சி-12`.
+- Preserve printed page `26`.
+- Preserve the right-column continuation without inventing a speaker label: after the left-column stage direction, the right column begins `ஏன் ......என்ன நடந்தது ?`.
+- Preserve source punctuation/forms such as `அவர் எங்கே ?`, `ஆ !...`, `ஒன்றுமில்ல தேவந்தி!......`, `அவர் எங்கே, உன் புருஷன் ?...`, `ஓகோ ...`, `ஆள்மேலே ஆள் விட்டாளே;`, `(இருபொருளில்)`, and `அவமானப்பட்டாளே; ஏன்?....`.
+- Keep the small uncaptioned moon/cloud-like lower-centre illustration separate from literary text.
+- Inspect actual scan 42 at native/enlarged resolution and compare the complete assembly character-by-character against source pixels and `pages/0042.md` before promotion.
 
 Do not begin English translation.
