@@ -53,8 +53,10 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 47 | 31 | scene 14 | continuation | verified | Complete two-column continuation verified; source distinguishes `பிராமண மாது` / `பிராமணமாது` / `பார்ப்பனமாது` from male label `அந்தணர் ;`; small lower-centre illustration uncaptioned. |
 | 48 | 32 | scene 14 | continuation / close | verified | Complete continuation/advice dialogue verified; source continues male label as `அந்த` and prints `அந்தணனுக்கும்`; small figure illustration uncaptioned; scan 49 begins scene 15. |
 | 49 | — | scene 15 | scene opening / close | verified | `காட்சி-15`; enlarged title verified as source form `மனமாறிந்த கோவலன்`; setting `கண்ணகி வீடு`; complete stage prose/Kannagi speech verified; lower-right sculptural photograph/reproduction uncaptioned; scan 50 begins scene 16. |
-| 50 | — | scene 16 | scene opening / close | needs-review | `காட்சி-16`; title provisionally read `மணிமேகலை பிறப்பு`; setting `மாதவி வீடு`; large lower illustration of two women with infant; scan 51 begins scene 17. |
-| 51–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. No pagination or scene boundaries are inferred here. |
+| 50 | — | scene 16 | scene opening / close | verified | `காட்சி-16`; enlarged title verified as `மணிமேகலை பிறப்பு`; setting `மாதவி வீடு`; complete naming/celebration and elephant-episode text verified; source prints `நன்னி / ராட்டு`, `குறளியும்`, and `மறையவனைப்`; large lower illustration uncaptioned; scan 51 begins scene 17. |
+| 51 | — | scene 17 | scene opening | needs-review | `காட்சி-17`; setting `கண்ணகி வீடு`; decorative title and complete upper-page dramatic text pending enlargement; lower archaeological/excavation photograph has a printed caption requiring exact verification. |
+| 52 | — | scene 17 | pictorial / final physical scan | needs-review | Full-page sculptural photograph/reproduction; no new scene heading; scan 53 begins scene 18. |
+| 53–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. No pagination or scene boundaries are inferred here. |
 | 88 | — | dramatic body | scene | not-started | `காட்சி-38` visibly present on final supplied scan. |
 
 ## Expansion rule
@@ -71,10 +73,10 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–49 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-15**.
+Scans **1–50 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-16**.
 
-Scan **50** is individually structurally mapped at `needs-review`. Forward inspection shows it is a one-scan `காட்சி-16`, because scan **51** directly begins `காட்சி-17`.
+Scans **51–52** are individually structurally mapped at `needs-review`. Forward inspection establishes that **காட்சி-17 spans scans 51–52**, because scan **53** directly begins `காட்சி-18`.
 
-A future-translation terminology lock is recorded in `metadata/english-translation-source.md`: Kalaignar's `அந்தணர்` must not be automatically flattened to “Brahmin”; source distinctions among `பிராமண`, `பார்ப்பன`, and `அந்தணர்` must be preserved.
+A future-translation terminology lock is recorded in `metadata/english-translation-source.md`: Kalaignar's `அந்தணர்` must not be automatically flattened to “Brahmin”; source distinctions among `பிராமண`, `பார்ப்பன`, and `அந்தணர்` must be preserved. Scene 16 additionally preserves the distinct source term `மறையவனைப்` without editorial substitution.
 
-Detailed verification continues by **complete scene where practical**, while retaining one source record per physical scan. Next: **காட்சி-16 on scan 50**.
+Detailed verification continues by **complete scene where practical**, while retaining one source record per physical scan. Next: **காட்சி-17 across scans 51–52**.
