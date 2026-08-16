@@ -23,8 +23,8 @@ Before continuing read completely:
 9. `translations/en/README.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
 11. `translations/en/PILOT_REVIEW.md`
-12. `translations/en/02_REVIEW.md` through `translations/en/11_REVIEW.md`
-13. completed English `translations/en/01.md` through `translations/en/11.md`
+12. `translations/en/02_REVIEW.md` through `translations/en/14_REVIEW.md`
+13. completed English `translations/en/01.md` through `translations/en/14.md`
 14. the verified Tamil scenes currently being translated.
 
 ## Permanent Tamil-source rules
@@ -48,16 +48,17 @@ Do not redo Tamil scene assembly during translation.
 
 Completed and individually reviewed:
 
-- scenes **1–11**: **PASS / `translation-reviewed`**.
-- English progress: **11/38 numbered scenes**.
-- no published English witness used for scenes 1–11.
+- scenes **1–14**: **PASS / `translation-reviewed`**.
+- English progress: **14/38 numbered scenes**.
+- no published English witness used for scenes 1–14.
 
 Completed translation stages:
 
-- scenes 1–2: pilot — PASS;
+- scenes 1–2: two-register pilot — PASS;
 - scenes 3–5: controlled batch — PASS;
 - scenes 6–8: controlled batch — PASS;
-- scenes 9–11: controlled batch — PASS.
+- scenes 9–11: controlled batch — PASS;
+- scenes 12–14: controlled batch — PASS.
 
 ## Kalaignar-language / Dravidian-movement relation rule
 
@@ -67,29 +68,40 @@ Relate Dravidian movement concepts only when source wording or Kalaignar's drama
 
 **Do not insert those concepts into translated dialogue if the Tamil does not state them.** Use a separately labelled `Dravidian movement resonance — interpretive note` when useful.
 
-Scene 9 entwines Tamil language, intimate love and Tamil economic worth. Scene 10 sets Madhavi's artistic achievement against inherited social stigma and presents art as a public cultural good. Scene 11 requires restraint: Kannagi's refusal to insult Madhavi supports a dignity-centred reading without turning the scene into a later ideological speech.
+Latest accepted patterns:
+
+- scene 12: erotic and literary praise culminates in explicit glory to Tamil;
+- scene 13: `தமிழர் வழக்கப்படி` and Tamil collective praise are preserved alongside Kannagi's refusal to demean Madhavi;
+- scene 14: practical ethical responsibility is argued against abstract expiation, `தமிழ் மறை` is invoked as Tamil sacred lore, and Madhavi insists that moral preaching be applied to one's own conduct.
 
 ## Permanent terminology lock
 
-`அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன்`, and related terms through contextual terminology review.
+`அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவர்`, and related terms through contextual terminology review.
 
-Scene 8's `பார்ப்பார்` → `venerable ritual officiants` remains occurrence-specific, not a universal rule.
+Scene 14 establishes a particularly important source-supported distinction:
 
-New scene-9–11 decisions include:
+- explicit `பிராமண மாது / பிராமணமாது` → `Brahmin woman`;
+- `பார்ப்பனமாது` → `paarppana woman` in that stage direction;
+- `அந்தணர் / அந்தணன்` → **`Antanar`**, not `Brahmin`;
+- `மறையவர்` → `man of sacred lore`;
+- `தமிழ் மறை` → `Tamil sacred lore`.
 
-- `ஊடல்` → retain `oodal` at first use;
-- `விரகதாபம்` → `anguish of separation` in scene 10;
-- inherited `மயக்குகின்ற மாதர்` language is translated contextually without replacing it by a harsher modern category;
-- `உன் நூல்தான் எல்லாம்...` remains an explicitly documented scene-9 ambiguity rather than a silently corrected Tamil reading.
+Do not generalize these as dictionary equations outside their contexts; preserve Kalaignar's lexical differences.
 
 The published English edition, if later consulted, is a secondary comparison witness only.
 
-## Exact next activity — controlled batch scenes 12–14
+## Exact next activity — controlled batch scenes 15–17
 
 Translate and individually review:
 
-- Scene 12 — `இன்ப வாழ்வில் கோவலன்`, setting `மாதவி வீடு`;
-- Scene 13 — `துன்பப் புயலில் கண்ணகி`, setting `கண்ணகி வீடு`;
-- Scene 14 — `மாதவியின் மாண்பு`, setting `காவிரி ஆற்றோரம்`.
+- Scene 15 — `மனமாறிந்த கோவலன்`, setting `கண்ணகி வீடு`;
+- Scene 16 — `மணிமேகலை பிறப்பு`, setting `மாதவி வீடு`;
+- Scene 17 — `மாசறு பொன்மகிழ்வு`, setting `கண்ணகி வீடு`.
 
-Preserve the deliberate emotional contrast between Kovalan's pleasurable life, Kannagi's suffering and Madhavi's moral stature. Each scene requires its own review and PASS before the batch is complete.
+Special attention:
+
+- scene 15: diminished household, Kannagi's solitude/memory, Kovalan's changed heart, repentance and reconciliation; preserve the long visual-memory stage prose and source roughness;
+- scene 16: naming/birth celebration, song, humour and social/religious vocabulary; any caste/ritual terms must receive occurrence-level review;
+- scene 17: Devandhi's report of Kovalan's public act, Kannagi's renewed joy, and the continuing emotional/moral relationship among Kannagi, Kovalan and Madhavi.
+
+Each scene must independently pass line-by-line coverage, semantic fidelity, Kalaignar voice, terminology, stage timing and Dravidian-context separation.
