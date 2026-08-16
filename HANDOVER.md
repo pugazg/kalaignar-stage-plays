@@ -20,6 +20,7 @@ Before continuing Silappathikaram, read completely:
 10. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PILOT_REVIEW.md`
 11. `works/silappathikaram-nataka-kappiyam/scenes/01.md`
 12. `works/silappathikaram-nataka-kappiyam/scenes/02.md`
+13. `works/silappathikaram-nataka-kappiyam/scenes/03.md`
 
 ## Permanent source rules
 
@@ -43,28 +44,31 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 - Scene-assembly readiness plan: complete.
 - Mandatory direct visual-text fidelity protocol: active.
 - Scene assembly: **started**.
-- `காட்சி-1 / scan 17`: `scenes/01.md` is **assembly-reviewed**, `visual_text_fidelity: "passed"`.
-- `காட்சி-2 / scan 18`: `scenes/02.md` is **assembly-reviewed**, `visual_text_fidelity: "passed"`.
+- `காட்சி-1 / scan 17`: `scenes/01.md` — **assembly-reviewed**, `visual_text_fidelity: "passed"`.
+- `காட்சி-2 / scan 18`: `scenes/02.md` — **assembly-reviewed**, `visual_text_fidelity: "passed"`.
+- `காட்சி-3 / scans 19–20`: `scenes/03.md` — **assembly-reviewed**, `visual_text_fidelity: "passed"`.
 - English translation: **not started and remains locked**.
 
-## Scene-2 fidelity result
+## Scene-3 fidelity result
 
-`scenes/02.md` assembles `காட்சி-2 — செங்குட்டுவன் பிறந்தநாள் விழா`, setting `வஞ்சி`, from verified `pages/0018.md`.
+`scenes/03.md` assembles `காட்சி-3 — விழாவும் வினாவும்`, setting `சேரன் அரண்மனை`, from verified `pages/0019.md` and `pages/0020.md`.
 
-The actual controlling scan 18 was inspected at full-page and enlarged heading/left-column/right-column/final-direction views. Every speaker label, dialogue line, stage direction, punctuation mark, repetition and mechanical word-wrap join was compared directly against source pixels and then against the page record.
+This was the first multi-scan scene assembly. The scene file retains explicit `source scan 19` and `source scan 20` boundary comments, and both physical scans were inspected directly at high resolution.
 
-The fidelity gate caught one pre-existing page-record spacing error:
+The visual-text fidelity gate found genuine pre-existing page-record punctuation errors and corrected them only on direct source-pixel evidence:
 
-- source pixels visibly print `தனி மாடத்தை விட்டு`;
-- the earlier verified `pages/0018.md` had `தனி மாடத்தைவிட்டு`.
+- scan 19: `என்றும்....அந்நாள்` → source-visible `என்றும்...அந்நாள்`;
+- scan 20: `உண்மைக் காது!....அவர்` → `உண்மைக் காது!...அவர்`;
+- scan 20: `கலங்காது!....` → `கலங்காது!...`;
+- scan 20: `இதோ....நான்` → `இதோ...நான்`;
+- scan 20: `வெல்லுகிறேன்....அண்ணனையே` → `வெல்லுகிறேன்...அண்ணனையே`;
+- scan 20: `பாரும்!....வருகிறேன்!...` → `பாரும்!...வருகிறேன்!...`.
 
-`pages/0018.md` was corrected only on that direct pixel evidence, with the correction explicitly documented in the page record. No other scan-18 reading required correction.
+The draft scene also briefly collapsed the source-supported spacing `செங்குட்டுவனுக்குத் தான்` to `செங்குட்டுவனுக்குத்தான்`; the direct scan comparison caught and corrected this **assembly-only** error before review passed.
 
-Verified mechanical joins in `scenes/02.md` include `மண்டபத் / திற்கு` → `மண்டபத்திற்கு`, `பெறுத / வர்கள்` → `பெறுதவர்கள்`, `என்கி / றீர்களா` → `என்கிறீர்களா`, `கேளுங் / களேன்` → `கேளுங்களேன்`, `நம்புகிறீர் / களா` → `நம்புகிறீர்களா`, `இருக்க / கிறாள்` → `இருக்கிறாள்`, `அனுப் / புங்கள்` → `அனுப்புங்கள்`, and `வரு / கிறேன்` → `வருகிறேன்`.
+The scan-20 cross-column continuation is retained as `... இது உண்மைக் காது!...` with no invented punctuation. The quoted குறள் wording is preserved exactly as printed and was not corrected from another edition.
 
-Source-specific forms/punctuation such as `பிறகென்ன;`, `நமக்கொன்று பிறக்கவில்லே`, `என்கிறீர்களா?....`, `கேளுங்களேன்;எப்போது`, `[புன்னகை தவழ]`, and `குறும்புக்காரா!...வேண்மாள்!...` remain unchanged.
-
-The decorative title flourish and lower-centre uncaptioned stylized head/face illustration remain outside literary text. Printed page marker `2` remains provenance metadata.
+Visual layers remain separate: scan 19's architectural title art, uncaptioned human-figure illustration and hanging-lamp-like motif, plus scan 20's uncaptioned throne/royal-seat-like illustration. Scan 20's printed page marker `4` remains provenance only.
 
 ## Assembly rules now controlling
 
@@ -83,14 +87,14 @@ Do **not** automatically translate Kalaignar's `அந்தணர்` as “Bra
 
 ## Exact next activity
 
-Process **காட்சி-3 / scans 19–20 — `விழாவும் வினாவும்`, setting `சேரன் அரண்மனை`** as one complete scene-assembly + visual-text-fidelity activity.
+Process **காட்சி-4 / scans 21–23 — `இளங்கோ துறவு`, setting `சேரலாதன் மாளிகை`** as one complete scene-assembly + visual-text-fidelity activity.
 
-- Inputs: `pages/0019.md` and `pages/0020.md`.
-- Output: `scenes/03.md`.
+- Inputs: `pages/0021.md`, `pages/0022.md`, `pages/0023.md`.
+- Output: `scenes/04.md`.
 - Assemble at `draft` / `visual_text_fidelity: pending`.
-- Preserve explicit source-scan provenance and the scan-19 → scan-20 boundary.
-- Inspect actual scans 19 and 20 at native/enlarged resolution.
-- Compare all scene/title/setting text, stage directions, speaker labels, dialogue, punctuation and every mechanical join character-by-character against source pixels, with particular attention to the cross-page continuation.
-- Compare again with both verified page records.
+- Preserve explicit source-scan provenance and both physical page boundaries.
+- Inspect actual scans 21, 22 and 23 at native/enlarged resolution.
+- Compare scene/title/setting text, stage directions, speaker labels, dialogue, punctuation, every mechanical join, and both page-boundary continuations character-by-character against source pixels.
+- Compare again with all three verified page records.
 - Promote only after both checks pass.
 - Do not begin English translation.
