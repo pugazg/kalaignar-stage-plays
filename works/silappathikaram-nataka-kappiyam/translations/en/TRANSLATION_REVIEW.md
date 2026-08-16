@@ -23,26 +23,29 @@ A scene may be marked `translation-reviewed` only after:
 | 3 | `விழாவும் வினாவும்` | `translation-reviewed` | PASS | No | Yes | Fate/reason, Kural and new-epic challenge passed. |
 | 4 | `இளங்கோ துறவு` | `translation-reviewed` | PASS | No | Yes | Renunciation, grief and `விதி / மதி` passed. |
 | 5 | `சிலம்பின் தோற்றம்` | `translation-reviewed` | PASS | No | Yes | Hill-Tamil identity and three-dynasty literary frame passed. |
-| 6 | `பூம்புகார்ப் பொற்றொடி` | `translation-reviewed` | PASS | No | Yes | Maritime Puhar, Tamil-language metaphor and Muthamizh passed. |
+| 6 | `பூம்புகார்ப் பொற்றொடி` | `translation-reviewed` | PASS | No | Yes | Maritime Puhar, language metaphor and Muthamizh passed. |
 | 7 | `கலைக்கரசி மாதவி` | `translation-reviewed` | PASS | No | Yes | Art, swayamvaram, women's choice and Tamil collective worth passed. |
 | 8 | `கண்ணகி இல்லறம்` | `translation-reviewed` | PASS | No | Yes | Married-life poetry and occurrence-level `பார்ப்பார்` review passed. |
 | 9 | `பிரிவினை தந்த பேதை` | `translation-reviewed` | PASS | No | Yes | `oodal`, Rome trade, Tamil wealth/language imagery and separation rhetoric passed. |
 | 10 | `கலையரசி கண்ட உவகை` | `translation-reviewed` | PASS | No | Yes | Repeated dance cadence, art/sorrow, Tamilakam and inherited stigma passed. |
 | 11 | `கற்பரசியின் கலக்கம்` | `translation-reviewed` | PASS | No | Yes | Concealment, double meaning, epic comparison and refusal to insult Madhavi passed. |
-| 12 | `இன்ப வாழ்வில் கோவலன்` | `translation-reviewed` | PASS | No | Yes | Erotic accumulation, unresolved `சேற் கெண்டை`, word/garland wit and Tamil-glory climax passed. |
+| 12 | `இன்ப வாழ்வில் கோவலன்` | `translation-reviewed` | PASS | No | Yes | Erotic accumulation, unresolved source forms and Tamil-glory climax passed. |
 | 13 | `துன்பப் புயலில் கண்ணகி` | `translation-reviewed` | PASS | No | Yes | Tamil custom/collective identity, defence of Madhavi and triple repetition passed. |
 | 14 | `மாதவியின் மாண்பு` | `translation-reviewed` | PASS | No | Yes | Pregnancy wordplay, practical ethics, `தமிழ் மறை` and strict social-term distinctions passed. |
 | 15 | `மனமாறிந்த கோவலன்` | `translation-reviewed` | PASS | No | Yes | Visual-memory montage, source-rough title, `THADAAL`, spear/heart metaphor and `தமிழ்ச் சுவை` passed. |
-| 16 | `மணிமேகலை பிறப்பு` | `translation-reviewed` | PASS | No | Yes | Naming accumulation, `nanniraattu`, `kurali`, `மேகலை / மேலானகலை` wordplay and `மறையவன்` distinction passed. |
-| 17 | `மாசறு பொன்மகிழ்வு` | `translation-reviewed` | PASS | No | Yes | `மாசறு பொன்`, explicit `தமிழரல்லவா`, `தங்கை` sisterhood and pictorial-only scan handling passed. |
-| 18 | `இந்திர விழா-இருமனைகளில்` | `translation-reviewed` | PASS | No | Yes | Cross-cut festival structure, `பழந்தமிழ் மன்னன் இந்திரன்`, `தமிழச்சி`, Kannagi's triple calls and Kaanal Vari setup passed. |
-| 19 | `கானல் வரியும் / காதல் பிரிவும்` | `translation-reviewed` | PASS | No | Yes | Independent Kaanal Vari verse translation, gender argument, yazh imagery, performance terms, jealousy and inherited-status abuse passed. |
-| 20 | `திருந்திய கோவலன் / திரும்பி வருதல்` | `translation-reviewed` | PASS | No | Yes | Return/repentance, Kannagi's defence of Madhavi and Manimekalai, sea-trade/body-trade rhetoric, honour and anklet decision passed. |
-| 21 | `கலைமகள்` | `translation-reviewed` | PASS | No | Yes | Maternal Tamil imagery, household economic exploitation, Ramayana hunchback polemic and Madhavi's rejection of profit logic passed. See `21_REVIEW.md`. |
-| 22 | `மதுரைப் பயணம்` | `translation-reviewed` | PASS | No | Yes | Poompuhar trade catalogue, Kavundhi Adigal, `six-five kaadham` wordplay, road/life metaphors, `மனக் குரங்கு` and reciprocal accountability passed. See `22_REVIEW.md`. |
-| 23 | `மாதவி துறவு` | `translation-reviewed` | PASS | No | Yes | Renunciation without invented ritual, return of wealth, assay-gold metaphor, fallen-flower self-image and Maasathuvan's daughter-in-law acceptance passed. See `23_REVIEW.md`. |
-| 24–26 | — | not started | pending | — | pending | Exact next controlled batch. |
-| 27–38 | — | not started | pending | — | pending | Proceed only under accepted protocol and batch review discipline. |
+| 16 | `மணிமேகலை பிறப்பு` | `translation-reviewed` | PASS | No | Yes | Naming accumulation, `nanniraattu`, `kurali`, wordplay and `மறையவன்` distinction passed. |
+| 17 | `மாசறு பொன்மகிழ்வு` | `translation-reviewed` | PASS | No | Yes | `மாசறு பொன்`, explicit Tamil identity, sisterhood and pictorial-only scan handling passed. |
+| 18 | `இந்திர விழா-இருமனைகளில்` | `translation-reviewed` | PASS | No | Yes | Cross-cut festival, ancient-Tamil Indran framing, `தமிழச்சி` and Kaanal Vari setup passed. |
+| 19 | `கானல் வரியும் / காதல் பிரிவும்` | `translation-reviewed` | PASS | No | Yes | Independent Kaanal Vari translation, gender argument, yazh imagery and inherited-status abuse passed. |
+| 20 | `திருந்திய கோவலன் / திரும்பி வருதல்` | `translation-reviewed` | PASS | No | Yes | Return, Kannagi's defence of Madhavi/Manimekalai, trade rhetoric and anklet decision passed. |
+| 21 | `கலைமகள்` | `translation-reviewed` | PASS | No | Yes | Maternal Tamil imagery and rejection of household profit logic passed. See `21_REVIEW.md`. |
+| 22 | `மதுரைப் பயணம்` | `translation-reviewed` | PASS | No | Yes | Poompuhar trade catalogue, Kavundhi Adigal, `kaadham` wordplay, road/life metaphors and accountability passed. See `22_REVIEW.md`. |
+| 23 | `மாதவி துறவு` | `translation-reviewed` | PASS | No | Yes | Renunciation without invented ritual, returned wealth, assay-gold metaphor and familial acceptance passed. See `23_REVIEW.md`. |
+| 24 | `கவுந்தியுடன் கண்ணகி கோவலன்` | `translation-reviewed` | PASS | No | Yes | Thorn/self-reproach sequence, independently translated Kural, adversity/courage and Pandya fish-banner transition passed. See `24_REVIEW.md`. |
+| 25 | `நீதி வழுவா நெடுஞ்செழியன்` | `translation-reviewed` | PASS | No | Yes | Authorship dispute, Tamil Sangam/justice rhetoric, kaviyam-preservation test, reward and anklet transition passed. See `25_REVIEW.md`. |
+| 26 | `அரசியின் சிலம்பு` | `translation-reviewed` | PASS | No | Yes | Workshop/craft dialogue, source-timed theft, unresolved `malligai-kal` and no added foreshadowing passed. See `26_REVIEW.md`. |
+| 27–29 | — | not started | pending | — | pending | Exact next controlled batch. |
+| 30–38 | — | not started | pending | — | pending | Proceed only under accepted protocol and batch review discipline. |
 | closing tableau | `கண்ணகி சிலை நாட்டு விழா` | not started | pending | — | pending | Preserve scan-88 obstruction in Tamil provenance; translation handling to be decided only when reached. |
 
 ## Accepted conventions now controlling
@@ -56,7 +59,8 @@ A scene may be marked `translation-reviewed` only after:
 - keep movement-context commentary outside translated dialogue;
 - do not collapse `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்` into one undifferentiated `Brahmin` label;
 - when a character uses socially degrading language, preserve its force but keep it clearly attributable to that character rather than turning it into neutral translator description;
-- do not infer a formal religious conversion/rite merely from an English scene-title possibility when the Tamil scene itself does not depict one.
+- do not infer a formal religious conversion/rite merely from a title when the scene itself does not depict one;
+- do not add narrator foreshadowing before Kalaignar's stage directions disclose an action.
 
 ### Social/ritual terminology precedent
 
@@ -70,25 +74,20 @@ Scene 14 remains controlling evidence that Kalaignar uses distinct vocabulary in
 
 Scene 16 continues the rule: `மறையவன்` → `man of sacred lore`, not `Brahmin`.
 
-### Scenes 18–20 translation precedents
-
-- Scene 18 `பழந்தமிழ் மன்னன் இந்திரன்` → `Indran, the ancient Tamil king`; preserve Kalaignar's historicizing frame.
-- Scene 18 `மானங் காக்கும் தமிழச்சி` → `Tamil woman who guards honour`; do not auto-convert `மானம்` to `self-respect`.
-- Scene 19 `கானல் வரி` → retain `Kaanal Vari`; quoted stanzas translated independently from the verified Tamil printed in the scene.
-- Scene 19 named performance terms `காட்டுவரி / கண்கூடுவரி` → retained `kaattivari / kankooduvari` pending secure technical equivalence.
-- Scene 19 hostile `காமக்கடை` → `shop of desire`; it remains Kovalan's degrading metaphor, not neutral description.
-- Scene 20 preserves distinct `கணிகை`, `விலை மாது`, and `உடல் வாணிபம்` rather than collapsing all three into one English social label.
-- Scene 20 `தமிழ் மறை` continues as `Tamil sacred lore`; `மானம்` remains `honour` in the immediate independence/reputation argument.
-
 ### Scenes 21–23 translation precedents
 
 - Scene 21 `கலைமகள்` → `The Muse`; `தமிழ்க் கனி` → `fruit of Tamil`; `செந்தமிழ்மழலை` → `baby-lisp of refined Tamil`.
-- Scene 21 Chitrapathi's admission that the household allowed Madhavi's love for money remains explicit and is not reframed as neutral family management.
-- Scene 22 `கவுந்தியடிகள்` → `Kavundhi Adigal`; `சமண மதத் துறவி` → `ascetic of the Jain faith`.
-- Scene 22 retains `kaadham`, `aaram`, `akil`, `vaalai` where forced English substitution would add uncertainty; `ஆறு ஐந்து / ஆறைந்து முப்பது` is preserved through `six-five kaadham / six fives... thirty`.
-- Scene 22 `மனக் குரங்கு` → `monkey of the mind`.
-- Scene 23 `துறவு` is not expanded into a formal ascetic ceremony absent from the scene.
-- Scene 23 `மாற்றுக் குறையாத பசும் பொன்` → `pure gold that loses nothing under assay`; `உதிர்ந்த மலர்` → `fallen flower`.
+- Scene 22 `கவுந்தியடிகள்` → `Kavundhi Adigal`; `சமண மதத் துறவி` → `ascetic of the Jain faith`; retain `kaadham`, `aaram`, `akil`, `vaalai`; `மனக் குரங்கு` → `monkey of the mind`.
+- Scene 23 `துறவு` is not expanded into a formal ascetic ceremony absent from the scene; `மாற்றுக் குறையாத பசும் பொன்` retains the assay metaphor.
+
+### Scenes 24–26 translation precedents
+
+- Scene 24 `இடுக்கண் வருங்கால் நகுக!` → `When adversity comes, smile!`; translated independently from the Tamil printed here, not a published Tirukkural version.
+- Scene 24 preserves the repeated thorn/self-condemnation and fish-to-Pandya-banner transition.
+- Scene 25 `நீதி வழுவா` → `unswerving in justice`; `தமிழ்ச் சங்கம்` → `Tamil Sangam`; repeated `காவியம்` → `kaviyam` in the authorship dispute.
+- Scene 25 `தமிழைக் கொளுத்தும்` remains `burning Tamil`; `அரசாங்கச் சிலம்பு` → `government anklet` in the official's comic line.
+- Scene 26 `மணி மோதிரம்` → `gem-set ring`; uncertain `மல்லிகை கல்` is retained as `malligai-kal`.
+- Scene 26 states the official's theft only at the source stage direction; no earlier suspicion or omen is added.
 
 ## Batch progression
 
@@ -101,16 +100,17 @@ Completed translation stages:
 - scenes 12–14: controlled batch — PASS;
 - scenes 15–17: controlled batch — PASS;
 - scenes 18–20: controlled batch — PASS;
-- scenes 21–23: controlled batch — PASS.
+- scenes 21–23: controlled batch — PASS;
+- scenes 24–26: controlled batch — PASS.
 
-English progress: **23 / 38 numbered scenes**.
+English progress: **26 / 38 numbered scenes**.
 
-No published English edition has been used for scenes 1–23.
+No published English edition has been used for scenes 1–26.
 
-## Exact next controlled batch — scenes 24–26
+## Exact next controlled batch — scenes 27–29
 
-- **Scene 24 — `கவுந்தியுடன் கண்ணகி கோவலன்`**, setting `வழியில்`: thorn injury, Kovalan's self-reproach, Kavundhi's quoted Kural, adversity/courage, fish imagery and the Pandya fish-banner transition. Translate the Kural from the Tamil printed in this scene; do not import a standard English version.
-- **Scene 25 — `நீதி வழுவா நெடுஞ்செழியன்`**, setting `பாண்டியன் அவை`: literary-authorship dispute, Tamil/Sangam/court justice rhetoric, protection of the kaviyam from destruction, reward, and the queen's anklet transition. Preserve judicial reasoning and literary-Tamil rhetoric without projecting later constitutional vocabulary.
-- **Scene 26 — `அரசியின் சிலம்பு`**, setting `பொற்கொல்லன் வீடு`: the queen's anklet enters the goldsmith's house and is secretly stolen by the official. Preserve the comic/workshop dialogue and the cross-column theft stage direction without turning suspicion into narrator hindsight.
+- **Scene 27 — `ஆய்ச்சியர் அறிமுகம்`**, initial setting `மதுரை எல்லை`, internal `மாதரி வீடு...`: Aiyai and Madhari are introduced; preserve `Kavundhi Adigal`, the Jain-ascetic hospitality context, `ஆயர்குல மங்கை`, Kannagi's placement under Madhari's protection and the source's relational warmth without imposing a modern caste/community gloss not warranted by context.
+- **Scene 28 — `பொற்கொல்லர் முறையீடு`**, setting `பாண்டியன் தனிமாடம்`: royal-couple teasing, Tamil-as-breeze imagery, quoted `உற்றுழி உதவியும் / உறுபொருள் கொடுத்தும்` verse, report of the missing anklet and the king's planned inquiry. Translate the quoted verse independently from Kalaignar's printed Tamil; preserve the unmatched source bracket and do not import modern courtroom vocabulary beyond what Kalaignar actually uses.
+- **Scene 29 — `ஒற்றைச் சிலம்பின் ஒலி`**, setting `மாதரி வீடு`, scans 72–75: domestic intimacy, trade planning, Kannagi's anklet as capital, food/betel/decoration scenes, `குரவைக் கூத்து`, the removal of only one anklet, and Kovalan's long personification of the remaining anklet as a moral voice. Preserve the economic and emotional texture, repetitions and source-specific roughness.
 
 Each scene must independently pass coverage, semantics, Kalaignar voice, terminology, stage timing and Dravidian-context separation before promotion.
