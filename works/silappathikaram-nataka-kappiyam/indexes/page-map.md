@@ -34,7 +34,7 @@ Scans **1–88 are visually verified**. Detailed dramatic-body verification cove
 
 `காட்சி-38` is physically confined to scan **88**, titled **`கண்ணகி சிலைக்குக் கல்`** with setting **`இமயத்தில் - குயிலாலுவம்`**. No printed page number is securely visible and none is inferred. The scene's two-column dramatic text has been checked directly against native/enlarged controlling-source pixels. The left column ends `இதற்குப் பதில்`; the right column continues `சொல்லுங்கள்!`.
 
-Source-supported forms and punctuation retained without normalization include `காஷாய`, `ரிஷிகளைப்`, `உரிய / தான`, `மகானாய் மாறுவது!`, `வட நாட்டிலே நடத்தியபோர்`, `பதினெட்டே நாழிகையில்`, the unusual `அது உங்களே மன்னிக்கட்டும்.`, `முப்பத்திரண்டு`, `வில்லவா ;`, and the physical `கனக— / விஜயா` split.
+Source-supported forms and punctuation retained without normalization include `காஷாய`, `ரிஷிகளைப்`, `உரிய / தான`, `மகானாய் மாறுவது!`, `வட நாட்டிலே நடத்தியபோர்`, `பதினெட்டே நாழிகையில்`, `அது உங்களை மன்னிக்கட்டும்.`, `முப்பத்திரண்டு`, `வில்லவா ;`, and the physical `கனக— / விஜயா` split. Final targeted source-pixel reinspection also established `நடைபெற்ற` in the opening direction, correcting the earlier provisional `நடைபெறுகிற` reading.
 
 After scene 38 closes, three centred `*` marks introduce the closing tableau headed **`வஞ்சிமூதூரில்`** and **`கண்ணகி சிலை நாட்டு விழா`**. The visible tableau text ends with `மாதவி, துறவுக் கோலத்தில், கண்களில் நீர்வழிய, குழந்தை / மணிமேகலையைக் கொண்டுவந்து சிலையின் காலடியில் வைக்கிறாள்.]`.
 
