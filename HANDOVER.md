@@ -18,7 +18,7 @@ Before continuing Silappathikaram, read completely:
 8. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PLAN.md`
 9. `works/silappathikaram-nataka-kappiyam/VISUAL_TEXT_FIDELITY_CHECK.md`
 10. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PILOT_REVIEW.md`
-11. assembled scene files `scenes/01.md` through `scenes/07.md`
+11. assembled scene files `scenes/01.md` through `scenes/08.md`
 
 ## Permanent source rules
 
@@ -37,39 +37,38 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 - Page-level verification covers **காட்சி-1 through காட்சி-38** plus the scan-88 closing tableau.
 - Tamil transcription completion audit: **PASS**.
 - Scene assembly is active with mandatory direct visual-text fidelity review.
-- Scenes **1–7 are assembly-reviewed with `visual_text_fidelity: "passed"`**.
-- **7 of 38 numbered scenes are assembly-reviewed.**
+- Scenes **1–8 are assembly-reviewed with `visual_text_fidelity: "passed"`**.
+- **8 of 38 numbered scenes are assembly-reviewed.**
 - English translation has not started and remains locked.
 
-## Latest completed activity — காட்சி-7
+## Latest completed activity — காட்சி-8
 
-Scene file: `works/silappathikaram-nataka-kappiyam/scenes/07.md`
+Scene file: `works/silappathikaram-nataka-kappiyam/scenes/08.md`
 
-- title: `கலைக்கரசி மாதவி`
-- setting: `முத்துப் பந்தல்`
-- source scans: 29–32
+- title: `கண்ணகி இல்லறம்`
+- setting: `கோவலன் வீடு:—பள்ளியறை`
+- source scans: 33–35
 - status: `assembly-reviewed`
 - `visual_text_fidelity: "passed"`
 
-Direct high-resolution source inspection covered all four scans, scan 29's verse block and terminal `சுயம்வரம் ஏற்பாடு செய்யப்பட்டிருக்கிறது!.`, scan 30's pictorial/caption-only page, scan 31's dialogue around its central sculptural reproduction, scan 32's dense two-column close, all three physical scan boundaries, and every visual layer.
+Direct high-resolution source inspection covered all three scans, both physical page boundaries, scan 33's two-column text and quoted marriage passage, scan 34's same-speaker cross-column continuation, scan 35's closing dialogue, and all visual layers.
 
-No verified page-record correction was required during scene-7 fidelity review.
+No verified page-record correction was required during scene-8 fidelity review.
+
+Assembly-only fidelity correction:
+
+- draft `மகன்! ...என்` → source-faithful mechanical join `மகன்!...என்`; scan 34's next printed line begins with the ellipsis itself.
 
 Boundary/structure checks:
 
-- scan 29 closes dramatic text with கூனி's சுயம்வரம் announcement;
-- scan 30 is pictorial/caption-only and no dramatic text is invented for it;
-- scan 31 resumes with `கி. கிழவர் : அப்படிச் சொல்!...`;
-- scan 31 ends with சித்ராபதி's `அவமானப்படுத்துகிறாய்.....` and scan 32 begins a new மாதவி reply;
-- scan 32 closes `காட்சி-7`; scan 33 begins `காட்சி-8`.
+- scan 33 closes `யாழிடைப் பிறவா இசை!....`; scan 34 begins new `கண் : அத்தான்!...`;
+- on scan 34, `மாசாத் : ... பாடங்கற்பிக்கிறேன்......` continues in the right column with unlabelled `கண்ணகி! பயப்படாதே!...`; no redundant speaker label is inserted;
+- scan 34 closes `[அழுகிறாள்!]`; scan 35 begins new `கண் : அம்மா!...`;
+- scan 35 closes `காட்சி-8`; scan 36 begins `காட்சி-9`.
 
-The exact scan-30 printed caption is preserved separately from dialogue:
+Protected scene-8 source forms include `நீ யில்லாமல்`, `சுவையே யில்லை!`, `உன் தல எழுத்து`, `நம்பி யிருந்தேன்`, `மருமகளாக வாழ்த்து;`, `போவதில்ல.`, `கனி யுன்னைத்`, `கவலைப்படாதே யம்மா!`, `இரண்டு சொன்று`, `தானு இருக்கிறாய்?`, `பொய்தானு?`, `எல்லோருந்தான்`, `அப்படியானு....`, `ஆதரவுபட்ட`, and `பார் முழுதும்`.
 
-`“பூம்புகார்” அகழ்வாராய்ச்சியில் கிடைத்த / யானச்சின்னம் பொறிக்கப்பட்ட / கரிகாலன் காலத்துக் காசுகள்.`
-
-Source forms/punctuation retained include `ஆயிரத் தெட்டு கழஞ்சு பொன்`, `கணவனுகலாம்!...`, `...?....!....!`, `ஒருவருக் கொருவர்`, `ஆளப் பார் இளவெட்டு!`, `காப்பாற்றுகிறேன்;அதற்கு`, `பெண்ணுகவே`, seven-dot `போகலாம்.......`, `...கொடு மாதவி மாலையை! ம்! இதோ`, and `கோவலன் - கண்ணகியும்`.
-
-Pagination provenance: scans 29–30 have no securely visible printed page number; scan 31 prints `15`; scan 32 prints `16`.
+Visual layers remain separate: scan 33's two figure/statue photographs; scan 34's ornament/jewel-like and lotus illustrations; scan 35's standing-woman illustration. Pagination provenance: scan 33 none visible; scan 34 prints `18`; scan 35 none visible.
 
 ## Assembly rules now controlling
 
@@ -93,16 +92,16 @@ Do **not** automatically translate `அந்தணர்` as “Brahmin.” Pre
 
 ## Exact next activity
 
-Process **காட்சி-8 / scans 33–35 — `கண்ணகி இல்லறம்`, setting `கோவலன் வீடு:—பள்ளியறை`** as one complete scene-assembly + visual-text-fidelity activity.
+Process **காட்சி-9 / scans 36–38 — `பிரிவினை தந்த பேதை`, setting `கண்ணகி.கோவலன்—கட்டில் அறை`** as one complete scene-assembly + visual-text-fidelity activity.
 
-- Inputs: `pages/0033.md`, `pages/0034.md`, `pages/0035.md`.
-- Output: `scenes/08.md`.
-- Preserve explicit scan provenance and both physical page boundaries.
-- Preserve scan 33's quoted `“மாமுது பார்ப்பார் மறைவழி காட்டிடத் தீவலம் செய்து நிகழ்த்திய திருமணம்”` exactly as printed.
-- Preserve source-specific forms including `நீ யில்லாமல்`, `சுவையே யில்லை!`, `உன் தல எழுத்து`, `மருமகளாக வாழ்த்து;`, `போவதில்ல.`, `இரண்டு சொன்று`, `தானு இருக்கிறாய்?`, `பொய்தானு?`, `எல்லோருந்தான்`, `அப்படியானு....`, and `ஆதரவுபட்ட`.
-- Keep scan 33's two uncaptioned figure/statue photographs, scan 34's ornament/jewel-like and lotus illustrations, and scan 35's large standing-woman illustration separate from literary text.
-- Scan 33 has no securely visible printed page number; scan 34 prints `18`; scan 35 has no securely visible printed page number.
-- Scan 35 closes scene 8; scan 36 begins `காட்சி-9`.
-- Inspect scans 33–35 directly at native/enlarged resolution and compare the assembled scene against source pixels and all three verified page records before promotion.
+- Inputs: `pages/0036.md`, `pages/0037.md`, `pages/0038.md`.
+- Output: `scenes/09.md`.
+- Preserve the setting punctuation exactly: `கண்ணகி.கோவலன்—கட்டில் அறை`.
+- Preserve scan 36's quoted two-line passage `“பெய்யெனப் பெய்யும் மழையே! / கொழுநனைத் தொழுதெழும் நேரிழையே!”` exactly as printed.
+- Preserve source-specific forms including `அப்படியென்றுல்?...`, `ஊடல் என்றுல்`, `தில சிறந்தது`, `இது ஒன்றும் ஊடல் இல்ல;`, `வெளிநாட்டுக்கா?.`, `கத்து கடல் கிழிச்`, `உன் மறந்தாலன்றோ`, `முடவனுயிருப்பேன்.`, `செல்வ!`, `கொல்லாமற் கொல்லாதீர் கண்ணுளா!...`, `மெய்தானு`, `கிணை தொடுத்...`, `என் வெறுக்கிறீர்`, and `உன் நூல்தான் எல்லாம்...`.
+- Keep scan 36's uncaptioned ornamental oil-lamp/interior illustration, scan 37's photograph with exact caption `(சம்பாபதி கோயில் — பூம்புகார்)`, and scan 38's uncaptioned sculptural photograph separate from dramatic text.
+- Scans 36–37 have no securely visible printed pagination; scan 38 prints `22`.
+- Inspect all three scans directly, including both physical page boundaries and scan 38's bracketed left-column direction continuing at the top of the right column.
+- Scan 38 closes scene 9; scan 39 begins `காட்சி-10`.
 
 Do not begin English translation.
