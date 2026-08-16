@@ -15,9 +15,9 @@ A settled English form here controls later scene translation unless a scene-spec
 |---|---|---|---|
 | `தமிழ்` | locked | `Tamil` | Language/cultural term; preserve emphatic personification when present. |
 | `தமிழகம்` | locked | `Tamilakam` | Do not silently modernize to `Tamil Nadu`. `Tamilakam` preserves the historical/civilizational geography important to the source's rhetoric. |
-| `தமிழ்நாடு` / `தமிழ்நாட்டு` | contextual | usually `Tamil land` in the ancient dramatic setting | Do not automatically collapse this wording into `Tamilakam`, and do not automatically impose the modern administrative state sense. Scenes 4–8 preserve this distinction. |
-| `தமிழர்` | preferred | `Tamil people`, `Tamils` | Choose by syntax/register. Avoid reducing to merely “Tamil speakers” when peoplehood is explicit. |
-| `செந்தமிழ்` | contextual | `refined Tamil`, `classical Tamil`, occasionally retain `Senthamizh` in a note | Do not automatically use `pure Tamil`; that may import a later purist nuance not required by every context. |
+| `தமிழ்நாடு` / `தமிழ்நாட்டு` | contextual | usually `Tamil land` in the ancient dramatic setting | Do not automatically collapse this wording into `Tamilakam`, and do not automatically impose the modern administrative state sense. Scenes 4–9 preserve this distinction. |
+| `தமிழர்` | preferred | `Tamil people`, `Tamils` | Choose by syntax/register. Avoid reducing to merely “Tamil speakers” when peoplehood is explicit. Scene 9 `தமிழர் வளம்` → `the wealth of Tamils`. |
+| `செந்தமிழ்` | contextual | `refined Tamil`, `classical Tamil`, occasionally retain `Senthamizh` in a note | Do not automatically use `pure Tamil`; that may import a later purist nuance not required by every context. Scene 9 uses `refined Tamil` in intimate poetic metaphor. |
 | `செந்தமிழர்` | contextual | `the people of refined Tamil` / contextually `Tamil people` with note | Preserve the `செந்தமிழ்` elevation where rhetorically important. |
 | `தாயகம்` | preferred | `homeland` | Stronger than neutral `land`; preserve emotional-political force. |
 | `சுயமரியாதை` | locked | `self-respect` | When it appears, preserve the exact conceptual force; this term also carries major Dravidian/Self-Respect Movement resonance, which may be noted separately from the translation. |
@@ -58,7 +58,7 @@ A settled English form here controls later scene translation unless a scene-spec
 | `அறைகூவல்` | preferred | `challenge` | Scene 3; preserve confrontational public force. |
 | `அடிகள்` / `அடிகளார்` | contextual | retain `Adigal` when functioning as Ilango's reverential ascetic title; otherwise contextual | Do not flatten automatically to `monk`. |
 | `ஆலோலப் பாடல்` | preferred | `aalolam song` | Scene 5; retain named cultural form rather than generic `folk song`. |
-| `கற்புக்கரசி` | contextual | `queen of chastity` | Scene 5 epithet for Kannagi; preserve source elevation without adding later moral explanation. |
+| `கற்புக்கரசி` / `கற்பரசி` | contextual | `queen of chastity` | Preserve source elevation without adding later moral explanation. Scene 11 title `கற்பரசியின் கலக்கம்` → `The Queen of Chastity in Distress`. |
 | `கற்புக் கனி` | contextual | `fruit of chastity` | Scene 8 Maasathuvan's praise of Kannagi; retain the source's elevated conventional imagery rather than modernizing it. |
 | `கணிகை` | contextual | `courtesan` | Scene 8 `கணிகை மாதவி`; do not automatically flatten to `prostitute`, which changes social/literary register. |
 | `குறும்பாடு` | pending / retained | `kurumpaadu` | Scene 5 animal-gift term retained in transliteration rather than guessed into an uncertain modern zoological equivalent. Resolve only with reliable lexical evidence if later necessary. |
@@ -72,6 +72,11 @@ A settled English form here controls later scene translation unless a scene-spec
 | `சுயம்வரம்` | preferred cultural | `swayamvaram` | Scene 7: retain the cultural term because the scene itself exposes the gap between nominal choice and the imposed purchase condition. |
 | `அத்தான்` | contextual intimate | usually `my dear` in Kannagi's spousal address to Kovalan | Preserve intimacy without forcing a literal kinship label into English. |
 | `இல்லறம்` | contextual | `married life`, `householder life`, or relational phrasing according to context | Scene 8 title → `Kannagi's Married Life`; later line emphasizes lovers united in thought and mutual support. |
+| `ஊடல்` | preferred cultural | retain `oodal` on first use, then explain contextually | Scene 9 explicitly defines the classical lovers' quarrel and links it to the Kural's Book of Love; do not flatten the named category immediately to `quarrel`. |
+| `விரகதாபம்` | contextual literary | `anguish of separation` | Scene 10 dance description; preserve the love-separation register without overloading the main text with technical terminology. |
+| `மயக்குகின்ற மாதர்` / `மயக்குகின்ற மாதர் வழி` | contextual social | `women who bewitch men` / `line of women who bewitch men` | Scene 10. Preserve inherited social stigma without automatically substituting `prostitute` or another harsher modern category. |
+| `பேதை` | contextual literary | `maiden`, `young woman`, or `foolish one` according to scene | Scene 9 title → `The Maiden Who Brought Separation`; do not assume one fixed English equivalent in later occurrences. |
+| `இருபொருளில்` | preferred stage note | `with a double meaning` | Scene 11; keep as a stage/interpretive cue rather than explaining both meanings inside dialogue. |
 
 ## Scene 1 pilot decisions
 
@@ -83,30 +88,26 @@ For `காட்சி-1`:
 - `வாழ்க தமிழ்! வெல்க தமிழகம்!` → **`Long live Tamil! May Tamilakam triumph!`**.
 - `இமிழ் கடல் வேலித் தமிழகம்` → **`Tamilakam, girdled by the sounding sea`**.
 - `விற்கொடி` → **`bow-banner`**.
-- `கொட்டுவோம், கொட்டுவோம் முரசம்!` → **`Let us beat, let us beat the drum!`**, retaining the inclusive first-person call, repetition and public-proclamation rhythm.
+- `கொட்டுவோம், கொட்டுவோம் முரசம்!` → **`Let us beat, let us beat the drum!`**.
 - `சேரர் தரணி` → **`the Chera land`**.
-- `செந்தமிழர் தாயகம்` → **`the homeland of the people of refined Tamil`** in the pilot, preserving the elevation of `செந்தமிழ்`; review later for performability/consistency before large-scale translation.
+- `செந்தமிழர் தாயகம்` → **`the homeland of the people of refined Tamil`** in the pilot.
 
 ## Scene 2 decisions
 
-For `காட்சி-2`:
-
-- `செங்குட்டுவன் பிறந்தநாள் விழா` → **`Senguttuvan's Birthday Celebration`**.
-- `விழாக்கோலம்` / `போர்க் கோலம்` → **`festive array` / `battle array`**, preserving the rhetorical mirror.
-- `விழுப்புண்` → **`wounds of valour`**.
-- `கொலு மண்டபம்` → **`royal audience hall`**.
-- `நிமித்திகன்` → **`soothsayer`**.
-- `ஆருடம்` → **`prophecy`** in this occurrence.
-- `அண்ணி` → **`Sister-in-law`** in direct address.
-- `குறும்புக்காரா!` → **`You little rogue!`** as affectionate family teasing.
-
-Scene 2 also establishes a translation principle: when Kalaignar embeds rationalist scepticism inside humour or family conversation, preserve the scepticism **through the original dramatic wording** rather than converting the dialogue into explanatory ideological prose. Movement-era interpretation belongs in the separate note.
+- `செங்குட்டுவன் பிறந்தநாள் விழா` → `Senguttuvan's Birthday Celebration`.
+- `விழாக்கோலம்` / `போர்க் கோலம்` → `festive array` / `battle array`.
+- `விழுப்புண்` → `wounds of valour`.
+- `கொலு மண்டபம்` → `royal audience hall`.
+- `நிமித்திகன்` → `soothsayer`.
+- `ஆருடம்` → `prophecy` in this occurrence.
+- `அண்ணி` → `Sister-in-law` in direct address.
+- `குறும்புக்காரா!` → `You little rogue!` in affectionate context.
 
 ## Scenes 3–5 decisions
 
 - `விழாவும் வினாவும்` → `Celebration and Questioning`.
 - `தம்பியுடையான் படைக்கஞ்சான்` → `He who has a younger brother fears no army`.
-- `தமிழ் அறம்` → retain `Tamil aram` in scene 3 rather than flattening the concept prematurely.
+- `தமிழ் அறம்` → retain `Tamil aram` in scene 3.
 - `விதியை மதியால் வெல்லுகிறேன்` → `I shall conquer ... fate ... with reason`.
 - `விதியின் வீழ்ச்சி! மதியின் வெற்றி!` → `The fall of ... fate! The victory of reason!`.
 - `இளங்கோ அடிகள்` → `Ilango Adigal`.
@@ -120,42 +121,36 @@ Scene 2 also establishes a translation principle: when Kalaignar embeds rational
 
 ## Scenes 6–8 decisions
 
-### Scene 6
-
 - `பூம்புகார்ப் பொற்றொடி` → `Puhar's Golden-Bangled Maiden`.
-- `கடற்கோள்` → `sea-engulfment`, without adding an external date or chronology.
-- `இந்திரன் என்னும் பழந்தமிழன்` → `an ancient Tamil named Indran`; preserve Kalaignar's source wording rather than silently restoring a conventional mythological description.
-- `எழுச்சி விழா` → `festival of awakening`.
-- `வாழ்க்கைத் துணைவி` → `life-companion` in Kovalan's introduction of Kannagi.
-- `தமிழை விட்டுச் சுவை பிரியுமா?` → `Can sweetness part from Tamil?`.
-- `வேற்று மொழி குறுக்கிட்டால்?` → `What if another language comes between us?`.
-- `முத்தமிழ் / இயல் / இசை / கூத்து` → retain `Muthamizh / iyal / isai / koothu` in the language-learning joke.
-
-### Scene 7
-
+- source `இந்திரன் என்னும் பழந்தமிழன்` → `an ancient Tamil named Indran`; do not replace the source's historicizing formulation with an external mythological explanation.
+- `முத்தமிழ்` → `Muthamizh`; `இயல் / இசை / கூத்து` → `iyal / isai / koothu` where the joke depends on the named taxonomy.
 - `கலைக்கரசி மாதவி` → `Madhavi, Queen of the Arts`.
-- technical `இயல் / பண் / தலைக்கோல்` → retain `iyal / pann / thalaikkol` where exact technical equivalence is uncertain or the source itself supplies explanation.
-- `ஆயிரத்தெட்டு கழஞ்சு பொன்` → `one thousand and eight kalanju of gold`.
-- `சுயம்வரம்` → `swayamvaram`.
-- verified irregular age line `அறுபத்தெட்டு முடிந்து நான் எட்டு தான் ஆகிறது` is not silently corrected; English preserves its comic irregularity and documents it.
-- `தமிழகத்தின் தகுதி` → `Tamilakam's worth`; `தமிழருக்குண்டு` → `Tamils possess...`.
-
-### Scene 8
-
+- `கழஞ்சு` → `kalanju`; `சுயம்வரம்` → `swayamvaram`.
+- scene 8 `மாமுது பார்ப்பார்...` → occurrence-specific `venerable ritual officiants`; **not** a global `பார்ப்பார் = officiant` rule.
+- `மறைவழி` → `the way of the sacred lore`; `தீவலம்` → `circled the fire`.
 - `கண்ணகி இல்லறம்` → `Kannagi's Married Life`.
-- `அத்தான்` → `my dear` in Kannagi's intimate address.
-- `மாமுது பார்ப்பார்` → `venerable ritual officiants` **for this occurrence only**; not `Brahmin` by default.
-- `மறைவழி` → `the way of the sacred lore`.
-- `தீவலம்` → `circling the fire`.
-- `உன் தல எழுத்து` → `the writing on your head—your fate`.
-- `கற்புக் கனி` → `fruit of chastity`.
-- `கணிகை` → `courtesan`.
-- `காதலர் இருவர் கருத்தொருமித்து ஆதரவுபட்ட இல்லறம்` → `the married life of two lovers, united in thought and bound in mutual support`.
+
+## Scenes 9–11 decisions
+
+- `பிரிவினை தந்த பேதை` → `The Maiden Who Brought Separation`.
+- `ஊடல்` → retain `oodal` and let Kovalan's own explanation carry the meaning.
+- `தமிழர் வளம்` → `the wealth of Tamils`; preserve the collective assertion inside the trade speech.
+- `செந்தமிழ்` remains explicitly present in scene 9's love/reunion imagery.
+- `கொல்லாமற் கொல்லாதீர்` → `Do not kill me without killing me`, retaining the paradox.
+- `எண்ணிரண்டு பதினாறு கிழமை` → `Two eights—sixteen weeks`, preserving the source's emphatic arithmetic.
+- `பிரியவில்லை / பிரியமில்லை` → `will not part / no love` semantic turn; document the unavoidable loss of Tamil sound-play.
+- source `உன் நூல்தான் எல்லாம்...` remains an unresolved scene-specific lexical ambiguity; translate conservatively (`your thread is everything...`) rather than silently emend the Tamil.
+- `கலையரசி கண்ட உவகை` → `The Queen of the Arts Finds Joy`.
+- repeated `ஆடுகிறாள்.` cadence → repeated `She dances.`; never compress it.
+- `விரகதாபம்` → `anguish of separation`.
+- `மயக்குகின்ற மாதர் வழி வந்தவள்` → `one who comes in the line of women who bewitch men`, preserving inherited stigma without harsher modernization.
+- `கற்பரசியின் கலக்கம்` → `The Queen of Chastity in Distress`.
+- `(இருபொருளில்)` → `[With a double meaning]`.
 
 ## Dravidian-movement relation rule
 
 Terminology should preserve concepts that later carry Dravidian movement force — especially `தமிழகம்`, `தாயகம்`, `சுயமரியாதை`, language pride, dignity, justice, anti-hierarchical argument, rational human agency and Tamil historical consciousness — **but the English dialogue must not acquire movement vocabulary that is absent from the Tamil source**.
 
-Scenes 3–4 establish a strong source-supported `விதி / மதி` axis: fate versus reason/human agency. Scene 5 establishes explicit hill-Tamil peoplehood and a shared Chera–Chola–Pandya literary-historical frame. Scene 6 adds Tamil-centred maritime cosmopolitanism, the source's historicizing `ancient Tamil named Indran`, and a Tamil/other-language love metaphor. Scene 7 adds women’s choice/dignity and Tamil collective worth. Scene 8 requires restraint: it does not attack the marriage rite; its stronger later resonance lies in companionate marriage, mutual support and Kannagi's active voice.
+Scenes 3–4 establish a strong source-supported `விதி / மதி` axis: fate versus reason/human agency. Scene 5 establishes explicit hill-Tamil peoplehood and a shared Chera–Chola–Pandya literary-historical frame. Scene 6 adds Tamil-centred maritime cosmopolitanism and a Tamil/other-language love metaphor. Scene 7 adds women's choice/dignity and Tamil collective worth. Scene 8 requires restraint around ritual terminology. Scene 9 entwines love, Tamil language and Tamil economic worth; scene 10 sets artistic achievement against inherited stigma and presents art as a public cultural good; scene 11 most defensibly resonates through Kannagi's refusal to build her dignity by humiliating Madhavi.
 
 These relations belong in separately labelled interpretive notes unless the source itself uses later movement terminology.
