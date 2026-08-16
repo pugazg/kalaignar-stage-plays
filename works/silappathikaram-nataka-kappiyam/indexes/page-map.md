@@ -47,9 +47,13 @@ This is the physical-source map. Printed pagination is recorded only when direct
 | 41 | — | scene 10 | pictorial / final physical scan | verified | Full-page uncaptioned sculptural photograph/reproduction; scan 42 begins scene 11. |
 | 42 | 26 | scene 11 | scene opening / close | verified | `காட்சி-11`; enlarged title verified as `கற்பரசியின் கலக்கம்`; setting `கண்ணகி வீடு`; complete two-column text and lower-centre uncaptioned illustration verified; scan 43 begins scene 12. |
 | 43 | 27 | scene 12 | scene opening / close | verified | `காட்சி-12`; enlarged source title verified as `இன்ப வாழ்வில் கோவலன்`; setting `மாதவி வீடு`; complete corrected two-column text and lower-centre uncaptioned peacock illustration verified; scan 44 begins scene 13. |
-| 44 | — | scene 13 | scene opening | needs-review | `காட்சி-13`; title provisionally read `துன்பப் புயலில் கண்ணகி`; setting `கண்ணகி வீடு`; large uncaptioned photograph/reproduction. |
-| 45 | — | scene 13 | continuation | needs-review | Dense two-column continuation with lower-right uncaptioned sculptural photograph/reproduction. |
-| 46–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. No pagination or scene boundaries are inferred here. |
+| 44 | — | scene 13 | scene opening | verified | `காட்சி-13`; enlarged title verified as `துன்பப் புயலில் கண்ணகி`; setting `கண்ணகி வீடு`; complete two-column text verified; large lower-left photograph/reproduction is uncaptioned. |
+| 45 | — | scene 13 | continuation / close | verified | Complete two-column family dialogue verified; lower-right sculptural photograph/reproduction is uncaptioned; scan 46 begins scene 14. |
+| 46 | 30 | scene 14 | scene opening | needs-review | `காட்சி-14`; provisional title `மாதவியின் மாண்பு`; setting `காவிரி ஆற்றோரம்`; complete text pending enlarged verification. |
+| 47 | 31 | scene 14 | continuation | needs-review | Dense two-column continuation with small uncaptioned lower-centre illustration; complete text pending verification. |
+| 48 | 32 | scene 14 | continuation / close | needs-review | Dense two-column continuation with small uncaptioned figure illustration; scan 49 begins scene 15. |
+| 49 | — | scene 15 | scene opening | needs-review | `காட்சி-15`; title intentionally unresolved pending enlargement; setting `கண்ணகி வீடு`; lower-right sculptural photograph/reproduction uncaptioned. |
+| 50–87 | — | dramatic body | scene pages | not-started | Individual page/scene mapping pending direct sequential inspection. No pagination or scene boundaries are inferred here. |
 | 88 | — | dramatic body | scene | not-started | `காட்சி-38` visibly present on final supplied scan. |
 
 ## Expansion rule
@@ -66,8 +70,8 @@ Before transcription closure, **all 88 scan pages must have individual rows**. R
 
 ## Current checkpoint
 
-Scans **1–43 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-12**.
+Scans **1–45 are verified**. The complete front matter and Kalaignar preface are verified, and detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-13**.
 
-Scans **44–45** remain individually structurally mapped at `needs-review`. The next complete-scene verification target is **காட்சி-13 across scans 44–45**; the following scene boundary must be confirmed by forward inspection before closing that activity.
+Scans **46–49** are individually structurally mapped at `needs-review`. Forward inspection establishes that **காட்சி-14 spans scans 46–48**, and scan **49 begins காட்சி-15**.
 
-Detailed verification continues by **complete scene where practical**, while retaining one source record per physical scan.
+Detailed verification continues by **complete scene where practical**, while retaining one source record per physical scan. Next: **காட்சி-14 across scans 46–48**.
