@@ -17,25 +17,22 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 
 ## Current verification checkpoint
 
-Scans **1–65 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-23**.
+Scans **1–66 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-24**.
 
-## Newly completed activity — காட்சி-23, scan 65
+## Newly completed activity — காட்சி-24, scan 66
 
-### Scan 65 — `pages/0065.md`
+### Scan 66 — `pages/0066.md`
 
-- `காட்சி-23`.
-- Decorative title verified as **`மாதவி துறவு`**.
-- Setting: **`மாசாத்துவான் வீடு`**.
-- Printed page **49** visibly present.
-- Complete two-column dramatic text verified using enlarged 600-ppi source crops.
-- The opening is Kovalan's letter, preserving `என் தவற்றுள் வருந்தும் உங்கள் நெஞ்சத்தை / ஆற்றிக் கொள்ள வேண்டுகிறேன்.`
-- Madhavi arrives with Manimekalai and women carrying trays of wealth accumulated in her house.
-- Preserve speaker-label variation exactly: `மாசாத்துவான்` and `மாசாத்`.
-- Preserve source forms/splits including `பெற்றோர்க் / குப்`, `நாலைந்து பெண்கள்`, `காரண / மான`, `செல் / வம்`, `மாற்றுக் குறை / யாத பசும் பொன்`, `தீங் / கானது`, `அழி / கின்ற`, and `குழந்தை / யைக்`.
-- Preserve the visibly printed unusual line **`எங்கே...என்னை மன்னித்தேன் என்று ஒரு முறை சொல்லுங்கள்!`**; do not silently rewrite it for grammar or meaning.
-- Māsāttuvan calls Madhavi `என் அன்பு மருமகள்!` and takes Manimekalai into his arms at the close.
-- Small lower-centre illustration depicts a piled heap of round coin-like objects on a shallow tray/plate; it is uncaptioned.
-- Scan 66 directly begins `காட்சி-24`, so scene 23 is a one-scan scene.
+- `காட்சி-24`.
+- Decorative title verified as **`கவுந்தியுடன் கண்ணகி கோவலன்`**.
+- Setting: **`வழியில்`**.
+- Printed page **50** visibly present.
+- Complete two-column dramatic text verified using enlarged 4x and 600-ppi source views.
+- The page follows கவுந்தி, கண்ணகி and கோவலன் through the fields: Kannagi is hurt by a thorn, Kovalan expresses remorse, Kavunti quotes `“இடுக்கண் வருங்கால் நகுக!”`, and the scene closes with a fish being returned to water before the Pandya fish-banner transition.
+- Preserve the physical left/right column break in Kannagi's speech at `துயரங் / கள்`.
+- Preserve source forms/splits including `முள்ளுத்த`, `இதாவது`, `ஆருத் துயரத்தில்`, `என்ற திருக்குறளின் மறந்தாயா?`, `அதனுல்தான்`, `காட்சியளிக் / கின்றன`, `உட் / கார்ந்து`, `பழக் / கமேயில்லையே`, `நெஞ் / சத்திலே`, `ஏற் / படுத்தி`, `உற் / சாகத்தில்`, and `விடு / கிறார்`.
+- Small bottom-centre flag/banner-like illustration is uncaptioned.
+- Scan 67 directly begins `காட்சி-25`, so scene 24 is a one-scan scene.
 
 Verification used the controlling Tamil scan and enlarged direct visual comparison. The published English translation was not used to settle Tamil wording.
 
@@ -47,16 +44,25 @@ Do **not** automatically translate Kalaignar's `அந்தணர்` as “Bra
 
 Detailed verification proceeds by **one complete scene per activity where practical**, with one independent archival record per physical scan.
 
-## Forward mapped page
+## Forward mapped pages — காட்சி-25
 
-### Scan 66 — `pages/0066.md`
+### Scan 67 — `pages/0067.md`
 
-- Begins `காட்சி-24`.
-- Provisional decorative title: **`கவுந்தியுடன் கண்ணகி கோவலன்`**; final character-level acceptance pending.
-- Setting: **`வழியில்`**.
-- Printed page **50** visibly present.
-- Dense two-column dramatic text plus a small uncaptioned flag/banner-like lower illustration.
-- Scan 67 directly begins `காட்சி-25`, so scene 24 is a one-scan scene.
+- Begins `காட்சி-25`.
+- Provisional decorative title: **`நீதி வழுவா நெடுஞ்செழியன்`**; final character-level acceptance pending.
+- Setting: **`பாண்டியன் அவை`**.
+- Two-column dramatic text plus a large archaeological photograph.
+- Printed photograph caption visibly present but exact wording intentionally deferred to enlarged verification.
+- Circular library/accession stamp overlaps the upper-right heading area and is not publication text.
+- No printed page number is securely inferred.
+- Status: `needs-review`.
+
+### Scan 68 — `pages/0068.md`
+
+- Continues and closes scene 25 physically.
+- Printed page **52** visibly present.
+- Dense two-column text plus a small uncaptioned tablet/book-like illustration.
+- Scan 69 directly begins `காட்சி-26`.
 - Status: `needs-review`.
 
 ## Published English translation witness
@@ -65,4 +71,4 @@ The supplied published English volume remains a secondary future collation witne
 
 ## Next activity
 
-Process **காட்சி-24 / scan 66** as one complete scene. Verify the ornate title, all dialogue/stage directions, speaker labels, punctuation, physical splits and lower illustration before marking it `verified`. Do not begin scene assembly or English translation yet.
+Process **காட்சி-25 across scans 67–68** as one complete scene. Resolve the ornate title, verify every speaker label/dialogue/stage direction and transcribe the archaeological photograph caption exactly before marking both scans verified. Do not begin scene assembly or English translation yet.
