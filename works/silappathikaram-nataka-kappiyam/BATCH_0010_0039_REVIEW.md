@@ -1,10 +1,12 @@
 # Batch Review — scans 10–39
 
-This document records the original structural source-inspection pass over scans **10 through 39 inclusive** of **சிலப்பதிகாரம் — நாடகக் காப்பியம்**, together with the later detailed verification that has now closed the batch.
+This document records the original structural source-inspection pass over scans **10 through 39 inclusive** of **சிலப்பதிகாரம் — நாடகக் காப்பியம்**, together with the later detailed verification that closed the batch.
+
+> **Completion-audit note:** this is now a historical batch record. The repository-wide current state is recorded in `audit.md`, `SCENE_ASSEMBLY_PLAN.md`, the work `README.md` and `indexes/page-map.md`. All 88 supplied scans are now verified; the earlier forward-looking checkpoint in this file has been superseded.
 
 ## Scope and closure
 
-Every scan from **10 through 39** has an individual page record and is now **verified**. The original structural batch is therefore closed.
+Every scan from **10 through 39** has an individual page record and is **verified**. The original structural batch is therefore closed.
 
 The source-first rules remained unchanged throughout: printed pagination was recorded only when directly visible, photograph/illustration/library-mark layers were kept distinct from literary text, and source-supported historical or anomalous forms were not silently normalized.
 
@@ -27,9 +29,9 @@ The source-first rules remained unchanged throughout: printed pagination was rec
 
 - Scans 10–16: portrait/front matter and complete Kalaignar preface verified.
 - Scan 17 / scene 1 through scans 36–38 / scene 9: all verified scene by scene.
-- Scan 39 / scene 10 opening: now verified, including its formerly unresolved ornate title `கலையரசி கண்ட உவகை`.
+- Scan 39 / scene 10 opening: verified, including its formerly unresolved ornate title `கலையரசி கண்ட உவகை`.
 
-Scene 10 continues outside the original batch through scans **40–41**. Those scans have also now been verified, so **காட்சி-10 is complete** even though only its opening scan belongs to this historical batch file.
+Scene 10 continues outside the original batch. Its literary text closes on scan **40**, and scan **41** is an associated full-page pictorial source layer. Scans 40–41 are also verified, so **காட்சி-10 is complete**.
 
 ## Notable source anomalies preserved
 
@@ -45,12 +47,24 @@ Scan 39 also carries a circular library/accession stamp overlapping the decorati
 
 No wording from the published English translation witness has been imported into the Tamil transcription.
 
-## Current project checkpoint beyond this batch
+## Superseding project checkpoint
 
-- Scans **1–41** are verified.
-- `காட்சி-1` through `காட்சி-10` are complete and verified.
-- Scans **42–45** have been individually mapped during forward boundary inspection and remain `needs-review`.
+The final Tamil page-level state is now:
+
+- scans **1–88 verified**;
+- **காட்சி-1 through காட்சி-38 verified at page-record level**;
+- scan-88 post-scene closing tableau archived with its library-stamp obstruction explicitly marked;
+- repository-wide Tamil transcription completion audit **PASS**;
+- scene-assembly readiness plan complete;
+- English translation not started.
+
+See:
+
+- `audit.md`
+- `SCENE_ASSEMBLY_PLAN.md`
+- `README.md`
+- `indexes/page-map.md`
 
 ## Next exact work
 
-Process **காட்சி-11 on scan 42** as the next complete-scene activity. Scan 43 begins `காட்சி-12`, so scene 11 is physically confined to scan 42. Verify its ornate title, complete dramatic text, printed page `26` and illustration layer before moving on.
+Assemble **காட்சி-1 / scan 17** as the scene-assembly pilot in `scenes/01.md`, following `SCENE_ASSEMBLY_PLAN.md`. Do not begin English translation.
