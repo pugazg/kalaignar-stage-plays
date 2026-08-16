@@ -53,7 +53,7 @@ For `காட்சி-1`:
 - `வாழ்க தமிழ்! வெல்க தமிழகம்!` → **`Long live Tamil! May Tamilakam triumph!`**.
 - `இமிழ் கடல் வேலித் தமிழகம்` → **`Tamilakam, girdled by the sounding sea`**.
 - `விற்கொடி` → **`bow-banner`**.
-- `கொட்டுவோம், கொட்டுவோம் முரசம்!` → **`Beat, beat the drum!`**, retaining the repetition and public-proclamation rhythm.
+- `கொட்டுவோம், கொட்டுவோம் முரசம்!` → **`Let us beat, let us beat the drum!`**, retaining the inclusive first-person call, repetition and public-proclamation rhythm.
 - `சேரர் தரணி` → **`the Chera land`**.
 - `செந்தமிழர் தாயகம்` → **`the homeland of the people of refined Tamil`** in the pilot, preserving the elevation of `செந்தமிழ்`; review later for performability/consistency before large-scale translation.
 
