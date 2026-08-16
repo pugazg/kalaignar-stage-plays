@@ -8,55 +8,49 @@ Immediate source: `../../scenes/NN.md`.
 
 If a Tamil reading needs checking, return to the verified `../../pages/NNNN.md` record and controlling Tamil scan. A published English edition, if later consulted, is a secondary comparison witness only.
 
-## Translation rules
-
-Mandatory:
+Mandatory translation controls:
 
 - `../../TRANSLATION_GUIDE.md`
 - `../../TRANSLATION_TERMINOLOGY.md`
 - `TRANSLATION_REVIEW.md`
 
-The translation must retain Kalaignar's rhetorical and dramatic voice — cadence, repetition, imagery, wit, polemical force, emotional escalation, intimate humour and political/literary register.
-
-Dravidian movement concepts may be related in **separate interpretive notes** when the Tamil wording genuinely supports the connection. Such interpretation must never be inserted into translated dialogue or stage directions as if Kalaignar had written it there.
-
-Permanent terminology lock: `அந்தணர்` is not automatically `Brahmin`; the same contextual discipline applies to `பார்ப்பார்`, `பார்ப்பன`, `மறையவன்` and related forms.
+The English must retain Kalaignar's cadence, repetition, imagery, wit, emotional escalation and political/literary register. Dravidian movement concepts belong in **separate interpretive notes** when genuinely supported by the Tamil; they must not be inserted into dialogue.
 
 ## Current status
 
 - Tamil archival/assembly/global-review gates: **complete / PASS**.
-- English translation protocol: active.
-- Terminology register: active.
-- Scenes **1–5**: translated / `translation-reviewed` / PASS.
-- Completed English scene count: **5 / 38**.
-- No published English witness has been used for scenes 1–5.
-- Two-register pilot stage (scenes 1–2): **accepted**.
-- First controlled multi-scene batch (scenes 3–5): **PASS**.
+- Scenes **1–8**: translated / `translation-reviewed` / PASS.
+- English progress: **8 / 38 numbered scenes**.
+- No published English witness has been used for scenes 1–8.
+- Two-register pilot (1–2): PASS.
+- Controlled batch 3–5: PASS.
+- Controlled batch 6–8: PASS.
 
-## Completed English scenes
+## Scene 6–8 findings
 
-1. `01.md` — `வஞ்சி மூதூரில் முரசறைதல்`: public proclamation, slogans, Tamilakam/homeland rhetoric.
-2. `02.md` — `செங்குட்டுவன் பிறந்தநாள் விழா`: family humour, affection, erotic metaphor and scepticism toward divination.
-3. `03.md` — `விழாவும் வினாவும்`: Kural, fate versus reason, old-epic/new-epic challenge.
-4. `04.md` — `இளங்கோ துறவு`: renunciation, family grief, explicit `விதி / மதி`, human agency and satire on the soothsayer.
-5. `05.md` — `சிலம்பின் தோற்றம்`: hill-Tamil identity, Tamil-land abundance, shared Chera–Chola–Pandya literary framing and the beginning of the Kannagi epic.
+- **Scene 6 — `பூம்புகார்ப் பொற்றொடி`**: preserves Puhar's maritime cosmopolitanism, Kalaignar's `ancient Tamil named Indran` framing, Tamil-land/Tamilakam distinction, explicit Tamil/other-language love metaphor, and Muthamizh wordplay.
+- **Scene 7 — `கலைக்கரசி மாதவி`**: preserves dance/performance vocabulary, `swayamvaram`, `kalanju`, the transaction-versus-worthiness reversal, Madhavi/Vasanthamalai's resistance, and Kovalan's assertion of `Tamilakam's worth`.
+- **Scene 8 — `கண்ணகி இல்லறம்`**: preserves marital lyricism and family humour; the quote containing `பார்ப்பார்` passed mandatory terminology review. In this occurrence `பார்ப்பார்` is rendered `venerable ritual officiants`, **not `Brahmin`**, because the clause defines the role through `மறைவழி` and `தீவலம்`.
 
-Each scene has its own review file (`NN_REVIEW.md`) except scene 1, whose accepted pilot review is `PILOT_REVIEW.md`.
+The scene-8 decision is occurrence-specific; future `பார்ப்பார்` occurrences still require contextual review.
 
-## Next controlled batch — scenes 6–8
+## Permanent terminology discipline
 
-Translate and review each independently:
+Do **not** collapse `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன்` into one English label. `அந்தணர்` remains explicitly **not automatically `Brahmin`**.
 
-- **Scene 6** — Puhar/Tamil maritime geography, Sattanar narration, foreigners and love imagery;
-- **Scene 7** — court performance, humour, sexuality/marriage-choice rhetoric and social-status language;
-- **Scene 8** — intimate marital dialogue and the quotation containing `பார்ப்பார்`.
+## Exact next controlled batch — scenes 9–11
 
-Scene 8 has a mandatory terminology gate: **do not automatically render `பார்ப்பார்` as `Brahmin`**. Resolve the occurrence from its immediate literary/ritual context, record the decision in `TRANSLATION_TERMINOLOGY.md`, and only then mark the scene reviewed.
+Translate and review independently:
+
+- `09.md` — `பிரிவினை தந்த பேதை`: separation, `ஊடல்`, Rome trade, Tamil wealth/language imagery, and the transition toward Madhavi;
+- `10.md` — `கலையரசி கண்ட உவகை`: Madhavi's dance as emotional speech, repeated `ஆடுகிறாள்.`, artistic despair, love and social stigma;
+- `11.md` — `கற்பரசியின் கலக்கம்`: Kannagi's concealment, Devandhi's epic comparison, and Kannagi's refusal to insult Madhavi.
+
+Each scene requires its own `NN_REVIEW.md` and PASS before the batch is complete.
 
 ## File convention
 
 - numbered translations: `01.md` through eventual `38.md`;
-- per-scene reviews: `NN_REVIEW.md` where applicable;
-- final post-scene tableau: `closing-tableau.md` when reached;
-- review state: `TRANSLATION_REVIEW.md`;
-- pilot assessment: `PILOT_REVIEW.md`.
+- per-scene reviews: `NN_REVIEW.md` (scene 1 uses `PILOT_REVIEW.md`);
+- final tableau: `closing-tableau.md` when reached;
+- review tracker: `TRANSLATION_REVIEW.md`.
