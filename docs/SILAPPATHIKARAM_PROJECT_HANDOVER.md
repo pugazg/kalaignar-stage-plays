@@ -31,7 +31,8 @@ Read completely:
 9. `translations/en/README.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
 11. `translations/en/PILOT_REVIEW.md`
-12. the verified Tamil scene file currently being translated.
+12. `translations/en/02_REVIEW.md`
+13. the verified Tamil scenes currently being translated.
 
 ## Completed Tamil state
 
@@ -42,45 +43,38 @@ Read completely:
 - Global Tamil consistency/source review: **PASS**.
 - Tamil archival / assembly / global-review phases: **COMPLETE**.
 
-The global review found no new Tamil literary/page-record correction and no new scene-text correction. Known anomalies and the scan-88 obstruction remain protected.
+Known source anomalies and the scan-88 obstruction remain protected. Do not restart Tamil work during translation.
 
 ## English translation state
 
-Translation phase has begun under a dedicated protocol.
+Translation phase is active under the work-specific protocol.
 
-Created:
+Completed:
 
-- `works/silappathikaram-nataka-kappiyam/TRANSLATION_GUIDE.md`
-- `works/silappathikaram-nataka-kappiyam/TRANSLATION_TERMINOLOGY.md`
-- `works/silappathikaram-nataka-kappiyam/translations/en/README.md`
-- `works/silappathikaram-nataka-kappiyam/translations/en/TRANSLATION_REVIEW.md`
-- `works/silappathikaram-nataka-kappiyam/translations/en/01.md`
-- `works/silappathikaram-nataka-kappiyam/translations/en/PILOT_REVIEW.md`
+- `translations/en/01.md` — `காட்சி-1 / வஞ்சி மூதூரில் முரசறைதல்` — `translation-reviewed`, PASS;
+- `translations/en/02.md` — `காட்சி-2 / செங்குட்டுவன் பிறந்தநாள் விழா` — `translation-reviewed`, PASS;
+- `translations/en/PILOT_REVIEW.md` — scene-1 pilot assessment;
+- `translations/en/02_REVIEW.md` — second-register pilot assessment.
 
-### Pilot — காட்சி-1
+English progress: **2 of 38 numbered scenes**.
 
-Tamil: `வஞ்சி மூதூரில் முரசறைதல்`  
-English title: `Drum Proclamation in Vanchi, the Ancient City`
+No published English edition was used for drafting/reviewing scenes 1–2.
 
-Status:
+## Accepted translation method
 
-- `translation-reviewed`
-- review: **PASS**
-- secondary English witness used: **No**
-- pilot convention: **accepted**
+The two-register pilot stage has passed:
 
-The translation preserves Kalaignar's proclamation rhythm, repetition, direct public address, historical imagery and slogan structure.
+- scene 1 tested public proclamation, slogans, Tamilakam/homeland rhetoric, repetition and historical identity;
+- scene 2 tested intimate royal-family dialogue, humour, flirtation, kinship language, stage timing and rationalist scepticism.
 
-Accepted terminology includes:
+Scene-2 accepted terms include:
 
-- `தமிழகம்` → `Tamilakam`
-- `முரசறைவோன்` → `drum-announcer`
-- `இமிழ் கடல் வேலித் தமிழகம்` → `Tamilakam, girdled by the sounding sea`
-- `விற்கொடி` → `bow-banner`
-- `கொட்டுவோம், கொட்டுவோம் முரசம்!` → `Let us beat, let us beat the drum!`
-- `தாயகம்` → `homeland`
-
-`செந்தமிழர்` remains deliberately elevated in the pilot rather than being flattened automatically; revisit only through terminology consistency review if later evidence suggests a better stable English solution.
+- `விழாக்கோலம்` / `போர்க் கோலம்` → `festive array` / `battle array`;
+- `விழுப்புண்` → `wounds of valour`;
+- `கொலு மண்டபம்` → `royal audience hall`;
+- `நிமித்திகன்` → `soothsayer`;
+- `ஆருடம்` → `prophecy` in this occurrence;
+- `குறும்புக்காரா!` → `You little rogue!` in affectionate context.
 
 ## Kalaignar voice requirement
 
@@ -103,25 +97,24 @@ Translation choices should preserve source-supported conceptual resonances with 
 
 However, **interpretation must not be inserted into character dialogue**. Where useful, add a separate `Dravidian movement resonance — interpretive note` after the translation.
 
-Scene 1's note relates `வாழ்க தமிழ்! வெல்க தமிழகம்!`, `புதிய எழுச்சி`, the repeated drum-call and `தாயகம்` to Tamil identity, historical consciousness and public mobilization. It explicitly does not insert later terms such as `self-respect`, `social justice`, `rationalism` or `Dravidian` because scene 1 does not contain them.
+Scene 2's accepted note relates Ilango's direct challenge to the soothsayer and description of his claims as `பொய்யுரைகள்` to the rationalist / anti-superstition current of the Dravidian movement. The note remains separate because the source itself does not use later labels such as `rationalism` or `Dravidian`.
 
 ## Permanent terminology lock
 
 `அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and related source terms. Decide contextually and record decisions in `TRANSLATION_TERMINOLOGY.md`.
 
-## Exact next activity — காட்சி-2 translation/review
+## Exact next activity — controlled batch காட்சி-3 through காட்சி-5
 
-Translate **காட்சி-2 — `செங்குட்டுவன் பிறந்தநாள் விழா`**, setting `வஞ்சி`, from verified `scenes/02.md`.
+Translate and review individually:
 
-Scene 2 is deliberately one more single-scene pilot before batching because it tests:
+1. `காட்சி-3 — விழாவும் வினாவும்`, setting `சேரன் அரண்மனை`;
+2. `காட்சி-4 — இளங்கோ துறவு`, setting `சேரலாதன் மாளிகை`;
+3. `காட்சி-5 — சிலம்பின் தோற்றம்`, setting `சேரநாடு`.
 
-- intimate family dialogue rather than public proclamation;
-- humour and teasing;
-- affection;
-- abbreviated/full speaker-label shifts;
-- stage directions and emotional subtext;
-- natural English that still retains Kalaignar's cadence.
+Special conceptual attention:
 
-Review the completed translation line-by-line against `scenes/02.md`, update the terminology register only where new recurring decisions arise, add a Dravidian-movement interpretive note only if the source supports one, and advance `TRANSLATION_REVIEW.md`.
+- scene 3 makes the conflict between fate and human agency explicit and includes a quoted Kural and epic analogy;
+- scene 4 intensifies `விதி` versus human reason/agency through Ilango's renunciation and family grief;
+- scene 5 moves into the Kannagi story and Kalaignar's framing of it as a Tamil epic connected to the three Tamil kingdoms.
 
-After scene 2 passes, establish the first controlled multi-scene translation batch.
+Each scene must independently pass complete coverage, semantic fidelity, Kalaignar-voice, terminology, stage-timing and source/Dravidian-interpretation separation before promotion to `translation-reviewed`.
