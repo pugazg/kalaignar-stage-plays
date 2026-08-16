@@ -26,11 +26,14 @@ A scene may be marked `translation-reviewed` only after:
 | 6 | `பூம்புகார்ப் பொற்றொடி` | `translation-reviewed` | PASS | No | Yes | Maritime Puhar, Tamil-language metaphor and Muthamizh passed. |
 | 7 | `கலைக்கரசி மாதவி` | `translation-reviewed` | PASS | No | Yes | Art, swayamvaram, women's choice and Tamil collective worth passed. |
 | 8 | `கண்ணகி இல்லறம்` | `translation-reviewed` | PASS | No | Yes | Married-life poetry and occurrence-level `பார்ப்பார்` review passed. |
-| 9 | `பிரிவினை தந்த பேதை` | `translation-reviewed` | PASS | No | Yes | `oodal`, Rome trade, Tamil wealth/language imagery, separation rhetoric and source ambiguity handling passed. See `09_REVIEW.md`. |
-| 10 | `கலையரசி கண்ட உவகை` | `translation-reviewed` | PASS | No | Yes | Repeated dance cadence, art/sorrow argument, Tamilakam and inherited social stigma passed. See `10_REVIEW.md`. |
-| 11 | `கற்பரசியின் கலக்கம்` | `translation-reviewed` | PASS | No | Yes | Kannagi's concealment, double meaning, epic comparison and refusal to insult Madhavi passed. See `11_REVIEW.md`. |
-| 12–14 | — | not started | pending | — | pending | Exact next controlled batch. |
-| 15–38 | — | not started | pending | — | pending | Proceed only under accepted protocol and batch review discipline. |
+| 9 | `பிரிவினை தந்த பேதை` | `translation-reviewed` | PASS | No | Yes | `oodal`, Rome trade, Tamil wealth/language imagery and separation rhetoric passed. |
+| 10 | `கலையரசி கண்ட உவகை` | `translation-reviewed` | PASS | No | Yes | Repeated dance cadence, art/sorrow, Tamilakam and inherited stigma passed. |
+| 11 | `கற்பரசியின் கலக்கம்` | `translation-reviewed` | PASS | No | Yes | Concealment, double meaning, epic comparison and refusal to insult Madhavi passed. |
+| 12 | `இன்ப வாழ்வில் கோவலன்` | `translation-reviewed` | PASS | No | Yes | Long erotic praise, unresolved `சேற் கெண்டை` handling, garland/word-stringing wit and explicit Tamil-glory climax passed. See `12_REVIEW.md`. |
+| 13 | `துன்பப் புயலில் கண்ணகி` | `translation-reviewed` | PASS | No | Yes | Emotional counterpoint, Tamil custom/collective identity, defence of Madhavi and triple final repetition passed. See `13_REVIEW.md`. |
+| 14 | `மாதவியின் மாண்பு` | `translation-reviewed` | PASS | No | Yes | Pregnancy wordplay, practical ethical argument, Tamil sacred-lore line and strict `பிராமண / பார்ப்பன / அந்தணர் / மறையவர்` distinction passed. See `14_REVIEW.md`. |
+| 15–17 | — | not started | pending | — | pending | Exact next controlled batch. |
+| 18–38 | — | not started | pending | — | pending | Proceed only under accepted protocol and batch review discipline. |
 | closing tableau | `கண்ணகி சிலை நாட்டு விழா` | not started | pending | — | pending | Preserve scan-88 obstruction in Tamil provenance; translation handling to be decided only when reached. |
 
 ## Accepted conventions now controlling
@@ -39,23 +42,24 @@ Unless later scene evidence requires an explicitly documented revision:
 
 - retain `Tamilakam` rather than modernizing it to `Tamil Nadu`;
 - distinguish source `தமிழ்நாடு / தமிழ்நாட்டு` contextually from `தமிழகம்`;
-- preserve slogans, repetitions, direct address, poetic accumulation and theatrical sound;
-- retain historical/cultural terms when English substitution would erase the source taxonomy (`Muthamizh`, `iyal`, `isai`, `koothu`, `pann`, `thalaikkol`, `kalanju`, `swayamvaram`);
-- preserve explicit Tamil peoplehood, Tamil economic/cultural worth and Tamil historical geography;
-- retain `oodal` where the named classical love category matters;
-- keep repeated `ஆடுகிறாள்.` as repeated `She dances.`;
+- preserve slogans, repetitions, direct address, poetic accumulation, humour and theatrical sound;
+- retain named cultural/technical terms when English substitution would erase the source taxonomy (`Muthamizh`, `iyal`, `isai`, `koothu`, `pann`, `thalaikkol`, `kalanju`, `swayamvaram`, `oodal`);
+- preserve explicit Tamil peoplehood, Tamil economic/cultural worth and historical geography;
+- preserve source ambiguity rather than silently correcting verified Tamil;
 - keep movement-context commentary outside translated dialogue;
-- do not automatically translate `அந்தணர்`, `பார்ப்பார்`, `பார்ப்பன`, or `மறையவன்` through one undifferentiated `Brahmin` label.
+- do not automatically translate `அந்தணர்`, `பார்ப்பார்`, `பார்ப்பன`, or `மறையவர்` through one undifferentiated `Brahmin` label.
 
-### Scene-8 caste/ritual terminology precedent
+### Scene-14 terminology precedent
 
-`மாமுது பார்ப்பார் மறைவழி காட்டிடத் தீவலம் செய்து நிகழ்த்திய திருமணம்` is rendered functionally with `venerable ritual officiants`, `the way of the sacred lore`, and `circled the fire`.
+Scene 14 is now a controlling example of why Kalaignar's vocabulary must remain distinct:
 
-This remains occurrence-specific, not a global equation for `பார்ப்பார்`.
+- explicit `பிராமண மாது / பிராமணமாது` → `Brahmin woman`;
+- source `பார்ப்பனமாது` → retained as `paarppana woman` in that direction;
+- `அந்தணர் / அந்தணன்` → **`Antanar`**, not `Brahmin`;
+- `மறையவர்` → `man of sacred lore`;
+- `தமிழ் மறை` → `Tamil sacred lore`.
 
-### Scene-9 ambiguity precedent
-
-The verified source line `உன் நூல்தான் எல்லாம்...` remains lexically opaque in context. The English keeps a conservative literal image (`your thread is everything...`) and documents the ambiguity rather than silently correcting the Tamil.
+This is not a claim that all occurrences have one fixed English equivalent; future uses still require context review.
 
 ## Batch progression
 
@@ -64,16 +68,17 @@ Completed translation stages:
 - scenes 1–2: two-register pilot — PASS;
 - scenes 3–5: first controlled multi-scene batch — PASS;
 - scenes 6–8: second controlled multi-scene batch — PASS;
-- scenes 9–11: third controlled multi-scene batch — PASS.
+- scenes 9–11: third controlled multi-scene batch — PASS;
+- scenes 12–14: fourth controlled multi-scene batch — PASS.
 
-English progress: **11 / 38 numbered scenes**.
+English progress: **14 / 38 numbered scenes**.
 
-No published English edition has been used for scenes 1–11.
+No published English edition has been used for scenes 1–14.
 
-## Exact next controlled batch — scenes 12–14
+## Exact next controlled batch — scenes 15–17
 
-- **Scene 12 — `இன்ப வாழ்வில் கோவலன்`**, setting `மாதவி வீடு`.
-- **Scene 13 — `துன்பப் புயலில் கண்ணகி`**, setting `கண்ணகி வீடு`.
-- **Scene 14 — `மாதவியின் மாண்பு`**, setting `காவிரி ஆற்றோரம்`.
+- **Scene 15 — `மனமாறிந்த கோவலன்`**, setting `கண்ணகி வீடு`: return to Kannagi, diminished household, memory, repentance and reconciliation. Preserve the long bracketed visual-memory sequence and unusual source forms rather than smoothing them away.
+- **Scene 16 — `மணிமேகலை பிறப்பு`**, setting `மாதவி வீடு`: childbirth/naming celebration, song, humour, social/religious language and the naming of Manimekalai. Review any caste/ritual terms occurrence by occurrence.
+- **Scene 17 — `மாசறு பொன்மகிழ்வு`**, setting `கண்ணகி வீடு`: Devandhi's report of Kovalan's public deed, Kannagi's response, renewed joy and the continuing moral/emotional contrast among Kannagi, Kovalan and Madhavi.
 
-For the next batch, continue to preserve Kalaignar's contrasting emotional architecture: Kovalan's pleasurable life with Madhavi, Kannagi's storm of suffering, and the scene explicitly framing Madhavi's `மாண்பு`/moral stature. Review each scene independently before promotion.
+Each scene must independently pass coverage, semantics, Kalaignar voice, terminology, stage timing and Dravidian-context separation before promotion.
