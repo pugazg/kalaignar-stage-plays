@@ -27,25 +27,24 @@ English translation is active under:
 
 ### Current translation checkpoint
 
-Scenes **1–8** are translated and individually reviewed / PASS.
+Scenes **1–11** are translated and individually reviewed / PASS.
 
-English progress: **8 / 38 numbered scenes**.
+English progress: **11 / 38 numbered scenes**.
 
-No published English edition was used in drafting or reviewing scenes 1–8.
+No published English edition was used in drafting or reviewing scenes 1–11.
 
 Completed stages:
 
-- two-register pilot, scenes 1–2: **PASS**;
-- controlled batch scenes 3–5: **PASS**;
-- controlled batch scenes 6–8: **PASS**.
+- scenes 1–2: two-register pilot — **PASS**;
+- scenes 3–5: controlled batch — **PASS**;
+- scenes 6–8: controlled batch — **PASS**;
+- scenes 9–11: controlled batch — **PASS**.
 
-### Scene 6–8 findings
+### Scene 9–11 findings
 
-- Scene 6 preserves Puhar's maritime/international setting, the source's `இந்திரன் என்னும் பழந்தமிழன்` as `an ancient Tamil named Indran`, `எழுச்சி விழா` as `festival of awakening`, Tamil land/Tamilakam distinctions, `தமிழை விட்டுச் சுவை பிரியுமா?`, `வேற்று மொழி குறுக்கிட்டால்?`, and the `Muthamizh / iyal / isai / koothu` joke.
-- Scene 7 preserves `கலைக்கரசி` as `Queen of the Arts`, technical `iyal / pann / thalaikkol`, `kalanju`, `swayamvaram`, Madhavi's refusal of a price-determined marriage, Vasanthamalai's defence of her choice, and Kovalan's `Tamilakam's worth` rhetoric.
-- Scene 8 preserves marital lyricism, family confrontation/comedy and the quoted ritual-marriage line. The mandatory occurrence-level review concluded that scene-8 `பார்ப்பார்` should be rendered **`venerable ritual officiants`**, not automatically `Brahmin`, because the same clause defines their role through `மறைவழி` and `தீவலம்`.
-
-The `பார்ப்பார்` decision is occurrence-specific and does not create a universal translation rule for the word.
+- Scene 9 preserves `ஊடல்` as `oodal`, Rome/pearl-trade rhetoric, `தமிழர் வளம்`, repeated `செந்தமிழ்` love imagery, `கொல்லாமற் கொல்லாதீர்`, `எண்ணிரண்டு பதினாறு கிழமை`, the `பிரியவில்லை / பிரியமில்லை` semantic turn, and the unresolved verified source line `உன் நூல்தான் எல்லாம்...` without silent correction.
+- Scene 10 preserves `ஆடுகிறாள். / ஆடுகிறாள். / ஆடிக்கொண்டே இருக்கிறாள்.` as `She dances. / She dances. / She goes on dancing.`, `“தடால்!”` as `THADAAL!`, `விரகதாபம்`, Tamilakam's blossoming-joy image, the repeated `வேண்டேன்` rhetoric, and the inherited-stigma line `மயக்குகின்ற மாதர் வழி வந்தவள்` without harsher modernization.
+- Scene 11 preserves Kannagi's concealment, the source's intentionally unlabelled right-column continuation, `(இருபொருளில்)`, Devandhi's Sita/Rama/Surpanakha comparison, and Kannagi's refusal to demean Madhavi.
 
 ## Kalaignar-language and Dravidian-movement interpretation rule
 
@@ -55,26 +54,26 @@ Preserve source-supported resonances with Dravidian movement concepts — Tamil 
 
 Use a separate `## Dravidian movement resonance — interpretive note` when useful.
 
-Scenes 6–8 add three important interpretive patterns:
+Scenes 9–11 add these accepted interpretive patterns:
 
-- scene 6: Tamil-centred maritime cosmopolitanism, historicizing cultural recovery and language metaphor;
-- scene 7: women's choice/dignity and Tamil collective worth;
-- scene 8: companionate marital dignity and interpretive restraint — the ritual line is not turned into an invented anti-ritual polemic.
+- scene 9: Tamil language, love and economic worth are intertwined; Kannagi also directs humane treatment of Madhavi;
+- scene 10: artistic achievement is set against inherited social stigma, with art framed as a public cultural good of Tamilakam;
+- scene 11: Kannagi refuses to build her own dignity by humiliating Madhavi, but the movement-context reading remains deliberately restrained.
 
 ## Permanent terminology lock
 
 `அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன்`, and related source terms through contextual review.
 
-`குறும்பாடு` in scene 5 remains `kurumpaadu` pending reliable lexical evidence rather than being guessed into a zoological equivalent.
+Scene 8's `பார்ப்பார்` → `venerable ritual officiants` remains an occurrence-level decision only.
 
 The published English edition, if later consulted, remains a **secondary comparison witness only**.
 
-## Exact next activity — controlled batch scenes 9–11
+## Exact next activity — controlled batch scenes 12–14
 
 Translate and individually review:
 
-1. `காட்சி-9 — பிரிவினை தந்த பேதை`, setting `கண்ணகி.கோவலன்—கட்டில் அறை` — `ஊடல்`, separation, Rome trade, Tamil wealth/language imagery, and the transition toward Madhavi;
-2. `காட்சி-10 — கலையரசி கண்ட உவகை`, setting `மாதவி இல்லம்` — Madhavi's emotionally charged dance, repeated `ஆடுகிறாள்.`, artistic despair, erotic attachment and social-status stigma;
-3. `காட்சி-11 — கற்பரசியின் கலக்கம்`, setting `கண்ணகி வீடு` — Kannagi's concealment of Kovalan's delay, Devandhi's epic comparison and Kannagi's refusal to demean Madhavi.
+1. `காட்சி-12 — இன்ப வாழ்வில் கோவலன்`, setting `மாதவி வீடு`;
+2. `காட்சி-13 — துன்பப் புயலில் கண்ணகி`, setting `கண்ணகி வீடு`;
+3. `காட்சி-14 — மாதவியின் மாண்பு`, setting `காவிரி ஆற்றோரம்`.
 
-Each scene must independently pass coverage, semantics, Kalaignar-voice, terminology, stage timing and Dravidian-context separation review.
+Preserve Kalaignar's deliberate emotional contrast across the three scenes: Kovalan's pleasurable life with Madhavi, Kannagi's storm of suffering, and Madhavi's `மாண்பு`/moral stature. Each scene must independently pass coverage, semantics, Kalaignar-voice, terminology, stage timing and Dravidian-context separation review.
