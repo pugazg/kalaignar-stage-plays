@@ -30,49 +30,49 @@ Read completely:
 8. `SCENE_ASSEMBLY_PLAN.md`
 9. `VISUAL_TEXT_FIDELITY_CHECK.md`
 10. `SCENE_ASSEMBLY_PILOT_REVIEW.md`
-11. `scenes/01.md` through `scenes/26.md`
+11. `scenes/01.md` through `scenes/31.md`
 
 ## Current checkpoint
 
 - 88 source scans; scans 1–88 visually verified at page-record level.
 - Tamil transcription completion audit: **PASS**.
 - Scene assembly active with mandatory visual fidelity.
-- Scenes **1–26** are `assembly-reviewed`, visual fidelity `passed`.
-- **26 of 38 numbered scenes are assembly-reviewed.**
+- Scenes **1–31** are `assembly-reviewed`, visual fidelity `passed`.
+- **31 of 38 numbered scenes are assembly-reviewed.**
 - Continue in **five-scene iterations**.
 - English translation remains locked.
 
-## Latest iteration — scenes 22–26
+## Latest iteration — scenes 27–31
 
-### Scene 22 / scans 63–64
-`மதுரைப் பயணம்`, setting `மதுரை செல்லும் வழி`. Scan 63 has no secure printed page; scan 64 prints `48`. The physical continuation `என் பத்தினியின்` → `பாதம் பட்டுப்...` and scan-64 column transition were directly rechecked. No verified page correction.
+### Scene 27 / scan 70
+`ஆய்ச்சியர் அறிமுகம்`; initial setting `மதுரை எல்லை`, internal `மாதரி வீடு...`; printed page `54`. Direct scan review confirmed source forms including `இளங் கூட்டத்திற்குள்`, `சமணத் துறவிகளுக்குப் பாற்சோறு`, `பசக் கூட்டத்தோடு`, and `தடையா சொல்லப் போகிறேன்?`. No verified page correction.
 
-### Scene 23 / scan 65
-`மாதவி துறவு`, setting `மாசாத்துவான் வீடு`; printed page `49`. Kovalan-letter quotation, `மாசாத்துவான்` / `மாசாத்` label variation and coin-heap illustration retained. No verified page correction.
+### Scene 28 / scan 71
+`பொற்கொல்லர் முறையீடு`, setting `பாண்டியன் தனிமாடம்`; no secure printed pagination. The unmatched closing bracket in `கோப்பெருந்தேவி கேட்டுக்கொண்டே வருகிறாள்.]` and quoted `“உற்றுழி உதவியும் / உறுபொருள் கொடுத்தும்”...` fragment remain exactly source-derived. No verified page correction.
 
-### Scene 24 / scan 66
-`கவுந்தியுடன் கண்ணகி கோவலன்`, setting `வழியில்`; printed page `50`. Cross-column Kannagi continuation `துயரங் / கள் மறக்கிறேனே` was verified directly. Source forms including `முள்ளுத்த`, `இதாவது`, `ஆருத் துயரத்தில்`, `என்ற திருக்குறளின் மறந்தாயா?`, and `அதனுல்தான்` remain unchanged. No verified page correction.
+### Scene 29 / scans 72–75
+`ஒற்றைச் சிலம்பின் ஒலி`, setting `மாதரி வீடு`. All four scans and all physical boundaries passed direct fidelity. Scan 72 prints `56`; scan 73 visibly prints anomalous numeral `8`; scans 74–75 have no secure page numbers. The unusual 72→73 continuation `கழற்றுமல்` → `வீட்டு வைத்திருக்கும்...` is not normalized. Scan 75 exact archaeological/object caption is retained separately. No verified page correction.
 
-### Scene 25 / scans 67–68
-`நீதி வழுவா நெடுஞ்செழியன்`, setting `பாண்டியன் அவை`. Exact scan-67 archaeological caption remains separate: `“பூம்புகார்” அகழ்வாராய்ச்சி- / கி.மு. 3ஆம் நூற்றாண்டின் / படகு கட்டும் துறை.` Later library/accession stamp remains outside publication text. Scan 68 prints `52`. No verified page correction.
+### Scene 30 / scan 76
+`சிலம்போ சிலம்பு`, setting `பொற்கொல்லர் நிலையம்`, internal `சாலை`; printed page `60`. Source forms such as `முளைத்தா`, `பகற்`, `அதற்கென்றுள்`, `தருகிறேனய்யா`, `எனப்பா`, and `தானுகவே` remain unchanged. No verified page correction.
 
-### Scene 26 / scan 69
-`அரசியின் சிலம்பு`, setting `பொற்கொல்லன் வீடு`; printed page `53`. The bracketed theft direction crosses columns from `எழுந்து` to `செல்லும்போது, அதிகாரி அந்தச் சிலம்பைத் திருடிவிடுகிறான்]` and was directly verified. No verified page correction.
+### Scene 31 / scan 77
+`வளைந்தது செங்கோல்`, initial setting `நெடுஞ்செழியன் பள்ளியறை`, internal `தாழ்வாரம்`; printed page `61`. The unmatched opening bracket `[என வேகமாகப் போகிறான்!` remains exactly as printed. No verified page correction.
 
 ## Translation terminology lock
 
 Do **not** automatically translate `அந்தணர்` as “Brahmin.” Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and related source-specific terms. English translation starts only after scene assembly and global Tamil review unless the user explicitly changes phase.
 
-## Exact next activity — scenes 27–31
+## Exact next activity — scenes 32–36
 
 Process five scenes in the next iteration:
 
-1. **காட்சி-27 / scan 70 — `ஆய்ச்சியர் அறிமுகம்`**, initial setting `மதுரை எல்லை`, internal `மாதரி வீடு...`; printed page `54`.
-2. **காட்சி-28 / scan 71 — `பொற்கொல்லர் முறையீடு`**, setting `பாண்டியன் தனிமாடம்`; preserve the unmatched closing bracket in `கோப்பெருந்தேவி கேட்டுக்கொண்டே / வருகிறாள்.]`; no secure printed pagination.
-3. **காட்சி-29 / scans 72–75 — `ஒற்றைச் சிலம்பின் ஒலி`**, setting `மாதரி வீடு`; scan 72 prints `56`; preserve all four physical scans and continued Kovalan speech.
-4. **காட்சி-30 / scan 76 — `சிலம்போ சிலம்பு`**, setting `பொற்கொல்லர் நிலையம்`, internal `சாலை`; printed page `60`.
-5. **காட்சி-31 / scan 77 — `வளைந்தது செங்கோல்`**, initial setting `நெடுஞ்செழியன் பள்ளியறை`, internal `தாழ்வாரம்`; printed page `61`; preserve the unmatched opening bracket in `[என வேகமாகப் போகிறான்!`.
+1. **காட்சி-32 / scans 78–79 — `மதுரை மண்ணில் கோவலன் குருதி`**, setting `வீதியிலுள்ள மண்டபம்`; scan 78 prints `62`, scan 79 no secure page number and large uncaptioned dramatic illustration.
+2. **காட்சி-33 / scan 80 — `கணவன் கள்வனா?`**, setting `குரவைக் கூத்து`; printed page `64`.
+3. **காட்சி-34 / scan 81 — `வஞ்சினங் கூறுதல்`**, setting `வீதியிலுள்ள மண்டபம்`; preserve lower-left `9` plus damaged/indistinct following mark and do not infer `65`.
+4. **காட்சி-35 / scans 82–85 — `வழக்குரை படலம்`**, setting `பாண்டியன் கொலு மண்டபம் (வெளியே)`; scan 82 prints `66`; scan 84 exact caption `“பூம்புகார்” அகழ்வாராய்ச்சியில் / கண்ட படகுத்துறை` remains separate.
+5. **காட்சி-36 / scan 86 — `தீயினில் திருநகர்`**, setting `தெருக்கள்`; no secure page number; preserve printed `★` separator and keep two lower photographic/reproduction images separate.
 
-Create/review `scenes/27.md` through `scenes/31.md`. Inspect all source scans directly, compare character-level text and boundaries against pixels and verified pages, correct only pixel-proven errors, and independently promote each scene only after both checks pass.
+Create/review `scenes/32.md` through `scenes/36.md`. Inspect all source scans directly, compare character-level text and boundaries against pixels and verified pages, correct only pixel-proven errors, and independently promote each scene only after both checks pass.
 
 Do not begin English translation.
