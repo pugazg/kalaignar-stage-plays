@@ -12,9 +12,9 @@ This repository preserves this scanned edition as supplied. The PDF itself is no
 
 - Scan length: **88 pages**.
 - Scans **1–16**: front matter, Anna's `அணிந்துரை`, author portrait and Kalaignar's complete prefatory material; verified.
-- Scans **17–48**: detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-14**.
-- Scan **49**: individually mapped as the opening of `காட்சி-15`; currently `needs-review`.
-- Scans **50–87** still require individual sequential mapping.
+- Scans **17–49**: detailed dramatic-body verification now covers **காட்சி-1 through காட்சி-15**.
+- Scan **50**: individually mapped as the one-scan `காட்சி-16`; currently `needs-review`.
+- Scan **51** visibly begins `காட்சி-17`.
 - Scan **88** visibly carries `காட்சி-38`.
 
 Scene-title readings are accepted only after direct enlarged visual verification; stylized headings are not guessed from context or from the English translation.
@@ -26,52 +26,41 @@ Scene-title readings are accepted only after direct enlarged visual verification
 | Repository bootstrap | Complete |
 | Source identity / checksum | Complete |
 | Initial scan survey | Complete |
-| Page map | Individual records through scan 49 |
-| Page records | Present through scan 49 |
-| Fully verified pages | **Scans 1–48** |
+| Page map | Individual records through scan 50 |
+| Page records | Present through scan 50 |
+| Fully verified pages | **Scans 1–49** |
 | Anna `அணிந்துரை` | Complete and verified |
 | Kalaignar preface | Complete and verified |
-| Dramatic-body detailed verification | **காட்சி-1 through காட்சி-14 verified** |
-| Scan 49 / காட்சி-15 opening | Structurally mapped; `needs-review` |
+| Dramatic-body detailed verification | **காட்சி-1 through காட்சி-15 verified** |
+| Scan 50 / காட்சி-16 | Structurally mapped; `needs-review` |
 | Scene assembly | Not started |
 | Full source audit | Not started |
-| English translation | Not started; published translation witness recorded for future collation |
+| English translation | Not started; published translation witness and terminology lock recorded |
 
-## Latest detailed verification — காட்சி-14
+## Latest detailed verification — காட்சி-15
 
-`காட்சி-14` spans **scans 46–48**, with printed pages **30–32**. Scan 49 directly begins `காட்சி-15`, so the scene boundary is secure.
+`காட்சி-15` is a one-scan scene on **scan 49 / `pages/0049.md`**. Scan 50 directly begins `காட்சி-16`.
 
-### Scan 46 — `pages/0046.md`
+- Scene marker: `காட்சி-15`.
+- Enlarged source inspection resolves the decorative title as the unusual printed form **`மனமாறிந்த கோவலன்`**; it is preserved rather than regularized.
+- Setting heading: **`கண்ணகி வீடு`**.
+- No printed page number is visible.
+- Complete stage prose and Kannagi's extended speech are verified.
+- The opening stage prose moves through the reduced household, remembered scenes with Kovalan, the cow, bed, jasmine flowers, unlit lamp, entrance and door; Kovalan approaches, but Kannagi closes the door before realizing he is there.
+- The bracketed stage prose crosses the source column boundary: the left column ends after Kovalan turns away, and the right begins `கதவை மூடிச் சென்ற கண்ணகி...` before closing the bracket near Kovalan's portrait.
+- Preserve source forms/splits including `நகை நட்டு எதுமின்றி`, `ஆடம்பர நில / இல்லை`, `பசவும்`, `பொல / பொல`, `கத / வண்டை`, `அதிர்ச்சி யடைந்து`, `கூர்பார்க்க`, `தடையேன்`, `உறவு முறு / கின்றார்`, and the repeated `அத்தான்!...` punctuation.
+- The large lower-right sculptural photograph/reproduction is uncaptioned; no identity is inferred.
 
-- Scene marker: `காட்சி-14`.
-- Enlarged source inspection confirms the decorative title **`மாதவியின் மாண்பு`**.
-- Setting heading: **`காவிரி ஆற்றோரம்`**.
-- Printed page marker: **`30`** at lower left.
-- Complete two-column Kovalan–Madhavi dialogue and stage directions verified.
-- The page ends physically at Kovalan's `இப்படித்`; scan 47 resumes `தான் எதற்கெடுத்தாலும்...`.
-- Preserve source-supported forms/punctuation such as `ஒன்றுமில்ல`, `சொல்லவேயில்ல`, `கோகிலமே`, `ஊகும்`, `[கோவலன் தும்முகிறான்]`, `நூறாண்டு வாழ்க!`, and the physical word splits recorded in the page file.
-- Small printed illustration is uncaptioned; no identity is inferred.
+Verification used the controlling Tamil scan rendered at enlarged resolution with targeted crops and contrast variants. The published English translation was not used to settle the Tamil title or text.
 
-### Scan 47 — `pages/0047.md`
+## Translation terminology lock — `அந்தணர்`
 
-- Printed page marker: **`31`** at lower right.
-- Continues Kovalan and Madhavi, then introduces a grieving Brahmin woman carrying a child.
-- The source preserves label variants `பிராமண மாது`, later `பிராமணமாது`, and stage-direction form `பார்ப்பனமாது`; these are not standardized.
-- The final speaker label is visibly **`அந்தணர் ;`** with a semicolon.
-- Preserve the deliberately spaced/repeated phrase `மா...தா...வி...தான்! ... மாதா...மாதா... நீ...மாதா...நான்...பிதா!` and source forms such as `கல்மனத்தை`.
-- A bracketed direction crosses the source column boundary from `ஒரு பிராமண` to `மாது கையில்...`.
-- Small lower-centre illustration is uncaptioned.
+A user-directed future-translation rule is recorded in `metadata/english-translation-source.md`:
 
-### Scan 48 — `pages/0048.md`
-
-- Printed page marker: **`32`** at lower left.
-- Completes the Brahmin-family episode and closes scene 14 with Madhavi urging Kovalan to see Kannagi.
-- Preserve speaker abbreviations `அந்த` and `மாத`, source plural `கொன்றுவிட்டார்கள்!`, `சரிக்குச் சரி`, `அந்தணனுக்கும்`, `தமிழ் மறை`, `ஊகும் -`, and especially the visibly printed physical form **`கண்ணகி / யக்காணப்`** rather than silently regularizing it.
-- Madhavi's speech crosses the physical column boundary at `அது / போல் தானே...`.
-- Small standing/dancing figure illustration is uncaptioned.
-- Scan 49 directly begins `காட்சி-15`.
-
-Verification used the controlling Tamil scan at enlarged resolution with targeted crops for the ornate title, dense dialogue, speaker labels, cross-column continuations and difficult source forms. The published English translation was not used to settle scene-14 Tamil readings.
+- Kalaignar's `அந்தணர்` must **not** be automatically equated with or translated as **“Brahmin.”**
+- Preserve the distinction between source terms such as `பிராமண`, `பார்ப்பன`, and `அந்தணர்`.
+- Scene 14 itself visibly uses `பிராமண மாது` / `பிராமணமாது` / `பார்ப்பனமாது` for the woman while separately using `அந்தணர் ;`, `அந்த`, and `அந்தணனுக்கும்` for the man.
+- A context-sensitive English rendering for `அந்தணர்` will be decided only during dedicated translation review.
 
 ## Detailed-review working unit
 
@@ -83,4 +72,4 @@ A user-supplied published English volume is recorded at `metadata/english-transl
 
 ## Next work
 
-Begin **காட்சி-15 at scan 49**. First inspect forward until the next `காட்சி-` heading to establish the complete physical extent of scene 15. Then verify every scan in that scene, including the ornate title, speaker labels, dialogue, stage directions, punctuation, physical word splits, pagination and image/caption layers. Do not begin scene assembly or English translation yet.
+Process **காட்சி-16 on scan 50** as the next complete activity. Verify the provisional ornate title `மணிமேகலை பிறப்பு`, setting `மாதவி வீடு`, all dialogue/stage directions, punctuation and illustration layer. Scan 51 directly begins `காட்சி-17`, so scene 16 is physically one scan. Do not begin scene assembly or English translation yet.
