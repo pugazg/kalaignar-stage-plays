@@ -24,8 +24,8 @@ Read completely before changing anything:
 8. `SCENE_ASSEMBLY_PLAN.md`
 9. `VISUAL_TEXT_FIDELITY_CHECK.md`
 10. `SCENE_ASSEMBLY_PILOT_REVIEW.md`
-11. `scenes/01.md` through `scenes/26.md`
-12. verified source pages for scenes 27–31 (`pages/0070.md` through `pages/0077.md`)
+11. `scenes/01.md` through `scenes/31.md`
+12. verified source pages for scenes 32–36 (`pages/0078.md` through `pages/0086.md`)
 
 If the Tamil PDF is unavailable, stop and ask for it. Do not perform visual fidelity from repository text alone.
 
@@ -37,20 +37,20 @@ The Tamil scan is controlling authority. Do not silently modernize, correct, nor
 
 - All 88 scans are visually verified at page-record level.
 - Tamil completion audit: **PASS**.
-- Scenes **1–26** are `assembly-reviewed` with `visual_text_fidelity: "passed"`.
-- **26 of 38 numbered scenes are assembled/reviewed.**
+- Scenes **1–31** are `assembly-reviewed` with `visual_text_fidelity: "passed"`.
+- **31 of 38 numbered scenes are assembled/reviewed.**
 - Process **five scenes per iteration**.
 - English translation has not begun and remains locked.
 
-Latest batch, scenes 22–26, is complete. All five passed direct scan-to-assembly fidelity and page-record comparison. No verified page-record correction was required in this batch.
+Latest batch, scenes 27–31, is complete. All five passed direct scan-to-assembly fidelity and page-record comparison. No verified page-record correction was required in this batch.
 
 Key protected evidence from the completed batch includes:
 
-- scene 22: scan-63 → scan-64 continuation `என் பத்தினியின்` → `பாதம் பட்டுப்...`, scan 64 page `48`;
-- scene 23: Kovalan-letter quotation, `மாசாத்துவான்` / `மாசாத்` speaker variants, page `49`;
-- scene 24: cross-column `துயரங் / கள் மறக்கிறேனே`, page `50`;
-- scene 25: exact `“பூம்புகார்” அகழ்வாராய்ச்சி- / கி.மு. 3ஆம் நூற்றாண்டின் / படகு கட்டும் துறை.` caption and non-publication accession stamp separation, scan 68 page `52`;
-- scene 26: cross-column bracketed theft direction, page `53`.
+- scene 27: `மதுரை எல்லை` → internal `மாதரி வீடு...`, page `54`, source `பசக் கூட்டத்தோடு` retained;
+- scene 28: unmatched closing bracket and exact `“உற்றுழி உதவியும் / உறுபொருள் கொடுத்தும்”...` quotation retained;
+- scene 29: scans 72–75 all retained, page `56` on scan 72, anomalous `8` on scan 73, unusual `கழற்றுமல்` → `வீட்டு வைத்திருக்கும்...` page continuation preserved, exact scan-75 archaeological caption separate;
+- scene 30: internal `சாலை`, page `60`, source `அதற்கென்றுள்`, `தருகிறேனய்யா`, `தானுகவே` retained;
+- scene 31: internal `தாழ்வாரம்`, page `61`, unmatched `[என வேகமாகப் போகிறான்!` retained.
 
 Do not retranscribe or casually modify verified pages. Change one only when direct source pixels prove the existing reading wrong.
 
@@ -67,60 +67,63 @@ For every scene:
 - correct only source-pixel-proven page errors and document them;
 - promote to `assembly-reviewed` / `visual_text_fidelity: "passed"` only after both checks pass.
 
-## Exact next activity — FIVE scenes: காட்சி-27 through காட்சி-31
+## Exact next activity — FIVE scenes: காட்சி-32 through காட்சி-36
 
 Process all five in this iteration.
 
-### 1. காட்சி-27 / scan 70
+### 1. காட்சி-32 / scans 78–79
 
-- Title: `ஆய்ச்சியர் அறிமுகம்`.
-- Initial setting: `மதுரை எல்லை`.
-- Internal setting: `மாதரி வீடு...`.
-- Input: `pages/0070.md`; output `scenes/27.md`.
-- Printed page `54`.
-- Preserve the internal location shift and source forms including `இளங் கூட்டத்திற்குள்`, `சமணத் துறவிகளுக்குப் பாற்சோறு`, `பசக் கூட்டத்தோடு`, and `தடையா சொல்லப் போகிறேன்?`.
+- Title: `மதுரை மண்ணில் கோவலன் குருதி`.
+- Setting: `வீதியிலுள்ள மண்டபம்`.
+- Inputs: `pages/0078.md`, `pages/0079.md`; output `scenes/32.md`.
+- Scan 78 visibly prints page `62`; scan 79 has no secure printed page number.
+- Preserve the physical scan-78 → scan-79 continuation and the large uncaptioned dramatic illustration on scan 79.
+- Scan 80 begins scene 33.
 
-### 2. காட்சி-28 / scan 71
+### 2. காட்சி-33 / scan 80
 
-- Title: `பொற்கொல்லர் முறையீடு`.
-- Setting: `பாண்டியன் தனிமாடம்`.
-- Input: `pages/0071.md`; output `scenes/28.md`.
+- Title: `கணவன் கள்வனா?`.
+- Setting: `குரவைக் கூத்து`.
+- Input: `pages/0080.md`; output `scenes/33.md`.
+- Printed page `64`.
+- Preserve source forms including `அலறியவாறு`, `கள்வனென்று`, `கண்களிலேயிருந்து`, `அருவி யென`, `வெற்றுடம்பு`, `உளறுகிறோம்`, and `இல்ல! இல்ல! இல்ல!`.
+- Keep the lower uncaptioned bird/peacock-like decorative image separate.
+
+### 3. காட்சி-34 / scan 81
+
+- Title: `வஞ்சினங் கூறுதல்`.
+- Setting: `வீதியிலுள்ள மண்டபம்`.
+- Input: `pages/0081.md`; output `scenes/34.md`.
+- The lower-left visibly contains a clear `9` followed by a damaged/indistinct mark. Preserve `printed_page: null`; do **not** infer sequential `65`.
+- Preserve source forms including `இதற்குத்தானு;`, `அகிற்புகையால்`, `பொன்னவிர்`, `புதுக் கிழிஞ்சல்`, `மாசறுபொன்னே`, `உங்களே ரத்தச் சகதி யிலே`, `மதுரை மூதார்`, and repeated `பழிக்குப்பழி! பழிக்குப்பழி!`.
+
+### 4. காட்சி-35 / scans 82–85
+
+- Title: `வழக்குரை படலம்`.
+- Setting: `பாண்டியன் கொலு மண்டபம் (வெளியே)`.
+- Inputs: `pages/0082.md` through `pages/0085.md`; output `scenes/35.md`.
+- Scan 82 prints page `66`; scans 83–85 have no secure printed pagination.
+- Preserve the exact distinction `“கொன்று வருக அவனை!”` versus later `“கொன்று வருக அவன்”`.
+- Scan 83 has a large uncaptioned dramatic illustration.
+- Scan 84 exact separate publication caption: `“பூம்புகார்” அகழ்வாராய்ச்சியில் / கண்ட படகுத்துறை`.
+- Scan 85 has a small uncaptioned burst/fragment-like illustration.
+- Scan 86 begins scene 36.
+
+### 5. காட்சி-36 / scan 86
+
+- Title: `தீயினில் திருநகர்`.
+- Setting: `தெருக்கள்`.
+- Input: `pages/0086.md`; output `scenes/36.md`.
 - No secure printed page number.
-- Preserve the source's unmatched closing bracket in `கோப்பெருந்தேவி கேட்டுக்கொண்டே / வருகிறாள்.]`.
-- Preserve the quoted fragment `“உற்றுழி உதவியும் / உறுபொருள் கொடுத்தும்”...` exactly as printed.
+- Preserve the printed `★` separator and source forms including `என்னுள் அன்றே`, `தணலாகிறார்!`, `வாய்மூடிக் கிடந்த கூடல் நகரத்தாரே!`, `கனலே கிளம்பு....!`, repeated `பழிக்குப் பழி!`, and `விரும்பினர்கள்`.
+- Keep both lower photographic/reproduction images separate; no secure captions are visible.
 
-### 3. காட்சி-29 / scans 72–75
-
-- Title: `ஒற்றைச் சிலம்பின் ஒலி`.
-- Setting: `மாதரி வீடு`.
-- Inputs: `pages/0072.md` through `pages/0075.md`; output `scenes/29.md`.
-- Scan 72 prints page `56`.
-- Preserve all four scan boundaries and the Kovalan speech continuing from scan 72's terminal `கழற்றுமல்`.
-
-### 4. காட்சி-30 / scan 76
-
-- Title: `சிலம்போ சிலம்பு`.
-- Setting: `பொற்கொல்லர் நிலையம்`.
-- Internal heading: `சாலை`.
-- Input: `pages/0076.md`; output `scenes/30.md`.
-- Printed page `60`.
-- Preserve source forms including `முளைத்தா`, `பகற்`, `அதற்கென்றுள்`, `தருகிறேனய்யா`, `எனப்பா`, and `தானுகவே`.
-
-### 5. காட்சி-31 / scan 77
-
-- Title: `வளைந்தது செங்கோல்`.
-- Initial setting: `நெடுஞ்செழியன் பள்ளியறை`.
-- Internal heading: `தாழ்வாரம்`.
-- Input: `pages/0077.md`; output `scenes/31.md`.
-- Printed page `61`.
-- Preserve the unmatched opening bracket in `[என வேகமாகப் போகிறான்!` and source forms including `அவைக்க்களம்`, `திருடனையுந்தான்`, `மண்டிலத்துச்`, `அற்பச் சிலம்புக்காக`, and `கள்வனு?`.
-
-At the end, update README, root HANDOVER, project handover and this prompt, and set the following batch to scenes 32–36.
+At the end, update README, root HANDOVER, project handover and this prompt. The remaining numbered scenes after this batch are `காட்சி-37` and `காட்சி-38`, followed by the separate scan-88 closing tableau and then the global Tamil consistency/source review.
 
 ## Translation lock
 
 Do not begin English translation. Do not automatically translate `அந்தணர்` as “Brahmin”; preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and related terms for later dedicated translation review.
 
-Proceed now with **காட்சி-27 through காட்சி-31**.
+Proceed now with **காட்சி-32 through காட்சி-36**.
 
 ---
