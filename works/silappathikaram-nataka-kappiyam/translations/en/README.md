@@ -14,40 +14,65 @@ Mandatory controls:
 - `../../TRANSLATION_TERMINOLOGY.md`
 - `TRANSLATION_REVIEW.md`
 
-The English must retain Kalaignar's cadence, repetition, imagery, wit, emotional escalation and political/literary register. Dravidian movement concepts belong in **separate interpretive notes** when genuinely supported by the Tamil; they must not be inserted into dialogue.
+The English must retain Kalaignar's cadence, repetition, imagery, wit, emotional escalation and political/literary register. Dravidian-movement concepts belong in **separate interpretive notes** when genuinely supported by the Tamil; they must not be inserted into dialogue.
 
 ## Current status
 
 - Tamil archival/assembly/global-review gates: **complete / PASS**.
-- Scenes **1–11**: translated / `translation-reviewed` / PASS.
-- English progress: **11 / 38 numbered scenes**.
-- No published English witness has been used for scenes 1–11.
-- Pilot scenes 1–2: PASS.
-- Controlled batch 3–5: PASS.
-- Controlled batch 6–8: PASS.
-- Controlled batch 9–11: PASS.
+- Scenes **1–14**: translated / `translation-reviewed` / PASS.
+- English progress: **14 / 38 numbered scenes**.
+- No published English witness has been used for scenes 1–14.
 
-## Scene 9–11 findings
+Completed translation stages:
 
-- **Scene 9 — `பிரிவினை தந்த பேதை`**: preserves `oodal`, the Kural-linked love register, Rome/pearl trade, `தமிழர் வளம்`, repeated Tamil-language metaphors, separation paradoxes, and Kannagi's active decision to send Kovalan to explain matters to Madhavi. The verified source `உன் நூல்தான் எல்லாம்...` remains an acknowledged lexical ambiguity and is not silently corrected.
-- **Scene 10 — `கலையரசி கண்ட உவகை`**: preserves the exact repeated dance cadence `She dances. / She dances. / She goes on dancing.`, `THADAAL!`, the art/sorrow argument, Tamilakam imagery, Madhavi's repeated renunciation of wealth/fame, and inherited social stigma in `மயக்குகின்ற மாதர் வழி வந்தவள்`.
-- **Scene 11 — `கற்பரசியின் கலக்கம்`**: preserves the intentionally unlabelled `Why ...what happened?`, Devandhi's colloquial humour, the double-meaning cue, the Sita/Rama/Surpanakha comparison, and Kannagi's refusal to insult Madhavi.
+- scenes 1–2: two-register pilot — PASS;
+- scenes 3–5: controlled batch — PASS;
+- scenes 6–8: controlled batch — PASS;
+- scenes 9–11: controlled batch — PASS;
+- scenes 12–14: controlled batch — PASS.
+
+## Latest batch — scenes 12–14
+
+### Scene 12 — `இன்ப வாழ்வில் கோவலன்`
+
+- English: `Kovalan in a Life of Delight`.
+- Preserves Kovalan's long cumulative erotic praise rather than shortening it.
+- `காந்தள்` remains `kanthal`; unresolved verified `சேற் கெண்டை` is retained as `ser-kendai` rather than guessed.
+- The scene's climax remains explicit: describing Madhavi gives **glory to Tamil itself**.
+
+### Scene 13 — `துன்பப் புயலில் கண்ணகி`
+
+- English: `Kannagi in a Storm of Sorrow`.
+- Preserves the deliberate emotional contrast with scene 12.
+- `தமிழர் வழக்கப்படி` → `according to Tamil custom`.
+- Kannagi's defence of Madhavi, her defence of Kovalan before both families, and the three final repetitions of `யாரும் இங்கே வராதீர்கள்` remain intact.
+
+### Scene 14 — `மாதவியின் மாண்பு`
+
+- English: `Madhavi's Nobility`.
+- Preserves the `மாதவி / மாதா / பிதா` pregnancy wordplay through transliteration plus in-line meaning.
+- The parrot-and-snake story is translated exactly as the verified source gives it; no external literary variant is substituted.
+- `பிராமண`, `பார்ப்பன`, `அந்தணர்`, and `மறையவர்` are **not collapsed**:
+  - `பிராமண மாது / பிராமணமாது` → `Brahmin woman`;
+  - `பார்ப்பனமாது` → `paarppana woman` in that stage direction;
+  - `அந்தணர் / அந்தணன்` → `Antanar`, **not Brahmin**;
+  - `மறையவர்` → `man of sacred lore`;
+  - `தமிழ் மறை` → `Tamil sacred lore`.
+- Kovalan's practical atonement argument and Madhavi's `it is not enough to preach to the whole town` reversal are preserved.
 
 ## Permanent terminology discipline
 
-Do **not** collapse `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன்` into one English label. `அந்தணர்` remains explicitly **not automatically `Brahmin`**; scene 8's `பார்ப்பார்` decision remains occurrence-specific.
+Do **not** collapse `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவர்` into one English label. In particular, `அந்தணர்` remains explicitly **not automatically `Brahmin`**.
 
-Other active decisions now include `oodal`, `anguish of separation` for scene-10 `விரகதாபம்`, and contextual treatment of inherited social-status language rather than harsher modernization.
-
-## Exact next controlled batch — scenes 12–14
+## Exact next controlled batch — scenes 15–17
 
 Translate and review independently:
 
-- `12.md` — `இன்ப வாழ்வில் கோவலன்`, setting `மாதவி வீடு`;
-- `13.md` — `துன்பப் புயலில் கண்ணகி`, setting `கண்ணகி வீடு`;
-- `14.md` — `மாதவியின் மாண்பு`, setting `காவிரி ஆற்றோரம்`.
+- `15.md` — `மனமாறிந்த கோவலன்`, setting `கண்ணகி வீடு`;
+- `16.md` — `மணிமேகலை பிறப்பு`, setting `மாதவி வீடு`;
+- `17.md` — `மாசறு பொன்மகிழ்வு`, setting `கண்ணகி வீடு`.
 
-The next batch should preserve the deliberate contrast between Kovalan's pleasurable life, Kannagi's storm of suffering, and Kalaignar's framing of Madhavi's moral stature. Each scene requires its own `NN_REVIEW.md` and PASS.
+Each scene requires its own `NN_REVIEW.md` and PASS before the batch is complete.
 
 ## File convention
 
