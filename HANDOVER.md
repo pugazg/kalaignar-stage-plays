@@ -23,7 +23,8 @@ Before continuing read completely:
 9. `translations/en/README.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
 11. `translations/en/PILOT_REVIEW.md`
-12. the Tamil source scene being translated and its verified page records if needed.
+12. `translations/en/02_REVIEW.md`
+13. the verified Tamil scenes currently being translated.
 
 ## Permanent Tamil-source rules
 
@@ -44,42 +45,34 @@ Do not redo Tamil scene assembly during translation.
 
 ## English translation checkpoint
 
-Translation phase has started.
+Translation phase is active.
 
-Created:
+Completed and reviewed:
 
-- `works/silappathikaram-nataka-kappiyam/TRANSLATION_GUIDE.md`
-- `works/silappathikaram-nataka-kappiyam/TRANSLATION_TERMINOLOGY.md`
-- `works/silappathikaram-nataka-kappiyam/translations/en/README.md`
-- `works/silappathikaram-nataka-kappiyam/translations/en/TRANSLATION_REVIEW.md`
-- `works/silappathikaram-nataka-kappiyam/translations/en/01.md`
-- `works/silappathikaram-nataka-kappiyam/translations/en/PILOT_REVIEW.md`
+- `translations/en/01.md` — `காட்சி-1 / வஞ்சி மூதூரில் முரசறைதல்` — PASS;
+- `translations/en/02.md` — `காட்சி-2 / செங்குட்டுவன் பிறந்தநாள் விழா` — PASS.
 
-### Scene 1 pilot
+English progress: **2/38 numbered scenes**.
 
-`காட்சி-1 — வஞ்சி மூதூரில் முரசறைதல்` is `translation-reviewed` / review `passed`.
+No published English witness was used for scenes 1–2.
 
-The pilot was translated independently from verified Tamil `scenes/01.md`; no published English witness was used.
+### Two-register pilot result
 
-Accepted conventions include:
+**PASSED / ACCEPTED.**
 
-- retain Kalaignar's public-oratory cadence, repetition and slogan rhythm;
-- `தமிழகம்` → `Tamilakam`;
-- `முரசறைவோன்` → `drum-announcer`;
-- `விற்கொடி` → `bow-banner`;
-- `கொட்டுவோம், கொட்டுவோம் முரசம்!` → `Let us beat, let us beat the drum!`;
-- preserve `தாயகம்` with the stronger `homeland` register;
-- do not flatten `செந்தமிழ்` casually.
+Scene 1 proved retention of public-oratory cadence, slogans, repetition and Tamil historical identity.
+
+Scene 2 proved retention of intimate dialogue, flirtation, humour, kinship language and rationalist scepticism. Its translation preserves the `விழாக்கோலம்` / `போர்க் கோலம்` mirror, `விழுப்புண்` as `wounds of valour`, the lips-as-medicine metaphor, and Ilango's mocking challenge to `ஆருடம்` / `நிமித்திகன்`.
 
 ## Kalaignar-language / Dravidian-movement relation rule
 
 The translation must retain Kalaignar's rhetorical force, cadence, wit, repetition, dramatic timing, emotional escalation and political/literary language.
 
-Relate Dravidian movement concepts only when the source wording or Kalaignar's dramatic framing supports the connection. Relevant recurring lenses may include Tamil linguistic-cultural self-respect, Tamilakam consciousness, dignity/self-respect, human agency against fatalism, justice, anti-hierarchical reasoning, women's agency and historical Tamil identity.
+Relate Dravidian movement concepts only when source wording or Kalaignar's dramatic framing supports the connection. Relevant lenses may include Tamil linguistic-cultural self-respect, Tamilakam consciousness, dignity/self-respect, human agency against fatalism, justice, anti-hierarchical reasoning, women's agency and historical Tamil identity.
 
 **Do not insert those concepts into translated dialogue if the Tamil does not state them.** Use a separately labelled `Dravidian movement resonance — interpretive note` when useful.
 
-Scene 1's interpretive note relates `வாழ்க தமிழ்! வெல்க தமிழகம்!`, `புதிய எழுச்சி`, the repeated drum-call and `தாயகம்` to Tamil identity, historical consciousness and mass-mobilizing rhetoric, while explicitly avoiding imported later ideological vocabulary.
+Scene 2's accepted note relates Ilango's explicit dismissal of the soothsayer's claims as `பொய்யுரைகள்` to the rationalist / anti-superstition current of the Dravidian movement, while preserving the source as affectionate family banter.
 
 ## Permanent terminology lock
 
@@ -87,18 +80,14 @@ Scene 1's interpretive note relates `வாழ்க தமிழ்! வெல�
 
 The published English edition, if later consulted, is a secondary comparison witness only.
 
-## Exact next activity
+## Exact next activity — first controlled batch
 
-Translate and review **காட்சி-2 — `செங்குட்டுவன் பிறந்தநாள் விழா`**, setting `வஞ்சி`, from verified `scenes/02.md`.
+Translate and individually review **காட்சி-3 through காட்சி-5** from verified Tamil scenes.
 
-Treat scene 2 as one additional single-scene register test before batching. Review specifically for:
+Special attention:
 
-- intimate family dialogue;
-- teasing/humour;
-- affection and emotional subtext;
-- speaker-label variation;
-- stage directions;
-- retention of Kalaignar's cadence without over-literal stiffness;
-- any genuine Dravidian-movement resonance kept separate from translated dialogue.
+- Scene 3 — `விழாவும் வினாவும்`: soothsayer, fate, human agency, quoted Kural and rationalist argument;
+- Scene 4 — `இளங்கோ துறவு`: renunciation, family grief, sacrifice, `விதி` versus `மதி` / human reason;
+- Scene 5 — `சிலம்பின் தோற்றம்`: Chera historical-landscape framing, mountain people and the decision to shape Kannagi's story as an epic.
 
-After scene 2 passes, define the first controlled multi-scene translation batch.
+Each scene must independently pass line-by-line coverage, semantic fidelity, Kalaignar-voice, terminology, stage timing and Dravidian-context separation before being marked `translation-reviewed`.
