@@ -52,6 +52,23 @@ This makes the volume potentially valuable later for:
 - identifying translator choices for names, cultural terms and stage-dialogue register;
 - reviewing whether the published translation omits, combines, expands or interprets source passages.
 
+## Authorial terminology lock — `அந்தணர்`
+
+User direction recorded for the future translation phase: **do not automatically equate or translate Kalaignar's `அந்தணர்` as “Brahmin.”** Treat it as an authorial/cultural term requiring its own context-sensitive handling.
+
+The Tamil source itself makes the distinction especially important in `காட்சி-14`:
+
+- scan 47 uses `பிராமண மாது`, later `பிராமணமாது`, and stage-direction form `பார்ப்பனமாது` for the woman;
+- the male speaker label is separately printed as `அந்தணர் ;`;
+- scan 48 continues that male label as `அந்த` and uses the noun form `அந்தணனுக்கும்`.
+
+Future English-translation rule:
+
+1. Preserve the distinction between source terms such as `பிராமண`, `பார்ப்பன`, and `அந்தணர்`; do not flatten them into one English category.
+2. `அந்தணர்` must **not** default to “Brahmin.” Retain/transliterate the term or choose a context-sensitive rendering only after a dedicated terminology review.
+3. If the published English witness renders `அந்தணர்` as “Brahmin,” record that explicitly as the published translator's choice; it is not automatically the archival project's preferred rendering.
+4. The verified Tamil wording remains authoritative.
+
 ## Future-use policy
 
 When English work begins:
