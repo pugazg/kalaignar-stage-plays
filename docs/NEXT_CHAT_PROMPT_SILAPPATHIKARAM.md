@@ -1,6 +1,6 @@
 # Next Chat Prompt — சிலப்பதிகாரம் நாடகக் காப்பியம்
 
-Copy/paste the prompt below into a fresh ChatGPT window and attach the Tamil source PDF `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf`.
+Copy/paste the prompt below into a fresh ChatGPT window. Attach the Tamil source PDF `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` because the audit may require targeted source-pixel rechecks.
 
 ---
 
@@ -14,7 +14,7 @@ Active work:
 
 `works/silappathikaram-nataka-kappiyam/`
 
-Attached controlling source PDF:
+Controlling Tamil source:
 
 `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf`
 
@@ -30,89 +30,83 @@ Before making any change, read these files completely and follow them exactly:
 6. `works/silappathikaram-nataka-kappiyam/indexes/page-map.md`
 7. `works/silappathikaram-nataka-kappiyam/pages/0088.md`
 
-Use the GitHub connector and inspect the actual attached Tamil PDF scan before changing transcription status.
-
-If the Tamil PDF is not attached/available, stop and ask me to attach it. Do not verify new pages from repository text alone.
+Use the GitHub connector and work directly in the existing repository.
 
 ## Source authority
 
-The attached Tamil scan is the controlling source for this edition.
+The Tamil scan remains controlling authority. Do not silently modernize, correct, normalize, reconstruct or improve Kalaignar's Tamil. Preserve spelling, punctuation, speaker labels, stage directions, repetitions, unusual grammar, page/column continuations, pagination anomalies, captions and distinctions between publication text and later library/accession marks.
 
-Do not silently modernize, correct, normalize, reconstruct or improve Kalaignar's Tamil.
+OCR, parsed text, another edition and the published English translation are secondary/assistive only.
 
-Preserve source-supported spelling and historical forms; punctuation and ellipses; speaker labels/abbreviations; stage directions and brackets; repetitions; names and numbers; unusual grammar; line/column/page continuations; printed pagination, including anomalies; captions; and distinctions between publication text and later library/accession/handwritten marks.
+## Completed page-level work — do not restart
 
-OCR/parsed text is assistive only and is never authoritative. Do not use another edition or the published English translation to silently alter Tamil wording.
+- All **88 supplied physical scans are visually verified**.
+- **காட்சி-1 through காட்சி-38 are complete at page-record level**.
+- Scan 88's same-scan post-scene closing tableau is archived.
+- Tamil page-level visual verification is complete for the supplied source.
 
-## Completed work — do not restart
+Do not retranscribe or casually modify verified pages. Change a verified reading only if direct source-pixel inspection proves it wrong, and document the correction explicitly.
 
-Scans **1–87 are already fully verified**.
+### Final scan checkpoint
 
-**காட்சி-1 through காட்சி-37 are complete.**
+`pages/0088.md` is `verified`.
 
-Do not retranscribe, restart or casually modify those released/verified page records. Change a verified reading only if direct source-pixel inspection proves it wrong, and document the correction explicitly.
+It contains:
 
-The latest completed scene is:
-
-- `காட்சி-37`
-- title: `வடபுலப் படையெடுப்பு`
-- setting: `சேரன் செங்குட்டுவன் அவை`
-- scan 87 only
-- no securely visible printed page number
-- decorative weapon/shield title artwork separated from literary text
-
-Source-specific readings/punctuation deliberately preserved in scene 37 include `காணப்புல்லன்`, `கேட்டறியாக் கசடன்`, `மண்டுக`, `தீவர்களாம்`, `சோழனு பாண்டியனு`, `பகைவனுக`, `சுடற்ற புலவனே`, `ஆசைத்தம்பி`, `கல்வாணரே`, `வளங்குறையாச்`, `நாகாக்கத்`, `தும்பிவாடி`, `தோரணங்கற்பட்டு`, `கிழித் தெறியப்படலாம்!`, `இகழ்ந்தார்கள்!....அன்ன`, and final `புறப்படுங்கள்!’`.
-
-## Exact next activity
-
-Process **காட்சி-38 / scan 88** as the final supplied scene activity.
-
-Current structural record:
-
-- `pages/0088.md`
-- status: `needs-review`
-- scan **88 is the final supplied scan**
 - `காட்சி-38`
-- decorative title visually mapped as **`கண்ணகி சிலைக்குக் கல்`**
-- setting visually mapped as **`இமயத்தில் - குயிலாலுவம்`**
-- the numbered scene visibly closes on scan 88
-- after the scene, three centred `*` separators introduce a distinct post-scene closing tableau headed **`வஞ்சிமூதூரில்`** and **`கண்ணகி சிலை நாட்டு விழா`**
-- no securely visible printed page number; do not infer one
-- decorative mountain/stone title artwork is a separate visual layer
-- a large circular library/accession stamp overlaps the lower-left publication area and includes later handwritten `164596`
-- additional handwriting/accession notation appears near the lower margin; treat it as later non-publication material
+- title: `கண்ணகி சிலைக்குக் கல்`
+- setting: `இமயத்தில் - குயிலாலுவம்`
+- final supplied physical scan
+- post-scene `வஞ்சிமூதூரில் / கண்ணகி சிலை நாட்டு விழா` tableau after three centred `*` marks
 
-For scan 88:
+A later circular library/accession stamp with handwritten `164596` obscures the leading characters of two closing-tableau lines. The page record explicitly marks those source-obscured positions before the visible suffixes `ங்குட்டுவன்` and `ங்கோவடிகள்`; do not invent or silently restore hidden letters.
 
-1. inspect native/enlarged source pixels across the whole final scan;
-2. reconfirm scene title and setting during the complete visual pass;
-3. transcribe the complete two-column `காட்சி-38` dialogue/stage text;
-4. preserve speaker abbreviations, punctuation, physical word breaks and column transitions;
-5. verify pagination behaviour without inferring from neighbouring scans;
-6. record decorative title artwork separately from literary text;
-7. verify the three-asterisk transition and the complete same-scan `வஞ்சிமூதூரில் / கண்ணகி சிலை நாட்டு விழா` closing-tableau text;
-8. distinguish publication text from the circular library/accession stamp and later handwriting;
-9. mark `pages/0088.md` `verified` only after the complete visual pass of all publication text on the final scan;
-10. because scan 88 is the final supplied scan, do not infer continuation beyond it.
+## Exact next activity — Tamil transcription completion audit / scene-assembly readiness
 
-After completing scan 88, update the page map, work README, root handover, project handover, and this next-chat prompt. Then assess the correct next archival phase only after all supplied Tamil scans are verified; do not begin English translation unless explicitly directed.
+Do **not** begin English translation yet.
 
-## Working-unit rule
+Perform a repository-wide audit of the completed Tamil page archive:
 
-Work by **one complete scene per activity where practical**, not by one arbitrary page. Here the final scene and the post-scene closing tableau share one physical scan, so verify both source layers in the same activity while keeping their structural distinction explicit.
+1. Confirm all 88 `pages/NNNN.md` records exist.
+2. Confirm page-record statuses match `indexes/page-map.md`.
+3. Find any remaining `needs-review`, `partial` or `blocked` page records.
+4. Inventory all source anomalies and special layers, including:
+   - uncertain/missing printed pagination;
+   - scan 73's visible anomalous `8`;
+   - scan 81's unresolved lower-left pagination mark;
+   - scan 88's stamp-obscured tableau characters;
+   - printed captions;
+   - photographs/illustrations;
+   - later library/accession/handwritten marks.
+5. Verify the physical scan extents of **காட்சி-1 through காட்சி-38** against page records and `page-map.md`.
+6. Confirm scene titles, settings/sub-settings and cross-page/cross-column continuations needed for assembly.
+7. Create or update a work-level audit record documenting findings and any remaining source-obstruction issues.
+8. Create a scene-assembly readiness/plan record mapping each scene to verified page records.
+9. Do not normalize wording, punctuation, spelling, stage directions or source anomalies during planning.
+10. Do not begin actual English translation in this activity.
+
+If a discrepancy is found, re-open only the affected scan/page and verify it directly against the attached Tamil source. Do not reopen completed material without a concrete audit reason.
 
 ## Translation lock
 
-Do not begin English translation yet. The published English translation is a secondary future witness only.
+English translation remains a later phase.
 
-Permanent terminology instruction: **Do not automatically translate `அந்தணர்` as “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and other source terms. English renderings will be decided later in dedicated terminology/translation review.
+Permanent terminology instruction: **Do not automatically translate `அந்தணர்` as “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and other source terms. English renderings will be decided only in dedicated terminology review.
 
-When English translation eventually begins, retain Kalaignar's language, rhetoric, cadence and dramatic voice.
+When translation eventually begins, retain Kalaignar's language, rhetoric, cadence, repetition and dramatic voice.
 
 ## End-of-activity report
 
-At the end of the activity, report exact scan completed; scene title/setting/boundary verified; important unusual source readings preserved; closing-tableau headings/text handled; library/accession marks distinguished; repository files updated; new verified checkpoint; and the exact next archival phase after completion of all supplied Tamil scans.
+Report:
 
-Proceed now with **காட்சி-38 / scan 88**.
+- whether all 88 page records are present and status-consistent;
+- any remaining `needs-review` / `partial` / `blocked` records;
+- all material anomalies/source obstructions requiring preservation;
+- whether scenes 1–38 map cleanly to verified pages;
+- files created/updated for audit and assembly readiness;
+- whether any verified page required correction and why;
+- exact next archival activity after the audit.
+
+Proceed now with the **Tamil transcription completion audit / scene-assembly readiness review**.
 
 ---
