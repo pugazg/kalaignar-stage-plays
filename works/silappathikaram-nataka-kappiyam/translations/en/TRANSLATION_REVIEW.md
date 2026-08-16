@@ -20,8 +20,11 @@ A scene may be marked `translation-reviewed` only after:
 |---:|---|---|---|---|---|---|
 | 1 | `வஞ்சி மூதூரில் முரசறைதல்` | `translation-reviewed` | PASS | No | Yes | Pilot accepted; proclamation cadence, repetition, Tamilakam/homeland terminology and source/interpretation separation passed. |
 | 2 | `செங்குட்டுவன் பிறந்தநாள் விழா` | `translation-reviewed` | PASS | No | Yes | Second single-scene test passed; family intimacy, humour, erotic metaphor, kinship register and rationalist scepticism retained. See `02_REVIEW.md`. |
-| 3–5 | — | not started | pending | — | pending | Exact next controlled translation batch. Each scene requires its own review. |
-| 6–38 | — | not started | pending | — | pending | Proceed only under accepted protocol and batch review discipline. |
+| 3 | `விழாவும் வினாவும்` | `translation-reviewed` | PASS | No | Yes | Fate/reason argument, Kural, Tamil wordplay, old-epic/new-epic challenge and Kalaignar's escalation passed. See `03_REVIEW.md`. |
+| 4 | `இளங்கோ துறவு` | `translation-reviewed` | PASS | No | Yes | Renunciation, family grief, explicit `விதி / மதி`, Tamil geography and satire on the soothsayer passed. See `04_REVIEW.md`. |
+| 5 | `சிலம்பின் தோற்றம்` | `translation-reviewed` | PASS | No | Yes | Hill-Tamil identity, gift-list completeness, three-dynasty literary framing and Puhar transition passed. See `05_REVIEW.md`. |
+| 6–8 | — | not started | pending | — | pending | Exact next controlled batch. Scene 8 requires occurrence-level review of `பார்ப்பார்`; do not auto-render as `Brahmin`. |
+| 9–38 | — | not started | pending | — | pending | Proceed only under accepted protocol and batch review discipline. |
 | closing tableau | `கண்ணகி சிலை நாட்டு விழா` | not started | pending | — | pending | Preserve scan-88 obstruction in Tamil provenance; translation handling to be decided only when reached. |
 
 ## Accepted conventions now controlling
@@ -29,25 +32,28 @@ A scene may be marked `translation-reviewed` only after:
 Unless later scene evidence requires an explicitly documented revision:
 
 - retain `Tamilakam` rather than modernizing it to `Tamil Nadu`;
+- distinguish source `தமிழ்நாடு / தமிழ்நாட்டு` contextually from `தமிழகம்` rather than collapsing them;
 - preserve slogans, repetitions, direct address and public-oratory rhythm;
-- retain historical dynastic identity (`Chera`, `Senguttuvan`, `Nedun Cheralathan`);
-- use `drum-announcer` for scene-1 `முரசறைவோன்`;
-- use `bow-banner` for `விற்கொடி`;
-- preserve rhetorical pairings such as scene-2 `festive array` / `battle array`;
-- retain metaphor without over-explaining it, as in scene-2 lips-as-`medicine`;
-- use `soothsayer` for `நிமித்திகன்` provisionally, with scene-3 consistency review;
+- retain historical dynastic identity (`Chera`, `Chola`, `Pandya`, `Senguttuvan`, `Nedun Cheralathan`);
+- preserve rhetorical pairings such as `festive array / battle array` and `fate / reason`;
+- retain metaphor without over-explaining it;
+- use `soothsayer` for `நிமித்திகன்` in scenes 2–4;
+- retain `Tamil aram` where `அறம்` carries a wider ethical concept than a single English equivalent;
+- retain `Ilango Adigal` rather than flattening `அடிகள்` to `monk` in the established Ilango title;
+- preserve `மலைவாழ் தமிழர்களே` as explicit Tamil peoplehood;
 - keep movement-context commentary outside translated dialogue;
-- do not automatically translate `அந்தணர்` as `Brahmin`.
+- do not automatically translate `அந்தணர்`, `பார்ப்பார்`, `பார்ப்பன`, or `மறையவன்` through one undifferentiated `Brahmin` label.
 
-## Scale-up rule
+## Batch progression
 
-The two-register pilot stage is complete:
+The first controlled multi-scene batch **காட்சி-3 through காட்சி-5** is complete and all three scenes passed individual review.
 
-- Scene 1 tested proclamation, slogans and Tamil historical-political rhetoric.
-- Scene 2 tested intimate dialogue, humour, affection, kinship language and explicit scepticism toward divination.
+The project may now proceed to the next controlled batch: **காட்சி-6 through காட்சி-8**.
 
-**Both passed.**
+Special attention:
 
-The project may now translate its first controlled batch: **காட்சி-3 through காட்சி-5**.
+- **Scene 6** — Puhar/Tamil maritime geography, Sattanar's narration, foreigners, love imagery and repeated poetic register;
+- **Scene 7** — court performance, humour, sexuality/marriage-choice rhetoric, social status and the suyamvaram mechanism;
+- **Scene 8** — intimate marital dialogue plus the quoted line containing `பார்ப்பார்`; this must trigger the permanent contextual caste/ritual terminology gate before any English rendering is finalized.
 
-Each scene must still be translated and reviewed individually inside the batch. Scene 3 requires special care because Kalaignar makes the conflict between `விதி` and human reason/agency explicit; scene 4 intensifies that argument through renunciation and sacrifice; scene 5 shifts into the framing of the Kannagi epic and Tamil historical-cultural memory.
+Each scene still requires its own review file and PASS before the batch is considered complete.
