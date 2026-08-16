@@ -32,10 +32,8 @@ Before making any change, read completely:
 8. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PLAN.md`
 9. `works/silappathikaram-nataka-kappiyam/VISUAL_TEXT_FIDELITY_CHECK.md`
 10. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PILOT_REVIEW.md`
-11. `works/silappathikaram-nataka-kappiyam/scenes/01.md` through `scenes/05.md`
-12. `works/silappathikaram-nataka-kappiyam/pages/0026.md`
-13. `works/silappathikaram-nataka-kappiyam/pages/0027.md`
-14. `works/silappathikaram-nataka-kappiyam/pages/0028.md`
+11. `works/silappathikaram-nataka-kappiyam/scenes/01.md` through `scenes/06.md`
+12. `works/silappathikaram-nataka-kappiyam/pages/0029.md` through `pages/0032.md`
 
 Use the GitHub connector and work directly in the existing repository.
 
@@ -53,21 +51,22 @@ Do not silently modernize, correct, normalize, reconstruct or improve Kalaignar'
 - `காட்சி-1` through `காட்சி-38` are complete at page-record level.
 - Tamil completion audit is **PASS**.
 - Mandatory scene-assembly visual fidelity protocol is active.
-- `காட்சி-1` through `காட்சி-5` have been assembled and are **assembly-reviewed** with `visual_text_fidelity: "passed"`.
-- **5 of 38 numbered scenes are assembly-reviewed.**
+- `காட்சி-1` through `காட்சி-6` have been assembled and are **assembly-reviewed** with `visual_text_fidelity: "passed"`.
+- **6 of 38 numbered scenes are assembly-reviewed.**
 - English translation has not begun.
 
-Latest scene-5 fidelity correction, already committed and documented:
+Latest scene-6 fidelity correction, already committed and documented:
 
-- scan 25 / `pages/0025.md`: `கண்ணகி....!` → source-visible `கண்ணகி...!`.
+- scan 27 / `pages/0027.md`: `[சாத்தனூரின் குரல் தொடர்கிறது]` → source-visible `[சாத்தனரின் குரல் தொடர்கிறது]`.
 
-Scene-5 boundary/structure already verified:
+Scene-6 structure already verified:
 
-- scan 24 ends `கணவன் வருவான் வருவான்`;
-- scan 25 resumes the same `ஒருவன்` speech with `என்று கண் கலங்கக் கூறிக் கொண்டிருந்தாள்...`;
-- no speaker label or punctuation is inserted at that boundary;
-- scan 24's gift-list action retains source-visible `குவிக்கின்றனர்.]` without an invented opening bracket;
-- scan 24 printed page `8` and anomalous scan 25 printed `2` remain provenance only.
+- no separate printed setting heading; `setting: null`;
+- scan 26 ends `தெருவெல்லாம் தமிழ் முழக்கம்!` and scan 27 begins `ஆடல், பாடல்`;
+- scan 27 ends `கோவ : கண்ணகி!` and scan 28 begins `கண் : எத்தனை நாளத்தான்...`;
+- scan 28's same-speaker column continuation joins `முகம்—தேன் சிந்தும் திங்கள்` to `முகம்—மறப்பேனு கண்ணே!` without added punctuation;
+- source-separated `வெண் மணல்` and the word boundary `தங்கமே...இந்தா... உனக்காகக்` are retained;
+- scans 26–27 have no visible printed pagination; scan 28 prints `12`.
 
 Do not retranscribe or casually modify verified pages. Change a verified page only when direct source pixels prove the existing reading wrong.
 
@@ -87,37 +86,36 @@ For each scene:
 - promote to `assembly-reviewed` / `visual_text_fidelity: "passed"` only when both checks pass;
 - if pixels prove a page record wrong, correct only that reading with explicit documentation before finalizing the scene.
 
-## Exact next activity — காட்சி-6 / scans 26–28
+## Exact next activity — காட்சி-7 / scans 29–32
 
-Process **காட்சி-6 / scans 26–28 — `பூம்புகார்ப் பொற்றொடி`** as one complete scene-assembly + visual-text-fidelity activity.
+Process **காட்சி-7 / scans 29–32 — `கலைக்கரசி மாதவி`, setting `முத்துப் பந்தல்`** as one complete scene-assembly + visual-text-fidelity activity.
 
 Inputs:
 
-- `works/silappathikaram-nataka-kappiyam/pages/0026.md`
-- `works/silappathikaram-nataka-kappiyam/pages/0027.md`
-- `works/silappathikaram-nataka-kappiyam/pages/0028.md`
+- `works/silappathikaram-nataka-kappiyam/pages/0029.md`
+- `works/silappathikaram-nataka-kappiyam/pages/0030.md`
+- `works/silappathikaram-nataka-kappiyam/pages/0031.md`
+- `works/silappathikaram-nataka-kappiyam/pages/0032.md`
 
 Output target:
 
-`works/silappathikaram-nataka-kappiyam/scenes/06.md`
+`works/silappathikaram-nataka-kappiyam/scenes/07.md`
 
 For this activity:
 
-1. Read all three page records completely.
-2. Create `scenes/06.md` initially at `draft` / `visual_text_fidelity: pending`.
-3. Preserve `காட்சி-6`, decorative title `பூம்புகார்ப் பொற்றொடி`, all narration, speaker labels, stage directions, punctuation, repetitions and unusual forms.
-4. There is **no separate printed setting heading** for scene 6; use `setting: null` and do not infer one from the பூம்புகார் narration.
-5. Keep explicit scan-26 / scan-27 / scan-28 provenance and both physical page boundaries.
-6. Preserve scan 27's heading `ஆடல், பாடல்`, the three quoted song lines and `[சாத்தனூரின் குரல் தொடர்கிறது]` exactly as printed. Do **not** normalize `சாத்தனூரின்` to `சாத்தனாரின்`.
-7. Preserve quoted/verse wording exactly as this physical source prints it; do not substitute a standard literary reading.
-8. Keep scan 26's large uncaptioned man/woman illustration, scan 27's full-height uncaptioned female dancer/performer illustration and scan 28's small uncaptioned ship illustration as separate visual layers.
-9. Scans 26–27 have no securely visible printed page number; scan 28 visibly prints page `12`.
-10. Inspect actual scans 26, 27 and 28 at native/enlarged resolution and compare every assembled character, punctuation sequence and mechanical join against source pixels.
-11. Verify both physical page boundaries and every column transition directly.
-12. Compare the visually checked scene again against all three verified page records.
-13. If source pixels prove a page record wrong, correct only that affected reading with explicit source-pixel documentation, then regenerate/recheck the scene.
-14. Promote to `assembly-reviewed` / `visual_text_fidelity: passed` only after both direct scan and page-record checks pass.
-15. Update README/handover records and identify the next complete scene assembly activity.
+1. Read all four page records completely.
+2. Create `scenes/07.md` initially at `draft` / `visual_text_fidelity: pending`.
+3. Preserve `காட்சி-7`, decorative title `கலைக்கரசி மாதவி`, setting `முத்துப் பந்தல்`, all stage directions, speaker labels, verse blocks, punctuation, repetitions and unusual source forms.
+4. Keep explicit scan-29 / scan-30 / scan-31 / scan-32 provenance and all three physical page boundaries.
+5. Preserve scan 29's verse block exactly as printed and retain terminal `சுயம்வரம் ஏற்பாடு செய்யப்பட்டிருக்கிறது!.` without correcting its unusual punctuation.
+6. Keep every illustration/photograph/reproduction as a separate visual layer. Scan 32 contains a large uncaptioned circular dancing-figure sculpture photograph/reproduction.
+7. Preserve every scan's verified printed pagination as provenance only; scan 29 has no securely visible page number and scan 32 visibly prints `16`.
+8. Inspect actual scans 29–32 at native/enlarged resolution and compare every assembled character, punctuation sequence and mechanical join against source pixels.
+9. Verify all three physical page boundaries and every column transition directly.
+10. Compare the visually checked scene again against all four verified page records.
+11. If source pixels prove a page record wrong, correct only that affected reading with explicit source-pixel documentation, then regenerate/recheck the scene.
+12. Promote to `assembly-reviewed` / `visual_text_fidelity: passed` only after both direct scan and page-record checks pass.
+13. Update README/handover records and identify the next complete scene assembly activity.
 
 ## Translation lock
 
@@ -127,8 +125,8 @@ Permanent terminology instruction: **Do not automatically translate `அந்�
 
 ## End-of-activity report
 
-Report the scene assembled, source scans, visual fidelity result, both page-boundary/all column-transition checks, any pixel-proven page correction, important joins, visual layers, files updated, final scene status/fidelity state, and exact next activity.
+Report the scene assembled, source scans, visual fidelity result, all page-boundary/column-transition checks, any pixel-proven page correction, important joins, visual layers, files updated, final scene status/fidelity state, and exact next activity.
 
-Proceed now with **காட்சி-6 / scans 26–28 scene assembly + visual text fidelity**.
+Proceed now with **காட்சி-7 / scans 29–32 scene assembly + visual text fidelity**.
 
 ---
