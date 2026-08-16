@@ -32,8 +32,8 @@ Before making any change, read completely:
 8. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PLAN.md`
 9. `works/silappathikaram-nataka-kappiyam/VISUAL_TEXT_FIDELITY_CHECK.md`
 10. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PILOT_REVIEW.md`
-11. `works/silappathikaram-nataka-kappiyam/scenes/01.md` through `scenes/11.md`
-12. `works/silappathikaram-nataka-kappiyam/pages/0043.md`
+11. assembled scene files `scenes/01.md` through `scenes/16.md`
+12. verified input pages `pages/0051.md` through `pages/0062.md`
 
 Use the GitHub connector and work directly in the existing repository.
 
@@ -45,71 +45,101 @@ The Tamil scan remains controlling authority. Verified `pages/NNNN.md` records a
 
 Do not silently modernize, correct, normalize, reconstruct or improve Kalaignar's Tamil. Preserve spelling, spacing, punctuation, speaker labels, stage directions, repetitions, unusual grammar, page/column continuations and source anomalies. OCR, other editions and the published English translation are secondary/assistive only.
 
+Verified pages may be corrected only when direct source pixels prove the existing reading wrong, with explicit documentation.
+
 ## Completed work — do not restart
 
 - All **88 supplied scans are visually verified**.
 - `காட்சி-1` through `காட்சி-38` are complete at page-record level.
 - Tamil completion audit is **PASS**.
 - Mandatory scene-assembly visual fidelity protocol is active.
-- `காட்சி-1` through `காட்சி-11` are **assembly-reviewed** with `visual_text_fidelity: "passed"`.
-- **11 of 38 numbered scenes are assembly-reviewed.**
+- `காட்சி-1` through `காட்சி-16` are **assembly-reviewed** with `visual_text_fidelity: "passed"`.
+- **16 of 38 numbered scenes are assembly-reviewed.**
+- The user has instructed: **process five scenes in each assembly iteration**.
 - English translation has not begun.
 
-Latest scene-11 result:
+## Latest five-scene result — scenes 12–16
 
-- `scenes/11.md` assembles scan 42, title `கற்பரசியின் கலக்கம்`, setting `கண்ணகி வீடு`.
-- Visual fidelity passed.
-- Direct scan-42 pixels corrected `pages/0042.md`: `வா உள்ளே!` → source-visible `வா உள்ளே !`.
-- The right-column continuation `ஏன் ......என்ன நடந்தது ?` remains unlabelled because the source prints no repeated speaker label.
-- Mechanical joins verified include `நின்ற / வாறு` → `நின்றவாறு`, `வரு / கிறது` → `வருகிறது`, `தேவந்தி / யைப்` → `தேவந்தியைப்`, and `அழுகிறாயாக் / கும்` → `அழுகிறாயாக்கும்`.
-- Printed page `26` and the small uncaptioned lower-centre moon/cloud-like illustration remain separate provenance/visual layers.
-- Scan 43 begins `காட்சி-12`.
-
-Do not retranscribe or casually modify verified pages. Change a verified page only when direct source pixels prove the existing reading wrong.
+- Scene 12 / scan 43: `இன்ப வாழ்வில் கோவலன்`, `மாதவி வீடு`; fidelity passed; no page correction. `அசி / வதுபோல்` remains `அசிவதுபோல்`; source word boundaries such as `சேற் கெண்டை`, `கண்ணுடிப் பேழைக்குள்`, `மழைக் கூந்தல்`, `பலாச்சுளைப் போல்`, `மொழி வளத்தைப்`, `படைப்புத் தலைவன்` are protected.
+- Scene 13 / scans 44–45: `துன்பப் புயலில் கண்ணகி`, `கண்ணகி வீடு`; fidelity passed. Direct pixels corrected `pages/0044.md` from `அவனவிட` to `அவனைவிட`. Preserve `வர மாட்டான்`, `பறி கொடுத்துப்`, and the two cross-column speech continuations.
+- Scene 14 / scans 46–48: `மாதவியின் மாண்பு`, `காவிரி ஆற்றோரம்`; fidelity passed. Preserve printed pages `30/31/32`, `வெட்கம்...நீங்கள்`, `அதனால் தான்`, `தவறுக் கருதி`, `வெளிக் கிளம்பி`, `கண்ணகியக்காணப்`, and all distinct `பிராமண` / `பார்ப்பன` / `அந்தணர்` / `மறையவர்` forms.
+- Scene 15 / scan 49: `மனமாறிந்த கோவலன்`, `கண்ணகி வீடு`; fidelity passed; no page correction. Preserve long cross-column bracketed stage prose and unusual source forms.
+- Scene 16 / scan 50: `மணிமேகலை பிறப்பு`, `மாதவி வீடு`; fidelity passed; no page correction. Preserve `குலக் கொடியே`, `நன்னிராட்டு`, `குறளியும்`, `மேலானகலை!-`, `மணிமேகலை!!....`, `பாட்டு..`, `மதங்கொண்ட`, `மறையவனைப்`.
 
 ## Accepted assembly convention
 
 For each scene:
 
-- assemble only from verified page record(s);
-- begin `status: "draft"`, `visual_text_fidelity: "pending"`;
+- create/continue from verified page record(s) at `status: "draft"`, `visual_text_fidelity: "pending"`;
 - join only demonstrably mechanical printed wrapping;
-- preserve exact wording, spacing, punctuation, repetition, speaker labels and stage directions;
+- preserve exact wording, source-supported spacing, punctuation, repetition, speaker labels and stage directions;
 - retain explicit scan provenance;
-- keep illustrations, photographs, captions and printed pagination separate from dramatic literary text;
+- keep illustrations, photographs, printed captions, page numbers, stamps and handwriting separate from dramatic literary text;
 - inspect every contributing source scan directly at native/enlarged resolution;
 - inspect both sides of every physical page and column boundary;
-- compare the assembled scene character-by-character against source pixels and then against all contributing page records;
+- compare the assembled scene character-by-character against source pixels and then against all contributing verified page records;
 - promote to `assembly-reviewed` / `visual_text_fidelity: "passed"` only when both checks pass;
-- if pixels prove a page record wrong, correct only that reading with explicit documentation before finalizing the scene.
+- if pixels prove a page record wrong, correct only that reading and document it before finalizing the scene.
 
-## Exact next activity — காட்சி-12 / scan 43
+## Exact next activity — FIVE scenes: காட்சி-17 through காட்சி-21
 
-Process **காட்சி-12 / scan 43 — `இன்ப வாழ்வில் கோவலன்`, setting `மாதவி வீடு`** as one complete scene-assembly + visual-text-fidelity activity.
+Process all five scenes in this single iteration.
 
-Input:
+### 1. காட்சி-17 / scans 51–52
 
-- `works/silappathikaram-nataka-kappiyam/pages/0043.md`
+- Title: `மாசறு பொன்மகிழ்வு`.
+- Setting: `கண்ணகி வீடு`.
+- Inputs: `pages/0051.md`, `pages/0052.md`.
+- Output: `scenes/17.md`.
+- Scan 51 contains the literary scene and an archaeological photograph with exact printed caption:
+  `“பூம்புகார்” அகழ்வாராய்ச்சியில் / கிடைத்த பெளத்தப் பள்ளி`.
+- Keep caption separate from dramatic text.
+- Scan 52 is the pictorial final physical scan associated with scene 17; do not omit it from provenance.
+- Scan 53 begins scene 18.
 
-Output target:
+### 2. காட்சி-18 / scans 53–54
 
-`works/silappathikaram-nataka-kappiyam/scenes/12.md`
+- Title: `இந்திர விழா-இருமனைகளில்`.
+- Inputs: `pages/0053.md`, `pages/0054.md`.
+- Output: `scenes/18.md`.
+- Scan 53 visibly prints page `37`.
+- Preserve the explicitly headed internal locations `மாதவி வீடு` and `கண்ணகி வீடு`.
+- Preserve the scan-53 continuation onto scan 54 exactly; scan 55 begins scene 19.
 
-For this activity:
+### 3. காட்சி-19 / scans 55–58
 
-1. Read `pages/0043.md` completely.
-2. Create `scenes/12.md` initially at `draft` / `visual_text_fidelity: pending`.
-3. Preserve `காட்சி-12`, decorative title `இன்ப வாழ்வில் கோவலன்`, setting `மாதவி வீடு`, all stage directions, speaker labels, punctuation, repetitions and unusual source forms.
-4. Scan 43 is both the opening and closing physical scan; scan 44 directly begins `காட்சி-13`.
-5. Preserve visible printed page `27` as provenance.
-6. Kovalan's long description crosses the physical column boundary: the left column ends `அசி` and the right column begins `வதுபோல்`; assemble only that demonstrable wrap to `அசிவதுபோல்`, with no editorial substitution.
-7. Preserve source forms/punctuation including `மால்`, `சேற் / கெண்டை`, `இருண்டு-கண்பறிக்கும்`, `வித்தினிலே`, `யாரு / மில்ல !......`, `மன்னு !...`, `மால்க்கும்`, and `ஏற்பட் / டும்!......`.
-8. Keep the small uncaptioned peacock illustration near the lower centre separate from literary text; do not infer symbolic meaning.
-9. Inspect actual scan 43 at native/enlarged resolution and compare every assembled character, punctuation sequence and mechanical join against source pixels.
-10. Compare the visually checked scene again against verified `pages/0043.md`.
-11. If source pixels prove a page record wrong, correct only that affected reading with explicit source-pixel documentation, then recheck the scene.
-12. Promote to `assembly-reviewed` / `visual_text_fidelity: passed` only after both direct scan and page-record checks pass.
-13. Update README/handover records and identify the next complete scene activity.
+- Title printed on two lines: `கானல் வரியும் / காதல் பிரிவும்`.
+- Setting: `புகார்`.
+- Inputs: `pages/0055.md`–`pages/0058.md`.
+- Output: `scenes/19.md`.
+- Preserve all four source scans, all page/column boundaries, the யாழ் sequence and the later காதல் பிரிவு structure.
+- Scan 55's large uncaptioned யாழ் scene illustration remains a visual layer.
+- Scan 59 begins scene 20.
+
+### 4. காட்சி-20 / scans 59–60
+
+- Title printed on two lines: `திருந்திய கோவலன் / திரும்பி வருதல்`.
+- Setting: `கண்ணகி வீடு`.
+- Inputs: `pages/0059.md`, `pages/0060.md`.
+- Output: `scenes/20.md`.
+- Preserve the physical scan boundary `பாவச் / சின்னம்!...`.
+- Scan 59 contains a coin photograph with exact rotated caption:
+  `“பூம்புகார்” அகழ்வாராய்ச்சியில் கிடைத்த / இராசராசன் காசுகள்.`
+- Keep photograph/caption separate from dramatic text.
+- Scan 61 begins scene 21.
+
+### 5. காட்சி-21 / scans 61–62
+
+- Visible lexical title: `கலைமகள்`.
+- Setting: `மாதவி வீடு`.
+- Inputs: `pages/0061.md`, `pages/0062.md`.
+- Output: `scenes/21.md`.
+- The heading also contains a large eye with falling tears as artwork. **Do not infer or append another title word from the picture.**
+- Scan 61 visibly prints page `45` and contains an uncaptioned sculptural photograph/reproduction.
+- Scan 62 is the pictorial continuation and remains part of scene provenance.
+- Scan 63 begins scene 22.
+
+For each of these five scenes, create the draft, inspect the actual contributing scan(s) directly, perform complete visual-text fidelity and page-record comparison, correct only pixel-proven errors, then promote independently. At the end, update README/HANDOVER/project handover/next-chat prompt and set the following batch to scenes 22–26.
 
 ## Translation lock
 
@@ -117,10 +147,6 @@ Do not begin English translation.
 
 Permanent terminology instruction: **Do not automatically translate `அந்தணர்` as “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and other source terms. English renderings will be decided only during dedicated terminology review.
 
-## End-of-activity report
-
-Report the scene assembled, source scan, visual fidelity result, column-transition check, any pixel-proven page correction, important joins/forms, visual layer, files updated, final scene status/fidelity state, and exact next activity.
-
-Proceed now with **காட்சி-12 / scan 43 scene assembly + visual text fidelity**.
+Proceed now with the **five-scene batch: காட்சி-17 through காட்சி-21**.
 
 ---
