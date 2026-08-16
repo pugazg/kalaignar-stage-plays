@@ -27,44 +27,53 @@ Source facts:
 
 ## Current verification checkpoint
 
-Scans **1–48 are fully verified**.
+Scans **1–49 are fully verified**.
 
-This includes the complete front matter/prefaces and **காட்சி-1 through காட்சி-14**.
+This includes the complete front matter/prefaces and **காட்சி-1 through காட்சி-15**.
 
-Individual structural records exist through scan **49**. Scan 49 remains `needs-review` as the opening of `காட்சி-15`.
+Individual page records now exist through scan **50**. Scan 50 is `needs-review` and is physically a one-scan `காட்சி-16`; scan 51 directly begins `காட்சி-17`.
 
-## Newly completed activity — காட்சி-14, scans 46–48
+## Newly completed activity — காட்சி-15, scan 49
 
-### Scan 46 — `pages/0046.md`
+### Scan 49 — `pages/0049.md`
 
-- `காட்சி-14`.
-- Enlarged source inspection confirms the decorative title **`மாதவியின் மாண்பு`**.
-- Setting: **`காவிரி ஆற்றோரம்`**.
-- Printed page **`30`** at lower left.
-- Complete Kovalan–Madhavi two-column text and stage directions verified.
-- Preserve forms including `ஒன்றுமில்ல`, `சொல்லவேயில்ல`, `கோகிலமே`, `ஊகும்`, `[கோவலன் தும்முகிறான்]`, and `நூறாண்டு வாழ்க!`.
-- The page ends physically at `இப்படித்`; scan 47 resumes `தான் எதற்கெடுத்தாலும்...`.
-- Small printed illustration is uncaptioned; do not infer identity.
+- `காட்சி-15`.
+- Enlarged Tamil-source inspection confirms the decorative title as the unusual printed form **`மனமாறிந்த கோவலன்`**. Do not silently regularize it.
+- Setting: **`கண்ணகி வீடு`**.
+- No printed page number is visible.
+- Complete stage prose and Kannagi speech verified.
+- The opening stage prose describes the changed household, Kannagi's memories, the cow, bed, jasmine flowers, unlit lamp and doorway; Kovalan approaches, but Kannagi shuts the door and he turns away.
+- Preserve source forms and physical splits including `நகை நட்டு எதுமின்றி`, `ஆடம்பர நில / இல்லை`, `கோவல / னும்`, `பசவும்`, `பொல / பொல`, `கத / வண்டை`, `அதிர்ச்சி யடைந்து`, `கூடத் / தில்`, `திரு / வுருவப்`, `கூர்பார்க்க`, `தடையேன்`, `உறவு முறு / கின்றார்`, `வாருங் / கள்`, and `மாட்டீர் / களா`.
+- The bracketed stage prose crosses from the left column to the right and closes after Kannagi approaches Kovalan's portrait.
+- Large lower-right sculptural photograph/reproduction is uncaptioned; do not infer identity.
+- Scan 50 directly begins `காட்சி-16`, so scene 15 is one scan.
 
-### Scan 47 — `pages/0047.md`
+Verification used the controlling Tamil scan at enlarged 400-ppi resolution with targeted crops/contrast variants. The published English translation was not used to settle the Tamil title or text.
 
-- Printed page **`31`** at lower right.
-- Continues scene 14 and introduces the grieving Brahmin woman and child.
-- Preserve label variants exactly: `பிராமண மாது`, `பிராமணமாது`, stage-direction form `பார்ப்பனமாது`, and final **`அந்தணர் ;`** with semicolon.
-- Preserve `மா...தா...வி...தான்!`, `மாதா...மாதா...நீ...மாதா...நான்...பிதா!`, `கல்மனத்தை`, and other source punctuation/splits.
-- The bracketed stage direction crosses columns from `ஒரு பிராமண` to `மாது கையில்...`.
-- Small lower-centre illustration is uncaptioned.
+## Permanent future-translation terminology note — `அந்தணர்`
 
-### Scan 48 — `pages/0048.md`
+The user explicitly directed that **Kalaignar's `அந்தணர்` is not to be treated as simply “Brahmin.”** This is now recorded permanently in `works/silappathikaram-nataka-kappiyam/metadata/english-translation-source.md`.
 
-- Printed page **`32`** at lower left.
-- Completes the Brahmin-family episode and closes scene 14.
-- Preserve speaker abbreviations `அந்த` and `மாத`, `கொன்றுவிட்டார்கள்!`, `சரிக்குச் சரி`, `அந்தணனுக்கும்`, `தமிழ் மறை`, `ஊகும் -`, and especially the visibly printed physical form **`கண்ணகி / யக்காணப்`**.
-- Madhavi's speech crosses columns at `அது / போல் தானே...`.
-- Small standing/dancing figure illustration is uncaptioned.
-- Scan 49 directly begins `காட்சி-15`, securely closing scene 14.
+Operational rule for future English work:
 
-Verification used the controlling Tamil scan at enlarged resolution and targeted crops. The published English translation was not used to settle scene-14 Tamil readings.
+- Do **not** automatically translate `அந்தணர்` as “Brahmin.”
+- Preserve the distinction among `பிராமண`, `பார்ப்பன`, and `அந்தணர்` in Kalaignar's wording.
+- Scene 14 visibly differentiates them: `பிராமண மாது`, `பிராமணமாது`, `பார்ப்பனமாது` for the woman, but `அந்தணர் ;`, `அந்த`, and `அந்தணனுக்கும்` for the man.
+- Decide an English rendering for `அந்தணர்` only in a dedicated terminology/translation review; if the published English witness uses “Brahmin,” record that as its translator's choice rather than automatically adopting it.
+
+Repository prose that had loosely described scene 14 as a “Brahmin-family episode” has been replaced in the page map/README with the actual source-term distinction.
+
+## Forward mapped page
+
+### Scan 50 — `pages/0050.md`
+
+- `காட்சி-16`.
+- Decorative title provisionally appears **`மணிமேகலை பிறப்பு`**; must be verified from enlargement before acceptance.
+- Setting: **`மாதவி வீடு`**.
+- No printed page number securely visible.
+- Two-column text above a large line illustration of two women with an infant.
+- Scan 51 begins `காட்சி-17`, so this is a one-scan scene.
+- Status: `needs-review`.
 
 ## Working-unit decision
 
@@ -76,12 +85,12 @@ The user supplied `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf`, re
 
 ## Next activity
 
-Process **காட்சி-15 beginning at scan 49**.
+Process **காட்சி-16 on scan 50**.
 
-1. Inspect forward from scan 49 until the next `காட்சி-` heading to establish the complete physical extent of scene 15.
-2. Resolve scan 49's ornate title from enlarged/native source before accepting any provisional reading.
-3. Transcribe and verify every physical scan in the scene: speaker labels, dialogue, stage directions, punctuation and physical word splits.
-4. Record printed pagination only where directly visible.
-5. Keep photographs/reproductions/illustrations distinct from dramatic text and use only printed captions or identifications.
-6. Promote each scan independently to `verified` only after direct source comparison.
+1. Verify the provisional ornate title `மணிமேகலை பிறப்பு` from enlarged/native source.
+2. Transcribe and verify the complete physical page: speaker labels, dialogue, stage directions, punctuation and physical word splits.
+3. Record pagination only if directly visible; do not infer one from sequence.
+4. Keep the large infant/women illustration distinct from dramatic text and do not infer identities beyond what the page itself supports.
+5. Promote scan 50 to `verified` only after direct comparison.
+6. Scan 51 already establishes the next boundary as `காட்சி-17`.
 7. Do not begin scene assembly or English translation yet.
