@@ -7,29 +7,39 @@ The supplied scan is the controlling source. The PDF itself is not committed.
 ## Processing status
 
 - Scan length: **88 pages**.
-- Scans **1–71 are fully verified**.
-- Dramatic-body detailed verification covers **காட்சி-1 through காட்சி-28**.
-- Scans **72–75** are structurally mapped as `காட்சி-29` and remain `needs-review`.
-- Scan **76** visibly begins `காட்சி-30`.
+- Scans **1–75 are fully verified**.
+- Dramatic-body detailed verification covers **காட்சி-1 through காட்சி-29**.
+- Scan **76** is structurally mapped as the one-scan `காட்சி-30` and remains `needs-review`.
+- Scan **77** visibly begins `காட்சி-31`.
 - Scene assembly: not started.
 - Full source audit: not started.
 - English translation: not started; published translation witness and terminology lock recorded.
 
-## Latest detailed verification — காட்சி-28
+## Latest detailed verification — காட்சி-29
 
-`காட்சி-28` is physically complete on **scan 71**; scan 72 begins `காட்சி-29`.
+`காட்சி-29` spans **scans 72–75**; scan 76 begins `காட்சி-30`.
 
-- Decorative title verified as **`பொற்கொல்லர் முறையீடு`**.
-- Setting: **`பாண்டியன் தனிமாடம்`**.
-- No printed page number is securely visible; none is inferred.
-- Complete two-column dramatic text verified directly against enlarged 500-ppi source views.
-- The opening preserves the source's unusual unmatched closing bracket after `கோப்பெருந்தேவி கேட்டுக்கொண்டே / வருகிறாள்.]` rather than silently repairing it.
-- `கோப்` questions why the queen's anklet has not returned; `நெடுஞ்` is composing a poem on education and quotes `“உற்றுழி உதவியும் / உறுபொருள் கொடுத்தும்”...` before the palace goldsmith is announced.
-- The head goldsmith reports that the queen's anklet has disappeared from the locked box despite his retaining the key; Nedunchezhiyan orders all one hundred goldsmiths to appear before the court for inquiry.
-- Speaker-label variants are preserved exactly: `கோப்`, `நெடுஞ்`, `தோழி`, `தலைமைப் பொற்`.
-- Source-specific forms/punctuation retained include `பார்க்கிறர்`, `ஊகூம்`, `அப்படி யென்ன`, `பள்ளிக்கூடமுமல்ல`, `செய்தியைச் சொல்லும்`, `நீதி மன்றத்தில்`, `நிறுத்தும்!`, and `கண்டு பிடிக்கிறேன்`.
-- Physical source splits retained include `எழுதிக்கொண் / டிருக்கிறான்`, `கொண் / டிருக்கிறீர்களாம்`, `புறத் / துறைப்`, `கொண்டிருக் / கிறேன்`, `முழக் / கம்`, `திறவுகோலை / யும்`, and `சொல்லு / வேன்`.
-- Small lower-centre oval anklet/ornament-like illustration is uncaptioned.
+- Decorative title verified as **`ஒற்றைச் சிலம்பின் ஒலி`**.
+- Setting: **`மாதரி வீடு`**.
+- Complete four-scan dramatic text verified directly against enlarged 4x / 6x controlling-source views.
+- Scan 72 visibly carries printed page **56**.
+- Scan 73 visibly prints only the numeral **`8`**. It is preserved exactly as an anomalous printed marker; no expected pagination is substituted.
+- Scans 74–75 have no securely visible printed page number.
+- The scene follows Kannagi and Kovalan discussing how to restart trade; Kannagi offers her anklets, Kovalan asks her to retain one, and the emotional `ஒற்றைச் சிலம்பு` passage develops before he leaves while the kuravai begins.
+- Source-specific readings preserved without normalization include `அழுகக்கேன்`, `கழற்றுமல்`, `வீட்டு வைத்திருக்கும்`, `தலிநகருக்கு!`, `வருமத்தான்`, `ஒலி யெழுப்பும்`, `ஆவிநிகர் மீனியாளே`, `புன்மதியாளனுக்கு`, `ஒரு முறை யத்தான்!`, and `திரும்பிவந்து விட்டார்களே...`.
+- Scan 72 carries a small uncaptioned bird/dove-like illustration.
+- Scan 73 carries a large uncaptioned dramatic illustration of a man and woman.
+- Scan 74 carries a small uncaptioned elephant-like illustration.
+- Scan 75 closes the scene and has a lower archaeological/object-image panel separated from the dramatic text by a horizontal rule.
+
+### Exact scan-75 caption
+
+`“பூம்புகார்” அகழ்வாராய்ச்சி—`  
+`கரிகாலன் காலத்துப் பொற்காசு`  
+`களும் அவற்றில் பொறித்துள்ள`  
+`சின்னங்களும்.`
+
+The lower panel contains two line-drawn symbols at left and two photographed/reproduced coin-like or inscribed objects at right. The caption is archived exactly as printed, including the `பொற்காசு / களும்` physical split.
 
 Verification used the controlling Tamil scan only for wording; the published English translation was not used to settle Tamil readings.
 
@@ -41,15 +51,10 @@ Kalaignar's `அந்தணர்` must **not** be automatically equated with o
 
 Detailed verification proceeds by one complete scene per activity where practical, while preserving one archival page record per physical scan.
 
-## Forward structural mapping — காட்சி-29
+## Forward structural mapping — காட்சி-30
 
-Individual `needs-review` page records now exist for scans **72–75**.
-
-- Scan 72: begins `காட்சி-29`; provisional title **`ஒற்றைச் சிலம்பின் ஒலி`**; setting **`மாதரி வீடு`**; printed page **56**; bird/dove-like lower illustration.
-- Scan 73: continuation with a large lower-right dramatic figure illustration; pagination not yet accepted.
-- Scan 74: continuation with a small elephant-like illustration; pagination not yet accepted.
-- Scan 75: continuation / close; lower half contains archaeological/object images and a printed Tamil caption requiring exact detailed transcription.
-- Scan 76 directly begins `காட்சி-30`, so scene 29 spans scans **72–75**.
+- Scan 76: begins `காட்சி-30`; provisional title **`சிலம்போ சிலம்பு`**; setting **`பொற்கொல்லர் நிலையம்`**; printed page **60**; small uncaptioned bow-and-arrow-like illustration; status `needs-review`.
+- Scan 77 directly begins `காட்சி-31`, so scene 30 is physically a one-scan scene.
 
 ## Published English translation witness
 
@@ -57,4 +62,4 @@ The user-supplied published English volume remains a secondary future collation 
 
 ## Next work
 
-Process **காட்சி-29 across scans 72–75** as one complete scene. Verify the ornate title, complete four-page dialogue/stage text, all printed pagination that is actually visible, illustrations, and the exact archaeological/object caption on scan 75 before promotion.
+Process **காட்சி-30 / scan 76** as one complete scene. Verify the ornate title, complete two-column dialogue/stage text, speaker labels, punctuation, physical splits and lower illustration before promotion.
