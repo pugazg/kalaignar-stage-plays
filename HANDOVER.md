@@ -27,39 +27,70 @@ Source facts:
 
 ## Current verification checkpoint
 
-Scans **1–43 are fully verified**.
+Scans **1–45 are fully verified**.
 
-This includes the complete front matter/prefaces and **காட்சி-1 through காட்சி-12**.
+This includes the complete front matter/prefaces and **காட்சி-1 through காட்சி-13**.
 
-Individual structural records exist through scan **45**. Scans 44–45 remain `needs-review`.
+Individual structural records now exist through scan **49**. Scans 46–49 remain `needs-review`.
 
-## Newly completed / corrected activity — காட்சி-12, scan 43
+## Newly completed activity — காட்சி-13, scans 44–45
 
-### Scan 43 — `pages/0043.md`
+### Scan 44 — `pages/0044.md`
 
-- `காட்சி-12`.
-- Enlarged Tamil-source inspection confirms the decorative title **`இன்ப வாழ்வில் கோவலன்`**. The earlier repository reading `இரு வாழ்விலும் கோவலன்` was incorrect and has been replaced.
-- Setting heading: **`மாதவி வீடு`**.
-- Printed page marker: **`27`** at lower right.
-- This is a one-scan scene; scan 44 directly begins `காட்சி-13`.
-- Complete two-column dramatic text is verified.
-- Preserve the source's `மால்` in `மாதவி மால் தொடுத்துக்கொண்டிருக் / கிறாள்` and later `மலர் எடுத்து மால் தொடுப் / பது`; do not normalize either to `மாலை`.
-- Preserve `கலை / யழகைக்`, not the earlier erroneous `கவி / யழகைக்`.
-- Preserve `சேற் / கெண்டை செவ்விதழ்போல்`, `வித்தினிலே`, and `மால்க்கும்` exactly as supported by the scan.
-- The long Kovalan description crosses the source column boundary: left column ends **`அசி`**, right column resumes **`வதுபோல்...`**. Together this reads `அசிவதுபோல்`; do not restore the earlier erroneous `அலை-`.
-- Other source-specific forms include `இருண்டு-கண்பறிக்கும்`, `யாரு / மில்ல !......`, `மன்னு !...`, and the physical `ஏற்பட் / டும்!......` split.
-- The lower-centre peacock illustration is uncaptioned; do not infer symbolic meaning or character identity.
-- The user-supplied published English translation's contents gives scene 12 as “Kovalan in Newfound Joy”. This is secondary corroboration only; the corrected Tamil title is supported directly by the enlarged Tamil source.
+- `காட்சி-13`.
+- Enlarged source inspection confirms the decorative title **`துன்பப் புயலில் கண்ணகி`**.
+- Setting: **`கண்ணகி வீடு`**.
+- Complete two-column dramatic text verified.
+- Masattuvan's speech crosses the source column boundary: left ends `மன்னித்து விடம்மா`, right resumes `என்னை!...`.
+- Preserve source forms including `பதித்துரோகி யாகிவிடுவேன்!`, `அவனவிட`, `கணவ / னைக் கிடைப்பாரா?...`, `அத்தை-சும்மாயிருப்பார்களா?......`, and `இராமாயண-பாரதப்`.
+- No printed page number is visible.
+- Large lower-left monochrome photograph/reproduction is uncaptioned; do not infer identity.
+
+### Scan 45 — `pages/0045.md`
+
+- Continues and closes `காட்சி-13`.
+- Complete two-column family dialogue verified.
+- Masattuvan and his wife leave; `மானாய்க்கன்` and Kannagi's mother arrive.
+- Preserve speaker/source variants `மானாய்கன் மகளே!...`, full label `மானாய்க்கன்`, and abbreviation `மானாய்`.
+- Preserve source forms including `எதாவது`, `அப்பயோ...`, `கொடு நெருப்பில்`, `பதுமைபோல்`, and the repeated `யாரும் இங்கே வராதீர்கள்` sequence.
+- The bottom-left `மானாய்` speech ends physically at `அவன் ஏன்`; the right column continues `கணிகை ஒருத்தியின்...`.
+- No printed page number is visible.
+- Lower-right sculptural photograph/reproduction is uncaptioned; do not infer identity.
+- Scan 46 directly begins `காட்சி-14`, securely closing scene 13.
+
+Verification used the controlling Tamil scan rendered at enlarged resolution with targeted crops. The published English translation was not used to settle scene-13 Tamil readings.
 
 ## Forward mapped pages
 
-### Scans 44–45 — `pages/0044.md`, `pages/0045.md`
+### Scan 46 — `pages/0046.md`
 
-- Scan 44 begins `காட்சி-13`, setting `கண்ணகி வீடு`; ornate title provisionally appears `துன்பப் புயலில் கண்ணகி`.
-- Scan 45 continues scene 13.
-- Both remain `needs-review`.
-- Image identifications must not be inferred beyond printed captions.
-- Before scene-13 verification is closed, inspect forward beyond scan 45 to locate the next `காட்சி-` heading and establish the complete physical scene extent.
+- `காட்சி-14`.
+- Printed page `30` at lower left.
+- Setting `காவிரி ஆற்றோரம்`.
+- Decorative title provisionally appears `மாதவியின் மாண்பு`; must be enlarged and verified before acceptance.
+- `needs-review`.
+
+### Scan 47 — `pages/0047.md`
+
+- Continues scene 14.
+- Printed page `31` at lower right.
+- Small uncaptioned lower-centre illustration.
+- `needs-review`.
+
+### Scan 48 — `pages/0048.md`
+
+- Continues and physically closes scene 14.
+- Printed page `32` at lower left.
+- Small uncaptioned lower-centre figure illustration.
+- `needs-review`.
+
+### Scan 49 — `pages/0049.md`
+
+- Directly begins `காட்சி-15`, so **காட்சி-14 spans scans 46–48**.
+- Setting `கண்ணகி வீடு`.
+- Decorative title intentionally unresolved pending enlarged verification.
+- Lower-right sculptural photograph/reproduction is uncaptioned.
+- `needs-review`.
 
 ## Working-unit decision
 
@@ -71,12 +102,12 @@ The user supplied `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf`, re
 
 ## Next activity
 
-Process **காட்சி-13 beginning at scan 44**.
+Process **காட்சி-14 across scans 46–48 as one complete activity**.
 
-1. Inspect forward from scans 44–45 until the next `காட்சி-` heading to establish the complete physical extent of scene 13.
-2. Resolve scan 44's ornate title from enlarged/native source before accepting the provisional `துன்பப் புயலில் கண்ணகி`.
-3. Transcribe and verify every physical scan in the scene: speaker labels, dialogue, stage directions, punctuation and physical word splits.
-4. Record printed pagination only where directly visible.
-5. Keep all photographs/reproductions distinct from dramatic text and use only printed captions/identifications.
-6. Promote each scan independently to `verified` only after direct source comparison.
+1. Resolve scan 46's ornate title from enlarged/native source before accepting provisional `மாதவியின் மாண்பு`.
+2. Transcribe and verify all text across scans 46–48: speaker labels, dialogue, stage directions, punctuation, cross-column continuations and physical word splits.
+3. Preserve printed pages `30`, `31`, `32` exactly.
+4. Keep illustration layers distinct from dramatic text and do not infer identities beyond printed captions.
+5. Promote each physical scan independently to `verified` only after direct source comparison.
+6. Scan 49 already establishes the next scene boundary as `காட்சி-15`.
 7. Do not begin scene assembly or English translation yet.
