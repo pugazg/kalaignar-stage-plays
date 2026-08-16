@@ -17,33 +17,27 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 
 ## Current verification checkpoint
 
-Scans **1–64 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-22**.
+Scans **1–65 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-23**.
 
-## Newly completed activity — காட்சி-22, scans 63–64
+## Newly completed activity — காட்சி-23, scan 65
 
-### Scan 63 — `pages/0063.md`
+### Scan 65 — `pages/0065.md`
 
-- `காட்சி-22`.
-- Decorative title verified as **`மதுரைப் பயணம்`**.
-- Setting: **`மதுரை செல்லும் வழி`**.
-- No visible printed page number.
-- Complete two-column text verified.
-- The scene introduces `கவுந்தியடிகள்`; Kovalan describes Puhar, identifies himself and Kannagi, and begins explaining his fault.
-- Preserve source forms/splits including `நிறைந்து தோற்ற மளிக்கும்`, `குணகடல் பவளமும்`, `பூம்புகார்த் தில / நகரே`, and `துணைநலம்`.
-- Final literary text ends physically at `என் பத்தினியின்`; scan 64 begins `பாதம் பட்டுப்...`.
-- Large lower-half three-figure line illustration is uncaptioned.
+- `காட்சி-23`.
+- Decorative title verified as **`மாதவி துறவு`**.
+- Setting: **`மாசாத்துவான் வீடு`**.
+- Printed page **49** visibly present.
+- Complete two-column dramatic text verified using enlarged 600-ppi source crops.
+- The opening is Kovalan's letter, preserving `என் தவற்றுள் வருந்தும் உங்கள் நெஞ்சத்தை / ஆற்றிக் கொள்ள வேண்டுகிறேன்.`
+- Madhavi arrives with Manimekalai and women carrying trays of wealth accumulated in her house.
+- Preserve speaker-label variation exactly: `மாசாத்துவான்` and `மாசாத்`.
+- Preserve source forms/splits including `பெற்றோர்க் / குப்`, `நாலைந்து பெண்கள்`, `காரண / மான`, `செல் / வம்`, `மாற்றுக் குறை / யாத பசும் பொன்`, `தீங் / கானது`, `அழி / கின்ற`, and `குழந்தை / யைக்`.
+- Preserve the visibly printed unusual line **`எங்கே...என்னை மன்னித்தேன் என்று ஒரு முறை சொல்லுங்கள்!`**; do not silently rewrite it for grammar or meaning.
+- Māsāttuvan calls Madhavi `என் அன்பு மருமகள்!` and takes Manimekalai into his arms at the close.
+- Small lower-centre illustration depicts a piled heap of round coin-like objects on a shallow tray/plate; it is uncaptioned.
+- Scan 66 directly begins `காட்சி-24`, so scene 23 is a one-scan scene.
 
-### Scan 64 — `pages/0064.md`
-
-- Continues and closes scene 22.
-- Printed page **48** visibly present.
-- Complete journey dialogue and Madhavi-letter sequence verified.
-- Left column ends physically at `உராய்ந்துவிட்டால்`; right column begins `அங்குள்ள பெரிய தேன்கூடுகள்...`.
-- Preserve source forms including `பாகற்பழம்`, `நீர் நாயினுல்`, `தவறுன`, `நல்லவைகளா யிருக் / கட்டும்`, `பேரன்புடையவரே!...`, `தவறுள்`, and `பிழைக்காக`.
-- Small bottom-centre palm/tree illustration is uncaptioned.
-- Scan 65 directly begins `காட்சி-23`.
-
-Verification used the controlling scan with enlarged 500-ppi renders and targeted contrast/sharpened crops. The published English translation was not used to settle Tamil wording.
+Verification used the controlling Tamil scan and enlarged direct visual comparison. The published English translation was not used to settle Tamil wording.
 
 ## Permanent future-translation terminology note
 
@@ -55,14 +49,14 @@ Detailed verification proceeds by **one complete scene per activity where practi
 
 ## Forward mapped page
 
-### Scan 65 — `pages/0065.md`
+### Scan 66 — `pages/0066.md`
 
-- Begins `காட்சி-23`.
-- Decorative title: **`மாதவி துறவு`**.
-- Setting: **`மாசாத்துவான் வீடு`**.
-- Printed page **49** visibly present.
-- Two-column dramatic text plus a small uncaptioned heap/coin-like lower illustration.
-- Scan 66 directly begins `காட்சி-24`, so scene 23 is a one-scan scene.
+- Begins `காட்சி-24`.
+- Provisional decorative title: **`கவுந்தியுடன் கண்ணகி கோவலன்`**; final character-level acceptance pending.
+- Setting: **`வழியில்`**.
+- Printed page **50** visibly present.
+- Dense two-column dramatic text plus a small uncaptioned flag/banner-like lower illustration.
+- Scan 67 directly begins `காட்சி-25`, so scene 24 is a one-scan scene.
 - Status: `needs-review`.
 
 ## Published English translation witness
@@ -71,4 +65,4 @@ The supplied published English volume remains a secondary future collation witne
 
 ## Next activity
 
-Process **காட்சி-23 / scan 65** as one complete scene. Verify all dialogue/stage directions, speaker labels, punctuation, physical splits and the lower illustration before marking it `verified`. Do not begin scene assembly or English translation yet.
+Process **காட்சி-24 / scan 66** as one complete scene. Verify the ornate title, all dialogue/stage directions, speaker labels, punctuation, physical splits and lower illustration before marking it `verified`. Do not begin scene assembly or English translation yet.
