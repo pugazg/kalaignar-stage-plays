@@ -20,8 +20,8 @@ The supplied scan is the controlling source. The PDF itself is not committed.
 - `காட்சி-3 / scans 19–20`: **assembly-reviewed**, `visual_text_fidelity: passed`.
 - `காட்சி-4 / scans 21–23`: **assembly-reviewed**, `visual_text_fidelity: passed`.
 - `காட்சி-5 / scans 24–25`: **assembly-reviewed**, `visual_text_fidelity: passed`.
-- **5 of 38 numbered scenes are now assembly-reviewed.**
-- Reusable pilot format/fidelity method: **accepted** — see `SCENE_ASSEMBLY_PILOT_REVIEW.md`.
+- `காட்சி-6 / scans 26–28`: **assembly-reviewed**, `visual_text_fidelity: passed`.
+- **6 of 38 numbered scenes are now assembly-reviewed.**
 - English translation: **not started** and remains locked through assembly/global Tamil review unless the user explicitly changes phase.
 
 ## Audit result
@@ -34,60 +34,41 @@ The assembly manifest and rules are recorded in `SCENE_ASSEMBLY_PLAN.md`. Scene 
 
 Scene assembly creates a derivative text layer and therefore receives a second direct source-pixel check. A scene cannot become `assembly-reviewed` until every source-supported character/textual layer and every mechanical join have been rechecked directly against the contributing scan(s), visual/non-literary layers remain separated correctly, and the scene is compared again against all verified page records.
 
-## Completed assembly — காட்சி-1
+## Completed assemblies
 
-`scenes/01.md` assembles scan 17 / verified `pages/0017.md`.
+### காட்சி-1
 
-- Title: `வஞ்சி மூதூரில் முரசறைதல்`.
+`scenes/01.md` — `வஞ்சி மூதூரில் முரசறைதல்`, `setting: null`, scan 17. Assembly-reviewed / fidelity passed.
+
+### காட்சி-2
+
+`scenes/02.md` — `செங்குட்டுவன் பிறந்தநாள் விழா`, setting `வஞ்சி`, scan 18. Direct source review corrected `தனி மாடத்தைவிட்டு` → `தனி மாடத்தை விட்டு` in `pages/0018.md`.
+
+### காட்சி-3
+
+`scenes/03.md` — `விழாவும் வினாவும்`, setting `சேரன் அரண்மனை`, scans 19–20. Direct source review corrected one scan-19 and five scan-20 ellipsis counts; an assembly-only spacing collapse in `செங்குட்டுவனுக்குத் தான்` was also caught and restored.
+
+### காட்சி-4
+
+`scenes/04.md` — `இளங்கோ துறவு`, setting `சேரலாதன் மாளிகை`, scans 21–23. Source-pixel review corrected `தங்கப்போகிறேன்!` → `தங்கப் போகிறேன்!` in `pages/0022.md` and seven-dot `வருகிறேன்.......` → six-dot `வருகிறேன்......` in `pages/0023.md`. Scan 23 photograph caption remains separate as `காவிரி — கடலில் கலக்கும் / காட்சி`.
+
+### காட்சி-5
+
+`scenes/05.md` — `சிலம்பின் தோற்றம்`, setting `சேரநாடு`, scans 24–25. Cross-page continuation `கணவன் வருவான் வருவான்` → `என்று கண் கலங்கக் கூறிக் கொண்டிருந்தாள்...` was verified directly. `pages/0025.md` was corrected from `கண்ணகி....!` to source-visible `கண்ணகி...!`. Printed page `8` on scan 24 and anomalous printed `2` on scan 25 remain provenance only.
+
+### காட்சி-6
+
+`scenes/06.md` assembles scans 26–28.
+
+- Title: `பூம்புகார்ப் பொற்றொடி`.
 - No separate printed setting heading; `setting: null`.
-- Status: `assembly-reviewed`; visual fidelity: `passed`.
-- No verified page correction was required.
-
-## Completed assembly — காட்சி-2
-
-`scenes/02.md` assembles scan 18 / verified `pages/0018.md`.
-
-- Title: `செங்குட்டுவன் பிறந்தநாள் விழா`; setting: `வஞ்சி`.
-- Status: `assembly-reviewed`; visual fidelity: `passed`.
-- Direct source review corrected `தனி மாடத்தைவிட்டு` to source-visible `தனி மாடத்தை விட்டு` in `pages/0018.md`.
-
-## Completed assembly — காட்சி-3
-
-`scenes/03.md` assembles scans 19–20 / verified `pages/0019.md` and `pages/0020.md`.
-
-- Title: `விழாவும் வினாவும்`; setting: `சேரன் அரண்மனை`.
-- Status: `assembly-reviewed`; visual fidelity: `passed`.
-- Source-boundary comments retain scan-19 / scan-20 provenance.
-- Direct scan review corrected one scan-19 and five scan-20 ellipsis counts, all documented in the affected page records.
-- An assembly-only spacing collapse in `செங்குட்டுவனுக்குத் தான்` was caught and restored before review passed.
-
-## Completed assembly — காட்சி-4
-
-`scenes/04.md` assembles scans 21–23 / verified `pages/0021.md`, `pages/0022.md`, and `pages/0023.md`.
-
-- Title: `இளங்கோ துறவு`; setting: `சேரலாதன் மாளிகை`.
-- Status: `assembly-reviewed`; visual fidelity: `passed`.
-- All three scans, both page boundaries and scan 23's cross-column bracket continuation were directly rechecked.
-- `pages/0022.md` was corrected from `தங்கப்போகிறேன்!` to source-visible `தங்கப் போகிறேன்!`.
-- `pages/0023.md` was corrected from seven-dot `வருகிறேன்.......` to source-visible six-dot `வருகிறேன்......`.
-- Scan 23 photograph caption remains separate as `காவிரி — கடலில் கலக்கும் / காட்சி`.
-
-## Completed assembly — காட்சி-5
-
-`scenes/05.md` assembles scans 24–25 / verified `pages/0024.md` and corrected `pages/0025.md`.
-
-- Title: `சிலம்பின் தோற்றம்`.
-- Explicit setting: `சேரநாடு`.
-- Status: `assembly-reviewed`.
-- Visual text fidelity: `passed`.
-- Both controlling scans were inspected directly at high resolution, including scan 24's two columns, gift list, the scan-24 → scan-25 sentence boundary, scan 25's continuation and closing transition toward பூம்புகார்.
-- Cross-page boundary preserved: scan 24 ends `கணவன் வருவான் வருவான்`; scan 25 resumes the same `ஒருவன்` speech with `என்று கண் கலங்கக் கூறிக் கொண்டிருந்தாள்...`. No speaker label or punctuation was invented.
-- Direct scan-25 review corrected one pre-existing page-record punctuation error: `கண்ணகி....!` → source-visible `கண்ணகி...!` in `pages/0025.md`.
-- No scan-24 page-record correction was required.
-- Mechanical joins preserve source forms such as `இவைகள்`, `கிரிப்பிள்ளை`, `என்றென்றும்`, `நினைவூட்டினர்கள்`, `சொல்லுகிறேன்`, and `பெருமைகளைக்` without modernizing them.
-- The source-visible gift-list closing `குவிக்கின்றனர்.]` is retained without inventing an opening bracket.
-- Scan 24's small uncaptioned deer and scan 25's large uncaptioned standing figure remain separate visual layers.
-- Printed page `8` on scan 24 and anomalous printed `2` on scan 25 remain provenance only; the latter is not normalized to an expected `9`.
+- Status: `assembly-reviewed`; visual text fidelity: `passed`.
+- Actual scans 26–28 were inspected directly at high resolution, including scan 27's `ஆடல், பாடல்`/song block, both physical page boundaries, and scan 28's left-to-right column continuation.
+- Direct scan-27 pixels corrected the earlier verified reading `[சாத்தனூரின் குரல் தொடர்கிறது]` to source-visible `[சாத்தனரின் குரல் தொடர்கிறது]` in `pages/0027.md`.
+- No page-record wording correction was required on scans 26 or 28.
+- Assembly review retained source-separated `வெண் மணல்` rather than collapsing it to `வெண்மணல்`, and retained the word boundary in `தங்கமே...இந்தா... உனக்காகக்`.
+- Scan 26's uncaptioned man/woman illustration, scan 27's uncaptioned dancer/performer figure, and scan 28's small uncaptioned ship remain separate visual layers.
+- Scans 26–27 have no securely visible printed pagination; scan 28 visibly prints page `12`.
 
 ## Final verified source scene — காட்சி-38
 
@@ -103,15 +84,14 @@ Assembly is a derivative archival layer. Verified page records control construct
 
 ## Exact next work
 
-Process **காட்சி-6 / scans 26–28 — `பூம்புகார்ப் பொற்றொடி`** as the next complete combined scene-assembly + visual-text fidelity activity.
+Process **காட்சி-7 / scans 29–32 — `கலைக்கரசி மாதவி`, setting `முத்துப் பந்தல்`** as the next complete combined scene-assembly + visual-text fidelity activity.
 
-- There is **no separate printed setting heading** for scene 6; use `setting: null` rather than inferring one from the பூம்புகார் narration.
-- Assemble `scenes/06.md` from verified `pages/0026.md`, `pages/0027.md`, and `pages/0028.md` at `draft` / `visual_text_fidelity: pending`.
-- Preserve explicit scan provenance and both physical page boundaries.
-- Preserve scan 27's printed `ஆடல், பாடல்` heading, three quoted song lines and source-visible `[சாத்தனூரின் குரல் தொடர்கிறது]` without normalizing `சாத்தனூரின்`.
-- Preserve the complete quoted/verse material exactly as printed; do not substitute standard literary readings.
-- Keep scan 26's large uncaptioned man/woman illustration, scan 27's uncaptioned dancer/performer figure, and scan 28's small uncaptioned ship illustration separate from literary text.
-- Scans 26–27 have no securely visible printed pagination; scan 28 visibly prints page `12`.
-- Inspect actual scans 26–28 at native/enlarged resolution, verify both page boundaries and all column transitions, compare the assembled scene character-by-character against source pixels and all three verified page records, and promote only after both checks pass.
+- Inputs: verified `pages/0029.md` through `pages/0032.md`.
+- Output: `scenes/07.md`, initially `draft` / `visual_text_fidelity: pending`.
+- Preserve explicit scan provenance across all four scans and inspect all three physical page boundaries.
+- Preserve scan 29's verse block and terminal `சுயம்வரம் ஏற்பாடு செய்யப்பட்டிருக்கிறது!.` exactly as printed.
+- Keep every illustration/photograph layer separate from literary text; scan 32 contains a large uncaptioned circular dancing-figure sculpture photograph/reproduction.
+- Scan 29 has no securely visible printed page number; scan 32 visibly prints page `16`; retain each page record's pagination exactly as verified.
+- Inspect actual scans 29–32 at native/enlarged resolution, compare the complete assembled scene against source pixels and all four page records, and promote only after both checks pass.
 
 Do not begin English translation.
