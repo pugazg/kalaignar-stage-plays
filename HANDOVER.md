@@ -29,26 +29,27 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 
 ## Current verification checkpoint
 
-Scans **1–86 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-36**.
+Scans **1–87 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-37**.
 
-## Newly completed activity — காட்சி-36, scan 86
+## Newly completed activity — காட்சி-37, scan 87
 
 ### Scene identity / extent
 
-- `காட்சி-36`.
-- Decorative title verified as **`தீயினில் திருநகர்`**.
-- Setting: **`தெருக்கள்`**.
-- Physical extent: scan **86 only**.
-- Scan 87 directly begins `காட்சி-37`.
+- `காட்சி-37`.
+- Decorative title verified as **`வடபுலப் படையெடுப்பு`**.
+- Setting: **`சேரன் செங்குட்டுவன் அவை`**.
+- Physical extent: scan **87 only**.
+- Scan 88 directly begins `காட்சி-38`.
 
-### Scan 86 — `pages/0086.md`
+### Scan 87 — `pages/0087.md`
 
-- Complete sparse two-column dialogue/stage text verified against native/enlarged controlling-source views and targeted crops.
+- Complete dense two-column literary text verified against native/enlarged controlling-source views and targeted crops.
 - No printed page number is securely visible; none is inferred.
-- The printed `★` separator is retained as part of source typography.
-- Preserve physical splits including `இடிபாடு / களில்`, `அழி / கிறான்`, `கோவ / லரைக்`, `கதறுங் / கள்`, `பழிக் / குப்`, and `அழி / வதை`.
-- Preserve source forms/punctuation including `என்னுள் அன்றே`, `தணலாகிறார்!`, `வாய்மூடிக் கிடந்த கூடல் நகரத்தாரே!`, `கனலே கிளம்பு....!`, the repeated `பழிக்குப் பழி!`, and the unusual `விரும்பினர்கள்`.
-- Two lower photographic/reproduction images have no securely visible separate printed caption; they remain separate visual layers without invented identities.
+- Left column ends `உன்னை`; right column continues `இகழ்ந்தார்கள்!`.
+- Decorative weapon/shield motifs are part of the printed scene-title artwork and remain separate from literary text.
+- No separate lower illustration or printed caption layer is visible.
+- Preserve physical splits including `பழித் / தார்களாம்`, `கேட்டறி / யாக்`, `தீவர் / களாம்`, `அறை / கூவல்`, `புறப் / படுங்கள்`, `பாண்டி / யனு`, `தருக் / கர்கள்`, `முத்துக் / கடலே`, `இகழ்ந் / தார்கள்`, `வளர்பிறையா / யிருக்க`, `கொய்யப் / படட்டும்`, `தணி / யாமல்`, and `தோழர் / களே`.
+- Preserve source forms/punctuation including `காணப்புல்லன்`, `கேட்டறியாக் கசடன்`, `மண்டுக`, `தீவர்களாம்`, `சோழனு பாண்டியனு`, `பகைவனுக`, `சுடற்ற புலவனே`, `ஆசைத்தம்பி`, `கல்வாணரே`, `வளங்குறையாச்`, `நாகாக்கத்`, `தும்பிவாடி`, `தோரணங்கற்பட்டு`, `கிழித் தெறியப்படலாம்!`, `இகழ்ந்தார்கள்!....அன்ன`, and final `புறப்படுங்கள்!’`.
 - The supplied published English translation was not used to settle Tamil wording.
 
 ## Permanent future-translation terminology note
@@ -59,19 +60,19 @@ Do **not** automatically translate Kalaignar's `அந்தணர்` as “Bra
 
 Detailed verification proceeds by **one complete scene per activity where practical**, with one independent archival record per physical scan.
 
-## Forward mapped scene — காட்சி-37
+## Forward mapped final scene — காட்சி-38
 
-### Scan 87 — `pages/0087.md`
+### Scan 88 — `pages/0088.md`
 
-- Begins `காட்சி-37`.
-- Decorative title visually confirmed as **`வடபுலப் படையெடுப்பு`**.
-- Setting visually confirmed as **`சேரன் செங்குட்டுவன் அவை`**.
-- Dense two-column dramatic text.
-- The decorative heading includes weapon/shield motifs; they are title artwork, not literary dialogue.
+- Final supplied physical scan.
+- Begins and visibly closes `காட்சி-38`.
+- Decorative title visually confirmed as **`கண்ணகி சிலைக்குக் கல்`**.
+- Setting visually confirmed as **`இமயத்தில் - குயிலாலுவம்`**.
 - No printed page number is securely visible; none is inferred.
-- No separate lower illustration or printed caption layer is visible.
-- Scan **88 directly begins `காட்சி-38`**, so scene 37 is physically a one-scan scene.
-- Status: `needs-review`; complete literary text has not yet been transcribed/verified.
+- Decorative heading includes mountain/stone artwork, separate from literary text.
+- After the numbered scene closes, three centred `*` separators introduce a distinct post-scene closing tableau headed **`வஞ்சிமூதூரில்`** and **`கண்ணகி சிலை நாட்டு விழா`**.
+- A large circular library/accession stamp overlaps the lower-left publication area and contains later handwritten `164596`; additional handwriting/accession notation appears near the lower margin. These are not Kalaignar's/publication text.
+- Status: `needs-review`; complete scene-38 and closing-tableau transcription has not yet undergone its character-level verification pass.
 
 ## Published English translation witness
 
@@ -79,6 +80,6 @@ The supplied published English volume remains a secondary future collation witne
 
 ## Next activity
 
-Process **காட்சி-37 / scan 87** as one complete scene. Verify the complete two-column dialogue/stage text, speaker labels and abbreviations, punctuation/ellipses, physical splits, pagination behaviour, decorative title artwork and scan-88 boundary before marking it `verified`.
+Process **காட்சி-38 / scan 88** as the final supplied scene activity. Verify the complete scene text and the same-scan post-scene `வஞ்சிமூதூரில் / கண்ணகி சிலை நாட்டு விழா` closing tableau, while keeping later library/accession marks separate from publication text. Because scan 88 is the final supplied scan, do not infer any continuation beyond it.
 
 Do not begin scene assembly or English translation yet.
