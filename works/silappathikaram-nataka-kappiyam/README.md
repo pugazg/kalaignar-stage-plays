@@ -4,13 +4,10 @@ Archive slug: `silappathikaram-nataka-kappiyam`
 
 The supplied Tamil scan is the controlling Tamil source. The PDF itself is not committed.
 
-## Current status
-
-### Tamil archival layer
+## Tamil archival layer
 
 - Source length: **88 scans**.
 - Scans **1–88 visually verified** at page-record level.
-- Page-level verification covers **காட்சி-1 through காட்சி-38** plus the scan-88 closing tableau.
 - Tamil transcription completion audit: **PASS** — `audit.md`.
 - Scene assembly: **COMPLETE**.
 - `scenes/01.md` through `scenes/38.md`: `assembly-reviewed`, `visual_text_fidelity: passed`.
@@ -20,53 +17,42 @@ The supplied Tamil scan is the controlling Tamil source. The PDF itself is not c
 
 The Tamil archive is protected. Do not silently modernize, normalize, repair, reconstruct or improve Kalaignar's text. A verified Tamil reading may change only when the controlling source pixels prove it wrong, with explicit documentation.
 
-### English translation layer
+## English translation layer
 
-English translation has now **started** as a separate phase.
+English translation is active under:
 
-Created:
-
-- `TRANSLATION_GUIDE.md` — work-specific English translation and Kalaignar-voice protocol;
+- `TRANSLATION_GUIDE.md` — Kalaignar-voice and translation protocol;
 - `TRANSLATION_TERMINOLOGY.md` — culturally/politically loaded terminology register;
-- `translations/en/README.md` — translation workspace rules;
-- `translations/en/TRANSLATION_REVIEW.md` — review tracker;
-- `translations/en/01.md` — காட்சி-1 English pilot;
-- `translations/en/PILOT_REVIEW.md` — pilot assessment.
+- `translations/en/TRANSLATION_REVIEW.md` — review tracker.
 
-### Pilot checkpoint
+### Current translation checkpoint
 
-**காட்சி-1 — `வஞ்சி மூதூரில் முரசறைதல்`** is now:
+- `காட்சி-1 — வஞ்சி மூதூரில் முரசறைதல்`: translated / `translation-reviewed` / PASS.
+- `காட்சி-2 — செங்குட்டுவன் பிறந்தநாள் விழா`: translated / `translation-reviewed` / PASS.
+- English progress: **2 / 38 numbered scenes**.
+- No published English edition was used in drafting/reviewing scenes 1–2.
+- Two-register pilot stage: **PASSED / ACCEPTED**.
 
-- `status: "translation-reviewed"`;
-- `translation_review: "passed"`;
-- independently translated from verified `scenes/01.md`;
-- not drafted from a published English edition;
-- reviewed for complete Tamil coverage, semantic fidelity, Kalaignar's cadence, repetition, slogan rhythm, historical imagery, terminology and stage timing.
+Scene 1 established the method for public proclamation, slogan rhythm, Tamilakam/homeland terminology and historical-political rhetoric.
 
-The pilot convention is **accepted**.
+Scene 2 established the method for intimate family dialogue, marital teasing, erotic metaphor, humour, kinship language and rationalist scepticism. Key scene-2 choices include:
 
-Key pilot choices include:
-
-- `தமிழகம்` → `Tamilakam`, not modernized to `Tamil Nadu`;
-- `முரசறைவோன்` → `drum-announcer`;
-- `இமிழ் கடல் வேலித் தமிழகம்` → `Tamilakam, girdled by the sounding sea`;
-- `விற்கொடி` → `bow-banner`;
-- `கொட்டுவோம், கொட்டுவோம் முரசம்!` → `Let us beat, let us beat the drum!`, retaining repetition and collective cadence;
-- `தாயகம்` retains the stronger `homeland` register.
+- `விழாக்கோலம்` / `போர்க் கோலம்` → `festive array` / `battle array`;
+- `விழுப்புண்` → `wounds of valour`;
+- `கொலு மண்டபம்` → `royal audience hall`;
+- `நிமித்திகன்` → `soothsayer`;
+- `ஆருடம்` → `prophecy` in this occurrence;
+- `குறும்புக்காரா!` → `You little rogue!` in affectionate context.
 
 ## Kalaignar-language and Dravidian-movement interpretation rule
 
-The English must retain Kalaignar's language: rhetorical force, political/literary register, repetition, direct address, wit, imagery, dramatic timing, emotional escalation and public-oratory rhythm.
+The English must retain Kalaignar's language: rhetorical force, cadence, repetition, direct address, wit, imagery, dramatic timing, emotional escalation and political/literary register.
 
 The translation must also remain alert to source-supported resonances with Dravidian movement concepts — Tamil linguistic-cultural self-respect, Tamilakam as historical/civilizational geography, dignity/self-respect, rational human agency, justice, anti-hierarchical argument, women's agency and Tamil historical consciousness — **but these concepts must never be inserted into dialogue when the Tamil does not state them**.
 
-When useful, a scene may include a separate:
+Use a separate `## Dravidian movement resonance — interpretive note` when useful.
 
-`## Dravidian movement resonance — interpretive note`
-
-Such a note is interpretation, not source translation. It should explain Kalaignar's framing without turning ancient characters into literal twentieth-century movement spokespeople.
-
-Scene 1's note relates `வாழ்க தமிழ்! வெல்க தமிழகம்!`, `புதிய எழுச்சி`, the repeated drum-call and `தாயகம்` to Tamil cultural self-respect, historical Tamilakam consciousness and mass-mobilizing political rhetoric. It deliberately does **not** insert later concepts such as `self-respect`, `social justice`, `rationalism` or `Dravidian` into the translated speech because those terms are absent from scene 1.
+Scene 2's note relates Ilango's explicit ridicule of the soothsayer's `பொய்யுரைகள்` to the rationalist / anti-superstition current of the Dravidian movement while preserving the source as warm family banter rather than converting it into a political speech.
 
 ## Permanent terminology lock
 
@@ -74,16 +60,12 @@ Scene 1's note relates `வாழ்க தமிழ்! வெல்க தம�
 
 The published English edition, if later consulted, is a **secondary comparison witness only**. It must never control the Tamil archive or silently replace an independent translation decision.
 
-## Exact next activity
+## Exact next activity — first controlled translation batch
 
-Translate and review **காட்சி-2 — `செங்குட்டுவன் பிறந்தநாள் விழா`**, setting `வஞ்சி`, from verified `scenes/02.md`.
+Translate and individually review **காட்சி-3 through காட்சி-5**:
 
-Keep scene 2 as one additional single-scene test before scaling to larger batches, because it tests a different register from scene 1:
+1. `காட்சி-3 — விழாவும் வினாவும்`, setting `சேரன் அரண்மனை` — fate versus human agency, soothsayer, quoted Kural, epic analogy and rationalist challenge;
+2. `காட்சி-4 — இளங்கோ துறவு`, setting `சேரலாதன் மாளிகை` — renunciation, sacrifice, grief and repeated opposition of `விதி` to human reason/agency;
+3. `காட்சி-5 — சிலம்பின் தோற்றம்`, setting `சேரநாடு` — Chera landscape, mountain people, entry into the Kannagi narrative and the decision to create the epic.
 
-- intimate royal-family dialogue;
-- affection and teasing;
-- humour;
-- shifts between full and abbreviated speaker labels;
-- stage directions and emotional subtext.
-
-After scene 2 passes translation review, decide the first controlled multi-scene translation batch.
+Each scene must pass its own line-by-line coverage, semantic, Kalaignar-voice, terminology, stage-timing and Dravidian-context-separation review before promotion to `translation-reviewed`.
