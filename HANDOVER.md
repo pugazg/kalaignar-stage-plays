@@ -16,13 +16,13 @@ Before continuing read completely:
 2. `docs/SILAPPATHIKARAM_CONTINUATION_GUIDELINES.md`
 3. `docs/SILAPPATHIKARAM_PROJECT_HANDOVER.md`
 4. `docs/NEXT_CHAT_PROMPT_SILAPPATHIKARAM.md`
-5. `works/silappathikaram-nataka-kappiyam/README.md`
-6. `works/silappathikaram-nataka-kappiyam/indexes/page-map.md`
-7. `works/silappathikaram-nataka-kappiyam/audit.md`
-8. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PLAN.md`
-9. `works/silappathikaram-nataka-kappiyam/VISUAL_TEXT_FIDELITY_CHECK.md`
-10. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PILOT_REVIEW.md`
-11. assembled `scenes/01.md` through `scenes/26.md`
+5. work `README.md`
+6. `indexes/page-map.md`
+7. `audit.md`
+8. `SCENE_ASSEMBLY_PLAN.md`
+9. `VISUAL_TEXT_FIDELITY_CHECK.md`
+10. `SCENE_ASSEMBLY_PILOT_REVIEW.md`
+11. assembled `scenes/01.md` through `scenes/31.md`
 
 ## Permanent rules
 
@@ -34,17 +34,17 @@ Assembly proceeds in **five-scene iterations**.
 
 - Source length: **88 scans**; scans **1–88 visually verified** at page-record level.
 - Tamil transcription completion audit: **PASS**.
-- Scenes **1–26 are assembly-reviewed** with `visual_text_fidelity: "passed"`.
-- **26 of 38 numbered scenes are assembly-reviewed.**
+- Scenes **1–31 are assembly-reviewed** with `visual_text_fidelity: "passed"`.
+- **31 of 38 numbered scenes are assembly-reviewed.**
 - English translation has not started and remains locked.
 
-## Latest five-scene iteration — scenes 22–26
+## Latest five-scene iteration — scenes 27–31
 
-- **22 / scans 63–64 — `மதுரைப் பயணம்`, `மதுரை செல்லும் வழி`**: fidelity passed; scan 63→64 boundary `என் பத்தினியின் / பாதம் பட்டுப்...` verified; scan 64 prints `48`; no page correction.
-- **23 / scan 65 — `மாதவி துறவு`, `மாசாத்துவான் வீடு`**: fidelity passed; page `49`; Kovalan-letter quotation and `மாசாத்துவான்` / `மாசாத்` label variants preserved; no page correction.
-- **24 / scan 66 — `கவுந்தியுடன் கண்ணகி கோவலன்`, `வழியில்`**: fidelity passed; page `50`; cross-column `துயரங் / கள் மறக்கிறேனே` checked; no page correction.
-- **25 / scans 67–68 — `நீதி வழுவா நெடுஞ்செழியன்`, `பாண்டியன் அவை`**: fidelity passed; exact archaeological caption retained; later accession stamp kept outside publication text; scan 68 prints `52`; no page correction.
-- **26 / scan 69 — `அரசியின் சிலம்பு`, `பொற்கொல்லன் வீடு`**: fidelity passed; page `53`; cross-column bracketed theft direction verified; no page correction.
+- **27 / scan 70 — `ஆய்ச்சியர் அறிமுகம்`**: initial `மதுரை எல்லை`, internal `மாதரி வீடு...`; fidelity passed; page `54`; no page correction.
+- **28 / scan 71 — `பொற்கொல்லர் முறையீடு`, `பாண்டியன் தனிமாடம்`**: fidelity passed; unmatched source closing bracket preserved; no secure pagination; no page correction.
+- **29 / scans 72–75 — `ஒற்றைச் சிலம்பின் ஒலி`, `மாதரி வீடு`**: fidelity passed across all four scans. Scan 72 prints `56`; scan 73 anomalously prints `8`; scan 75's exact archaeological/object caption remains separate. No page correction.
+- **30 / scan 76 — `சிலம்போ சிலம்பு`, `பொற்கொல்லர் நிலையம்`, internal `சாலை`**: fidelity passed; page `60`; no page correction.
+- **31 / scan 77 — `வளைந்தது செங்கோல்`, `நெடுஞ்செழியன் பள்ளியறை`, internal `தாழ்வாரம்`**: fidelity passed; page `61`; unmatched opening bracket `[என வேகமாகப் போகிறான்!` preserved; no page correction.
 
 ## Translation terminology lock
 
@@ -52,14 +52,14 @@ Do **not** automatically translate `அந்தணர்` as “Brahmin.” Pre
 
 ## Exact next activity — five scenes
 
-Process **காட்சி-27 through காட்சி-31** in one iteration:
+Process **காட்சி-32 through காட்சி-36** in one iteration:
 
-1. `காட்சி-27 / scan 70` — `ஆய்ச்சியர் அறிமுகம்`, initial setting `மதுரை எல்லை`, internal `மாதரி வீடு...`, printed page `54`.
-2. `காட்சி-28 / scan 71` — `பொற்கொல்லர் முறையீடு`, setting `பாண்டியன் தனிமாடம்`; no secure printed pagination; preserve unmatched source bracket.
-3. `காட்சி-29 / scans 72–75` — `ஒற்றைச் சிலம்பின் ஒலி`, setting `மாதரி வீடு`; scan 72 prints `56`.
-4. `காட்சி-30 / scan 76` — `சிலம்போ சிலம்பு`, setting `பொற்கொல்லர் நிலையம்`, internal `சாலை`, printed page `60`.
-5. `காட்சி-31 / scan 77` — `வளைந்தது செங்கோல்`, initial setting `நெடுஞ்செழியன் பள்ளியறை`, internal `தாழ்வாரம்`, printed page `61`; preserve unmatched opening bracket in `[என வேகமாகப் போகிறான்!`.
+1. `காட்சி-32 / scans 78–79` — `மதுரை மண்ணில் கோவலன் குருதி`, setting `வீதியிலுள்ள மண்டபம்`; scan 78 page `62`, scan 79 no secure page number and large uncaptioned dramatic illustration.
+2. `காட்சி-33 / scan 80` — `கணவன் கள்வனா?`, setting `குரவைக் கூத்து`; printed page `64`.
+3. `காட்சி-34 / scan 81` — `வஞ்சினங் கூறுதல்`, setting `வீதியிலுள்ள மண்டபம்`; preserve anomalous lower-left `9` plus damaged mark and do not infer `65`.
+4. `காட்சி-35 / scans 82–85` — `வழக்குரை படலம்`, setting `பாண்டியன் கொலு மண்டபம் (வெளியே)`; scan 82 page `66`; exact scan-84 caption `“பூம்புகார்” அகழ்வாராய்ச்சியில் / கண்ட படகுத்துறை` separate.
+5. `காட்சி-36 / scan 86` — `தீயினில் திருநகர்`, setting `தெருக்கள்`; no secure page number; preserve printed `★` separator and two lower photographic/reproduction images separately.
 
-Create/review `scenes/27.md` through `scenes/31.md`, inspect every source scan directly at enlarged resolution, correct only source-pixel-proven page errors, and promote each only after visual/source and verified-page checks both pass.
+Create/review `scenes/32.md` through `scenes/36.md`, inspect every source scan directly at enlarged resolution, correct only source-pixel-proven page errors, and promote each only after visual/source and verified-page checks both pass.
 
 Do not begin English translation.
