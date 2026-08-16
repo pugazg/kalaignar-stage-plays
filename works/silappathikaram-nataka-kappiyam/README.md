@@ -7,55 +7,63 @@ The supplied scan is the controlling source. The PDF itself is not committed.
 ## Processing status
 
 - Scan length: **88 pages**.
-- Scans **1–87 are fully verified**.
-- Dramatic-body detailed verification covers **காட்சி-1 through காட்சி-37**.
-- Scan **88** is structurally mapped as `காட்சி-38` plus the same-scan post-scene closing tableau and remains `needs-review`.
-- Scan **88 is the final supplied scan**.
+- Scans **1–88 are visually verified**.
+- Detailed dramatic-body verification covers **காட்சி-1 through காட்சி-38**.
+- The post-scene closing tableau on scan **88** has also been inspected and archived.
+- Tamil page-level visual verification: **complete for the supplied source**.
 - Scene assembly: not started.
-- Full source audit: not started.
-- English translation: not started; published translation witness and terminology lock recorded.
+- Repository-wide transcription completion audit: next.
+- Full source / assembly audit: not started.
+- English translation: **not started**; translation remains locked until the Tamil audit/assembly phase is completed or the user explicitly changes phase.
 
-## Latest detailed verification — காட்சி-37
+## Final verified scene — காட்சி-38
 
-`காட்சி-37` is physically a **one-scan scene on scan 87**; scan 88 begins `காட்சி-38`.
+`காட்சி-38` is physically a **one-scan scene on scan 88**, which is also the final supplied physical scan.
 
-- Decorative title verified as **`வடபுலப் படையெடுப்பு`**.
-- Setting verified as **`சேரன் செங்குட்டுவன் அவை`**.
-- Complete dense two-column literary text verified directly against native/enlarged controlling-source views and targeted crops.
+- Decorative title verified as **`கண்ணகி சிலைக்குக் கல்`**.
+- Setting verified as **`இமயத்தில் - குயிலாலுவம்`**.
+- Complete source-visible two-column dramatic text verified directly against native/enlarged controlling-source views and targeted crops.
 - No printed page number is securely visible; none is inferred.
-- The left column ends mid-speech with `உன்னை`; the right column continues `இகழ்ந்தார்கள்!`.
-- Decorative weapon/shield motifs belong to the title artwork and are recorded separately from literary text.
-- No separate lower illustration or printed caption layer is visible.
-- Physical source splits retained include `பழித் / தார்களாம்`, `கேட்டறி / யாக்`, `தீவர் / களாம்`, `அறை / கூவல்`, `புறப் / படுங்கள்`, `பாண்டி / யனு`, `தருக் / கர்கள்`, `முத்துக் / கடலே`, `இகழ்ந் / தார்கள்`, `வளர்பிறையா / யிருக்க`, `கொய்யப் / படட்டும்`, `தணி / யாமல்`, and `தோழர் / களே`.
-- Source-supported forms/punctuation retained without normalization include `காணப்புல்லன்`, `கேட்டறியாக் கசடன்`, `மண்டுக`, `தீவர்களாம்`, `சோழனு பாண்டியனு`, `பகைவனுக`, `சுடற்ற புலவனே`, `ஆசைத்தம்பி`, `கல்வாணரே`, `வளங்குறையாச்`, `நாகாக்கத்`, `தும்பிவாடி`, `தோரணங்கற்பட்டு`, `கிழித் தெறியப்படலாம்!`, `இகழ்ந்தார்கள்!....அன்ன`, and final `புறப்படுங்கள்!’`.
-- The published English translation was not used to settle Tamil wording.
+- The left column ends mid-speech with `இதற்குப் பதில்`; the right column continues `சொல்லுங்கள்!`.
+- Source-supported readings/punctuation retained without normalization include `காஷாய`, `ரிஷிகளைப்`, `உரிய / தான`, `மகானாய் மாறுவது!`, `வட நாட்டிலே நடத்தியபோர்`, `பதினெட்டே நாழிகையில்`, the unusual `அது உங்களே மன்னிக்கட்டும்.`, `முப்பத்திரண்டு`, `வில்லவா ;`, and the physical `கனக— / விஜயா` split.
+- Decorative mountain/stone title artwork is recorded separately from literary text.
 
-## Forward structural mapping — காட்சி-38 / final supplied scan
+## Same-scan closing tableau
 
-Scan **88** has been directly inspected far enough to establish the final physical structure:
+After scene 38 closes, three centred printed `*` marks introduce a distinct post-scene tableau:
 
-- `காட்சி-38`.
-- Decorative title: **`கண்ணகி சிலைக்குக் கல்`**.
-- Setting: **`இமயத்தில் - குயிலாலுவம்`**.
-- The scene begins and visibly closes on scan 88.
-- After the numbered scene, three centred `*` separators introduce a distinct post-scene closing tableau headed **`வஞ்சிமூதூரில்`** and **`கண்ணகி சிலை நாட்டு விழா`**.
-- No printed page number is securely visible; none is inferred.
-- The title artwork includes mountain/stone imagery and remains separate from literary text.
-- A large circular library/accession stamp overlaps the lower-left publication area with handwritten `164596`; additional handwriting/accession notation is visible near the lower margin. These are later non-publication marks.
-- `pages/0088.md` exists as a structural record at `needs-review`; the complete scene-38 and closing-tableau literary transcription has not yet been verified.
+- `வஞ்சிமூதூரில்`
+- `கண்ணகி சிலை நாட்டு விழா`
+
+The source-visible tableau text is archived in `pages/0088.md`. A large later circular library/accession stamp overlaps the leading characters of two lines and contains handwritten `164596`; additional later handwriting is present near the lower margin.
+
+Non-destructive enlarged/contrast/gamma inspection could not securely recover the characters directly beneath the opaque stamp. `pages/0088.md` therefore marks the obscured positions explicitly before the source-visible suffixes `ங்குட்டுவன்` and `ங்கோவடிகள்`; the hidden letters are **not silently reconstructed**.
+
+The visible closing tableau ends with:
+
+`மாதவி, துறவுக் கோலத்தில், கண்களில் நீர்வழிய, குழந்தை`
+
+`மணிமேகலையைக் கொண்டுவந்து சிலையின் காலடியில் வைக்கிறாள்.]`
 
 ## Translation terminology lock
 
-Kalaignar's `அந்தணர்` must **not** be automatically equated with or translated as “Brahmin.” Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, and other source terms such as `மறையவன்`; English renderings will be decided only during dedicated translation review.
+Kalaignar's `அந்தணர்` must **not** be automatically equated with or translated as “Brahmin.” Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, and other source terms such as `மறையவன்`; English renderings will be decided only during dedicated terminology review.
 
-## Detailed-review working unit
+When translation eventually begins, it must be based on the verified Tamil archival text and retain Kalaignar's rhetoric, cadence, repetition and dramatic voice. The published English volume remains only a secondary comparison witness.
 
-Detailed verification proceeds by one complete scene per activity where practical, while preserving one archival page record per physical scan.
+## Working-unit rule
 
-## Published English translation witness
+Page-level verification was performed by complete scene where practical while preserving one archival page record per physical scan. Previously verified pages are protected from casual rewriting.
 
-The user-supplied published English volume remains a secondary future collation witness only; it is not authority for Tamil transcription.
+## Exact next work
 
-## Next work
+Perform a repository-wide **Tamil transcription completion audit / scene-assembly readiness review** before translation:
 
-Process **காட்சி-38 / scan 88** as the final supplied scene activity. Verify the complete two-column scene text, title/setting, punctuation, physical splits, pagination behaviour and decorative artwork, then verify the same-scan post-scene `வஞ்சிமூதூரில் / கண்ணகி சிலை நாட்டு விழா` closing-tableau text while keeping library/accession marks separate from publication text. Do not begin scene assembly or English translation yet.
+1. confirm all 88 `pages/NNNN.md` records exist and have appropriate final status;
+2. reconcile every page-map entry with its page record;
+3. inventory documented source anomalies, uncertain pagination and source obstructions, including the scan-88 stamp overlap;
+4. verify scene extents **1–38** against the page records;
+5. identify any remaining `needs-review`, `partial` or `blocked` records;
+6. prepare scene assembly strictly from verified page records without silently normalizing wording or punctuation.
+
+Do not begin English translation during this next activity.
