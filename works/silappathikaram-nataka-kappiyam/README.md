@@ -12,79 +12,70 @@ The supplied Tamil scan is the controlling source. The PDF itself is not committ
 - Tamil transcription completion audit: **PASS**.
 - Scene-assembly readiness plan: complete — see `SCENE_ASSEMBLY_PLAN.md`.
 - Direct visual-text fidelity protocol: mandatory — see `VISUAL_TEXT_FIDELITY_CHECK.md`.
-- Scene assembly: **active, nearing completion**.
-- `காட்சி-1` through `காட்சி-36`: **assembly-reviewed**, `visual_text_fidelity: passed`.
-- **36 of 38 numbered scenes are now assembly-reviewed.**
-- English translation: **not started** and remains locked through final Tamil assembly/global review unless the user explicitly changes phase.
+- Numbered-scene assembly: **COMPLETE**.
+- `காட்சி-1` through `காட்சி-38`: **assembly-reviewed**, `visual_text_fidelity: passed`.
+- Separate `scenes/closing-tableau.md`: **assembly-reviewed**, `visual_text_fidelity: passed`.
+- **38 of 38 numbered scenes plus the separate closing tableau are assembled and fidelity-reviewed.**
+- Exact next phase: **global Tamil consistency/source review** across all assembled Tamil outputs.
+- English translation: **not started** and remains locked until the global Tamil review is completed unless the user explicitly changes phase.
 
-## Controlling assembly rules
+## Controlling assembly/source rules
 
-Verified `pages/NNNN.md` records are the immediate construction source, but the Tamil scan controls the fidelity gate. Do not silently modernize, normalize, repair, reconstruct or improve Kalaignar's text. Preserve source-supported spelling, punctuation, spacing, repetition, speaker labels, stage directions, unusual grammar and terminology. Join only demonstrably mechanical line/column/page wrapping. Keep illustrations, photographs, printed captions, page numbers, stamps and handwriting separate from the literary layer.
+Verified `pages/NNNN.md` records are the immediate assembly source, while the Tamil scan controls direct fidelity. Do not silently modernize, normalize, repair, reconstruct or improve Kalaignar's text. Preserve source-supported spelling, punctuation, spacing, repetition, speaker labels, stage directions, unusual grammar and terminology. Join only demonstrably mechanical line/column/page wrapping. Keep illustrations, photographs, printed captions, page numbers, stamps and handwriting separate from the literary layer.
 
 A verified page record may be changed only when direct source pixels prove the existing reading wrong, and every such correction must be documented.
 
-## Latest five-scene iteration — காட்சி-32 through காட்சி-36
+## Final Tamil assembly iteration — காட்சி-37, காட்சி-38 and closing tableau
 
-### காட்சி-32 — scans 78–79
+### காட்சி-37 — scan 87
 
-- `scenes/32.md`: `மதுரை மண்ணில் கோவலன் குருதி`, setting `வீதியிலுள்ள மண்டபம்`.
-- Assembly-reviewed / visual fidelity passed across both scans.
-- Scan 78 prints page `62`; scan 79 has no secure printed page number and contains a large uncaptioned dramatic illustration.
-- Physical continuation `...நெடுஞ்செழியன் முன்னிலையில்` → `நிற்கின்றேன்.` was checked directly.
-- Source forms including `மன்னருக்கேன்`, `பஞ்சமா பாதங்கள்`, `உன்னுருவிலே`, `அநீதி, அணுவிலோர் பாதி`, `கைகாரக் கள்வனே`, `அப்பேயோ!`, and `கள்வன் எனும் கணை` remain source-faithful.
-- No verified page-record correction required.
-
-### காட்சி-33 — scan 80
-
-- `scenes/33.md`: `கணவன் கள்வனா?`, setting `குரவைக் கூத்து`.
-- Assembly-reviewed / visual fidelity passed.
-- Printed page `64`; lower bird/peacock-like decorative image remains uncaptioned visual provenance.
-- Preserved forms include `அலறியவாறு`, `கள்வனென்று`, `கண்களிலேயிருந்து`, `அருவி யென`, `வெற்றுடம்பு`, `உளறுகிறோம்`, `இல்ல! இல்ல! இல்ல!`, and `உணர்ச்சி, குழுமும் கடலாகிறது`.
-- No verified page-record correction required.
-
-### காட்சி-34 — scan 81
-
-- `scenes/34.md`: `வஞ்சினங் கூறுதல்`, setting `வீதியிலுள்ள மண்டபம்`.
-- Assembly-reviewed / visual fidelity passed.
-- The lower-left visibly has a clear `9` followed by a damaged/indistinct mark; no sequential page number such as `65` is inferred.
-- Source repetition and differing spacing across the column transition are retained: `என்னை ஏமாற்றிவிட்டீர்களே` / `அத்தான், என்னை ஏமாற்றி விட்டீர்களே!`.
-- Protected forms include `இதற்குத்தானு;`, `அகிற்புகையால்`, `பொன்னவிர்`, `புதுக் கிழிஞ்சல்`, `உங்களே ரத்தச் சகதி யிலே`, `மதுரை மூதார்`, and `பழிக்குப்பழி! பழிக்குப்பழி!`.
-- No verified page-record correction required.
-
-### காட்சி-35 — scans 82–85
-
-- `scenes/35.md`: `வழக்குரை படலம்`, setting `பாண்டியன் கொலு மண்டபம் (வெளியே)`.
-- Assembly-reviewed / visual fidelity passed across all four scans and all physical boundaries.
-- Scan 82 prints page `66`; scans 83–85 have no secure printed pagination.
-- Scan 83's large dramatic illustration remains uncaptioned and separate.
-- Scan 84 exact photograph caption remains separate: `“பூம்புகார்” அகழ்வாராய்ச்சியில் / கண்ட படகுத்துறை`.
-- Scan 85's small burst/fragment-like illustration remains uncaptioned.
-- The source distinction `“கொன்று வருக அவனை!”` versus `“கொன்று வருக அவன்”` is retained exactly.
-- Protected forms include `காவியுக`, `கரிகாற் சோழனது`, `கணவனு`, `அறிந்திடுக!.`, `நல்லான் வகுத்ததோ நீதி?`, `வல்லான் வகுத்ததே இங்கு நீதி!`, `முடிவானேன்?`, `நடைபெறுவானேன்?`, `மதுரைப் பாண்டியா!`, `மாணிக்கமிழைத்த`, `இமிழ் கடல் வேலித் தமிழகம் மெங்கும்`, and `நன்றுக அழு!`.
-- No verified page-record correction required.
-
-### காட்சி-36 — scan 86
-
-- `scenes/36.md`: `தீயினில் திருநகர்`, setting `தெருக்கள்`.
+- `scenes/37.md`: `வடபுலப் படையெடுப்பு`, setting `சேரன் செங்குட்டுவன் அவை`.
 - Assembly-reviewed / visual fidelity passed.
 - No secure printed page number.
-- The printed `★` separator is retained as source typography.
-- Two lower photographic/reproduction images remain separate; no secure printed captions are visible.
-- Protected forms include `என்னுள் அன்றே`, `தணலாகிறார்!`, `வாய்மூடிக் கிடந்த கூடல் நகரத்தாரே!`, `கனலே கிளம்பு....!`, repeated `பழிக்குப் பழி!`, and `விரும்பினர்கள்`.
+- Weapon/shield motifs around the decorative title remain visual-only.
+- The left→right continuation `உன்னை` → `இகழ்ந்தார்கள்!` was checked directly.
+- Protected source forms/punctuation include `காணப்புல்லன்`, `கேட்டறியாக் கசடன்`, `மண்டுக`, `தீவர்களாம்`, `சோழனு பாண்டியனு`, `பகைவனுக`, `சுடற்ற புலவனே`, `ஆசைத்தம்பி`, `கல்வாணரே`, `வளங்குறையாச்`, `நாகாக்கத்`, `தும்பிவாடி`, `தோரணங்கற்பட்டு`, `கிழித் தெறியப்படலாம்!`, `இகழ்ந்தார்கள்!....அன்ன`, and final `புறப்படுங்கள்!’`.
 - No verified page-record correction required.
+
+### காட்சி-38 — scan 88
+
+- `scenes/38.md`: `கண்ணகி சிலைக்குக் கல்`, setting `இமயத்தில் - குயிலாலுவம்`.
+- Assembly-reviewed / visual fidelity passed.
+- No secure printed page number.
+- Decorative mountain/stone title artwork remains visual-only.
+- The physical left→right continuation `இதற்குப் பதில்` → `சொல்லுங்கள்!` was checked directly.
+- Mechanical source wrapping `உரிய / தான` is assembled as `உரியதான`; the verified page record retains the physical break as provenance.
+- Physical `கனக— / விஜயா` is mechanically assembled as `கனக—விஜயா` while preserving the em dash.
+- Protected source forms/punctuation include `காஷாய`, `ரிஷிகளைப்`, `மகானாய் மாறுவது!`, `வட நாட்டிலே நடத்தியபோர்`, `பதினெட்டே நாழிகையில்`, `அது உங்களை மன்னிக்கட்டும்.`, `முப்பத்திரண்டு`, `வில்லவா ;`, and `இப்போது தூக்கு கல்!`.
+- Earlier pixel-proven page readings remain protected: opening direction `நடைபெற்ற`; king's line `அது உங்களை மன்னிக்கட்டும்.`.
+- No new verified page-record correction required.
+
+### Post-scene closing tableau — scan 88
+
+- `scenes/closing-tableau.md` is a separate assembled output after the three centred `*` marks; it is **not** scene 39 and is not silently folded into scene 38.
+- Printed headings: `வஞ்சிமூதூரில்` and `கண்ணகி சிலை நாட்டு விழா`.
+- A later circular library/accession stamp containing handwritten `164596` obscures the leading characters of two publication lines.
+- Explicit obstruction markers remain before source-visible `ங்குட்டுவன்` and `ங்கோவடிகள்`; the hidden characters are **not reconstructed** from context, another edition, memory or the published English translation.
+- Additional later handwriting/accession notation remains outside Kalaignar's publication text.
+- Direct visual-text fidelity passed; no new page-record correction required.
 
 ## Translation terminology lock
 
 Kalaignar's `அந்தணர்` must **not** automatically be translated as “Brahmin.” Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and related source terms. The published English edition remains a secondary witness only.
 
-## Exact next work — final Tamil assembly iteration
+## Exact next work — global Tamil consistency/source review
 
-Complete the remaining numbered scenes and closing tableau in one final assembly iteration:
+Review **all assembled Tamil outputs**: `scenes/01.md` through `scenes/38.md` plus `scenes/closing-tableau.md`.
 
-1. **காட்சி-37 / scan 87** — `வடபுலப் படையெடுப்பு`, setting `சேரன் செங்குட்டுவன் அவை`; no secure printed page number. Preserve all source rhetoric, unusual forms and the weapon/shield title artwork as a separate visual layer.
-2. **காட்சி-38 / scan 88** — `கண்ணகி சிலைக்குக் கல்`, setting `இமயத்தில் - குயிலாலுவம்`; no secure printed page number. Preserve the left→right continuation `இதற்குப் பதில்` → `சொல்லுங்கள்!`, `காஷாய`, `ரிஷிகளைப்`, `பதினெட்டே நாழிகையில்`, `வில்லவா ;`, `அது உங்களை மன்னிக்கட்டும்.`, and `கனக— / விஜயா` evidence.
-3. **Post-scene closing tableau / scan 88** — create/review `scenes/closing-tableau.md` for the separately printed `வஞ்சிமூதூரில் / கண்ணகி சிலை நாட்டு விழா` tableau after the three centred `*` marks. Preserve explicit stamp-obscuration markers before source-visible `ங்குட்டுவன்` and `ங்கோவடிகள்`; do **not** reconstruct the hidden characters from context or another edition.
+The review must:
 
-After all three outputs pass direct visual-text fidelity, perform the **global Tamil consistency/source review** across `scenes/01.md`–`scenes/38.md` plus `scenes/closing-tableau.md`.
+- confirm all 38 numbered scene files plus the separate tableau exist with `status: "assembly-reviewed"` and `visual_text_fidelity: "passed"`;
+- verify scene numbers, titles, settings/internal headings and `source_scan_pages` against `SCENE_ASSEMBLY_PLAN.md`, `indexes/page-map.md` and verified page records;
+- audit all multi-scan and cross-column mechanical joins for accidental wording/spacing/punctuation changes;
+- verify speaker-label variants, stage directions, quotations, ellipses/dashes/brackets and deliberate repetitions remain source-faithful;
+- inventory and protect all printed captions, pictorial-only scans, decorative title artwork, pagination anomalies, unmatched brackets and library/accession obstructions;
+- specifically preserve scan 88's unresolved stamp-obscured leading characters without reconstruction;
+- perform targeted source-pixel reinspection whenever any inconsistency is found; do not silently resolve conflicts from literary expectation;
+- produce a repository review report recording PASS/issues/corrections before any English translation begins.
 
 Do not begin English translation yet.
