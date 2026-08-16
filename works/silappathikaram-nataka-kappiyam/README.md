@@ -7,41 +7,42 @@ The supplied scan is the controlling source. The PDF itself is not committed.
 ## Processing status
 
 - Scan length: **88 pages**.
-- Scans **1–86 are fully verified**.
-- Dramatic-body detailed verification covers **காட்சி-1 through காட்சி-36**.
-- Scan **87** is structurally mapped as the one-scan `காட்சி-37` and remains `needs-review`.
-- Scan **88** visibly begins `காட்சி-38` and is the final supplied scan.
+- Scans **1–87 are fully verified**.
+- Dramatic-body detailed verification covers **காட்சி-1 through காட்சி-37**.
+- Scan **88** is structurally mapped as `காட்சி-38` plus the same-scan post-scene closing tableau and remains `needs-review`.
+- Scan **88 is the final supplied scan**.
 - Scene assembly: not started.
 - Full source audit: not started.
 - English translation: not started; published translation witness and terminology lock recorded.
 
-## Latest detailed verification — காட்சி-36
+## Latest detailed verification — காட்சி-37
 
-`காட்சி-36` is physically a **one-scan scene on scan 86**; scan 87 begins `காட்சி-37`.
+`காட்சி-37` is physically a **one-scan scene on scan 87**; scan 88 begins `காட்சி-38`.
 
-- Decorative title verified as **`தீயினில் திருநகர்`**.
-- Setting verified as **`தெருக்கள்`**.
-- Complete sparse two-column dramatic text verified directly against native/enlarged controlling-source views and targeted crops.
+- Decorative title verified as **`வடபுலப் படையெடுப்பு`**.
+- Setting verified as **`சேரன் செங்குட்டுவன் அவை`**.
+- Complete dense two-column literary text verified directly against native/enlarged controlling-source views and targeted crops.
 - No printed page number is securely visible; none is inferred.
-- The printed `★` separator between action blocks is retained as part of the source typography.
-- Physical source splits retained include `இடிபாடு / களில்`, `அழி / கிறான்`, `கோவ / லரைக்`, `கதறுங் / கள்`, `பழிக் / குப்`, and `அழி / வதை`.
-- Source-supported forms/punctuation retained without normalization include `என்னுள் அன்றே`, `தணலாகிறார்!`, `வாய்மூடிக் கிடந்த கூடல் நகரத்தாரே!`, `கனலே கிளம்பு....!`, the repeated `பழிக்குப் பழி!`, and `விரும்பினர்கள்`.
-- Two printed photographic/reproduction images occupy the lower portion. No separate printed caption is securely visible for either; both remain separate visual source layers without unsupported identification.
+- The left column ends mid-speech with `உன்னை`; the right column continues `இகழ்ந்தார்கள்!`.
+- Decorative weapon/shield motifs belong to the title artwork and are recorded separately from literary text.
+- No separate lower illustration or printed caption layer is visible.
+- Physical source splits retained include `பழித் / தார்களாம்`, `கேட்டறி / யாக்`, `தீவர் / களாம்`, `அறை / கூவல்`, `புறப் / படுங்கள்`, `பாண்டி / யனு`, `தருக் / கர்கள்`, `முத்துக் / கடலே`, `இகழ்ந் / தார்கள்`, `வளர்பிறையா / யிருக்க`, `கொய்யப் / படட்டும்`, `தணி / யாமல்`, and `தோழர் / களே`.
+- Source-supported forms/punctuation retained without normalization include `காணப்புல்லன்`, `கேட்டறியாக் கசடன்`, `மண்டுக`, `தீவர்களாம்`, `சோழனு பாண்டியனு`, `பகைவனுக`, `சுடற்ற புலவனே`, `ஆசைத்தம்பி`, `கல்வாணரே`, `வளங்குறையாச்`, `நாகாக்கத்`, `தும்பிவாடி`, `தோரணங்கற்பட்டு`, `கிழித் தெறியப்படலாம்!`, `இகழ்ந்தார்கள்!....அன்ன`, and final `புறப்படுங்கள்!’`.
 - The published English translation was not used to settle Tamil wording.
 
-## Forward structural mapping — காட்சி-37
+## Forward structural mapping — காட்சி-38 / final supplied scan
 
-Scan **87** has been directly inspected far enough to establish the next complete physical scene:
+Scan **88** has been directly inspected far enough to establish the final physical structure:
 
-- `காட்சி-37`.
-- Decorative title: **`வடபுலப் படையெடுப்பு`**.
-- Setting: **`சேரன் செங்குட்டுவன் அவை`**.
-- Dense two-column dramatic text.
-- Decorative weapon/shield motifs form part of the title artwork; they are not dialogue.
+- `காட்சி-38`.
+- Decorative title: **`கண்ணகி சிலைக்குக் கல்`**.
+- Setting: **`இமயத்தில் - குயிலாலுவம்`**.
+- The scene begins and visibly closes on scan 88.
+- After the numbered scene, three centred `*` separators introduce a distinct post-scene closing tableau headed **`வஞ்சிமூதூரில்`** and **`கண்ணகி சிலை நாட்டு விழா`**.
 - No printed page number is securely visible; none is inferred.
-- No separate lower illustration or printed caption layer is visible.
-- Scan **88 directly begins `காட்சி-38`**, so scene 37 is physically a **one-scan scene**.
-- `pages/0087.md` exists as a structural record at `needs-review`; its complete literary transcription has not yet been verified.
+- The title artwork includes mountain/stone imagery and remains separate from literary text.
+- A large circular library/accession stamp overlaps the lower-left publication area with handwritten `164596`; additional handwriting/accession notation is visible near the lower margin. These are later non-publication marks.
+- `pages/0088.md` exists as a structural record at `needs-review`; the complete scene-38 and closing-tableau literary transcription has not yet been verified.
 
 ## Translation terminology lock
 
@@ -57,4 +58,4 @@ The user-supplied published English volume remains a secondary future collation 
 
 ## Next work
 
-Process **காட்சி-37 / scan 87** as one complete scene. Verify the complete two-column dialogue/stage text, speaker labels, punctuation, physical splits, pagination behaviour, decorative title artwork and scan-88 scene boundary before promotion to `verified`. Do not begin scene assembly or English translation yet.
+Process **காட்சி-38 / scan 88** as the final supplied scene activity. Verify the complete two-column scene text, title/setting, punctuation, physical splits, pagination behaviour and decorative artwork, then verify the same-scan post-scene `வஞ்சிமூதூரில் / கண்ணகி சிலை நாட்டு விழா` closing-tableau text while keeping library/accession marks separate from publication text. Do not begin scene assembly or English translation yet.
