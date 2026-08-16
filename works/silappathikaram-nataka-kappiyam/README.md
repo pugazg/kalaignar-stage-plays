@@ -15,7 +15,7 @@ The supplied Tamil scan is the controlling Tamil source. The PDF itself is not c
 - Global Tamil consistency/source review: **PASS** — `GLOBAL_TAMIL_REVIEW.md`.
 - Tamil archival / assembly / global-review gates: **COMPLETE**.
 
-The Tamil archive is protected. Do not silently modernize, normalize, repair, reconstruct or improve Kalaignar's text. A verified Tamil reading may change only when controlling source pixels prove it wrong, with explicit documentation.
+The Tamil archive is protected. Do not silently modernize, normalize, repair, reconstruct or improve Kalaignar's text. Change a verified Tamil reading only when controlling source pixels prove it wrong and document the correction.
 
 ## English translation layer
 
@@ -27,24 +27,25 @@ English translation is active under:
 
 ### Current translation checkpoint
 
-Scenes **1–11** are translated and individually reviewed / PASS.
+Scenes **1–14** are translated and individually reviewed / PASS.
 
-English progress: **11 / 38 numbered scenes**.
+English progress: **14 / 38 numbered scenes**.
 
-No published English edition was used in drafting or reviewing scenes 1–11.
+No published English edition was used in drafting or reviewing scenes 1–14.
 
 Completed stages:
 
-- scenes 1–2: two-register pilot — **PASS**;
-- scenes 3–5: controlled batch — **PASS**;
-- scenes 6–8: controlled batch — **PASS**;
-- scenes 9–11: controlled batch — **PASS**.
+- scenes 1–2: two-register pilot — PASS;
+- scenes 3–5: controlled batch — PASS;
+- scenes 6–8: controlled batch — PASS;
+- scenes 9–11: controlled batch — PASS;
+- scenes 12–14: controlled batch — PASS.
 
-### Scene 9–11 findings
+### Latest translation findings
 
-- Scene 9 preserves `ஊடல்` as `oodal`, Rome/pearl-trade rhetoric, `தமிழர் வளம்`, repeated `செந்தமிழ்` love imagery, `கொல்லாமற் கொல்லாதீர்`, `எண்ணிரண்டு பதினாறு கிழமை`, the `பிரியவில்லை / பிரியமில்லை` semantic turn, and the unresolved verified source line `உன் நூல்தான் எல்லாம்...` without silent correction.
-- Scene 10 preserves `ஆடுகிறாள். / ஆடுகிறாள். / ஆடிக்கொண்டே இருக்கிறாள்.` as `She dances. / She dances. / She goes on dancing.`, `“தடால்!”` as `THADAAL!`, `விரகதாபம்`, Tamilakam's blossoming-joy image, the repeated `வேண்டேன்` rhetoric, and the inherited-stigma line `மயக்குகின்ற மாதர் வழி வந்தவள்` without harsher modernization.
-- Scene 11 preserves Kannagi's concealment, the source's intentionally unlabelled right-column continuation, `(இருபொருளில்)`, Devandhi's Sita/Rama/Surpanakha comparison, and Kannagi's refusal to demean Madhavi.
+- **Scene 12 — `இன்ப வாழ்வில் கோவலன்`** preserves Kalaignar's long erotic accumulation, unresolved `சேற் கெண்டை` without guessing, and the climax that describing Madhavi brings glory to Tamil.
+- **Scene 13 — `துன்பப் புயலில் கண்ணகி`** preserves the emotional counterpoint, `தமிழர் வழக்கப்படி`, Tamil collective praise, Kannagi's defence of Madhavi and Kovalan, and the final triple repetition.
+- **Scene 14 — `மாதவியின் மாண்பு`** preserves pregnancy wordplay, the verified parrot-and-snake story, practical ethical reasoning, Madhavi's demand that Kovalan apply his moral advice to himself, and `தமிழ் மறை` as `Tamil sacred lore`.
 
 ## Kalaignar-language and Dravidian-movement interpretation rule
 
@@ -54,26 +55,32 @@ Preserve source-supported resonances with Dravidian movement concepts — Tamil 
 
 Use a separate `## Dravidian movement resonance — interpretive note` when useful.
 
-Scenes 9–11 add these accepted interpretive patterns:
+For scenes 12–14:
 
-- scene 9: Tamil language, love and economic worth are intertwined; Kannagi also directs humane treatment of Madhavi;
-- scene 10: artistic achievement is set against inherited social stigma, with art framed as a public cultural good of Tamilakam;
-- scene 11: Kannagi refuses to build her own dignity by humiliating Madhavi, but the movement-context reading remains deliberately restrained.
+- scene 12: erotic/literary virtuosity turns explicitly into Tamil linguistic pride;
+- scene 13: Tamil custom and collective identity coexist with Kannagi's refusal to degrade Madhavi;
+- scene 14: responsibility and practical reasoning are placed against abstract expiation, with `தமிழ் மறை` as a Tamil ethical source; Madhavi then demands that public moral advice be practiced privately.
 
 ## Permanent terminology lock
 
-`அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன்`, and related source terms through contextual review.
+`அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவர்`, and related source terms.
 
-Scene 8's `பார்ப்பார்` → `venerable ritual officiants` remains an occurrence-level decision only.
+Scene 14 makes this especially explicit:
+
+- `பிராமண மாது / பிராமணமாது` → `Brahmin woman` because the source explicitly uses `பிராமண`;
+- `பார்ப்பனமாது` remains visibly distinct as `paarppana woman` in that stage direction;
+- `அந்தணர் / அந்தணன்` → **`Antanar`**, not `Brahmin`;
+- `மறையவர்` → `man of sacred lore`;
+- `தமிழ் மறை` → `Tamil sacred lore`.
 
 The published English edition, if later consulted, remains a **secondary comparison witness only**.
 
-## Exact next activity — controlled batch scenes 12–14
+## Exact next activity — controlled batch scenes 15–17
 
 Translate and individually review:
 
-1. `காட்சி-12 — இன்ப வாழ்வில் கோவலன்`, setting `மாதவி வீடு`;
-2. `காட்சி-13 — துன்பப் புயலில் கண்ணகி`, setting `கண்ணகி வீடு`;
-3. `காட்சி-14 — மாதவியின் மாண்பு`, setting `காவிரி ஆற்றோரம்`.
+1. `காட்சி-15 — மனமாறிந்த கோவலன்`, setting `கண்ணகி வீடு`;
+2. `காட்சி-16 — மணிமேகலை பிறப்பு`, setting `மாதவி வீடு`;
+3. `காட்சி-17 — மாசறு பொன்மகிழ்வு`, setting `கண்ணகி வீடு`.
 
-Preserve Kalaignar's deliberate emotional contrast across the three scenes: Kovalan's pleasurable life with Madhavi, Kannagi's storm of suffering, and Madhavi's `மாண்பு`/moral stature. Each scene must independently pass coverage, semantics, Kalaignar-voice, terminology, stage timing and Dravidian-context separation review.
+Each scene must independently pass coverage, semantics, Kalaignar voice, terminology, stage timing and Dravidian-context separation review.
