@@ -25,9 +25,9 @@ Read completely before changing anything:
 9. `translations/en/README.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
 11. `translations/en/PILOT_REVIEW.md`
-12. `translations/en/02_REVIEW.md` through `translations/en/17_REVIEW.md`
-13. completed English `translations/en/01.md` through `translations/en/17.md`
-14. verified Tamil `scenes/18.md`, `scenes/19.md`, and `scenes/20.md` before translating the next batch.
+12. `translations/en/02_REVIEW.md` through `translations/en/20_REVIEW.md`
+13. completed English `translations/en/01.md` through `translations/en/20.md`
+14. verified Tamil `scenes/21.md`, `scenes/22.md`, and `scenes/23.md` before translating the next batch.
 
 ## Completed Tamil work — do not restart
 
@@ -42,11 +42,11 @@ The Tamil scan remains controlling authority. Never alter verified Tamil merely 
 
 ## Completed English translation
 
-Scenes **1–17** are `translation-reviewed` / PASS.
+Scenes **1–20** are `translation-reviewed` / PASS.
 
-English progress: **17/38 numbered scenes**.
+English progress: **20/38 numbered scenes**.
 
-No published English edition was used for scenes 1–17.
+No published English edition was used for scenes 1–20.
 
 Completed stages:
 
@@ -55,7 +55,8 @@ Completed stages:
 - scenes 6–8: controlled batch — PASS;
 - scenes 9–11: controlled batch — PASS;
 - scenes 12–14: controlled batch — PASS;
-- scenes 15–17: controlled batch — PASS.
+- scenes 15–17: controlled batch — PASS;
+- scenes 18–20: controlled batch — PASS.
 
 ## Kalaignar-language requirement
 
@@ -83,45 +84,54 @@ When useful, add a separate:
 
 `## Dravidian movement resonance — interpretive note`
 
-Recent accepted handling:
+Accepted recent handling:
 
-- scene 15: preserve `தமிழ்ச் சுவை` as intimate Tamil-language imagery without turning Kannagi's lament into a political speech;
-- scene 16: preserve Tamil literary naming and unresolved cultural terms without guessing; `மறையவன்` remains contextually `man of sacred lore`, not `Brahmin`;
-- scene 17: preserve the explicit `தமிழரல்லவா ?...` line and Kannagi's `என் தங்கை` for Madhavi without expanding either into later ideological slogans.
+- scene 18: relate Tamil historical festival imagery and `தமிழச்சி` identity to later Tamil cultural self-respect without converting `மானம்` automatically to movement-specific `self-respect`;
+- scene 19: preserve Madhavi's question about unequal chastity expectations and identify Kovalan's later birth/sexual-status abuse as character failure, while keeping movement interpretation outside dialogue;
+- scene 20: preserve Kannagi's refusal to stigmatize Madhavi/Manimekalai and her anklet-based economic agency, while retaining Kovalan's `மானம்` as contextual `honour`.
 
 ## Permanent terminology lock
 
 `அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்`, and related terms. Resolve contextually and record new decisions in `TRANSLATION_TERMINOLOGY.md`.
 
-Other active source-faithful decisions include retained `Tamilakam`, `Tamil land`, `Muthamizh`, `iyal`, `isai`, `koothu`, `pann`, `thalaikkol`, `kalanju`, `swayamvaram`, `oodal`, `kurumpaadu`, unresolved `ser-kendai`, `nanniraattu`, `kurali`, and scene-specific unresolved `உன் நூல்தான் எல்லாம்...`.
+Additional controlling precedents through scene 20:
+
+- `பழந்தமிழ் மன்னன் இந்திரன்` → `Indran, the ancient Tamil king`;
+- `கானல் வரி` → retain `Kaanal Vari`;
+- translate quoted classical passages independently from the verified Tamil source; do not import standard published English versions;
+- `காட்டுவரி / கண்கூடுவரி` → retain `kaattivari / kankooduvari` pending secure technical equivalence;
+- `கணிகை`, `விலை மாது`, `உடல் வாணிபம்`, `காமக்கடை`, and `குலத்தொழில்` remain distinct, contextual and speaker-attributed;
+- hostile social/sexual descriptions must never become the translator's neutral narration.
+
+Other active terminology decisions include `Tamilakam`, `Tamil land`, `Muthamizh`, `iyal`, `isai`, `koothu`, `pann`, `thalaikkol`, `kalanju`, `swayamvaram`, `oodal`, `nanniraattu`, retained `kurali`, retained `kurumpaadu`, retained `ser-kendai`, and other documented unresolved source forms.
 
 The published English edition, if later consulted, is a labelled secondary witness only.
 
-## Exact next activity — controlled English translation batch scenes 18–20
+## Exact next activity — controlled English translation batch scenes 21–23
 
 Translate and individually review:
 
-1. `காட்சி-18 — இந்திர விழா-இருமனைகளில்`;
-2. `காட்சி-19 — கானல் வரியும் / காதல் பிரிவும்`;
-3. `காட்சி-20 — திருந்திய கோவலன் / திரும்பி வருதல்`.
+1. `காட்சி-21 — கலைமகள்`, setting `மாதவி வீடு`;
+2. `காட்சி-22 — மதுரைப் பயணம்`, setting `மதுரை செல்லும் வழி`;
+3. `காட்சி-23 — மாதவி துறவு`, setting `மாசாத்துவான் வீடு`.
 
 Create:
 
-- `translations/en/18.md` and `18_REVIEW.md`;
-- `translations/en/19.md` and `19_REVIEW.md`;
-- `translations/en/20.md` and `20_REVIEW.md`.
+- `translations/en/21.md` and `21_REVIEW.md`;
+- `translations/en/22.md` and `22_REVIEW.md`;
+- `translations/en/23.md` and `23_REVIEW.md`.
 
-### Scene 18 special care
+### Scene 21 special care
 
-Preserve the cross-cut festival structure and all internal settings rather than forcing one setting. Retain Puhar spectacle, `பழந்தமிழ் மன்னன் இந்திரன்`, Madhavi/Kovalan family intimacy, Kannagi's sensory distress, repeated `அத்தான்` calls and the seashore convergence. Do not flatten the festival into descriptive summary.
+Preserve Madhavi's artistic and emotional aftermath after the rupture, Manimekalai context, any continuing Kannagi/Madhavi relation, and the scene's visual/text separation. Do not infer words from title artwork or pictorial material.
 
-### Scene 19 special care
+### Scene 22 special care
 
-Preserve the yaazh performance, sensual dialogue, the full quoted Kaanal Vari material, its poetic lineation, the argument over meaning, jealousy and the transition into love-separation. Translate every quoted/source-song passage independently from the verified Tamil; do **not** import a published standard English Silappathikaram translation.
+Preserve the physical hardship and companionship of the Madurai journey, the exact scan-63→64 continuation, and Kalaignar's emotional/rhetorical language. Do not smooth journey dialogue into neutral travel narration.
 
-### Scene 20 special care
+### Scene 23 special care
 
-Preserve the return/reconciliation staging, Kovalan's self-condemnation, Kannagi's repeated defence of Madhavi and Manimekalai, and the source's harsh social/sexual-status vocabulary. Terms such as `கணிகை`, `விலை மாது`, `உடல் வாணிபம்`, any `தமிழ் மறை`, and honour/wealth language require occurrence-level review. Character abuse must remain recognizably character speech and must not become neutral translator narration.
+Preserve Madhavi's response to Kovalan's departure and her renunciation as Kalaignar stages it. Review every ascetic/religious/social term occurrence by occurrence. Do not automatically moralize Madhavi's choice as punishment for her earlier life, and do not collapse terms into generic `monk/nun/renunciation` language without source support.
 
 ### Review gate
 
@@ -136,6 +146,6 @@ For each scene:
 7. set `translation-reviewed` / `passed` only after individual review;
 8. update terminology, tracker, README and handovers after the batch.
 
-Proceed now with **காட்சி-18 through காட்சி-20**.
+Proceed now with **காட்சி-21 through காட்சி-23**.
 
 ---
