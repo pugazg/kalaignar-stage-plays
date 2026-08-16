@@ -31,7 +31,7 @@ Read completely:
 9. `translations/en/README.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
 11. `translations/en/PILOT_REVIEW.md`
-12. `translations/en/02_REVIEW.md`
+12. `translations/en/02_REVIEW.md` through `translations/en/05_REVIEW.md`
 13. the verified Tamil scenes currently being translated.
 
 ## Completed Tamil state
@@ -49,36 +49,35 @@ Known source anomalies and the scan-88 obstruction remain protected. Do not rest
 
 Translation phase is active under the work-specific protocol.
 
-Completed:
+Completed and individually reviewed:
 
-- `translations/en/01.md` — `காட்சி-1 / வஞ்சி மூதூரில் முரசறைதல்` — `translation-reviewed`, PASS;
-- `translations/en/02.md` — `காட்சி-2 / செங்குட்டுவன் பிறந்தநாள் விழா` — `translation-reviewed`, PASS;
-- `translations/en/PILOT_REVIEW.md` — scene-1 pilot assessment;
-- `translations/en/02_REVIEW.md` — second-register pilot assessment.
+- `translations/en/01.md` — PASS;
+- `translations/en/02.md` — PASS;
+- `translations/en/03.md` — PASS;
+- `translations/en/04.md` — PASS;
+- `translations/en/05.md` — PASS.
 
-English progress: **2 of 38 numbered scenes**.
+English progress: **5 of 38 numbered scenes**.
 
-No published English edition was used for drafting/reviewing scenes 1–2.
+No published English edition was used for drafting/reviewing scenes 1–5.
 
-## Accepted translation method
+The two-register pilot (scenes 1–2) and first controlled multi-scene batch (scenes 3–5) have both **PASSED**.
 
-The two-register pilot stage has passed:
+## Accepted translation method through scene 5
 
-- scene 1 tested public proclamation, slogans, Tamilakam/homeland rhetoric, repetition and historical identity;
-- scene 2 tested intimate royal-family dialogue, humour, flirtation, kinship language, stage timing and rationalist scepticism.
+The translation must continue to preserve Kalaignar's language rather than genericize it.
 
-Scene-2 accepted terms include:
+Established evidence:
 
-- `விழாக்கோலம்` / `போர்க் கோலம்` → `festive array` / `battle array`;
-- `விழுப்புண்` → `wounds of valour`;
-- `கொலு மண்டபம்` → `royal audience hall`;
-- `நிமித்திகன்` → `soothsayer`;
-- `ஆருடம்` → `prophecy` in this occurrence;
-- `குறும்புக்காரா!` → `You little rogue!` in affectionate context.
+- scene 1: proclamation, slogans, Tamilakam/homeland rhetoric and mass-oratory cadence;
+- scene 2: intimate family humour, flirtation, kinship and scepticism toward divination;
+- scene 3: Kural-based challenge to fate, `விதி / மதி`, Tamil wordplay, refusal to treat old epic precedent as binding and `புதிய இதிகாசம்` as creative agency;
+- scene 4: renunciation, family grief, explicit fate/reason opposition, Tamil-land/Tamilakam distinction and satire on the defeated soothsayer;
+- scene 5: explicit hill-Tamil peoplehood, Tamil-land abundance, three-crowned-kings literary framing and the conscious creation of the Kannagi epic.
 
 ## Kalaignar voice requirement
 
-Retain Kalaignar's language in English:
+Retain in English:
 
 - rhetorical force;
 - cadence and repetition;
@@ -97,24 +96,28 @@ Translation choices should preserve source-supported conceptual resonances with 
 
 However, **interpretation must not be inserted into character dialogue**. Where useful, add a separate `Dravidian movement resonance — interpretive note` after the translation.
 
-Scene 2's accepted note relates Ilango's direct challenge to the soothsayer and description of his claims as `பொய்யுரைகள்` to the rationalist / anti-superstition current of the Dravidian movement. The note remains separate because the source itself does not use later labels such as `rationalism` or `Dravidian`.
+Scenes 3–4 now provide the strongest rationalist source material so far: fate is challenged by reason and human action, and prophetic certainty is openly mocked. Scene 5 shifts toward inclusive Tamil peoplehood and literary-historical recovery across the three Tamil dynasties.
 
 ## Permanent terminology lock
 
 `அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and related source terms. Decide contextually and record decisions in `TRANSLATION_TERMINOLOGY.md`.
 
-## Exact next activity — controlled batch காட்சி-3 through காட்சி-5
+This rule now explicitly extends to `பார்ப்பார்`. Scene 8 contains the quoted passage `மாமுது பார்ப்பார்...`; its English rendering must be decided from immediate literary/ritual context rather than automatically using `Brahmin`.
+
+`குறும்பாடு` in scene 5 remains `kurumpaadu` pending reliable lexical evidence rather than guessed normalization.
+
+## Exact next activity — controlled batch காட்சி-6 through காட்சி-8
 
 Translate and review individually:
 
-1. `காட்சி-3 — விழாவும் வினாவும்`, setting `சேரன் அரண்மனை`;
-2. `காட்சி-4 — இளங்கோ துறவு`, setting `சேரலாதன் மாளிகை`;
-3. `காட்சி-5 — சிலம்பின் தோற்றம்`, setting `சேரநாடு`.
+1. `காட்சி-6 — பூம்புகார்ப் பொற்றொடி`;
+2. `காட்சி-7 — கலைக்கரசி மாதவி`;
+3. `காட்சி-8 — கண்ணகி இல்லறம்`.
 
-Special conceptual attention:
+Special attention:
 
-- scene 3 makes the conflict between fate and human agency explicit and includes a quoted Kural and epic analogy;
-- scene 4 intensifies `விதி` versus human reason/agency through Ilango's renunciation and family grief;
-- scene 5 moves into the Kannagi story and Kalaignar's framing of it as a Tamil epic connected to the three Tamil kingdoms.
+- scene 6: Puhar/Tamil maritime geography, foreigners, Sattanar narration and love imagery;
+- scene 7: court performance, humour, sexuality/marriage-choice rhetoric and social status;
+- scene 8: intimate marital dialogue plus the mandatory occurrence-level terminology review of `பார்ப்பார்`.
 
 Each scene must independently pass complete coverage, semantic fidelity, Kalaignar-voice, terminology, stage-timing and source/Dravidian-interpretation separation before promotion to `translation-reviewed`.
