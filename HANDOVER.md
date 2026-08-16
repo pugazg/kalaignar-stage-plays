@@ -17,24 +17,37 @@ Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாட
 
 ## Current verification checkpoint
 
-Scans **1–66 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-24**.
+Scans **1–68 are fully verified**, including front matter/prefaces and **காட்சி-1 through காட்சி-25**.
 
-## Newly completed activity — காட்சி-24, scan 66
+## Newly completed activity — காட்சி-25, scans 67–68
 
-### Scan 66 — `pages/0066.md`
+### Scan 67 — `pages/0067.md`
 
-- `காட்சி-24`.
-- Decorative title verified as **`கவுந்தியுடன் கண்ணகி கோவலன்`**.
-- Setting: **`வழியில்`**.
-- Printed page **50** visibly present.
-- Complete two-column dramatic text verified using enlarged 4x and 600-ppi source views.
-- The page follows கவுந்தி, கண்ணகி and கோவலன் through the fields: Kannagi is hurt by a thorn, Kovalan expresses remorse, Kavunti quotes `“இடுக்கண் வருங்கால் நகுக!”`, and the scene closes with a fish being returned to water before the Pandya fish-banner transition.
-- Preserve the physical left/right column break in Kannagi's speech at `துயரங் / கள்`.
-- Preserve source forms/splits including `முள்ளுத்த`, `இதாவது`, `ஆருத் துயரத்தில்`, `என்ற திருக்குறளின் மறந்தாயா?`, `அதனுல்தான்`, `காட்சியளிக் / கின்றன`, `உட் / கார்ந்து`, `பழக் / கமேயில்லையே`, `நெஞ் / சத்திலே`, `ஏற் / படுத்தி`, `உற் / சாகத்தில்`, and `விடு / கிறார்`.
-- Small bottom-centre flag/banner-like illustration is uncaptioned.
-- Scan 67 directly begins `காட்சி-25`, so scene 24 is a one-scan scene.
+- `காட்சி-25`.
+- Decorative title verified as **`நீதி வழுவா நெடுஞ்செழியன்`**.
+- Setting: **`பாண்டியன் அவை`**.
+- No visible printed page number.
+- Complete two-column dramatic text verified using enlarged 350/500-ppi source views.
+- The authorship dispute is between `மல்லவாணர்` and `அருளாளர்`; Nedunchezhiyan tests the competing claims by proposing to burn the காவியம்.
+- Exact archaeological caption:
+  - `“பூம்புகார்” அகழ்வாராய்ச்சி-`
+  - `கி.மு. 3ஆம் நூற்றாண்டின்`
+  - `படகு கட்டும் துறை.`
+- Circular library/accession stamp overlaps the upper-right heading area; it is not publication text.
+- Preserve source forms including `அநீதிக்கு இடமில்லை!`, `காட்சியாதல்`, `அருளாளர் எழுதினர்`, and `மாணவனாயிருந்ததே யில்லை!`.
 
-Verification used the controlling Tamil scan and enlarged direct visual comparison. The published English translation was not used to settle Tamil wording.
+### Scan 68 — `pages/0068.md`
+
+- Continues and closes scene 25.
+- Printed page **52** visibly present.
+- Arulalar refuses the destruction of the Tamil work; Nedunchezhiyan identifies him as the true author and orders a reward of `ஐயாயிரம் கழஞ்சு பொன்`.
+- The scene then moves to the royal anklet repair handoff involving the queen, தோழி and an `அதிகாரி`.
+- Preserve speaker-label variants exactly: `அருளா`, `பாண்டி`, `அரசி`, `தோழி`, `அதிகாரி`.
+- Preserve source readings including `பெற்றவருக் கல்லவா`, `காவியமேதான்`, `காற்சிலம்பு`, `கொடுத்துப்பழுது`, `சீர்செய்தால்`, the visibly printed **`சிலம்பு-தொட்டால் தொங்கிவிடும் தல!`**, and `சமாதானப் படுத்திக்கொண்டு`.
+- Small lower-centre tablet/book-like illustration is uncaptioned.
+- Scan 69 directly begins `காட்சி-26`.
+
+Verification used the controlling Tamil scan only for wording; the supplied published English translation was not used to settle Tamil readings.
 
 ## Permanent future-translation terminology note
 
@@ -44,25 +57,16 @@ Do **not** automatically translate Kalaignar's `அந்தணர்` as “Bra
 
 Detailed verification proceeds by **one complete scene per activity where practical**, with one independent archival record per physical scan.
 
-## Forward mapped pages — காட்சி-25
+## Forward mapped page
 
-### Scan 67 — `pages/0067.md`
+### Scan 69 — `pages/0069.md`
 
-- Begins `காட்சி-25`.
-- Provisional decorative title: **`நீதி வழுவா நெடுஞ்செழியன்`**; final character-level acceptance pending.
-- Setting: **`பாண்டியன் அவை`**.
-- Two-column dramatic text plus a large archaeological photograph.
-- Printed photograph caption visibly present but exact wording intentionally deferred to enlarged verification.
-- Circular library/accession stamp overlaps the upper-right heading area and is not publication text.
-- No printed page number is securely inferred.
-- Status: `needs-review`.
-
-### Scan 68 — `pages/0068.md`
-
-- Continues and closes scene 25 physically.
-- Printed page **52** visibly present.
-- Dense two-column text plus a small uncaptioned tablet/book-like illustration.
-- Scan 69 directly begins `காட்சி-26`.
+- Begins `காட்சி-26`.
+- Provisional decorative title: **`அரசியின் சிலம்பு`**.
+- Setting: **`பொற்கொல்லன் வீடு`**.
+- Printed page **53** visibly present.
+- Two-column dramatic text plus a small uncaptioned shell/pearl-like lower illustration.
+- Scan 70 directly begins `காட்சி-27`, so scene 26 is a one-scan scene.
 - Status: `needs-review`.
 
 ## Published English translation witness
@@ -71,4 +75,4 @@ The supplied published English volume remains a secondary future collation witne
 
 ## Next activity
 
-Process **காட்சி-25 across scans 67–68** as one complete scene. Resolve the ornate title, verify every speaker label/dialogue/stage direction and transcribe the archaeological photograph caption exactly before marking both scans verified. Do not begin scene assembly or English translation yet.
+Process **காட்சி-26 / scan 69** as one complete scene. Verify the ornate title, all dialogue/stage directions, speaker labels, punctuation, physical splits and lower illustration before marking it `verified`. Do not begin scene assembly or English translation yet.
