@@ -42,6 +42,12 @@ A settled English form here controls later scene translation unless a scene-spec
 | `மானம்` | contextual | `honour`, `dignity`, `self-respect` | Context decides. Do not automatically import the movement-specific `self-respect` unless the line supports it. |
 | `இனம்` | contextual | `people`, `community`, `race`, `kind` | Politically sensitive; decide by immediate rhetoric and document the choice. |
 | `நாடு` | contextual | `land`, `country`, `realm`, `kingdom` | Historical polity and modern nation are not automatically interchangeable. |
+| `விழுப்புண்` | preferred | `wound(s) of valour` | Preserve the heroic/honour-bearing sense of a battle wound; do not flatten to neutral `injury`. Scene 2 → `wounds of valour`. |
+| `கொலு மண்டபம்` | preferred | `royal audience hall` | Courtly audience/throne-hall function; avoid modern bureaucratic `assembly hall` where it weakens the setting. |
+| `நிமித்திகன்` | preferred | `soothsayer` | Scene 2 choice; carries the dramatic role of one claiming knowledge through signs/omens. Recheck in scene 3's extended fate debate. |
+| `ஆருடம்` | contextual | `prophecy`, `divination`, `oracle` according to syntax | Scene 2 → `prophecy`; preserve sceptical/rationalist force where characters challenge it. |
+| `விதி` | contextual | `fate`, `destiny` | Scene 3–4 will establish the controlling choice where Kalaignar explicitly opposes fate to human reason/agency. |
+| `மதி` | contextual | `reason`, `intellect`, `human intelligence` | Do not flatten to merely `mind` when paired polemically with `விதி`; scene 3–4 will establish the controlling rendering. |
 
 ## Scene 1 pilot decisions
 
@@ -56,6 +62,21 @@ For `காட்சி-1`:
 - `கொட்டுவோம், கொட்டுவோம் முரசம்!` → **`Let us beat, let us beat the drum!`**, retaining the inclusive first-person call, repetition and public-proclamation rhythm.
 - `சேரர் தரணி` → **`the Chera land`**.
 - `செந்தமிழர் தாயகம்` → **`the homeland of the people of refined Tamil`** in the pilot, preserving the elevation of `செந்தமிழ்`; review later for performability/consistency before large-scale translation.
+
+## Scene 2 decisions
+
+For `காட்சி-2`:
+
+- `செங்குட்டுவன் பிறந்தநாள் விழா` → **`Senguttuvan's Birthday Celebration`**.
+- `விழாக்கோலம்` / `போர்க் கோலம்` → **`festive array` / `battle array`**, preserving the rhetorical mirror.
+- `விழுப்புண்` → **`wounds of valour`**.
+- `கொலு மண்டபம்` → **`royal audience hall`**.
+- `நிமித்திகன்` → **`soothsayer`**.
+- `ஆருடம்` → **`prophecy`** in this occurrence.
+- `அண்ணி` → **`Sister-in-law`** in direct address.
+- `குறும்புக்காரா!` → **`You little rogue!`** as affectionate family teasing.
+
+Scene 2 also establishes a translation principle: when Kalaignar embeds rationalist scepticism inside humour or family conversation, preserve the scepticism **through the original dramatic wording** rather than converting the dialogue into explanatory ideological prose. Movement-era interpretation belongs in the separate note.
 
 ## Dravidian-movement relation rule
 
