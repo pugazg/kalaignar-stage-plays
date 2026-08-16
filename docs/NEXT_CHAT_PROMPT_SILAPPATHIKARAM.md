@@ -25,9 +25,9 @@ Read completely before changing anything:
 9. `translations/en/README.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
 11. `translations/en/PILOT_REVIEW.md`
-12. `translations/en/02_REVIEW.md` through `translations/en/08_REVIEW.md`
-13. completed English `translations/en/01.md` through `translations/en/08.md`
-14. verified Tamil `scenes/09.md`, `scenes/10.md`, and `scenes/11.md` before translating the next batch.
+12. `translations/en/02_REVIEW.md` through `translations/en/11_REVIEW.md`
+13. completed English `translations/en/01.md` through `translations/en/11.md`
+14. verified Tamil `scenes/12.md`, `scenes/13.md`, and `scenes/14.md` before translating the next batch.
 
 ## Completed Tamil work — do not restart
 
@@ -42,17 +42,18 @@ The Tamil scan remains controlling authority. Never alter verified Tamil merely 
 
 ## Completed English translation
 
-Scenes **1–8** are `translation-reviewed` / PASS.
+Scenes **1–11** are `translation-reviewed` / PASS.
 
-English progress: **8/38 numbered scenes**.
+English progress: **11/38 numbered scenes**.
 
-No published English edition was used for scenes 1–8.
+No published English edition was used for scenes 1–11.
 
 Completed translation stages:
 
-- scenes 1–2: two-register pilot — PASS;
+- scenes 1–2: pilot — PASS;
 - scenes 3–5: controlled batch — PASS;
-- scenes 6–8: controlled batch — PASS.
+- scenes 6–8: controlled batch — PASS;
+- scenes 9–11: controlled batch — PASS.
 
 ## Kalaignar-language requirement
 
@@ -80,53 +81,44 @@ When useful, add a separate:
 
 `## Dravidian movement resonance — interpretive note`
 
-Accepted recent handling:
+Recent accepted handling:
 
-- scene 6 connects Tamil-centred maritime cosmopolitanism, the source's `ancient Tamil named Indran`, and explicit Tamil/other-language love metaphor to later Tamil historical/language consciousness without inserting modern slogans into dialogue;
-- scene 7 relates Madhavi/Vasanthamalai's insistence on choice and dignity and Kovalan's `Tamilakam's worth` rhetoric to later Self-Respect/Dravidian concerns, without calling the scene itself a Self-Respect marriage;
-- scene 8 explicitly avoids inventing an anti-ritual polemic and instead notes companionate marriage, mutual support and Kannagi's active voice.
+- scene 9 preserves Tamil language/economic-worth imagery and Kannagi's active concern for Madhavi without inserting later political vocabulary;
+- scene 10 relates artistic achievement versus inherited stigma to an anti-hierarchical resonance and treats art as a public cultural good of Tamilakam, while leaving Madhavi's dialogue personal and dramatic;
+- scene 11 uses a restrained dignity-centred note because Kannagi refuses to insult Madhavi, without claiming an overt movement doctrine.
 
 ## Permanent terminology lock
 
 `அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன்`, and related terms. Resolve contextually and record new decisions in `TRANSLATION_TERMINOLOGY.md`.
 
-Scene 8 occurrence-level decision:
+Scene 8's `பார்ப்பார்` → `venerable ritual officiants` remains occurrence-specific only.
 
-- `மாமுது பார்ப்பார்` → `venerable ritual officiants`;
-- `மறைவழி` → `the way of the sacred lore`;
-- `தீவலம்` → `circling the fire`.
+Other active decisions include:
 
-This is **not** a universal equation for `பார்ப்பார்`; later occurrences require fresh contextual review.
-
-Other active terminology decisions include `Tamilakam`, `Tamil land`, `Muthamizh`, `iyal`, `isai`, `koothu`, `pann`, `thalaikkol`, `kalanju`, `swayamvaram`, and retained `kurumpaadu` pending reliable lexical evidence.
+- `ஊடல்` → retain `oodal` at first use;
+- `விரகதாபம்` → `anguish of separation` in scene 10;
+- contextual treatment of inherited `மயக்குகின்ற மாதர்` language;
+- scene-9 `உன் நூல்தான் எல்லாம்...` remains a documented ambiguity and must not be silently corrected.
 
 The published English edition, if later consulted, is a labelled secondary witness only.
 
-## Exact next activity — controlled English translation batch scenes 9–11
+## Exact next activity — controlled English translation batch scenes 12–14
 
 Translate and individually review:
 
-1. `காட்சி-9 — பிரிவினை தந்த பேதை`;
-2. `காட்சி-10 — கலையரசி கண்ட உவகை`;
-3. `காட்சி-11 — கற்பரசியின் கலக்கம்`.
+1. `காட்சி-12 — இன்ப வாழ்வில் கோவலன்`, setting `மாதவி வீடு`;
+2. `காட்சி-13 — துன்பப் புயலில் கண்ணகி`, setting `கண்ணகி வீடு`;
+3. `காட்சி-14 — மாதவியின் மாண்பு`, setting `காவிரி ஆற்றோரம்`.
 
 Create:
 
-- `translations/en/09.md` and `09_REVIEW.md`;
-- `translations/en/10.md` and `10_REVIEW.md`;
-- `translations/en/11.md` and `11_REVIEW.md`.
+- `translations/en/12.md` and `12_REVIEW.md`;
+- `translations/en/13.md` and `13_REVIEW.md`;
+- `translations/en/14.md` and `14_REVIEW.md`.
 
-### Scene 9 special care
+### Batch-level special care
 
-Preserve `ஊடல்`, the quoted two-line marital praise, separation rhetoric, Rome-trade context, Tamil wealth, repeated Tamil/language metaphors, love imagery and the subtle dramatic pivot when Kannagi herself sends Kovalan to explain matters to Madhavi. Do not flatten the erotic/classical rhetoric or the language imagery.
-
-### Scene 10 special care
-
-Preserve the repeated `ஆடுகிறாள்.` cadence, dance as embodied emotional speech, the `“தடால்!”` collapse, Madhavi's art/sorrow argument, her rejection of wealth/fame, erotic devotion and the socially loaded line `மயக்குகின்ற மாதர் வழி வந்தவள் நீ`. Do not silently modernize or moralize Madhavi's social identity; review any hereditary/status terminology contextually.
-
-### Scene 11 special care
-
-Preserve Kannagi's emotional concealment, Devandhi's colloquial humour, the `(இருபொருளில்)` direction, the Sita/Rama/Surpanakha comparison and Kannagi's refusal to insult Madhavi. Do not let later epic familiarity overwrite Kalaignar's exact dramatic wording.
+Preserve Kalaignar's deliberate emotional contrast across the sequence: Kovalan's pleasurable life with Madhavi, Kannagi's storm of suffering, and the scene explicitly framing Madhavi's `மாண்பு`/moral stature. Do not let later knowledge of the epic flatten the immediate dramatic states.
 
 ### Review gate
 
@@ -141,6 +133,6 @@ For each scene:
 7. set `translation-reviewed` / `passed` only after individual review;
 8. update terminology, tracker, README and handovers after the batch.
 
-Proceed now with **காட்சி-9 through காட்சி-11**.
+Proceed now with **காட்சி-12 through காட்சி-14**.
 
 ---
