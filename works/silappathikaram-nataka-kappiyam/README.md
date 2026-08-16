@@ -13,8 +13,8 @@ The supplied Tamil scan is the controlling source. The PDF itself is not committ
 - Scene-assembly readiness plan: complete — see `SCENE_ASSEMBLY_PLAN.md`.
 - Direct visual-text fidelity protocol: mandatory — see `VISUAL_TEXT_FIDELITY_CHECK.md`.
 - Scene assembly: **active**.
-- `காட்சி-1` through `காட்சி-10`: **assembly-reviewed**, `visual_text_fidelity: passed`.
-- **10 of 38 numbered scenes are now assembly-reviewed.**
+- `காட்சி-1` through `காட்சி-11`: **assembly-reviewed**, `visual_text_fidelity: passed`.
+- **11 of 38 numbered scenes are now assembly-reviewed.**
 - English translation: **not started** and remains locked through assembly/global Tamil review unless the user explicitly changes phase.
 
 ## Source and assembly rules
@@ -25,29 +25,28 @@ A verified page record may be changed only when direct source-pixel inspection p
 
 ## Assembly checkpoint
 
-Completed scene files: `scenes/01.md` through `scenes/10.md`.
+Completed scene files: `scenes/01.md` through `scenes/11.md`.
 
 Recent source-pixel corrections during the mandatory second-pass fidelity review include:
 
-- scene 8: no page-record wording correction; assembly-only `மகன்! ...என்` restored to source-faithful `மகன்!...என்`;
 - scene 9 / scan 37: `உன் மறந்தாலன்றோ` → `உனை மறந்தாலன்றோ`; `என்ன எடுத்துப்` → `என்னை எடுத்துப்`;
-- scene 10 / scan 40: `உண்மைதானே?...` → source-visible **`உண்மைதானே?..`**.
+- scene 10 / scan 40: `உண்மைதானே?...` → source-visible `உண்மைதானே?..`;
+- scene 11 / scan 42: `வா உள்ளே!` → source-visible `வா உள்ளே !`.
 
-## Latest completed assembly — காட்சி-10
+## Latest completed assembly — காட்சி-11
 
-`scenes/10.md` assembles scans **39–41**.
+`scenes/11.md` assembles scan **42**.
 
-- Title: `கலையரசி கண்ட உவகை`.
-- Setting: `மாதவி இல்லம்`.
-- Internal heading: `தெரு`.
+- Title: `கற்பரசியின் கலக்கம்`.
+- Setting: `கண்ணகி வீடு`.
 - Status: `assembly-reviewed`; visual text fidelity: `passed`.
-- Scan 39 opens the scene. The later circular library/accession stamp overlapping the decorative heading remains excluded from publication text. The large lower-right man/woman illustration is uncaptioned and remains a separate visual layer.
-- Scan 39's long bracketed reception sequence closes with `பெண்கள் எப்படியோ ஒவ்வொருவராக அதை விட்டு நீங்கி விடுகின்றனர்.]`.
-- Scan 40 begins new stage prose `நடனங்களில் கோவலன் மயங்கி அமர்ந்திருக்கிறான்.` and contains the final dialogue/stage text. Printed page `24` is visible.
-- Source-specific forms/punctuation retained include repeated `ஆடுகிறாள்.`, `அது வும்`, `“தடால்!”`, `கலை பெண்ணும் அலை`, `மண்ணுளும்`, `கண்ணுளன்`, `அடிச் சுவட்டை!`, `கண்ணு!`, and corrected `உண்மைதானே?..`.
-- Scan 40 carries a small uncaptioned ornamental/conch-like illustration near the lower centre.
-- Scan 41 is a **pictorial-only physical scan** associated with scene 10: no literary text, no printed caption and no visible pagination. Its full-page standing sculptural female figure photograph/reproduction remains explicit source provenance and no identity is inferred.
-- Scan 42 directly begins `காட்சி-11`, so scene 10 physically spans scans 39–41 even though literary text ends on scan 40.
+- Scan 42 is both the opening and closing physical scan and visibly prints page `26`.
+- The complete two-column scene was compared directly against enlarged source pixels and verified `pages/0042.md`.
+- The source's right-column continuation `ஏன் ......என்ன நடந்தது ?` remains deliberately **unlabelled**; no repeated speaker label was invented.
+- Mechanical source-wrap joins verified include `நின்ற / வாறு` → `நின்றவாறு`, `வரு / கிறது` → `வருகிறது`, `தேவந்தி / யைப்` → `தேவந்தியைப்`, and `அழுகிறாயாக் / கும்` → `அழுகிறாயாக்கும்`.
+- Source punctuation/forms retained include `அவர் எங்கே ?`, `ஆ !...`, `ஒன்றுமில்ல தேவந்தி!......`, `அவர் எங்கே, உன் புருஷன் ?...`, `ஓகோ ...`, `வா உள்ளே !`, `ஆமாம்........`, `(இருபொருளில்)`, and `அவமானப்பட்டாளே; ஏன்?....`.
+- A small uncaptioned moon/cloud-like decorative illustration near the lower centre remains separate from literary text.
+- Scan 43 directly begins `காட்சி-12`.
 
 ## Final verified source scene — காட்சி-38
 
@@ -59,15 +58,15 @@ Kalaignar's `அந்தணர்` must **not** automatically be translated as 
 
 ## Exact next work
 
-Process **காட்சி-11 / scan 42 — `கற்பரசியின் கலக்கம்`, setting `கண்ணகி வீடு`** as the next complete scene-assembly + visual-text-fidelity activity.
+Process **காட்சி-12 / scan 43 — `இன்ப வாழ்வில் கோவலன்`, setting `மாதவி வீடு`** as the next complete scene-assembly + visual-text-fidelity activity.
 
-- Input: verified `pages/0042.md`.
-- Output: `scenes/11.md`, initially `draft` / `visual_text_fidelity: pending`.
-- Scan 42 is both the opening and closing physical scan of scene 11; scan 43 directly begins `காட்சி-12`.
-- Preserve printed page `26`.
-- Preserve the right-column continuation without inventing a speaker label: after the left-column stage direction, the right column begins `ஏன் ......என்ன நடந்தது ?`.
-- Preserve source punctuation/forms such as `அவர் எங்கே ?`, `ஆ !...`, `ஒன்றுமில்ல தேவந்தி!......`, `அவர் எங்கே, உன் புருஷன் ?...`, `ஓகோ ...`, `ஆள்மேலே ஆள் விட்டாளே;`, `(இருபொருளில்)`, and `அவமானப்பட்டாளே; ஏன்?....`.
-- Keep the small uncaptioned moon/cloud-like lower-centre illustration separate from literary text.
-- Inspect actual scan 42 at native/enlarged resolution and compare the complete assembly character-by-character against source pixels and `pages/0042.md` before promotion.
+- Input: verified `pages/0043.md`.
+- Output: `scenes/12.md`, initially `draft` / `visual_text_fidelity: pending`.
+- Scan 43 is both the opening and closing physical scan; scan 44 directly begins `காட்சி-13`.
+- Preserve printed page `27`.
+- Preserve Kovalan's long cross-column description exactly through the physical split `அசி / வதுபோல்`, assembling only the demonstrable wrap to `அசிவதுபோல்`; do not replace it with a more expected word.
+- Preserve source forms/punctuation including `மால்`, `சேற் / கெண்டை`, `இருண்டு-கண்பறிக்கும்`, `வித்தினிலே`, `யாரு / மில்ல !......`, `மன்னு !...`, `மால்க்கும்`, and `ஏற்பட் / டும்!......`.
+- Keep the small uncaptioned peacock illustration near the lower centre separate from literary text.
+- Inspect actual scan 43 at native/enlarged resolution and compare the complete assembly character-by-character against source pixels and `pages/0043.md` before promotion.
 
 Do not begin English translation.
