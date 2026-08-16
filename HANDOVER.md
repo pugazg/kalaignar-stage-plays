@@ -27,52 +27,60 @@ Source facts:
 
 ## Current verification checkpoint
 
-Scans **1–49 are fully verified**.
+Scans **1–50 are fully verified**.
 
-This includes the complete front matter/prefaces and **காட்சி-1 through காட்சி-15**.
+This includes the complete front matter/prefaces and **காட்சி-1 through காட்சி-16**.
 
-Individual page records now exist through scan **50**. Scan 50 is `needs-review` and is physically a one-scan `காட்சி-16`; scan 51 directly begins `காட்சி-17`.
+Individual page records now exist through scan **52**. Scans 51–52 remain `needs-review` and together form `காட்சி-17`; scan 53 directly begins `காட்சி-18`.
 
-## Newly completed activity — காட்சி-15, scan 49
+## Newly completed activity — காட்சி-16, scan 50
 
-### Scan 49 — `pages/0049.md`
+### Scan 50 — `pages/0050.md`
 
-- `காட்சி-15`.
-- Enlarged Tamil-source inspection confirms the decorative title as the unusual printed form **`மனமாறிந்த கோவலன்`**. Do not silently regularize it.
-- Setting: **`கண்ணகி வீடு`**.
+- `காட்சி-16`.
+- Enlarged Tamil-source inspection confirms the decorative title **`மணிமேகலை பிறப்பு`**.
+- Setting: **`மாதவி வீடு`**.
 - No printed page number is visible.
-- Complete stage prose and Kannagi speech verified.
-- The opening stage prose describes the changed household, Kannagi's memories, the cow, bed, jasmine flowers, unlit lamp and doorway; Kovalan approaches, but Kannagi shuts the door and he turns away.
-- Preserve source forms and physical splits including `நகை நட்டு எதுமின்றி`, `ஆடம்பர நில / இல்லை`, `கோவல / னும்`, `பசவும்`, `பொல / பொல`, `கத / வண்டை`, `அதிர்ச்சி யடைந்து`, `கூடத் / தில்`, `திரு / வுருவப்`, `கூர்பார்க்க`, `தடையேன்`, `உறவு முறு / கின்றார்`, `வாருங் / கள்`, and `மாட்டீர் / களா`.
-- The bracketed stage prose crosses from the left column to the right and closes after Kannagi approaches Kovalan's portrait.
-- Large lower-right sculptural photograph/reproduction is uncaptioned; do not infer identity.
-- Scan 50 directly begins `காட்சி-16`, so scene 15 is one scan.
+- This is a one-scan scene; scan 51 directly begins `காட்சி-17`.
+- Complete two-column source text verified.
+- The scene covers the child's celebration, naming, the name `மணிமேகலை`, public giving/celebration and the subsequent elephant episode.
+- Preserve the source's physical **`நன்னி / ராட்டு`**; do not silently normalize it.
+- Preserve the naming-passage reading **`குறளியும்`** in `யாழையும் வெல்லுகின்ற குறளியும் வெல்லும்`.
+- Preserve source forms/punctuation including `மேலானகலை!-`, `மேகலை!!....`, `பாட்டு..`, `மதங்கொண்ட`, and `மறையவனைப்`.
+- The lower half contains a large uncaptioned line illustration of two women with an infant; do not assign identities from the image alone.
 
-Verification used the controlling Tamil scan at enlarged 400-ppi resolution with targeted crops/contrast variants. The published English translation was not used to settle the Tamil title or text.
+Verification used the controlling Tamil scan at enlarged 400/800-ppi resolution with targeted crops for the ornate title, naming passage and difficult readings. The published English translation was not used to settle scene-16 Tamil wording.
 
 ## Permanent future-translation terminology note — `அந்தணர்`
 
-The user explicitly directed that **Kalaignar's `அந்தணர்` is not to be treated as simply “Brahmin.”** This is now recorded permanently in `works/silappathikaram-nataka-kappiyam/metadata/english-translation-source.md`.
+The user explicitly directed that **Kalaignar's `அந்தணர்` is not to be treated as simply “Brahmin.”** This is recorded in `works/silappathikaram-nataka-kappiyam/metadata/english-translation-source.md`.
 
 Operational rule for future English work:
 
 - Do **not** automatically translate `அந்தணர்` as “Brahmin.”
 - Preserve the distinction among `பிராமண`, `பார்ப்பன`, and `அந்தணர்` in Kalaignar's wording.
 - Scene 14 visibly differentiates them: `பிராமண மாது`, `பிராமணமாது`, `பார்ப்பனமாது` for the woman, but `அந்தணர் ;`, `அந்த`, and `அந்தணனுக்கும்` for the man.
-- Decide an English rendering for `அந்தணர்` only in a dedicated terminology/translation review; if the published English witness uses “Brahmin,” record that as its translator's choice rather than automatically adopting it.
+- Scene 16 additionally uses the distinct term `மறையவனைப்`; preserve it as printed and do not flatten it into another label without dedicated terminology review.
+- Decide English renderings only in a dedicated terminology/translation review; if the published English witness uses “Brahmin,” record that as its translator's choice rather than automatically adopting it.
 
-Repository prose that had loosely described scene 14 as a “Brahmin-family episode” has been replaced in the page map/README with the actual source-term distinction.
+## Forward mapped pages
 
-## Forward mapped page
+### Scan 51 — `pages/0051.md`
 
-### Scan 50 — `pages/0050.md`
+- Begins `காட்சி-17`.
+- Setting: **`கண்ணகி வீடு`**.
+- Decorative title is visible but intentionally unresolved pending enlarged character-level verification.
+- Short two-column dramatic text in the upper portion.
+- Lower archaeological/excavation photograph has a printed caption whose exact wording remains to be verified.
+- No printed page number securely recorded.
+- Status: `needs-review`.
 
-- `காட்சி-16`.
-- Decorative title provisionally appears **`மணிமேகலை பிறப்பு`**; must be verified from enlargement before acceptance.
-- Setting: **`மாதவி வீடு`**.
-- No printed page number securely visible.
-- Two-column text above a large line illustration of two women with an infant.
-- Scan 51 begins `காட்சி-17`, so this is a one-scan scene.
+### Scan 52 — `pages/0052.md`
+
+- Full-page monochrome sculptural photograph/reproduction.
+- No new scene heading; structurally continues `காட்சி-17`.
+- No literary text/caption securely recorded yet; do not infer identity.
+- Scan 53 begins `காட்சி-18`, so scan 52 closes the physical extent of scene 17.
 - Status: `needs-review`.
 
 ## Working-unit decision
@@ -85,12 +93,13 @@ The user supplied `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf`, re
 
 ## Next activity
 
-Process **காட்சி-16 on scan 50**.
+Process **காட்சி-17 across scans 51–52 as one complete activity**.
 
-1. Verify the provisional ornate title `மணிமேகலை பிறப்பு` from enlarged/native source.
-2. Transcribe and verify the complete physical page: speaker labels, dialogue, stage directions, punctuation and physical word splits.
-3. Record pagination only if directly visible; do not infer one from sequence.
-4. Keep the large infant/women illustration distinct from dramatic text and do not infer identities beyond what the page itself supports.
-5. Promote scan 50 to `verified` only after direct comparison.
-6. Scan 51 already establishes the next boundary as `காட்சி-17`.
-7. Do not begin scene assembly or English translation yet.
+1. Resolve scan 51's ornate title from enlarged/native Tamil source.
+2. Transcribe and verify all dramatic text, speaker labels, stage directions, punctuation and physical line/word splits on scan 51.
+3. Transcribe the archaeological/excavation photograph caption exactly; do not infer beyond printed wording.
+4. Inspect scan 52 at enlargement for any faint caption, page marker or other printed text; preserve it as a pictorial page if none is present.
+5. Keep both image layers distinct from dramatic text and do not infer character/deity identities without printed support.
+6. Promote scans 51–52 independently to `verified` only after direct comparison.
+7. Scan 53 already establishes the next boundary as `காட்சி-18`.
+8. Do not begin scene assembly or English translation yet.
