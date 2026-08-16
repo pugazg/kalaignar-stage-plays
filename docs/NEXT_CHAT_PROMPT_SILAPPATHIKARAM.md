@@ -33,7 +33,9 @@ Before making any change, read these files completely and follow them exactly:
 9. `works/silappathikaram-nataka-kappiyam/VISUAL_TEXT_FIDELITY_CHECK.md`
 10. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PILOT_REVIEW.md`
 11. `works/silappathikaram-nataka-kappiyam/scenes/01.md`
-12. `works/silappathikaram-nataka-kappiyam/pages/0018.md`
+12. `works/silappathikaram-nataka-kappiyam/scenes/02.md`
+13. `works/silappathikaram-nataka-kappiyam/pages/0019.md`
+14. `works/silappathikaram-nataka-kappiyam/pages/0020.md`
 
 Use the GitHub connector and work directly in the existing repository.
 
@@ -55,10 +57,10 @@ Preserve spelling, punctuation, speaker labels, stage directions, repetition, un
 - Tamil page-level visual verification is complete.
 - Repository-wide Tamil transcription completion audit is **complete / PASS**.
 - Scene-assembly plan and mandatory visual-text fidelity protocol are active.
-- `காட்சி-1 / scan 17` has been assembled as `scenes/01.md`.
-- `scenes/01.md` is **assembly-reviewed** with `visual_text_fidelity: "passed"`.
-- `SCENE_ASSEMBLY_PILOT_REVIEW.md` records the accepted reusable assembly/fidelity procedure.
-- No correction to verified `pages/0017.md` was required during the pilot.
+- `காட்சி-1 / scan 17` → `scenes/01.md`: **assembly-reviewed**, `visual_text_fidelity: "passed"`.
+- `காட்சி-2 / scan 18` → `scenes/02.md`: **assembly-reviewed**, `visual_text_fidelity: "passed"`.
+- The scene-2 fidelity check found one verified-page spacing error and corrected `pages/0018.md` from `தனி மாடத்தைவிட்டு` to the source-visible `தனி மாடத்தை விட்டு`; the correction is explicitly documented in that page record.
+- **2 of 38 numbered scenes are now assembled and assembly-reviewed.**
 - English translation has not begun.
 
 Do not retranscribe or casually modify verified pages. Change a verified page only if direct source-pixel inspection during a fidelity check proves the existing reading wrong.
@@ -70,43 +72,45 @@ For each scene:
 - assemble only from verified page record(s);
 - begin at `status: "draft"` and `visual_text_fidelity: "pending"`;
 - join only demonstrably mechanical print line/column/page wrapping;
-- preserve exact source wording, punctuation, repetitions, speaker labels and stage directions;
+- preserve exact source wording, punctuation, repetitions, speaker labels, stage directions and source-supported spacing;
 - keep visual material/captions separate from literary text;
 - preserve scan provenance for multi-scan scenes;
 - inspect every contributing source scan directly at native/enlarged resolution;
 - compare every assembled character and mechanical join to source pixels;
+- for multi-scan scenes, inspect both sides of every source-page boundary;
 - compare the assembly again against all contributing verified page records;
 - promote to `status: "assembly-reviewed"` / `visual_text_fidelity: "passed"` only if both checks succeed;
 - if source pixels prove a verified page wrong, correct only the affected reading with explicit documentation before updating the scene.
 
-The scene-1 pilot specifically accepted mechanical joins such as `பொறிக்கப்பட்டிருக் / கிறது` → `பொறிக்கப்பட்டிருக்கிறது`, while source-supported forms/punctuation such as `தலை நகரான`, `அறிவிப்பு!....`, `ஆனை`, `விற்கொடி. நாட்டிய`, repeated `கொட்டுவோம்`, and `பூரிப்போடு!` were retained unchanged.
+## Exact next activity — காட்சி-3 / scans 19–20
 
-## Exact next activity — காட்சி-2 / scan 18
+Process **காட்சி-3 / scans 19–20 — `விழாவும் வினாவும்`, setting `சேரன் அரண்மனை`** as one complete scene-assembly + visual-text-fidelity activity.
 
-Process **காட்சி-2 / scan 18 — `செங்குட்டுவன் பிறந்தநாள் விழா`, setting `வஞ்சி`** as one combined scene-assembly + visual-text-fidelity activity.
+Inputs:
 
-Input:
-
-`works/silappathikaram-nataka-kappiyam/pages/0018.md`
+- `works/silappathikaram-nataka-kappiyam/pages/0019.md`
+- `works/silappathikaram-nataka-kappiyam/pages/0020.md`
 
 Output target:
 
-`works/silappathikaram-nataka-kappiyam/scenes/02.md`
+`works/silappathikaram-nataka-kappiyam/scenes/03.md`
 
 For this activity:
 
-1. Read `pages/0018.md` completely.
-2. Create `scenes/02.md` using the accepted front-matter convention, initially `status: "draft"`, `visual_text_fidelity: "pending"`.
-3. Preserve `காட்சி-2`, decorative title `செங்குட்டுவன் பிறந்தநாள் விழா`, explicit setting heading `வஞ்சி`, all stage directions, speaker labels, dialogue, punctuation, repetitions and unusual forms.
-4. Join only demonstrably mechanical printed wrapping; document important joins in assembly notes.
-5. Keep all illustrations/decorative artwork/captions as separate source-visual layers.
-6. Inspect the **actual attached scan 18** at native/enlarged resolution.
-7. Compare the complete assembled Tamil character-by-character against source pixels, including title, setting, directions, speakers, dialogue, punctuation, spacing and all joins.
-8. Confirm pagination/visual/library layers remain outside literary text.
-9. Compare the visually checked scene again against verified `pages/0018.md`.
-10. If source pixels prove `pages/0018.md` wrong anywhere, correct only that affected verified reading with explicit source-pixel documentation, then regenerate/recheck the scene.
-11. Set `visual_text_fidelity: "passed"` and `status: "assembly-reviewed"` only after both direct scan and page-record checks pass.
-12. Update README/handover records and identify **காட்சி-3 / scans 19–20** as the next complete scene assembly activity.
+1. Read both contributing verified page records completely.
+2. Create `scenes/03.md` using the accepted front-matter convention, initially `status: "draft"`, `visual_text_fidelity: "pending"`.
+3. Preserve `காட்சி-3`, decorative title `விழாவும் வினாவும்`, explicit setting heading `சேரன் அரண்மனை`, all stage directions, speaker labels, dialogue, punctuation, repetitions and unusual forms.
+4. Keep explicit source-scan boundary provenance in the scene file so contributions from scan 19 and scan 20 remain recoverable.
+5. Join only demonstrably mechanical printed wrapping. Do not silently join the scan-19 → scan-20 continuation until both physical sides have been inspected.
+6. Keep all illustrations/decorative artwork/captions as separate source-visual layers.
+7. Inspect the **actual attached scans 19 and 20** at native/enlarged resolution.
+8. Compare the complete assembled Tamil character-by-character against source pixels, including scene/title/setting, directions, speaker labels, dialogue, punctuation, source-supported spacing and all joins.
+9. Inspect both sides of the physical page boundary especially carefully for omissions, duplications or normalized wording.
+10. Confirm pagination/visual/library layers remain outside literary text.
+11. Compare the visually checked scene again against both verified page records.
+12. If source pixels prove either page record wrong anywhere, correct only that affected verified reading with explicit source-pixel documentation, then regenerate/recheck the scene.
+13. Set `visual_text_fidelity: "passed"` and `status: "assembly-reviewed"` only after both direct scan and page-record checks pass.
+14. Update README/handover records and identify the next complete scene assembly activity.
 
 ## Translation lock
 
@@ -120,15 +124,16 @@ When translation eventually begins, retain Kalaignar's language, rhetoric, caden
 
 Report:
 
-- scene assembled and exact source scan;
+- scene assembled and exact source scans;
 - direct visual-text fidelity result;
+- cross-page continuation/boundary verification result;
 - whether any verified page reading required correction and why;
 - important mechanical joins performed and visually verified;
 - visual layers separated;
 - files created/updated;
-- final `scenes/02.md` status and fidelity state;
+- final `scenes/03.md` status and fidelity state;
 - exact next complete scene assembly activity.
 
-Proceed now with **காட்சி-2 / scan 18 scene assembly + visual text fidelity**.
+Proceed now with **காட்சி-3 / scans 19–20 scene assembly + visual text fidelity**.
 
 ---
