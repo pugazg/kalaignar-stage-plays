@@ -28,6 +28,7 @@ Before continuing, read completely:
 6. `works/silappathikaram-nataka-kappiyam/indexes/page-map.md`
 7. `works/silappathikaram-nataka-kappiyam/audit.md`
 8. `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PLAN.md`
+9. `works/silappathikaram-nataka-kappiyam/VISUAL_TEXT_FIDELITY_CHECK.md`
 
 ## Current verified checkpoint
 
@@ -37,6 +38,7 @@ Before continuing, read completely:
 - The post-scene closing tableau on scan 88 is also archived.
 - **Tamil page-level visual verification is complete for the supplied source.**
 - **Tamil transcription completion audit / scene-assembly readiness review is complete and passed.**
+- A mandatory **visual text fidelity protocol** now governs every assembled scene.
 - Scene assembly has **not yet started**.
 - Previously verified page records must not be restarted, retranscribed or casually modified.
 - Any change to a verified reading requires direct source-pixel evidence and explicit documentation.
@@ -50,6 +52,10 @@ Audit record:
 Assembly plan:
 
 `works/silappathikaram-nataka-kappiyam/SCENE_ASSEMBLY_PLAN.md`
+
+Visual-text fidelity protocol:
+
+`works/silappathikaram-nataka-kappiyam/VISUAL_TEXT_FIDELITY_CHECK.md`
 
 The audit establishes:
 
@@ -87,7 +93,7 @@ A later circular library/accession stamp containing handwritten `164596` obscure
 
 ## Assembly phase rules
 
-Assembly is a new derivative archival layer; verified page records remain controlling.
+Assembly is a new derivative archival layer; verified page records remain controlling for construction and the actual scan remains controlling for the mandatory visual fidelity gate.
 
 Planned output:
 
@@ -111,7 +117,11 @@ Rules:
 - do not insert printed page numbers into literary text;
 - do not repair anomalous printed pagination;
 - do not reconstruct library-stamp-obscured text;
-- every assembled scene begins at `draft` and requires assembly-level review before it is considered ready for global review.
+- every assembled scene begins at `draft` with `visual_text_fidelity: "pending"`;
+- every assembled scene must then be compared **directly against the actual source scan pixels** under `VISUAL_TEXT_FIDELITY_CHECK.md`;
+- a scene may become `assembly-reviewed` only after `visual_text_fidelity: "passed"` and a comparison against all contributing verified page records also passes.
+
+The visual fidelity pass must explicitly verify scene/title text, setting/internal headings, speaker labels, dialogue, stage directions, punctuation, repetitions, source-significant spacing, all mechanical joins, printed textual separators/captions and separation of non-literary marks/visual artwork.
 
 ## Translation terminology lock
 
@@ -126,19 +136,24 @@ Permanent instruction:
 
 The published English translation remains a secondary comparison witness only and must never be used to alter the verified Tamil silently.
 
-## Exact next activity — scene assembly pilot
+## Exact next activity — scene assembly + visual text fidelity pilot
 
 Do **not** begin English translation.
 
-Assemble **காட்சி-1 / scan 17** as the pilot scene file:
+Process **காட்சி-1 / scan 17** as the pilot scene file **and perform the visual text fidelity check in the same activity**:
 
 - verified page source: `works/silappathikaram-nataka-kappiyam/pages/0017.md`;
 - output target: `works/silappathikaram-nataka-kappiyam/scenes/01.md`;
 - decorative title: **`வஞ்சி மூதூரில் முரசறைதல்`**;
-- no separate printed setting heading is present, so `setting: null` should be used rather than inventing one from the opening stage direction;
+- no separate printed setting heading is present, so `setting: null` must be used rather than inventing one from the opening stage direction;
 - the architectural/drummer heading artwork remains a separate visual layer;
-- assemble at status `draft`;
-- immediately perform an assembly-level comparison against `pages/0017.md` and document whether the pilot file format is accepted before moving to scene 2.
+- create the assembly first at `status: "draft"`, `visual_text_fidelity: "pending"`;
+- inspect the **actual scan 17** at native/enlarged resolution and compare the complete assembled scene character-by-character to the pixels;
+- recheck scene number/title, opening stage direction, speaker labels, dialogue, punctuation, ellipses/dashes/brackets, repetitions, source-significant spacing and every mechanical line join;
+- then compare the assembled text against `pages/0017.md` to catch assembly-only omissions/duplications;
+- set `visual_text_fidelity: "passed"` and `status: "assembly-reviewed"` only if both checks pass;
+- if source pixels prove an existing page-record reading wrong, correct only the affected page reading and document the correction explicitly;
+- do not proceed to scene 2 until the pilot file format and fidelity procedure are accepted.
 
 ## Phase state
 
@@ -149,12 +164,12 @@ Completed:
 - detailed verification of scenes 1–38;
 - final closing-tableau source-layer separation;
 - Tamil transcription completion audit;
-- scene-assembly readiness plan.
+- scene-assembly readiness plan;
+- visual-text fidelity review protocol.
 
 Next:
 
-- scene-1 assembly pilot;
-- assembly review;
-- scenes 2–38 + closing tableau assembly;
+- scene-1 assembly + visual-text fidelity pilot;
+- scenes 2–38 + closing tableau assembly with the same mandatory fidelity gate;
 - global Tamil consistency/source review;
 - only then, if directed, English translation and translation review.
