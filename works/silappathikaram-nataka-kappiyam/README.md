@@ -9,21 +9,22 @@ The supplied Tamil scan is the controlling source. The PDF itself is not committ
 - Source length: **88 scans**.
 - Scans **1–88 are visually verified** at page-record level.
 - Page-level verification covers **காட்சி-1 through காட்சி-38** plus the scan-88 closing tableau.
-- Tamil transcription completion audit: **PASS**.
+- Tamil transcription completion audit: **PASS** — see `audit.md`.
 - Scene-assembly readiness plan: complete — see `SCENE_ASSEMBLY_PLAN.md`.
-- Direct visual-text fidelity protocol: mandatory — see `VISUAL_TEXT_FIDELITY_CHECK.md`.
+- Direct visual-text fidelity protocol: complete across the assembled corpus — see `VISUAL_TEXT_FIDELITY_CHECK.md`.
 - Numbered-scene assembly: **COMPLETE**.
 - `காட்சி-1` through `காட்சி-38`: **assembly-reviewed**, `visual_text_fidelity: passed`.
 - Separate `scenes/closing-tableau.md`: **assembly-reviewed**, `visual_text_fidelity: passed`.
 - **38 of 38 numbered scenes plus the separate closing tableau are assembled and fidelity-reviewed.**
-- Exact next phase: **global Tamil consistency/source review** across all assembled Tamil outputs.
-- English translation: **not started** and remains locked until the global Tamil review is completed unless the user explicitly changes phase.
+- Global Tamil consistency/source review: **PASS** — see `GLOBAL_TAMIL_REVIEW.md`.
+- Tamil archival/assembly/global-review gates: **COMPLETE**.
+- English translation: **not started**; the translation gate is now open as a separate phase.
 
-## Controlling assembly/source rules
+## Controlling source rules
 
-Verified `pages/NNNN.md` records are the immediate assembly source, while the Tamil scan controls direct fidelity. Do not silently modernize, normalize, repair, reconstruct or improve Kalaignar's text. Preserve source-supported spelling, punctuation, spacing, repetition, speaker labels, stage directions, unusual grammar and terminology. Join only demonstrably mechanical line/column/page wrapping. Keep illustrations, photographs, printed captions, page numbers, stamps and handwriting separate from the literary layer.
+Verified `pages/NNNN.md` records remain the archival transcription layer, while the supplied Tamil scan remains controlling authority whenever a Tamil reading is questioned. Do not silently modernize, normalize, repair, reconstruct or improve Kalaignar's text. Preserve source-supported spelling, punctuation, spacing, repetition, speaker labels, stage directions, unusual grammar and terminology. Keep illustrations, photographs, printed captions, page numbers, stamps and handwriting separate from the literary layer.
 
-A verified page record may be changed only when direct source pixels prove the existing reading wrong, and every such correction must be documented.
+A verified Tamil page record may be changed only when direct source pixels prove the existing reading wrong, with explicit documentation. English translation must never retroactively alter the Tamil archive.
 
 ## Final Tamil assembly iteration — காட்சி-37, காட்சி-38 and closing tableau
 
@@ -35,7 +36,6 @@ A verified page record may be changed only when direct source pixels prove the e
 - Weapon/shield motifs around the decorative title remain visual-only.
 - The left→right continuation `உன்னை` → `இகழ்ந்தார்கள்!` was checked directly.
 - Protected source forms/punctuation include `காணப்புல்லன்`, `கேட்டறியாக் கசடன்`, `மண்டுக`, `தீவர்களாம்`, `சோழனு பாண்டியனு`, `பகைவனுக`, `சுடற்ற புலவனே`, `ஆசைத்தம்பி`, `கல்வாணரே`, `வளங்குறையாச்`, `நாகாக்கத்`, `தும்பிவாடி`, `தோரணங்கற்பட்டு`, `கிழித் தெறியப்படலாம்!`, `இகழ்ந்தார்கள்!....அன்ன`, and final `புறப்படுங்கள்!’`.
-- No verified page-record correction required.
 
 ### காட்சி-38 — scan 88
 
@@ -48,34 +48,50 @@ A verified page record may be changed only when direct source pixels prove the e
 - Physical `கனக— / விஜயா` is mechanically assembled as `கனக—விஜயா` while preserving the em dash.
 - Protected source forms/punctuation include `காஷாய`, `ரிஷிகளைப்`, `மகானாய் மாறுவது!`, `வட நாட்டிலே நடத்தியபோர்`, `பதினெட்டே நாழிகையில்`, `அது உங்களை மன்னிக்கட்டும்.`, `முப்பத்திரண்டு`, `வில்லவா ;`, and `இப்போது தூக்கு கல்!`.
 - Earlier pixel-proven page readings remain protected: opening direction `நடைபெற்ற`; king's line `அது உங்களை மன்னிக்கட்டும்.`.
-- No new verified page-record correction required.
 
 ### Post-scene closing tableau — scan 88
 
-- `scenes/closing-tableau.md` is a separate assembled output after the three centred `*` marks; it is **not** scene 39 and is not silently folded into scene 38.
+- `scenes/closing-tableau.md` is separate after the three centred `*` marks; it is **not** scene 39.
 - Printed headings: `வஞ்சிமூதூரில்` and `கண்ணகி சிலை நாட்டு விழா`.
 - A later circular library/accession stamp containing handwritten `164596` obscures the leading characters of two publication lines.
-- Explicit obstruction markers remain before source-visible `ங்குட்டுவன்` and `ங்கோவடிகள்`; the hidden characters are **not reconstructed** from context, another edition, memory or the published English translation.
-- Additional later handwriting/accession notation remains outside Kalaignar's publication text.
-- Direct visual-text fidelity passed; no new page-record correction required.
+- Explicit obstruction markers remain before source-visible `ங்குட்டுவன்` and `ங்கோவடிகள்`; hidden characters are **not reconstructed** from context, another edition, memory or the published English translation.
 
-## Translation terminology lock
+## Global Tamil review result
 
-Kalaignar's `அந்தணர்` must **not** automatically be translated as “Brahmin.” Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and related source terms. The published English edition remains a secondary witness only.
+`GLOBAL_TAMIL_REVIEW.md` records the completed corpus-level review.
 
-## Exact next work — global Tamil consistency/source review
+Result: **PASS**.
 
-Review **all assembled Tamil outputs**: `scenes/01.md` through `scenes/38.md` plus `scenes/closing-tableau.md`.
+The review confirmed:
 
-The review must:
+- all 38 numbered scene files plus `closing-tableau.md` exist with completed assembly/fidelity statuses;
+- scene numbers, titles, settings and source-scan extents agree with the assembly manifest;
+- all multi-scan scene provenance and previously verified mechanical page/column joins remain protected;
+- prior pixel-proven corrections did not regress;
+- speaker-label variants, stage-direction anomalies, punctuation/repetitions and known unmatched brackets remain source-faithful;
+- captions, pictorial-only scans, decorative title artwork, pagination anomalies and accession/library layers remain separate from dramatic text;
+- scan 88's stamp-obscured leading characters remain explicitly unresolved;
+- no new Tamil literary/page-record or scene-text correction was required.
 
-- confirm all 38 numbered scene files plus the separate tableau exist with `status: "assembly-reviewed"` and `visual_text_fidelity: "passed"`;
-- verify scene numbers, titles, settings/internal headings and `source_scan_pages` against `SCENE_ASSEMBLY_PLAN.md`, `indexes/page-map.md` and verified page records;
-- audit all multi-scan and cross-column mechanical joins for accidental wording/spacing/punctuation changes;
-- verify speaker-label variants, stage directions, quotations, ellipses/dashes/brackets and deliberate repetitions remain source-faithful;
-- inventory and protect all printed captions, pictorial-only scans, decorative title artwork, pagination anomalies, unmatched brackets and library/accession obstructions;
-- specifically preserve scan 88's unresolved stamp-obscured leading characters without reconstruction;
-- perform targeted source-pixel reinspection whenever any inconsistency is found; do not silently resolve conflicts from literary expectation;
-- produce a repository review report recording PASS/issues/corrections before any English translation begins.
+One documentation drift was corrected: `indexes/page-map.md` had retained an obsolete instruction to begin the scene-1 assembly pilot after assembly had already completed.
 
-Do not begin English translation yet.
+## Translation terminology and style lock
+
+When English translation begins:
+
+- translate from the **verified assembled Tamil**, not OCR or a modern edition;
+- preserve Kalaignar's rhetorical force, cadence, wit, repetition, dramatic timing and political/literary language;
+- use the published English volume only as a labelled secondary comparison witness;
+- do not alter verified Tamil to fit an English wording.
+
+Kalaignar's `அந்தணர்` must **not** automatically be translated as “Brahmin.” Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and related source terms pending dedicated terminology review.
+
+## Exact next work — English translation preparation and pilot
+
+1. Create a work-specific English translation protocol that explicitly preserves Kalaignar's voice, rhetoric, repetitions, dramatic timing and source-specific terminology.
+2. Create a terminology register, including the permanent `அந்தணர்` distinction and other recurring culturally/politically loaded terms before flattening them into English.
+3. Create the `translations/en/` structure and translation-review tracking.
+4. Translate **காட்சி-1 / `scenes/01.md`** as the English pilot from the verified assembled Tamil.
+5. Review that pilot against the Tamil source and approved translation protocol before scaling to later scene batches.
+
+The Tamil archive is now protected as the controlling source layer for all future translation work.
