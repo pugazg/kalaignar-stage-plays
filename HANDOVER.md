@@ -19,26 +19,27 @@ Source facts: 88 scans; scan 17 begins `காட்சி-1`; scan 88 visibly c
 
 ## Current verification checkpoint
 
-Scans **1–52 are fully verified**, including the complete front matter/prefaces and **காட்சி-1 through காட்சி-17**.
+Scans **1–54 are fully verified**, including the complete front matter/prefaces and **காட்சி-1 through காட்சி-18**.
 
-## Newly completed activity — காட்சி-17, scans 51–52
+## Newly completed activity — காட்சி-18, scans 53–54
 
-### Scan 51 — `pages/0051.md`
+### Scan 53 — `pages/0053.md`
 
-- `காட்சி-17`.
-- Decorative title verified from enlarged Tamil source as **`மாசறு பொன்மகிழ்வு`**.
-- Setting: **`கண்ணகி வீடு`**.
-- Complete short two-column dramatic text verified.
-- Preserve source punctuation and abbreviations including `தேவந்தி`, `கண்`, `தேவ`, `அவரை !`, `தமிழரல்லவா ?...`, `மாதவி!... மாதவி!!...`, and `பாக்கியசாலி!!....`.
-- Exact lower photograph caption: **`“பூம்புகார்” அகழ்வாராய்ச்சியில் / கிடைத்த பெளத்தப் பள்ளி`**.
-- No printed page number visible.
+- `காட்சி-18`.
+- Decorative title verified from enlarged Tamil source as **`இந்திர விழா-இருமனைகளில்`**.
+- Printed page **`37`** visibly present.
+- Multi-location festival sequence with printed internal headings `மாதவி வீடு` and `கண்ணகி வீடு`.
+- Complete two-column text verified directly against enlarged source.
+- The final stage prose physically continues onto scan 54 and is not editorially completed in scan 53.
 
-### Scan 52 — `pages/0052.md`
+### Scan 54 — `pages/0054.md`
 
-- Full-page monochrome sculptural photograph/reproduction.
-- No visible literary text, caption, scene heading or printed page number after enlarged inspection.
-- Do not infer the figure's identity.
-- Scan 53 directly begins `காட்சி-18`; therefore scan 52 closes scene 17.
+- Continues and closes scene 18.
+- Completes Kannagi's stage sequence and contains printed internal headings **`கடற்கரை`** and **`மாதவி வீட்டுப் பள்ளியறை`**.
+- Records the completion of the twenty-eight-day Indra festival and the Madhavi–Kovalan preparations for the dawn seashore / `கானல்வரி` sequence.
+- No printed page number is inferred.
+- Small dark circular bottom-centre illustration/decorative element is uncaptioned.
+- Scan 55 directly begins `காட்சி-19`.
 
 ## Permanent future-translation terminology note
 
@@ -48,10 +49,14 @@ Do **not** automatically translate Kalaignar's `அந்தணர்` as “Bra
 
 Detailed verification proceeds by **one complete scene per activity where practical**, with one independent archival record per physical scan.
 
+## Forward boundary
+
+Direct inspection establishes **காட்சி-19 spans scans 55–58**. Scan **59** begins `காட்சி-20`.
+
 ## Published English translation witness
 
 The supplied published English volume remains a secondary future collation witness only. Do not use it to silently alter Tamil readings or solve stylized Tamil headings by translation inference.
 
 ## Next activity
 
-Begin **காட்சி-18 at scan 53**. Scan 53 visibly carries printed page **37**. First inspect forward until the next `காட்சி-` heading to determine scene 18's complete physical extent, then verify the whole scene in one activity. Do not begin scene assembly or English translation yet.
+Process **காட்சி-19 across scans 55–58** as one complete scene. Resolve its ornate title from enlarged Tamil source and verify every page, speaker label, stage direction, physical break and illustration/caption before promotion. Do not begin scene assembly or English translation yet.
