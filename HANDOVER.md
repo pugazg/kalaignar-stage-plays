@@ -23,8 +23,9 @@ Before continuing read completely:
 9. `translations/en/README.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
 11. `translations/en/PILOT_REVIEW.md`
-12. `translations/en/02_REVIEW.md` through `translations/en/05_REVIEW.md`
-13. the verified Tamil scenes currently being translated.
+12. `translations/en/02_REVIEW.md` through `translations/en/08_REVIEW.md`
+13. completed English `translations/en/01.md` through `translations/en/08.md`
+14. the verified Tamil scenes currently being translated.
 
 ## Permanent Tamil-source rules
 
@@ -49,52 +50,58 @@ Translation phase is active.
 
 Completed and individually reviewed:
 
-- scenes 1–5: **PASS / `translation-reviewed`**.
-- English progress: **5/38 numbered scenes**.
-- no published English witness used for scenes 1–5.
+- scenes **1–8**: **PASS / `translation-reviewed`**.
+- English progress: **8/38 numbered scenes**.
+- no published English witness used for scenes 1–8.
 
-### Accepted translation progression
+Completed translation stages:
 
-- Scene 1 established public-oratory cadence, slogans, repetition and Tamil historical identity.
-- Scene 2 established intimate dialogue, flirtation, humour, kinship language and scepticism toward divination.
-- Scene 3 established the Kural-based challenge to fate, `விதி / மதி`, the old-epic/new-epic argument and explicit creative human agency.
-- Scene 4 established renunciation, family grief, the `fate / reason` axis, Tamil-land/Tamilakam distinction and the satire on the defeated soothsayer.
-- Scene 5 established `மலைவாழ் தமிழர்களே` as explicit Tamil peoplehood, Tamil-land abundance, the shared Chera–Chola–Pandya historical frame and the deliberate creation of the Kannagi epic.
-
-The first controlled multi-scene batch, scenes 3–5, **PASSED**.
+- scenes 1–2: two-register pilot — PASS;
+- scenes 3–5: controlled batch — PASS;
+- scenes 6–8: controlled batch — PASS.
 
 ## Kalaignar-language / Dravidian-movement relation rule
 
-The translation must retain Kalaignar's rhetorical force, cadence, wit, repetition, dramatic timing, emotional escalation and political/literary language.
+The English must retain Kalaignar's rhetorical force, cadence, wit, repetition, dramatic timing, emotional escalation and political/literary language.
 
-Relate Dravidian movement concepts only when source wording or Kalaignar's dramatic framing supports the connection. Relevant lenses include Tamil linguistic-cultural self-respect, Tamilakam consciousness, dignity/self-respect, human agency against fatalism, justice, anti-hierarchical reasoning, women's agency and historical Tamil identity.
+Relate Dravidian movement concepts only when source wording or Kalaignar's dramatic framing supports the connection. Relevant lenses include Tamil linguistic-cultural self-respect, Tamilakam consciousness, human agency against fatalism, dignity, justice, anti-hierarchical reasoning, women's agency and historical Tamil identity.
 
 **Do not insert those concepts into translated dialogue if the Tamil does not state them.** Use a separately labelled `Dravidian movement resonance — interpretive note` when useful.
 
-Scenes 3–4 provide a particularly strong source-supported rationalist/human-agency axis. Scene 5 shifts toward inclusive Tamil peoplehood, three-dynasty historical consciousness and literary recovery.
+Scenes 6–8 add these accepted patterns:
+
+- scene 6: Tamil-centred maritime cosmopolitanism, `ancient Tamil named Indran`, and Tamil/other-language metaphor;
+- scene 7: women's consent/dignity, critique of price-based marriage choice, and `Tamilakam's worth`;
+- scene 8: companionate marital dignity and careful non-polemical treatment of the ritual-marriage quotation.
 
 ## Permanent terminology lock
 
-`அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவன்`, and related terms through contextual terminology review.
+`அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன்`, and related terms through contextual terminology review.
 
-This discipline now explicitly includes `பார்ப்பார்`. Scene 8 contains `மாமுது பார்ப்பார்...`; do not translate it automatically as `Brahmin`. Resolve the occurrence from immediate literary/ritual context and record the decision in `TRANSLATION_TERMINOLOGY.md` before scene 8 is marked reviewed.
+Scene 8 establishes an occurrence-level precedent only:
 
-`குறும்பாடு` in scene 5 is retained as `kurumpaadu` pending reliable lexical evidence rather than guessed into a zoological equivalent.
+- `மாமுது பார்ப்பார்...` → `venerable ritual officiants` in that specific ritual context;
+- `மறைவழி` → `the way of the sacred lore`;
+- `தீவலம்` → `circling the fire`.
+
+Do **not** generalize `பார்ப்பார் = ritual officiant` to later occurrences automatically.
+
+Other active terminology decisions include `Muthamizh / iyal / isai / koothu`, `pann`, `thalaikkol`, `kalanju`, `swayamvaram`, and retained `kurumpaadu` pending reliable lexical evidence.
 
 The published English edition, if later consulted, is a secondary comparison witness only.
 
-## Exact next activity — controlled batch scenes 6–8
+## Exact next activity — controlled batch scenes 9–11
 
 Translate and individually review:
 
-- Scene 6 — `பூம்புகார்ப் பொற்றொடி`;
-- Scene 7 — `கலைக்கரசி மாதவி`;
-- Scene 8 — `கண்ணகி இல்லறம்`.
+- Scene 9 — `பிரிவினை தந்த பேதை`;
+- Scene 10 — `கலையரசி கண்ட உவகை`;
+- Scene 11 — `கற்பரசியின் கலக்கம்`.
 
 Special attention:
 
-- scene 6: Puhar/Tamil maritime geography, Sattanar narration, foreigners and love imagery;
-- scene 7: court performance, humour, sexuality/marriage-choice rhetoric and social status;
-- scene 8: intimate marital dialogue plus mandatory occurrence-level review of `பார்ப்பார்`.
+- scene 9: `ஊடல்`, separation, Rome trade, Tamil wealth/language imagery, repeated lyric similes, and Vasanthamalai's invitation to Madhavi;
+- scene 10: Madhavi's dance as emotional speech, repeated `ஆடுகிறாள்.`, artistic despair, erotic attachment, `மயக்குகின்ற மாதர் வழி வந்தவள்` social stigma, and art/sorrow/Tamilakam rhetoric;
+- scene 11: Kannagi's concealment, Devandhi's Sita/Rama/Surpanakha comparison, and Kannagi's refusal to insult Madhavi.
 
 Each scene must independently pass line-by-line coverage, semantic fidelity, Kalaignar-voice, terminology, stage timing and Dravidian-context separation before promotion to `translation-reviewed`.
