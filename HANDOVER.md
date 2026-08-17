@@ -4,11 +4,17 @@
 
 `pugazg/kalaignar-stage-plays` on `main`.
 
-Active completed work: `works/silappathikaram-nataka-kappiyam/`
+Completed controlling-Tamil work: `works/silappathikaram-nataka-kappiyam/`
 
-Controlling Tamil source: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` — supplied externally and **not committed**.
+Registered one-act-play work entities:
 
-## Mandatory startup for any future phase
+- `works/anarkali/`
+- `works/cheran-senguttuvan/`
+- `works/socrates/`
+
+Controlling Tamil source for Silappathikaram: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` — supplied externally and **not committed**.
+
+## Mandatory startup for any future Silappathikaram phase
 
 Read completely:
 
@@ -25,8 +31,9 @@ Read completely:
 11. `translations/en/TRANSLATION_REVIEW.md`
 12. `translations/en/FINAL_ENGLISH_CONSISTENCY_REVIEW.md`
 13. `translations/en/RELEASE_REPORT.md`
+14. `translations/en/PUBLISHED_WITNESS_COMPARISON.md` when doing secondary-witness analysis
 
-## Completed Tamil state
+## Completed Silappathikaram Tamil state
 
 - **88/88 scans** visually verified at page-record level.
 - Tamil transcription completion audit: **PASS**.
@@ -44,7 +51,7 @@ Direct source-pixel reinspection corrected three earlier Tamil readings in `page
 
 These are source corrections, not normalization. Do not revert them.
 
-## Completed English state
+## Completed Silappathikaram English state
 
 - Scenes **1–38**: `translation-reviewed` / **PASS**.
 - Separate unnumbered `கண்ணகி சிலை நாட்டு விழா` closing tableau: `translation-reviewed` / **PASS**.
@@ -52,6 +59,23 @@ These are source corrections, not normalization. Do not revert them.
 - English release report: **READY**.
 - English progress: **38/38 numbered scenes + closing tableau COMPLETE**.
 - No published English edition was used in drafting or reviewing the independent translation.
+
+## Published-English secondary witness
+
+The supplied 2009 *Tale of the Anklet and One Act Plays* witness is separately archived under `sources/`.
+
+Final witness status:
+
+- **163/163 physical scans accounted for**;
+- **163/163 visually reviewed**;
+- **109 passed**;
+- **54 corrected-and-passed**;
+- **0 unresolved**;
+- release status: **ARCHIVAL WITNESS READY**.
+
+The one-act plays are separated into dedicated witness folders and registered under `works/` for future controlling-Tamil ingestion.
+
+A secondary-witness comparison framework now exists at `works/silappathikaram-nataka-kappiyam/translations/en/PUBLISHED_WITNESS_COMPARISON.md`. It is analytical only and cannot override Tamil authority or the reviewed independent translation without a fresh Tamil-based review.
 
 ## Closing-tableau source obstruction
 
@@ -69,13 +93,12 @@ Keep Dravidian-movement interpretation separate from dialogue unless the source 
 
 ## Current project state
 
-The **Tamil archival phase and independent English translation phase are complete** for this supplied work.
+The repository's existing supplied sources have completed their intended archival/transcription/review phases.
 
-Any future activity is a new phase. Suitable next phases include:
+Remaining meaningful work is source-dependent or analytical:
 
-- publication packaging / reader-facing edition preparation;
-- export to web/EPUB/PDF or other publication formats;
-- metadata and navigation preparation;
-- a separately labelled secondary-witness comparison against the published English edition.
+- detailed secondary-witness comparison of the independent Silappathikaram translation against the verified 2009 published witness;
+- ingest controlling Tamil editions for `Anarkali`, `Cheran Senguttuvan`, and `Socrates` when supplied;
+- metadata/navigation and reader-facing repository organization that does not create downloadable EPUB/web editions.
 
-None of those future phases may silently overwrite verified Tamil readings or reviewed English translation decisions.
+No future phase may silently overwrite verified Tamil readings or reviewed English translation decisions.
