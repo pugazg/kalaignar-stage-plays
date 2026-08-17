@@ -1,6 +1,6 @@
 # Published-English Secondary-Witness Comparison
 
-Status: **in progress — scenes 1–9 complete**
+Status: **in progress — scenes 1–12 complete**
 
 ## Purpose
 
@@ -34,13 +34,14 @@ The independent translation has **38 numbered Tamil scenes plus an unnumbered cl
 
 ## Progress
 
-- numbered scenes compared: **9/38**
+- numbered scenes compared: **12/38**
 - Tamil rechecks triggered: **0**
 - independent translation reviews triggered: **0**
 - completed comparison batches:
   - scenes 1–3 — `published-witness-comparison/SCENES_01_03.md`
   - scenes 4–6 — `published-witness-comparison/SCENES_04_06.md`
   - scenes 7–9 — `published-witness-comparison/SCENES_07_09.md`
+  - scenes 10–12 — `published-witness-comparison/SCENES_10_12.md`
 
 ### Scenes 1–3 high-level finding
 
@@ -74,6 +75,16 @@ The third batch confirms that the published witness becomes particularly interve
 
 Scenes 7–9 were each closed with decision **`no action`**.
 
+### Scenes 10–12 high-level finding
+
+The fourth batch further demonstrates the secondary witness's tendency to smooth, compress and occasionally reinterpret Kalaignar's dramatic language.
+
+- scene 10: the independent translation preserves the repeated `She dances` cadence, the garment/pillar/creeper/bangle music sequence, the worm-in-fire image, `THADAAL!`, the sorrow-flood/art-wave metaphor, `Tamilakam, where joy blossoms and sways`, Madhavi's repeated `I want no...` escalation and the abrupt swoon ending. The published witness replaces much of this with smoother narrative, introduces `temple of Art / Deity Kovalan / devotee Madhavi`, adds a `tired leaf` image, removes the explicit Tamilakam reference, compresses Madhavi's renunciation sequence and changes the closing emotional action.
+- scene 11: the independent translation preserves the source's explicit `(இருபொருளில்)` double-meaning cue, the unlabeled continuation `Why ......what happened ?`, and the doubled fortune formulation about Madhavi. The published witness regularizes these features and removes the deliberate ambiguity of `It ended in defeat!...`.
+- scene 12: the independent translation preserves Kalaignar's extravagant image-chain—`kanthal`, the difficult `ser-kendai` source form, eyelid-casket/black-bee imagery, peacock-plume rain-cloud hair, honey spring and jackfruit segment—and retains the final mutual garlanding without interpretive narration. The published witness compresses the description, introduces `pearl of your teeth` and `drug in your speech`, and adds the narrator conclusion `Her conquest is complete.`
+
+Scenes 10–12 were each closed with decision **`no action`**.
+
 ## Comparison record format
 
 For each aligned unit, record:
@@ -95,4 +106,4 @@ The independent translation has already passed scene-level review and a final En
 
 ## Next comparison batch
 
-Proceed with **scenes 10–12**, aligning each against the verified Tamil and corresponding visually verified 2009 witness sections before recording any finding.
+Proceed with **scenes 13–15**, aligning each against the verified Tamil and corresponding visually verified 2009 witness sections before recording any finding.
