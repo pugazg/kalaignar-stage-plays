@@ -32,14 +32,14 @@ It must never silently override the controlling Tamil scan or the verified Tamil
 
 ## Progress
 
-- scans **1–90**: transcribed / structurally recorded;
-- numbered play sections **1–20** are complete in this witness;
-- section **21 — `Madhavi in Loneliness`** has begun on scan 90;
-- section 18, `Two Sides of the Festival`: scans 80–81, complete;
-- section 19, `Melody Breaks`: scans 82–86, complete;
-- section 20, `Penitent Return`: scans 87–89, complete;
-- section 21, `Madhavi in Loneliness`: scan 90, in progress;
+- scans **1–100**: transcribed / structurally recorded;
+- numbered play sections **1–25** are complete in this witness;
+- section 21, `Madhavi in Loneliness`: scans 90–91, complete;
+- section 22, `Journey to Mathurai`: scans 92–94, complete;
+- section 23, `Madhavi’s Renunciation`: scans 95–96, complete;
+- section 24, `Near Mathurai`: scans 97–98, complete;
+- section 25, `Nedunchezhian the Upright`: scans 99–100, complete;
 - scans **55 and 85** contain copy-specific Raj Bhavan Library markings recorded separately from the printed literary text;
-- next activity: continue from **scan 91**.
+- next activity: continue from **scan 101**.
 
 See `PROGRESS.md` for the detailed live checkpoint.
