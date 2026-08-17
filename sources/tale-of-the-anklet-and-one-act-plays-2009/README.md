@@ -32,14 +32,14 @@ It must never silently override the controlling Tamil scan or the verified Tamil
 
 ## Progress
 
-- scans **1–110**: transcribed / structurally recorded;
-- numbered play sections **1–29** are complete in this witness;
-- section 26, `Queen’s Ornament`: scans 101–102, complete;
-- section 27, `Nobility in Simplicity`: scans 103–104, complete;
-- section 28, `Theft on Record`: scans 105–106, complete;
-- section 29, `Message of the Single Anklet`: scans 107–109, complete;
-- section 30, `Anklet for Sale`: scan 110, in progress;
+- scans **1–120**: transcribed / structurally recorded;
+- numbered play sections **1–34** are complete in this witness;
+- section 30, `Anklet for Sale`: scans 110–111, complete;
+- section 31, `Sceptre Bends`: scans 112–113, complete;
+- section 32, `Virtue Mowed down`: scans 114–116, complete;
+- section 33, `“My Husband a Thief ?”`: scans 117–118, complete;
+- section 34, `Kannagi Swears Vengeance`: scans 119–120, complete;
 - scans **55 and 85** contain copy-specific Raj Bhavan Library markings recorded separately from the printed literary text;
-- next activity: continue from **scan 111**.
+- next activity: continue from **scan 121**.
 
 See `PROGRESS.md` for the detailed live checkpoint.
