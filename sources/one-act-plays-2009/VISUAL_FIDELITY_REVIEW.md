@@ -22,9 +22,9 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 ## Progress
 
 - total scans: **163**
-- visually reviewed: **10/163**
-- passed: **7**
-- corrected-and-passed: **3**
+- visually reviewed: **30/163**
+- passed: **22**
+- corrected-and-passed: **8**
 - unresolved: **0**
 
 ### Completed scans 001–010
@@ -42,11 +42,43 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 | 009 | passed | Prologue text and attribution checked. |
 | 010 | passed | Blank scan confirmed visually. |
 
+### Completed scans 011–020
+
+| Scan | Outcome | Review note |
+|---|---|---|
+| 011 | corrected-and-passed | Restored source typographic apostrophes in three Contents titles. |
+| 012 | corrected-and-passed | Restored source typographic apostrophes; retained `Virtue Mowed down` and `“My Husband a Thief ?”` exactly as printed. |
+| 013 | passed | One Act Plays contents page checked. |
+| 014 | passed | Blank scan confirmed. |
+| 015 | corrected-and-passed | Restored source plain hyphen before `he can handle it with astonishing ease`. |
+| 016 | passed | Introduction continuation checked against source pixels. |
+| 017 | corrected-and-passed | Corrected `viruttappā` and `Iṇaiyaṟṟa` to source forms. |
+| 018 | corrected-and-passed | Corrected later `Tirukkuṟaḷ` reference to source form. |
+| 019 | passed | Introduction conclusion, attribution and production marks checked. |
+| 020 | passed | Blank scan confirmed. |
+
+### Completed scans 021–030
+
+| Scan | Outcome | Review note |
+|---|---|---|
+| 021 | passed | Section-title page checked. |
+| 022 | passed | Blank scan confirmed. |
+| 023 | passed | Foreword opening checked line-by-line. |
+| 024 | passed | Foreword continuation, verse and dash usage checked. |
+| 025 | passed | Goldsmith/community passage and Kovalan–Kannagi rhetorical sequence checked. |
+| 026 | passed | `Why? How? --`, `Pathini`, verse lineation and ellipsis punctuation checked. |
+| 027 | passed | Foreword conclusion, date and attribution checked. |
+| 028 | passed | Blank scan confirmed. |
+| 029 | passed | Preface opening and Poompuhar/Cauveri place-name passage checked. |
+| 030 | passed | Historical names, quoted passage, Roman chronology and page-end continuation checked. |
+
+Detailed review notes for scans 021–030 are in `visual-review/SCANS_021_030.md`.
+
 ### Batch tracker
 
 - [x] 001–010
-- [ ] 011–020
-- [ ] 021–030
+- [x] 011–020
+- [x] 021–030
 - [ ] 031–040
 - [ ] 041–050
 - [ ] 051–060
