@@ -5,7 +5,7 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 ## Current checkpoint
 
 - total scan pages reported by file reader: **158**;
-- scans **1–50**: transcribed / structurally recorded;
+- scans **1–60**: transcribed / structurally recorded;
 - scans **10, 14, 20, 22, 28 and 36**: blank;
 - scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam, printed pages `xiii–xvii`;
 - scan **21**: section-title page `I — Tale of the Anklet`;
@@ -18,8 +18,12 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 - scans **42–44**: section 4, `Ilango’s Renunciation`, printed pages 8–10, complete;
 - scans **45–46**: section 5, `Birth of Anklet’s Tale`, printed pages 11–12, complete;
 - scans **47–50**: section 6, `Beauteous Pride of Poompuhar`, printed pages 13–16, complete;
-- current boundary: section 6 closes with Kovalan and Kannagi taking the Greek guest home after deciding to attend Madhavi’s dance programme in the Hall of Pearls;
-- next scan to process: **51**.
+- scans **51–54**: section 7, `Queen of Artists`, printed pages 17–20, complete;
+- scans **55–58**: section 8, `Kannagi in Wedded Bliss`, printed pages 21–24, complete;
+- scans **59–60**: section 9, `Parting Sparks Separation`, printed pages 25–26, in progress;
+- scan **55** includes copy-specific Raj Bhavan Library markings overlapping the page; these are recorded separately from publication text;
+- current boundary: scan 60 ends with Kannagi arriving at the doorway after Vasantamalai’s late-night appeal to Kovalan on Madhavi’s behalf;
+- next scan to process: **61**.
 
 ## Front-matter / opening structure encountered
 
