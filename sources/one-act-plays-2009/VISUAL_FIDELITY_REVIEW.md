@@ -22,14 +22,14 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 ## Progress
 
 - total scans: **163**
-- visually reviewed: **130/163**
-- passed: **87**
-- corrected-and-passed: **43**
+- visually reviewed: **140/163**
+- passed: **94**
+- corrected-and-passed: **46**
 - unresolved: **0**
 
 ## Completed batch records
 
-Detailed page-by-page review records are stored under `visual-review/` for the completed batches. The current completed boundary is physical scan **130**.
+Detailed page-by-page review records are stored under `visual-review/`. The current completed boundary is physical scan **140**.
 
 - 001–010 — complete
 - 011–020 — complete
@@ -44,21 +44,22 @@ Detailed page-by-page review records are stored under `visual-review/` for the c
 - 101–110 — complete; see `visual-review/SCANS_101_110.md`
 - 111–120 — complete; see `visual-review/SCANS_111_120.md`
 - 121–130 — complete; see `visual-review/SCANS_121_130.md`
+- 131–140 — complete; see `visual-review/SCANS_131_140.md`
 
-## Scans 121–130 summary
+## Scans 131–140 summary
 
 | Scan | Outcome | Review note |
 |---|---|---|
-| 121 | passed | `Volcano in Court` opening checked, including Kannagi’s entrance message, court transition, Karikalan reference and page-end continuation. |
-| 122 | passed | Poompuhar/Chola self-identification, threefold Tamilnad/Sangam rhetoric, Rome imagery, `tyrannous Sceptre`, `precipitate sentence`, and justice challenge checked. |
-| 123 | passed | Anklet ownership dispute, Assembly address and verse lineation checked; retained `Aryan hordes`, `sentence, of death`, and `Seniormost minister`. |
-| 124 | passed | Anklet-evidence logic checked throughout, including Korkai pearls versus rubies, `evenhanded justice`, source ellipses, and the Council/Elders challenge. |
-| 125 | corrected-and-passed | Restored omitted source word in `would he not have writhed`; retained source `worse then death`, four-dot `sun....`, `konru varugha` / `kondu varugha`, and final stage directions. |
-| 126 | corrected-and-passed | Restored source en dash in `killed Kovalan – all of them`; retained the distinct plain hyphen in `spark - the spark`, `Mathurai...`, and fire sequence. |
-| 127 | passed | `March to the North` opening checked, including Kanaka-Vijayas, Tamilnad rhetoric, rock/statue vow, Chera Capital Vanchi and northern names. |
-| 128 | passed | Ganga/Cauvery challenge, Chief Priest exchange, brother-kings passage, Valluvar/Sathanar/Ilango/Paranar catalogue, and `‘Victory or death’` checked. |
-| 129 | passed | `Mission Accomplished` opening checked, including Kuyilaluvam, saffron-robes disguise, `It is fact`, monks, and devas/asuras question. |
-| 130 | passed | 18 years/months/days/nazhigais sequence, source punctuation quirks, `Taminad`, 32 months, consecration tableau, Manimekalai ending and literal `* nazhigai` footnote checked. |
+| 131 | passed | `II One Act Plays` section-title page and visible `OAP - 9` production mark checked. |
+| 132 | passed | Blank page confirmed. |
+| 133 | passed | Preface checked line-by-line, including `pre-Independence India`, Periyar E.V.R’s social-reform reference, Dravidian-culture passage and attribution block. |
+| 134 | passed | Blank page confirmed. |
+| 135 | corrected-and-passed | Literary text matched; resolved Raj Bhavan Library stamp/date/postcode and handwritten accession/classification marks. |
+| 136 | passed | `Anarkali` Scene 2 opening checked throughout, retaining source punctuation and status/love exchange. |
+| 137 | corrected-and-passed | Restored source en dashes in `kingdom – in` and `Be it they, or you – or the gold...`; retained `Anar’s ‘ liberty to love ’`. |
+| 138 | passed | Scene 3 opening checked, including `zari (disco) flower`, `samanti`, status imagery and imperialism rhetoric. |
+| 139 | passed | Scene 3 conclusion and Scene 4 opening checked, including arrest, behind-curtain narration and entombment sequence. |
+| 140 | corrected-and-passed | Restored source `jasmines – mullai or malli?` and the double en-dash ending `(Saleem prepares to die. – – but his country did not need his death)`. |
 
 ## Batch tracker
 
@@ -75,7 +76,7 @@ Detailed page-by-page review records are stored under `visual-review/` for the c
 - [x] 101–110
 - [x] 111–120
 - [x] 121–130
-- [ ] 131–140
+- [x] 131–140
 - [ ] 141–150
 - [ ] 151–160
 - [ ] 161–163
