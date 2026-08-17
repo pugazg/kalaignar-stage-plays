@@ -22,9 +22,9 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 ## Progress
 
 - total scans: **163**
-- visually reviewed: **100/163**
-- passed: **62**
-- corrected-and-passed: **38**
+- visually reviewed: **110/163**
+- passed: **70**
+- corrected-and-passed: **40**
 - unresolved: **0**
 
 ### Completed scans 001–010
@@ -193,6 +193,23 @@ Detailed review notes for scans 081–090 are in `visual-review/SCANS_081_090.md
 
 Detailed review notes for scans 091–100 are in `visual-review/SCANS_091_100.md`.
 
+### Completed scans 101–110
+
+| Scan | Outcome | Review note |
+|---|---|---|
+| 101 | passed | `Queen’s Ornament` opening checked throughout, including `await for orders`, `hard in digestion!`, workshop scene break and page-end continuation. |
+| 102 | passed | Chief Goldsmith workshop continuation checked, including `mended quick`, `juvenile delinquent`, `royal metal`, and the officer abstracting the queen’s anklet. |
+| 103 | corrected-and-passed | Restored source stage-direction boundary in `They are our guests, Ayyai. [Introducing] Kovalan and Kannagi.` |
+| 104 | passed | Madhari arrival and Kaunthi Adigal farewell checked, including source ellipses and `[emphasising] she is your ward`. |
+| 105 | passed | `Theft on Record` opening checked; retained source `yet...`, `mend it ...`, `classroom—nor a military camp!`, and final comma after `written here,`. |
+| 106 | passed | Learning poem and anklet-loss report checked, including four-dot `sincere ....`, `undone...`, quoted `“Whom do you suspect of the felony?”`, and final spaced ellipsis. |
+| 107 | passed | `Message of the Single Anklet` opening checked line-by-line; retained mixed source ellipsis forms, `5000 kazhanjus of gold`, and repeated felony imagery. |
+| 108 | corrected-and-passed | Restored source `Brother, brother , . ,` and space before the question mark in `business is resumed ?`; remaining dialogue and directions matched. |
+| 109 | passed | Single-anklet farewell continuation checked, including `thought! . . .`, `effulgence`, `Is it not time that I trained myself?`, and folk-dance direction. |
+| 110 | passed | `Anklet for Sale` opening checked, including `prosperous-looking`, `marvellous`, rubies-in-the-anklet logic, spaced ellipses, `self-conscious`, and the Chief Goldsmith entrance. |
+
+Detailed review notes for scans 101–110 are in `visual-review/SCANS_101_110.md`.
+
 ### Batch tracker
 
 - [x] 001–010
@@ -205,7 +222,7 @@ Detailed review notes for scans 091–100 are in `visual-review/SCANS_091_100.md
 - [x] 071–080
 - [x] 081–090
 - [x] 091–100
-- [ ] 101–110
+- [x] 101–110
 - [ ] 111–120
 - [ ] 121–130
 - [ ] 131–140
