@@ -58,18 +58,19 @@ If a Tamil reading becomes doubtful during translation, return to the verified p
 | 36 | `தீயினில் திருநகர்` | `translation-reviewed` | PASS | No | Yes | Goldsmith self-implication, printed `★`, Koodal address, fire/vengeance imperative chain and final people/Pandya-realm statement passed. See `36_REVIEW.md`. |
 | 37 | `வடபுலப் படையெடுப்பு` | `translation-reviewed` | PASS | No | Yes | Source-pixel corrections completed first; Tamil roll-call, Ganga/Kaveri challenge, explicit `சுயமரியாதை`, martial cadence and repeated `தோற்றதில்லை` passed. See `37_REVIEW.md`. |
 | 38 | `கண்ணகி சிலைக்குக் கல்` | `translation-reviewed` | PASS | No | Yes | Kanaka-Vijayar satire, 18 years/months/days/`naazhigai`, Tamil-land forgiveness, statue-stone and final burden command passed. See `38_REVIEW.md`. |
-| closing tableau | `கண்ணகி சிலை நாட்டு விழா` | not started | pending | — | pending | Exact next controlled activity; preserve scan-88 obstruction/provenance. |
+| closing tableau | `கண்ணகி சிலை நாட்டு விழா` | `translation-reviewed` | PASS | No | Yes | Unnumbered memorial tableau; scan-88 obstruction preserved without reconstruction. See `closing-tableau_REVIEW.md`. |
 
-## Permanent controls after scenes 36–38
+## Permanent controls after completion
 
 - `அந்தணர்` is **not automatically `Brahmin`**; preserve `பிராமண / பார்ப்பன / பார்ப்பார் / அந்தணர் / மறையவர்` distinctions.
 - Preserve `Tamilakam` versus contextual `Tamil land`.
 - Translate quoted classical material independently from Kalaignar's printed Tamil unless a secondary witness is explicitly introduced and disclosed.
 - Do not modernize the royal-justice register into constitutional/legal boilerplate.
 - Preserve source-supported state violence, retaliatory rhetoric and martial rhetoric without softening or endorsing them.
-- Scene 37 is the first numbered scene in this late batch where **`சுயமரியாதை` itself is present in dialogue**; `self-respect` therefore belongs in the translation.
+- Scene 37 contains **`சுயமரியாதை` explicitly in dialogue**; `self-respect` therefore belongs in the translation.
 - Scene 37 translation-stage visual reinspection corrected three Tamil readings from the controlling scan: `தீவர்களாம்` → `தலைவர்களாம்`; `அன்ன நற்சோணையே` → `அன்னை நற்சோணையே`; `சுடற்ற புலவனே` → `ஈடற்ற புலவனே`.
 - Scene 38 retains `naazhigai` and source-visible `Kanaka-Vijayar`; no modern time conversion or geographic harmonization is introduced.
+- The closing tableau is not Scene 39. Its two stamp-obscured leading portions remain unresolved and must not be reconstructed from context or another edition.
 
 ## Batch progression
 
@@ -87,21 +88,18 @@ Completed translation stages:
 - scenes 27–29: controlled batch — PASS;
 - scenes 30–32: controlled batch — PASS;
 - scenes 33–35: controlled batch — PASS;
-- scenes 36–38: controlled batch — **PASS**.
+- scenes 36–38: controlled batch — PASS;
+- closing tableau: controlled translation/review — **PASS**.
 
-English progress: **38 / 38 numbered scenes**.
+English progress: **38 / 38 numbered scenes + closing tableau COMPLETE**.
 
-No published English edition has been used for scenes 1–38.
+No published English edition has been used for scenes 1–38 or the closing tableau.
 
-## Exact next controlled activity — closing tableau
+## Final English release gate
 
-Translate and individually review `scenes/closing-tableau.md` — `கண்ணகி சிலை நாட்டு விழா` — only after reading its verified Tamil record and scan-88 provenance carefully.
+- Individual translation reviews: **PASS**.
+- Closing-tableau review: **PASS**.
+- `FINAL_ENGLISH_CONSISTENCY_REVIEW.md`: **PASS**.
+- `RELEASE_REPORT.md`: **READY**.
 
-Special constraints:
-
-- the tableau is **not numbered scene 39**;
-- preserve the scan-88 library-stamp/obstruction uncertainty exactly as documented in the Tamil archival record;
-- do not reconstruct obscured leading characters from another edition;
-- retain Kalaignar's final memorial/festival rhetoric and any explicit Tamil/justice language;
-- create `translations/en/closing-tableau.md` plus a dedicated review record;
-- after it passes, run a final English consistency/release review across all numbered scenes and the closing tableau.
+The independently produced English translation phase for the supplied source is complete. Any future published-English comparison, publication packaging, export or formatting activity is a separate phase and must preserve the verified Tamil and reviewed English provenance.
