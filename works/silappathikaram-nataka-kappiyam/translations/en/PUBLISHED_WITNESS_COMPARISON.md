@@ -1,6 +1,6 @@
 # Published-English Secondary-Witness Comparison
 
-Status: **in progress — scenes 1–27 complete**
+Status: **in progress — scenes 1–30 complete**
 
 ## Purpose
 
@@ -39,7 +39,7 @@ Confirmed boundary mismatches now include:
 
 ## Progress
 
-- numbered scenes compared: **27/38**
+- numbered scenes compared: **30/38**
 - Tamil rechecks triggered: **0**
 - independent translation reviews triggered: **0**
 - completed comparison batches:
@@ -52,8 +52,9 @@ Confirmed boundary mismatches now include:
   - scenes 19–21 — `published-witness-comparison/SCENES_19_21.md`
   - scenes 22–24 — `published-witness-comparison/SCENES_22_24.md`
   - scenes 25–27 — `published-witness-comparison/SCENES_25_27.md`
+  - scenes 28–30 — `published-witness-comparison/SCENES_28_30.md`
 
-## High-level findings through scene 27
+## High-level findings through scene 30
 
 The comparison consistently confirms the released independent translation as the closer witness to verified Tamil wording, scene structure, repetition, technical vocabulary, social terminology and rhetorical force.
 
@@ -62,11 +63,11 @@ Recurring secondary-witness tendencies include:
 - smoothing or compressing Kalaignar's repetitions and image chains;
 - adding explanatory or narrator-like prose not present in the verified Tamil;
 - generalizing or removing explicit Tamil-identity formulations such as `Tamilakam`, `தமிழர்`, `தமிழச்சி`, `தமிழ் அறம்`, and `தமிழ் மறை`;
-- domesticating named literary/performance terms such as `Muthamizh`, `iyal`, `isai`, `koothu`, `yazh`, `Kaanal Vari`, `thalaikkol`, and `pann`;
+- domesticating named literary/performance terms such as `Muthamizh`, `iyal`, `isai`, `koothu`, `yazh`, `Kaanal Vari`, `thalaikkol`, `pann`, `oodal`, and `kuravai koothu`;
 - collapsing source distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, and `மறையவன் / மறையவர்`;
 - modernizing royal, legal or institutional dialogue into vocabulary not stated by the source;
-- occasionally introducing substantive narrative or semantic differences, including the scene-14 replacement of the verified **parrot-and-snake** episode with a **mongoose-and-cobra** story, scene 21's alteration of Chitrapathi's admission into a claim that Madhavi never loved Kovalan, and scene 23's alteration of Maasathuvan's `beloved daughter-in-law` to `beloved daughter`;
-- occasionally moving dramatic material across published section boundaries.
+- occasionally introducing substantive narrative, semantic or numerical differences, including the scene-14 replacement of the verified **parrot-and-snake** episode with a **mongoose-and-cobra** story, scene 21's alteration of Chitrapathi's admission into a claim that Madhavi never loved Kovalan, scene 23's alteration of Maasathuvan's `beloved daughter-in-law` to `beloved daughter`, and scene 29's **50,000 → 5,000 kalanju** change;
+- occasionally moving dramatic material across published section boundaries or omitting source scene openings.
 
 ### Scenes 25–27 high-level finding
 
@@ -75,6 +76,14 @@ Recurring secondary-witness tendencies include:
 - **scene 27:** the independent translation preserves `Aychiyar`, `Aayar people`, `milk-rice for the Jain ascetics`, Madhari's colloquial hospitality, and `She is now under your protection!`. The published witness removes the milk/Jain specificity, adds `Welcome to Mathurai`, `pious and hospitable`, `spick and span`, `plain living`, `noble thinking`, and converts Kavundhi's relational entrustment into the stronger quasi-legal `ward / personally responsible` formulation.
 
 Scenes 25–27 were each closed with decision **`no action`**.
+
+### Scenes 28–30 high-level finding
+
+- **scene 28:** the independent translation preserves the `puram` literary wordplay, `[oodal]`, `Tamil... is a breeze! It enters everywhere`, only the two learning-verse lines actually printed before the interruption, and the source's compact inquiry language. The published witness renames the section `Theft on Record`, calls the chamber a `Sanctum`, loses the `puram` wordplay, adds `password / coat of arms`, expands the classical quotation beyond the verified dramatic text, and introduces stronger procedural/psychological terms including `felony`, `culprit`, and a pensive/frowning king.
+- **scene 29:** the independent translation preserves the Pandya trade catalogue, **fifty thousand kalanju of gold**, wedding-procession rhetoric, `kanir, kanir`, domestic cooking/taamboolam texture, `kuravai koothu`, the long single-anklet conscience poem, `atom by atom`, jasmine/mango timing joke, and Kannagi's final entrustment to Madhari. The published witness gives the anklets as **5000 kazhanjus**, omits the trade catalogue, rewrites the wedding memory, generalizes `kuravai koothu` to `folk-dance`, sharply compresses the anklet's moral-poem sequence, and omits the jasmine/mango and Madhari-entrustment close.
+- **scene 30:** the independent translation preserves the complete opening in which the chief goldsmith questions all hundred goldsmiths, including repeated `Not us!`, the winged-anklet joke and `daylight robber`, before moving to Kovalan's street sale. The published witness omits that entire opening, flattens `Anklet, O Anklet!` to `Anklet for Sale`, removes colloquial `Adeyappa / Adededede`, expands the `house that once knew prosperity` aside, alters the two men's staging, and adds narrator inference that they understand the goldsmith's special gesture.
+
+Scenes 28–30 were each closed with decision **`no action`**. The scene-29 50,000/5,000 divergence does not trigger a Tamil recheck because the verified Tamil is clear.
 
 ## Comparison record format
 
@@ -93,8 +102,8 @@ For each aligned unit, record:
 
 The published witness remains analytically valuable as a historical English rendering, but it is not an authority for changing the verified Tamil or the independently reviewed English translation.
 
-No comparison through scene 27 has triggered a Tamil recheck or independent-translation re-review.
+No comparison through scene 30 has triggered a Tamil recheck or independent-translation re-review.
 
 ## Next comparison batch
 
-Proceed with **scenes 28–30**, aligning each against the verified Tamil and corresponding visually verified 2009 witness material before recording any finding.
+Proceed with **scenes 31–33**, aligning each against the verified Tamil and corresponding visually verified 2009 witness material before recording any finding.
