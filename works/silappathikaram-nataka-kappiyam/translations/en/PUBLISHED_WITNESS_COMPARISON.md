@@ -1,6 +1,6 @@
 # Published-English Secondary-Witness Comparison
 
-Status: **in progress — scenes 1–3 complete**
+Status: **in progress — scenes 1–6 complete**
 
 ## Purpose
 
@@ -34,11 +34,12 @@ The independent translation has **38 numbered Tamil scenes plus an unnumbered cl
 
 ## Progress
 
-- numbered scenes compared: **3/38**
+- numbered scenes compared: **6/38**
 - Tamil rechecks triggered: **0**
 - independent translation reviews triggered: **0**
 - completed comparison batches:
   - scenes 1–3 — `published-witness-comparison/SCENES_01_03.md`
+  - scenes 4–6 — `published-witness-comparison/SCENES_04_06.md`
 
 ### Scenes 1–3 high-level finding
 
@@ -51,6 +52,16 @@ Specific protected choices confirmed by comparison include:
 - scene 3: `Tamil aram`, the younger-brother proverb, Kural-based fate/reason opposition, ear/falsehood/truth wordplay, and repeated `dust` rhetoric.
 
 All three scenes were closed with decision **`no action`** after checking the verified Tamil.
+
+### Scenes 4–6 high-level finding
+
+The second batch reinforces the same pattern and identifies several stronger secondary-witness interventions.
+
+- scene 4: the independent version preserves the blunt `fate / reason` antithesis, the `elder brother with a mother's heart` image, the Himalayan bow-banner argument, `joyous Tamilakam`, `Kunavayir Kottam`, named social groups in the departure tableau, and the soothsayer's final livelihood/honour punchline. The published witness either paraphrases, generalizes or omits these elements.
+- scene 5: the independent version preserves `Tamil people of the hills`, the elephant-fight stage action, `wealth of the hills / wealth of mind` wordplay, the complete gift inventory, the Tamil-land acclamation, the hill people's uncertainty about Kannagi, and the Chera–Chola–Pandya `three crowned kings` literary frame. The published witness compresses or interprets much of this material.
+- scene 6: the independent version preserves `an ancient Tamil named Indran`, `festival of awakening`, `life-companion`, the Tamil/language metaphor without invented resolution, the `thatha = handsome man` joke, and `Muthamizh / iyal / isai / koothu`. The published witness supplies extended praise stanzas beyond the verified dramatic source, adds `It will be swept away`, changes the `thatha` joke to an Apollo gloss, and normalizes the Muthamizh taxonomy.
+
+Scenes 4–6 were each closed with decision **`no action`**.
 
 ## Comparison record format
 
@@ -73,4 +84,4 @@ The independent translation has already passed scene-level review and a final En
 
 ## Next comparison batch
 
-Proceed with **scenes 4–6**, aligning each against the verified Tamil and corresponding visually verified 2009 witness sections before recording any finding.
+Proceed with **scenes 7–9**, aligning each against the verified Tamil and corresponding visually verified 2009 witness sections before recording any finding.
