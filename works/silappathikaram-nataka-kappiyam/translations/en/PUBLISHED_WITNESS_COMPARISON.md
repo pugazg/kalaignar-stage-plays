@@ -1,6 +1,6 @@
 # Published-English Secondary-Witness Comparison
 
-Status: **comparison framework established**
+Status: **in progress — scenes 1–3 complete**
 
 ## Purpose
 
@@ -28,9 +28,29 @@ The published witness was not used in drafting or reviewing the independent tran
 - protect the permanent terminology distinctions, especially `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்`;
 - keep Dravidian-movement interpretation outside dialogue unless stated in the Tamil.
 
-## Witness mapping limitation
+## Witness mapping
 
-The independent translation is organized as **38 numbered Tamil scenes plus an unnumbered closing tableau**. The 2009 published witness is organized by its own English section structure across physical scans 1–130. The two structures must therefore be aligned by dramatic content and source sequence rather than assumed to have a one-to-one scene-number correspondence.
+The independent translation has **38 numbered Tamil scenes plus an unnumbered closing tableau**. The 2009 published witness also numbers its Silappathikaram dramatic sections 1–38, but section titles, segmentation details and translator-added stage prose differ. Alignment is therefore verified by dramatic content and source sequence rather than assumed from numbering alone.
+
+## Progress
+
+- numbered scenes compared: **3/38**
+- Tamil rechecks triggered: **0**
+- independent translation reviews triggered: **0**
+- completed comparison batches:
+  - scenes 1–3 — `published-witness-comparison/SCENES_01_03.md`
+
+### Scenes 1–3 high-level finding
+
+The first batch shows a consistent distinction between the two English approaches. The 2009 witness frequently expands stage description, introduces explanatory or interpretive language, and sometimes replaces Tamil repetition or lexical specificity with idiomatic English rhetoric. The independent translation more closely tracks verified Tamil wording, repetition, culturally loaded terms and dramatic economy.
+
+Specific protected choices confirmed by comparison include:
+
+- scene 1: `Tamilakam`, `Tamilakam, girdled by the sounding sea`, repeated drum-call, and `homeland of the people of refined Tamil`;
+- scene 2: Venmal's medicine specifically on her `lips`, Ilango's accusation of the soothsayer's `lies`, and compact affectionate family teasing;
+- scene 3: `Tamil aram`, the younger-brother proverb, Kural-based fate/reason opposition, ear/falsehood/truth wordplay, and repeated `dust` rhetoric.
+
+All three scenes were closed with decision **`no action`** after checking the verified Tamil.
 
 ## Comparison record format
 
@@ -45,12 +65,12 @@ For each aligned unit, record:
 - apparent omission/addition/restructuring in either English rendering;
 - decision: `no action`, `Tamil recheck required`, or `independent translation review required`.
 
-## Baseline findings already established by source processing
+## Baseline findings
 
-The published witness visibly uses a distinct translator/editorial register and preserves many edition-specific English forms and roughness. Its section titles and segmentation do not duplicate the repository's Tamil-scene organization. It must therefore remain analytically separate from the canonical independent translation.
+The published witness visibly uses a distinct translator/editorial register and preserves many edition-specific English forms and roughness. It remains analytically separate from the canonical independent translation.
 
-The repository's independent translation has already passed scene-level review and a final English consistency review, with no published English edition used during those gates. Accordingly, comparison findings are advisory unless independently confirmed against Tamil.
+The independent translation has already passed scene-level review and a final English consistency review, with no published English edition used during those gates. Comparison findings are therefore advisory unless independently confirmed against Tamil.
 
-## Next comparison work
+## Next comparison batch
 
-The framework is ready for detailed aligned-unit comparison. Each future comparison batch should cite the relevant verified Tamil scene, independent translation and visually verified published-witness page records, and should update this file with findings without silently editing released translation text.
+Proceed with **scenes 4–6**, aligning each against the verified Tamil and corresponding visually verified 2009 witness sections before recording any finding.
