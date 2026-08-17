@@ -22,14 +22,14 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 ## Progress
 
 - total scans: **163**
-- visually reviewed: **150/163**
-- passed: **101**
-- corrected-and-passed: **49**
+- visually reviewed: **160/163**
+- passed: **108**
+- corrected-and-passed: **52**
 - unresolved: **0**
 
 ## Completed batch records
 
-Detailed page-by-page review records are stored under `visual-review/`. The current completed boundary is physical scan **150**.
+Detailed page-by-page review records are stored under `visual-review/`. The current completed boundary is physical scan **160**.
 
 - 001–010 — complete
 - 011–020 — complete
@@ -46,21 +46,22 @@ Detailed page-by-page review records are stored under `visual-review/`. The curr
 - 121–130 — complete; see `visual-review/SCANS_121_130.md`
 - 131–140 — complete; see `visual-review/SCANS_131_140.md`
 - 141–150 — complete; see `visual-review/SCANS_141_150.md`
+- 151–160 — complete; see `visual-review/SCANS_151_160.md`
 
-## Scans 141–150 summary
+## Scans 151–160 summary
 
 | Scan | Outcome | Review note |
 |---|---|---|
-| 141 | corrected-and-passed | `2 Cheran Senguttuvan` title page and Scene 1 opening checked; corrected page metadata to `not visibly numbered`; literary text retained. |
-| 142 | passed | Tamil Poet/Kanakan/Vicayan exchange checked, including `Tamil! Pure Tamil!`, Ganges/Cauvery verse and Cheran Senguttuvan declaration. |
-| 143 | passed | Scene 2 opening and valour poem checked, including `Purananuru`, source quotation spacing and lineation. |
-| 144 | passed | Poem continuation checked, retaining source dash forms, `War! War! War!`, `Soldiers came –said`, and `Alas!`. |
-| 145 | passed | War-death lament checked, including `“ What was lost is lost.`, `For my glorious country.” –`, and child/grandfather lines. |
-| 146 | passed | Mother/son war-honour passage and Poet interruption checked, retaining `No worries ---`, `Yes! Yes !`, and `weeny brained`. |
-| 147 | corrected-and-passed | Literary text matched; added visible production mark `OAP - 10`; Tamil/self-respect oratory retained as printed. |
-| 148 | passed | Scene 3 conclusion and Scene 4 opening checked, retaining source `garderns`, self-respect rhetoric, `Kuyilaluvam .`, and unusual ellipsis spacing. |
-| 149 | passed | Cheran Senguttuvan conclusion checked, including eighteen `nali`, `Senkuttuvan’s`, thirty-two months and `Tamils---`. |
-| 150 | corrected-and-passed | `3 Socrates` title/introduction checked; corrected page metadata to `not visibly numbered`; retained `stale Nazism`, `Cokkiratar`, and source punctuation. |
+| 151 | passed | Scene 1 opening, Socrates description and reason/rationality speech checked. |
+| 152 | passed | Xanthippe/Crito domestic sequence, `Know yourself!` and lightning/thunder/rain joke checked. |
+| 153 | passed | Conspiracy scene and market-place rationality speech checked. |
+| 154 | passed | Arrest and five-hundred-member Court of Law setup checked. |
+| 155 | passed | Meletus/Socrates examination and three-forces rhetoric checked. |
+| 156 | passed | Rationalism defence and punishment-options exchange checked. |
+| 157 | passed | Olympia proposal, shell vote and 281/220 death verdict checked. |
+| 158 | corrected-and-passed | Removed false note claiming the source PDF ended at scan 158; raw controlling PDF continues. |
+| 159 | corrected-and-passed | Removed editorial continuation label from `Publication text`; raw source pixels checked through poison procedure, `Gnothi seauton`, and burial/cremation passage. |
+| 160 | corrected-and-passed | Removed editorial conclusion label from `Publication text`; raw source pixels checked through farewell, poison, Asclepius debt and death. |
 
 ## Batch tracker
 
@@ -79,7 +80,7 @@ Detailed page-by-page review records are stored under `visual-review/`. The curr
 - [x] 121–130
 - [x] 131–140
 - [x] 141–150
-- [ ] 151–160
+- [x] 151–160
 - [ ] 161–163
 
 No scan is considered visually verified merely because it was transcribed previously.
