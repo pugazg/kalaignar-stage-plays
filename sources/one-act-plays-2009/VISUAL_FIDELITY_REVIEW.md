@@ -22,9 +22,9 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 ## Progress
 
 - total scans: **163**
-- visually reviewed: **70/163**
-- passed: **38**
-- corrected-and-passed: **32**
+- visually reviewed: **80/163**
+- passed: **47**
+- corrected-and-passed: **33**
 - unresolved: **0**
 
 ### Completed scans 001–010
@@ -142,6 +142,23 @@ Detailed review notes for scans 051–060 are in `visual-review/SCANS_051_060.md
 
 Detailed review notes for scans 061–070 are in `visual-review/SCANS_061_070.md`.
 
+### Completed scans 071–080
+
+| Scan | Outcome | Review note |
+|---|---|---|
+| 071 | passed | Kannagi/Manaykan wealth-and-love exchange, source ellipses, apostrophes, `raging fire!`, and closing parental confrontation checked. |
+| 072 | passed | `Madhavi’s Magnanimity` title, pregnancy/giddiness exchange, apostrophes, and sneeze setup checked. |
+| 073 | corrected-and-passed | Restored source spaced dash in `Now I see – women are apt...`; checked `Ma..dha...vi!`, `- ‘madha’*`, literal `*Madha = mother.` footnote, and `brahmin-woman`. |
+| 074 | passed | Mongoose/cobra account and Kovalan’s reasoning checked, including source `It was only afterwards did I discover`, `brahmin-lady`, and `Brahmin`. |
+| 075 | passed | Madhavi’s argument that Kovalan must return to Kannagi, child-in-womb passage, and spaced ellipsis `bidding . . . There` checked. |
+| 076 | passed | `Return Thwarted` and complete door/portrait sequence checked, including `the oil is being drained, drop by drop` and `humble self`. |
+| 077 | passed | `Birth of Manimekalai`, naming speech, capitalized `Art supreme`, alms-giving, `brahmin`, and elephant action checked. |
+| 078 | passed | Completion of elephant episode checked, including `Passers-by`, `helter-skelter`, and `hero’s valour`. |
+| 079 | passed | `Valour Seen through Tears` and entire Devanti/Kannagi exchange checked, including `valorous`. |
+| 080 | passed | `Two Sides of the Festival` opening checked, including `Indra Festival`, `Karikalan`, Manimekalai/Kannagi comparison, scene break, and darkened-house continuation. |
+
+Detailed review notes for scans 071–080 are in `visual-review/SCANS_071_080.md`.
+
 ### Batch tracker
 
 - [x] 001–010
@@ -151,7 +168,7 @@ Detailed review notes for scans 061–070 are in `visual-review/SCANS_061_070.md
 - [x] 041–050
 - [x] 051–060
 - [x] 061–070
-- [ ] 071–080
+- [x] 071–080
 - [ ] 081–090
 - [ ] 091–100
 - [ ] 101–110
