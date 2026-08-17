@@ -46,7 +46,7 @@ This is the living register for recurring culturally, historically, politically 
 | `புலிக்கொடி` | preferred | `tiger-banner` | Scene 18 Chola/festival emblem. |
 | `மீனக் கொடி / மீனகொடி` | preferred historical | `fish-banner` / `Pandya fish-banner` | Scenes 24–25; preserve Pandya emblem. |
 | `சேரர் / சோழர் / பாண்டியர்` | locked | `Chera / Chola / Pandya` | Stable dynastic forms. |
-| `மூவேந்தர் / முடியுடை மூவேந்தர்` | preferred | `the three crowned kings` | Shared Chera–Chola–Pandya frame. |
+| `மூவேந்தர் / முடியுடை மூவேந்தர்` | preferred | `the three crowned kings` | Shared Chera–Chola–Pandya frame; scene 35 rhetorical accumulation. |
 | `வஞ்சி` | locked | `Vanchi` | Do not substitute speculative modern place-name. |
 | `நெடுஞ் சேரலாதர்` | locked | `Nedun Cheralathan` | Stable name. |
 | `செங்குட்டுவன்` | locked | `Senguttuvan` | Stable name. |
@@ -60,20 +60,22 @@ This is the living register for recurring culturally, historically, politically 
 | `அடைக்கலம்` | contextual relational | `protection / refuge / shelter` | Scenes 27 and 29 use entrustment/protection, not automatic theological language. |
 | `தரணி` | contextual | `land / soil / earth` | Rhetoric decides. |
 | `எழுச்சி` | contextual | `awakening / upsurge / rising` | Scene 6 `எழுச்சி விழா` → `festival of awakening`. |
-| `அறம்` | contextual | `virtue / justice / ethical order` or retain `aram` | Scene 3 `தமிழ் அறம்` retains `Tamil aram`; scene 32 public accumulation retains `aram`. |
-| `நீதி` | preferred | `justice` | Distinguish from `அறம்`; scenes 25, 28, 31–32 foreground justice. |
-| `நேர்மை` | contextual ethical | `rectitude / uprightness / integrity` | Scene 32 → `rectitude` in the rhetorical accumulation. |
+| `அறம்` | contextual | `virtue / justice / ethical order` or retain `aram` | Scene 3 `தமிழ் அறம்` retains `Tamil aram`; scenes 32 and 35 public rhetoric retains `aram`. |
+| `நீதி` | preferred | `justice` | Distinguish from `அறம்`; scenes 25, 28, 31–32 and 35 foreground justice. |
+| `நேர்மை` | contextual ethical | `rectitude / uprightness / integrity` | Scenes 32 and 35 → `rectitude` in rhetorical accumulations. |
+| `நியாயம்` | contextual ethical/legal-rhetorical | `fairness / justice` | Scene 35 → `fairness` to keep `நீதி / நேர்மை / நியாயம்` distinct as `justice / rectitude / fairness`. |
 | `நீதி வழுவா` | contextual ethical epithet | `unswerving in justice` | Scene 25 title. |
-| `செங்கோல்` | contextual political-ethical | `sceptre`; explain righteous/just rule where needed | Scene 31 title `வளைந்தது செங்கோல்` → `The Sceptre Bent`; do not reduce to a neutral staff. |
-| `மானம்` | contextual | `honour / dignity / self-respect` | Do not auto-import movement-specific sense. Scenes 18 and 20 use `honour`. |
+| `செங்கோல்` | contextual political-ethical | `sceptre`; explain righteous/just rule where needed | Scene 31 title `வளைந்தது செங்கோல்` → `The Sceptre Bent`; scene 34 retains `bent sceptre`; do not reduce to a neutral staff. |
+| `கொடுங்கோல்` | contextual political-ethical | `tyrannous sceptre` | Scene 35; preserve deliberate contrast with righteous-rule `செங்கோல்`. |
+| `மானம்` | contextual | `honour / dignity / self-respect` | Do not auto-import movement-specific sense. Scenes 18 and 20 use `honour`; scene 35 also uses `honour`. |
 | `இனம்` | contextual | `people / community / race / kind` | Politically sensitive; immediate rhetoric controls. |
 | `நாடு` | contextual | `land / country / realm / kingdom` | Ancient polity ≠ automatically modern nation. |
 | `காதம்` | retained historical unit | `kaadham` | Scene 22; no speculative modern conversion. Preserve `ஆறு ஐந்து / ஆறைந்து முப்பது` arithmetic wordplay. |
 | `விழுப்புண்` | preferred | `wound(s) of valour` | Scene 2. |
-| `கொலு மண்டபம்` | preferred | `royal audience hall` | Courtly setting. |
+| `கொலு மண்டபம்` | preferred | `royal audience hall` | Courtly setting; scene 35 continues this convention. |
 | `பட்டி மண்டபம்` | retained/contextual cultural | `Patti mandapam` | Scene 18 festival architecture. |
-| `மண்டபம்` | retained/contextual architectural | `mandapam` when a narrower English building term is not warranted | Scenes 30 and 32. |
-| `நீதி மன்றம்` | contextual royal-justice | `hall of justice` | Scenes 28, 30–31; avoid falsely modern courtroom vocabulary. |
+| `மண்டபம்` | retained/contextual architectural | `mandapam` when a narrower English building term is not warranted | Scenes 30, 32 and 34. |
+| `நீதி மன்றம்` | contextual royal-justice | `hall of justice` | Scenes 28, 30–31 and 35; avoid falsely modern courtroom vocabulary. |
 | `காவியம்` | contextual literary | `kaviyam` when the repeated Tamil literary term itself matters; otherwise `epic/literary work` by context | Scene 25 uses `kaviyam` throughout the authorship dispute. |
 | `புறத்துறை / புறப்பாடல்` | contextual literary | retain `puram` in literary wordplay | Scene 28 `puram-theme poem / puram-song`; do not replace with an unrelated modern genre. |
 | `உற்றுழி உதவியும் / உறுபொருள் கொடுத்தும்` | scene-specific quotation | `Giving help when hardship comes, / and giving substantial wealth` | Scene 28; translated independently from Kalaignar's printed Tamil. |
@@ -82,7 +84,7 @@ This is the living register for recurring culturally, historically, politically 
 | `விதி` | preferred | `fate` | Scenes 3–4 explicit fate/reason axis. |
 | `மதி` | contextual | `reason / intellect` | Scenes 3–4 → `reason`; do not auto-expand to `rationalism`. |
 | `ஊழ் / ஊழ்வினை` | contextual | usually `fate`; `karmic fate` only if required | Do not over-explain doctrine. |
-| `அறிவு` | contextual | `intelligence / reason / understanding` | Scene 20 loss of `அறிவு` → loss of reason. |
+| `அறிவு` | contextual | `intelligence / reason / understanding` | Scene 20 loss of `அறிவு` → loss of reason; scene 35 `அறிவுக் கண்` preserves reason imagery. |
 | `அறைகூவல்` | preferred | `challenge` | Scene 3. |
 | `அடிகள் / அடிகளார்` | contextual | retain `Adigal` when functioning as established reverential title | Do not flatten automatically to `monk`. |
 | `ஆலோலப் பாடல்` | preferred | `aalolam song` | Scene 5. |
@@ -97,14 +99,15 @@ This is the living register for recurring culturally, historically, politically 
 | `பொற்றொடி` | contextual | `golden-bangled maiden/woman` | Scene 6 title. |
 | `வாழ்க்கைத் துணைவி` | preferred | `life-companion` when relational force is foregrounded | Scene 6. |
 | `வாழ்க்கைத் துணைநலம்` | contextual relational | `cherished companion of my life` | Scene 22 Kovalan's introduction of Kannagi. |
-| `முத்தமிழ்` | locked cultural | `Muthamizh` | Preserve named threefold Tamil taxonomy. |
+| `முத்தமிழ்` | locked cultural | `Muthamizh` | Preserve named threefold Tamil taxonomy; scene 35 includes it in a deliberate threefold accumulation. |
 | `இயல் / இசை / கூத்து` | contextual cultural | retain `iyal / isai / koothu` where taxonomy/wordplay matters | Scene 6. |
-| `குரவைக் கூத்து` | retained cultural/performance | `kuravai koothu` | Scene 29; do not flatten to generic `dance`. |
+| `குரவைக் கூத்து` | retained cultural/performance | `kuravai koothu` | Scenes 29 and 33; do not flatten to generic `dance`. |
+| `அபிநயம்` | retained cultural/performance | `abhinaya` | Scene 33; preserve expressive performance/stage vocabulary. |
 | `பண்` | contextual cultural | retain `pann` when technical | Scene 7. |
 | `தலைக்கோல்` | preferred cultural | `thalaikkol` + source explanation | Scene 7. |
 | `கழஞ்சு` | locked historical | `kalanju` | Do not convert to speculative modern value. Scene 29 includes `fifty thousand kalanju of gold`. |
 | `சுயம்வரம்` | preferred cultural | `swayamvaram` | Scene 7. |
-| `அத்தான்` | contextual intimate | usually `my dear` in Kannagi's spousal address | Preserve intimacy, not literal kinship. |
+| `அத்தான்` | contextual intimate | usually `my dear` in Kannagi's spousal address | Preserve intimacy, not literal kinship; scene 34 requires the repeated vocative to remain repeated. |
 | `இல்லறம்` | contextual | `married life / householder life / relational phrasing` | Scene 8. |
 | `ஊடல்` | preferred cultural | retain `oodal` on first use | Scenes 9, 19 and 28. |
 | `கானல் வரி` | retained cultural/literary | `Kaanal Vari` | Scenes 18–19; translate quoted passages independently from verified Tamil. |
@@ -144,6 +147,19 @@ This is the living register for recurring culturally, historically, politically 
 | `பத்தரை மாற்றுத் தங்கம்` | contextual assay metaphor | `gold of ten-and-a-half assay` | Scene 32; preserve traditional purity metaphor without modern-karat conversion. |
 | `மகர யாழ்` | retained cultural/instrument | `makara-yazh` | Scene 32; preserve named Tamil instrument. |
 | `அநீதி, அணுவிலோர் பாதி` | contextual rhetorical | `even half an atom of injustice` | Scene 32; preserve Kalaignar's microscopic hyperbole. |
+| `கிழிஞ்சல்` | retained / unresolved domestic | retain `kizhichal` in `kizhichal lime` | Scene 34 farewell memory; do not guess a preparation term absent secure source support. |
+| `மதுரை மூதார்` | retained / unresolved source form | `Madurai moothaar` | Scene 34 verified source prints this twice; do not silently emend to another Tamil form. |
+| `பழிக்குப்பழி / பழிக்குப் பழி` | contextual retaliatory rhetoric | `Vengeance for vengeance` / context-sensitive equivalent | Scene 34 doubled vow; preserve as Kannagi's character speech, not translator doctrine. |
+| `காவியுக நீருங்` | scene-specific source-fused form | `tears streaming from kavi-flower eyes` | Scene 35; translate immediate image without altering verified Tamil. |
+| `மும்முரசு / முச்சங்கம் / முக்கொடி / முத்தமிழ் / மூவேந்தர்` | scene-specific rhetorical chain | `three murasus / three Sangams / three banners / Muthamizh / three crowned kings` | Scene 35; preserve the full accumulation and repeated `மு-` architecture as far as English permits. |
+| `மூளியாக்க` | scene-specific rhetorical | `maimed` | Scene 35 charge that the crowned king has damaged the inherited glory of the three-kings lineage. |
+| `யாகாவாராயினும் நாகாக்க...` | scene-specific quotation | `Whatever else you may fail to guard, guard your tongue...` | Scene 35; translated independently from Kalaignar's printed Tamil, not a published Kural English. |
+| `நல்லான் / வல்லான்` | scene-specific antithesis | `good man / powerful man` | Scene 35; preserve anti-hierarchical rhetorical contrast. |
+| `பெருங்கேண்மைப் பெரியோர்கள்` | contextual / source-specific | `the great elders` | Scene 35; avoid assigning a modern institutional identity such as `jury`. |
+| `முத்துப் பரல்கள் / மாணிக்கப் பரல்கள்` | contextual material/evidentiary | `pearl pellets / ruby pellets` | Scene 35 anklet proof; keep exact material distinction and breaking sequence. |
+| `தமிழ் நாட்டு மறைநூல் திருக்குறள்` | scene-specific literary-ethical | `the Tirukkural, the sacred-lore text of Tamil land` | Scene 35; preserve Kalaignar's Tamil ethical framing. |
+| `“கொன்று வருக அவனை!” / “கொன்று வருக அவன்”` | locked scene-specific source distinction | preserve `அவனை / அவன்`; English uses deliberately awkward `him / he` contrast | Scene 35 king's confession; do not normalize the printed grammatical/morphological distinction. |
+| `நியாயத்தின் பிழம்பு` | contextual fiery rhetoric | `the blazing core of justice` | Scene 35 final curse; preserve fire image without adding mystical causation. |
 
 ## Established scene-level decisions
 
@@ -177,11 +193,14 @@ This is the living register for recurring culturally, historically, politically 
 - Scene 30: `சிலம்போ சிலம்பு` → `Anklet, O Anklet!`; preserve `Not us! ..Not us!...`, `daylight robber`, colloquial exclamations and the chief goldsmith's recognition without giving his knowledge to Kovalan.
 - Scene 31: `வளைந்தது செங்கோல்` → `The Sceptre Bent`; preserve `the land is greater than you and me`, `petty anklet / I myself have become petty`, unmatched bracket and the unsoftened order `Go at once, kill him, and return!`.
 - Scene 32: preserve `T h i e f`, Mother Tamil, `heart steeped in Tamil`, `justice—rectitude—aram—love—Tamil`, `half an atom of injustice`, `gold of ten-and-a-half assay`, `Appeyo!`, `makara-yazh`, the repeated thief-lament and the final sword-blow without invented procedure.
+- Scene 33: retain `Kuravai Koothu`, `abhinaya`, `at the top of her voice`, the accusation-versus-truth distinction, remembered farewell, repeated `a thief? / No!` denial and source-timed lamp/fire sequence; do not make the fire fate or omen.
+- Scene 34: preserve every major `அத்தான்` as repeated `my dear`, the full domestic farewell memory, `heart-thief / no thief` reversal, `bent sceptre`, source `மதுரை மூதார்` as `Madurai moothaar`, doubled `Vengeance for vengeance`, blood-tilak and remaining-anklet action.
+- Scene 35: preserve Poompuhar/Chola justice history, the `மு-` political-cultural accumulation, Roman imagery, `tyrannous sceptre`, `justice / rectitude / fairness`, independently translated Kural quotation, pearl-versus-ruby anklet proof, Tamil/Tirukkural ethical rhetoric, exact `அவனை / அவன்` distinction and final city-destruction curse without modern legal or movement-language insertion.
 
 ## Dravidian-movement relation rule
 
 Preserve source-supported concepts that later carry Dravidian movement force — Tamil linguistic-cultural self-respect, Tamilakam consciousness, dignity, justice, anti-hierarchical argument, rational human agency, women's agency and Tamil historical consciousness — **without inserting movement vocabulary into dialogue when it is absent from the Tamil source**.
 
-Through scene 32, the strongest recurring patterns are: fate versus reason/human agency; Tamil peoplehood/history; Tamil-centred maritime cosmopolitanism; language as love and collective worth; women's choice and dignity; artistic achievement against inherited stigma; Tamil custom and collective identity; practical ethical responsibility grounded in `தமிழ் மறை`; intimate `தமிழ்ச் சுவை`; literary-cultural naming; explicit Tamil identity; Tamil historical festival framing; Madhavi's questioning of unequal chastity expectations; exposure of birth-status/sexual stigma as dramatic violence; Kannagi's refusal to define herself through hostility toward Madhavi; women's material agency; Madhavi's rejection of household profit logic; Kavundhi's conscience/accountability ethics; Maasathuvan's dignity-conferring acceptance of Madhavi; Tirukkural-based endurance and human agency; Tamil/Sangam cultural stewardship joined to justice and labour; skilled craft and official wrongdoing as human action; Aychiyar/Aayar hospitality without imposed caste modernization; Tamil as an everyday `breeze`; Kannagi's economic use of the anklet and Kovalan's conscience-personification; the bending of the `sengol` through arbitrary command; and Kovalan's explicit appeal to Tamil, justice, rectitude, aram, love and accountable kingship before state violence.
+Through scene 35, the strongest recurring patterns are: fate versus reason/human agency; Tamil peoplehood/history; Tamil-centred maritime cosmopolitanism; language as love and collective worth; women's choice and dignity; artistic achievement against inherited stigma; Tamil custom and collective identity; practical ethical responsibility grounded in `தமிழ் மறை`; intimate `தமிழ்ச் சுவை`; literary-cultural naming; explicit Tamil identity; Tamil historical festival framing; Madhavi's questioning of unequal chastity expectations; exposure of birth-status/sexual stigma as dramatic violence; Kannagi's refusal to define herself through hostility toward Madhavi; women's material agency; Madhavi's rejection of household profit logic; Kavundhi's conscience/accountability ethics; Maasathuvan's dignity-conferring acceptance of Madhavi; Tirukkural-based endurance and human agency; Tamil/Sangam cultural stewardship joined to justice and labour; skilled craft and official wrongdoing as human action; Aychiyar/Aayar hospitality without imposed caste modernization; Tamil as an everyday `breeze`; Kannagi's economic use of the anklet and Kovalan's conscience-personification; the bending of the `sengol` through arbitrary command; Kovalan's explicit appeal to Tamil, justice, rectitude, aram, love and accountable kingship before state violence; Kannagi's immediate refusal of the imposed thief-label; her transformation from intimate grief to public accusation; and her scene-35 use of Tamil historical memory, anti-hierarchical justice reasoning, material evidence and women's agency to make royal power answer for its own act.
 
 These relations belong in separately labelled interpretive notes unless the source itself uses later movement terminology.
