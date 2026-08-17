@@ -1,6 +1,6 @@
 # Visual Fidelity Review — 2009 published English witness
 
-Status: **complete**
+Status: **PASS — complete**
 
 Controlling source: supplied **163-page** scan of *Tale of the Anklet and One Act Plays*. Raw-file inspection with `pdfinfo` confirms `Pages: 163`; the conversation page renderer's 158-page limit is not treated as source authority.
 
@@ -23,9 +23,10 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 
 - total scans: **163**
 - visually reviewed: **163/163**
-- passed: **110**
-- corrected-and-passed: **53**
+- passed: **109**
+- corrected-and-passed: **54**
 - unresolved: **0**
+- overall visual text fidelity: **PASS**
 
 The full 163-page witness has therefore completed visual-text fidelity review.
 
@@ -55,9 +56,9 @@ Detailed page-by-page review records are stored under `visual-review/`.
 
 | Scan | Outcome | Review note |
 |---|---|---|
-| 161 | corrected-and-passed | `About the Project Makers` checked line-by-line; restored source en dashes in three places while retaining names, titles and publication forms exactly. |
+| 161 | corrected-and-passed | `About the Project Makers` checked line-by-line; restored the source's plain hyphens in `Coimbatore - named`, `edification - conceived`, and `editorial team - the former`. |
 | 162 | passed | Inside-cover / production-design page visually confirmed; no readable publication text. |
-| 163 | passed | Back cover checked, including Kalaignar photograph, biographical text, `Rs 300`, ISBN/barcode, Bharathiar University emblem and Macmillan branding. |
+| 163 | corrected-and-passed | Back cover checked in full; restored printed `fighter for - social and political causes`; photograph, remaining biography, `Rs 300`, ISBN/barcode, Bharathiar University emblem and Macmillan branding otherwise matched. |
 
 ## Batch tracker
 
