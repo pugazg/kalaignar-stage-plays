@@ -1,12 +1,18 @@
-# Tale of the Anklet and One Act Plays — 2009 published English edition
+# Tale of the Anklet — 2009 published English witness
 
-This folder archives a page-faithful transcription of the supplied scanned English volume **Tale of the Anklet and One Act Plays**.
+This folder archives the **Silappathikaram / `Tale of the Anklet` portion only** of the supplied scanned English volume **Tale of the Anklet and One Act Plays**.
+
+The source volume is composite, but the repository transcription is now structurally separated by work type. The later **II. One Act Plays** portion is maintained separately at:
+
+`sources/one-act-plays-2009/`
+
+No one-act-play page records are to be added to this folder after scan 130.
 
 ## Source
 
 - Series line: `Kalaignar in English Translation`
-- Title: `Tale of the Anklet and One Act Plays`
-- Translators: T. G. Narayanaswamy; M. D. Jayabalan
+- Composite volume title: `Tale of the Anklet and One Act Plays`
+- `Tale of the Anklet` translator: T. G. Narayanaswamy
 - Editors: P. Marudanayagam; V. Murugan
 - Publisher/imprint: Bharathiar University / Macmillan Publishers India Ltd
 - First published: 2009
@@ -39,6 +45,7 @@ It must never silently override the controlling Tamil scan or the verified Tamil
 - section 37, `March to the North`: scans 127–128, complete;
 - section 38, `Mission Accomplished`: scans 129–130, complete;
 - scans **55 and 85** contain copy-specific Raj Bhavan Library markings recorded separately from the printed literary text;
-- next activity: continue from **scan 131** into **II. One Act Plays** (`Anarkali`, `Cheran Senguttuvan`, `Socrates`).
+- this folder is **closed at scan 130** for the Silappathikaram witness;
+- the source volume’s scan **131 onward** is transcribed separately under `sources/one-act-plays-2009/`.
 
-See `PROGRESS.md` for the detailed live checkpoint.
+See `PROGRESS.md` for the detailed completed checkpoint.
