@@ -14,73 +14,64 @@ Mandatory controls:
 - `../../TRANSLATION_TERMINOLOGY.md`
 - `TRANSLATION_REVIEW.md`
 
-The English must retain Kalaignar's cadence, repetition, imagery, wit, emotional escalation and political/literary register. Dravidian-movement concepts belong in **separate interpretive notes** when genuinely supported by the Tamil; they must not be inserted into dialogue.
+The English must retain Kalaignar's cadence, repetition, imagery, wit, emotional escalation and political/literary register. Dravidian-movement concepts belong in **separate interpretive notes** when genuinely supported by the Tamil; they must not be inserted into dialogue unless the Tamil itself states them.
 
 ## Current status
 
 - Tamil archival/assembly/global-review gates: **complete / PASS**.
-- Scenes **1–35**: translated / `translation-reviewed` / PASS.
-- English progress: **35 / 38 numbered scenes**.
-- No published English witness has been used for scenes 1–35.
+- Scenes **1–38**: translated / `translation-reviewed` / **PASS**.
+- English progress: **38 / 38 numbered scenes**.
+- No published English witness has been used for scenes 1–38.
+- The separate closing tableau remains the next translation activity.
 
-Completed controlled stages now include scenes 1–2, 3–5, 6–8, 9–11, 12–14, 15–17, 18–20, 21–23, 24–26, 27–29, 30–32 and **33–35**.
+## Latest controlled batch — scenes 36–38
 
-## Latest batch — scenes 33–35
+### Scene 36 — `தீயினில் திருநகர்`
 
-### Scene 33 — `கணவன் கள்வனா?`
+- English: `The Sacred City in Fire`.
+- Preserves the goldsmith's self-implication, printed `★`, source-timed palace/official destruction, Kannagi's Koodal address, elemental fire commands and repeated `vengeance for vengeance`.
+- The unusual source-final `விரும்பினர்கள்` is translated by its secure immediate meaning without altering Tamil.
 
-- English: `Is My Husband a Thief?`.
-- Preserves the ending of the kuravai koothu, sorrow-song and `abhinaya` stage language, Madhari's report, Kannagi's collapse and remembered farewell.
-- Repeated `கள்வனா? கள்வனா? இல்ல! இல்ல! இல்ல!` remains structurally intact.
-- The standing lamp falls only after Kannagi runs; the hut-fire spreads without added omen, fate or narrator hindsight.
+### Scene 37 — `வடபுலப் படையெடுப்பு`
 
-### Scene 34 — `வஞ்சினங் கூறுதல்`
+- English: `Campaign into the Northern Land`.
+- Before translation, enlarged source pixels corrected three earlier Tamil readings in page/scene records: `தீவர்களாம்` → `தலைவர்களாம்`; `அன்ன நற்சோணையே` → `அன்னை நற்சோணையே`; `சுடற்ற புலவனே` → `ஈடற்ற புலவனே`.
+- Preserves the tiger/bow/fish insult-chain, Ganga/Kaveri challenge, Tamil literary-historical roll-call and full mobilizing cadence.
+- `சுயமரியாதை` appears explicitly and is translated **`self-respect`**.
 
-- English: `Uttering the Vow of Vengeance`.
-- Preserves Kannagi's extended lament, repeated `அத்தான்`, the full domestic farewell memory and the abrupt transformation into fury.
-- `வளைந்த செங்கோல்` remains the `bent sceptre`; `பழிக்குப்பழி! பழிக்குப்பழி!` remains doubled retaliatory speech.
-- Kovalan's blood is used as a forehead tilak, the remaining anklet is removed, and Kannagi runs toward the palace exactly in source order.
-- Verified source `மதுரை மூதார்` is retained conservatively as `Madurai moothaar` rather than silently emended.
+### Scene 38 — `கண்ணகி சிலைக்குக் கல்`
 
-### Scene 35 — `வழக்குரை படலம்`
-
-- English: `The Pleading of the Case`.
-- Preserves Kannagi's Poompuhar/Chola justice self-identification and `மும்முரசு / முச்சங்கம் / முக்கொடி / முத்தமிழ் / மூவேந்தர்` accumulation.
-- Roman diplomatic imagery and the charge against the king's `கொடுங்கோல்` remain explicit.
-- The justice sequence remains distinct: `நீதி / நேர்மை / நியாயம்` → `justice / rectitude / fairness`; `அறம்` remains `aram` where its wider ethical force matters.
-- The anklet proof remains materially exact: Korkai pearls in the queen's old anklet, ruby pellets in Kannagi's anklets, with each breaking action kept in source order.
-- The printed `அவனை / அவன்` contrast in the king's confession is deliberately preserved through the awkward `him / he` distinction rather than normalized.
+- English: `Stone for Kannagi's Statue`.
+- Preserves Kanaka-Vijayar satire, rishi/mahaan disguise language, eighteen years/months/days/`naazhigai`, Tamil-land forgiveness, Tamilakam return timing and the final statue-stone burden command.
 
 ## Permanent terminology discipline
 
 Do **not** collapse `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்` into one English label. `அந்தணர்` remains explicitly **not automatically `Brahmin`**.
 
-Quoted classical material is translated independently from the verified Tamil printed in Kalaignar's scene unless a secondary witness is deliberately introduced and disclosed.
+Additional current locks:
 
-New scene-33–35 controls include:
+- `Tamilakam` stays distinct from contextual `Tamil land`;
+- `சுயமரியாதை` → `self-respect` when printed in source;
+- `நாழிகை` → `naazhigai`;
+- `வடபுலம் / வட நாடு` → `northern land`;
+- quoted classical material is translated independently from Kalaignar's printed Tamil unless a secondary witness is deliberately introduced and disclosed.
 
-- `அபிநயம்` → retained `abhinaya`;
-- `கொடுங்கோல்` → contextual `tyrannous sceptre`, distinct from righteous-rule `செங்கோல்`;
-- `நியாயம்` → contextual `fairness / justice` according to rhetorical position; scene 35 → `fairness` to keep it distinct from `நீதி`;
-- `முத்துப் பரல்கள் / மாணிக்கப் பரல்கள்` → `pearl pellets / ruby pellets`;
-- `யாகாவாராயினும் நாகாக்க...` translated independently from Kalaignar's printed Tamil;
-- `“கொன்று வருக அவனை!” / “கொன்று வருக அவன்”` must retain the printed morphological distinction.
+## Exact next controlled activity — closing tableau
 
-## Exact next controlled batch — scenes 36–38
+Translate and review the separate **unnumbered** `../../scenes/closing-tableau.md` — `கண்ணகி சிலை நாட்டு விழா`.
 
-Translate and review independently:
+Requirements:
 
-- `36.md` — `தீயினில் திருநகர்`, setting `தெருக்கள்`;
-- `37.md` — `வடபுலப் படையெடுப்பு`, setting `சேரன் செங்குட்டுவன் அவை`;
-- `38.md` — `கண்ணகி சிலைக்குக் கல்`, setting `இமயத்தில் - குயிலாலுவம்`.
-
-Scene 36 requires exact preservation of the goldsmith's self-accusation/death, palace destruction, official's death, Kannagi's repeated fire/vengeance cries and the source's final statement about the people. Scene 37 is a long political-war oration: preserve the bow/tiger/fish symbolic chain, named persons/places, repeated Tamil insults/praise, the explicit source term `சுயமரியாதை`, and its rhythmic mobilizing cadence without turning it into generic nationalist prose. Scene 38 requires the Kanaka-Vijaya confrontation, eighteen-years/months/days versus eighteen-naazhigai rhetorical sequence, Tamil-land forgiveness line, Kannagi-statue stone decision and final `இப்போது தூக்கு கல்!` without importing another edition.
-
-Each scene requires its own `NN_REVIEW.md` and PASS before the numbered-scene translation phase is complete.
+- do not call it scene 39;
+- inspect scan 88 and the verified tableau record before translation;
+- preserve the documented source obstruction/library-stamp uncertainty;
+- do not reconstruct obscured leading characters from another edition;
+- create `closing-tableau.md` and a dedicated review record;
+- after PASS, perform a final English consistency/release review over scenes 1–38 plus the tableau.
 
 ## File convention
 
-- numbered translations: `01.md` through eventual `38.md`;
+- numbered translations: `01.md` through `38.md`;
 - per-scene reviews: `NN_REVIEW.md` (scene 1 uses `PILOT_REVIEW.md`);
-- final tableau: `closing-tableau.md` when reached;
+- final tableau: `closing-tableau.md` when completed;
 - review tracker: `TRANSLATION_REVIEW.md`.
