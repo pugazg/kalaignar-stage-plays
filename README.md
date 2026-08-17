@@ -19,10 +19,16 @@ See [`STAGE_PLAY_PROCESSING_GUIDE.md`](STAGE_PLAY_PROCESSING_GUIDE.md) for the p
 
 | Work | Current authority/source | Status |
 |---|---|---|
-| [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | controlling Tamil scan `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` | **Tamil archive COMPLETE / PASS; 38/38 scenes + closing tableau; independent English translation COMPLETE / READY** |
-| [Anarkali](works/anarkali/) | 2009 published-English secondary witness available; Tamil controlling source not yet supplied | **work registered; English witness verified** |
-| [Cheran Senguttuvan](works/cheran-senguttuvan/) | 2009 published-English secondary witness available; Tamil controlling source not yet supplied | **work registered; English witness verified** |
-| [Socrates](works/socrates/) | 2009 published-English secondary witness available; Tamil controlling source not yet supplied | **work registered; English witness verified** |
+| [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | controlling Tamil scan `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` | **Tamil archive COMPLETE / PASS; 38/38 scenes + closing tableau; independent English COMPLETE / READY; secondary-witness comparison COMPLETE / PASS** |
+| [Anarkali](works/anarkali/) | 2009 published-English secondary witness only; no controlling Tamil source presently available | **work registered; English witness verified; awaiting Tamil source** |
+| [Cheran Senguttuvan](works/cheran-senguttuvan/) | 2009 published-English secondary witness only; no controlling Tamil source presently available | **work registered; English witness verified; awaiting Tamil source** |
+| [Socrates](works/socrates/) | 2009 published-English secondary witness only; no controlling Tamil source presently available | **work registered; English witness verified; awaiting Tamil source** |
+
+## Silappathikaram navigation
+
+For direct movement between the verified Tamil scenes, independent English translations, individual reviews and secondary-witness comparison records, use:
+
+- [`works/silappathikaram-nataka-kappiyam/NAVIGATION.md`](works/silappathikaram-nataka-kappiyam/NAVIGATION.md)
 
 ## Published-English secondary witness
 
@@ -36,6 +42,14 @@ The supplied 2009 volume *Tale of the Anklet and One Act Plays* has been separat
 - this witness was **not used** to draft or review the independent English translation of `சிலப்பதிகாரம் — நாடகக் காப்பியம்`.
 
 See [`sources/one-act-plays-2009/RELEASE_REPORT.md`](sources/one-act-plays-2009/RELEASE_REPORT.md) and [`sources/one-act-plays-2009/VISUAL_FIDELITY_REVIEW.md`](sources/one-act-plays-2009/VISUAL_FIDELITY_REVIEW.md).
+
+## Completed secondary-witness comparison
+
+The independently reviewed Silappathikaram English translation has been compared against the verified 2009 published-English witness across **38/38 numbered scenes plus the closing tableau**.
+
+Result: **PASS / COMPLETE** — **0 Tamil rechecks**, **0 independent-translation re-reviews**, and **0 translation changes imported from the secondary witness**.
+
+See [`works/silappathikaram-nataka-kappiyam/translations/en/PUBLISHED_WITNESS_COMPARISON.md`](works/silappathikaram-nataka-kappiyam/translations/en/PUBLISHED_WITNESS_COMPARISON.md).
 
 ## Standard work layout
 
@@ -60,6 +74,10 @@ Page records preserve the physical edition page by page. Scene files, when creat
 
 ## Current repository phase
 
-The first controlling Tamil work, `சிலப்பதிகாரம் — நாடகக் காப்பியம்`, has completed archival verification, scene assembly, global Tamil review, independent English translation, individual translation review and final English consistency review.
+**All work possible from the currently supplied source material is complete.**
 
-The 2009 published-English witness has completed transcription and full visual-fidelity review. Further work on that witness should be explicitly labelled secondary-witness analysis rather than canonical source editing.
+Silappathikaram has completed Tamil archival verification, scene assembly, global Tamil review, independent English translation, individual translation review, final English consistency/release review and full published-English secondary-witness comparison.
+
+The 2009 published-English witness has completed transcription and **163/163** visual-fidelity review.
+
+`Anarkali`, `Cheran Senguttuvan`, and `Socrates` remain deliberately source-limited: their verified English witness is preserved, but no canonical Tamil archival or translation work should begin until an authentic controlling Tamil source is supplied.
