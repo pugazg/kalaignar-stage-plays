@@ -5,7 +5,7 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 ## Current checkpoint
 
 - total scan pages reported by file reader: **158**;
-- scans **1–80**: transcribed / structurally recorded;
+- scans **1–90**: transcribed / structurally recorded;
 - scans **10, 14, 20, 22, 28 and 36**: blank;
 - scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam, printed pages `xiii–xvii`;
 - scan **21**: section-title page `I — Tale of the Anklet`;
@@ -29,10 +29,13 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 - scan **76**: section 15, `Return Thwarted`, printed page 42, complete;
 - scans **77–78**: section 16, `Birth of Manimekalai`, printed pages 43–44, complete;
 - scan **79**: section 17, `Valour Seen through Tears`, printed page 45, complete;
-- scan **80**: section 18, `Two Sides of the Festival`, printed page 46, begun;
-- scan **55** includes copy-specific Raj Bhavan Library markings overlapping the page; these are recorded separately from publication text;
-- current boundary: scan 80 ends after Kannagi closes the casement against the Indra Festival lights, which still filter into her darkened house through the chinks;
-- next scan to process: **81**.
+- scans **80–81**: section 18, `Two Sides of the Festival`, printed pages 46–47, complete;
+- scans **82–86**: section 19, `Melody Breaks`, printed pages 48–52, complete;
+- scans **87–89**: section 20, `Penitent Return`, printed pages 53–55, complete;
+- scan **90**: section 21, `Madhavi in Loneliness`, printed page 56, begun;
+- scans **55 and 85** include copy-specific Raj Bhavan Library markings overlapping the page; these are recorded separately from publication text;
+- current boundary: scan 90 ends with the Hunchback entering and asking Chitrapathi, `What is the matter, Chitrapathi?`;
+- next scan to process: **91**.
 
 ## Front-matter / opening structure encountered
 
