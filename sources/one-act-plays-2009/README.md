@@ -42,12 +42,11 @@ This is a **published English secondary witness**. It is not the controlling sou
 
 ## Progress
 
-- scans **131–140**: transcribed / structurally recorded;
-- scan **131**: `II One Act Plays` title page;
-- scan **132**: blank;
-- scan **133**: `Preface` by M. D. Jayabalan;
-- scan **134**: blank;
-- scans **135–140**: `1 Anarkali`, Scenes 1–4; Scene 4 is in progress at the end of scan 140;
-- next activity: continue from **scan 141**.
+- scans **131–150**: transcribed / structurally recorded;
+- `Anarkali`: scans **135–140**, Scenes 1–4, complete;
+- `Cheran Senguttuvan`: scans **141–149**, Scenes 1–4, complete;
+- `Socrates`: begins at scan **150** with its introductory page; dramatic text continues from the next scan;
+- scan **135** contains copy-specific Raj Bhavan Library markings recorded separately from publication text;
+- next activity: continue from **scan 151**.
 
 See `PROGRESS.md` for the detailed live checkpoint.
