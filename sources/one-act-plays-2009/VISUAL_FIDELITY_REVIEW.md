@@ -22,9 +22,9 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 ## Progress
 
 - total scans: **163**
-- visually reviewed: **80/163**
-- passed: **47**
-- corrected-and-passed: **33**
+- visually reviewed: **90/163**
+- passed: **53**
+- corrected-and-passed: **37**
 - unresolved: **0**
 
 ### Completed scans 001–010
@@ -159,6 +159,23 @@ Detailed review notes for scans 061–070 are in `visual-review/SCANS_061_070.md
 
 Detailed review notes for scans 071–080 are in `visual-review/SCANS_071_080.md`.
 
+### Completed scans 081–090
+
+| Scan | Outcome | Review note |
+|---|---|---|
+| 081 | corrected-and-passed | Restored source spaced ellipsis in `seek you out . . .`; closing of `Two Sides of the Festival` checked. |
+| 082 | passed | `Melody Breaks` opening, `‘My Lord’`, sunrise/seashore setup, settee/chariot instructions and punctuation checked. |
+| 083 | corrected-and-passed | Literary text matched; recorded visible production mark `OAP - 6`; song lineation and Cauveri wording checked. |
+| 084 | passed | Kovalan’s Cauveri lyric continuation, chastity discussion, Karikal/Karikalan forms, source ellipses and Madhavi lyric opening checked. |
+| 085 | corrected-and-passed | Literary text matched; resolved `Raj Bhavan Library` stamp (`11 JUL 2010`, `Chennai - 600 022`) and handwritten `8530`, `894.81127`, `KAR`. |
+| 086 | passed | End of `Melody Breaks` checked, including `Queen of fine arts`, `strumpet`, courtesan-family passage and closing swoon. |
+| 087 | passed | `Penitent Return` opening checked, retaining `falls at and clings to his feet`, `Tamil culture`, `circumscribed`, and page-end continuation. |
+| 088 | passed | Maritime-trade/self-pity passage, Manimekalai exchange, anklet-capital proposal, source ellipses and `re-established` checked. |
+| 089 | passed | Mathurai decision, `till death does part us`, penury/distress wording and closing direction checked. |
+| 090 | corrected-and-passed | Restored source `+` marker for `‘Appa’+` and its footnote; retained unusual nested quotation in `‘pa for ‘papa’` and capitalized `What` after `Madhavi,`. |
+
+Detailed review notes for scans 081–090 are in `visual-review/SCANS_081_090.md`.
+
 ### Batch tracker
 
 - [x] 001–010
@@ -169,7 +186,7 @@ Detailed review notes for scans 071–080 are in `visual-review/SCANS_071_080.md
 - [x] 051–060
 - [x] 061–070
 - [x] 071–080
-- [ ] 081–090
+- [x] 081–090
 - [ ] 091–100
 - [ ] 101–110
 - [ ] 111–120
