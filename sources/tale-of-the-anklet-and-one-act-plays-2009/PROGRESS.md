@@ -5,7 +5,7 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 ## Current checkpoint
 
 - total scan pages reported by file reader: **158**;
-- scans **1–90**: transcribed / structurally recorded;
+- scans **1–100**: transcribed / structurally recorded;
 - scans **10, 14, 20, 22, 28 and 36**: blank;
 - scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam, printed pages `xiii–xvii`;
 - scan **21**: section-title page `I — Tale of the Anklet`;
@@ -32,10 +32,14 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 - scans **80–81**: section 18, `Two Sides of the Festival`, printed pages 46–47, complete;
 - scans **82–86**: section 19, `Melody Breaks`, printed pages 48–52, complete;
 - scans **87–89**: section 20, `Penitent Return`, printed pages 53–55, complete;
-- scan **90**: section 21, `Madhavi in Loneliness`, printed page 56, begun;
+- scans **90–91**: section 21, `Madhavi in Loneliness`, printed pages 56–57, complete;
+- scans **92–94**: section 22, `Journey to Mathurai`, printed pages 58–60, complete;
+- scans **95–96**: section 23, `Madhavi’s Renunciation`, printed pages 61–62, complete;
+- scans **97–98**: section 24, `Near Mathurai`, printed pages 63–64, complete;
+- scans **99–100**: section 25, `Nedunchezhian the Upright`, printed pages 65–66, complete;
 - scans **55 and 85** include copy-specific Raj Bhavan Library markings overlapping the page; these are recorded separately from publication text;
-- current boundary: scan 90 ends with the Hunchback entering and asking Chitrapathi, `What is the matter, Chitrapathi?`;
-- next scan to process: **91**.
+- current boundary: scan 100 ends with Nedunchezhian exposing Malaivanar’s plagiarism, rewarding Arulalar, and dispersing the Court;
+- next scan to process: **101**.
 
 ## Front-matter / opening structure encountered
 
