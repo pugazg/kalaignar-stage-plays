@@ -22,9 +22,9 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 ## Progress
 
 - total scans: **163**
-- visually reviewed: **60/163**
-- passed: **36**
-- corrected-and-passed: **24**
+- visually reviewed: **70/163**
+- passed: **38**
+- corrected-and-passed: **32**
 - unresolved: **0**
 
 ### Completed scans 001–010
@@ -125,6 +125,23 @@ Detailed review notes for scans 041–050 are in `visual-review/SCANS_041_050.md
 
 Detailed review notes for scans 051–060 are in `visual-review/SCANS_051_060.md`.
 
+### Completed scans 061–070
+
+| Scan | Outcome | Review note |
+|---|---|---|
+| 061 | corrected-and-passed | Restored source typographic apostrophes in `don’t` / `each other’s` and curly quotation marks in `‘no’`. |
+| 062 | corrected-and-passed | Restored source typographic apostrophes throughout the opening of `Madhavi Conquers`. |
+| 063 | corrected-and-passed | Restored `Kovalan’s`, curly quotation marks around `‘Madhavi’`, and checked literal `kuyil*` / `*Kuyil` footnote form. |
+| 064 | passed | Madhavi’s appeal, repeated `Madhavi!`, clan/seduction exchange and closing stage direction checked. |
+| 065 | corrected-and-passed | Restored source apostrophes and the printed `returned....,` four-dot punctuation. |
+| 066 | corrected-and-passed | Restored source `That’s`; Rama/Seetha/Surpanaka wording otherwise matched. |
+| 067 | corrected-and-passed | Restored `Madhavi’s` and the printed spaced dash in `speech – which creator`. |
+| 068 | passed | Closing lines of `Kovalan in Newfound Joy` and final stage direction checked. |
+| 069 | corrected-and-passed | Restored source apostrophes and the printed comma in `Masathuvan is cornered and he keeps quiet,`. |
+| 070 | corrected-and-passed | Restored source apostrophes throughout; Tamil-society passage, scene break and Vasantamalai/jewel-casket continuation checked. |
+
+Detailed review notes for scans 061–070 are in `visual-review/SCANS_061_070.md`.
+
 ### Batch tracker
 
 - [x] 001–010
@@ -133,7 +150,7 @@ Detailed review notes for scans 051–060 are in `visual-review/SCANS_051_060.md
 - [x] 031–040
 - [x] 041–050
 - [x] 051–060
-- [ ] 061–070
+- [x] 061–070
 - [ ] 071–080
 - [ ] 081–090
 - [ ] 091–100
