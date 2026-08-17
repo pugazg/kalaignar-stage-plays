@@ -5,7 +5,7 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 ## Current checkpoint
 
 - total scan pages reported by file reader: **158**;
-- scans **1–110**: transcribed / structurally recorded;
+- scans **1–120**: transcribed / structurally recorded;
 - scans **10, 14, 20, 22, 28 and 36**: blank;
 - scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam, printed pages `xiii–xvii`;
 - scan **21**: section-title page `I — Tale of the Anklet`;
@@ -41,10 +41,14 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 - scans **103–104**: section 27, `Nobility in Simplicity`, printed pages 69–70, complete;
 - scans **105–106**: section 28, `Theft on Record`, printed pages 71–72, complete;
 - scans **107–109**: section 29, `Message of the Single Anklet`, printed pages 73–75, complete;
-- scan **110**: section 30, `Anklet for Sale`, printed page 76, begun;
+- scans **110–111**: section 30, `Anklet for Sale`, printed pages 76–77, complete;
+- scans **112–113**: section 31, `Sceptre Bends`, printed pages 78–79, complete;
+- scans **114–116**: section 32, `Virtue Mowed down`, printed pages 80–82, complete;
+- scans **117–118**: section 33, `“My Husband a Thief ?”`, printed pages 83–84, complete;
+- scans **119–120**: section 34, `Kannagi Swears Vengeance`, printed pages 85–86, complete;
 - scans **55 and 85** include copy-specific Raj Bhavan Library markings overlapping the page; these are recorded separately from publication text;
-- current boundary: scan 110 ends as Kovalan encounters the Chief Goldsmith in Mathurai after local citizens advise him to approach the palace goldsmith about the single anklet;
-- next scan to process: **111**.
+- current boundary: scan 120 ends with Kannagi swearing `Blood for blood`, taking the remaining anklet, and rushing toward the Pandya palace;
+- next scan to process: **121**.
 
 ## Front-matter / opening structure encountered
 
