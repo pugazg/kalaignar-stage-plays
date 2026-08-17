@@ -22,9 +22,9 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 ## Progress
 
 - total scans: **163**
-- visually reviewed: **40/163**
-- passed: **30**
-- corrected-and-passed: **10**
+- visually reviewed: **50/163**
+- passed: **31**
+- corrected-and-passed: **19**
 - unresolved: **0**
 
 ### Completed scans 001–010
@@ -91,13 +91,30 @@ Detailed review notes for scans 021–030 are in `visual-review/SCANS_021_030.md
 
 Detailed review notes for scans 031–040 are in `visual-review/SCANS_031_040.md`.
 
+### Completed scans 041–050
+
+| Scan | Outcome | Review note |
+|---|---|---|
+| 041 | corrected-and-passed | Restored source typographic apostrophes in `brother’s`, `Astrologer’s`, and `Haven’t`. |
+| 042 | corrected-and-passed | Restored `Ilango’s` forms and source-specific spacing in `father ?`. |
+| 043 | corrected-and-passed | Restored source typographic apostrophes in `don’t`, `Don’t`, and `why don’t`; retained four-dot source ellipses. |
+| 044 | corrected-and-passed | Restored source curly quotation marks around `‘Destiny’`. |
+| 045 | corrected-and-passed | Restored `Anklet’s`, `Don’t`, and `Senguttuvan’s` source forms. |
+| 046 | corrected-and-passed | Restored printed leading full stop before `.One of the tribesmen`, italic `vengai`, and `Sathanar’s`. |
+| 047 | passed | `Beauteous Pride of Poompuhar` title, Poompuhar description, place names, and source ellipses checked. |
+| 048 | corrected-and-passed | Restored source typographic apostrophes in `Chola’s` and `Kannagi’s`; song punctuation and lineation checked. |
+| 049 | corrected-and-passed | Restored source apostrophes; retained printed `my self` and em-dash construction. |
+| 050 | corrected-and-passed | Restored the printed literal asterisk footnote form `thatha*` / `*thatha = grandfather` instead of normalized numbering. |
+
+Detailed review notes for scans 041–050 are in `visual-review/SCANS_041_050.md`.
+
 ### Batch tracker
 
 - [x] 001–010
 - [x] 011–020
 - [x] 021–030
 - [x] 031–040
-- [ ] 041–050
+- [x] 041–050
 - [ ] 051–060
 - [ ] 061–070
 - [ ] 071–080
