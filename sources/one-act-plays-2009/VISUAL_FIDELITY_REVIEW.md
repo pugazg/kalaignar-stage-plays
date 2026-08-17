@@ -22,9 +22,9 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 ## Progress
 
 - total scans: **163**
-- visually reviewed: **30/163**
-- passed: **22**
-- corrected-and-passed: **8**
+- visually reviewed: **40/163**
+- passed: **30**
+- corrected-and-passed: **10**
 - unresolved: **0**
 
 ### Completed scans 001–010
@@ -74,12 +74,29 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 
 Detailed review notes for scans 021–030 are in `visual-review/SCANS_021_030.md`.
 
+### Completed scans 031–040
+
+| Scan | Outcome | Review note |
+|---|---|---|
+| 031 | passed | Preface maritime-trade continuation and source punctuation checked. |
+| 032 | passed | Preface adaptation principles and opening bullet points checked. |
+| 033 | passed | Remaining adaptation bullets and Western-legend references checked. |
+| 034 | corrected-and-passed | Restored source form `Mr T.G. Narayanaswamy`. |
+| 035 | passed | `Text of the Play` title and `OAP - 3` production mark checked. |
+| 036 | passed | Blank scan confirmed. |
+| 037 | corrected-and-passed | Restored source spacing in `Messenger (in strident tones) :`; retained printed `Long live Senguttuvan,!`. |
+| 038 | passed | `Senguttuvan’s Birthday` opening, directions and ellipses checked. |
+| 039 | passed | Senguttuvan/Ilango/Venmaal continuation checked. |
+| 040 | passed | `Celebration Takes a Turn` opening and astrologer exchange checked. |
+
+Detailed review notes for scans 031–040 are in `visual-review/SCANS_031_040.md`.
+
 ### Batch tracker
 
 - [x] 001–010
 - [x] 011–020
 - [x] 021–030
-- [ ] 031–040
+- [x] 031–040
 - [ ] 041–050
 - [ ] 051–060
 - [ ] 061–070
