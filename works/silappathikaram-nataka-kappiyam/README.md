@@ -18,7 +18,7 @@ The Tamil archive is protected. Do not silently modernize, normalize, repair, re
 
 ### Translation-stage scan-87 correction
 
-During the scene-37 English translation pass, scan 87 was re-rendered and visually checked at enlarged resolution. Direct source pixels proved three earlier Tamil readings wrong, and both `pages/0087.md` and `scenes/37.md` were corrected:
+During Scene 37 translation, direct enlarged source-pixel inspection proved three earlier Tamil readings wrong. Both `pages/0087.md` and `scenes/37.md` were corrected before English finalization:
 
 - `தீவர்களாம்` → `தலைவர்களாம்`;
 - `அன்ன நற்சோணையே` → `அன்னை நற்சோணையே`;
@@ -26,75 +26,47 @@ During the scene-37 English translation pass, scan 87 was re-rendered and visual
 
 No outside edition or published English translation was used for those corrections.
 
-## English translation layer
+## English translation layer — COMPLETE
 
-English translation is controlled by:
+Controlled by:
 
 - `TRANSLATION_GUIDE.md`;
 - `TRANSLATION_TERMINOLOGY.md`;
-- `translations/en/TRANSLATION_REVIEW.md`.
+- `translations/en/TRANSLATION_REVIEW.md`;
+- `translations/en/FINAL_ENGLISH_CONSISTENCY_REVIEW.md`;
+- `translations/en/RELEASE_REPORT.md`.
 
-### Current translation checkpoint
+### Final checkpoint
 
-Scenes **1–38** are translated and individually reviewed / **PASS**.
+- Scenes **1–38**: translated / individually reviewed / **PASS**.
+- Separate unnumbered `கண்ணகி சிலை நாட்டு விழா` closing tableau: translated / individually reviewed / **PASS**.
+- Final English consistency review: **PASS**.
+- English release report: **READY**.
+- English progress: **38 / 38 numbered scenes + closing tableau COMPLETE**.
+- No published English edition was used in drafting or reviewing any numbered scene or the closing tableau.
 
-English progress: **38 / 38 numbered scenes**.
+### Closing tableau
 
-No published English edition was used in drafting or reviewing scenes 1–38.
+English: `Festival of Installing Kannagi's Statue`, setting `In Ancient Vanchi`.
 
-### Latest controlled batch — scenes 36–38
-
-**Scene 36 — `தீயினில் திருநகர்`**
-
-- English: `The Sacred City in Fire`.
-- Preserves the goldsmith's self-implication in the collapse of Pandya justice, printed `★`, the anklet-thief official's source-timed death, Kannagi's elemental command-chain, `Koodal`, repeated `vengeance for vengeance`, and the source's severe closing statement that the people wished to see the justice-failing Pandya realm destroyed.
-
-**Scene 37 — `வடபுலப் படையெடுப்பு`**
-
-- English: `Campaign into the Northern Land`.
-- Source-pixel corrections listed above were completed before final English review.
-- Preserves the tiger/bow/fish insult-chain, Ganga-bank/Kaveri-bank challenge, Valluvar/Saathanar/Paranar/Narchonai/Ilango/Nedunchezhiyan/Vanchi roll-call, campaign places, `chamara-bearers`, and the final `Beat the murasu! Strike the Himalaya!` cadence.
-- `சுயமரியாதை` occurs explicitly in the Tamil dialogue and is translated directly as **`self-respect`**.
-
-**Scene 38 — `கண்ணகி சிலைக்குக் கல்`**
-
-- English: `Stone for Kannagi's Statue`.
-- Preserves Kanaka-Vijayar disguise/capture satire, the eighteen years → months → days → `naazhigai` progression, Tamil-land forgiveness, thirty-two-month return timing, stone for Kannagi's statue, bullock taunt and final `Now lift the stone!` command.
+The tableau remains structurally separate from Scene 38 and is **not Scene 39**. The later library/accession stamp on scan 88 obscures the leading characters of two printed lines. The English preserves the explicit obstruction markers and source-visible suffixes; no complete names were reconstructed from context, memory or another edition.
 
 ## Kalaignar-language / Dravidian-movement interpretation rule
 
-The English must retain Kalaignar's rhetorical force, cadence, repetition, direct address, wit, emotional escalation, literary allusion, political register and deliberate roughness where it carries voice.
+The English retains Kalaignar's rhetorical force, cadence, repetition, direct address, wit, emotional escalation, literary allusion, political register and deliberate roughness where it carries voice.
 
-Preserve source-supported resonances with Tamil linguistic-cultural self-respect, Tamilakam consciousness, human agency, dignity, justice, anti-hierarchical reasoning, women's agency and Tamil historical/literary memory. **Do not insert later movement vocabulary into dialogue when the Tamil does not state it.**
+Source-supported resonances with Tamil linguistic-cultural self-respect, Tamilakam consciousness, human agency, dignity, justice, anti-hierarchical reasoning, women's agency and Tamil historical/literary memory belong in separately labelled interpretive notes unless the Tamil itself states the concept.
 
-Scene 37 is a special case because `சுயமரியாதை` itself is printed in the dialogue; there `self-respect` belongs in the translation, not merely in an interpretive note.
+Scene 37 is an explicit source case: `சுயமரியாதை` itself appears in dialogue and is translated as **`self-respect`**.
 
 ## Permanent terminology lock
 
 `அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்`, and related terms.
 
-Additional controlling decisions through scene 38 include:
+Other controlling decisions include `Tamilakam`, `Muthamizh`, contextual `sceptre / tyrannous sceptre`, `hall of justice`, retained cultural forms such as `kuravai koothu`, `abhinaya`, `oodal`, `kalanju`, `kaadham`, `naazhigai`, and source-specific unresolved forms documented in `TRANSLATION_TERMINOLOGY.md`.
 
-- `செங்கோல்` → contextual `sceptre`, preserving righteous-rule force;
-- `கொடுங்கோல்` → `tyrannous sceptre`;
-- `நீதி மன்றம்` → `hall of justice` in royal context;
-- `சுயமரியாதை` → `self-respect` when the actual term occurs;
-- `வடபுலம் / வட நாடு` → `northern land`;
-- `நாழிகை` → retained `naazhigai`;
-- `பைந்தமிழ்` → scene-38 poetic `verdant Tamil`;
-- `கனக விஜயர் / கனக விஜயர்கள்` → source-visible `Kanaka-Vijayar` in scene 38;
-- `கூடல்` → `Koodal`;
-- source-supported retaliatory, state and martial violence must not be softened into invented procedural or moralizing language.
+## Project phase state
 
-## Exact next activity — closing tableau
+The **Tamil archival phase and independent English translation phase are complete for the supplied source**.
 
-The **38 numbered scenes are complete**. The next controlled translation activity is the separate, unnumbered `scenes/closing-tableau.md` — `கண்ணகி சிலை நாட்டு விழா`.
-
-Before translating it:
-
-1. inspect the verified closing-tableau Tamil record and scan 88 directly;
-2. preserve the documented library-stamp/obstruction uncertainty;
-3. do **not** reconstruct obscured leading characters from another edition;
-4. translate the tableau independently from the verified Tamil;
-5. create `translations/en/closing-tableau.md` and a dedicated review record;
-6. after PASS, run a final English consistency/release review across scenes 1–38 plus the closing tableau.
+Any next work is a new phase. Appropriate next activities include publication packaging/export, reader-facing edition preparation, or a separately labelled secondary-witness comparison with the published English edition. Such work must not silently overwrite the verified Tamil or reviewed English corpus.
