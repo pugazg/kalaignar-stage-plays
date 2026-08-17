@@ -2,7 +2,7 @@
 
 Status: **in progress**
 
-Controlling source: supplied 163-page scan of *Tale of the Anklet and One Act Plays*.
+Controlling source: supplied **163-page** scan of *Tale of the Anklet and One Act Plays*. Raw-file inspection with `pdfinfo` confirms `Pages: 163`; the conversation page renderer's 158-page limit is not treated as source authority.
 
 ## Review method
 
@@ -22,14 +22,29 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 ## Progress
 
 - total scans: **163**
-- visually reviewed: **0/163**
-- passed: 0
-- corrected-and-passed: 0
-- unresolved: 0
+- visually reviewed: **10/163**
+- passed: **7**
+- corrected-and-passed: **3**
+- unresolved: **0**
+
+### Completed scans 001–010
+
+| Scan | Outcome | Review note |
+|---|---|---|
+| 001 | passed | Cover text, title form, illustration status and library label checked. |
+| 002 | corrected-and-passed | Restored source en dashes before `keeping` and `Arignar Anna`; ellipsis lengths checked. |
+| 003 | corrected-and-passed | High-resolution inspection corrected faint oval-stamp postcode to `Chennai - 600 022`. |
+| 004 | passed | Portrait and caption checked. |
+| 005 | passed | Title page, credits, institutional/publisher lines and barcode label checked. |
+| 006 | passed | Copyright/publication text, ISBNs and copy marks checked; faint pencil notation remains approximate as labelled. |
+| 007 | passed | Foreword text, verse, address/date and addressee block checked. |
+| 008 | corrected-and-passed | Restored source en dash in `two castes – the righteous`; retained source's unusual no-space award quotation. |
+| 009 | passed | Prologue text and attribution checked. |
+| 010 | passed | Blank scan confirmed visually. |
 
 ### Batch tracker
 
-- [ ] 001–010
+- [x] 001–010
 - [ ] 011–020
 - [ ] 021–030
 - [ ] 031–040
