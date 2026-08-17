@@ -1,6 +1,6 @@
 # Published-English Secondary-Witness Comparison
 
-Status: **in progress — scenes 1–6 complete**
+Status: **in progress — scenes 1–9 complete**
 
 ## Purpose
 
@@ -34,12 +34,13 @@ The independent translation has **38 numbered Tamil scenes plus an unnumbered cl
 
 ## Progress
 
-- numbered scenes compared: **6/38**
+- numbered scenes compared: **9/38**
 - Tamil rechecks triggered: **0**
 - independent translation reviews triggered: **0**
 - completed comparison batches:
   - scenes 1–3 — `published-witness-comparison/SCENES_01_03.md`
   - scenes 4–6 — `published-witness-comparison/SCENES_04_06.md`
+  - scenes 7–9 — `published-witness-comparison/SCENES_07_09.md`
 
 ### Scenes 1–3 high-level finding
 
@@ -63,6 +64,16 @@ The second batch reinforces the same pattern and identifies several stronger sec
 
 Scenes 4–6 were each closed with decision **`no action`**.
 
+### Scenes 7–9 high-level finding
+
+The third batch confirms that the published witness becomes particularly interventionist where Kalaignar's technical, rhetorical and language-centred texture is dense.
+
+- scene 7: the independent translation preserves the Chola king's technical arts verse, `iyal / pann / thalaikkol`, the Greek elder's age comedy, Vasanthamalai's parrot/old-cat ridicule, Madhavi's refusal, and Kovalan's collective assertion of `Tamilakam's worth` and Tamil capacity. The published witness replaces much of the technical verse with prose praise and narrows the Tamil-wide rhetorical challenge to a local claim about Poompuhar wealth.
+- scene 8: the independent translation preserves the contextual distinction in `பார்ப்பார் / மறைவழி / தீவலம்`, Kovalan's full praise accumulation, the `writing on your head` fate image, the `tale-bearing owls` gossip metaphor, and the source emphasis on lovers united in thought and mutual support. The published witness generalizes the ritual wording and compresses several of these source-specific images.
+- scene 9: the independent translation preserves the opening `oodal`/Kural discussion, `தமிழர் வளம்` trade rhetoric, erotic/domestic imagery, Tamil-language metaphors, wordplay and repetitions, and Kannagi's detailed instruction that Madhavi's heart should not be hurt. The published witness omits much of that literary texture and adds explicit narrator-like foreboding at the departure.
+
+Scenes 7–9 were each closed with decision **`no action`**.
+
 ## Comparison record format
 
 For each aligned unit, record:
@@ -84,4 +95,4 @@ The independent translation has already passed scene-level review and a final En
 
 ## Next comparison batch
 
-Proceed with **scenes 7–9**, aligning each against the verified Tamil and corresponding visually verified 2009 witness sections before recording any finding.
+Proceed with **scenes 10–12**, aligning each against the verified Tamil and corresponding visually verified 2009 witness sections before recording any finding.
