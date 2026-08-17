@@ -32,14 +32,14 @@ It must never silently override the controlling Tamil scan or the verified Tamil
 
 ## Progress
 
-- scans **1–100**: transcribed / structurally recorded;
-- numbered play sections **1–25** are complete in this witness;
-- section 21, `Madhavi in Loneliness`: scans 90–91, complete;
-- section 22, `Journey to Mathurai`: scans 92–94, complete;
-- section 23, `Madhavi’s Renunciation`: scans 95–96, complete;
-- section 24, `Near Mathurai`: scans 97–98, complete;
-- section 25, `Nedunchezhian the Upright`: scans 99–100, complete;
+- scans **1–110**: transcribed / structurally recorded;
+- numbered play sections **1–29** are complete in this witness;
+- section 26, `Queen’s Ornament`: scans 101–102, complete;
+- section 27, `Nobility in Simplicity`: scans 103–104, complete;
+- section 28, `Theft on Record`: scans 105–106, complete;
+- section 29, `Message of the Single Anklet`: scans 107–109, complete;
+- section 30, `Anklet for Sale`: scan 110, in progress;
 - scans **55 and 85** contain copy-specific Raj Bhavan Library markings recorded separately from the printed literary text;
-- next activity: continue from **scan 101**.
+- next activity: continue from **scan 111**.
 
 See `PROGRESS.md` for the detailed live checkpoint.
