@@ -50,8 +50,10 @@ A scene may be marked `translation-reviewed` only after:
 | 30 | `சிலம்போ சிலம்பு` | `translation-reviewed` | PASS | No | Yes | Hundred-goldsmith denial, road sale, comic colloquialism, ruby pellets and source-timed goldsmith recognition passed. See `30_REVIEW.md`. |
 | 31 | `வளைந்தது செங்கோல்` | `translation-reviewed` | PASS | No | Yes | `sengol`/justice failure, land-versus-private-duty rhetoric, unmatched bracket and unsoftened immediate killing order passed. See `31_REVIEW.md`. |
 | 32 | `மதுரை மண்ணில் கோவலன் குருதி` | `translation-reviewed` | PASS | No | Yes | Accusation, Tamil/Mother-Tamil defence, justice—rectitude—aram—love—Tamil accumulation, humiliation lament and final sword-blow passed. See `32_REVIEW.md`. |
-| 33–35 | — | not started | pending | — | pending | Exact next controlled batch. |
-| 36–38 | — | not started | pending | — | pending | Proceed only under accepted protocol and batch review discipline. |
+| 33 | `கணவன் கள்வனா?` | `translation-reviewed` | PASS | No | Yes | Kuravai sorrow/abhinaya, accusation report, collapse-memory-denial and source-timed lamp/fire sequence passed. See `33_REVIEW.md`. |
+| 34 | `வஞ்சினங் கூறுதல்` | `translation-reviewed` | PASS | No | Yes | Full lament, repeated `அத்தான்`, bent-sceptre/heart-thief rhetoric, vengeance vow, blood-tilak and remaining anklet passed. See `34_REVIEW.md`. |
+| 35 | `வழக்குரை படலம்` | `translation-reviewed` | PASS | No | Yes | Poompuhar/Chola justice history, Tamil threefold accumulation, Roman imagery, justice oration, pearl/ruby proof, `அவனை / அவன்` distinction and final curse passed. See `35_REVIEW.md`. |
+| 36–38 | — | not started | pending | — | pending | Exact next controlled batch. |
 | closing tableau | `கண்ணகி சிலை நாட்டு விழா` | not started | pending | — | pending | Preserve scan-88 obstruction in Tamil provenance; translation handling to be decided only when reached. |
 
 ## Accepted conventions now controlling
@@ -68,7 +70,8 @@ A scene may be marked `translation-reviewed` only after:
 - do not infer formal religious rites from a title when the scene itself does not depict one;
 - do not add narrator foreshadowing before Kalaignar's stage directions disclose an action;
 - protected Tamil punctuation/bracket anomalies may be mirrored or explicitly documented rather than silently repaired;
-- do not soften a source-supported royal/state command into a more procedurally acceptable action.
+- do not soften a source-supported royal/state command into a more procedurally acceptable action;
+- do not normalize the scene-35 `அவனை / அவன்` distinction or substitute generic modern courtroom language for Kalaignar's royal-justice rhetoric.
 
 ### Permanent social/ritual terminology precedent
 
@@ -80,17 +83,17 @@ Scene 14 remains controlling evidence that Kalaignar uses distinct vocabulary:
 - `மறையவர் / மறையவன்` → `man of sacred lore` / contextual equivalent;
 - `தமிழ் மறை` → `Tamil sacred lore`.
 
-### Scenes 27–29 precedents
-
-- Scene 27 retains `Aychiyar / Aayar`; `ஆயர்குல மங்கை` receives no imposed modern caste gloss; `பாற்சோறு` → `milk-rice`; `அடைக்கலம்` follows protection context.
-- Scene 28 retains `[oodal]` and `puram`; `தமிழ்...ஒரு தென்றல்!` → `Tamil... is a breeze! It enters everywhere.`; quoted verse is independently translated; `நீதி மன்றம்` → `hall of justice`.
-- Scene 29 retains `kalanju`, `kanir, kanir`, `taamboolam`, `kuravai koothu`; the source-opaque `ஆவிநிகர்...` phrase remains transliterated rather than reconstructed.
-
 ### Scenes 30–32 precedents
 
 - Scene 30 `சிலம்போ சிலம்பு` → `Anklet, O Anklet!`; retain the one-hundred-goldsmith repetition, `daylight robber`, colloquial exclamations and the goldsmith's knowledge asymmetry.
 - Scene 31 `வளைந்தது செங்கோல்` → `The Sceptre Bent`; `செங்கோல்` retains righteous-rule force; `உடனே அவனைக் கொன்று வருக!...` → `Go at once, kill him, and return!`; unmatched bracket preserved.
 - Scene 32 retains `T h i e f`, `heart steeped in Tamil`, Mother Tamil, `justice—rectitude—aram—love—Tamil`, `half an atom of injustice`, traditional assay-gold metaphor, `Appeyo!`, `makara-yazh`, repeated `thief` lament and final source-timed sword-blow.
+
+### Scenes 33–35 precedents
+
+- Scene 33 retains `Kuravai Koothu`, `abhinaya`, Madhari's accusation wording, Kannagi's repeated denial and the accidental lamp/fire sequence without fate or retrospective explanation.
+- Scene 34 preserves the full grief-to-fury architecture, repeated `my dear`, source `மதுரை மூதார்` as `Madurai moothaar`, `bent sceptre`, doubled `Vengeance for vengeance`, blood-tilak and remaining anklet.
+- Scene 35 preserves the full `மு-` accumulation, Roman diplomatic imagery, `tyrannous sceptre`, `justice / rectitude / fairness`, independent Kural handling, pearl-versus-ruby evidence, Tirukkural/Tamil ethical framing, and the printed `அவனை / அவன்` contrast.
 
 ## Batch progression
 
@@ -106,16 +109,17 @@ Completed translation stages:
 - scenes 21–23: controlled batch — PASS;
 - scenes 24–26: controlled batch — PASS;
 - scenes 27–29: controlled batch — PASS;
-- scenes 30–32: controlled batch — PASS.
+- scenes 30–32: controlled batch — PASS;
+- scenes 33–35: controlled batch — PASS.
 
-English progress: **32 / 38 numbered scenes**.
+English progress: **35 / 38 numbered scenes**.
 
-No published English edition has been used for scenes 1–32.
+No published English edition has been used for scenes 1–35.
 
-## Exact next controlled batch — scenes 33–35
+## Exact next controlled batch — scenes 36–38
 
-- **Scene 33 — `கணவன் கள்வனா?`**, setting `குரவைக் கூத்து`: Kannagi learns Kovalan has been killed as an accused thief, collapses, re-enters the farewell through memory, rejects the accusation with repeated `இல்ல! இல்ல! இல்ல!`, and runs toward him as the fallen lamp ignites the hut. Preserve grief-performance overlap, repetitions, fire-stage sequence and the distinction between accusation and truth.
-- **Scene 34 — `வஞ்சினங் கூறுதல்`**, setting `வீதியிலுள்ள மண்டபம்`: Kannagi reaches Kovalan's body, delivers an extended grief-lament, then rises into a vow of vindication and vengeance, takes Kovalan's blood as a forehead mark and removes the remaining anklet. Preserve the shift from lament to political-moral fury, repeated vocatives, source imagery and `வளைந்த செங்கோல்` continuity without smoothing.
-- **Scene 35 — `வழக்குரை படலம்`**, setting `பாண்டியன் கொலு மண்டபம் (வெளியே)` and continuation into the royal court across scans 82–85: Kannagi confronts Nedunchezhiyan, identifies herself through Poompuhar/Chola justice history, invokes Muthamizh/three-crowned-kings political rhetoric, attacks the king's hasty judgment and argues the anklet case. This is a major justice/oratory scene: preserve every rhetorical accumulation, quoted ethical material, evidentiary anklet logic and Kalaignar's political language; do not replace it with modern courtroom prose.
+- **Scene 36 — `தீயினில் திருநகர்`**, setting `தெருக்கள்`: the chief goldsmith's self-accusation leads into his death in the burning house; palace destruction kills the anklet-thief official; Kannagi's fire/vengeance cries continue through the destruction of Madurai. Preserve the printed `★`, repeated `பழிக்குப் பழி`, and unusual final `விரும்பினர்கள்` without correction.
+- **Scene 37 — `வடபுலப் படையெடுப்பு`**, setting `சேரன் செங்குட்டுவன் அவை`: a long mobilizing oration naming Chera/Chola/Pandya symbols, Tamil poets/figures and campaign places, with explicit `சுயமரியாதை`. Preserve the insult/praise catalogue, direct addresses, military rhythm and repeated `தோற்றதில்லை`; because the actual source term `சுயமரியாதை` occurs here, translate it as `self-respect` rather than treating it merely as an interpretive resonance.
+- **Scene 38 — `கண்ணகி சிலைக்குக் கல்`**, setting `இமயத்தில் - குயிலாலுவம்`: preserve Kanaka-Vijaya capture/satire, eighteen years/months/days versus eighteen `naazhigai`, the Tamil-land forgiveness line, return-to-Tamilakam timing, Kannagi-statue stone decision and final command `இப்போது தூக்கு கல்!`.
 
 Each scene must independently pass coverage, semantics, Kalaignar voice, terminology, stage timing and Dravidian-context separation before promotion.
