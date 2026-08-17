@@ -32,14 +32,13 @@ It must never silently override the controlling Tamil scan or the verified Tamil
 
 ## Progress
 
-- scans **1–120**: transcribed / structurally recorded;
-- numbered play sections **1–34** are complete in this witness;
-- section 30, `Anklet for Sale`: scans 110–111, complete;
-- section 31, `Sceptre Bends`: scans 112–113, complete;
-- section 32, `Virtue Mowed down`: scans 114–116, complete;
-- section 33, `“My Husband a Thief ?”`: scans 117–118, complete;
-- section 34, `Kannagi Swears Vengeance`: scans 119–120, complete;
+- scans **1–130**: transcribed / structurally recorded;
+- **`Tale of the Anklet`: all 38 numbered sections complete**, spanning scans **37–130**;
+- section 35, `Volcano in Court`: scans 121–125, complete;
+- section 36, `Mathurai in Flames`: scan 126, complete;
+- section 37, `March to the North`: scans 127–128, complete;
+- section 38, `Mission Accomplished`: scans 129–130, complete;
 - scans **55 and 85** contain copy-specific Raj Bhavan Library markings recorded separately from the printed literary text;
-- next activity: continue from **scan 121**.
+- next activity: continue from **scan 131** into **II. One Act Plays** (`Anarkali`, `Cheran Senguttuvan`, `Socrates`).
 
 See `PROGRESS.md` for the detailed live checkpoint.
