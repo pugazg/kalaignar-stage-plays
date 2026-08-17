@@ -1,6 +1,6 @@
 # Published-English Secondary-Witness Comparison
 
-Status: **in progress — scenes 1–33 complete**
+Status: **in progress — scenes 1–36 complete**
 
 ## Purpose
 
@@ -36,11 +36,12 @@ Confirmed boundary mismatches include:
 
 - verified Tamil Scene 18 continues into material placed by the 2009 witness under section 19 `Melody Breaks`;
 - verified Tamil Scene 25 continues into the queen-anklet corridor material that the 2009 witness moves to section 26 `Queen's Ornament`;
-- the published witness sometimes inserts additional scene breaks inside one verified Tamil scene, as in Scene 33 after Kannagi collapses.
+- the published witness inserts an additional scene break inside verified Tamil Scene 33 after Kannagi collapses;
+- verified Tamil Scene 35 continues through Kannagi's first Madurai-destruction curse and city-fire stage direction, while the published witness moves that material to section 36.
 
 ## Progress
 
-- numbered scenes compared: **33/38**
+- numbered scenes compared: **36/38**
 - Tamil rechecks triggered: **0**
 - independent translation reviews triggered: **0**
 - completed comparison batches:
@@ -55,8 +56,9 @@ Confirmed boundary mismatches include:
   - scenes 25–27 — `published-witness-comparison/SCENES_25_27.md`
   - scenes 28–30 — `published-witness-comparison/SCENES_28_30.md`
   - scenes 31–33 — `published-witness-comparison/SCENES_31_33.md`
+  - scenes 34–36 — `published-witness-comparison/SCENES_34_36.md`
 
-## High-level findings through scene 33
+## High-level findings through scene 36
 
 The comparison consistently confirms the released independent translation as the closer witness to verified Tamil wording, scene structure, repetition, technical vocabulary, social terminology and rhetorical force.
 
@@ -68,9 +70,9 @@ Recurring secondary-witness tendencies include:
 - domesticating named literary/performance terms such as `Muthamizh`, `iyal`, `isai`, `koothu`, `yazh`, `Kaanal Vari`, `thalaikkol`, `pann`, `oodal`, `kuravai koothu`, and `abhinaya`;
 - collapsing source distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, and `மறையவன் / மறையவர்`;
 - modernizing royal, legal or institutional dialogue into vocabulary not stated by the source;
-- occasionally introducing substantive narrative, semantic or numerical differences, including the scene-14 replacement of the verified **parrot-and-snake** episode with a **mongoose-and-cobra** story, scene 21's alteration of Chitrapathi's admission into a claim that Madhavi never loved Kovalan, scene 23's alteration of Maasathuvan's `beloved daughter-in-law` to `beloved daughter`, and scene 29's **50,000 → 5,000 kalanju** change;
+- occasionally introducing substantive narrative, semantic or numerical differences, including the scene-14 replacement of the verified **parrot-and-snake** episode with a **mongoose-and-cobra** story, scene 21's alteration of Chitrapathi's admission into a claim that Madhavi never loved Kovalan, scene 23's alteration of Maasathuvan's `beloved daughter-in-law` to `beloved daughter`, scene 29's **50,000 → 5,000 kalanju** change, and scene 35's reconstruction of the king's confession as **`konru varugha / kondu varugha`** rather than the verified `அவனை / அவன்` contrast after the same `கொன்று வருக` wording;
 - occasionally moving dramatic material across published section boundaries, inserting new scene breaks, or omitting source scene openings;
-- occasionally adding interpretive causation or symbolism not stated by Kalaignar, most notably Scene 33's claim that the spreading fire moves toward Madurai as if at Kannagi's bidding.
+- occasionally adding interpretive causation or symbolism not stated by Kalaignar, including Scene 33's claim that the spreading fire moves toward Madurai as if at Kannagi's bidding.
 
 ### Scenes 28–30 high-level finding
 
@@ -87,6 +89,14 @@ Scenes 28–30 were each closed with decision **`no action`**. The scene-29 50,0
 - **scene 33:** the independent translation preserves `Kuravai Koothu`, `abhinaya`, the continuous stage sequence, the remembered **`Shall I go and return, my dear!`**, doubled/tripled shock repetitions, `Emotion becomes a gathering sea`, and the accidental fire sequence from the fallen standing lamp. The published witness generalizes the performance to `folk dance`, inserts a new scene break at Madhari's dwelling, compresses Kannagi's repetitions, and adds a strong interpretive claim that a wind drives the fire toward Madurai **as if at the bidding of Kannagi the symbol of chastity**—causation not stated in the verified Tamil.
 
 Scenes 31–33 were each closed with decision **`no action`**.
+
+### Scenes 34–36 high-level finding
+
+- **scene 34:** the independent translation preserves Kannagi's dense repeated `my dear` lament, farewell-detail sequence, established Kovalan praise-string, thief/heart-thief reversal, unresolved source form `Madurai moothaar`, and doubled **`Vengeance for vengeance!`**. The published witness smooths and rewrites the lament, adds new emotional imagery, silently interprets `Madurai moothaar` as the city of Mathurai, and changes `பழிக்குப்பழி` to the stronger **`Blood for blood`**.
+- **scene 35:** the independent translation preserves the source title `The Pleading of the Case`, Poompuhar/Chola justice identification without importing unnamed story detail, `three murasus / three Sangams / three banners / Muthamizh / three crowned kings`, the `good man / powerful man` justice antithesis, distinct `justice / rectitude / fairness / rule / aram` vocabulary, the source-order anklet proof, Tamilakam/Tirukkural denunciation, and the difficult royal confession **`Kill and return—him! / Kill and return—he`** reflecting the verified `அவனை / அவன்` distinction. The published witness retitles the scene `Volcano in Court`, adds external dove/calf story detail, modernizes the legal register, substitutes substantial new rhetoric, and reconstructs the confession as **`konru varugha` versus `kondu varugha` (`kill` versus `bring`)**, which is not the wording in the verified Tamil.
+- **scene 36:** the independent translation begins where the verified Tamil begins: the goldsmith's own house burns, he confesses that Pandya justice fell within him and walks into the fire; after the printed `★`, the palace burns and the anklet-thief official dies in its ruins; Kannagi condemns the silent people of Koodal, commands wind/fire/destruction, repeats `vengeance for vengeance`, and the source finally states that the people themselves wished the justice-failing Pandya realm destroyed. The published witness instead begins with curse material moved from verified Scene 35, collapses the deaths into a generalized fire sequence, omits the goldsmith's self-confession/self-immolation and Koodal-silence accusation, and adds Kannagi apparently leading the fire mile upon mile.
+
+Scenes 34–36 were each closed with decision **`no action`**. The scene-35 `konru / kondu` divergence does not trigger a Tamil recheck because the verified Tamil text has already been visually established.
 
 ## Comparison record format
 
@@ -105,8 +115,8 @@ For each aligned unit, record:
 
 The published witness remains analytically valuable as a historical English rendering, but it is not an authority for changing the verified Tamil or the independently reviewed English translation.
 
-No comparison through scene 33 has triggered a Tamil recheck or independent-translation re-review.
+No comparison through scene 36 has triggered a Tamil recheck or independent-translation re-review.
 
 ## Next comparison batch
 
-Proceed with **scenes 34–36**, aligning each against the verified Tamil and corresponding visually verified 2009 witness material before recording any finding.
+Proceed with **scenes 37–38 plus the unnumbered closing tableau**, aligning each against the verified Tamil and corresponding visually verified 2009 witness material before recording the final comparison findings.
