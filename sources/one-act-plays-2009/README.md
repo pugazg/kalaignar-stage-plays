@@ -14,7 +14,7 @@ It is deliberately separated from the Silappathikaram / `Tale of the Anklet` tra
 - First published: 2009
 - ISBN 10: `0230-639232`
 - ISBN 13: `978-0230639232`
-- Supplied scan length: **158 pages**
+- Supplied scan length: **163 pages**
 - Source PDF is **not committed** to the repository.
 
 ## Contents of this source section
@@ -38,18 +38,19 @@ This is a **published English secondary witness**. It is not the controlling sou
 - printed wording, spelling, punctuation, capitalization and source-specific terminology are preserved as printed;
 - library stamps, handwriting and accession marks are recorded separately from literary text;
 - no modernization, correction or harmonization is introduced silently;
-- blank scans are explicitly recorded;
-- source incompleteness is preserved rather than silently repaired from another edition.
+- blank / non-textual scans are explicitly recorded.
 
 ## Progress
 
-- scans **131–158**: all available one-act-play pages transcribed / structurally recorded;
+- scans **131–163**: transcribed / structurally recorded;
 - `Anarkali`: scans **135–140**, Scenes 1–4, complete;
 - `Cheran Senguttuvan`: scans **141–149**, Scenes 1–4, complete;
-- `Socrates`: scans **150–158** available in this PDF;
-- `Socrates` Scenes 1–4 are complete in the supplied scan; Scene 5 begins on scan 158;
-- the supplied PDF **ends mid-sentence** on scan 158 after `Poison is`, so `Socrates` remains source-incomplete in this particular scan;
+- `Socrates`: scans **150–160**, introductory page + Scenes 1–5, complete;
+- scan **160** closes `Socrates` with Socrates’ death and the final stage direction concerning Crito and Greece mourning him;
+- scan **161**: `About the Project Makers`;
+- scan **162**: inside-cover / production-design page with no readable publication text;
+- scan **163**: back cover with Kalaignar biographical text, photograph, price, ISBN and Macmillan / Bharathiar University branding;
 - scan **135** contains copy-specific Raj Bhavan Library markings recorded separately from publication text;
-- there is no further scan to transcribe in the supplied 158-page PDF.
+- the complete supplied **163-page PDF has now been processed**.
 
 See `PROGRESS.md` for the detailed live checkpoint.
