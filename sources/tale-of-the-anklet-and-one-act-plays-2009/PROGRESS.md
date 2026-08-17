@@ -1,10 +1,10 @@
-# Transcription Progress
+# Transcription Progress — Tale of the Anklet
 
 Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied scan; PDF not committed)
 
 ## Current checkpoint
 
-- total scan pages reported by file reader: **158**;
+- this folder is now limited to the **Silappathikaram / `Tale of the Anklet`** portion of the composite source volume;
 - scans **1–130**: transcribed / structurally recorded;
 - scans **10, 14, 20, 22, 28 and 36**: blank;
 - scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam, printed pages `xiii–xvii`;
@@ -20,8 +20,8 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 - section 38 closes with the consecration of Kannagi’s statue and Madhavi bringing Manimekalai before it;
 - scans **55 and 85** include copy-specific Raj Bhavan Library markings overlapping the page; these are recorded separately from publication text;
 - **`Tale of the Anklet` is complete in this published-English witness: sections 1–38 / scans 37–130**;
-- current boundary: scan 130 ends the `Tale of the Anklet` text;
-- next scan to process: **131**, continuing into the volume’s `II. One Act Plays` portion.
+- this folder is permanently closed at physical scan **130**;
+- physical scan **131 onward**, beginning `II One Act Plays`, is maintained separately at `sources/one-act-plays-2009/`.
 
 ## Front-matter / opening structure encountered
 
@@ -48,14 +48,17 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 36. blank;
 37–130. `Tale of the Anklet`, numbered sections 1–38, complete.
 
-The Contents divide the volume into:
+## Repository separation
 
-- **I. Tale of the Anklet** — translated by T. G. Narayanaswamy, with 38 numbered sections;
-- **II. One Act Plays** — translated by M. D. Jayabalan: `Anarkali`, `Cheran Senguttuvan`, and `Socrates`.
+The composite printed volume continues after scan 130, but the repository does not mix those works into this Silappathikaram witness.
+
+The published-English one-act plays are transcribed separately under:
+
+`sources/one-act-plays-2009/`
 
 ## Transcription controls
 
-- The supplied scan is the controlling source for this published-English witness.
-- This witness remains separate from the independently translated English edition under `works/silappathikaram-nataka-kappiyam/translations/en/`.
-- Printed wording, capitalization, punctuation and source-specific terminology are preserved rather than silently harmonized with the independent translation.
-- Copy-specific marks and production marks are recorded separately from literary text where relevant.
+- the supplied scan is the controlling source for this published-English witness;
+- this witness remains separate from the independently translated English edition under `works/silappathikaram-nataka-kappiyam/translations/en/`;
+- printed wording, capitalization, punctuation and source-specific terminology are preserved rather than silently harmonized with the independent translation;
+- copy-specific marks and production marks are recorded separately from literary text where relevant.
