@@ -1,6 +1,6 @@
 # Published-English Secondary-Witness Comparison
 
-Status: **in progress — scenes 1–18 complete**
+Status: **in progress — scenes 1–21 complete**
 
 ## Purpose
 
@@ -36,7 +36,7 @@ Scene 18 confirms that even matching section numbers do not guarantee identical 
 
 ## Progress
 
-- numbered scenes compared: **18/38**
+- numbered scenes compared: **21/38**
 - Tamil rechecks triggered: **0**
 - independent translation reviews triggered: **0**
 - completed comparison batches:
@@ -46,8 +46,9 @@ Scene 18 confirms that even matching section numbers do not guarantee identical 
   - scenes 10–12 — `published-witness-comparison/SCENES_10_12.md`
   - scenes 13–15 — `published-witness-comparison/SCENES_13_15.md`
   - scenes 16–18 — `published-witness-comparison/SCENES_16_18.md`
+  - scenes 19–21 — `published-witness-comparison/SCENES_19_21.md`
 
-## High-level findings through scene 18
+## High-level findings through scene 21
 
 The comparison consistently confirms the released independent translation as the closer witness to verified Tamil wording, scene structure, repetition, technical vocabulary and rhetorical force.
 
@@ -58,16 +59,16 @@ Recurring secondary-witness tendencies include:
 - generalizing or removing explicit Tamil-identity formulations such as `Tamilakam`, `தமிழர்`, `தமிழச்சி`, `தமிழ் அறம்`, and `தமிழ் மறை`;
 - domesticating named literary/performance terms such as `Muthamizh`, `iyal`, `isai`, `koothu`, `yazh`, `Kaanal Vari`, `thalaikkol`, and `pann`;
 - collapsing source distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, and `மறையவன் / மறையவர்`;
-- occasionally introducing substantive narrative differences, including the scene-14 replacement of the verified **parrot-and-snake** episode with a **mongoose-and-cobra** story;
+- occasionally introducing substantive narrative or semantic differences, including the scene-14 replacement of the verified **parrot-and-snake** episode with a **mongoose-and-cobra** story, and scene 21's alteration of Chitrapathi's admission into a claim that Madhavi never loved Kovalan;
 - occasionally moving dramatic material across published section boundaries.
 
-### Scenes 16–18 high-level finding
+### Scenes 19–21 high-level finding
 
-- **scene 16:** the independent translation preserves the `nanniraattu` label, the full Manimekalai naming accumulation and `mekalai / higher art` wordplay, and renders `மறையவன்` as `a man of sacred lore`. The published witness compresses the naming rhetoric, removes technical/source-specific terms, calls the rescued man `a brahmin`, and expands the elephant action with additional narrator detail.
-- **scene 17:** the independent translation preserves Kannagi's explicit `தமிழரல்லவா ?...` as **`Is he not a Tamil ?...`**, the competing tears-and-smiles image, and `my younger sister`. The published witness replaces the Tamil-identity line with generic praise of Kovalan's valour and compassion and adds imaginative narration not in the verified Tamil.
-- **scene 18:** the independent translation preserves **`Indran, the ancient Tamil king`**, the violent sensory structure of Kannagi's festival distress, the escalating threefold `My dear!`, **`Tamil woman who guards honour`**, `yazh`, `Kaanal Vari`, and the detailed punnai-tree seashore setup. The published witness removes or generalizes several of those Tamil-specific elements, adds an army march-past not in the verified Tamil, and shifts the pre-dawn closing material into its own section 19.
+- **scene 19:** the independent translation preserves the full Kaanal Vari structure, `yazh`, flower-finger imagery, `Ganga / Kanni`, the repeated sulking/chastity logic, Madhavi's gender critique, the `righteous sceptre that does not bend`, fisherwoman sequence, warrior-statue commerce imagery, named performance categories, and Kovalan's source-specific abusive escalation. The published witness heavily rewrites the songs, compresses the literary structure, introduces non-source imagery and modernized abuse, and removes several technical terms.
+- **scene 20:** the independent translation preserves `Tamil sacred lore`, Kannagi's repeated defence of Madhavi, `Manimekalai is my child too`, Tamil collective excellence in sea-trade, the sea-trade/body-trade rhetorical parallel, `womb of Mother Sea`, contextual `honour`, Kannagi's economic agency and the `space of an atom` promise. The published witness broadens `Tamil sacred lore` into generic `Tamil culture`, personalizes the maritime claim, adds psychological narration and alters some of Kovalan's specific source rhetoric.
+- **scene 21:** the independent translation preserves Madhavi's `Tamil fruit`, `baby-lisp of refined Tamil`, rain-of-kisses imagery, repeated `Enough`, the explicit economic exploitation by her household and the final repetition of having `no support`. The published witness removes much of the Tamil-language maternal imagery and substantively changes Chitrapathi's line from `we let you love him for wealth` into `You never loved him at all`, which is not what the verified Tamil says.
 
-Scenes 16–18 were each closed with decision **`no action`**.
+Scenes 19–21 were each closed with decision **`no action`**.
 
 ## Comparison record format
 
@@ -86,8 +87,8 @@ For each aligned unit, record:
 
 The published witness remains analytically valuable as a historical English rendering, but it is not an authority for changing the verified Tamil or the independently reviewed English translation.
 
-No comparison through scene 18 has triggered a Tamil recheck or independent-translation re-review.
+No comparison through scene 21 has triggered a Tamil recheck or independent-translation re-review.
 
 ## Next comparison batch
 
-Proceed with **scenes 19–21**, aligning each against the verified Tamil and corresponding visually verified 2009 witness material before recording any finding.
+Proceed with **scenes 22–24**, aligning each against the verified Tamil and corresponding visually verified 2009 witness material before recording any finding.
