@@ -32,9 +32,12 @@ It must never silently override the controlling Tamil scan or the verified Tamil
 
 ## Progress
 
-- scans **1–20**: transcribed / structurally recorded;
-- scans **10, 14 and 20**: blank;
-- scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam, printed pages `xiii–xvii`;
-- next activity: continue from **scan 21**, entering the `Tale of the Anklet` portion of the published English edition.
+- scans **1–30**: transcribed / structurally recorded;
+- scans **10, 14, 20, 22 and 28**: blank;
+- scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam (`xiii–xvii`);
+- scan **21**: `I — Tale of the Anklet` section-title page;
+- scans **23–27**: complete `Foreword` by C. N. Annadurai (`xxi–xxv`);
+- scans **29–30**: `Preface` by M. Karunanidhi begun (`xxvii–xxviii`);
+- next activity: continue from **scan 31**, completing the Preface before entering the numbered play text.
 
 See `PROGRESS.md` for the live checkpoint.
