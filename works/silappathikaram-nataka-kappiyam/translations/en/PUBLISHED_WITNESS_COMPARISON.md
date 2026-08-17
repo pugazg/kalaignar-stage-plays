@@ -1,6 +1,6 @@
 # Published-English Secondary-Witness Comparison
 
-Status: **in progress — scenes 1–36 complete**
+Status: **COMPLETE — 38/38 numbered scenes + closing tableau**
 
 ## Purpose
 
@@ -30,20 +30,23 @@ The published witness was not used in drafting or reviewing the independent tran
 
 ## Witness mapping
 
-The independent translation has **38 numbered Tamil scenes plus an unnumbered closing tableau**. The 2009 published witness also numbers its Silappathikaram dramatic sections 1–38, but section titles, segmentation details and translator-added stage prose differ. Alignment is therefore verified by dramatic content and source sequence rather than assumed from numbering alone.
+The independent translation has **38 numbered Tamil scenes plus an unnumbered closing tableau**. The 2009 published witness also numbers its Silappathikaram dramatic sections 1–38, but section titles, segmentation details and translator-added stage prose differ. Alignment was therefore verified by dramatic content and source sequence rather than assumed from numbering alone.
 
 Confirmed boundary mismatches include:
 
 - verified Tamil Scene 18 continues into material placed by the 2009 witness under section 19 `Melody Breaks`;
 - verified Tamil Scene 25 continues into the queen-anklet corridor material that the 2009 witness moves to section 26 `Queen's Ornament`;
 - the published witness inserts an additional scene break inside verified Tamil Scene 33 after Kannagi collapses;
-- verified Tamil Scene 35 continues through Kannagi's first Madurai-destruction curse and city-fire stage direction, while the published witness moves that material to section 36.
+- verified Tamil Scene 35 continues through Kannagi's first Madurai-destruction curse and city-fire stage direction, while the published witness moves that material to section 36;
+- published section 37 opens with a Periyar-bank Senguttuvan/Venmaal sequence before shifting to the Vanchi mobilization corresponding to verified Tamil Scene 37.
 
 ## Progress
 
-- numbered scenes compared: **36/38**
-- Tamil rechecks triggered: **0**
-- independent translation reviews triggered: **0**
+- numbered scenes compared: **38/38**
+- closing tableau compared: **1/1**
+- Tamil rechecks triggered by comparison: **0**
+- independent translation reviews triggered by comparison: **0**
+- translation changes made from secondary-witness comparison: **0**
 - completed comparison batches:
   - scenes 1–3 — `published-witness-comparison/SCENES_01_03.md`
   - scenes 4–6 — `published-witness-comparison/SCENES_04_06.md`
@@ -57,8 +60,9 @@ Confirmed boundary mismatches include:
   - scenes 28–30 — `published-witness-comparison/SCENES_28_30.md`
   - scenes 31–33 — `published-witness-comparison/SCENES_31_33.md`
   - scenes 34–36 — `published-witness-comparison/SCENES_34_36.md`
+  - scenes 37–38 + closing tableau — `published-witness-comparison/SCENES_37_38_CLOSING_TABLEAU.md`
 
-## High-level findings through scene 36
+## High-level findings — complete comparison
 
 The comparison consistently confirms the released independent translation as the closer witness to verified Tamil wording, scene structure, repetition, technical vocabulary, social terminology and rhetorical force.
 
@@ -66,13 +70,14 @@ Recurring secondary-witness tendencies include:
 
 - smoothing or compressing Kalaignar's repetitions and image chains;
 - adding explanatory or narrator-like prose not present in the verified Tamil;
-- generalizing or removing explicit Tamil-identity formulations such as `Tamilakam`, `தமிழர்`, `தமிழச்சி`, `தமிழ் அறம்`, and `தமிழ் மறை`;
+- generalizing or removing explicit Tamil-identity formulations such as `Tamilakam`, `தமிழர்`, `தமிழச்சி`, `தமிழ் அறம்`, `தமிழ் மறை`, and in Scene 37 the explicit `சுயமரியாதை`;
 - domesticating named literary/performance terms such as `Muthamizh`, `iyal`, `isai`, `koothu`, `yazh`, `Kaanal Vari`, `thalaikkol`, `pann`, `oodal`, `kuravai koothu`, and `abhinaya`;
 - collapsing source distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, and `மறையவன் / மறையவர்`;
 - modernizing royal, legal or institutional dialogue into vocabulary not stated by the source;
 - occasionally introducing substantive narrative, semantic or numerical differences, including the scene-14 replacement of the verified **parrot-and-snake** episode with a **mongoose-and-cobra** story, scene 21's alteration of Chitrapathi's admission into a claim that Madhavi never loved Kovalan, scene 23's alteration of Maasathuvan's `beloved daughter-in-law` to `beloved daughter`, scene 29's **50,000 → 5,000 kalanju** change, and scene 35's reconstruction of the king's confession as **`konru varugha / kondu varugha`** rather than the verified `அவனை / அவன்` contrast after the same `கொன்று வருக` wording;
 - occasionally moving dramatic material across published section boundaries, inserting new scene breaks, or omitting source scene openings;
-- occasionally adding interpretive causation or symbolism not stated by Kalaignar, including Scene 33's claim that the spreading fire moves toward Madurai as if at Kannagi's bidding.
+- occasionally adding interpretive causation or symbolism not stated by Kalaignar, including Scene 33's claim that the spreading fire moves toward Madurai as if at Kannagi's bidding;
+- expanding the final tableau with retrospective literary narration not present in the surviving verified Tamil text.
 
 ### Scenes 28–30 high-level finding
 
@@ -98,9 +103,17 @@ Scenes 31–33 were each closed with decision **`no action`**.
 
 Scenes 34–36 were each closed with decision **`no action`**. The scene-35 `konru / kondu` divergence does not trigger a Tamil recheck because the verified Tamil text has already been visually established.
 
+### Scenes 37–38 + closing tableau high-level finding
+
+- **scene 37:** the independent translation preserves the full tiger/bow/fish insult-chain, personal-name joke, `frog-kings`, Ganga/Kaveri challenge, Senguttuvan's statement that Chola and Pandya may be his enemies but outsiders cannot insult `my Tamil`, the long literary/historical roll-call, `who overcame the Aryan army`, fort/place names, `chamara-bearers`, the explicit source term **`self-respect`**, and the repeated `The Tamil has never been defeated`. The published witness inserts a Periyar-bank opening, compresses the roll-call, replaces the internal-rivalry argument with a milder `brother-kings` explanation, introduces generic `culture and civilization / Victory or death` rhetoric, and omits the explicit `self-respect` line.
+- **scene 38:** the independent translation preserves `pages inscribed by the valour of verdant Tamil`, the detailed disguise satire, `rishis / mahaans`, soil-of-Tamil-land forgiveness, `Tamilakam`, the `bullocks` taunt and the direct `now lift the stone!` command. The published witness smooths these into `military history`, `renunciation`, `penance` and `magnanimity`, and generalizes some Tamil-land vocabulary into `the South` / edition-specific `Taminad`.
+- **closing tableau:** the independent translation preserves the source's physically obscured leading characters rather than reconstructing them. The published witness explicitly supplies `Senguttuvan` and `Ilango`, but this does **not** authorize filling the Tamil obstruction. It also adds a vast concourse, Malava/Kongu rulers, deity framing, Manimekalai's wonder, and retrospective sequel narration absent from the surviving verified Tamil tableau.
+
+Scenes 37–38 and the closing tableau were each closed with decision **`no action`**.
+
 ## Comparison record format
 
-For each aligned unit, record:
+For each aligned unit, the comparison records:
 
 - independent translation file / Tamil scene provenance;
 - published-witness physical scan range and section heading;
@@ -111,12 +124,20 @@ For each aligned unit, record:
 - apparent omission/addition/restructuring in either English rendering;
 - decision: `no action`, `Tamil recheck required`, or `independent translation review required`.
 
-## Baseline decision
+## Final decision
 
-The published witness remains analytically valuable as a historical English rendering, but it is not an authority for changing the verified Tamil or the independently reviewed English translation.
+**Published-English secondary-witness comparison: PASS / COMPLETE.**
 
-No comparison through scene 36 has triggered a Tamil recheck or independent-translation re-review.
+The 2009 witness is historically and analytically valuable, but across the complete comparison it repeatedly demonstrates why it must remain secondary: it compresses, expands, rearranges, modernizes, domesticates terminology and occasionally changes narrative or numerical content.
 
-## Next comparison batch
+The independently reviewed English translation remains the canonical English translation in this repository because it is derived from and reviewed against the verified Tamil source.
 
-Proceed with **scenes 37–38 plus the unnumbered closing tableau**, aligning each against the verified Tamil and corresponding visually verified 2009 witness material before recording the final comparison findings.
+Final comparison totals:
+
+- **38/38 numbered scenes compared**;
+- **closing tableau compared**;
+- **0 Tamil rechecks triggered**;
+- **0 independent-translation re-reviews triggered**;
+- **0 translation changes imported from the published witness**.
+
+The source-obstructed closing-tableau names remain unresolved in the canonical archive despite being supplied in the secondary published witness.
