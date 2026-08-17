@@ -22,9 +22,9 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 ## Progress
 
 - total scans: **163**
-- visually reviewed: **110/163**
-- passed: **70**
-- corrected-and-passed: **40**
+- visually reviewed: **120/163**
+- passed: **79**
+- corrected-and-passed: **41**
 - unresolved: **0**
 
 ### Completed scans 001–010
@@ -210,6 +210,23 @@ Detailed review notes for scans 091–100 are in `visual-review/SCANS_091_100.md
 
 Detailed review notes for scans 101–110 are in `visual-review/SCANS_101_110.md`.
 
+### Completed scans 111–120
+
+| Scan | Outcome | Review note |
+|---|---|---|
+| 111 | passed | Completion of `Anklet for Sale` checked, including `Master-Goldsmith`, Poompuhar identification, special gesture and page-end wait. |
+| 112 | passed | `Sceptre Bends` opening checked, including `Pandyan Palace`, Kopperundevi’s refusal, `overmuch`, and Nedunchezhian’s reply. |
+| 113 | passed | Palace-corridor continuation checked, including `Queen’s anklet`, officer’s mortal fear and `Konru varugha (which is Tamil for “kill and return”.)`. |
+| 114 | passed | `Virtue Mowed down` opening checked, including title capitalization, `Master-Goldsmith`, wife’s-anklet answer and accusation sequence. |
+| 115 | corrected-and-passed | Literary text matched; added visible production mark `OAP - 8`; retained `five deadly sins`, Tamil/justice rhetoric, mixed quotation forms and four-dot punctuation. |
+| 116 | passed | Kovalan’s lament and killing direction checked, retaining `news or this ignominy`, `transgression....`, `Mathurai....`, repeated `Am I a thief?`, and final `sword...`. |
+| 117 | passed | `“My Husband a Thief ?”` title and opening checked, including parenthesized directions, `Ah...`, swoon, four-dot `hand....` and farewell recall. |
+| 118 | passed | Scene 33 conclusion checked, preserving `go-- they`, mixed ellipsis sequence, oil-lamp fall and spreading-fire direction. |
+| 119 | passed | `Kannagi Swears Vengeance` opening checked line-by-line, including `blood-spattered`, `akhil`, sandalwood/betel imagery and page-end continuation. |
+| 120 | passed | Kannagi’s transformation into vengeance checked, retaining `won’t you? ...`, `sceptre bent`, blood-tilak direction, `Blood for blood, blood for blood....`, and palace-run direction. |
+
+Detailed review notes for scans 111–120 are in `visual-review/SCANS_111_120.md`.
+
 ### Batch tracker
 
 - [x] 001–010
@@ -223,7 +240,7 @@ Detailed review notes for scans 101–110 are in `visual-review/SCANS_101_110.md
 - [x] 081–090
 - [x] 091–100
 - [x] 101–110
-- [ ] 111–120
+- [x] 111–120
 - [ ] 121–130
 - [ ] 131–140
 - [ ] 141–150
