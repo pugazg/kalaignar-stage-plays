@@ -103,7 +103,7 @@ Detailed review notes for scans 031–040 are in `visual-review/SCANS_031_040.md
 | 046 | corrected-and-passed | Restored printed leading full stop before `.One of the tribesmen`, italic `vengai`, and `Sathanar’s`. |
 | 047 | passed | `Beauteous Pride of Poompuhar` title, Poompuhar description, place names, and source ellipses checked. |
 | 048 | corrected-and-passed | Restored source typographic apostrophes in `Chola’s` and `Kannagi’s`; song punctuation and lineation checked. |
-| 049 | corrected-and-passed | Restored source apostrophes; retained printed `my self` and em-dash construction. |
+| 049 | corrected-and-passed | Restored source apostrophes and the spaced dash in `realised yet – that`; retained printed `my self`. |
 | 050 | corrected-and-passed | Restored the printed literal asterisk footnote form `thatha*` / `*thatha = grandfather` instead of normalized numbering. |
 
 Detailed review notes for scans 041–050 are in `visual-review/SCANS_041_050.md`.
