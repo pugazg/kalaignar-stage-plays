@@ -5,14 +5,18 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 ## Current checkpoint
 
 - total scan pages reported by file reader: **158**;
-- scans **1–30**: transcribed / structurally recorded;
-- scans **10, 14, 20, 22 and 28**: blank;
+- scans **1–40**: transcribed / structurally recorded;
+- scans **10, 14, 20, 22, 28 and 36**: blank;
 - scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam, printed pages `xiii–xvii`;
 - scan **21**: section-title page `I — Tale of the Anklet`;
 - scans **23–27**: complete `Foreword` by C. N. Annadurai, printed pages `xxi–xxv`;
-- scans **29–30**: `Preface` by M. Karunanidhi begun, printed pages `xxvii–xxviii`;
-- current boundary: scan 30 ends mid-sentence after `...the ties became closer only after Karikaalan and`;
-- next scan to process: **31**.
+- scans **29–34**: complete `Preface` by M. Karunanidhi, printed pages `xxvii–xxxii`;
+- scan **35**: `Text of the Play` title page;
+- scan **37**: section 1, `Vanchi Prepares for Festival`, printed page 3;
+- scans **38–39**: section 2, `Senguttuvan’s Birthday`, printed pages 4–5;
+- scan **40**: section 3, `Celebration Takes a Turn`, begins on printed page 6;
+- current boundary: scan 40 ends with Neduncheraladhan asking the astrologer, `What is the meaning of this, astrologer?`;
+- next scan to process: **41**.
 
 ## Front-matter / opening structure encountered
 
@@ -34,7 +38,10 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 22. blank;
 23–27. Foreword by C. N. Annadurai (`xxi–xxv`);
 28. blank;
-29 onward. Preface by M. Karunanidhi (`xxvii–`).
+29–34. Preface by M. Karunanidhi (`xxvii–xxxii`);
+35. `Text of the Play` title page;
+36. blank;
+37 onward. numbered play text.
 
 The Contents divide the volume into:
 
