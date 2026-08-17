@@ -5,7 +5,7 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 ## Current checkpoint
 
 - total scan pages reported by file reader: **158**;
-- scans **1–40**: transcribed / structurally recorded;
+- scans **1–50**: transcribed / structurally recorded;
 - scans **10, 14, 20, 22, 28 and 36**: blank;
 - scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam, printed pages `xiii–xvii`;
 - scan **21**: section-title page `I — Tale of the Anklet`;
@@ -14,9 +14,12 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 - scan **35**: `Text of the Play` title page;
 - scan **37**: section 1, `Vanchi Prepares for Festival`, printed page 3;
 - scans **38–39**: section 2, `Senguttuvan’s Birthday`, printed pages 4–5;
-- scan **40**: section 3, `Celebration Takes a Turn`, begins on printed page 6;
-- current boundary: scan 40 ends with Neduncheraladhan asking the astrologer, `What is the meaning of this, astrologer?`;
-- next scan to process: **41**.
+- scans **40–41**: section 3, `Celebration Takes a Turn`, printed pages 6–7, complete;
+- scans **42–44**: section 4, `Ilango’s Renunciation`, printed pages 8–10, complete;
+- scans **45–46**: section 5, `Birth of Anklet’s Tale`, printed pages 11–12, complete;
+- scans **47–50**: section 6, `Beauteous Pride of Poompuhar`, printed pages 13–16, complete;
+- current boundary: section 6 closes with Kovalan and Kannagi taking the Greek guest home after deciding to attend Madhavi’s dance programme in the Hall of Pearls;
+- next scan to process: **51**.
 
 ## Front-matter / opening structure encountered
 
