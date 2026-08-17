@@ -32,7 +32,7 @@ It must never silently override the controlling Tamil scan or the verified Tamil
 
 ## Progress
 
-- scans **1–70**: transcribed / structurally recorded;
+- scans **1–80**: transcribed / structurally recorded;
 - scans **10, 14, 20, 22, 28 and 36**: blank;
 - scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam (`xiii–xvii`);
 - scan **21**: `I — Tale of the Anklet` section-title page;
@@ -51,7 +51,12 @@ It must never silently override the controlling Tamil scan or the verified Tamil
 - scans **62–64**: section 10, `Madhavi Conquers`, complete;
 - scans **65–66**: section 11, `Bravery in Grief`, complete;
 - scans **67–68**: section 12, `Kovalan in Newfound Joy`, complete;
-- scans **69–70**: section 13, `Kannagi in Loneliness`, in progress;
-- next activity: continue from **scan 71**.
+- scans **69–71**: section 13, `Kannagi in Loneliness`, complete;
+- scans **72–75**: section 14, `Madhavi’s Magnanimity`, complete;
+- scan **76**: section 15, `Return Thwarted`, complete;
+- scans **77–78**: section 16, `Birth of Manimekalai`, complete;
+- scan **79**: section 17, `Valour Seen through Tears`, complete;
+- scan **80**: section 18, `Two Sides of the Festival`, begun;
+- next activity: continue from **scan 81**.
 
 See `PROGRESS.md` for the live checkpoint.
