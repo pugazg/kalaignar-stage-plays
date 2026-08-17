@@ -47,8 +47,11 @@ A scene may be marked `translation-reviewed` only after:
 | 27 | `ஆய்ச்சியர் அறிமுகம்` | `translation-reviewed` | PASS | No | Yes | Aychiyar/Aayar terminology, Jain-ascetic hospitality, Madhari entrustment and relational warmth passed. See `27_REVIEW.md`. |
 | 28 | `பொற்கொல்லர் முறையீடு` | `translation-reviewed` | PASS | No | Yes | Royal-couple humour, `Tamil... is a breeze!`, independent quoted-verse translation, missing-anklet report and inquiry passed. See `28_REVIEW.md`. |
 | 29 | `ஒற்றைச் சிலம்பின் ஒலி` | `translation-reviewed` | PASS | No | Yes | Trade planning, anklet-as-capital, domestic intimacy, kuravai koothu, one-anklet moral voice and source-opaque insult handling passed. See `29_REVIEW.md`. |
-| 30–32 | — | not started | pending | — | pending | Exact next controlled batch. |
-| 33–38 | — | not started | pending | — | pending | Proceed only under accepted protocol and batch review discipline. |
+| 30 | `சிலம்போ சிலம்பு` | `translation-reviewed` | PASS | No | Yes | Hundred-goldsmith denial, road sale, comic colloquialism, ruby pellets and source-timed goldsmith recognition passed. See `30_REVIEW.md`. |
+| 31 | `வளைந்தது செங்கோல்` | `translation-reviewed` | PASS | No | Yes | `sengol`/justice failure, land-versus-private-duty rhetoric, unmatched bracket and unsoftened immediate killing order passed. See `31_REVIEW.md`. |
+| 32 | `மதுரை மண்ணில் கோவலன் குருதி` | `translation-reviewed` | PASS | No | Yes | Accusation, Tamil/Mother-Tamil defence, justice—rectitude—aram—love—Tamil accumulation, humiliation lament and final sword-blow passed. See `32_REVIEW.md`. |
+| 33–35 | — | not started | pending | — | pending | Exact next controlled batch. |
+| 36–38 | — | not started | pending | — | pending | Proceed only under accepted protocol and batch review discipline. |
 | closing tableau | `கண்ணகி சிலை நாட்டு விழா` | not started | pending | — | pending | Preserve scan-88 obstruction in Tamil provenance; translation handling to be decided only when reached. |
 
 ## Accepted conventions now controlling
@@ -64,7 +67,8 @@ A scene may be marked `translation-reviewed` only after:
 - socially degrading language remains attributable to the character who speaks it, not translator narration;
 - do not infer formal religious rites from a title when the scene itself does not depict one;
 - do not add narrator foreshadowing before Kalaignar's stage directions disclose an action;
-- protected Tamil punctuation/bracket anomalies may be mirrored or explicitly documented rather than silently repaired.
+- protected Tamil punctuation/bracket anomalies may be mirrored or explicitly documented rather than silently repaired;
+- do not soften a source-supported royal/state command into a more procedurally acceptable action.
 
 ### Permanent social/ritual terminology precedent
 
@@ -76,17 +80,17 @@ Scene 14 remains controlling evidence that Kalaignar uses distinct vocabulary:
 - `மறையவர் / மறையவன்` → `man of sacred lore` / contextual equivalent;
 - `தமிழ் மறை` → `Tamil sacred lore`.
 
-### Scenes 24–26 precedents
-
-- Scene 24 `இடுக்கண் வருங்கால் நகுக!` → `When adversity comes, smile!`, independently translated from Kalaignar's printed Tamil.
-- Scene 25 `நீதி வழுவா` → `unswerving in justice`; `தமிழ்ச் சங்கம்` → `Tamil Sangam`; repeated `காவியம்` → `kaviyam`; `தமிழைக் கொளுத்தும்` remains `burning Tamil`.
-- Scene 26 `மணி மோதிரம்` → `gem-set ring`; uncertain `மல்லிகை கல்` remains `malligai-kal`; theft appears only at the source-timed stage direction.
-
 ### Scenes 27–29 precedents
 
-- Scene 27 retains `Aychiyar / Aayar`; `ஆயர்குல மங்கை` is not given an imposed modern caste gloss; `பாற்சோறு` → `milk-rice`; `அடைக்கலம்` follows entrustment/protection context.
-- Scene 28 retains `[oodal]` and `puram` literary vocabulary; `தமிழ்...ஒரு தென்றல்!` → `Tamil... is a breeze! It enters everywhere.`; `உற்றுழி உதவியும் / உறுபொருள் கொடுத்தும்` is independently translated; `நீதி மன்றம்` → `hall of justice`.
-- Scene 29 retains `kalanju`, `kanir, kanir`, `taamboolam`, `kuravai koothu`; Kannagi's anklet remains economic capital; source-opaque `ஆவிநிகர் மீனியாளே ஆளவிட்ட கரும்பாக்கி` is transliterated rather than reconstructed; the remaining anklet's accusatory poetic voice is preserved.
+- Scene 27 retains `Aychiyar / Aayar`; `ஆயர்குல மங்கை` receives no imposed modern caste gloss; `பாற்சோறு` → `milk-rice`; `அடைக்கலம்` follows protection context.
+- Scene 28 retains `[oodal]` and `puram`; `தமிழ்...ஒரு தென்றல்!` → `Tamil... is a breeze! It enters everywhere.`; quoted verse is independently translated; `நீதி மன்றம்` → `hall of justice`.
+- Scene 29 retains `kalanju`, `kanir, kanir`, `taamboolam`, `kuravai koothu`; the source-opaque `ஆவிநிகர்...` phrase remains transliterated rather than reconstructed.
+
+### Scenes 30–32 precedents
+
+- Scene 30 `சிலம்போ சிலம்பு` → `Anklet, O Anklet!`; retain the one-hundred-goldsmith repetition, `daylight robber`, colloquial exclamations and the goldsmith's knowledge asymmetry.
+- Scene 31 `வளைந்தது செங்கோல்` → `The Sceptre Bent`; `செங்கோல்` retains righteous-rule force; `உடனே அவனைக் கொன்று வருக!...` → `Go at once, kill him, and return!`; unmatched bracket preserved.
+- Scene 32 retains `T h i e f`, `heart steeped in Tamil`, Mother Tamil, `justice—rectitude—aram—love—Tamil`, `half an atom of injustice`, traditional assay-gold metaphor, `Appeyo!`, `makara-yazh`, repeated `thief` lament and final source-timed sword-blow.
 
 ## Batch progression
 
@@ -101,16 +105,17 @@ Completed translation stages:
 - scenes 18–20: controlled batch — PASS;
 - scenes 21–23: controlled batch — PASS;
 - scenes 24–26: controlled batch — PASS;
-- scenes 27–29: controlled batch — PASS.
+- scenes 27–29: controlled batch — PASS;
+- scenes 30–32: controlled batch — PASS.
 
-English progress: **29 / 38 numbered scenes**.
+English progress: **32 / 38 numbered scenes**.
 
-No published English edition has been used for scenes 1–29.
+No published English edition has been used for scenes 1–32.
 
-## Exact next controlled batch — scenes 30–32
+## Exact next controlled batch — scenes 33–35
 
-- **Scene 30 — `சிலம்போ சிலம்பு`**, initial setting `பொற்கொல்லர் நிலையம்`, internal `சாலை`: the hundred goldsmiths deny the theft; Kovalan tries to sell the anklet; the chief goldsmith encounters him and tells him to wait. Preserve comic colloquial speech, the internal location shift, and the goldsmith's private recognition without adding knowledge to Kovalan.
-- **Scene 31 — `வளைந்தது செங்கோல்`**, initial setting `நெடுஞ்செழியன் பள்ளியறை`, internal `தாழ்வாரம்`: royal-couple dispute, country-versus-private concern rhetoric, the chief goldsmith's accusation and the king's immediate order `உடனே அவனைக் கொன்று வருக!...`. Preserve the unmatched opening bracket and the speed/abruptness of the order; do not soften the judicial failure or add later legal vocabulary.
-- **Scene 32 — `மதுரை மண்ணில் கோவலன் குருதி`**, setting `வீதியிலுள்ள மண்டபம்`, scans 78–79: Kovalan is accused of theft, demands to see Nedunchezhiyan, invokes Tamil, justice, aram and the king's reputation, and the confrontation moves toward his killing. Preserve every rhetorical accumulation and the distinction between accusation, Kovalan's self-accounting and institutional violence; do not import a modern due-process vocabulary into the dialogue.
+- **Scene 33 — `கணவன் கள்வனா?`**, setting `குரவைக் கூத்து`: Kannagi learns Kovalan has been killed as an accused thief, collapses, re-enters the farewell through memory, rejects the accusation with repeated `இல்ல! இல்ல! இல்ல!`, and runs toward him as the fallen lamp ignites the hut. Preserve grief-performance overlap, repetitions, fire-stage sequence and the distinction between accusation and truth.
+- **Scene 34 — `வஞ்சினங் கூறுதல்`**, setting `வீதியிலுள்ள மண்டபம்`: Kannagi reaches Kovalan's body, delivers an extended grief-lament, then rises into a vow of vindication and vengeance, takes Kovalan's blood as a forehead mark and removes the remaining anklet. Preserve the shift from lament to political-moral fury, repeated vocatives, source imagery and `வளைந்த செங்கோல்` continuity without smoothing.
+- **Scene 35 — `வழக்குரை படலம்`**, setting `பாண்டியன் கொலு மண்டபம் (வெளியே)` and continuation into the royal court across scans 82–85: Kannagi confronts Nedunchezhiyan, identifies herself through Poompuhar/Chola justice history, invokes Muthamizh/three-crowned-kings political rhetoric, attacks the king's hasty judgment and argues the anklet case. This is a major justice/oratory scene: preserve every rhetorical accumulation, quoted ethical material, evidentiary anklet logic and Kalaignar's political language; do not replace it with modern courtroom prose.
 
 Each scene must independently pass coverage, semantics, Kalaignar voice, terminology, stage timing and Dravidian-context separation before promotion.
