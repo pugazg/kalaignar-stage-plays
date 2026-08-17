@@ -5,50 +5,23 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 ## Current checkpoint
 
 - total scan pages reported by file reader: **158**;
-- scans **1–120**: transcribed / structurally recorded;
+- scans **1–130**: transcribed / structurally recorded;
 - scans **10, 14, 20, 22, 28 and 36**: blank;
 - scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam, printed pages `xiii–xvii`;
 - scan **21**: section-title page `I — Tale of the Anklet`;
 - scans **23–27**: complete `Foreword` by C. N. Annadurai, printed pages `xxi–xxv`;
 - scans **29–34**: complete `Preface` by M. Karunanidhi, printed pages `xxvii–xxxii`;
 - scan **35**: `Text of the Play` title page;
-- scan **37**: section 1, `Vanchi Prepares for Festival`, printed page 3;
-- scans **38–39**: section 2, `Senguttuvan’s Birthday`, printed pages 4–5;
-- scans **40–41**: section 3, `Celebration Takes a Turn`, printed pages 6–7, complete;
-- scans **42–44**: section 4, `Ilango’s Renunciation`, printed pages 8–10, complete;
-- scans **45–46**: section 5, `Birth of Anklet’s Tale`, printed pages 11–12, complete;
-- scans **47–50**: section 6, `Beauteous Pride of Poompuhar`, printed pages 13–16, complete;
-- scans **51–54**: section 7, `Queen of Artists`, printed pages 17–20, complete;
-- scans **55–58**: section 8, `Kannagi in Wedded Bliss`, printed pages 21–24, complete;
-- scans **59–61**: section 9, `Parting Sparks Separation`, printed pages 25–27, complete;
-- scans **62–64**: section 10, `Madhavi Conquers`, printed pages 28–30, complete;
-- scans **65–66**: section 11, `Bravery in Grief`, printed pages 31–32, complete;
-- scans **67–68**: section 12, `Kovalan in Newfound Joy`, printed pages 33–34, complete;
-- scans **69–71**: section 13, `Kannagi in Loneliness`, printed pages 35–37, complete;
-- scans **72–75**: section 14, `Madhavi’s Magnanimity`, printed pages 38–41, complete;
-- scan **76**: section 15, `Return Thwarted`, printed page 42, complete;
-- scans **77–78**: section 16, `Birth of Manimekalai`, printed pages 43–44, complete;
-- scan **79**: section 17, `Valour Seen through Tears`, printed page 45, complete;
-- scans **80–81**: section 18, `Two Sides of the Festival`, printed pages 46–47, complete;
-- scans **82–86**: section 19, `Melody Breaks`, printed pages 48–52, complete;
-- scans **87–89**: section 20, `Penitent Return`, printed pages 53–55, complete;
-- scans **90–91**: section 21, `Madhavi in Loneliness`, printed pages 56–57, complete;
-- scans **92–94**: section 22, `Journey to Mathurai`, printed pages 58–60, complete;
-- scans **95–96**: section 23, `Madhavi’s Renunciation`, printed pages 61–62, complete;
-- scans **97–98**: section 24, `Near Mathurai`, printed pages 63–64, complete;
-- scans **99–100**: section 25, `Nedunchezhian the Upright`, printed pages 65–66, complete;
-- scans **101–102**: section 26, `Queen’s Ornament`, printed pages 67–68, complete;
-- scans **103–104**: section 27, `Nobility in Simplicity`, printed pages 69–70, complete;
-- scans **105–106**: section 28, `Theft on Record`, printed pages 71–72, complete;
-- scans **107–109**: section 29, `Message of the Single Anklet`, printed pages 73–75, complete;
-- scans **110–111**: section 30, `Anklet for Sale`, printed pages 76–77, complete;
-- scans **112–113**: section 31, `Sceptre Bends`, printed pages 78–79, complete;
-- scans **114–116**: section 32, `Virtue Mowed down`, printed pages 80–82, complete;
-- scans **117–118**: section 33, `“My Husband a Thief ?”`, printed pages 83–84, complete;
-- scans **119–120**: section 34, `Kannagi Swears Vengeance`, printed pages 85–86, complete;
+- scans **37–130**: all **38 numbered sections of `Tale of the Anklet`** transcribed;
+- scans **121–125**: section 35, `Volcano in Court`, printed pages 87–91, complete;
+- scan **126**: section 36, `Mathurai in Flames`, printed page 92, complete;
+- scans **127–128**: section 37, `March to the North`, printed pages 93–94, complete;
+- scans **129–130**: section 38, `Mission Accomplished`, printed pages 95–96, complete;
+- section 38 closes with the consecration of Kannagi’s statue and Madhavi bringing Manimekalai before it;
 - scans **55 and 85** include copy-specific Raj Bhavan Library markings overlapping the page; these are recorded separately from publication text;
-- current boundary: scan 120 ends with Kannagi swearing `Blood for blood`, taking the remaining anklet, and rushing toward the Pandya palace;
-- next scan to process: **121**.
+- **`Tale of the Anklet` is complete in this published-English witness: sections 1–38 / scans 37–130**;
+- current boundary: scan 130 ends the `Tale of the Anklet` text;
+- next scan to process: **131**, continuing into the volume’s `II. One Act Plays` portion.
 
 ## Front-matter / opening structure encountered
 
@@ -73,7 +46,7 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 29–34. Preface by M. Karunanidhi (`xxvii–xxxii`);
 35. `Text of the Play` title page;
 36. blank;
-37 onward. numbered play text.
+37–130. `Tale of the Anklet`, numbered sections 1–38, complete.
 
 The Contents divide the volume into:
 
