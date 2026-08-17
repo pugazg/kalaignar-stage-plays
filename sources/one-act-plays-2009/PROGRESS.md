@@ -28,7 +28,8 @@ Source: supplied scan `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf`
 - scan **163**: back cover, including Kalaignar biographical text, photograph, `Rs 300`, ISBN/barcode and Macmillan / Bharathiar University branding;
 - scan **135** contains copy-specific Raj Bhavan Library stamp/handwritten accession markings; these are recorded separately from publication text;
 - current boundary: **end of supplied PDF, scan 163**;
-- **all 163 physical scans are now accounted for across the separated Silappathikaram and One Act Plays witness folders**.
+- **all 163 physical scans are now accounted for across the separated Silappathikaram and One Act Plays witness folders**;
+- **visual fidelity review is complete: 163/163 reviewed, 109 passed, 54 corrected-and-passed, 0 unresolved; overall PASS**.
 
 ## Structural separation rule
 
@@ -46,4 +47,5 @@ No one-act-play transcription pages should be added there.
 - preserve printed wording, capitalization, punctuation, stage directions and repetitions;
 - record copy-specific marks separately;
 - do not silently modernize, correct or harmonize the text;
-- retain the composite volume’s physical scan numbers for provenance.
+- retain the composite volume’s physical scan numbers for provenance;
+- page-by-page visual audit record: `VISUAL_FIDELITY_REVIEW.md` and `visual-review/`.
