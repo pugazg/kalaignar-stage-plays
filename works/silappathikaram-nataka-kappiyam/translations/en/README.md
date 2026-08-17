@@ -19,35 +19,36 @@ The English must retain Kalaignar's cadence, repetition, imagery, wit, emotional
 ## Current status
 
 - Tamil archival/assembly/global-review gates: **complete / PASS**.
-- Scenes **1–29**: translated / `translation-reviewed` / PASS.
-- English progress: **29 / 38 numbered scenes**.
-- No published English witness has been used for scenes 1–29.
+- Scenes **1–32**: translated / `translation-reviewed` / PASS.
+- English progress: **32 / 38 numbered scenes**.
+- No published English witness has been used for scenes 1–32.
 
-Completed controlled stages now include scenes 1–2, 3–5, 6–8, 9–11, 12–14, 15–17, 18–20, 21–23, 24–26 and **27–29**.
+Completed controlled stages now include scenes 1–2, 3–5, 6–8, 9–11, 12–14, 15–17, 18–20, 21–23, 24–26, 27–29 and **30–32**.
 
-## Latest batch — scenes 27–29
+## Latest batch — scenes 30–32
 
-### Scene 27 — `ஆய்ச்சியர் அறிமுகம்`
+### Scene 30 — `சிலம்போ சிலம்பு`
 
-- English: `Introduction to the Aychiyar`.
-- Retains `Aychiyar / Aayar` rather than imposing a modern caste label.
-- `பாற்சோறு` → `milk-rice` in the Jain-ascetic hospitality context.
-- `அடைக்கலம்` is handled as immediate human protection/entrustment when Kavundhi places Kannagi in Madhari's care.
+- English: `Anklet, O Anklet!`.
+- Preserves the hundred goldsmiths' `Not us! ..Not us!...`, winged-anklet joke, `daylight robber`, road-location shift and Kalaignar's colloquial exclamations.
+- Kovalan's ruby-filled anklet and sale attempts are retained without foreshadowing.
+- The chief goldsmith's recognition remains his knowledge alone; Kovalan is not given narrator hindsight.
 
-### Scene 28 — `பொற்கொல்லர் முறையீடு`
+### Scene 31 — `வளைந்தது செங்கோல்`
 
-- English: `The Goldsmith's Appeal`.
-- Preserves the unmatched closing bracket, `[oodal]`, royal-couple wit and `Tamil... is a breeze! It enters everywhere.`
-- `உற்றுழி உதவியும் / உறுபொருள் கொடுத்தும்` is translated independently from Kalaignar's printed Tamil; no published classical translation was imported.
-- `நீதி மன்றம்` is rendered `hall of justice`, not an anachronistic modern courtroom label.
+- English: `The Sceptre Bent`.
+- `செங்கோல்` retains its righteous-rule/justice force rather than becoming a neutral stick.
+- Preserves the royal-couple `அற்ப` word-turn, `the land is greater than you and me`, internal corridor shift and the protected unmatched opening bracket.
+- `உடனே அவனைக் கொன்று வருக!...` remains the abrupt **`Go at once, kill him, and return!`**; no arrest/trial stage is invented.
 
-### Scene 29 — `ஒற்றைச் சிலம்பின் ஒலி`
+### Scene 32 — `மதுரை மண்ணில் கோவலன் குருதி`
 
-- English: `The Sound of a Single Anklet`.
-- Preserves Pandya trade planning, food/betel/decoration intimacy, `kuravai koothu`, Kannagi's anklet as economic capital and the decision to remove only one anklet.
-- `கணீர் கணீர்` is retained as `kanir, kanir`; `தாம்பூலம்` as `taamboolam`.
-- Source-opaque `ஆவிநிகர் மீனியாளே ஆளவிட்ட கரும்பாக்கி` is retained transliterated rather than guessed or silently emended.
-- The remaining anklet's imagined accusation is preserved as a poetic voice striking Kovalan's conscience.
+- English: `Kovalan's Blood on Madurai Soil`.
+- Preserves spaced `T h i e f`, Kovalan's wealth-collapse confession, `heart steeped in Tamil`, Mother Tamil, and his demand to face Nedunchezhiyan.
+- Central accumulation retained as `Guardian of justice—rectitude—aram—love—Tamil`.
+- `அநீதி, அணுவிலோர் பாதி` → `even half an atom of injustice`.
+- `பத்தரை மாற்றுத் தங்கம்` retains the assay metaphor; `மகர யாழ்` → `makara-yazh`; `அப்பேயோ!` → `Appeyo!`.
+- The final sword-blow occurs only where Kalaignar's stage direction states it.
 
 ## Permanent terminology discipline
 
@@ -55,15 +56,15 @@ Do **not** collapse `பிராமண`, `பார்ப்பன`, `பார
 
 Quoted classical material is translated independently from the verified Tamil printed in Kalaignar's scene unless a secondary witness is deliberately introduced and disclosed.
 
-## Exact next controlled batch — scenes 30–32
+## Exact next controlled batch — scenes 33–35
 
 Translate and review independently:
 
-- `30.md` — `சிலம்போ சிலம்பு`, initial setting `பொற்கொல்லர் நிலையம்`, internal `சாலை`;
-- `31.md` — `வளைந்தது செங்கோல்`, initial setting `நெடுஞ்செழியன் பள்ளியறை`, internal `தாழ்வாரம்`;
-- `32.md` — `மதுரை மண்ணில் கோவலன் குருதி`, setting `வீதியிலுள்ள மண்டபம்`.
+- `33.md` — `கணவன் கள்வனா?`, setting `குரவைக் கூத்து`;
+- `34.md` — `வஞ்சினங் கூறுதல்`, setting `வீதியிலுள்ள மண்டபம்`;
+- `35.md` — `வழக்குரை படலம்`, beginning outside the Pandya royal audience hall and continuing through the major court confrontation across scans 82–85.
 
-Scene 30 requires preservation of workshop/street colloquial timing and the chief goldsmith's recognition without giving Kovalan knowledge he does not have. Scene 31 requires exact handling of the unmatched opening bracket and the abrupt order `உடனே அவனைக் கொன்று வருக!...`. Scene 32 is rhetorically dense and must preserve Kovalan's Tamil/justice/aram appeal and the institutional violence that follows without importing modern legal vocabulary.
+Scene 33 requires preservation of grief-performance overlap, memory, repeated denial and the spreading-fire stage sequence. Scene 34 requires the full transition from Kannagi's lament over Kovalan's body into her vow of vindication/vengeance, blood-tilak action and removal of the remaining anklet. Scene 35 is a major justice/oratory scene and must preserve Poompuhar/Chola justice history, Muthamizh/three-crowned-kings rhetoric, the attack on hasty judgment and the anklet evidence without turning Kalaignar into generic modern courtroom prose.
 
 Each scene requires its own `NN_REVIEW.md` and PASS before the batch is complete.
 
