@@ -23,8 +23,8 @@ Before continuing read completely:
 9. `translations/en/README.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
 11. `translations/en/PILOT_REVIEW.md`
-12. `translations/en/02_REVIEW.md` through `translations/en/29_REVIEW.md`
-13. completed English `translations/en/01.md` through `translations/en/29.md`
+12. `translations/en/02_REVIEW.md` through `translations/en/32_REVIEW.md`
+13. completed English `translations/en/01.md` through `translations/en/32.md`
 14. the verified Tamil scenes currently being translated.
 
 ## Permanent Tamil-source rules
@@ -46,9 +46,9 @@ Do not redo Tamil scene assembly during translation.
 
 ## English translation checkpoint
 
-- scenes **1–29**: **PASS / `translation-reviewed`**.
-- English progress: **29/38 numbered scenes**.
-- no published English witness used for scenes 1–29.
+- scenes **1–32**: **PASS / `translation-reviewed`**.
+- English progress: **32/38 numbered scenes**.
+- no published English witness used for scenes 1–32.
 
 ## Kalaignar-language / Dravidian-movement relation rule
 
@@ -60,42 +60,39 @@ Relate Dravidian movement concepts only when source wording or Kalaignar's drama
 
 Latest accepted patterns:
 
-- scene 27: Aayar/Aychiyar social memory, Jain-linked hospitality and Kannagi's entrustment to Madhari are handled through dignity/protection without imposed caste modernization;
-- scene 28: `Tamil... is a breeze! It enters everywhere.` preserves Kalaignar's intimate language politics; learning/inquiry/justice resonance remains in the note;
-- scene 29: Kannagi uses her anklet as economic capital, while Kovalan imagines the remaining anklet as a voice of conscience rather than fate; domestic and performance culture remain fully present.
+- scene 30: suspicion and institutional action form the trap through human choices, while Kovalan remains unaware;
+- scene 31: the `sengol` bends when Nedunchezhiyan abandons inquiry and orders `Go at once, kill him, and return!`;
+- scene 32: Kovalan invokes Tamil, Mother Tamil, justice, rectitude, aram, love and royal reputation, but is killed without the hearing he expects.
 
 ## Permanent terminology lock
 
 `அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்`, and related terms through contextual terminology review.
 
-New controlling decisions through scene 29:
+New controlling decisions through scene 32:
 
-- `ஆய்ச்சியர்` → retained `Aychiyar`;
-- `ஆயர்குல மங்கை` → `a woman of the Aayar people` in scene 27;
-- `பாற்சோறு` → `milk-rice`;
-- `அடைக்கலம்` follows immediate protection/entrustment sense;
-- `[ஊடல்]` → `[oodal]`;
-- `புறத்துறைப் பாடல் / புறப்பாடல்` retains `puram` terminology;
-- `நீதி மன்றம்` → `hall of justice` in scene 28;
-- `குரவைக் கூத்து` → `kuravai koothu`;
-- `தாம்பூலம்` → `taamboolam`;
-- `கணீர் கணீர்` → `kanir, kanir`;
-- source-opaque `ஆவிநிகர் மீனியாளே ஆளவிட்ட கரும்பாக்கி` is retained transliterated rather than reconstructed.
+- `செங்கோல்` → contextual `sceptre`, preserving righteous-rule force;
+- `நீதி மன்றம்` → `hall of justice` in the royal setting;
+- `நேர்மை` → contextual `rectitude / uprightness / integrity`;
+- `பஞ்சமா பாதங்கள்` → `five great sins` without doctrinal expansion;
+- `சீதளச் செந்தமிழாள்` → scene-specific `my cool-graced woman of refined Tamil`;
+- `பத்தரை மாற்றுத் தங்கம்` → `gold of ten-and-a-half assay`;
+- `மகர யாழ்` → `makara-yazh`;
+- `அநீதி, அணுவிலோர் பாதி` → `even half an atom of injustice`.
 
 The published English edition, if later consulted, is a secondary comparison witness only.
 
-## Exact next activity — controlled batch scenes 30–32
+## Exact next activity — controlled batch scenes 33–35
 
 Translate and individually review:
 
-- Scene 30 — `சிலம்போ சிலம்பு`, initial setting `பொற்கொல்லர் நிலையம்`, internal `சாலை`;
-- Scene 31 — `வளைந்தது செங்கோல்`, initial setting `நெடுஞ்செழியன் பள்ளியறை`, internal `தாழ்வாரம்`;
-- Scene 32 — `மதுரை மண்ணில் கோவலன் குருதி`, setting `வீதியிலுள்ள மண்டபம்`.
+- Scene 33 — `கணவன் கள்வனா?`, setting `குரவைக் கூத்து`;
+- Scene 34 — `வஞ்சினங் கூறுதல்`, setting `வீதியிலுள்ள மண்டபம்`;
+- Scene 35 — `வழக்குரை படலம்`, beginning outside the Pandya royal audience hall and continuing through the court confrontation across scans 82–85.
 
 Special attention:
 
-- scene 30: hundred-goldsmith denial, street-sale sequence and the chief goldsmith's recognition; preserve colloquial timing and do not grant Kovalan narrator hindsight;
-- scene 31: royal-couple dispute, country-versus-private rhetoric, unmatched opening bracket, goldsmith accusation and abrupt `உடனே அவனைக் கொன்று வருக!...` order; do not soften the failure of justice;
-- scene 32: Kovalan's accusation scene, his Tamil/justice/aram rhetoric, demand to face Nedunchezhiyan and the movement toward his killing; preserve the accumulation and institutional violence without inserting modern legal terminology.
+- scene 33: grief-performance overlap, memory, repeated `இல்ல! இல்ல! இல்ல!`, and the fire-stage sequence; keep accusation distinct from truth;
+- scene 34: Kannagi's long lament, transition into vow/vindication, blood-tilak act and removal of the remaining anklet; preserve `வளைந்த செங்கோல்` continuity;
+- scene 35: major justice/oratory scene with Poompuhar/Chola justice history, Muthamizh/three-crowned-kings rhetoric, attack on hasty judgment and anklet evidence; preserve Kalaignar's political language and do not convert it to generic modern courtroom prose.
 
 Each scene must independently pass line-by-line coverage, semantic fidelity, Kalaignar voice, terminology, stage timing and Dravidian-context separation.
