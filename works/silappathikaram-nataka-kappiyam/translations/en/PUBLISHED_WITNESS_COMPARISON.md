@@ -1,6 +1,6 @@
 # Published-English Secondary-Witness Comparison
 
-Status: **in progress — scenes 1–21 complete**
+Status: **in progress — scenes 1–24 complete**
 
 ## Purpose
 
@@ -36,7 +36,7 @@ Scene 18 confirms that even matching section numbers do not guarantee identical 
 
 ## Progress
 
-- numbered scenes compared: **21/38**
+- numbered scenes compared: **24/38**
 - Tamil rechecks triggered: **0**
 - independent translation reviews triggered: **0**
 - completed comparison batches:
@@ -47,8 +47,9 @@ Scene 18 confirms that even matching section numbers do not guarantee identical 
   - scenes 13–15 — `published-witness-comparison/SCENES_13_15.md`
   - scenes 16–18 — `published-witness-comparison/SCENES_16_18.md`
   - scenes 19–21 — `published-witness-comparison/SCENES_19_21.md`
+  - scenes 22–24 — `published-witness-comparison/SCENES_22_24.md`
 
-## High-level findings through scene 21
+## High-level findings through scene 24
 
 The comparison consistently confirms the released independent translation as the closer witness to verified Tamil wording, scene structure, repetition, technical vocabulary and rhetorical force.
 
@@ -59,16 +60,16 @@ Recurring secondary-witness tendencies include:
 - generalizing or removing explicit Tamil-identity formulations such as `Tamilakam`, `தமிழர்`, `தமிழச்சி`, `தமிழ் அறம்`, and `தமிழ் மறை`;
 - domesticating named literary/performance terms such as `Muthamizh`, `iyal`, `isai`, `koothu`, `yazh`, `Kaanal Vari`, `thalaikkol`, and `pann`;
 - collapsing source distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, and `மறையவன் / மறையவர்`;
-- occasionally introducing substantive narrative or semantic differences, including the scene-14 replacement of the verified **parrot-and-snake** episode with a **mongoose-and-cobra** story, and scene 21's alteration of Chitrapathi's admission into a claim that Madhavi never loved Kovalan;
+- occasionally introducing substantive narrative or semantic differences, including the scene-14 replacement of the verified **parrot-and-snake** episode with a **mongoose-and-cobra** story, scene 21's alteration of Chitrapathi's admission into a claim that Madhavi never loved Kovalan, and scene 23's alteration of Maasathuvan's `beloved daughter-in-law` to `beloved daughter`;
 - occasionally moving dramatic material across published section boundaries.
 
-### Scenes 19–21 high-level finding
+### Scenes 22–24 high-level finding
 
-- **scene 19:** the independent translation preserves the full Kaanal Vari structure, `yazh`, flower-finger imagery, `Ganga / Kanni`, the repeated sulking/chastity logic, Madhavi's gender critique, the `righteous sceptre that does not bend`, fisherwoman sequence, warrior-statue commerce imagery, named performance categories, and Kovalan's source-specific abusive escalation. The published witness heavily rewrites the songs, compresses the literary structure, introduces non-source imagery and modernized abuse, and removes several technical terms.
-- **scene 20:** the independent translation preserves `Tamil sacred lore`, Kannagi's repeated defence of Madhavi, `Manimekalai is my child too`, Tamil collective excellence in sea-trade, the sea-trade/body-trade rhetorical parallel, `womb of Mother Sea`, contextual `honour`, Kannagi's economic agency and the `space of an atom` promise. The published witness broadens `Tamil sacred lore` into generic `Tamil culture`, personalizes the maritime claim, adds psychological narration and alters some of Kovalan's specific source rhetoric.
-- **scene 21:** the independent translation preserves Madhavi's `Tamil fruit`, `baby-lisp of refined Tamil`, rain-of-kisses imagery, repeated `Enough`, the explicit economic exploitation by her household and the final repetition of having `no support`. The published witness removes much of the Tamil-language maternal imagery and substantively changes Chitrapathi's line from `we let you love him for wealth` into `You never loved him at all`, which is not what the verified Tamil says.
+- **scene 22:** the independent translation preserves Kovalan's full Poompuhar import/export catalogue, `the cherished companion of my life`, the source order of the `ஆறு ஐந்து / முப்பது காதம்` joke, `vaalai` fish attacked by otters, the `monkey of the mind`, Madhavi's direct accountability in the palm-leaf, and Kovalan's pearl-like tears. The published witness shortens the Poompuhar catalogue, introduces **ivory**, changes otters to **beavers**, adds a spring-water errand and a `brahmin from Poompuhar` identification not stated by the verified Tamil, and expands Kavundhi's compact moral counsel into modern motivational prose.
+- **scene 23:** the independent translation preserves the approximate `four or five women`, the assay/touchstone force of `pure gold that loses nothing under assay`, Madhavi's `fallen flower`, and Maasathuvan's explicit acceptance of her as **`my beloved daughter-in-law`**. The published witness fixes the women as five maids, simplifies the gold metaphor, expands `fallen flower`, changes the relationship to **`my beloved daughter`**, and adds narrator psychology around Maasathuvan holding Manimekalai.
+- **scene 24:** the independent translation preserves Kovalan's repeated `I am more cruel than this thorn`, Kannagi's repeated-looking cadence, the Tirukkural directly as **`When adversity comes, smile!`**, Kovalan's compact `Like me!`, and the final fish-to-Pandya-banner visual transition. The published witness smooths the repetition, expands the Kural into explanatory prose, adds `the fragrance from the bower of the Sangam-Tamil`, expands Kovalan's reply, and omits the explicit banner transition.
 
-Scenes 19–21 were each closed with decision **`no action`**.
+Scenes 22–24 were each closed with decision **`no action`**.
 
 ## Comparison record format
 
@@ -87,8 +88,8 @@ For each aligned unit, record:
 
 The published witness remains analytically valuable as a historical English rendering, but it is not an authority for changing the verified Tamil or the independently reviewed English translation.
 
-No comparison through scene 21 has triggered a Tamil recheck or independent-translation re-review.
+No comparison through scene 24 has triggered a Tamil recheck or independent-translation re-review.
 
 ## Next comparison batch
 
-Proceed with **scenes 22–24**, aligning each against the verified Tamil and corresponding visually verified 2009 witness material before recording any finding.
+Proceed with **scenes 25–27**, aligning each against the verified Tamil and corresponding visually verified 2009 witness material before recording any finding.
