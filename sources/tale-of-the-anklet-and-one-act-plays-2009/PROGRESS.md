@@ -5,7 +5,7 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 ## Current checkpoint
 
 - total scan pages reported by file reader: **158**;
-- scans **1–70**: transcribed / structurally recorded;
+- scans **1–80**: transcribed / structurally recorded;
 - scans **10, 14, 20, 22, 28 and 36**: blank;
 - scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam, printed pages `xiii–xvii`;
 - scan **21**: section-title page `I — Tale of the Anklet`;
@@ -24,10 +24,15 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 - scans **62–64**: section 10, `Madhavi Conquers`, printed pages 28–30, complete;
 - scans **65–66**: section 11, `Bravery in Grief`, printed pages 31–32, complete;
 - scans **67–68**: section 12, `Kovalan in Newfound Joy`, printed pages 33–34, complete;
-- scans **69–70**: section 13, `Kannagi in Loneliness`, printed pages 35–36, in progress;
+- scans **69–71**: section 13, `Kannagi in Loneliness`, printed pages 35–37, complete;
+- scans **72–75**: section 14, `Madhavi’s Magnanimity`, printed pages 38–41, complete;
+- scan **76**: section 15, `Return Thwarted`, printed page 42, complete;
+- scans **77–78**: section 16, `Birth of Manimekalai`, printed pages 43–44, complete;
+- scan **79**: section 17, `Valour Seen through Tears`, printed page 45, complete;
+- scan **80**: section 18, `Two Sides of the Festival`, printed page 46, begun;
 - scan **55** includes copy-specific Raj Bhavan Library markings overlapping the page; these are recorded separately from publication text;
-- current boundary: scan 70 ends after Manaykan asks Kannagi whether, having lost her husband, she must also part with wealth;
-- next scan to process: **71**.
+- current boundary: scan 80 ends after Kannagi closes the casement against the Indra Festival lights, which still filter into her darkened house through the chinks;
+- next scan to process: **81**.
 
 ## Front-matter / opening structure encountered
 
