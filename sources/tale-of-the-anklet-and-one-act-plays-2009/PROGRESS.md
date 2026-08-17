@@ -5,13 +5,16 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 ## Current checkpoint
 
 - total scan pages reported by file reader: **158**;
-- scans **1–20**: transcribed / structurally recorded;
-- scans **10, 14 and 20**: blank;
+- scans **1–30**: transcribed / structurally recorded;
+- scans **10, 14, 20, 22 and 28**: blank;
 - scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam, printed pages `xiii–xvii`;
-- current boundary: end of the Introduction;
-- next scan to process: **21**.
+- scan **21**: section-title page `I — Tale of the Anklet`;
+- scans **23–27**: complete `Foreword` by C. N. Annadurai, printed pages `xxi–xxv`;
+- scans **29–30**: `Preface` by M. Karunanidhi begun, printed pages `xxvii–xxviii`;
+- current boundary: scan 30 ends mid-sentence after `...the ties became closer only after Karikaalan and`;
+- next scan to process: **31**.
 
-## Front-matter structure encountered
+## Front-matter / opening structure encountered
 
 1. front cover;
 2. back-cover quotation attributed to Arignar Anna;
@@ -26,7 +29,12 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 11–13. Contents;
 14. blank;
 15–19. Introduction by Prof. P. Marudanayagam (`xiii–xvii`);
-20. blank.
+20. blank;
+21. `I — Tale of the Anklet` section-title page;
+22. blank;
+23–27. Foreword by C. N. Annadurai (`xxi–xxv`);
+28. blank;
+29 onward. Preface by M. Karunanidhi (`xxvii–`).
 
 The Contents divide the volume into:
 
