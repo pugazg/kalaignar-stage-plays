@@ -22,9 +22,9 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 ## Progress
 
 - total scans: **163**
-- visually reviewed: **50/163**
-- passed: **31**
-- corrected-and-passed: **19**
+- visually reviewed: **60/163**
+- passed: **36**
+- corrected-and-passed: **24**
 - unresolved: **0**
 
 ### Completed scans 001–010
@@ -108,6 +108,23 @@ Detailed review notes for scans 031–040 are in `visual-review/SCANS_031_040.md
 
 Detailed review notes for scans 041–050 are in `visual-review/SCANS_041_050.md`.
 
+### Completed scans 051–060
+
+| Scan | Outcome | Review note |
+|---|---|---|
+| 051 | corrected-and-passed | Corrected section title to source `Queen of Artistes`; checked literal `kazhanju` footnote and `OAP - 4`. |
+| 052 | corrected-and-passed | Aligned section title to `Queen of Artistes`; dialogue and source punctuation checked. |
+| 053 | corrected-and-passed | Aligned section title and restored unusual printed punctuation `here. ,`. |
+| 054 | corrected-and-passed | Aligned repository section title to source `Queen of Artistes`; remaining text matched. |
+| 055 | corrected-and-passed | Resolved Raj Bhavan Library stamp as `11 JUL 2010` and `Chennai - 600 022`; publication text matched. |
+| 056 | passed | Kovalan/Kannagi exchange, stage directions, apostrophes and ellipses checked. |
+| 057 | passed | Family confrontation, `pikestaff`, `mischief-mongers`, apostrophes and ellipses checked. |
+| 058 | passed | Retained source `I have been hasty, son. and I am sorry`; closing lines checked. |
+| 059 | passed | `Parting Sparks Separation` opening, `Count Augustus`, pearl passage and stage direction checked. |
+| 060 | passed | Rome/beehive dialogue, ellipses, front-door directions, `same— I`, capitalized `Art`, and Madhavi exchange checked. |
+
+Detailed review notes for scans 051–060 are in `visual-review/SCANS_051_060.md`.
+
 ### Batch tracker
 
 - [x] 001–010
@@ -115,7 +132,7 @@ Detailed review notes for scans 041–050 are in `visual-review/SCANS_041_050.md
 - [x] 021–030
 - [x] 031–040
 - [x] 041–050
-- [ ] 051–060
+- [x] 051–060
 - [ ] 061–070
 - [ ] 071–080
 - [ ] 081–090
