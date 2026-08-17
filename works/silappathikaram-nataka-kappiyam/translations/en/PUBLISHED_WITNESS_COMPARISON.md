@@ -1,6 +1,6 @@
 # Published-English Secondary-Witness Comparison
 
-Status: **in progress — scenes 1–12 complete**
+Status: **in progress — scenes 1–15 complete**
 
 ## Purpose
 
@@ -34,7 +34,7 @@ The independent translation has **38 numbered Tamil scenes plus an unnumbered cl
 
 ## Progress
 
-- numbered scenes compared: **12/38**
+- numbered scenes compared: **15/38**
 - Tamil rechecks triggered: **0**
 - independent translation reviews triggered: **0**
 - completed comparison batches:
@@ -42,6 +42,7 @@ The independent translation has **38 numbered Tamil scenes plus an unnumbered cl
   - scenes 4–6 — `published-witness-comparison/SCENES_04_06.md`
   - scenes 7–9 — `published-witness-comparison/SCENES_07_09.md`
   - scenes 10–12 — `published-witness-comparison/SCENES_10_12.md`
+  - scenes 13–15 — `published-witness-comparison/SCENES_13_15.md`
 
 ### Scenes 1–3 high-level finding
 
@@ -85,6 +86,16 @@ The fourth batch further demonstrates the secondary witness's tendency to smooth
 
 Scenes 10–12 were each closed with decision **`no action`**.
 
+### Scenes 13–15 high-level finding
+
+The fifth batch identifies the clearest narrative substitution so far in the published witness, while again confirming the released independent translation.
+
+- scene 13: the independent translation preserves the source fish imagery, `according to Tamil custom`, Kannagi as a testimony to the greatness of the Tamil people, her strong defence of Madhavi, and the threefold final `None of you come here`. The published witness adds a completely new Vasantamalai/jewel-casket episode and interpretive narration not present in the verified Tamil.
+- scene 14: the verified Tamil explicitly contains a **young parrot** that kills the snake and is mistakenly killed by the woman. The independent translation preserves that story. The published witness substitutes a **mongoose and cobra**, a substantive narrative divergence. The independent translation also preserves the source's distinctions among `பிராமண`, `பார்ப்பன`, `அந்தணர்`, `மறையவர்`, and `தமிழ் மறை`, whereas the published witness largely collapses the husband into `brahmin` and omits the explicit `Tamil sacred lore` line.
+- scene 15: the independent translation preserves the full household-grief montage, `THADAAL`, volcano/spear/body imagery, repeated direct address and the explicit `drinking the taste of Tamil`. The published witness compresses the montage, replaces the Tamil-language image with generic `poetry of your speech`, and adds devotional/despair language not present in the verified Tamil.
+
+Scenes 13–15 were each closed with decision **`no action`**. The scene-14 parrot/mongoose divergence is recorded as secondary-witness evidence only and does not trigger a Tamil recheck because the verified Tamil reading is clear.
+
 ## Comparison record format
 
 For each aligned unit, record:
@@ -106,4 +117,4 @@ The independent translation has already passed scene-level review and a final En
 
 ## Next comparison batch
 
-Proceed with **scenes 13–15**, aligning each against the verified Tamil and corresponding visually verified 2009 witness sections before recording any finding.
+Proceed with **scenes 16–18**, aligning each against the verified Tamil and corresponding visually verified 2009 witness sections before recording any finding.
