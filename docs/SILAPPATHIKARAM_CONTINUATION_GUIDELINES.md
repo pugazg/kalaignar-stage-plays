@@ -2,7 +2,7 @@
 
 This file is a work-specific supplement to `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
-If there is any conflict, the controlling Tamil source scan and the repository-level processing guide take precedence.
+If there is any conflict, the controlling Tamil source scan and repository-level processing guide take precedence.
 
 ## 1. Source hierarchy
 
@@ -11,53 +11,29 @@ Use this order of authority:
 1. **Controlling Tamil scan**
 2. Verified archival page record derived from that scan
 3. Other pages in the same printed edition for glyph/font comparison
-4. User-provided reading, only after checking it against source pixels
+4. User-provided reading, after checking it against source pixels
 5. Published English translation or another edition, only as explicitly labelled secondary corroboration
 6. OCR/parsed text as assistive evidence only
 
-Never let a secondary witness overwrite a source-supported Tamil reading silently.
+Never let a secondary witness silently overwrite a source-supported Tamil reading.
 
 ## 2. No silent normalization
 
-Preserve the printed edition as an archive, not as a corrected edition.
-
-Do not silently change:
-
-- spelling;
-- historical/authorial forms;
-- sandhi or word spacing;
-- punctuation or ellipsis counts;
-- abbreviations;
-- speaker labels;
-- stage-direction brackets;
-- repeated words/phrases;
-- names;
-- numbers;
-- grammar that looks unusual;
-- visible typographical anomalies;
-- page numbers that look wrong or out of sequence.
+Preserve the printed edition as an archive, not a corrected edition. Do not silently change spelling, historical/authorial forms, word spacing, punctuation, ellipsis counts, abbreviations, speaker labels, stage-direction brackets, repetitions, names, numbers, unusual grammar or visible typographical anomalies.
 
 If the source visibly prints something unexpected, retain it and document it.
 
-## 3. Work by complete scene
+## 3. Work by complete scene / controlled translation unit
 
-The normal working unit is **one complete scene per activity**, not one arbitrary page.
+For Tamil archival work, the normal unit is one complete scene, not an arbitrary page. Establish the full physical scan extent and keep one page record per scan.
 
-Procedure:
+For English translation, use the accepted controlled batch/review discipline in `TRANSLATION_GUIDE.md` and `translations/en/TRANSLATION_REVIEW.md`. Every translated unit must pass its own review before promotion.
 
-1. Identify the `காட்சி-` opening.
-2. Inspect forward until the next numbered `காட்சி-` heading.
-3. Establish the scene's full physical scan extent.
-4. Process all scans belonging to that scene together when practical.
-5. Keep one page record per physical scan even when processing the whole scene as one activity.
+## 4. Page records and Tamil status
 
-Do not stop after one page merely because the page is dense. Do not merge scenes because they are short.
+Each physical scan has `pages/NNNN.md`.
 
-## 4. Page records and status
-
-Each physical scan must have its own `pages/NNNN.md` record.
-
-Use only these status values:
+Allowed Tamil page statuses:
 
 - `not-started`
 - `partial`
@@ -65,164 +41,115 @@ Use only these status values:
 - `verified`
 - `blocked`
 
-A structural survey can create a `needs-review` record with scene number, provisional title, setting, visible pagination, images and boundary information.
-
 `verified` requires direct visual checking of the complete page text and source layers.
 
 ## 5. Decorative headings
 
-Kalaignar's stage-play edition often uses stylized decorative scene titles.
-
-Rules:
-
-- Read the title from the image, not from context.
-- Enlarge the heading when necessary.
-- Distinguish decorative artwork from lexical text.
-- Do not convert a pictorial element into an inferred word unless the source actually prints that word.
-- If a heading is not secure, leave it provisional/`needs-review`.
+Read stylized titles from pixels, not context. Distinguish decorative artwork from lexical text. If a heading is not secure, leave it unresolved rather than infer from another edition.
 
 ## 6. Two-column pages
 
-Most dramatic pages use two-column composition.
-
-For each page:
-
-- establish left/right reading order visually;
-- track utterances and stage directions crossing the column boundary;
-- preserve the physical break in the archival page record when a word/utterance is split across columns;
-- do not trust OCR column ordering;
-- do not silently join a broken word in a way that hides the physical source boundary.
-
-Later scene assembly may join mechanical breaks, but provenance must remain recoverable.
+Establish reading order visually. Track utterances/stage directions crossing columns and preserve physical breaks in page records. Scene assembly may join only mechanical breaks while keeping provenance recoverable.
 
 ## 7. Page boundaries and pagination
 
-Printed pagination is recorded **only when visibly present**.
-
-Never infer a number from neighbouring pages.
-
-Known example: scan 73 visibly prints only `8`; that anomaly is intentionally preserved rather than converted into an expected sequence number.
-
-If no page number is securely visible, use `printed_page: null` and state that none was inferred.
+Record printed pagination only when visibly present. Never infer a page number from neighbouring pages. Known anomalies remain anomalies.
 
 ## 8. Stage directions and speaker labels
 
-Preserve speaker labels exactly, including abbreviated forms.
-
-Do not expand `கோவ`, `கண்`, `பொற்`, `அதி`, etc. unless the source itself prints the full form on that occurrence.
-
-Preserve:
-
-- brackets and unmatched brackets;
-- parentheses;
-- entrances/exits;
-- prose action;
-- physical action embedded between lines;
-- punctuation attached to speaker labels or dialogue.
-
-If a stage direction physically crosses a column/page boundary, record that boundary.
+Preserve source labels, including abbreviations, brackets/unmatched brackets, entrances/exits, prose action and punctuation. Do not expand source abbreviations in the Tamil archive.
 
 ## 9. Difficult-reading escalation
 
 Before leaving a literary reading unresolved:
 
-1. inspect the native scan;
-2. render an enlarged full page;
+1. inspect native scan;
+2. render enlarged full page;
 3. create targeted crops;
-4. compare nearest-neighbour and high-quality resampling;
-5. try grayscale/contrast/gamma/sharpening/threshold variants without altering the source file;
-6. compare recurring glyphs/fonts on neighbouring pages;
-7. inspect previous/next-page continuation;
-8. compare a user-provided reading against pixels;
-9. use another edition/translation only as labelled corroboration if still useful.
+4. compare resampling/contrast variants without altering the source;
+5. compare recurring glyphs on neighbouring pages;
+6. inspect page/column continuation;
+7. compare any user-provided reading against pixels;
+8. use another edition only as labelled corroboration if still useful.
 
 Do not guess from sentence meaning.
 
 ## 10. Illustrations, photographs and captions
 
-Treat visual material as a separate source layer.
+Treat visual material as a separate source layer. Transcribe printed captions verbatim; describe uncaptioned material neutrally; never turn image description into dramatic text.
 
-- If a printed caption exists, transcribe it verbatim.
-- If there is no caption, describe the image concisely and neutrally.
-- Do not identify a person/statue/object beyond what the source supports.
-- Do not turn image description into dramatic text.
+## 11. Library/accession marks and obstruction
 
-## 11. Library/accession marks
+Separate later stamps, accession numbers, handwriting, damage, stains and bleed-through from publication text.
 
-Separate later marks from publication text:
-
-- library stamps;
-- accession numbers;
-- handwriting;
-- pencil/ink annotations;
-- stains/damage;
-- bleed-through.
-
-Do not incorporate these into Kalaignar's text.
+The scan-88 closing-tableau library stamp is a permanent source-obstruction issue: obscured leading characters must remain unresolved unless the controlling scan itself supports recovery. Do not reconstruct them from another edition.
 
 ## 12. Repository write discipline
 
 Work directly in `pugazg/kalaignar-stage-plays` on `main` unless the user explicitly changes that instruction.
 
-After each completed scene, update at minimum:
+For meaningful checkpoint changes update as applicable:
 
-1. the relevant `pages/NNNN.md` files;
-2. `works/silappathikaram-nataka-kappiyam/indexes/page-map.md`;
-3. `works/silappathikaram-nataka-kappiyam/README.md`;
-4. root `HANDOVER.md`.
-
-When useful, update `docs/SILAPPATHIKARAM_PROJECT_HANDOVER.md` if the continuation checkpoint materially changes.
+- work README;
+- translation tracker and terminology register;
+- root `HANDOVER.md`;
+- `docs/SILAPPATHIKARAM_PROJECT_HANDOVER.md`;
+- next-chat prompt.
 
 Do not commit the source PDF.
 
 ## 13. Completed material is protected
 
-Scans already marked `verified` should not be reopened casually.
+Verified Tamil must not be reopened casually. A verified reading may change only when direct source pixels show the prior transcription was wrong, or a user correction is verified against the scan. Document every such correction.
 
-A verified reading may be changed only when:
+### Translation-stage scan-87 precedent
 
-- a direct source-pixel reinspection shows the prior transcription was wrong; or
-- the user provides a correction that is then verified against the scan.
+During scene-37 translation, direct enlarged source pixels proved three prior readings wrong and the archive was corrected:
 
-Document such corrections clearly.
+- `தீவர்களாம்` → `தலைவர்களாம்`;
+- `அன்ன நற்சோணையே` → `அன்னை நற்சோணையே`;
+- `சுடற்ற புலவனே` → `ஈடற்ற புலவனே`.
 
-Do not restart earlier scenes to reproduce work that is already complete.
+This is the model for a legitimate post-verification correction: source-pixel proof, documented page/scene update, no outside normalization.
 
-## 14. Translation is a later phase
+## 14. English translation discipline
 
-Do not begin English translation while Tamil page-level verification is still incomplete unless the user explicitly changes the project phase.
+English translation is now an active/near-complete project phase.
 
-When translation eventually begins:
+Translate from the **verified Tamil archival text** and return to source pixels whenever a Tamil reading is questioned.
 
-- translate from the **verified Tamil archival text**;
-- use the published English volume only as a secondary comparison witness;
-- preserve Kalaignar's rhetorical force, cadence, wit, repetition, dramatic timing and political/literary language;
-- do not retroactively change Tamil to fit an English edition.
+Preserve Kalaignar's rhetorical force, cadence, repetition, wit, satire, dramatic timing, imagery and political/literary language. Do not retroactively change Tamil to fit English.
+
+A published English edition, if consulted, is a labelled secondary witness only.
 
 ### Permanent terminology lock
 
-`அந்தணர்` is **not automatically equivalent to “Brahmin.”**
+`அந்தணர்` is **not automatically equivalent to “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்` and related source terms.
 
-Preserve distinctions among:
+Additional current controls include:
 
-- `பிராமண`
-- `பார்ப்பன`
-- `அந்தணர்`
-- `மறையவன்`
-- other context-specific source terms
-
-Decide English renderings only during dedicated terminology review.
+- `Tamilakam` versus contextual `Tamil land`;
+- `சுயமரியாதை` → `self-respect` when the actual word occurs;
+- `நாழிகை` → retained `naazhigai`;
+- source-supported state, retaliatory and martial violence must not be softened into invented procedure or generic prose.
 
 ## 15. Current project checkpoint
 
-At the time this guideline package was created:
+Current live state:
 
-- scans **1–75** are verified;
-- **காட்சி-1 through காட்சி-29** are complete;
-- `காட்சி-30` is structurally mapped on scan **76**;
-- scan 76 visibly prints page **60**;
-- provisional title: `சிலம்போ சிலம்பு`;
-- setting: `பொற்கொல்லர் நிலையம்`;
-- scan 77 begins `காட்சி-31`.
+- scans **1–88** verified;
+- Tamil transcription audit: **PASS**;
+- `காட்சி-1` through `காட்சி-38`: assembly-reviewed / visual fidelity passed;
+- separate `scenes/closing-tableau.md`: assembly-reviewed / visual fidelity passed;
+- global Tamil review: **PASS**;
+- English `translations/en/01.md` through `38.md`: **translation-reviewed / PASS**;
+- English progress: **38/38 numbered scenes**;
+- no published English edition used for scenes 1–38.
 
-Always re-read the live `page-map.md` and root `HANDOVER.md` because this checkpoint will advance over time.
+### Exact next controlled activity
+
+Translate the separate **unnumbered** `scenes/closing-tableau.md` — `கண்ணகி சிலை நாட்டு விழா`.
+
+Before drafting, inspect scan 88 and the verified tableau/page record, preserve the stamp-obscured uncertainty, and do not invent the obscured leading characters. After tableau PASS, run a final whole-English consistency/release review over scenes 1–38 plus the closing tableau.
+
+Always re-read the live `README.md`, `TRANSLATION_REVIEW.md` and handover documents because the checkpoint will continue to advance.
