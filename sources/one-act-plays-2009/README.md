@@ -51,6 +51,8 @@ This is a **published English secondary witness**. It is not the controlling sou
 - scan **162**: inside-cover / production-design page with no readable publication text;
 - scan **163**: back cover with Kalaignar biographical text, photograph, price, ISBN and Macmillan / Bharathiar University branding;
 - scan **135** contains copy-specific Raj Bhavan Library markings recorded separately from publication text;
-- the complete supplied **163-page PDF has now been processed**.
+- the complete supplied **163-page PDF has now been processed**;
+- **visual fidelity review: PASS — 163/163 physical scans reviewed, 0 unresolved**;
+- final review accounting: **109 passed, 54 corrected-and-passed**.
 
-See `PROGRESS.md` for the detailed live checkpoint.
+See `PROGRESS.md` and `VISUAL_FIDELITY_REVIEW.md` for the detailed checkpoint and page-by-page audit.
