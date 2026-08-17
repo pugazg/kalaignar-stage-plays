@@ -22,9 +22,9 @@ Review outcomes per scan: `passed`, `corrected-and-passed`, or `unresolved` with
 ## Progress
 
 - total scans: **163**
-- visually reviewed: **90/163**
-- passed: **53**
-- corrected-and-passed: **37**
+- visually reviewed: **100/163**
+- passed: **62**
+- corrected-and-passed: **38**
 - unresolved: **0**
 
 ### Completed scans 001–010
@@ -176,6 +176,23 @@ Detailed review notes for scans 071–080 are in `visual-review/SCANS_071_080.md
 
 Detailed review notes for scans 081–090 are in `visual-review/SCANS_081_090.md`.
 
+### Completed scans 091–100
+
+| Scan | Outcome | Review note |
+|---|---|---|
+| 091 | passed | Closing `Madhavi in Loneliness` confrontation checked, including `rack and ruin`, `Evil incarnate`, `Puhar`, and spaced ellipsis before the stage direction. |
+| 092 | passed | `Journey to Mathurai` title, Kaunthi Adigal introduction, `Poompuhar-on-Cauveri`, `merchant-prince`, and literal `Adigal` footnote checked. |
+| 093 | passed | `five six kaadhams+`, thirty-kaadham joke, travel imagery, conscience passage, Kausikan/epistle transition, `brahmin`, and literal `+ kaadham` footnote checked. |
+| 094 | passed | Madhavi epistle conclusion, `Your Beloved.`, Kovalan/Kausikan exchange and page-end scene closure checked. |
+| 095 | passed | `Madhavi’s Renunciation` title, repeated epistle text, five maids/trays of gold, `May I know . . .?`, and Masathuvan/Madhavi exchange checked. |
+| 096 | passed | Gold-return dialogue, repeated spaced ellipses, grandfather/Manimekalai stage direction and closing tear image checked. |
+| 097 | passed | `Near Mathurai` title, thorn episode, `Thirukkural`, `Sangam-Tamil`, source two-dot ending after `service . .`, and page continuation checked. |
+| 098 | passed | Fish episode and Kaunthi Adigal/Kovalan exchange checked, including `over-energetic`, `wry humour`, Pandya emblem reference and final stage direction. |
+| 099 | corrected-and-passed | Added the visible source production mark `OAP - 7`; literary text, `Tamil Sangam! on the greatness of Tamil`, palm-leaves and plagiarism dispute otherwise matched. |
+| 100 | passed | Completion of Nedunchezhian judgment checked, including `beyond reasonable doubt`, Tamil-work bonfire threat, `5000 kazhanjus of gold`, `plagiarist`, and court-dispersal direction. |
+
+Detailed review notes for scans 091–100 are in `visual-review/SCANS_091_100.md`.
+
 ### Batch tracker
 
 - [x] 001–010
@@ -187,7 +204,7 @@ Detailed review notes for scans 081–090 are in `visual-review/SCANS_081_090.md
 - [x] 061–070
 - [x] 071–080
 - [x] 081–090
-- [ ] 091–100
+- [x] 091–100
 - [ ] 101–110
 - [ ] 111–120
 - [ ] 121–130
