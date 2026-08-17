@@ -1,6 +1,6 @@
 # Published-English Secondary-Witness Comparison
 
-Status: **in progress — scenes 1–30 complete**
+Status: **in progress — scenes 1–33 complete**
 
 ## Purpose
 
@@ -32,14 +32,15 @@ The published witness was not used in drafting or reviewing the independent tran
 
 The independent translation has **38 numbered Tamil scenes plus an unnumbered closing tableau**. The 2009 published witness also numbers its Silappathikaram dramatic sections 1–38, but section titles, segmentation details and translator-added stage prose differ. Alignment is therefore verified by dramatic content and source sequence rather than assumed from numbering alone.
 
-Confirmed boundary mismatches now include:
+Confirmed boundary mismatches include:
 
 - verified Tamil Scene 18 continues into material placed by the 2009 witness under section 19 `Melody Breaks`;
-- verified Tamil Scene 25 continues into the queen-anklet corridor material that the 2009 witness moves to section 26 `Queen's Ornament`.
+- verified Tamil Scene 25 continues into the queen-anklet corridor material that the 2009 witness moves to section 26 `Queen's Ornament`;
+- the published witness sometimes inserts additional scene breaks inside one verified Tamil scene, as in Scene 33 after Kannagi collapses.
 
 ## Progress
 
-- numbered scenes compared: **30/38**
+- numbered scenes compared: **33/38**
 - Tamil rechecks triggered: **0**
 - independent translation reviews triggered: **0**
 - completed comparison batches:
@@ -53,8 +54,9 @@ Confirmed boundary mismatches now include:
   - scenes 22–24 — `published-witness-comparison/SCENES_22_24.md`
   - scenes 25–27 — `published-witness-comparison/SCENES_25_27.md`
   - scenes 28–30 — `published-witness-comparison/SCENES_28_30.md`
+  - scenes 31–33 — `published-witness-comparison/SCENES_31_33.md`
 
-## High-level findings through scene 30
+## High-level findings through scene 33
 
 The comparison consistently confirms the released independent translation as the closer witness to verified Tamil wording, scene structure, repetition, technical vocabulary, social terminology and rhetorical force.
 
@@ -63,19 +65,12 @@ Recurring secondary-witness tendencies include:
 - smoothing or compressing Kalaignar's repetitions and image chains;
 - adding explanatory or narrator-like prose not present in the verified Tamil;
 - generalizing or removing explicit Tamil-identity formulations such as `Tamilakam`, `தமிழர்`, `தமிழச்சி`, `தமிழ் அறம்`, and `தமிழ் மறை`;
-- domesticating named literary/performance terms such as `Muthamizh`, `iyal`, `isai`, `koothu`, `yazh`, `Kaanal Vari`, `thalaikkol`, `pann`, `oodal`, and `kuravai koothu`;
+- domesticating named literary/performance terms such as `Muthamizh`, `iyal`, `isai`, `koothu`, `yazh`, `Kaanal Vari`, `thalaikkol`, `pann`, `oodal`, `kuravai koothu`, and `abhinaya`;
 - collapsing source distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, and `மறையவன் / மறையவர்`;
 - modernizing royal, legal or institutional dialogue into vocabulary not stated by the source;
 - occasionally introducing substantive narrative, semantic or numerical differences, including the scene-14 replacement of the verified **parrot-and-snake** episode with a **mongoose-and-cobra** story, scene 21's alteration of Chitrapathi's admission into a claim that Madhavi never loved Kovalan, scene 23's alteration of Maasathuvan's `beloved daughter-in-law` to `beloved daughter`, and scene 29's **50,000 → 5,000 kalanju** change;
-- occasionally moving dramatic material across published section boundaries or omitting source scene openings.
-
-### Scenes 25–27 high-level finding
-
-- **scene 25:** the independent translation preserves the explicitly Tamil-centred justice rhetoric: disputants learned in Tamil, oath upon Tamil, `Tamil Sangam`, the refusal to permit `burning Tamil`, Arulalar as `the mother of this kaviyam`, and `five thousand kalanju of gold`. The published witness introduces modernized judicial terms including `perjury`, `beyond reasonable doubt`, confiscation/decree language, `research studies`, and a `drag on society` formulation not present in the verified Tamil. It also ends section 25 before the queen-anklet corridor sequence that remains part of verified Tamil Scene 25.
-- **scene 26:** the independent translation preserves Kalaignar's compact workshop dialogue, incomplete speech, conservative `malligai-kal`, and the theft only where the source stage direction states it. The published witness expands the scene with a safe and lock, a junior assistant, `juvenile delinquent`, `royal metal`, a second experienced artisan and narrator commentary about the chief goldsmith's ignorance. Its section 26 also absorbs the corridor material belonging to verified Tamil Scene 25.
-- **scene 27:** the independent translation preserves `Aychiyar`, `Aayar people`, `milk-rice for the Jain ascetics`, Madhari's colloquial hospitality, and `She is now under your protection!`. The published witness removes the milk/Jain specificity, adds `Welcome to Mathurai`, `pious and hospitable`, `spick and span`, `plain living`, `noble thinking`, and converts Kavundhi's relational entrustment into the stronger quasi-legal `ward / personally responsible` formulation.
-
-Scenes 25–27 were each closed with decision **`no action`**.
+- occasionally moving dramatic material across published section boundaries, inserting new scene breaks, or omitting source scene openings;
+- occasionally adding interpretive causation or symbolism not stated by Kalaignar, most notably Scene 33's claim that the spreading fire moves toward Madurai as if at Kannagi's bidding.
 
 ### Scenes 28–30 high-level finding
 
@@ -84,6 +79,14 @@ Scenes 25–27 were each closed with decision **`no action`**.
 - **scene 30:** the independent translation preserves the complete opening in which the chief goldsmith questions all hundred goldsmiths, including repeated `Not us!`, the winged-anklet joke and `daylight robber`, before moving to Kovalan's street sale. The published witness omits that entire opening, flattens `Anklet, O Anklet!` to `Anklet for Sale`, removes colloquial `Adeyappa / Adededede`, expands the `house that once knew prosperity` aside, alters the two men's staging, and adds narrator inference that they understand the goldsmith's special gesture.
 
 Scenes 28–30 were each closed with decision **`no action`**. The scene-29 50,000/5,000 divergence does not trigger a Tamil recheck because the verified Tamil is clear.
+
+### Scenes 31–33 high-level finding
+
+- **scene 31:** the independent translation preserves `The Sceptre Bent`, the queen's source-specific domestic/public-duty complaint, the compact corridor report, and the king's full abrupt command **`Go at once, kill him, and return!`**. The published witness again calls the chamber a `Sanctum`, adds narrator psychology (`black mood`), rewrites parts of the queen's complaint, states that the clasp had already been mended, and gives the lethal command as `Konru varugha` plus an editorial gloss rather than directly carrying the whole Tamil imperative.
+- **scene 32:** the independent translation preserves the source title **`Kovalan's Blood on Madurai Soil`**, spaced `T h i e f`, Mother-Tamil womb/land imagery, dark-mind/theft-trade word-pairing, the distinct accumulation `justice—rectitude—aram—love—Tamil`, `half an atom of injustice`, face-sign justice imagery, `gold of ten-and-a-half assay`, `Appeyo`, veena/street-dust, morning-star, `makara-yazh`, tower-pavilion and `arrow called thief`. The published witness retitles the scene `Virtue Mowed down`, adds modern legal/idiomatic language such as `scapegoats`, `rule of law`, `equity`, and `physiognomy`, compresses the Tamil-identity passage, and substitutes large amounts of newly invented romantic imagery.
+- **scene 33:** the independent translation preserves `Kuravai Koothu`, `abhinaya`, the continuous stage sequence, the remembered **`Shall I go and return, my dear!`**, doubled/tripled shock repetitions, `Emotion becomes a gathering sea`, and the accidental fire sequence from the fallen standing lamp. The published witness generalizes the performance to `folk dance`, inserts a new scene break at Madhari's dwelling, compresses Kannagi's repetitions, and adds a strong interpretive claim that a wind drives the fire toward Madurai **as if at the bidding of Kannagi the symbol of chastity**—causation not stated in the verified Tamil.
+
+Scenes 31–33 were each closed with decision **`no action`**.
 
 ## Comparison record format
 
@@ -102,8 +105,8 @@ For each aligned unit, record:
 
 The published witness remains analytically valuable as a historical English rendering, but it is not an authority for changing the verified Tamil or the independently reviewed English translation.
 
-No comparison through scene 30 has triggered a Tamil recheck or independent-translation re-review.
+No comparison through scene 33 has triggered a Tamil recheck or independent-translation re-review.
 
 ## Next comparison batch
 
-Proceed with **scenes 31–33**, aligning each against the verified Tamil and corresponding visually verified 2009 witness material before recording any finding.
+Proceed with **scenes 34–36**, aligning each against the verified Tamil and corresponding visually verified 2009 witness material before recording any finding.
