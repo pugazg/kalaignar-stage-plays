@@ -27,17 +27,17 @@ English translation is active under:
 
 ### Current translation checkpoint
 
-Scenes **1–29** are translated and individually reviewed / PASS.
+Scenes **1–32** are translated and individually reviewed / PASS.
 
-English progress: **29 / 38 numbered scenes**.
+English progress: **32 / 38 numbered scenes**.
 
-No published English edition was used in drafting or reviewing scenes 1–29.
+No published English edition was used in drafting or reviewing scenes 1–32.
 
 ### Latest translation findings
 
-- **Scene 27 — `ஆய்ச்சியர் அறிமுகம்`** retains `Aychiyar / Aayar`, Jain-ascetic hospitality, `milk-rice`, Madhari's relational warmth and Kannagi's entrustment/protection without a modern caste gloss.
-- **Scene 28 — `பொற்கொல்லர் முறையீடு`** preserves the unmatched bracket, `[oodal]`, royal-couple humour, `Tamil... is a breeze! It enters everywhere.`, an independently translated quoted verse and `hall of justice` for the royal `நீதி மன்றம்` context.
-- **Scene 29 — `ஒற்றைச் சிலம்பின் ஒலி`** preserves Pandya trade planning, Kannagi's anklet as economic capital, domestic food/taamboolam/decoration sequences, `kuravai koothu`, one-anklet removal, `kanir, kanir`, the source-opaque insult-string without guesswork, and the remaining anklet's moral poetic voice.
+- **Scene 30 — `சிலம்போ சிலம்பு`** preserves the hundred-goldsmith denial, comic colloquial rhythm, road sale sequence, ruby contents and the chief goldsmith's private recognition without granting Kovalan later knowledge.
+- **Scene 31 — `வளைந்தது செங்கோல்`** renders the title `The Sceptre Bent`, preserving `செங்கோல்` as righteous-rule symbolism, the `நாடு பெரியது` claim, protected unmatched bracket and the unsoftened command `Go at once, kill him, and return!`.
+- **Scene 32 — `மதுரை மண்ணில் கோவலன் குருதி`** preserves Kovalan's `T h i e f` shock, Mother-Tamil identity, `heart steeped in Tamil`, justice—rectitude—aram—love—Tamil accumulation, atom-scale injustice image, assay-gold metaphor, `makara-yazh`, repeated humiliation-lament and final sword-blow.
 
 ## Kalaignar-language and Dravidian-movement interpretation rule
 
@@ -47,39 +47,37 @@ Preserve source-supported resonances with Dravidian movement concepts — Tamil 
 
 Use a separate `## Dravidian movement resonance — interpretive note` when useful.
 
-For scenes 27–29:
+For scenes 30–32:
 
-- scene 27: dignity through hospitality, protection and culturally specific Aayar/Aychiyar social memory;
-- scene 28: Tamil as an everyday/intimate cultural atmosphere, plus learning, inquiry and justice;
-- scene 29: Kannagi's material/economic agency, Kovalan's conscience rather than fatalism, and Tamil domestic/performance culture embedded in ordinary life.
+- scene 30: human choice, suspicion and institutional action create the trap rather than fate;
+- scene 31: the `sengol` bends when a king who speaks of public duty abandons inquiry and orders immediate killing;
+- scene 32: Kovalan explicitly appeals to Tamil, justice, rectitude, aram, love and the ruler's reputation before state violence denies him the hearing he expects.
 
 ## Permanent terminology lock
 
 `அந்தணர்` is **not automatically “Brahmin.”** Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்`, and related source terms.
 
-New active decisions through scene 29 include:
+New active decisions through scene 32 include:
 
-- `ஆய்ச்சியர்` → retained `Aychiyar`;
-- `ஆயர்குல மங்கை` → `a woman of the Aayar people` in scene 27;
-- `பாற்சோறு` → `milk-rice`;
-- `அடைக்கலம்` → contextual protection/refuge/charge;
-- `புறத்துறைப் பாடல் / புறப்பாடல்` → retained `puram` terminology in scene 28;
-- `நீதி மன்றம்` → `hall of justice` in scene 28's royal setting;
-- `குரவைக் கூத்து` → `kuravai koothu`;
-- `தாம்பூலம்` → `taamboolam`;
-- `கணீர் கணீர்` → `kanir, kanir`;
-- source-opaque `ஆவிநிகர் மீனியாளே ஆளவிட்ட கரும்பாக்கி` → transliterated rather than guessed.
+- `செங்கோல்` → contextual `sceptre`, with righteous-rule force retained;
+- `நீதி மன்றம்` → `hall of justice` in the royal setting;
+- `நேர்மை` → contextual `rectitude / uprightness / integrity`, scene 32 → `rectitude`;
+- `பஞ்சமா பாதங்கள்` → contextual `five great sins`, without doctrinal expansion;
+- `சீதளச் செந்தமிழாள்` → scene-specific `my cool-graced woman of refined Tamil`;
+- `பத்தரை மாற்றுத் தங்கம்` → `gold of ten-and-a-half assay`;
+- `மகர யாழ்` → `makara-yazh`;
+- `அநீதி, அணுவிலோர் பாதி` → `even half an atom of injustice`.
 
 The published English edition, if later consulted, remains a **secondary comparison witness only**.
 
-## Exact next activity — controlled batch scenes 30–32
+## Exact next activity — controlled batch scenes 33–35
 
 Translate and individually review:
 
-1. `காட்சி-30 — சிலம்போ சிலம்பு`, initial setting `பொற்கொல்லர் நிலையம்`, internal `சாலை`;
-2. `காட்சி-31 — வளைந்தது செங்கோல்`, initial setting `நெடுஞ்செழியன் பள்ளியறை`, internal `தாழ்வாரம்`;
-3. `காட்சி-32 — மதுரை மண்ணில் கோவலன் குருதி`, setting `வீதியிலுள்ள மண்டபம்`.
+1. `காட்சி-33 — கணவன் கள்வனா?`, setting `குரவைக் கூத்து`;
+2. `காட்சி-34 — வஞ்சினங் கூறுதல்`, setting `வீதியிலுள்ள மண்டபம்`;
+3. `காட்சி-35 — வழக்குரை படலம்`, beginning at `பாண்டியன் கொலு மண்டபம் (வெளியே)` and continuing through the major court confrontation across scans 82–85.
 
-Scene 30 requires colloquial/workshop timing and careful handling of the chief goldsmith's recognition. Scene 31 requires preservation of the unmatched opening bracket and the king's abrupt killing order without softening it. Scene 32 requires full retention of Kovalan's rhetorical appeals to Tamil, justice, aram and Nedunchezhiyan's reputation, while distinguishing accusation, self-accounting and institutional violence.
+Scene 33 requires grief-performance overlap, memory, repeated denial and the fire-stage sequence. Scene 34 requires the full shift from grief to Kannagi's vow, blood-tilak action and removal of the remaining anklet. Scene 35 is a major justice/oratory scene: preserve Poompuhar/Chola justice history, Muthamizh and three-crowned-kings rhetoric, direct criticism of hasty judgment and the anklet evidence without modernizing Kalaignar into generic courtroom prose.
 
 Each scene must independently pass coverage, semantics, Kalaignar voice, terminology, stage timing and Dravidian-context separation review.
