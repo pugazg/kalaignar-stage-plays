@@ -5,7 +5,7 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 ## Current checkpoint
 
 - total scan pages reported by file reader: **158**;
-- scans **1–60**: transcribed / structurally recorded;
+- scans **1–70**: transcribed / structurally recorded;
 - scans **10, 14, 20, 22, 28 and 36**: blank;
 - scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam, printed pages `xiii–xvii`;
 - scan **21**: section-title page `I — Tale of the Anklet`;
@@ -20,10 +20,14 @@ Source: `TVA_BOK_0065513_Tale_of_the_anklet_and_one_act_plays.pdf` (supplied sca
 - scans **47–50**: section 6, `Beauteous Pride of Poompuhar`, printed pages 13–16, complete;
 - scans **51–54**: section 7, `Queen of Artists`, printed pages 17–20, complete;
 - scans **55–58**: section 8, `Kannagi in Wedded Bliss`, printed pages 21–24, complete;
-- scans **59–60**: section 9, `Parting Sparks Separation`, printed pages 25–26, in progress;
+- scans **59–61**: section 9, `Parting Sparks Separation`, printed pages 25–27, complete;
+- scans **62–64**: section 10, `Madhavi Conquers`, printed pages 28–30, complete;
+- scans **65–66**: section 11, `Bravery in Grief`, printed pages 31–32, complete;
+- scans **67–68**: section 12, `Kovalan in Newfound Joy`, printed pages 33–34, complete;
+- scans **69–70**: section 13, `Kannagi in Loneliness`, printed pages 35–36, in progress;
 - scan **55** includes copy-specific Raj Bhavan Library markings overlapping the page; these are recorded separately from publication text;
-- current boundary: scan 60 ends with Kannagi arriving at the doorway after Vasantamalai’s late-night appeal to Kovalan on Madhavi’s behalf;
-- next scan to process: **61**.
+- current boundary: scan 70 ends after Manaykan asks Kannagi whether, having lost her husband, she must also part with wealth;
+- next scan to process: **71**.
 
 ## Front-matter / opening structure encountered
 
