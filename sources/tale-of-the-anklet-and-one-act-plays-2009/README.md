@@ -32,8 +32,9 @@ It must never silently override the controlling Tamil scan or the verified Tamil
 
 ## Progress
 
-- scans 1–13: initial front-matter batch created;
-- scan 10: blank page;
-- next activity: continue from scan 14 onward, beginning the Introduction/front matter and then the published translation proper.
+- scans **1–20**: transcribed / structurally recorded;
+- scans **10, 14 and 20**: blank;
+- scans **15–19**: complete `Introduction` by Prof. P. Marudanayagam, printed pages `xiii–xvii`;
+- next activity: continue from **scan 21**, entering the `Tale of the Anklet` portion of the published English edition.
 
 See `PROGRESS.md` for the live checkpoint.
