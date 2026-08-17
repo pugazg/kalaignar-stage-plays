@@ -38,15 +38,18 @@ This is a **published English secondary witness**. It is not the controlling sou
 - printed wording, spelling, punctuation, capitalization and source-specific terminology are preserved as printed;
 - library stamps, handwriting and accession marks are recorded separately from literary text;
 - no modernization, correction or harmonization is introduced silently;
-- blank scans are explicitly recorded.
+- blank scans are explicitly recorded;
+- source incompleteness is preserved rather than silently repaired from another edition.
 
 ## Progress
 
-- scans **131–150**: transcribed / structurally recorded;
+- scans **131–158**: all available one-act-play pages transcribed / structurally recorded;
 - `Anarkali`: scans **135–140**, Scenes 1–4, complete;
 - `Cheran Senguttuvan`: scans **141–149**, Scenes 1–4, complete;
-- `Socrates`: begins at scan **150** with its introductory page; dramatic text continues from the next scan;
+- `Socrates`: scans **150–158** available in this PDF;
+- `Socrates` Scenes 1–4 are complete in the supplied scan; Scene 5 begins on scan 158;
+- the supplied PDF **ends mid-sentence** on scan 158 after `Poison is`, so `Socrates` remains source-incomplete in this particular scan;
 - scan **135** contains copy-specific Raj Bhavan Library markings recorded separately from publication text;
-- next activity: continue from **scan 151**.
+- there is no further scan to transcribe in the supplied 158-page PDF.
 
 See `PROGRESS.md` for the detailed live checkpoint.
