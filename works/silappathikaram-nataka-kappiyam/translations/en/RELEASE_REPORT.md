@@ -1,10 +1,10 @@
 # English Translation Release Report — சிலப்பதிகாரம் நாடகக் காப்பியம்
 
-Release status: **READY**
+Release status: **READY / CLOSED FOR CURRENT SOURCE**
 
 ## Scope
 
-The complete English translation now covers:
+The complete English translation covers:
 
 - numbered scenes **1–38**;
 - the separate unnumbered closing tableau `கண்ணகி சிலை நாட்டு விழா`.
@@ -35,6 +35,22 @@ The release continues to document rather than conceal unresolved or source-speci
 
 During Scene 37 translation, direct source-pixel reinspection established three Tamil corrections before the English was finalized: `தலைவர்களாம்`, `அன்னை நற்சோணையே`, and `ஈடற்ற புலவனே`. These corrections are documented in the archive and handover materials.
 
+## Completed post-release secondary-witness comparison
+
+After the independent translation and its reviews were complete, the entire work was compared against the separately transcribed and visually verified 2009 published-English witness.
+
+Comparison result: **PASS / COMPLETE**.
+
+- numbered scenes compared: **38/38**;
+- closing tableau compared: **1/1**;
+- Tamil rechecks triggered: **0**;
+- independent-translation re-reviews triggered: **0**;
+- translation changes imported from the secondary witness: **0**.
+
+The comparison confirms the authority separation: the published edition is valuable as a historical/analytical witness but does not replace the verified Tamil or independently reviewed translation.
+
+See `PUBLISHED_WITNESS_COMPARISON.md` and `published-witness-comparison/`.
+
 ## Release inventory
 
 Core English release files:
@@ -47,6 +63,11 @@ Core English release files:
 - `FINAL_ENGLISH_CONSISTENCY_REVIEW.md`;
 - `RELEASE_REPORT.md`.
 
+Post-release analytical layer:
+
+- `PUBLISHED_WITNESS_COMPARISON.md`;
+- `published-witness-comparison/SCENES_*.md`.
+
 Supporting controls:
 
 - `../../TRANSLATION_GUIDE.md`;
@@ -55,6 +76,6 @@ Supporting controls:
 
 ## Final release decision
 
-**READY — English translation phase complete for the supplied source.**
+**READY / CLOSED FOR CURRENT SOURCE — English translation and secondary-witness comparison complete.**
 
-Any future work should be treated as a new phase: publication packaging, formatting, metadata/export preparation, or a separately labelled comparison against a published English witness. Such work must not retroactively overwrite the verified Tamil or this independently produced translation without documented review.
+No source-independent translation work remains pending. Any later textual change must be supported by controlling Tamil evidence and pass documented review rather than being imported from the published English witness.
