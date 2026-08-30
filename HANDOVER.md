@@ -8,7 +8,7 @@ Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
 ## Active controlling source — கலைஞரின் நான்மணி மாலை
 
-A new authentic Tamil source has been supplied, reopening the repository's one-act-play Tamil work:
+An authentic Tamil source has reopened the repository's one-act-play Tamil work:
 
 - filename: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`;
 - scans: **54**;
@@ -26,7 +26,7 @@ Source registry: `sources/naanmani-malai-tamil/`.
 ## Physical source map
 
 - scans **1–5**: shared front matter;
-- scans **6–17**: **பரதாயணம்**; scan 6 has no visible printed page number, scans 7–17 show pages 2–12;
+- scans **6–17**: **பரதாயணம்**; scan 6 unnumbered, scans 7–17 printed pages 2–12;
 - scans **18–26**: **அனார்கலி**, printed pages 13–21;
 - scans **27–43**: **சாக்ரடீஸ்**, printed pages 22–38; scans 27–28 are introductory note;
 - scans **44–53**: **சேரன் செங்குட்டுவன்**, printed pages 39–48;
@@ -38,25 +38,39 @@ The publisher's note on scan 5 explicitly names these four short plays.
 
 The user supplied a Gemini first-pass transcription of the volume. Treat it only as a working/navigation layer.
 
-The scan is controlling. Every word must be visually checked. Do not silently normalize old Tamil glyphs, spelling, punctuation, speaker labels, repetition, stage directions, physical line splits or apparent source anomalies.
-
-The first verified page already proves that the first pass contains material OCR/order errors: scan 6 has a non-Tamil OCR fragment and loses/reorders the opening `பாக` / `சிஷ்` dialogue around `உலகமென்றால்........?`.
+The scan is controlling. Every word must be visually checked. Do not silently normalize old Tamil glyphs, spelling, punctuation, speaker labels, repetition, stage directions, physical line/page breaks or apparent source anomalies.
 
 ## Active work — பரதாயணம்
 
 Work folder: `works/bharathayanam/`.
 
-Current durable checkpoint:
+### Page-level Tamil checkpoint — COMPLETE
 
-- scan **6**: **verified** at `pages/0006.md`;
-- next scan: **7** / printed page **2**;
-- remaining `பரதாயணம்` scans **7–17**: not started.
+- scans **6–17**: **12/12 visually verified**;
+- files: `pages/0006.md` through `pages/0017.md`;
+- unresolved literary-text readings: **0** in this pass;
+- material Gemini/source differences: `FIRST_PASS_DISCREPANCIES.md`.
 
-Next activity: visually verify scans **7–17** sequentially against the Gemini first pass and record discrepancies. Do not move to `அனார்கலி` until this play's page-level Tamil pass is complete.
+Important source-controlled findings that must not be reverted:
+
+- scan 9: `நடத்து`, and `இது தான்`;
+- scan 10: `(கோபமாக) என்னு சொல்லு!`;
+- scan 11: `கன்யா சுல்க`, `நான் காரணமாயிருக்கமாட்டேன்`, `எப்படியம்மா?`;
+- scan 12: **`பட்டங் கட்டிவிட்டு`**, not Gemini's `பட்டங் சட்டிவிட்டு`;
+- scan 13: `இட்டது தான்`, `ஒரு நாடகம்`;
+- scan 14: source line `சிஷ் : சீதை........` exists and was omitted by Gemini;
+- scan 15→16: page-final `பாதுகாப்` + next-page initial `பாக` = physical `பாதுகாப்பாக`; scan-16 initial `பாக` is not a speaker label;
+- scan 15: source physically prints anomalous `நீயல்ல` / `வர் தெய்வம்!`; do not normalize to `நீயல்லவா தெய்வம்!`;
+- scan 17: two consecutive `சிஷ்` labels are source-real; preserve them;
+- ending forms `மோக்ஷத்திற்குப்`, `மோட்சத்திற்கும்`, `மோசத்திற்கும்`, `நமப் பகுத்தறிவுபதே!` are source-controlled.
+
+### Exact next activity
+
+Assemble the continuous `பரதாயணம்` text from **verified page records only**, with provenance back to scans 6–17 and explicit handling of page-boundary continuations. Run a page-record ↔ assembled-text fidelity audit. **Do not start `அனார்கலி` in the same activity.**
+
+After the `பரதாயணம்` assembly/fidelity gate passes, begin `அனார்கலி` at scan **18** / printed page **13**.
 
 ## Existing one-act work entities
-
-The previously registered work entities now have a controlling Tamil source:
 
 - `works/anarkali/` — Tamil scans **18–26**;
 - `works/socrates/` — Tamil scans **27–43**;

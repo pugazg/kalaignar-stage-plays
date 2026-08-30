@@ -9,8 +9,7 @@ Printed pagination is recorded only where directly visible. This map is a struct
 | 3 | — | rights / price / printer | partial | `© பதிப்புரிமை`; `விலை ரூ. 4/-`; `ஜெம் பிரஸ், சென்னை - 600 001`. |
 | 4 | — | `என்னுரை` | partial | Full front-matter transcription pending. |
 | 5 | — | `பதிப்புரை` | partial | Names all four plays; full transcription pending. |
-| 6 | — | `பரதாயணம்` opening | verified | Archived at `../../../works/bharathayanam/pages/0006.md`; no printed page number inferred. |
-| 7–17 | 2–12 | `பரதாயணம்` | not-started | Gemini first pass available; direct visual verification pending. |
+| 6–17 | — / 2–12 | `பரதாயணம்` | verified | **12/12 scans visually verified**; material Gemini discrepancies logged under the work folder. |
 | 18–26 | 13–21 | `அனார்கலி` | not-started | Four scenes; direct visual verification pending. |
 | 27–43 | 22–38 | `சாக்ரடீஸ்` | not-started | Introductory note + Scenes 1–5; direct visual verification pending. |
 | 44–53 | 39–48 | `சேரன் செங்குட்டுவன்` | not-started | Four scenes; direct visual verification pending. |
@@ -18,4 +17,4 @@ Printed pagination is recorded only where directly visible. This map is a struct
 
 ## Next physical checkpoint
 
-Continue with scan **7** (`பரதாயணம்`, printed page 2) and proceed sequentially through scan **17**.
+`பரதாயணம்` page-level verification is complete. Assemble and fidelity-audit that work first; then continue with scan **18** (`அனார்கலி`, printed page **13**).

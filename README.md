@@ -20,7 +20,7 @@ See [`STAGE_PLAY_PROCESSING_GUIDE.md`](STAGE_PLAY_PROCESSING_GUIDE.md) for the p
 | Work | Current authority/source | Status |
 |---|---|---|
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | controlling Tamil scan `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` | **Tamil archive COMPLETE / PASS; 38/38 scenes + closing tableau; independent English COMPLETE / READY; secondary-witness comparison COMPLETE / PASS** |
-| [பரதாயணம்](works/bharathayanam/) | controlling Tamil composite scan `TVA_BOK_0065576_நான்மணி_மாலை.pdf`, scans 6–17 | **source registered; scan 6 verified; scans 7–17 pending** |
+| [பரதாயணம்](works/bharathayanam/) | controlling Tamil composite scan `TVA_BOK_0065576_நான்மணி_மாலை.pdf`, scans 6–17 | **Tamil page verification COMPLETE — 12/12; assembly/fidelity audit next** |
 | [Anarkali](works/anarkali/) | same controlling Tamil source, scans 18–26; verified 2009 English secondary witness also retained | **Tamil source registered; page verification pending** |
 | [Socrates](works/socrates/) | same controlling Tamil source, scans 27–43; verified 2009 English secondary witness also retained | **Tamil source registered; page verification pending** |
 | [Cheran Senguttuvan](works/cheran-senguttuvan/) | same controlling Tamil source, scans 44–53; verified 2009 English secondary witness also retained | **Tamil source registered; page verification pending** |
@@ -32,6 +32,8 @@ The supplied **54-scan** volume `TVA_BOK_0065576_நான்மணி_மால
 It contains four short plays named in the publisher's note: `பரதாயணம்`, `அனார்கலி`, `சாக்ரடீஸ்`, and `சேரன் செங்குட்டுவன்`.
 
 The user supplied a Gemini first-pass transcription for the volume. It is navigation assistance only. Direct visual comparison with the source scan controls every archival reading, including old-style Tamil glyphs.
+
+`பரதாயணம்` has now completed **12/12 page-level visual verification**. Material OCR/source differences are recorded in [`works/bharathayanam/FIRST_PASS_DISCREPANCIES.md`](works/bharathayanam/FIRST_PASS_DISCREPANCIES.md).
 
 ## Silappathikaram navigation
 
@@ -55,4 +57,4 @@ It cannot override the newly supplied controlling Tamil pages.
 
 The earlier source-limited closure is reopened by the new Tamil `நான்மணி மாலை` source.
 
-Current active work: **`பரதாயணம்`**. Scan **6** is verified. Continue sequentially with scans **7–17**, then process `அனார்கலி`, `சாக்ரடீஸ்`, and `சேரன் செங்குட்டுவன்` from the same physical volume.
+Current active work: **`பரதாயணம்`**. Its page-level Tamil verification is complete. Next assemble the continuous play strictly from verified pages and run a fidelity audit; after that continue sequentially with `அனார்கலி`, `சாக்ரடீஸ்`, and `சேரன் செங்குட்டுவன்`.
