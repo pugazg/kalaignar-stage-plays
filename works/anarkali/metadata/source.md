@@ -11,15 +11,19 @@
 - Source collection: **கலைஞரின் நான்மணி மாலை**
 - Source-printed scenes: **4**
 - Tamil page-level visual verification: **COMPLETE — 9/9 scans**
-- Unresolved literary-text readings at page gate: **0**
+- Tamil scene assembly: **COMPLETE — 4/4 scenes**
+- Page-record ↔ scene-assembly fidelity: **PASS**
+- Unresolved literary-text / assembly readings: **0**
 
 Scene/source range:
 
-- `காட்சி—1`: scan 18 / printed p.13;
-- `காட்சி—2`: scans 19–21 / pp.14–16;
-- `காட்சி—3`: scans 22–24 / pp.17–19;
-- `காட்சி—4`: scans 25–26 / pp.20–21.
+- `காட்சி—1`: scan 18 / printed p.13 — `../scenes/01.md`;
+- `காட்சி—2`: scans 19–21 / pp.14–16 — `../scenes/02.md`;
+- `காட்சி—3`: scans 22–24 / pp.17–19 — `../scenes/03.md`;
+- `காட்சி—4`: scans 25–26 / pp.20–21 — `../scenes/04.md`.
 
-This scan is the controlling Tamil authority. The user-supplied Gemini first pass is assistive only. The already verified 2009 published-English witness remains secondary and must not override source-visible Tamil.
+This scan is the controlling Tamil authority. The user-supplied Gemini first pass is assistive only. The already verified 2009 published-English witness remains secondary and did not control either the verified Tamil pages or the scene assembly.
 
-Next: assemble the four scenes strictly from verified page records and run the page-record ↔ scene-assembly fidelity gate.
+Assembly review: `../ASSEMBLY_FIDELITY_REVIEW.md`.
+
+Next source-sequential Tamil activity: begin `சாக்ரடீஸ்` at scan **27** / printed page **22**.

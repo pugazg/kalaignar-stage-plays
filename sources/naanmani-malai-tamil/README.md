@@ -21,7 +21,7 @@ See `metadata/source.md` for the full source record.
 The publisher's note on scan 5 names four short plays in this volume:
 
 1. **பரதாயணம்** — scans **6–17**; Tamil page verification **COMPLETE (12/12)**; continuous assembly/fidelity **PASS / COMPLETE**; independent English translation **PASS / COMPLETE**.
-2. **அனார்கலி** — scans **18–26**; printed pages **13–21**; Tamil page verification **COMPLETE (9/9)**; four-scene assembly/fidelity next.
+2. **அனார்கலி** — scans **18–26**; printed pages **13–21**; Tamil page verification **COMPLETE (9/9)**; four-scene assembly/fidelity **PASS / COMPLETE**.
 3. **சாக்ரடீஸ்** — scans **27–43**; printed pages **22–38**; scans 27–28 are the printed introductory note; Tamil verification pending.
 4. **சேரன் செங்குட்டுவன்** — scans **44–53**; printed pages **39–48**; Tamil verification pending.
 
@@ -41,8 +41,9 @@ Do not silently normalize old Tamil glyph forms, spelling, punctuation, speaker 
 ## Current checkpoint
 
 - `பரதாயணம்` scans **6–17**: Tamil page/assembly gate **PASS / COMPLETE**; reviewed English translation **PASS / COMPLETE**.
-- `அனார்கலி` scans **18–26**: **9/9 visually verified** at `../../works/anarkali/pages/`.
-- `அனார்கலி` material source-control notes: `../../works/anarkali/FIRST_PASS_DISCREPANCIES.md`.
+- `அனார்கலி` scans **18–26**: **9/9 visually verified**, four source scenes **4/4 assembled**, page-record ↔ scene-assembly fidelity **PASS / COMPLETE**.
+- `அனார்கலி` scenes: `../../works/anarkali/scenes/01.md` through `04.md`.
+- `அனார்கலி` assembly audit: `../../works/anarkali/ASSEMBLY_FIDELITY_REVIEW.md`.
 - remaining unverified body scans: **27–53** (`சாக்ரடீஸ்`, `சேரன் செங்குட்டுவன்`).
 
-Next activity remains within `அனார்கலி`: assemble source-printed `காட்சி—1` through `காட்சி—4` strictly from verified page records and run the page-record ↔ scene-assembly fidelity review. Do not begin `சாக்ரடீஸ்` in that same activity.
+Next source-sequential Tamil activity: begin **`சாக்ரடீஸ்` at scan 27 / printed page 22**. Scans 27–28 are introductory text before its numbered scenes. The Gemini transcription remains assistive only and the completed 2009 English witness remains secondary.

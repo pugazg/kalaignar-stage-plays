@@ -10,16 +10,21 @@ Printed pagination is recorded only where directly visible. This map is a struct
 | 4 | — | `என்னுரை` | partial | Full front-matter transcription pending. |
 | 5 | — | `பதிப்புரை` | partial | Names all four plays; full transcription pending. |
 | 6–17 | — / 2–12 | `பரதாயணம்` | assembly-reviewed | **12/12 scans verified; Tamil assembly/fidelity PASS; English translation PASS**. |
-| 18 | 13 | `அனார்கலி` — `காட்சி—1` | verified | Complete Scene 1. |
-| 19–21 | 14–16 | `அனார்கலி` — `காட்சி—2` | verified | Complete Scene 2. |
-| 22–24 | 17–19 | `அனார்கலி` — `காட்சி—3` | verified | Includes 22→23 `அந்தஸ்து பேதத் / தின்`; arrest / `(திரையில் குரல்)`; final `*`. |
-| 25–26 | 20–21 | `அனார்கலி` — `காட்சி—4` | verified | 25→26 mid-speech continuation; final suicide-attempt direction and `*`. |
+| 18 | 13 | `அனார்கலி` — `காட்சி—1` | assembly-reviewed | Complete Scene 1; `scenes/01.md`. |
+| 19–21 | 14–16 | `அனார்கலி` — `காட்சி—2` | assembly-reviewed | Complete Scene 2; `scenes/02.md`. |
+| 22–24 | 17–19 | `அனார்கலி` — `காட்சி—3` | assembly-reviewed | 22→23 `அந்தஸ்து பேதத் / தின்`; arrest / `(திரையில் குரல்)`; final `*`; `scenes/03.md`. |
+| 25–26 | 20–21 | `அனார்கலி` — `காட்சி—4` | assembly-reviewed | 25→26 mid-speech continuation; final suicide-attempt direction and `*`; `scenes/04.md`. |
 | 27–43 | 22–38 | `சாக்ரடீஸ்` | not-started | Introductory note + Scenes 1–5; direct visual verification pending. |
 | 44–53 | 39–48 | `சேரன் செங்குட்டுவன்` | not-started | Four scenes; direct visual verification pending. |
 | 54 | — | back cover | partial | Illustrated back cover; archival description pending. |
 
 ## Current physical checkpoint
 
-`அனார்கலி` page-level Tamil verification is **COMPLETE — 9/9 scans (18–26)**.
+`அனார்கலி` Tamil archival gate is **PASS / COMPLETE**:
 
-Next: assemble `அனார்கலி` `காட்சி—1` through `காட்சி—4` from the verified page records and run a fidelity audit before moving to scan **27** (`சாக்ரடீஸ்`, printed page **22**).
+- scans **18–26**: **9/9 verified**;
+- source-printed scenes: **4/4 assembled**;
+- page-record ↔ scene-assembly fidelity: **PASS**;
+- unresolved assembly discrepancies: **0**.
+
+Next body scan: **27** (`சாக்ரடீஸ்`, printed page **22**).

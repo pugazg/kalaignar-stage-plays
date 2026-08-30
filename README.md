@@ -21,7 +21,7 @@ See [`STAGE_PLAY_PROCESSING_GUIDE.md`](STAGE_PLAY_PROCESSING_GUIDE.md) for the p
 |---|---|---|
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | controlling Tamil scan `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` | **Tamil archive COMPLETE / PASS; 38/38 scenes + closing tableau; independent English COMPLETE / READY; secondary-witness comparison COMPLETE / PASS** |
 | [பரதாயணம்](works/bharathayanam/) | controlling Tamil composite scan `TVA_BOK_0065576_நான்மணி_மாலை.pdf`, scans 6–17 | **Tamil archive/assembly PASS / COMPLETE; independent English translation PASS / COMPLETE** |
-| [Anarkali](works/anarkali/) | same controlling Tamil source, scans 18–26; verified 2009 English secondary witness also retained | **Tamil page verification COMPLETE — 9/9; Scenes 1–4 assembly/fidelity next** |
+| [Anarkali](works/anarkali/) | same controlling Tamil source, scans 18–26; verified 2009 English secondary witness also retained | **Tamil page verification COMPLETE — 9/9; Scenes 1–4 assembly/fidelity PASS / COMPLETE** |
 | [Socrates](works/socrates/) | same controlling Tamil source, scans 27–43; verified 2009 English secondary witness also retained | **Tamil source registered; page verification pending** |
 | [Cheran Senguttuvan](works/cheran-senguttuvan/) | same controlling Tamil source, scans 44–53; verified 2009 English secondary witness also retained | **Tamil source registered; page verification pending** |
 
@@ -35,7 +35,7 @@ The user supplied a Gemini first-pass transcription for the volume. It is naviga
 
 `பரதாயணம்` is complete through Tamil archival verification/assembly and independent English translation review.
 
-`அனார்கலி` now has **9/9 Tamil scans visually verified** at [`works/anarkali/pages/`](works/anarkali/pages/), covering all four source-printed scenes. Material source-control findings and page boundaries are recorded in [`works/anarkali/FIRST_PASS_DISCREPANCIES.md`](works/anarkali/FIRST_PASS_DISCREPANCIES.md).
+`அனார்கலி` is now complete through its Tamil archival gate: **9/9 scans visually verified, four source-printed scenes assembled, and page-record ↔ scene fidelity PASS**. The assembled scenes are at [`works/anarkali/scenes/`](works/anarkali/scenes/) and the audit is [`works/anarkali/ASSEMBLY_FIDELITY_REVIEW.md`](works/anarkali/ASSEMBLY_FIDELITY_REVIEW.md).
 
 ## Silappathikaram navigation
 
@@ -57,8 +57,8 @@ It cannot override the controlling Tamil pages.
 
 ## Current repository phase
 
-Current active work: **`அனார்கலி`**.
+The source-sequential Tamil work now advances to **`சாக்ரடீஸ்`**.
 
-Its page-level Tamil verification is complete: **scans 18–26 = 9/9 verified**. Next assemble source-printed **காட்சி—1 through காட்சி—4** strictly from those page records and run the scene-assembly fidelity gate.
+Begin at source scan **27** / printed page **22**. Scans 27–28 are introductory note pages before the source-printed numbered scenes. The Gemini first pass is assistive only; the completed 2009 published-English witness remains secondary and must not control the Tamil.
 
-After the `அனார்கலி` Tamil assembly gate passes, continue sequentially with `சாக்ரடீஸ்` and `சேரன் செங்குட்டுவன்`.
+After `சாக்ரடீஸ்`, continue with `சேரன் செங்குட்டுவன்`.
