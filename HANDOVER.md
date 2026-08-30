@@ -1,49 +1,46 @@
 # Kalaignar Stage Plays — Handover
 
-## Repository
+Repository: `pugazg/kalaignar-stage-plays`, branch `main`.
 
-`pugazg/kalaignar-stage-plays` on `main`.
-
-Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
-
-## Active controlling source
-
-`TVA_BOK_0065576_நான்மணி_மாலை.pdf` — 54 scans — SHA-256 `18d2b1405544b03507e9f92067d287cb28f5a92eaf02bed7054e6e78e5e38c89`.
-
-The scan remains controlling. Gemini is normally assistive, but where old Tamil glyphs are ambiguous do not silently replace the user's Gemini first pass with an assistant guess.
+Controlling composite source: `TVA_BOK_0065576_நான்மணி_மாலை.pdf` — 54 scans — SHA-256 `18d2b1405544b03507e9f92067d287cb28f5a92eaf02bed7054e6e78e5e38c89`.
 
 ## Locked completed work
 
 - `பரதாயணம்`: Tamil archive/assembly PASS; independent English translation PASS.
 - `அனார்கலி`: 9/9 Tamil pages verified; 4/4 scenes assembled; fidelity PASS.
+- Silappathikaram state remains unchanged and locked.
 
 ## Active work — சாக்ரடீஸ்
 
 Extent: scans **27–43** / printed pp. **22–38**.
 
-### Corrected durable checkpoint
+### Introductory note — corrected PASS
 
-The prior commit `360d14592161035c467c82a19d7f7eef1511bacc` incorrectly marked scans 27–28 verified after overriding portions of the supplied Gemini transcription with assistant old-glyph guesses.
+Scans **27–28** were re-reconciled after the user identified that the earlier assistant pass had misread old Tamil glyphs and incorrectly overwritten the supplied Gemini transcription.
 
-The user explicitly corrected this and instructed that Gemini's transcription be retained.
+Current result:
 
-Therefore:
+- scan 27 / p.22: **verified**;
+- scan 28 / p.23: **verified**;
+- intro: **2/2 verified**;
+- total work progress: **2/17**;
+- reconciliation record: `works/socrates/INTRO_RECONCILIATION.md`.
 
-- scans **27–28** are now **needs-review**, not verified;
-- Gemini is retained as the working transcription layer;
-- the assistant-introduced `மார்க்கமும், ஏஞ்சல்சும்`, `ஹெகெல்`, `நாமே`, and the broader advertised correction set for these two scans are withdrawn as source corrections;
-- do not describe `‘ஜாடை’ காட்டினன்`, `தாச நிகர் காரணங்களைக்கொண்டு`, `‘சோக்ரதர்’`, `சபையன்`, `ஆஸ்திகப்பழமைவாதியாக்கியிருக்கிறார்`, or any other disputed intro reading as a new assistant-confirmed correction merely from glyph appearance;
-- if a source glyph is ambiguous on re-review, keep Gemini and record the ambiguity;
-- 2009 English remains secondary and must not reconstruct Tamil.
+Do not revert these restored readings:
 
-Current page files:
+- `மார்க்சும், எஞ்சல்சும்`;
+- `ஹெகல்`;
+- `‘ஜாடை’ காட்டினான்`;
+- `தூசு நிகர் காரணங்களைக்கொண்டு`;
+- `ஆஸ்திகப்பழமாக்கியிருக்கிறார்`;
+- `நானோ`;
+- `சபைன்`.
 
-- `works/socrates/pages/0027.md` — needs-review;
-- `works/socrates/pages/0028.md` — needs-review.
+`‘சோக்ரதர்’` remains exactly as present in the Gemini working text / scan; do not expand or modernize it.
 
-Current verified Socrates count: **0/17**.
+Permanent handling rule from the user correction: **retain Gemini for plausible old-glyph readings; do not replace it with assistant expectations. If the scan is not unambiguous, preserve Gemini and record the uncertainty.**
 
-### Structural map — unchanged
+### Structural scene map
 
 1. `காட்சி—1` — scans **29–31** / pp.24–26;
 2. `காட்சி—2` — scan **32** / p.27;
@@ -51,10 +48,6 @@ Current verified Socrates count: **0/17**.
 4. `காட்சி—4` — scans **34–39** / pp.29–34;
 5. `காட்சி—5` — scans **40–43** / pp.35–38.
 
-### Exact next activity
+## Exact next activity
 
-Re-reconcile scans **27–28** against the user's Gemini transcription using conservative old-glyph handling. Do not advance to scan 29 until both introductory pages are cleanly re-verified.
-
-## Permanent controls
-
-Preserve source wording, punctuation, speaker labels, stage directions, page boundaries and old Tamil forms. Never normalize an uncertain glyph silently. `அந்தணர்` is not automatically “Brahmin” in future translation work.
+Verify **`சாக்ரடீஸ்` `காட்சி—1`**, scans **29–31** / printed pp. **24–26**, sequentially. Use Gemini as the baseline and only change it where direct scan evidence is unambiguous. Do not assemble Scene 1 until all three pages pass. Do not start `சேரன் செங்குட்டுவன்` in the same activity.

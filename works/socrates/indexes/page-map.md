@@ -2,8 +2,8 @@
 
 | Scan page(s) | Printed page(s) | Section / scene | Status | Notes |
 |---:|---:|---|---|---|
-| 27 | 22 | introductory note — opening | needs-review | Gemini transcription retained; prior assistant old-glyph substitutions withdrawn after user correction. |
-| 28 | 23 | introductory note — closing | needs-review | Gemini transcription retained; prior assistant old-glyph substitutions withdrawn after user correction. |
+| 27 | 22 | introductory note — opening | verified | Re-reconciled after user correction; Gemini-retained old-glyph readings documented in `INTRO_RECONCILIATION.md`. |
+| 28 | 23 | introductory note — closing | verified | Re-reconciled; `நானோ`, `சபைன்`, `ஆஸ்திகப்பழமாக்கியிருக்கிறார்`; final `*`. |
 | 29–31 | 24–26 | `காட்சி—1` | not-started | `சாக்ரடீஸ் வீட்டு வாயில்`; structural survey only; scan 31 closes with `*`. |
 | 32 | 27 | `காட்சி—2` | not-started | Source heading visible; one-scan scene; closes with `*`. |
 | 33 | 28 | `காட்சி—3` | not-started | Source heading visible; one-scan scene. |
@@ -12,12 +12,11 @@
 
 ## Current checkpoint
 
-- controlling work extent: scans **27–43** / printed pages **22–38**;
-- scans **27–28** were previously marked verified, but that gate is **withdrawn** after the user's old-glyph correction;
-- working transcription for scans 27–28: **Gemini retained**;
-- verified Socrates pages: **0/17** at the corrected durable checkpoint;
-- numbered dramatic scenes structurally mapped directly from the Tamil scan: **5**.
+- scans **27–28** introductory note: **2/2 verified after re-reconciliation**;
+- total `சாக்ரடீஸ்` pages verified: **2/17**;
+- numbered dramatic scenes structurally mapped: **5**;
+- dramatic-body pages verified: **0/15**.
 
 ## Next activity
 
-Reconcile scans **27–28** against the supplied Gemini text without introducing assistant-normalized old-glyph substitutions. Only after those two pages are cleanly re-verified should `காட்சி—1` scans **29–31** begin.
+Verify `காட்சி—1` sequentially at scans **29–31** / printed pages **24–26**, retaining Gemini wherever old-glyph evidence does not unambiguously require a change. Do not assemble until all three pages pass.
