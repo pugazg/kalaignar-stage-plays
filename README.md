@@ -9,9 +9,7 @@ The repository preserves each supplied printed edition as an archival transcript
 - Preserve source-supported spelling, punctuation, wording, names, numbers, repetition, grammar, speaker labels and stage directions.
 - Do not silently modernize or correct the printed Tamil.
 - Treat OCR only as an aid; direct comparison with the scan is required before a page is marked verified.
-- Record covers, photographs, forewords, advertisements, blank pages, stamps, handwriting, damage and other physical-copy evidence instead of discarding them.
-- Keep printed errata distinct from page-level transcription; do not silently apply it.
-- **Do not commit source PDFs to this repository.** Record provenance, checksum and scan characteristics instead.
+- **Do not commit source PDFs to this repository.**
 
 See [`STAGE_PLAY_PROCESSING_GUIDE.md`](STAGE_PLAY_PROCESSING_GUIDE.md) for the permanent workflow.
 
@@ -19,46 +17,24 @@ See [`STAGE_PLAY_PROCESSING_GUIDE.md`](STAGE_PLAY_PROCESSING_GUIDE.md) for the p
 
 | Work | Current authority/source | Status |
 |---|---|---|
-| [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | controlling Tamil scan `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` | **Tamil archive COMPLETE / PASS; 38/38 scenes + closing tableau; independent English COMPLETE / READY; secondary-witness comparison COMPLETE / PASS** |
-| [பரதாயணம்](works/bharathayanam/) | controlling Tamil composite scan `TVA_BOK_0065576_நான்மணி_மாலை.pdf`, scans 6–17 | **Tamil archive/assembly PASS / COMPLETE; independent English translation PASS / COMPLETE** |
-| [Anarkali](works/anarkali/) | same controlling Tamil source, scans 18–26; verified 2009 English secondary witness also retained | **Tamil page verification COMPLETE — 9/9; Scenes 1–4 assembly/fidelity PASS / COMPLETE** |
-| [Socrates](works/socrates/) | same controlling Tamil source, scans 27–43; verified 2009 English secondary witness also retained | **Tamil source registered; page verification pending** |
-| [Cheran Senguttuvan](works/cheran-senguttuvan/) | same controlling Tamil source, scans 44–53; verified 2009 English secondary witness also retained | **Tamil source registered; page verification pending** |
+| [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | controlling Tamil scan `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` | **Tamil archive COMPLETE / PASS; independent English COMPLETE; secondary-witness comparison PASS** |
+| [பரதாயணம்](works/bharathayanam/) | `TVA_BOK_0065576_நான்மணி_மாலை.pdf`, scans 6–17 | **Tamil archival/assembly PASS; independent English translation PASS** |
+| [அனார்கலி](works/anarkali/) | same controlling Tamil source, scans 18–26 | **Tamil page verification 9/9; Scenes 1–4 assembly/fidelity PASS / COMPLETE** |
+| [சாக்ரடீஸ்](works/socrates/) | same controlling Tamil source, scans 27–43 | **Introductory note 2/2 verified; total pages 2/17; Scenes 1–5 structurally mapped; Scene 1 verification next** |
+| [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | same controlling Tamil source, scans 44–53 | **Tamil source registered; page verification pending** |
 
-## New controlling Tamil composite source — நான்மணி மாலை
+## Controlling composite source — நான்மணி மாலை
 
-The supplied **54-scan** volume `TVA_BOK_0065576_நான்மணி_மாலை.pdf` is registered under [`sources/naanmani-malai-tamil/`](sources/naanmani-malai-tamil/).
+The supplied **54-scan** volume `TVA_BOK_0065576_நான்மணி_மாலை.pdf` is registered under [`sources/naanmani-malai-tamil/`](sources/naanmani-malai-tamil/). The Gemini first pass is navigation assistance only; direct visual comparison with the source scan controls every archival reading.
 
-It contains four short plays named in the publisher's note: `பரதாயணம்`, `அனார்கலி`, `சாக்ரடீஸ்`, and `சேரன் செங்குட்டுவன்`.
+`பரதாயணம்` and `அனார்கலி` have completed their Tamil archival gates. `பரதாயணம்` also has a reviewed independent English translation.
 
-The user supplied a Gemini first-pass transcription for the volume. It is navigation assistance only. Direct visual comparison with the source scan controls every archival reading, including old-style Tamil glyphs.
-
-`பரதாயணம்` is complete through Tamil archival verification/assembly and independent English translation review.
-
-`அனார்கலி` is now complete through its Tamil archival gate: **9/9 scans visually verified, four source-printed scenes assembled, and page-record ↔ scene fidelity PASS**. The assembled scenes are at [`works/anarkali/scenes/`](works/anarkali/scenes/) and the audit is [`works/anarkali/ASSEMBLY_FIDELITY_REVIEW.md`](works/anarkali/ASSEMBLY_FIDELITY_REVIEW.md).
-
-## Silappathikaram navigation
-
-For movement between the verified Tamil scenes, independent English translations, individual reviews and secondary-witness comparison records, use:
-
-- [`works/silappathikaram-nataka-kappiyam/NAVIGATION.md`](works/silappathikaram-nataka-kappiyam/NAVIGATION.md)
+`சாக்ரடீஸ்` is now active. Its introductory note at scans **27–28 / printed pages 22–23** is **2/2 visually verified**. The Tamil scan itself maps five numbered scenes: Scene 1 scans 29–31, Scene 2 scan 32, Scene 3 scan 33, Scene 4 scans 34–39, and Scene 5 scans 40–43.
 
 ## Published-English secondary witness
 
-The supplied 2009 volume *Tale of the Anklet and One Act Plays* remains separately archived as a secondary English witness.
-
-- **163/163 physical scans accounted for and visually reviewed**;
-- **109 passed** without correction;
-- **54 corrected-and-passed**;
-- **0 unresolved**;
-- one-act plays are separated into dedicated witness folders for `Anarkali`, `Cheran Senguttuvan`, and `Socrates`.
-
-It cannot override the controlling Tamil pages.
+The supplied 2009 volume *Tale of the Anklet and One Act Plays* remains a secondary English witness. It cannot override controlling Tamil pages.
 
 ## Current repository phase
 
-The source-sequential Tamil work now advances to **`சாக்ரடீஸ்`**.
-
-Begin at source scan **27** / printed page **22**. Scans 27–28 are introductory note pages before the source-printed numbered scenes. The Gemini first pass is assistive only; the completed 2009 published-English witness remains secondary and must not control the Tamil.
-
-After `சாக்ரடீஸ்`, continue with `சேரன் செங்குட்டுவன்`.
+Next: verify **`சாக்ரடீஸ்` `காட்சி—1`**, scans **29–31** / printed pages **24–26**, directly against the Tamil scan. Do not begin `சேரன் செங்குட்டுவன்` until `சாக்ரடீஸ்` reaches its required Tamil gate.

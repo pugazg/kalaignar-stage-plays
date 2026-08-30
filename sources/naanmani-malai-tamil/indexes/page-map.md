@@ -10,21 +10,19 @@ Printed pagination is recorded only where directly visible. This map is a struct
 | 4 | — | `என்னுரை` | partial | Full front-matter transcription pending. |
 | 5 | — | `பதிப்புரை` | partial | Names all four plays; full transcription pending. |
 | 6–17 | — / 2–12 | `பரதாயணம்` | assembly-reviewed | **12/12 scans verified; Tamil assembly/fidelity PASS; English translation PASS**. |
-| 18 | 13 | `அனார்கலி` — `காட்சி—1` | assembly-reviewed | Complete Scene 1; `scenes/01.md`. |
-| 19–21 | 14–16 | `அனார்கலி` — `காட்சி—2` | assembly-reviewed | Complete Scene 2; `scenes/02.md`. |
-| 22–24 | 17–19 | `அனார்கலி` — `காட்சி—3` | assembly-reviewed | 22→23 `அந்தஸ்து பேதத் / தின்`; arrest / `(திரையில் குரல்)`; final `*`; `scenes/03.md`. |
-| 25–26 | 20–21 | `அனார்கலி` — `காட்சி—4` | assembly-reviewed | 25→26 mid-speech continuation; final suicide-attempt direction and `*`; `scenes/04.md`. |
-| 27–43 | 22–38 | `சாக்ரடீஸ்` | not-started | Introductory note + Scenes 1–5; direct visual verification pending. |
+| 18–26 | 13–21 | `அனார்கலி` | assembly-reviewed | **9/9 scans verified; 4/4 scenes assembled; fidelity PASS**. |
+| 27 | 22 | `சாக்ரடீஸ்` — introductory note | verified | Title and opening introductory prose. |
+| 28 | 23 | `சாக்ரடீஸ்` — introductory note | verified | Intro closes with physical description / `முதற்காட்சி` setup and centred `*`. |
+| 29–31 | 24–26 | `சாக்ரடீஸ்` — `காட்சி—1` | not-started | Structural survey only; scan 31 closes with `*`. |
+| 32 | 27 | `சாக்ரடீஸ்` — `காட்சி—2` | not-started | One-scan scene; source heading visible. |
+| 33 | 28 | `சாக்ரடீஸ்` — `காட்சி—3` | not-started | One-scan scene; source heading visible. |
+| 34–39 | 29–34 | `சாக்ரடீஸ்` — `காட்சி—4` | not-started | Source heading at scan 34; scan 39 closes with `*`. |
+| 40–43 | 35–38 | `சாக்ரடீஸ்` — `காட்சி—5` | not-started | Source heading at scan 40; scan 43 closes with `*`. |
 | 44–53 | 39–48 | `சேரன் செங்குட்டுவன்` | not-started | Four scenes; direct visual verification pending. |
 | 54 | — | back cover | partial | Illustrated back cover; archival description pending. |
 
 ## Current physical checkpoint
 
-`அனார்கலி` Tamil archival gate is **PASS / COMPLETE**:
+`சாக்ரடீஸ்` introductory note is **COMPLETE — scans 27–28 = 2/2 visually verified**.
 
-- scans **18–26**: **9/9 verified**;
-- source-printed scenes: **4/4 assembled**;
-- page-record ↔ scene-assembly fidelity: **PASS**;
-- unresolved assembly discrepancies: **0**.
-
-Next body scan: **27** (`சாக்ரடீஸ்`, printed page **22**).
+Total `சாக்ரடீஸ்` page-level progress: **2/17 verified**. Next body scan: **29** / printed page **24**, opening `காட்சி—1`.

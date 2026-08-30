@@ -18,32 +18,28 @@ See `metadata/source.md` for the full source record.
 
 ## Composite contents
 
-The publisher's note on scan 5 names four short plays in this volume:
-
 1. **பரதாயணம்** — scans **6–17**; Tamil page verification **COMPLETE (12/12)**; continuous assembly/fidelity **PASS / COMPLETE**; independent English translation **PASS / COMPLETE**.
-2. **அனார்கலி** — scans **18–26**; printed pages **13–21**; Tamil page verification **COMPLETE (9/9)**; four-scene assembly/fidelity **PASS / COMPLETE**.
-3. **சாக்ரடீஸ்** — scans **27–43**; printed pages **22–38**; scans 27–28 are the printed introductory note; Tamil verification pending.
-4. **சேரன் செங்குட்டுவன்** — scans **44–53**; printed pages **39–48**; Tamil verification pending.
+2. **அனார்கலி** — scans **18–26**; Tamil page verification **COMPLETE (9/9)**; four-scene assembly/fidelity **PASS / COMPLETE**.
+3. **சாக்ரடீஸ்** — scans **27–43** / printed pages **22–38**; introductory note scans **27–28 = 2/2 verified**; dramatic scenes 1–5 structurally mapped; dramatic page verification pending.
+4. **சேரன் செங்குட்டுவன்** — scans **44–53** / printed pages **39–48**; Tamil verification pending.
 
 Shared source matter:
 
 - scans **1–5**: cover / title / rights-and-price / `என்னுரை` / `பதிப்புரை`;
 - scan **54**: illustrated back cover.
 
-No page number is inferred for scan 6 merely because scan 7 prints `2`.
-
 ## Authority and first-pass policy
 
-The supplied scan is the controlling Tamil authority. The user supplied a Gemini word-for-word first-pass transcription in chat; that text is **assistive only**. It must be checked word by word against the scan before any page is marked `verified`.
+The supplied scan is the controlling Tamil authority. The user supplied a Gemini word-for-word first-pass transcription in chat; that text is **assistive only**. Every page must be checked directly against the scan before `verified` status.
 
-Do not silently normalize old Tamil glyph forms, spelling, punctuation, speaker labels, line breaks, stage directions, numbers or apparent print anomalies. The verified 2009 published-English one-act-play witness remains secondary and cannot override this Tamil source.
+Do not silently normalize old Tamil glyph forms, spelling, punctuation, speaker labels, line breaks, stage directions, numbers or apparent print anomalies. The verified 2009 published-English one-act-play witnesses remain secondary and cannot override this Tamil source.
 
 ## Current checkpoint
 
-- `பரதாயணம்` scans **6–17**: Tamil page/assembly gate **PASS / COMPLETE**; reviewed English translation **PASS / COMPLETE**.
-- `அனார்கலி` scans **18–26**: **9/9 visually verified**, four source scenes **4/4 assembled**, page-record ↔ scene-assembly fidelity **PASS / COMPLETE**.
-- `அனார்கலி` scenes: `../../works/anarkali/scenes/01.md` through `04.md`.
-- `அனார்கலி` assembly audit: `../../works/anarkali/ASSEMBLY_FIDELITY_REVIEW.md`.
-- remaining unverified body scans: **27–53** (`சாக்ரடீஸ்`, `சேரன் செங்குட்டுவன்`).
+- `பரதாயணம்`: Tamil archival/assembly PASS; English translation PASS.
+- `அனார்கலி`: Tamil page/scene-assembly gate PASS / COMPLETE.
+- `சாக்ரடீஸ்`: scans **27–28** / pp.22–23 introductory note **2/2 visually verified** at `../../works/socrates/pages/0027.md` and `0028.md`.
+- `சாக்ரடீஸ்` source structure from direct Tamil scan survey: `காட்சி—1` scans 29–31, `காட்சி—2` scan 32, `காட்சி—3` scan 33, `காட்சி—4` scans 34–39, `காட்சி—5` scans 40–43.
+- remaining unverified body scans: **29–53**.
 
-Next source-sequential Tamil activity: begin **`சாக்ரடீஸ்` at scan 27 / printed page 22**. Scans 27–28 are introductory text before its numbered scenes. The Gemini transcription remains assistive only and the completed 2009 English witness remains secondary.
+Next source-sequential activity: verify `சாக்ரடீஸ்` **காட்சி—1**, scans **29–31** / printed pages **24–26**.
