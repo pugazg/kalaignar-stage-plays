@@ -21,7 +21,7 @@ See [`STAGE_PLAY_PROCESSING_GUIDE.md`](STAGE_PLAY_PROCESSING_GUIDE.md) for the p
 |---|---|---|
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | controlling Tamil scan `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` | **Tamil archive COMPLETE / PASS; 38/38 scenes + closing tableau; independent English COMPLETE / READY; secondary-witness comparison COMPLETE / PASS** |
 | [பரதாயணம்](works/bharathayanam/) | controlling Tamil composite scan `TVA_BOK_0065576_நான்மணி_மாலை.pdf`, scans 6–17 | **Tamil archive/assembly PASS / COMPLETE; independent English translation PASS / COMPLETE** |
-| [Anarkali](works/anarkali/) | same controlling Tamil source, scans 18–26; verified 2009 English secondary witness also retained | **Tamil source registered; page verification pending** |
+| [Anarkali](works/anarkali/) | same controlling Tamil source, scans 18–26; verified 2009 English secondary witness also retained | **Tamil page verification COMPLETE — 9/9; Scenes 1–4 assembly/fidelity next** |
 | [Socrates](works/socrates/) | same controlling Tamil source, scans 27–43; verified 2009 English secondary witness also retained | **Tamil source registered; page verification pending** |
 | [Cheran Senguttuvan](works/cheran-senguttuvan/) | same controlling Tamil source, scans 44–53; verified 2009 English secondary witness also retained | **Tamil source registered; page verification pending** |
 
@@ -33,7 +33,9 @@ It contains four short plays named in the publisher's note: `பரதாயண�
 
 The user supplied a Gemini first-pass transcription for the volume. It is navigation assistance only. Direct visual comparison with the source scan controls every archival reading, including old-style Tamil glyphs.
 
-`பரதாயணம்` has completed **12/12 page-level visual verification**, continuous Tamil assembly and page-record ↔ assembly fidelity review, followed by an independent English translation and translation review. Material OCR/source differences remain documented in [`works/bharathayanam/FIRST_PASS_DISCREPANCIES.md`](works/bharathayanam/FIRST_PASS_DISCREPANCIES.md); assembly evidence is in [`works/bharathayanam/ASSEMBLY_FIDELITY_REVIEW.md`](works/bharathayanam/ASSEMBLY_FIDELITY_REVIEW.md); the reviewed English translation is at [`works/bharathayanam/translations/en/continuous-play.md`](works/bharathayanam/translations/en/continuous-play.md).
+`பரதாயணம்` is complete through Tamil archival verification/assembly and independent English translation review.
+
+`அனார்கலி` now has **9/9 Tamil scans visually verified** at [`works/anarkali/pages/`](works/anarkali/pages/), covering all four source-printed scenes. Material source-control findings and page boundaries are recorded in [`works/anarkali/FIRST_PASS_DISCREPANCIES.md`](works/anarkali/FIRST_PASS_DISCREPANCIES.md).
 
 ## Silappathikaram navigation
 
@@ -51,14 +53,12 @@ The supplied 2009 volume *Tale of the Anklet and One Act Plays* remains separate
 - **0 unresolved**;
 - one-act plays are separated into dedicated witness folders for `Anarkali`, `Cheran Senguttuvan`, and `Socrates`.
 
-It cannot override the newly supplied controlling Tamil pages.
+It cannot override the controlling Tamil pages.
 
 ## Current repository phase
 
-The earlier source-limited closure is reopened by the new Tamil `நான்மணி மாலை` source.
+Current active work: **`அனார்கலி`**.
 
-`பரதாயணம்` is now complete through Tamil archival verification/assembly and independent English translation review.
+Its page-level Tamil verification is complete: **scans 18–26 = 9/9 verified**. Next assemble source-printed **காட்சி—1 through காட்சி—4** strictly from those page records and run the scene-assembly fidelity gate.
 
-**Next active work: `அனார்கலி` — begin Tamil visual verification at scan 18 / printed page 13.**
-
-After `அனார்கலி`, continue sequentially with `சாக்ரடீஸ்` and `சேரன் செங்குட்டுவன்`.
+After the `அனார்கலி` Tamil assembly gate passes, continue sequentially with `சாக்ரடீஸ்` and `சேரன் செங்குட்டுவன்`.

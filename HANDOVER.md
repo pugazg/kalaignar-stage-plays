@@ -8,7 +8,7 @@ Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
 ## Active controlling source — கலைஞரின் நான்மணி மாலை
 
-An authentic Tamil source has reopened the repository's one-act-play Tamil work:
+Authentic Tamil source:
 
 - filename: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`;
 - scans: **54**;
@@ -34,94 +34,92 @@ Source registry: `sources/naanmani-malai-tamil/`.
 
 The publisher's note on scan 5 explicitly names these four short plays.
 
-## First-pass transcription policy
+## Source-control policy
 
 The user supplied a Gemini first-pass transcription of the volume. Treat it only as a working/navigation layer.
 
 The scan is controlling. Every word must be visually checked. Do not silently normalize old Tamil glyphs, spelling, punctuation, speaker labels, repetition, stage directions, physical line/page breaks or apparent source anomalies.
 
+Existing 2009 published-English one-act witnesses are **secondary only**. Never use them to reconstruct or override Tamil.
+
 ## Completed work — பரதாயணம்
 
 Work folder: `works/bharathayanam/`.
 
+- Tamil scans **6–17**: **12/12 visually verified**.
+- Continuous assembly: `scenes/continuous-play.md`.
+- Page-record ↔ assembly fidelity: **PASS / COMPLETE**.
+- Independent English translation: `translations/en/continuous-play.md`.
+- English translation review: **PASS / COMPLETE**.
+- Unresolved Tamil/translation blocks: **0**.
+- Published-English witness used as translation authority: **No**.
+
+Important `பரதாயணம்` source controls remain documented in `works/bharathayanam/FIRST_PASS_DISCREPANCIES.md` and must not be reverted, including the `பாதுகாப்` / `பாக` → `பாதுகாப்பாக` page join and the source anomaly mechanically assembled as `நீயல்லவர்`.
+
+## Active work — அனார்கலி
+
+Work folder: `works/anarkali/`.
+
 ### Page-level Tamil checkpoint — COMPLETE
 
-- scans **6–17**: **12/12 visually verified**;
-- files: `pages/0006.md` through `pages/0017.md`;
-- unresolved literary-text readings: **0**;
-- material Gemini/source differences: `FIRST_PASS_DISCREPANCIES.md`.
+Controlling Tamil extent:
 
-### Continuous assembly / fidelity checkpoint — PASS / COMPLETE
+- scans **18–26**;
+- printed pages **13–21**;
+- source-printed scenes: **4**;
+- page records: `pages/0018.md` through `pages/0026.md`;
+- visual verification: **9/9 scans COMPLETE**;
+- unresolved literary-text readings: **0** at this page gate.
 
-- assembled reading: `scenes/continuous-play.md`;
-- no source scene number exists; assembly uses `scene: null` and does not invent a `காட்சி`;
-- page-record ↔ assembly review: `ASSEMBLY_FIDELITY_REVIEW.md`;
-- verified page records used: **12/12**;
-- unresolved assembly discrepancies: **0**;
-- speaker-label counts match page records exactly:
-  - `பாகவதர் :` — 1;
-  - `சிஷ்யன் :` — 1;
-  - `பாக :` — 63;
-  - `சிஷ் :` — 64.
+Scene map:
 
-Important source-controlled findings that must not be reverted:
+1. `காட்சி—1` — scan **18** / printed p.13;
+2. `காட்சி—2` — scans **19–21** / pp.14–16;
+3. `காட்சி—3` — scans **22–24** / pp.17–19;
+4. `காட்சி—4` — scans **25–26** / pp.20–21.
 
-- scan 9: `நடத்து`, and `இது தான்`;
-- scan 10: `(கோபமாக) என்னு சொல்லு!`;
-- scan 11: `கன்யா சுல்க`, `நான் காரணமாயிருக்கமாட்டேன்`, `எப்படியம்மா?`;
-- scan 12: **`பட்டங் கட்டிவிட்டு`**, not Gemini's `பட்டங் சட்டிவிட்டு`;
-- scan 13: `இட்டது தான்`, `ஒரு நாடகம்`;
-- scan 14: source line `சிஷ் : சீதை........` exists and was omitted by Gemini;
-- scan 15→16: page-final `பாதுகாப்` + next-page initial `பாக` = physical `பாதுகாப்பாக`; scan-16 initial `பாக` is not a speaker label;
-- scan 15: source physically prints `நீயல்ல` / `வர் தெய்வம்!`; continuous assembly mechanically joins this as `நீயல்லவர் தெய்வம்!` and **must not** normalize it to `நீயல்லவா தெய்வம்!`;
-- scan 17: two consecutive `சிஷ்` labels are source-real; preserve them;
-- ending forms `மோக்ஷத்திற்குப்`, `மோட்சத்திற்கும்`, `மோசத்திற்கும்`, `நமப் பகுத்தறிவுபதே!` are source-controlled.
+Material source controls are recorded at `works/anarkali/FIRST_PASS_DISCREPANCIES.md`.
 
-### English translation checkpoint — PASS / COMPLETE
+Important readings / boundaries that must not be silently changed:
 
-The user explicitly requested that `பரதாயணம்` be translated before beginning `அனார்கலி`.
-
-- independent translation: `translations/en/continuous-play.md`;
-- translation directory guide: `translations/en/README.md`;
-- review: `translations/en/TRANSLATION_REVIEW.md`;
-- immediate authority: verified Tamil `scenes/continuous-play.md`;
-- English status: **translation-reviewed / PASS**;
-- complete Tamil coverage: **PASS**;
-- unresolved translation blocks: **0**;
-- published-English witness used: **No**;
-- Gemini used as translation authority: **No**.
-
-Translation controls that must be preserved:
-
-- title retained as *Bharathayanam*;
-- *kalakshepam* frame retained;
-- speaker structure and comic repetitions retained;
-- `kanya sulkam` / `kanya sulka`, `Parak!`, and ritual/legal vocabulary remain perceptible rather than flattened;
-- modern anachronisms (`court`, `case`, `stay order`, `aeroplane`, `Three-D`) remain visible because they carry the satire;
-- source anomaly `நீயல்லவர்` is represented awkwardly rather than silently repaired to `நீயல்லவா`;
-- the legal `12 years / 14 years` joke is kept in a property-law register;
-- `மோக்ஷம்` / `மோட்சம்` / `மோசம்` and `நமப் பகுத்தறிவுபதே!` are treated explicitly in translation notes;
-- the Dravidian/rationalist context note is separate from translated dialogue and does not insert ideology into character speech.
-
-`பரதாயணம்` is therefore **Tamil archival PASS / COMPLETE and English translation PASS / COMPLETE** for the current source phase.
+- scan 18: `அணுப்பொழுதும்`, `காந்தக் கண்`, source-printed `ஆறுதல்கூறி-வாய்`, `அக்பரது குடைநிழலில்`, `என் திழையே!`;
+- scan 19: `சாவதானமாக—ஆனால் குறும்பாக`, `என்னுள் உன் குடிசை பெருமையுற்றது`;
+- scan 20: source anachronism `அவசரச்சட்டம்`; `நன்றாகத்தெரியும்`; `சப்ரகூட மஞ்சம்`;
+- scan 21: `உங்கள் மகுடபதியின் மகன்தான்`; source-anomalous `சிம்மாசனமேறிகளை நான் மதிக்கமாட்டேன்`; `(மண்ணையள்ளிக் காட்டல்)`; `‘காதல் சுதந்திரம்’`; `டில்லி ஏகாதிபத்தியத்திற்குப் பணிந்துவிடாது!`;
+- scan 22→23: `அந்தஸ்து பேதத்` / `தின் அளவு!` mechanically joins as `அந்தஸ்து பேதத்தின் அளவு!`;
+- scan 22: `மிதியுண்ட நாகம்போல்`; `நீங்கள் ஜரிகைப்பூ அல்ல! சாமந்திப்பூ!`;
+- scan 23: physical line splits `செய் / திருக்கிறார்`, `களங்க / மற்ற`, `கோட் / டைச்`, `என் / பதை`; the last mechanically yields `என்பதை` in scene assembly;
+- scan 24: `(திரையில் குரல்)` is source stage text; the live-entombment narration closes Scene 3; centred `*` retained;
+- scan 25→26: scan 25 ends mid-speech `இவ்வளவும்`; scan 26 continues `இருந்தால் என்ன...`;
+- scan 25: `மாசற்ற ஜோதி மழையே!`; physical `தொழுத் / திட`; `கற்பின் ஆரமே!`; `கல்லினும்`; `பிரும்மாண்ட`; `பஞ்சத்திலே பரப்ப`;
+- scan 26: `நீதியில்லாத பூமியில்`; `மூடியுள்ள கல்லறையே`; `ராஜபுத்திர ஜோதிபாயை`; `ஜோதிபாயின்`; final suicide-attempt direction and centred `*`.
 
 ### Exact next activity
 
-Begin **`அனார்கலி` Tamil visual verification** at scan **18** / printed page **13**.
+Assemble **`காட்சி—1` through `காட்சி—4`** strictly from `pages/0018.md`–`pages/0026.md`.
 
-Process `அனார்கலி` under `STAGE_PLAY_PROCESSING_GUIDE.md` using the supplied Gemini transcription only as a first-pass/navigation layer. The Tamil scan controls every reading. Do not use the completed 2009 published-English witness to reconstruct or override Tamil.
+Requirements:
 
-## Existing one-act work entities
+- do not re-read from Gemini or the published-English witness for assembly;
+- use verified page records as immediate authority;
+- remove only mechanical print-line/page breaks;
+- preserve wording, punctuation, stage directions, speaker order, repetition and source anomalies;
+- handle scan 22→23 and 25→26 boundaries explicitly;
+- run a page-record ↔ scene-assembly fidelity audit;
+- **do not begin `சாக்ரடீஸ்` in the same activity**.
 
-- `works/anarkali/` — Tamil scans **18–26**;
-- `works/socrates/` — Tamil scans **27–43**;
-- `works/cheran-senguttuvan/` — Tamil scans **44–53**.
+Only after the `அனார்கலி` Tamil assembly/fidelity gate passes should any independent English translation/comparison phase be considered.
 
-Their previously completed 2009 published-English transcriptions remain **secondary witnesses only**. They must not be used to overwrite or reconstruct Tamil source readings.
+## Remaining one-act work
+
+- `works/socrates/` — Tamil scans **27–43**, pending visual verification;
+- `works/cheran-senguttuvan/` — Tamil scans **44–53**, pending visual verification.
+
+Their completed 2009 published-English transcriptions remain secondary witnesses only.
 
 ## Completed Silappathikaram state — preserve unchanged
 
-`works/silappathikaram-nataka-kappiyam/` remains complete and locked at its previously reviewed state:
+`works/silappathikaram-nataka-kappiyam/` remains complete and locked:
 
 - **88/88 scans** visually verified;
 - Tamil transcription audit: **PASS**;
