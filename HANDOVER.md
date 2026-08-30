@@ -77,6 +77,34 @@ Important source-controlled findings that must not be reverted:
 - scan 17: two consecutive `சிஷ்` labels are source-real; preserve them;
 - ending forms `மோக்ஷத்திற்குப்`, `மோட்சத்திற்கும்`, `மோசத்திற்கும்`, `நமப் பகுத்தறிவுபதே!` are source-controlled.
 
+### English translation checkpoint — PASS / COMPLETE
+
+The user explicitly requested that `பரதாயணம்` be translated before beginning `அனார்கலி`.
+
+- independent translation: `translations/en/continuous-play.md`;
+- translation directory guide: `translations/en/README.md`;
+- review: `translations/en/TRANSLATION_REVIEW.md`;
+- immediate authority: verified Tamil `scenes/continuous-play.md`;
+- English status: **translation-reviewed / PASS**;
+- complete Tamil coverage: **PASS**;
+- unresolved translation blocks: **0**;
+- published-English witness used: **No**;
+- Gemini used as translation authority: **No**.
+
+Translation controls that must be preserved:
+
+- title retained as *Bharathayanam*;
+- *kalakshepam* frame retained;
+- speaker structure and comic repetitions retained;
+- `kanya sulkam` / `kanya sulka`, `Parak!`, and ritual/legal vocabulary remain perceptible rather than flattened;
+- modern anachronisms (`court`, `case`, `stay order`, `aeroplane`, `Three-D`) remain visible because they carry the satire;
+- source anomaly `நீயல்லவர்` is represented awkwardly rather than silently repaired to `நீயல்லவா`;
+- the legal `12 years / 14 years` joke is kept in a property-law register;
+- `மோக்ஷம்` / `மோட்சம்` / `மோசம்` and `நமப் பகுத்தறிவுபதே!` are treated explicitly in translation notes;
+- the Dravidian/rationalist context note is separate from translated dialogue and does not insert ideology into character speech.
+
+`பரதாயணம்` is therefore **Tamil archival PASS / COMPLETE and English translation PASS / COMPLETE** for the current source phase.
+
 ### Exact next activity
 
 Begin **`அனார்கலி` Tamil visual verification** at scan **18** / printed page **13**.
