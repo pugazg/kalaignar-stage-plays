@@ -15,8 +15,26 @@
 | 16 | 11 | continuous dialogue | verified | Initial `பாக` completes `பாதுகாப்பாக`; printed speaker order verified. |
 | 17 | 12 | play closing | verified | Two consecutive `சிஷ்` labels preserved; closes with `நமப் பகுத்தறிவுபதே!`, `பரதாயணம் முற்றிற்று!`, and `*`. |
 
-## Current checkpoint
+## Assembly checkpoint
 
-**12/12 scans are visually verified.**
+**12/12 scans are visually verified and the continuous reading has passed the page-record ↔ assembly fidelity review.**
 
-Next: assemble the continuous play from `pages/0006.md`–`pages/0017.md`, retaining explicit provenance and the scan 8→9, 11→12, 14→15, and 15→16 page-boundary continuations.
+Assembly:
+
+- `../scenes/continuous-play.md` — `assembly-reviewed`;
+- `../ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**.
+
+Explicit boundary joins:
+
+- scan 8→9: `கார` + `ணத்தால்` → `காரணத்தால்`;
+- scan 11→12: `ஏற்றுக்` + `கொள்கிறேன்` → `ஏற்றுக் கொள்கிறேன்`;
+- scan 14→15: sentence continuation after `கூடாது`;
+- scan 15→16: `பாதுகாப்` + `பாக` → `பாதுகாப்பாக`.
+
+No source-printed scene number is invented; the assembled file uses `scene: null`.
+
+## Result
+
+`பரதாயணம்` Tamil page verification + continuous assembly/fidelity gate: **PASS / COMPLETE**.
+
+Next repository activity: begin `அனார்கலி` at scan **18** / printed page **13**.

@@ -40,7 +40,7 @@ The user supplied a Gemini first-pass transcription of the volume. Treat it only
 
 The scan is controlling. Every word must be visually checked. Do not silently normalize old Tamil glyphs, spelling, punctuation, speaker labels, repetition, stage directions, physical line/page breaks or apparent source anomalies.
 
-## Active work — பரதாயணம்
+## Completed work — பரதாயணம்
 
 Work folder: `works/bharathayanam/`.
 
@@ -48,8 +48,21 @@ Work folder: `works/bharathayanam/`.
 
 - scans **6–17**: **12/12 visually verified**;
 - files: `pages/0006.md` through `pages/0017.md`;
-- unresolved literary-text readings: **0** in this pass;
+- unresolved literary-text readings: **0**;
 - material Gemini/source differences: `FIRST_PASS_DISCREPANCIES.md`.
+
+### Continuous assembly / fidelity checkpoint — PASS / COMPLETE
+
+- assembled reading: `scenes/continuous-play.md`;
+- no source scene number exists; assembly uses `scene: null` and does not invent a `காட்சி`;
+- page-record ↔ assembly review: `ASSEMBLY_FIDELITY_REVIEW.md`;
+- verified page records used: **12/12**;
+- unresolved assembly discrepancies: **0**;
+- speaker-label counts match page records exactly:
+  - `பாகவதர் :` — 1;
+  - `சிஷ்யன் :` — 1;
+  - `பாக :` — 63;
+  - `சிஷ் :` — 64.
 
 Important source-controlled findings that must not be reverted:
 
@@ -60,15 +73,15 @@ Important source-controlled findings that must not be reverted:
 - scan 13: `இட்டது தான்`, `ஒரு நாடகம்`;
 - scan 14: source line `சிஷ் : சீதை........` exists and was omitted by Gemini;
 - scan 15→16: page-final `பாதுகாப்` + next-page initial `பாக` = physical `பாதுகாப்பாக`; scan-16 initial `பாக` is not a speaker label;
-- scan 15: source physically prints anomalous `நீயல்ல` / `வர் தெய்வம்!`; do not normalize to `நீயல்லவா தெய்வம்!`;
+- scan 15: source physically prints `நீயல்ல` / `வர் தெய்வம்!`; continuous assembly mechanically joins this as `நீயல்லவர் தெய்வம்!` and **must not** normalize it to `நீயல்லவா தெய்வம்!`;
 - scan 17: two consecutive `சிஷ்` labels are source-real; preserve them;
 - ending forms `மோக்ஷத்திற்குப்`, `மோட்சத்திற்கும்`, `மோசத்திற்கும்`, `நமப் பகுத்தறிவுபதே!` are source-controlled.
 
 ### Exact next activity
 
-Assemble the continuous `பரதாயணம்` text from **verified page records only**, with provenance back to scans 6–17 and explicit handling of page-boundary continuations. Run a page-record ↔ assembled-text fidelity audit. **Do not start `அனார்கலி` in the same activity.**
+Begin **`அனார்கலி` Tamil visual verification** at scan **18** / printed page **13**.
 
-After the `பரதாயணம்` assembly/fidelity gate passes, begin `அனார்கலி` at scan **18** / printed page **13**.
+Process `அனார்கலி` under `STAGE_PLAY_PROCESSING_GUIDE.md` using the supplied Gemini transcription only as a first-pass/navigation layer. The Tamil scan controls every reading. Do not use the completed 2009 published-English witness to reconstruct or override Tamil.
 
 ## Existing one-act work entities
 

@@ -20,7 +20,7 @@ See `metadata/source.md` for the full source record.
 
 The publisher's note on scan 5 names four short plays in this volume:
 
-1. **பரதாயணம்** — scans **6–17**; page-level Tamil visual verification **COMPLETE (12/12)**.
+1. **பரதாயணம்** — scans **6–17**; page-level Tamil visual verification **COMPLETE (12/12)**; continuous assembly/fidelity review **PASS / COMPLETE**.
 2. **அனார்கலி** — scans **18–26**; printed pages **13–21**; Tamil verification pending.
 3. **சாக்ரடீஸ்** — scans **27–43**; printed pages **22–38**; scans 27–28 are the printed introductory note; Tamil verification pending.
 4. **சேரன் செங்குட்டுவன்** — scans **44–53**; printed pages **39–48**; Tamil verification pending.
@@ -42,7 +42,9 @@ Do not silently normalize old Tamil glyph forms, spelling, punctuation, speaker 
 
 - source registered and physical extents mapped;
 - `பரதாயணம்` scans **6–17** are directly visually verified and archived at `../../works/bharathayanam/pages/`;
-- material first-pass discrepancies are recorded at `../../works/bharathayanam/FIRST_PASS_DISCREPANCIES.md`;
+- its continuous reading is assembled at `../../works/bharathayanam/scenes/continuous-play.md`;
+- page-record ↔ assembly fidelity review: **PASS**, recorded at `../../works/bharathayanam/ASSEMBLY_FIDELITY_REVIEW.md`;
+- material first-pass discrepancies remain recorded at `../../works/bharathayanam/FIRST_PASS_DISCREPANCIES.md`;
 - remaining body scans **18–53** are pending Tamil visual verification.
 
-Next within `பரதாயணம்`: assemble and fidelity-audit the continuous play text from verified page records. After that, begin `அனார்கலி` at scan **18** / printed page **13**.
+Next physical/body activity: begin **`அனார்கலி` at scan 18 / printed page 13**.
