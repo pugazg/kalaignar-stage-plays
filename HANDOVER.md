@@ -6,71 +6,44 @@
 
 Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
-## Active controlling source — கலைஞரின் நான்மணி மாலை
+## Active controlling source
 
-- filename: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`;
-- scans: **54**;
-- SHA-256: `18d2b1405544b03507e9f92067d287cb28f5a92eaf02bed7054e6e78e5e38c89`;
-- file size: **146,754,449 bytes**;
-- publisher / imprint: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**;
-- source PDF remains external and is not committed.
+`TVA_BOK_0065576_நான்மணி_மாலை.pdf` — 54 scans — SHA-256 `18d2b1405544b03507e9f92067d287cb28f5a92eaf02bed7054e6e78e5e38c89`.
 
-The scan is controlling. Gemini is first-pass/navigation assistance only. Existing 2009 English one-act witnesses are secondary only and must never reconstruct or override Tamil.
+The scan remains controlling. Gemini is normally assistive, but where old Tamil glyphs are ambiguous do not silently replace the user's Gemini first pass with an assistant guess.
 
 ## Locked completed work
 
-### பரதாயணம்
-
-- scans **6–17**: **12/12 visually verified**;
-- continuous Tamil assembly/fidelity: **PASS / COMPLETE**;
-- independent English translation/review: **PASS / COMPLETE**.
-
-Do not revert recorded source controls such as `பாதுகாப் / பாக` → `பாதுகாப்பாக` and the source anomaly assembled as `நீயல்லவர்`.
-
-### அனார்கலி
-
-- scans **18–26**: **9/9 visually verified**;
-- source scenes: **4/4 assembled**;
-- page-record ↔ scene fidelity: **PASS / COMPLETE**;
-- unresolved assembly discrepancies: **0**.
-
-Do not revert the recorded source forms and joins in `works/anarkali/FIRST_PASS_DISCREPANCIES.md` and `ASSEMBLY_FIDELITY_REVIEW.md`.
+- `பரதாயணம்`: Tamil archive/assembly PASS; independent English translation PASS.
+- `அனார்கலி`: 9/9 Tamil pages verified; 4/4 scenes assembled; fidelity PASS.
 
 ## Active work — சாக்ரடீஸ்
 
-Work folder: `works/socrates/`.
+Extent: scans **27–43** / printed pp. **22–38**.
 
-Controlling extent:
+### Corrected durable checkpoint
 
-- scans **27–43**;
-- printed pages **22–38**;
-- introductory note: scans **27–28**;
-- numbered dramatic scenes mapped directly from the Tamil scan: **5**.
+The prior commit `360d14592161035c467c82a19d7f7eef1511bacc` incorrectly marked scans 27–28 verified after overriding portions of the supplied Gemini transcription with assistant old-glyph guesses.
 
-### Introductory-note checkpoint — COMPLETE
+The user explicitly corrected this and instructed that Gemini's transcription be retained.
 
-- `pages/0027.md` — scan 27 / printed p.22 — **verified**;
-- `pages/0028.md` — scan 28 / printed p.23 — **verified**;
-- introductory note: **2/2 visually verified**;
-- total work-page progress: **2/17**;
-- unresolved readings in this checkpoint: **0**.
+Therefore:
 
-Important source controls from scans 27–28 that must not be silently normalized:
+- scans **27–28** are now **needs-review**, not verified;
+- Gemini is retained as the working transcription layer;
+- the assistant-introduced `மார்க்கமும், ஏஞ்சல்சும்`, `ஹெகெல்`, `நாமே`, and the broader advertised correction set for these two scans are withdrawn as source corrections;
+- do not describe `‘ஜாடை’ காட்டினன்`, `தாச நிகர் காரணங்களைக்கொண்டு`, `‘சோக்ரதர்’`, `சபையன்`, `ஆஸ்திகப்பழமைவாதியாக்கியிருக்கிறார்`, or any other disputed intro reading as a new assistant-confirmed correction merely from glyph appearance;
+- if a source glyph is ambiguous on re-review, keep Gemini and record the ambiguity;
+- 2009 English remains secondary and must not reconstruct Tamil.
 
-- scan 27 uses a repeated three-dot / ஆய்த-like paragraph ornament before its first three paragraphs; represented as `ஃ` in the page record;
-- `மார்க்கமும், ஏஞ்சல்சும்`;
-- `ஹெகெல்`;
-- `‘ஜாடை’ காட்டினன்`;
-- `தாச நிகர் காரணங்களைக்கொண்டு`;
-- scan 28: Rajaji's quoted title `‘சோக்ரதர்’`;
-- `நாமே`;
-- `சபையன்`;
-- `ஆஸ்திகப்பழமைவாதியாக்கியிருக்கிறார்`;
-- physical joins `சாக்ர / டீசை`, `மூலைமுடுக்கு / களிலே`, `வருவோ / ரை`, `இலட்சிய / வாதி`;
-- bracketed description explicitly says `முதற்காட்சி` begins at Socrates' house entrance;
-- scan 28 closes with centred `*`.
+Current page files:
 
-### Directly mapped dramatic structure
+- `works/socrates/pages/0027.md` — needs-review;
+- `works/socrates/pages/0028.md` — needs-review.
+
+Current verified Socrates count: **0/17**.
+
+### Structural map — unchanged
 
 1. `காட்சி—1` — scans **29–31** / pp.24–26;
 2. `காட்சி—2` — scan **32** / p.27;
@@ -78,38 +51,10 @@ Important source controls from scans 27–28 that must not be silently normalize
 4. `காட்சி—4` — scans **34–39** / pp.29–34;
 5. `காட்சி—5` — scans **40–43** / pp.35–38.
 
-This is a structural map only. Pages 29–43 remain unverified until direct page-by-page comparison is completed.
+### Exact next activity
 
-## Exact next activity
+Re-reconcile scans **27–28** against the user's Gemini transcription using conservative old-glyph handling. Do not advance to scan 29 until both introductory pages are cleanly re-verified.
 
-Verify **`சாக்ரடீஸ்` `காட்சி—1`**, scans **29–31** / printed pages **24–26**, sequentially against the controlling Tamil scan.
+## Permanent controls
 
-Requirements:
-
-- create `pages/0029.md` through `pages/0031.md` only after direct visual verification;
-- preserve source wording, punctuation, speaker labels, stage directions, old glyphs and physical page/line boundaries;
-- use Gemini only as assistive first pass;
-- do not use the 2009 English witness to reconstruct Tamil;
-- do not assemble `காட்சி—1` until all three page records pass;
-- do **not** begin `சேரன் செங்குட்டுவன்` in the same activity.
-
-## Remaining Tamil work
-
-- `சாக்ரடீஸ்`: scans **29–43** pending page verification;
-- `சேரன் செங்குட்டுவன்`: scans **44–53** pending visual verification.
-
-## Completed Silappathikaram state — preserve unchanged
-
-`works/silappathikaram-nataka-kappiyam/` remains complete and locked:
-
-- **88/88 scans** visually verified;
-- Tamil transcription audit: **PASS**;
-- **38/38 numbered scenes** plus closing tableau assembled / fidelity passed;
-- independent English translation: **COMPLETE / READY**;
-- published-English secondary-witness comparison: **PASS / COMPLETE**.
-
-Do not revert the scan-87 source corrections already recorded there (`தலைவர்களாம்`, `அன்னை நற்சோணையே`, `ஈடற்ற புலவனே`).
-
-## Permanent terminology controls
-
-Retain Kalaignar's rhetorical force, cadence, repetition, humour, emotional escalation and dramatic register. `அந்தணர்` is not automatically “Brahmin”; preserve distinctions among related Tamil terms in any future translation phase.
+Preserve source wording, punctuation, speaker labels, stage directions, page boundaries and old Tamil forms. Never normalize an uncertain glyph silently. `அந்தணர்` is not automatically “Brahmin” in future translation work.

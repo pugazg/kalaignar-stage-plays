@@ -8,19 +8,10 @@
 - Work scan range: **27–43**
 - Printed pages: **22–38**
 - Printed title: **சாக்ரடீஸ்**
-- Scans **27–28**: printed introductory note before the numbered scenes — **2/2 verified**
-- Numbered dramatic scenes structurally mapped from Tamil scan: **5**
-- Dramatic page range: scans **29–43** / printed pages **24–38**
-- Tamil page-level verification: **2/17 complete**
+- Scans **27–28**: introductory note; **needs-review after user correction**
+- Numbered dramatic scenes structurally mapped: **5**
+- Tamil verified page count: **0/17** at corrected checkpoint
 
-Structural scene ranges:
+The Tamil scan remains the controlling authority. For scans 27–28, retain the user-supplied Gemini transcription as the working text and do not reintroduce the assistant's withdrawn old-glyph substitutions. The verified 2009 English witness remains secondary.
 
-- `காட்சி—1`: scans 29–31 / pp.24–26;
-- `காட்சி—2`: scan 32 / p.27;
-- `காட்சி—3`: scan 33 / p.28;
-- `காட்சி—4`: scans 34–39 / pp.29–34;
-- `காட்சி—5`: scans 40–43 / pp.35–38.
-
-This scan is the controlling Tamil authority. The Gemini first pass is assistive only. The already verified 2009 published-English witness remains secondary and must not override source-visible Tamil.
-
-Next page activity: verify `காட்சி—1`, starting at scan **29** / printed page **24**.
+Next: re-reconcile scans 27–28 against Gemini before proceeding to scan 29.

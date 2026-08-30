@@ -2,8 +2,8 @@
 
 | Scan page(s) | Printed page(s) | Section / scene | Status | Notes |
 |---:|---:|---|---|---|
-| 27 | 22 | introductory note — opening | verified | `சாக்ரடீஸ்` title; philosophical/political introductory prose. |
-| 28 | 23 | introductory note — closing | verified | Rajaji / `சபையன்` discussion; physical description; states that `முதற்காட்சி` begins at Socrates' house entrance; final `*`. |
+| 27 | 22 | introductory note — opening | needs-review | Gemini transcription retained; prior assistant old-glyph substitutions withdrawn after user correction. |
+| 28 | 23 | introductory note — closing | needs-review | Gemini transcription retained; prior assistant old-glyph substitutions withdrawn after user correction. |
 | 29–31 | 24–26 | `காட்சி—1` | not-started | `சாக்ரடீஸ் வீட்டு வாயில்`; structural survey only; scan 31 closes with `*`. |
 | 32 | 27 | `காட்சி—2` | not-started | Source heading visible; one-scan scene; closes with `*`. |
 | 33 | 28 | `காட்சி—3` | not-started | Source heading visible; one-scan scene. |
@@ -13,13 +13,11 @@
 ## Current checkpoint
 
 - controlling work extent: scans **27–43** / printed pages **22–38**;
-- introductory-note pages: **2/2 visually verified** (`pages/0027.md`, `pages/0028.md`);
-- total work pages verified: **2/17**;
-- numbered dramatic scenes structurally mapped directly from the Tamil scan: **5**;
-- dramatic-body pages verified: **0/15**.
-
-The scene-range mapping is structural only until each page is directly verified. The 2009 English witness did not control this map.
+- scans **27–28** were previously marked verified, but that gate is **withdrawn** after the user's old-glyph correction;
+- working transcription for scans 27–28: **Gemini retained**;
+- verified Socrates pages: **0/17** at the corrected durable checkpoint;
+- numbered dramatic scenes structurally mapped directly from the Tamil scan: **5**.
 
 ## Next activity
 
-Verify `காட்சி—1` sequentially at scans **29–31** / printed pages **24–26**, beginning with `pages/0029.md`. Do not assemble the scene until all three source pages pass direct visual verification.
+Reconcile scans **27–28** against the supplied Gemini text without introducing assistant-normalized old-glyph substitutions. Only after those two pages are cleanly re-verified should `காட்சி—1` scans **29–31** begin.
