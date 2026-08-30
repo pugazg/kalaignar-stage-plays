@@ -12,7 +12,9 @@ Controlling Tamil source: `TVA_BOK_0065576_நான்மணி_மாலை.pd
 - page-level Tamil visual verification: **12/12 scans COMPLETE**;
 - continuous-text assembly: **COMPLETE / PASS**;
 - page-record ↔ assembly fidelity review: **PASS**;
-- unresolved literary-text readings: **0**.
+- independent English translation: **COMPLETE / translation-reviewed PASS**;
+- unresolved literary-text readings: **0**;
+- unresolved English translation blocks: **0**.
 
 Composite-source registry: `../../sources/naanmani-malai-tamil/`.
 
@@ -22,13 +24,17 @@ The Tamil scan is controlling. The Gemini first-pass transcription supplied in c
 
 Old Tamil glyph forms, punctuation, speaker labels, repetitions, physical page boundaries and apparent print anomalies are preserved as supported by the scan. No semantic repair or silent modernization is permitted.
 
+The English translation is based on the verified Tamil assembly, not on Gemini or the 2009 published-English witness. No published English witness for `பரதாயணம்` was used.
+
 See:
 
 - [`FIRST_PASS_DISCREPANCIES.md`](FIRST_PASS_DISCREPANCIES.md) for material Gemini/source corrections;
-- [`scenes/continuous-play.md`](scenes/continuous-play.md) for the assembled reading;
-- [`ASSEMBLY_FIDELITY_REVIEW.md`](ASSEMBLY_FIDELITY_REVIEW.md) for the page-record ↔ assembly audit.
+- [`scenes/continuous-play.md`](scenes/continuous-play.md) for the assembled Tamil reading;
+- [`ASSEMBLY_FIDELITY_REVIEW.md`](ASSEMBLY_FIDELITY_REVIEW.md) for the page-record ↔ assembly audit;
+- [`translations/en/continuous-play.md`](translations/en/continuous-play.md) for the independent English translation;
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) for the English fidelity review.
 
-## Completed checkpoint
+## Completed Tamil checkpoint
 
 - `pages/0006.md` through `pages/0017.md`: **verified**;
 - `scenes/continuous-play.md`: **assembly-reviewed**;
@@ -40,11 +46,22 @@ See:
 - source `நீயல்ல` / `வர்` line split assembled as `நீயல்லவர்`, **not** normalized to `நீயல்லவா`;
 - speaker-label accounting matches exactly between page records and assembly: `பாகவதர்` 1, `சிஷ்யன்` 1, `பாக` 63, `சிஷ்` 64.
 
+## Completed English checkpoint
+
+- `translations/en/continuous-play.md`: **translation-reviewed / PASS**;
+- translation covers the complete verified Tamil assembly;
+- kalakshepam framing, satire, repetition, legal jokes, modern anachronisms and closing rationalist punchline are retained;
+- source anomaly `நீயல்லவர்` is not silently repaired in English;
+- `மோக்ஷம்` / `மோட்சம்` / `மோசம்` and `நமப் பகுத்தறிவுபதே!` receive explicit translation-note treatment;
+- secondary English witness contamination: **0**.
+
 ## Result
 
-**Tamil archival assembly gate: PASS / COMPLETE for `பரதாயணம்`.**
+**Tamil archival assembly gate: PASS / COMPLETE.**
 
-No further `பரதாயணம்` Tamil work is pending from this source at the current phase.
+**Independent English translation gate: PASS / COMPLETE.**
+
+No further `பரதாயணம்` Tamil or English work is pending from this source at the current phase.
 
 ## Next repository activity
 
