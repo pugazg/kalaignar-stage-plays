@@ -4,133 +4,81 @@
 
 `pugazg/kalaignar-stage-plays` on `main`.
 
-Completed controlling-Tamil work: `works/silappathikaram-nataka-kappiyam/`
+Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
-Registered one-act-play work entities:
+## Active controlling source — கலைஞரின் நான்மணி மாலை
 
-- `works/anarkali/`
-- `works/cheran-senguttuvan/`
-- `works/socrates/`
+A new authentic Tamil source has been supplied, reopening the repository's one-act-play Tamil work:
 
-Controlling Tamil source for Silappathikaram: `TVA_BOK_0016473_சிலப்பதிகாரம்_நாடகக்_காப்பியம்.pdf` — supplied externally and **not committed**.
+- filename: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`;
+- scans: **54**;
+- SHA-256: `18d2b1405544b03507e9f92067d287cb28f5a92eaf02bed7054e6e78e5e38c89`;
+- file size: **146,754,449 bytes**;
+- title: **கலைஞரின் நான்மணி மாலை**;
+- publisher / imprint visible: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**;
+- price visible: **ரூ. 4/-**;
+- printer visible: **ஜெம் பிரஸ், சென்னை - 600 001**;
+- standalone publication year: **not established from the scan**;
+- source PDF remains external and is not committed.
 
-## Mandatory startup for any future Silappathikaram phase
+Source registry: `sources/naanmani-malai-tamil/`.
 
-Read completely:
+## Physical source map
 
-1. `STAGE_PLAY_PROCESSING_GUIDE.md`
-2. `docs/SILAPPATHIKARAM_CONTINUATION_GUIDELINES.md`
-3. `docs/SILAPPATHIKARAM_PROJECT_HANDOVER.md`
-4. `docs/NEXT_CHAT_PROMPT_SILAPPATHIKARAM.md`
-5. this handover
-6. work `README.md`
-7. `GLOBAL_TAMIL_REVIEW.md`
-8. `TRANSLATION_GUIDE.md`
-9. `TRANSLATION_TERMINOLOGY.md`
-10. `translations/en/README.md`
-11. `translations/en/TRANSLATION_REVIEW.md`
-12. `translations/en/FINAL_ENGLISH_CONSISTENCY_REVIEW.md`
-13. `translations/en/RELEASE_REPORT.md`
-14. `translations/en/PUBLISHED_WITNESS_COMPARISON.md`
-15. `NAVIGATION.md`
+- scans **1–5**: shared front matter;
+- scans **6–17**: **பரதாயணம்**; scan 6 has no visible printed page number, scans 7–17 show pages 2–12;
+- scans **18–26**: **அனார்கலி**, printed pages 13–21;
+- scans **27–43**: **சாக்ரடீஸ்**, printed pages 22–38; scans 27–28 are introductory note;
+- scans **44–53**: **சேரன் செங்குட்டுவன்**, printed pages 39–48;
+- scan **54**: illustrated back cover.
 
-## Completed Silappathikaram Tamil state
+The publisher's note on scan 5 explicitly names these four short plays.
 
-- **88/88 scans** visually verified at page-record level.
-- Tamil transcription completion audit: **PASS**.
-- **38/38 numbered scenes** assembled / visual fidelity passed.
-- Separate closing tableau assembled / fidelity passed.
-- Global Tamil consistency/source review: **PASS**.
+## First-pass transcription policy
 
-### Scan-87 corrections discovered during translation
+The user supplied a Gemini first-pass transcription of the volume. Treat it only as a working/navigation layer.
 
-Direct source-pixel reinspection corrected three earlier Tamil readings in `pages/0087.md` and `scenes/37.md`:
+The scan is controlling. Every word must be visually checked. Do not silently normalize old Tamil glyphs, spelling, punctuation, speaker labels, repetition, stage directions, physical line splits or apparent source anomalies.
 
-- `தீவர்களாம்` → `தலைவர்களாம்`;
-- `அன்ன நற்சோணையே` → `அன்னை நற்சோணையே`;
-- `சுடற்ற புலவனே` → `ஈடற்ற புலவனே`.
+The first verified page already proves that the first pass contains material OCR/order errors: scan 6 has a non-Tamil OCR fragment and loses/reorders the opening `பாக` / `சிஷ்` dialogue around `உலகமென்றால்........?`.
 
-These are source corrections, not normalization. Do not revert them.
+## Active work — பரதாயணம்
 
-## Completed Silappathikaram English state
+Work folder: `works/bharathayanam/`.
 
-- Scenes **1–38**: `translation-reviewed` / **PASS**.
-- Separate unnumbered `கண்ணகி சிலை நாட்டு விழா` closing tableau: `translation-reviewed` / **PASS**.
-- Final English consistency review: **PASS**.
-- English release report: **READY**.
-- English progress: **38/38 numbered scenes + closing tableau COMPLETE**.
-- No published English edition was used in drafting or reviewing the independent translation.
+Current durable checkpoint:
 
-## Completed published-English secondary-witness comparison
+- scan **6**: **verified** at `pages/0006.md`;
+- next scan: **7** / printed page **2**;
+- remaining `பரதாயணம்` scans **7–17**: not started.
 
-The independent English translation has now been compared against the verified 2009 published-English witness across **38/38 numbered scenes plus the closing tableau**.
+Next activity: visually verify scans **7–17** sequentially against the Gemini first pass and record discrepancies. Do not move to `அனார்கலி` until this play's page-level Tamil pass is complete.
 
-Final comparison result: **PASS / COMPLETE**.
+## Existing one-act work entities
 
-- Tamil rechecks triggered: **0**;
-- independent-translation re-reviews triggered: **0**;
-- translation changes imported from the secondary witness: **0**.
+The previously registered work entities now have a controlling Tamil source:
 
-Detailed evidence is in `translations/en/PUBLISHED_WITNESS_COMPARISON.md` and `translations/en/published-witness-comparison/`.
+- `works/anarkali/` — Tamil scans **18–26**;
+- `works/socrates/` — Tamil scans **27–43**;
+- `works/cheran-senguttuvan/` — Tamil scans **44–53**.
 
-The comparison confirms that the published witness remains analytically useful but secondary. It cannot override verified Tamil or the reviewed independent translation.
+Their previously completed 2009 published-English transcriptions remain **secondary witnesses only**. They must not be used to overwrite or reconstruct Tamil source readings.
 
-## Published-English secondary witness
+## Completed Silappathikaram state — preserve unchanged
 
-The supplied 2009 *Tale of the Anklet and One Act Plays* witness is separately archived under `sources/`.
+`works/silappathikaram-nataka-kappiyam/` remains complete and locked at its previously reviewed state:
 
-Final witness status:
+- **88/88 scans** visually verified;
+- Tamil transcription audit: **PASS**;
+- **38/38 numbered scenes** plus separate closing tableau assembled / fidelity passed;
+- global Tamil source review: **PASS**;
+- independent English translation: **COMPLETE / READY**;
+- published-English secondary-witness comparison: **PASS / COMPLETE**.
 
-- **163/163 physical scans accounted for**;
-- **163/163 visually reviewed**;
-- **109 passed**;
-- **54 corrected-and-passed**;
-- **0 unresolved**;
-- release status: **ARCHIVAL WITNESS READY**.
+Do not revert the scan-87 source corrections already recorded there (`தலைவர்களாம்`, `அன்னை நற்சோணையே`, `ஈடற்ற புலவனே`).
 
-The one-act plays are separated into dedicated witness folders and registered under `works/`.
+## Permanent terminology controls
 
-## One-act plays — source boundary
+Retain Kalaignar's rhetorical force, cadence, repetition, humour, emotional escalation and dramatic register.
 
-`Anarkali`, `Cheran Senguttuvan`, and `Socrates` currently have only the verified published-English secondary witness available in this repository workflow.
-
-**No controlling Tamil source is presently available for these three plays.** Therefore:
-
-- do not reconstruct Tamil from the English witness;
-- do not create a canonical Tamil transcription from translation evidence;
-- do not begin an independent translation phase;
-- wait for an authentic Tamil source before archival Tamil processing begins.
-
-## Closing-tableau source obstruction
-
-The scan-88 later library/accession stamp obscures the leading characters of two publication lines. The Tamil archive and English translation preserve those portions as unresolved. Do **not** reconstruct them from another edition, memory, or the published English translation.
-
-The tableau is **not Scene 39**.
-
-## Permanent language / terminology controls
-
-Retain Kalaignar's rhetorical force, cadence, repetition, humour, emotional escalation, dramatic timing and political/literary register.
-
-`அந்தணர்` is **not automatically “Brahmin.”** Preserve the distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்`, and related terms.
-
-Keep Dravidian-movement interpretation separate from dialogue unless the source states the concept. Scene 37 explicitly contains `சுயமரியாதை`, translated as `self-respect`.
-
-## Current project state
-
-**All work possible from the currently supplied source material is complete.**
-
-Completed phases include:
-
-- Silappathikaram Tamil page archive and visual verification;
-- scene assembly and global Tamil review;
-- independent English translation and individual reviews;
-- final English consistency/release review;
-- 163-page published-English witness transcription and visual-fidelity review;
-- complete published-English secondary-witness comparison;
-- repository metadata/navigation finalization.
-
-The repository is therefore **closed for currently available source material**.
-
-Future archival work becomes source-dependent: when a controlling Tamil edition of `Anarkali`, `Cheran Senguttuvan`, `Socrates`, or another Kalaignar stage play is supplied, process it as a new controlling-source work under `STAGE_PLAY_PROCESSING_GUIDE.md`.
-
-No future phase may silently overwrite verified Tamil readings or reviewed English translation decisions.
+`அந்தணர்` is not automatically “Brahmin.” Preserve distinctions among `பிராமண`, `பார்ப்பன`, `பார்ப்பார்`, `அந்தணர்`, `மறையவன் / மறையவர்`, and related terms in any future translation phase.
