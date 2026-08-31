@@ -9,12 +9,13 @@
 - `காட்சி—1` scans **29–31**: **3/3 verified; assembly/fidelity PASS**
 - `காட்சி—2` scan **32**: **1/1 verified; assembly/fidelity PASS**
 - `காட்சி—3` scan **33**: **1/1 verified; assembly/fidelity PASS**
-- `காட்சி—4` scans **34–39**: **6/6 verified / page gate COMPLETE**
+- `காட்சி—4` scans **34–39**: **6/6 verified; assembly/fidelity PASS**
 - Total Tamil page-level verification: **13/17**
 - Dramatic-body page verification: **11/15**
 - Numbered dramatic scenes: **5**
-- Scene assembly completed: **3/5**
-- `காட்சி—4` assembly: **pending as the next separate activity**
+- Scene assembly completed: **4/5**
+- `காட்சி—4` assembled file: `../scenes/04.md`
+- `காட்சி—4` fidelity review: `../SCENE4_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**
 
 ## Active user-directed transcription rule
 
@@ -22,6 +23,6 @@
 - the controlling scan verifies headings, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks;
 - no assistant word-level substitutions are permitted unless explicitly requested by the user.
 
-Scan 39 / p.34 is verified in `../pages/0039.md`. The scan confirms `சாக்:` label spacing, source punctuation/dashes, physical line boundaries, centered closing `*`, and page number `34`; Gemini lexical forms including `விட்டர்கள்` and `களத்தில்` remain unchanged.
+Scene 4 was assembled exclusively from verified `../pages/0034.md`–`../pages/0039.md`; only legitimate physical print-line and page-boundary joins were made. The final `*` is retained and the page-record ↔ scene audit passes with zero unresolved discrepancies.
 
-Next activity: assemble `காட்சி—4` only from verified `../pages/0034.md`–`../pages/0039.md` and run the page-record ↔ scene fidelity audit. Do not begin `காட்சி—5` in that same activity.
+Next activity: verify `காட்சி—5` scan **40** / printed p.35 only. Do not process scan 41 or assemble Scene 5 in that same activity.
