@@ -7,10 +7,10 @@
 - Printed pages: **39–48**
 - Printed title: **சேரன் செங்குட்டுவன்**
 - Source collection: **கலைஞரின் நான்மணி மாலை**
-- Tamil page-level verification: **7/10**
+- Tamil page-level verification: **8/10**
 - `காட்சி — 1` page gate + assembly/fidelity: **PASS**
 - `காட்சி — 2` page gate + assembly/fidelity: **PASS**
-- `காட்சி—3.` page gate: **1/2** (`../pages/0050.md`; `../SCENE3_PAGE_VERIFICATION.md`)
+- `காட்சி—3.` page gate: **2/2 COMPLETE** (`../pages/0050.md`–`../pages/0051.md`; `../SCENE3_PAGE_VERIFICATION.md`)
 - Source-printed dramatic scenes: **4**
 - Scene assembly completed from verified Tamil: **2/4**
 
@@ -18,20 +18,12 @@
 
 The Tamil scan is controlling. The user-supplied Gemini transcription is a comparison baseline under the permanent old-glyph policy: retain plausible first-pass readings when scan evidence is ambiguous, but use unambiguous scan evidence for canonical wording, spacing, punctuation, labels and source order. The 2009 published-English witness is secondary and must not reconstruct Tamil.
 
-## Completed scenes
+## Completed page gates
 
 - Scene 1: scans **44–45** / pp.39–40 — page gate + assembly/fidelity **PASS**.
 - Scene 2: scans **46–49** / pp.41–44 — page gate + assembly/fidelity **PASS**.
+- Scene 3: scans **50–51** / pp.45–46 — page gate **2/2 COMPLETE**; assembly pending.
 
-## Active Scene 3
+Scan 51 continues the scan-50 `சேரன்:` speech and ends with the centered source `*`. Source long dashes and punctuation/spacing are preserved; no English witness reconstruction was used.
 
-Scene 3 spans scans **50–51** / printed pp.45–46.
-
-- scan **50** / p.45 — **verified**;
-- scan **51** / p.46 — not processed;
-- Scene-3 page gate: **1/2**;
-- assembly blocked until 2/2.
-
-Scan-50 source controls include `காட்சி—3.`, `சேரன் கொலுமண்டபம்`, source `...னும்` name sequence, `கனகனும்விசயனும்`, source punctuation/labels, and retained plausible old-glyph `காணா`. No closing `*` occurs on scan 50.
-
-Next activity: verify scan **51** / printed p.46 only. Do not assemble Scene 3 or process scan 52 in the same activity.
+Next activity: assemble `காட்சி—3.` only from verified `../pages/0050.md`–`0051.md`, then run the page-record fidelity audit. Do not process scan 52 in the same activity.
