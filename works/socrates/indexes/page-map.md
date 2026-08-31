@@ -8,10 +8,7 @@
 | 32 | 27 | `காட்சி—2` | assembly-reviewed | Gemini words retained after user-directed lexical rollback; assembly/fidelity PASS. |
 | 33 | 28 | `காட்சி—3` | assembly-reviewed | Gemini words retained; assembly/fidelity PASS. |
 | 34–39 | 29–34 | `காட்சி — 4` | assembly-reviewed | 6/6 verified; `scenes/04.md` assembly/fidelity PASS; final `*` retained. |
-| 40 | 35 | `காட்சி—5` — opening | verified | Scene-5 gate 1/4; heading `காட்சி—5.`; Gemini lexical material retained; scan controls typography/source marks; no closing `*`. |
-| 41 | 36 | `காட்சி—5` — continuation | verified | Scene-5 gate 2/4; Gemini dialogue words retained; scan controls punctuation/dashes, physical lines and speaker-label structure/spacing; no closing `*`. |
-| 42 | 37 | `காட்சி—5` — continuation | verified | Scene-5 gate 3/4; Gemini dialogue words retained; scan controls labels, stage-direction structure, long dashes, quote punctuation, physical lines and source marks; no closing `*`. |
-| 43 | 38 | `காட்சி—5` — closing | verified | Scene-5 gate 4/4 COMPLETE; Gemini dialogue words retained; scan controls punctuation/label/physical-line structure and final centered `*`. |
+| 40–43 | 35–38 | `காட்சி—5.` | assembly-reviewed | 4/4 verified; `scenes/05.md` assembly/fidelity PASS; final centered `*` retained. |
 
 ## Current checkpoint
 
@@ -20,17 +17,19 @@
 - `காட்சி—2`: **assembly/fidelity PASS**;
 - `காட்சி—3`: **assembly/fidelity PASS**;
 - `காட்சி — 4`: **6/6 page gate + assembly/fidelity PASS**;
-- `காட்சி—5`: **4/4 pages verified / page gate COMPLETE**;
+- `காட்சி—5.`: **4/4 page gate + assembly/fidelity PASS**;
 - total `சாக்ரடீஸ்` page progress: **17/17 COMPLETE**;
 - dramatic-body page progress: **15/15 COMPLETE**;
-- scenes assembled: **4/5**.
+- scenes assembled: **5/5 COMPLETE**.
 
 Detailed Scene-5 page gate: `../SCENE5_PAGE_VERIFICATION.md` — **4/4 PASS / COMPLETE**.
 
-## Active lexical / visual rule
+Scene-5 assembled file/audit: `../scenes/05.md`; `../SCENE5_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**.
 
-Retain Gemini's dialogue words. Use the controlling scan for headings where present, punctuation, dash, speaker-label spacing/structure, physical line boundaries and final source marks. Do not introduce assistant dialogue-word corrections or additions by expectation.
+## Lexical / visual rule preserved in completed records
+
+Gemini dialogue words remain as locked in verified page records. The controlling scan supplies headings, punctuation, dash, speaker-label spacing/structure, physical line boundaries and final source marks. Scene assembly introduces only legitimate physical-line/page-boundary joins.
 
 ## Next activity
 
-Assemble `காட்சி—5` only from verified `pages/0040.md`–`0043.md` and run the page-record ↔ scene fidelity audit. Do not begin `சேரன் செங்குட்டுவன்` in that activity.
+`சாக்ரடீஸ்` Tamil page verification and five-scene assembly are complete. Verify **`சேரன் செங்குட்டுவன்` scan 44 / printed p.39 only** as the next source-sequential activity. Do not process scan 45 in the same activity.
