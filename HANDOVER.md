@@ -16,6 +16,7 @@ Controlling composite source: `TVA_BOK_0065576_நான்மணி_மால�
 - `அனார்கலி`: Tamil page/assembly fidelity PASS.
 - `சாக்ரடீஸ்`: **17/17 pages verified; 5/5 scenes assembled; all fidelity gates PASS**.
 - Silappathikaram completed state remains locked and unchanged.
+- `சேரன் செங்குட்டுவன்` Scenes 1–3: page gates + assembly/fidelity **PASS**.
 
 ## Active work — சேரன் செங்குட்டுவன்
 
@@ -29,39 +30,49 @@ The user supplied a Gemini word-to-word first pass covering the Cheran source ex
 
 - `காட்சி — 1`: scans **44–45** / pp.39–40 — page gate + assembly/fidelity **PASS**.
 - `காட்சி — 2`: scans **46–49** / pp.41–44 — page gate + assembly/fidelity **PASS**.
-- `காட்சி—3.`: scans **50–51** / pp.45–46 — page gate **2/2 COMPLETE**, `scenes/03.md` assembled, `SCENE3_ASSEMBLY_FIDELITY_REVIEW.md` **PASS**.
+- `காட்சி—3.`: scans **50–51** / pp.45–46 — page gate + assembly/fidelity **PASS**.
 
-Important locked Scene-3 controls:
+### `காட்சி—4.` — PAGE GATE IN PROGRESS
 
-- source `காட்சி—3.` and `சேரன் கொலுமண்டபம்`;
-- source labels `சேரன்:` and `ஒரு அமைச்சர் :`;
-- source `உத்திரனும்—விசித்திரனும்—சித்தரனும்—சிவேதனும்—பைரவனும்!` and `கனகனும்விசயனும்`;
-- source short spaced hyphen `வீணன் - கயலைப்`;
-- plausible first-pass `காணா` retained under the old-glyph safeguard;
-- scan 51 continues the same `சேரன்:` speech with no new label;
-- source long dashes, `நதியும், பொழிலும்`, `இல்லை!....இல்லை!..`, `தோழர்களே! ....புறப்படுங்கள்!`, and the centered closing `*` retained in assembly.
+Source extent: scans **52–53** / printed pp.47–48.
+
+Current durable state:
+
+- `works/cheran-senguttuvan/pages/0052.md` — scan **52** / p.47 — **verified**;
+- `works/cheran-senguttuvan/SCENE4_PAGE_VERIFICATION.md` — **1/2 PASS**;
+- scan **53** — not processed;
+- final-scene assembly — blocked until 2/2 pages verified.
+
+Important scan-52 controls:
+
+- source heading `காட்சி—4.` and setting `குயிலாலுவம்`;
+- source-order opening direction `...கனக—விஜயருக்கும் நடை / பெற்ற போரில்...`;
+- source speaker-label punctuation variants `சேர்:`, `வில்லவன்:`, `வில்:`, `சேர்;`, `வில்!`, `கன:`;
+- source long dashes in the stage direction and `காட்டுவது—முக்காடு போடுவது—மறைந்திருந்து தாக்கு / வது—மகானாய் மாறுவது.`;
+- source spacing `ராம ராவணப் போர்?....`;
+- scan 52 contains no closing `*`.
 
 Current Cheran progress:
 
-- Tamil pages verified: **8/10**;
+- Tamil pages verified: **9/10**;
 - scenes assembled from verified Tamil: **3/4**;
-- scans **52–53** / printed pp.47–48: not yet processed.
+- final-scene page gate: **1/2**.
 
 ## Exact next activity
 
-Process **`சேரன் செங்குட்டுவன்` scan 52 / printed p.47 only** as the opening-page verification activity for the final scene.
+Process **`சேரன் செங்குட்டுவன்` scan 53 / printed p.48 only** as the closing-page verification activity for `காட்சி—4.`.
 
 Requirements:
 
 - fetch live `main` first;
-- inspect scan 52 directly from the controlling PDF;
+- inspect scan 53 directly from the controlling PDF;
 - use the user-supplied Gemini first pass as comparison baseline;
-- preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and source marks;
+- preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and final source marks;
 - apply the old-glyph safeguard and avoid expectation-based lexical correction;
-- create `works/cheran-senguttuvan/pages/0052.md` only after direct verification;
-- create/update the final-scene page-verification record and work/source progress after verification;
-- expected durable page progress after success: **9/10**;
-- do **not** process scan 53 in the same activity;
+- create `works/cheran-senguttuvan/pages/0053.md` only after direct verification;
+- update `SCENE4_PAGE_VERIFICATION.md`, work/source progress, page maps, README files and handover after verification;
+- expected durable page progress after success: **10/10**, final-scene gate **2/2 COMPLETE**;
+- preserve any final `*` exactly if confirmed on scan 53;
 - do **not** assemble the final scene in the same activity;
 - do **not** use the English witness to reconstruct Tamil.
 
