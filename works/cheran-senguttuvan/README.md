@@ -9,7 +9,8 @@ Work-level archival entry for Kalaignar's one-act play **`சேரன் செ
 - printed pages: **39–48**;
 - Tamil page-level visual verification: **10/10 COMPLETE**;
 - source-printed dramatic scenes: **4**;
-- scenes assembled from verified Tamil: **3/4**.
+- scenes assembled from verified Tamil: **4/4 COMPLETE**;
+- all four scene page-record ↔ assembly fidelity gates: **PASS**.
 
 Completed Scene 1:
 
@@ -24,12 +25,13 @@ Completed Scene 3:
 - scans **50–51** / printed pp.45–46 — page gate + assembly/fidelity **PASS**;
 - scan 51 centered closing `*` retained.
 
-Final Scene 4 page gate is complete:
+Completed Scene 4:
 
-- source extent: scans **52–53** / printed pp.47–48;
-- scans **52–53** — **2/2 verified**;
+- scans **52–53** / printed pp.47–48 — page gate **2/2 PASS / COMPLETE**;
 - `SCENE4_PAGE_VERIFICATION.md` — **PASS / COMPLETE**;
-- final-scene assembly — **not yet performed**.
+- `scenes/04.md` — **assembly-reviewed / PASS**;
+- `SCENE4_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**;
+- scan 53 centered final mark `- * -` retained exactly.
 
 Work page map: [`indexes/page-map.md`](indexes/page-map.md).
 
@@ -41,10 +43,17 @@ The 2009 published-English witness remains **secondary only** and must not recon
 
 ## Final-scene locked controls
 
-Scan 52 preserves source `காட்சி—4.`, `குயிலாலுவம்`, source-order opening stage direction, exact speaker-label punctuation variants, source long dashes and `ராம ராவணப் போர்?....`.
+The assembled final scene preserves:
 
-Scan 53 preserves source labels `சேர்:`, the unusual `சேர்!` second Cheran label, `வில்:`, source `புறப்படுவோம்—வில்லவா.`, `கனக—விஜயா`, `சொல்—இப்போது`, physical print lines, and the centered final mark **`- * -`**.
+- source `காட்சி—4.` and `குயிலாலுவம்`;
+- source-order opening stage direction, mechanically joining `நடை / பெற்ற` only;
+- exact source label/punctuation variants `சேர்:`, `சேர்;`, `சேர்!`, `வில்லவன்:`, `வில்:`, `வில்!`, and `கன:`;
+- source long dashes and `ராம ராவணப் போர்?....`;
+- `புறப்படுவோம்—வில்லவா.`, `கனக—விஜயா`, and `சொல்—இப்போது`;
+- centered final source mark `- * -`.
 
-## Next activity
+## Completion state
 
-Assemble **`காட்சி—4.` only** from verified `pages/0052.md`–`0053.md`, then run the page-record ↔ scene fidelity audit. Preserve the final `- * -` exactly. Do not process the back cover or begin another work in the same activity.
+**`சேரன் செங்குட்டுவன்` Tamil dramatic-source processing is complete for scans 44–53 / printed pp.39–48: 10/10 pages verified, 4/4 scenes assembled, all fidelity gates PASS.**
+
+The next distinct source-sequential activity is **scan 54 / back-cover archival description only** in the composite `கலைஞரின் நான்மணி மாலை` source. Do not begin another work in the same activity.
