@@ -26,9 +26,10 @@ Scene 4 preserves the source `சேர்!` label variant, `புறப்ப�
 
 - scan **1 / illustrated front cover** — **verified** at [`pages/0001.md`](pages/0001.md);
 - scan **2 / title page** — **verified** at [`pages/0002.md`](pages/0002.md);
-- scan 2 preserves title **`கலைஞரின் நான்மணி மாலை`**, publisher/imprint **`தமிழ்க்கனி பதிப்பகம்`**, the printed decorative lamp emblem between the publisher words, and location **`சென்னை-28`**;
-- scan 2 contains no visible printed pagination, separate author-name line, publication year, price line, library stamp, accession mark or later handwriting;
+- scan **3 / copyright-imprint page** — **verified** at [`pages/0003.md`](pages/0003.md);
+- scan 3 preserves **`© பதிப்புரிமை`**, **`விலை ரூ. 4/-`**, **`அச்சிட்டோர் :`**, and **`ஜெம் பிரஸ், சென்னை - 600 001.`** exactly as printed;
+- scan 3 contains no visible printed pagination, publication year, library stamp, accession mark or later handwriting; faint reverse-side show-through is non-authorial;
 - scan **54 / illustrated back cover** — **verified** at [`pages/0054.md`](pages/0054.md);
-- shared front-matter scans **3–5** still require page-level archival records.
+- shared front-matter scans **4–5** still require page-level archival records.
 
-Next source-sequential activity: process **scan 3 / copyright-imprint page only** as an archival transcription/description page for the composite source. Do not process scan 4 or begin another work in the same activity.
+Next source-sequential activity: process **scan 4 / `என்னுரை` only** as a page-level archival transcription for the composite source. Do not process scan 5 or begin another work in the same activity.
