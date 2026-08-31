@@ -7,10 +7,10 @@ Source: `TVA_BOK_0065576_நான்மணி_மாலை.pdf` — **54 scans*
 - `பரதாயணம்`: Tamil archival/assembly PASS; independent English translation PASS.
 - `அனார்கலி`: Tamil archival/assembly PASS.
 - `சாக்ரடீஸ்`: scans **27–43 = 17/17 pages verified COMPLETE**; all five scenes assembled with page-record fidelity **PASS**.
-- `சேரன் செங்குட்டுவன்`: scan **44 / p.39 verified**; Tamil page progress **1/10**; `காட்சி — 1` page gate **1/2**; scenes assembled **0/4**.
+- `சேரன் செங்குட்டுவன்`: scans **44–45 / pp.39–40 verified**; Tamil page progress **2/10**; `காட்சி — 1` page gate **2/2 COMPLETE**; scenes assembled **0/4**.
 
 For active `சேரன் செங்குட்டுவன்`, the user-supplied Gemini first pass is a comparison baseline. The Tamil scan remains controlling under `STAGE_PLAY_PROCESSING_GUIDE.md`; ambiguous old-glyph readings are not normalized by expectation, while unambiguous scan evidence controls canonical wording, spacing, punctuation and labels. The 2009 English witness remains secondary only.
 
-Scan 44 records the printed work title, pre-scene voice-over and `காட்சி — 1` opening. Source-proven first-pass differences include `வேந்தர் குலதிலக` → `வேந்தர்குலதிலக` and `கனக விஐயர்` → `கனக விஜயர்`.
+Scan 45 closes the verified Scene-1 page gate. Source-proven first-pass reconciliation there includes removal of the stray Gemini `ழ்!`, correction of `யுல:` to source `புல:`, restoration of `தமிழன்!` inside the following `கன:` speech, and correction of `யுல: : கனகர் சொன்னது...` to source `விஜ: கனகர் சொன்னது...`.
 
-Next source-sequential activity: verify **`சேரன் செங்குட்டுவன்` scan 45 / printed p.40 only**. Do not process scan 46 or assemble Scene 1 in the same activity.
+Next source-sequential activity: assemble **`சேரன் செங்குட்டுவன்` `காட்சி — 1` only** from verified scans 44–45 page records and run its fidelity audit. Do not process scan 46 in the same activity.
