@@ -13,14 +13,15 @@ Printed pagination is recorded only where directly visible.
 | 33 | 28 | `சாக்ரடீஸ்` — `காட்சி—3` | assembly-reviewed | Page gate + assembly/fidelity PASS. |
 | 34 | 29 | `சாக்ரடீஸ்` — `காட்சி—4` opening | verified | Scene-4 gate 1/6; heading `காட்சி — 4`; no closing `*`. |
 | 35 | 30 | `சாக்ரடீஸ்` — `காட்சி—4` continuation | verified | Scene-4 gate 2/6; Gemini lexical `செடுக்கிறேனா` retained; no closing `*`. |
-| 36 | 31 | `சாக்ரடீஸ்` — `காட்சி—4` continuation | verified | Scene-4 gate 3/6; Gemini lexical `எல்லாரும்` retained; scan typography controls retained; no closing `*`. |
-| 37–39 | 32–34 | `சாக்ரடீஸ்` — `காட்சி—4` continuation/closing | not-started | Scan 39 closes with `*`. |
+| 36 | 31 | `சாக்ரடீஸ்` — `காட்சி—4` continuation | verified | Scene-4 gate 3/6; Gemini lexical `எல்லாரும்` retained; no closing `*`. |
+| 37 | 32 | `சாக்ரடீஸ்` — `காட்சி—4` continuation | verified | Scene-4 gate 4/6; Gemini lexical `இன்னும`, `கொன்றோம்என்ற` retained; ends at `மரண தண்டனை`; no closing `*`. |
+| 38–39 | 33–34 | `சாக்ரடீஸ்` — `காட்சி—4` continuation/closing | not-started | Scan 39 closes with `*`. |
 | 40–43 | 35–38 | `சாக்ரடீஸ்` — `காட்சி—5` | not-started | Structural survey only. |
 | 44–53 | 39–48 | `சேரன் செங்குட்டுவன்` | not-started | Direct visual verification pending. |
 | 54 | — | back cover | partial | Archival description pending. |
 
 ## Current checkpoint
 
-`சாக்ரடீஸ்` scans **27–36 = 10 pages verified**. Scenes 1–3 are assembled with fidelity PASS. Scene 4 is **3/6 pages verified** and not assembled. Overall work progress: **10/17 verified**; scenes assembled **3/5**.
+`சாக்ரடீஸ்` scans **27–37 = 11 pages verified**. Scenes 1–3 are assembled with fidelity PASS. Scene 4 is **4/6 pages verified** and not assembled. Overall work progress: **11/17 verified**; scenes assembled **3/5**.
 
-Next: verify `காட்சி—4` scan **37** / printed p.32 only; do not process scan 38 or assemble Scene 4 in the same activity.
+Next: verify `காட்சி—4` scan **38** / printed p.33 only; do not process scan 39 or assemble Scene 4 in the same activity.
