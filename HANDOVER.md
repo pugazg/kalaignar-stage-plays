@@ -32,48 +32,46 @@ The user supplied a Gemini word-to-word first pass covering the Cheran source ex
 - `காட்சி — 2`: scans **46–49** / pp.41–44 — page gate + assembly/fidelity **PASS**.
 - `காட்சி—3.`: scans **50–51** / pp.45–46 — page gate + assembly/fidelity **PASS**.
 
-### `காட்சி—4.` — PAGE GATE IN PROGRESS
+### `காட்சி—4.` — PAGE GATE COMPLETE
 
 Source extent: scans **52–53** / printed pp.47–48.
 
 Current durable state:
 
 - `works/cheran-senguttuvan/pages/0052.md` — scan **52** / p.47 — **verified**;
-- `works/cheran-senguttuvan/SCENE4_PAGE_VERIFICATION.md` — **1/2 PASS**;
-- scan **53** — not processed;
-- final-scene assembly — blocked until 2/2 pages verified.
+- `works/cheran-senguttuvan/pages/0053.md` — scan **53** / p.48 — **verified**;
+- `works/cheran-senguttuvan/SCENE4_PAGE_VERIFICATION.md` — **2/2 PASS / COMPLETE**;
+- final-scene assembly — **not yet performed**.
 
-Important scan-52 controls:
+Important final-scene controls:
 
-- source heading `காட்சி—4.` and setting `குயிலாலுவம்`;
-- source-order opening direction `...கனக—விஜயருக்கும் நடை / பெற்ற போரில்...`;
-- source speaker-label punctuation variants `சேர்:`, `வில்லவன்:`, `வில்:`, `சேர்;`, `வில்!`, `கன:`;
-- source long dashes in the stage direction and `காட்டுவது—முக்காடு போடுவது—மறைந்திருந்து தாக்கு / வது—மகானாய் மாறுவது.`;
-- source spacing `ராம ராவணப் போர்?....`;
-- scan 52 contains no closing `*`.
+- scan 52: source heading `காட்சி—4.`, setting `குயிலாலுவம்`, source-order opening direction `...கனக—விஜயருக்கும் நடை / பெற்ற போரில்...`, exact source label/punctuation variants, source long dashes and `ராம ராவணப் போர்?....`;
+- scan 53: source labels include `சேர்:`, unusual second-turn `சேர்!`, and `வில்:`;
+- scan 53 source `புறப்படுவோம்—வில்லவா.`, `கனக—விஜயா`, `சொல்—இப்போது`;
+- scan 53 centered final source mark is **`- * -`**, not a bare `*`.
 
 Current Cheran progress:
 
-- Tamil pages verified: **9/10**;
+- Tamil pages verified: **10/10 COMPLETE**;
 - scenes assembled from verified Tamil: **3/4**;
-- final-scene page gate: **1/2**.
+- final-scene page gate: **2/2 COMPLETE**.
 
 ## Exact next activity
 
-Process **`சேரன் செங்குட்டுவன்` scan 53 / printed p.48 only** as the closing-page verification activity for `காட்சி—4.`.
+Assemble **`சேரன் செங்குட்டுவன்` `காட்சி—4.` only** from verified page records `works/cheran-senguttuvan/pages/0052.md` and `0053.md`.
 
 Requirements:
 
 - fetch live `main` first;
-- inspect scan 53 directly from the controlling PDF;
-- use the user-supplied Gemini first pass as comparison baseline;
-- preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and final source marks;
-- apply the old-glyph safeguard and avoid expectation-based lexical correction;
-- create `works/cheran-senguttuvan/pages/0053.md` only after direct verification;
-- update `SCENE4_PAGE_VERIFICATION.md`, work/source progress, page maps, README files and handover after verification;
-- expected durable page progress after success: **10/10**, final-scene gate **2/2 COMPLETE**;
-- preserve any final `*` exactly if confirmed on scan 53;
-- do **not** assemble the final scene in the same activity;
+- use the two verified page records as the sole textual authority;
+- mechanically join only legitimate physical print-line/page-boundary breaks;
+- preserve all verified wording, punctuation and source speaker-label forms, including `சேர்!`;
+- preserve the scan-53 centered final mark `- * -` exactly;
+- create the Scene-4 assembled file using repository naming conventions;
+- run a page-record ↔ scene fidelity audit and require PASS;
+- update durable completion state only after fidelity PASS;
+- do **not** process scan 54 / the back cover in the same activity;
+- do **not** begin another work in the same activity;
 - do **not** use the English witness to reconstruct Tamil.
 
 ## Permanent safeguards
