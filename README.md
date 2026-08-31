@@ -24,10 +24,11 @@ For the composite `கலைஞரின் நான்மணி மாலை` 
 
 - scan **1 / illustrated front cover** — `sources/naanmani-malai-tamil/pages/0001.md`;
 - scan **2 / title page** — `sources/naanmani-malai-tamil/pages/0002.md`;
+- scan **3 / copyright-imprint page** — `sources/naanmani-malai-tamil/pages/0003.md`;
 - scan **54 / illustrated back cover** — `sources/naanmani-malai-tamil/pages/0054.md`.
 
-Scan 2 preserves `கலைஞரின் நான்மணி மாலை`, publisher `தமிழ்க்கனி பதிப்பகம்`, the decorative lamp emblem between the publisher words, and `சென்னை-28`. Shared front-matter scans **3–5** still require page-level archival records. The source PDF remains external to the repository.
+Scan 3 preserves `© பதிப்புரிமை`, `விலை ரூ. 4/-`, `அச்சிட்டோர் :`, and `ஜெம் பிரஸ், சென்னை - 600 001.` exactly as printed. Shared front-matter scans **4–5** still require page-level archival records. The source PDF remains external to the repository.
 
 The 2009 published-English witness remains secondary and is not used to reconstruct Tamil.
 
-Next source-sequential activity: process **scan 3 / copyright-imprint page only** as an archival transcription/description page for the composite source. Do not process scan 4 or begin another work in the same activity.
+Next source-sequential activity: process **scan 4 / `என்னுரை` only** as an archival transcription page for the composite source. Do not process scan 5 or begin another work in the same activity.
