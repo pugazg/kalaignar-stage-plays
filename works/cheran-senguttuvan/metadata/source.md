@@ -7,16 +7,16 @@
 - Printed pages: **39–48**
 - Printed title: **சேரன் செங்குட்டுவன்**
 - Source collection: **கலைஞரின் நான்மணி மாலை**
-- Tamil page-level verification: **3/10**
+- Tamil page-level verification: **4/10**
 - `காட்சி — 1` page gate: **2/2 COMPLETE** (`../pages/0044.md`–`../pages/0045.md`; `../SCENE1_PAGE_VERIFICATION.md`)
 - `காட்சி — 1` assembly/fidelity: **PASS** (`../scenes/01.md`; `../SCENE1_ASSEMBLY_FIDELITY_REVIEW.md`)
-- `காட்சி — 2` page gate: **1/4** (`../pages/0046.md`; `../SCENE2_PAGE_VERIFICATION.md`)
+- `காட்சி — 2` page gate: **2/4** (`../pages/0046.md`–`../pages/0047.md`; `../SCENE2_PAGE_VERIFICATION.md`)
 - Source-printed dramatic scenes: **4**
 - Scene assembly completed from verified Tamil: **1/4**
 
 ## Authority rule
 
-The Tamil scan is controlling. The user-supplied Gemini transcription is a comparison baseline under the permanent old-glyph policy: retain plausible first-pass readings when scan evidence is ambiguous, but use unambiguous scan evidence for canonical wording/spacing/punctuation/labels. The 2009 published-English witness is secondary and must not reconstruct Tamil.
+The Tamil scan is controlling. The user-supplied Gemini transcription is a comparison baseline under the permanent old-glyph policy: retain plausible first-pass readings when scan evidence is ambiguous, but use unambiguous scan evidence for canonical wording/spacing/punctuation/labels/source order. The 2009 published-English witness is secondary and must not reconstruct Tamil.
 
 ## Completed Scene 1
 
@@ -26,18 +26,15 @@ Scans **44–45** / printed pp.39–40 are verified and assembled as `../scenes/
 
 Scene 2 spans scans **46–49** / printed pp.41–44.
 
-Scan **46** / printed p.41 is verified as the Scene-2 opening. The canonical page record preserves source heading `காட்சி — 2`, setting `சேரனின் மண்டபம்`, speaker labels, punctuation and physical line structure.
+Verified pages:
 
-Source-proven scan-46 reconciliation includes:
+- scan **46** / p.41 — opening — `../pages/0046.md`;
+- scan **47** / p.42 — continuation — `../pages/0047.md`.
 
-- `காட்சி - 2` → `காட்சி — 2`;
-- `சொல்லட்டுமா !` → `சொல்லட்டுமா!`;
-- source punctuation grouping `புறநானூற்றிலே... ...`;
-- `ஓர் களத்தில்,` restored to its source position after `அந்நாளில்` and before the `தாய்நாடு காக்க...` line;
-- paired source quotation punctuation retained.
+Scan-46 source reconciliation records the source heading `காட்சி — 2`, punctuation grouping, the source placement of `ஓர் களத்தில்,` immediately after `அந்நாளில்`, and the old-glyph safeguard around Gemini's plausible `தன் மகனை / யும்` reading.
 
-The old-glyph area corresponding to Gemini's `தன் மகனை / யும்` remains on the plausible first-pass reading; no expectation-based modernization is introduced.
+Scan-47 source reconciliation records `எண்ணினேன்;`, `அவன்,`, source `“நடந்திடுக கண்ணே” என்றாள்!`, source long dashes, spaced `பார்! பார்! பார்!`, and source `வாழ்த்துகள் வழங்கினர்!` rather than Gemini `வாழ்த்துக்கள் வழங்கினர்!`.
 
-Scan 46 contains no scene-closing `*`.
+Neither verified Scene-2 page contains a scene-closing `*`.
 
-Next activity: verify scan **47** / printed p.42 only. Do not process scan 48 or assemble Scene 2 in the same activity.
+Next activity: verify scan **48** / printed p.43 only. Do not process scan 49 or assemble Scene 2 in the same activity.
