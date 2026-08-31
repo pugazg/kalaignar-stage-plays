@@ -7,23 +7,28 @@ Work-level archival entry for Kalaignar's one-act play **`சேரன் செ
 - controlling Tamil source: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`;
 - physical scans: **44–53**;
 - printed pages: **39–48**;
-- Tamil page-level visual verification: **6/10**;
+- Tamil page-level visual verification: **7/10**;
 - source-printed dramatic scenes: **4**;
 - scenes assembled from verified Tamil: **2/4**.
 
 Completed Scene 1:
 
 - scans **44–45** / printed pp.39–40 — **2/2 verified**;
-- `காட்சி — 1` page gate: **COMPLETE**;
-- `scenes/01.md` — **assembly-reviewed / PASS**;
-- `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**.
+- `காட்சி — 1` page gate + assembly/fidelity — **PASS**.
 
 Completed Scene 2:
 
 - scans **46–49** / printed pp.41–44 — **4/4 verified**;
 - `SCENE2_PAGE_VERIFICATION.md` — **PASS / COMPLETE**;
-- `scenes/02.md` — **assembly-reviewed / PASS**;
-- `SCENE2_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**.
+- `scenes/02.md` + `SCENE2_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**.
+
+Active Scene 3:
+
+- source extent: scans **50–51** / printed pp.45–46;
+- scan **50** / printed p.45 — opening — **verified**;
+- `SCENE3_PAGE_VERIFICATION.md` — **1/2 PASS**;
+- scan **51** — not processed;
+- Scene-3 assembly — blocked until 2/2 page verification.
 
 Work page map: [`indexes/page-map.md`](indexes/page-map.md).
 
@@ -33,17 +38,19 @@ The Tamil scan is controlling for canonical Tamil archival work. The user-suppli
 
 The already verified 2009 published-English witness remains **secondary only** and must not reconstruct Tamil.
 
-## Scene 2 locked controls
+## Scene 3 scan-50 controls
 
-The assembled Scene 2 preserves the verified source decisions from scans 46–49, including:
+The verified opening page preserves:
 
-- source placement of `ஓர் களத்தில்,` after `அந்நாளில்`;
-- mechanically assembled old-glyph line split `தன் மகனை / யும்` without lexical substitution;
-- `“நடந்திடுக கண்ணே” என்றாள்!`, source long dashes, `பார்! பார்! பார்!`, and `வாழ்த்துகள் வழங்கினர்!`;
-- `மண் தானே?`, `கண் தானே?`, `தமிழ்நாட்டுமாதரசு`, and retained plausible `சோகத்தாள்`;
-- separate source `பூண்டார்!`, plus `வெள்ளிமாடத்திற்கு`, `வந்திருக்கிறேனே`, and `காலத்திலே`;
-- no invented closing `*` because none appears on scans 46–49.
+- source heading `காட்சி—3.` and setting `சேரன் கொலுமண்டபம்`;
+- source labels `சேரன்:` and `ஒரு அமைச்சர் :`;
+- source `உத்திரனும்—விசித்திரனும்—சித்தரனும்—சிவேதனும்—பைரவனும்!` rather than Gemini's `...னாம்` sequence;
+- source `கனகனும்விசயனும்` rather than Gemini `கனகனாம் விசயனாம்`;
+- source punctuation `வள்ளுவனே!`, `முல்லைக் கொல்லையே!`, and joined `நெடுஞ்செழியனே!`;
+- source short spaced hyphen in `வீணன் - கயலைப்`;
+- plausible first-pass `காணா` retained under the old-glyph safeguard;
+- no scene-closing `*` on scan 50.
 
 ## Next activity
 
-Verify **scan 50 / printed p.45 only** as the opening page of `காட்சி—3.`. Do not process scan 51 or assemble Scene 3 in the same activity.
+Verify **scan 51 / printed p.46 only** as the closing page of `காட்சி—3.`. Do not assemble Scene 3 or process scan 52 in the same activity.
