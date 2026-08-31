@@ -11,13 +11,19 @@ Printed pagination is recorded only where directly visible.
 | 29–31 | 24–26 | `சாக்ரடீஸ்` — `காட்சி—1` | assembly-reviewed | Page gate + assembly/fidelity PASS. |
 | 32 | 27 | `சாக்ரடீஸ்` — `காட்சி—2` | assembly-reviewed | Page gate + assembly/fidelity PASS. |
 | 33 | 28 | `சாக்ரடீஸ்` — `காட்சி—3` | assembly-reviewed | Page gate + assembly/fidelity PASS. |
-| 34–39 | 29–34 | `சாக்ரடீஸ்` — `காட்சி — 4` | assembly-reviewed | 6/6 page gate + `scenes/04.md` assembly/fidelity PASS; scan 39 final `*` retained. |
-| 40–43 | 35–38 | `சாக்ரடீஸ்` — `காட்சி—5.` | assembly-reviewed | 4/4 page gate + `scenes/05.md` assembly/fidelity PASS; scan 43 centered final `*` retained. |
-| 44–53 | 39–48 | `சேரன் செங்குட்டுவன்` | not-started | Direct visual verification pending; scan 44 / p.39 is next. |
+| 34–39 | 29–34 | `சாக்ரடீஸ்` — `காட்சி — 4` | assembly-reviewed | 6/6 page gate + assembly/fidelity PASS; scan 39 final `*` retained. |
+| 40–43 | 35–38 | `சாக்ரடீஸ்` — `காட்சி—5.` | assembly-reviewed | 4/4 page gate + assembly/fidelity PASS; scan 43 centered final `*` retained. |
+| 44 | 39 | `சேரன் செங்குட்டுவன்` — work opening + `காட்சி — 1` opening | verified | First-pass reconciled directly against controlling scan; Cheran progress 1/10; Scene-1 gate 1/2. |
+| 45 | 40 | `சேரன் செங்குட்டுவன்` — `காட்சி — 1` continuation/closing | not-started | Next activity. |
+| 46–49 | 41–44 | `சேரன் செங்குட்டுவன்` — `காட்சி — 2` | not-started | Structural survey only. |
+| 50–51 | 45–46 | `சேரன் செங்குட்டுவன்` — `காட்சி—3.` | not-started | Structural survey only. |
+| 52–53 | 47–48 | `சேரன் செங்குட்டுவன்` — final scene | not-started | Structural survey only. |
 | 54 | — | back cover | partial | Archival description pending. |
 
 ## Current checkpoint
 
-`சாக்ரடீஸ்` scans **27–43 = 17/17 pages verified COMPLETE**. All five source-printed scenes are assembled from verified page records with fidelity **PASS**. Overall `சாக்ரடீஸ்` scene assembly: **5/5 COMPLETE**.
+`சாக்ரடீஸ்` is complete at **17/17 pages, 5/5 scenes, fidelity PASS**.
 
-Next source-sequential activity: verify **`சேரன் செங்குட்டுவன்` scan 44 / printed p.39 only**. Do not process scan 45 in the same activity.
+`சேரன் செங்குட்டுவன்` has begun: scan **44 / printed p.39** is verified, giving **1/10 Tamil pages verified**, `காட்சி — 1` page gate **1/2**, scenes assembled **0/4**.
+
+Next source-sequential activity: verify **scan 45 / printed p.40 only**. Do not process scan 46 or assemble Scene 1 in the same activity.
