@@ -7,7 +7,7 @@ Work-level archival entry for Kalaignar's one-act play **`சேரன் செ
 - controlling Tamil source: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`;
 - physical scans: **44–53**;
 - printed pages: **39–48**;
-- Tamil page-level visual verification: **3/10**;
+- Tamil page-level visual verification: **4/10**;
 - source-printed dramatic scenes: **4**;
 - scenes assembled from verified Tamil: **1/4**.
 
@@ -21,9 +21,10 @@ Completed Scene 1:
 Active Scene 2:
 
 - source extent: scans **46–49** / printed pp.41–44;
-- scan **46** / printed p.41 — `காட்சி — 2` opening — **verified**;
-- Scene-2 page gate: **1/4**;
-- scans **47–49** — not started;
+- scan **46** / printed p.41 — opening — **verified**;
+- scan **47** / printed p.42 — continuation — **verified**;
+- Scene-2 page gate: **2/4**;
+- scans **48–49** — not processed;
 - Scene-2 assembly — blocked until 4/4 page verification.
 
 Detailed Scene-2 page gate: [`SCENE2_PAGE_VERIFICATION.md`](SCENE2_PAGE_VERIFICATION.md).
@@ -36,27 +37,21 @@ The Tamil scan is controlling for canonical Tamil archival work. The user-suppli
 
 The already verified 2009 published-English witness remains **secondary only** and must not reconstruct Tamil.
 
-## Scene 2 scan-46 controls
+## Scene 2 verified-page controls
 
-The verified opening page preserves:
+Scan 46 preserves the source heading `காட்சி — 2`, setting `சேரனின் மண்டபம்`, source punctuation/line order and the old-glyph safeguard around the retained Gemini `தன் மகனை / யும்` reading.
 
-- source heading `காட்சி — 2`;
-- setting `சேரனின் மண்டபம்`;
-- opening direction `(செங்குட்டுவனும் வேண்மாளும் இருக்கின்றனர்.)`;
-- source speaker-label forms `வேண்:` and `சேரன்:`;
-- source punctuation and physical prose/verse line boundaries;
-- no scene-closing `*` on scan 46.
+Scan 47 continues the same recitation without a new speaker label. Source-proven reconciliation includes:
 
-Unambiguous first-pass/source reconciliation on scan 46 includes:
+- `எண்ணினேன் ;` → `எண்ணினேன்;`;
+- `அவன்` → `அவன்,`;
+- `“நடந்திடுக கண்ணே” என்றாள்?` → `“நடந்திடுக கண்ணே” என்றாள்!`;
+- Gemini hyphen-style separators → source long dashes;
+- `பார்!பார்! பார்!` → `பார்! பார்! பார்!`;
+- `வாழ்த்துக்கள் வழங்கினர்!` → source `வாழ்த்துகள் வழங்கினர்!`.
 
-- `காட்சி - 2` → source `காட்சி — 2`;
-- `சொல்லட்டுமா !` → source `சொல்லட்டுமா!`;
-- the dot run after `புறநானூற்றிலே` → source `... ...` grouping;
-- Gemini's displaced `ஓர் களத்தில்,` restored to its source position immediately after `அந்நாளில்`, before `தாய்நாடு காக்கத் தாவிப் பாய்ந்து செத்தார்`;
-- scan-visible quotation punctuation retained.
-
-The old-glyph area corresponding to Gemini's `தன் மகனை / யும்` is not modernized or re-spelled by expectation; the plausible first-pass reading and physical line boundary are retained.
+Neither scan 46 nor scan 47 contains a scene-closing `*`.
 
 ## Next activity
 
-Verify **scan 47 / printed p.42 only** as the next `காட்சி — 2` continuation page. Do not process scan 48 or assemble Scene 2 in the same activity.
+Verify **scan 48 / printed p.43 only** as the next `காட்சி — 2` continuation page. Do not process scan 49 or assemble Scene 2 in the same activity.
