@@ -3,9 +3,10 @@
 Printed pagination is recorded only where directly visible.
 
 | Scan page(s) | Printed page(s) | Section / work | Current state | Notes |
-|---|---|---|---|---|
+|---:|---:|---|---|---|
 | 1 | — | illustrated front cover | verified | [`../pages/0001.md`](../pages/0001.md); printed title `கலைஞரின் நான்மணி மாலை` and full-page colour illustration recorded. |
-| 2–5 | — | shared front matter | partial | Title/imprint and prefatory matter identified; full page-level archival processing remains pending. |
+| 2 | — | title page | verified | [`../pages/0002.md`](../pages/0002.md); title `கலைஞரின் நான்மணி மாலை`, publisher `தமிழ்க்கனி பதிப்பகம்`, decorative lamp emblem and location `சென்னை-28` recorded. |
+| 3–5 | — | shared front matter | partial | Copyright/imprint and prefatory matter identified; full page-level archival processing remains pending. |
 | 6–17 | — / 2–12 | `பரதாயணம்` | assembly-reviewed | Tamil page/assembly PASS; English translation PASS. |
 | 18–26 | 13–21 | `அனார்கலி` | assembly-reviewed | 9/9 verified; 4/4 scenes assembled; fidelity PASS. |
 | 27–28 | 22–23 | `சாக்ரடீஸ்` — introductory note | verified | 2/2 verified. |
@@ -28,6 +29,6 @@ Printed pagination is recorded only where directly visible.
 
 `சேரன் செங்குட்டுவன்` is complete for scans **44–53 / printed pp.39–48**: **10/10 Tamil pages verified, 4/4 scenes assembled, all page-record fidelity gates PASS**.
 
-Composite-source outer-cover page records are now verified for scans **1 and 54**. Shared front-matter scans **2–5** remain pending at page level.
+Composite-source page-level records are now verified for scans **1, 2 and 54**. Shared front-matter scans **3–5** remain pending at page level.
 
-Next source-sequential activity: process **scan 2 / title page only** as an archival transcription/description page. Do not process scan 3 or reopen completed dramatic works in the same activity.
+Next source-sequential activity: process **scan 3 / copyright-imprint page only** as an archival transcription/description page. Do not process scan 4 or reopen completed dramatic works in the same activity.
