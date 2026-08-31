@@ -6,12 +6,10 @@ Controlling Tamil source: `TVA_BOK_0065576_நான்மணி_மாலை.pd
 
 The final scene spans scans **52–53** / printed pp. **47–48**.
 
-Both source pages are now verified:
+Both source pages are verified:
 
 - scan **52** / printed p.47 — final-scene opening — `pages/0052.md`;
 - scan **53** / printed p.48 — final-scene closing — `pages/0053.md`.
-
-The final scene is not assembled in this activity.
 
 ## Result
 
@@ -68,10 +66,14 @@ No word is changed merely from modern spelling, grammar, semantic expectation or
 - user-supplied first pass compared: **yes**;
 - English witness used to reconstruct Tamil: **no**;
 - final-scene page records verified: **2/2 COMPLETE**;
-- total Cheran Tamil pages verified: **10/10 COMPLETE**;
-- scenes assembled from controlling Tamil: **3/4**;
-- final-scene assembly performed: **No**.
+- total Cheran Tamil pages verified: **10/10 COMPLETE**.
 
-## Next activity
+## Downstream assembly status
 
-Assemble **`காட்சி—4.` only** from verified `pages/0052.md` and `pages/0053.md`, using those page records as the sole textual authority, then run the page-record ↔ scene fidelity audit. Preserve the scan-53 final `- * -` exactly. Do not process the back cover or begin another work in the same activity.
+- `scenes/04.md` — assembled exclusively from verified `pages/0052.md`–`0053.md`;
+- `SCENE4_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**;
+- final-scene assembly/fidelity: **PASS**;
+- scenes assembled from controlling Tamil: **4/4 COMPLETE**;
+- final `- * -` retained exactly.
+
+The next distinct source-sequential activity is **scan 54 / back-cover archival description only**. Do not begin another work in the same activity.
