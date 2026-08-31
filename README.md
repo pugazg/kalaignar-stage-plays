@@ -11,13 +11,13 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archival/assembly PASS; independent English translation PASS** |
 | [அனார்கலி](works/anarkali/) | **Tamil page verification 9/9; 4/4 scenes assembled; fidelity PASS** |
-| [சாக்ரடீஸ்](works/socrates/) | **17/17 pages verified COMPLETE; Scenes 1–4 assembly/fidelity PASS; Scene 5 page gate 4/4 COMPLETE; 4/5 scenes assembled** |
+| [சாக்ரடீஸ்](works/socrates/) | **Tamil page verification 17/17 COMPLETE; 5/5 scenes assembled; fidelity PASS** |
 | [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil source registered; verification pending** |
 
 ## Current repository phase
 
-`சாக்ரடீஸ்` page-level verification is complete through scan **43** / printed p.38: **17/17 pages verified**, including all **15/15 dramatic-body pages**. Scenes 1–4 have assembly/fidelity PASS. `காட்சி—5` now has a complete **4/4 page gate**, including preservation of its centered final `*`; Scene-5 assembly/fidelity is the next separate activity. Scenes assembled remain **4/5**.
+`சாக்ரடீஸ்` Tamil source processing is complete for scans **27–43** / printed pp.22–38: **17/17 pages verified**, **15/15 dramatic-body pages verified**, and **5/5 source-printed scenes assembled with page-record fidelity PASS**. `காட்சி—5.` is assembled at `works/socrates/scenes/05.md`; its dedicated fidelity audit is `works/socrates/SCENE5_ASSEMBLY_FIDELITY_REVIEW.md`.
 
-For active `சாக்ரடீஸ்`, Gemini supplies lexical dialogue words as directed by the user; the scan controls headings, punctuation, dash, speaker-label spacing/structure, physical line boundaries and final source marks. Scan-derived dialogue words are not inserted when absent from the supplied Gemini baseline unless the user explicitly requests a word-level recheck.
+The completed `சாக்ரடீஸ்` records retain the user-directed Gemini-word / scan-typography rule used during verification. Assembly uses verified page records as the sole textual authority and introduces only legitimate physical-line/page-boundary joins.
 
-Next activity: assemble `காட்சி—5` only from verified `pages/0040.md`–`0043.md` and run the page-record ↔ scene fidelity audit. Do not begin `சேரன் செங்குட்டுவன்` in that same activity.
+Next source-sequential activity: verify **`சேரன் செங்குட்டுவன்` scan 44 / printed p.39 only**. Do not process scan 45 in the same activity.
