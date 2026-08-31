@@ -9,8 +9,6 @@ Scene 1 spans:
 - scan **44** / printed p.39 — work opening + Scene-1 opening — `pages/0044.md`;
 - scan **45** / printed p.40 — Scene-1 continuation/closing — `pages/0045.md`.
 
-No scan 46 work and no Scene-1 assembly are performed in the scan-45 activity.
-
 ## Result
 
 | Scan | Printed page | Role | Result |
@@ -65,11 +63,22 @@ No change is made merely from grammar, familiar spelling, semantic expectation o
 - English witness used to reconstruct Tamil: **no**;
 - Scene-1 page records verified: **2/2**;
 - Scene-1 page gate: **COMPLETE**;
-- total Cheran Tamil pages verified: **2/10**;
-- scenes assembled from controlling Tamil: **0/4**;
-- scan 46 processed: **No**;
-- Scene-1 assembly performed: **No**.
+- total Cheran Tamil pages verified: **2/10**.
+
+## Downstream assembly state
+
+Scene 1 has now been assembled exclusively from the two verified page records:
+
+- assembled file: `scenes/01.md`;
+- fidelity audit: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md`;
+- page-record ↔ scene result: **PASS**;
+- unresolved assembly discrepancies: **0**;
+- speaker-label mismatches: **0**;
+- assistant lexical substitutions: **0**;
+- invented closing `*`: **no**.
+
+Scenes assembled from controlling Tamil: **1/4**.
 
 ## Next activity
 
-Assemble **`காட்சி — 1` only** from verified `pages/0044.md` and `pages/0045.md`, treating those page records as the sole textual authority. Mechanically join only legitimate physical print-line/page-boundary breaks, preserve wording/punctuation/speaker labels/pre-scene material, and run a page-record ↔ scene fidelity audit. Do not process scan 46 in that same activity.
+Verify **scan 46 / printed p.41 only**, the opening page of `காட்சி — 2`. Do not process scan 47 or assemble Scene 2 in the same activity.
