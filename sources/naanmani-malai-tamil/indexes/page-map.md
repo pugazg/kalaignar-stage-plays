@@ -6,8 +6,9 @@ Printed pagination is recorded only where directly visible.
 |---:|---:|---|---|---|
 | 1 | — | illustrated front cover | verified | [`../pages/0001.md`](../pages/0001.md); printed title `கலைஞரின் நான்மணி மாலை` and full-page colour illustration recorded. |
 | 2 | — | title page | verified | [`../pages/0002.md`](../pages/0002.md); title `கலைஞரின் நான்மணி மாலை`, publisher `தமிழ்க்கனி பதிப்பகம்`, decorative lamp emblem and location `சென்னை-28` recorded. |
-| 3 | — | copyright / price / printer imprint | verified | [`../pages/0003.md`](../pages/0003.md); `© பதிப்புரிமை`, `விலை ரூ. 4/-`, `அச்சிட்டோர் :`, and `ஜெம் பிரஸ், சென்னை - 600 001.` recorded. |
-| 4–5 | — | shared prefatory matter | partial | `என்னுரை` and `பதிப்புரை` identified; full page-level archival processing remains pending. |
+| 3 | — | copyright / printer imprint | verified | [`../pages/0003.md`](../pages/0003.md); `© பதிப்புரிமை`, `விலை ரூ. 4/-`, `அச்சிட்டோர் :`, and `ஜெம் பிரஸ், சென்னை - 600 001.` verified. |
+| 4 | — | `என்னுரை` | verified | [`../pages/0004.md`](../pages/0004.md); user-supplied words retained; source punctuation/spacing, physical lines, display-style lines and printed facsimile-signature area verified. |
+| 5 | — | `பதிப்புரை` | partial | Identified in source and user transcription supplied; page-level direct visual verification still pending. |
 | 6–17 | — / 2–12 | `பரதாயணம்` | assembly-reviewed | Tamil page/assembly PASS; English translation PASS. |
 | 18–26 | 13–21 | `அனார்கலி` | assembly-reviewed | 9/9 verified; 4/4 scenes assembled; fidelity PASS. |
 | 27–28 | 22–23 | `சாக்ரடீஸ்` — introductory note | verified | 2/2 verified. |
@@ -30,6 +31,6 @@ Printed pagination is recorded only where directly visible.
 
 `சேரன் செங்குட்டுவன்` is complete for scans **44–53 / printed pp.39–48**: **10/10 Tamil pages verified, 4/4 scenes assembled, all page-record fidelity gates PASS**.
 
-Composite-source page-level records are now verified for scans **1, 2, 3 and 54**. Shared front-matter scans **4–5** remain pending at page level.
+Composite-source page-level records are now verified for scans **1–4 and 54**. Shared front matter has one remaining unverified page: **scan 5 / `பதிப்புரை`**.
 
-Next source-sequential activity: process **scan 4 / `என்னுரை` only** as a page-level archival transcription. Do not process scan 5 or reopen completed dramatic works in the same activity.
+Next source-sequential activity: process **scan 5 / `பதிப்புரை` only** using the user-supplied lexical transcription as baseline and the controlling scan for punctuation, layout and source marks. Do not reopen completed dramatic works in the same activity.
