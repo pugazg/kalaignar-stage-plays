@@ -4,7 +4,7 @@ Repository: `pugazg/kalaignar-stage-plays`, branch `main`.
 
 ## Startup rule
 
-Always fetch live `main` first and treat it as authoritative. Scene-2 lexical rollback remains locked, Scenes 1–3 have assembly/fidelity PASS, and Scene 4 is now verified through scan 38. Preserve any newer live state and never restore withdrawn assistant word corrections.
+Always fetch live `main` first and treat it as authoritative. Scene-2 lexical rollback remains locked, Scenes 1–3 have assembly/fidelity PASS, and Scene 4 now has a complete 6/6 page gate through scan 39. Preserve any newer live state and never restore withdrawn assistant word corrections.
 
 Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
@@ -26,75 +26,67 @@ Controlling extent: scans **27–43** / printed pp. **22–38**.
 - **SCAN: use direct visual evidence for headings, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks such as `*`.**
 - Do not make assistant word corrections from spelling familiarity, grammar, semantics or visual expectation unless the user explicitly asks for a word-level recheck.
 
-### Completed through Scene 3
+### Completed state
 
 - intro scans 27–28: **2/2 verified**;
 - `காட்சி—1`: **page gate + assembly/fidelity PASS**;
 - `காட்சி—2`: **page gate + assembly/fidelity PASS after user-directed lexical rollback**;
-- `காட்சி—3`: **page gate + assembly/fidelity PASS**.
+- `காட்சி—3`: **page gate + assembly/fidelity PASS**;
+- `காட்சி—4` scans 34–39 / pp.29–34: **6/6 page verification PASS; assembly not yet performed**.
 
 Scene-2 rejected assistant corrections remain withdrawn; Gemini `கவிஞனாம் மெலிடசும்` and `அரசியல் நிபுணனாம் நீயும்` remain controlling lexical readings.
 
-### `காட்சி—4` — PAGE GATE IN PROGRESS
+### Scan 39 closing controls
 
-Source extent: scans **34–39** / printed pp. **29–34**.
+`works/socrates/pages/0039.md` is verified from the user-supplied Gemini baseline plus direct scan inspection.
 
-Current state:
-
-- `pages/0034.md` — scan 34 / p.29 — **verified**;
-- `pages/0035.md` — scan 35 / p.30 — **verified**;
-- `pages/0036.md` — scan 36 / p.31 — **verified**;
-- `pages/0037.md` — scan 37 / p.32 — **verified**;
-- `pages/0038.md` — scan 38 / p.33 — **verified**;
-- `SCENE4_PAGE_VERIFICATION.md` — **5/6 PASS**;
-- scan 39 — not started;
-- Scene-4 assembly — **blocked until the six-page gate reaches 6/6**.
-
-Scan-38 lexical/visual controls:
-
-- Gemini lexical words retained exactly, including `எனக்கேட்கலாம்`, `அபராதங்`, `என்னுடைய.சொந்த`, and `எனதருமை ஏதென்ஸ் நகரத்தும்`;
-- scan controls punctuation, long dashes, speaker-label spacing, quote marks, physical line breaks and source marks;
-- source speaker label is `நீதி:` with no space before the colon;
-- `மரணமா?........மன்னிப்பா?........` has eight dots after each question mark;
-- quoted source forms `“சங்கு”`, `‘மரணம்’`, and `‘மன்னிப்பு’` are preserved;
-- physical splits include `தடை / யாக`, `அதி / காரிகளின்`, `என் / னுடைய`, `தண்டனை / யாக`, `எனக் / கும்`, `வாக் / கெடுப்பு`, and `சாக்ர / டீஸின்`;
-- scan 38 begins as the continuation of scan 37 after `மரண தண்டனை` and ends at verdict `வேண்டும்!`;
-- lower-left printed marginal mark `3` and centered page number `33` are both represented;
-- scan 38 contains no Scene-4 closing `*`.
+- Gemini lexical wording is retained, including `விட்டர்கள்` and `களத்தில்`;
+- source speaker-label spacing is `சாக்:`;
+- scan-controlled punctuation includes `281—220!........` and `மேன்மையானது!........`;
+- scan-controlled long dash is retained at `ஒரு மனிதன்—`;
+- physical source breaks include `சரித்திரத் / திலே`, `கிடைத்திருக் / கிறது`, `கூறிய / தற்கு`, `ஆயிரக் / கணக்கான`, `வாங்கப் / பட்டவை`, and `காட்டி / லும்`;
+- centered final `*` is present and preserved;
+- printed page number `34` is represented separately.
 
 Durable `சாக்ரடீஸ்` progress:
 
-- total page verification: **12/17**;
-- dramatic-body pages: **10/15**;
+- total page verification: **13/17**;
+- dramatic-body pages: **11/15**;
 - scenes assembled: **3/5**;
-- Scene-4 page gate: **5/6**.
+- Scene-4 page gate: **6/6 PASS**.
 
 The 2009 published-English witness remains secondary and cannot reconstruct Tamil.
 
 ## Exact next activity
 
-Process **`சாக்ரடீஸ்` `காட்சி—4` scan 39 / printed p.34 only** as the closing Scene-4 page-verification slice.
+Assemble **`சாக்ரடீஸ்` `காட்சி—4` only** from verified page records:
+
+- `works/socrates/pages/0034.md`
+- `works/socrates/pages/0035.md`
+- `works/socrates/pages/0036.md`
+- `works/socrates/pages/0037.md`
+- `works/socrates/pages/0038.md`
+- `works/socrates/pages/0039.md`
 
 Requirements:
 
-- use the user-supplied Gemini first-pass as the lexical baseline;
-- retain Gemini's words exactly;
-- use direct scan inspection only for punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks;
-- create `works/socrates/pages/0039.md` only after verification;
-- preserve the scene-closing `*` if present in the scan;
-- update Scene-4 gate and work/source status files;
-- expected durable total after success: **13/17 verified**, Scene 4 **6/6**;
-- do **not** assemble `காட்சி—4` in the same activity; assembly/fidelity must be the next separate activity after page-gate completion;
-- do not begin `காட்சி—5` or `சேரன் செங்குட்டுவன்`.
+- use these verified page records as the **sole textual authority** for assembly;
+- mechanically join only legitimate physical print-line and page-boundary breaks;
+- preserve wording, punctuation, speaker labels, stage directions, repetitions and the final `*`;
+- create the Scene-4 assembled file using existing scene-file conventions;
+- run a page-record ↔ scene fidelity audit and require PASS before updating durable status;
+- after success, expected scene state: **4/5 scenes assembled**;
+- do **not** begin `காட்சி—5` in the same activity;
+- do not begin `சேரன் செங்குட்டுவன்`.
 
 ## Permanent safeguards
 
 - live `main` controls repository state;
 - PDF remains external;
-- Gemini words are retained for active `சாக்ரடீஸ்` work;
+- Gemini words are retained for active `சாக்ரடீஸ்` page transcription;
 - scan controls headings, punctuation, long dash, speaker-label spacing, physical line boundaries and final marks;
 - user-rejected assistant word corrections stay withdrawn;
+- assembly must use verified page records, not a fresh Gemini/source reconstruction;
 - English witnesses are secondary only;
-- scene assembly occurs only after all pages of that scene are verified;
 - translation is later and must derive from verified Tamil;
 - `அந்தணர்` is not automatically “Brahmin” in future translation work.
