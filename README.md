@@ -12,14 +12,14 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archival/assembly PASS; independent English translation PASS** |
 | [அனார்கலி](works/anarkali/) | **Tamil page verification 9/9; 4/4 scenes assembled; fidelity PASS** |
 | [சாக்ரடீஸ்](works/socrates/) | **Tamil page verification 17/17 COMPLETE; 5/5 scenes assembled; fidelity PASS** |
-| [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil page verification 3/10; Scene 1 assembly/fidelity PASS; Scene 2 page gate 1/4; 1/4 scenes assembled** |
+| [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil page verification 4/10; Scene 1 assembly/fidelity PASS; Scene 2 page gate 2/4; 1/4 scenes assembled** |
 
 ## Current repository phase
 
 `சாக்ரடீஸ்` Tamil source processing is complete for scans **27–43** / printed pp.22–38: **17/17 pages verified** and **5/5 scenes assembled with fidelity PASS**.
 
-`சேரன் செங்குட்டுவன்` is active. Scans **44–46 / printed pp.39–41** are verified. `காட்சி — 1` is assembled with page-record fidelity **PASS**, and `காட்சி — 2` has begun with scan 46 / p.41 verified (**1/4 pages**). Current Cheran progress is **3/10 pages verified** and **1/4 scenes assembled**.
+`சேரன் செங்குட்டுவன்` is active. Scans **44–47 / printed pp.39–42** are verified. `காட்சி — 1` is assembled with page-record fidelity **PASS**, and `காட்சி — 2` has reached **2/4 verified pages** through scan 47 / p.42. Current Cheran progress is **4/10 pages verified** and **1/4 scenes assembled**.
 
 The 2009 published-English witness remains secondary and is not used to reconstruct Tamil.
 
-Next source-sequential activity: verify **`சேரன் செங்குட்டுவன்` scan 47 / printed p.42 only**. Do not process scan 48 or assemble Scene 2 in the same activity.
+Next source-sequential activity: verify **`சேரன் செங்குட்டுவன்` scan 48 / printed p.43 only**. Do not process scan 49 or assemble Scene 2 in the same activity.
