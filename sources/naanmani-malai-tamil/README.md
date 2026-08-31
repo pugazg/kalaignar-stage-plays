@@ -22,4 +22,11 @@ Scene 4 preserves the source `சேர்!` label variant, `புறப்ப�
 
 **`சேரன் செங்குட்டுவன்` Tamil dramatic-source processing is complete for scans 44–53 / pp.39–48.**
 
-Next source-sequential activity: process **scan 54 / back cover only** as an archival-description page for the composite `கலைஞரின் நான்மணி மாலை` source. Do not begin another work in the same activity.
+## Composite-source outer matter
+
+- scan **54 / back cover** — **verified** at [`pages/0054.md`](pages/0054.md);
+- printed back-cover wording: **`கலைஞரின் நான்மணி மாலை`**;
+- the back cover is a full-page colour illustration and contains no visible literary body text, printed pagination, publisher/imprint line, price line, library stamp, accession mark or later handwriting;
+- scans **1–5** remain partially represented and still require page-level archival records.
+
+Next source-sequential activity: process **scan 1 / illustrated front cover only** as an archival-description page for the composite source. Do not begin another work in the same activity.
