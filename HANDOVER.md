@@ -23,7 +23,7 @@ Controlling extent: scans **27–43** / printed pp. **22–38**.
 ### Active user-directed lexical / visual rule
 
 - **WORDS: keep Gemini's supplied word-to-word transcription.**
-- **SCAN: use direct visual evidence for headings, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks such as `*`.**
+- **SCAN: use direct visual evidence for headings, punctuation, long dash, speaker-label spacing/structure, physical line boundaries and final source marks such as `*`.**
 - Do not make assistant dialogue-word corrections, additions or reconstructions from spelling familiarity, grammar, semantics or visual expectation unless the user explicitly asks for a word-level recheck.
 
 ### Durable completed state
@@ -33,15 +33,16 @@ Controlling extent: scans **27–43** / printed pp. **22–38**.
 - `காட்சி—2`: **page gate + assembly/fidelity PASS after user-directed lexical rollback**;
 - `காட்சி—3`: **page gate + assembly/fidelity PASS**;
 - `காட்சி — 4`: **6/6 page gate + assembly/fidelity PASS**;
-- `காட்சி—5`: **scans 40–41 / pp.35–36 verified; page gate 2/4**.
+- `காட்சி—5`: **scans 40–42 / pp.35–37 verified; page gate 3/4**.
 
 Scene-5 durable files so far:
 
 - `works/socrates/pages/0040.md` — verified opening page;
 - `works/socrates/pages/0041.md` — verified continuation;
-- `works/socrates/SCENE5_PAGE_VERIFICATION.md` — **2/4 PASS**.
+- `works/socrates/pages/0042.md` — verified continuation;
+- `works/socrates/SCENE5_PAGE_VERIFICATION.md` — **3/4 PASS**.
 
-### Scene-5 controls through scan 41
+### Scene-5 controls through scan 42
 
 Scan 40:
 
@@ -52,35 +53,43 @@ Scan 40:
 Scan 41:
 
 - Gemini dialogue wording retained, including `மனங்குலையாமாவீர`, `தொகை தொகையாகப் பகைவரினும் துவளாது`, `தேசப் பிரஷ்ட உத்திரவு`, and `வியாக்யானம்`;
-- scan controls punctuation/dashes and physical source lines;
-- scan-visible speaker labels are `கிரி :`, `சாக்:`, and `காவ:`;
-- duplicated/shifted Gemini label tokens around the final two turns are treated as structural label-extraction artifacts rather than dialogue words;
-- scan 41 ends with `பிறகு இங்குமங்கும் நடந்து கொண்டேயிருக்க வேண்டும்!`;
-- no closing `*` appears on scan 41.
+- scan controls punctuation/dashes, physical source lines and speaker-label structure/spacing;
+- no closing `*`.
+
+Scan 42:
+
+- Gemini dialogue wording retained, including lexical spacing `பகுத்த றிவால்`;
+- scan 42 begins as the unlabeled continuation of the jailer's scan-41 instruction;
+- scan-visible speaker labels are `சாக்:` and `கிரி:`;
+- Gemini's isolated `:` before `நண்ப!` is treated as a structural speaker-label extraction artifact and represented as scan-visible `கிரி:`;
+- `(விஷக் கிண்ணத்தை வாங்குகிறான்.)` is retained as a standalone stage direction as printed;
+- scan controls long dashes, quote punctuation, punctuation runs and physical source lines;
+- scan 42 ends with Socrates' `போகிறேன்....`;
+- no closing `*` appears on scan 42.
 
 Durable `சாக்ரடீஸ்` progress:
 
-- total page verification: **15/17**;
-- dramatic-body pages: **13/15**;
+- total page verification: **16/17**;
+- dramatic-body pages: **14/15**;
 - scenes assembled: **4/5**;
-- Scene-5 page gate: **2/4**.
+- Scene-5 page gate: **3/4**.
 
 The 2009 published-English witness remains secondary and cannot reconstruct Tamil.
 
 ## Exact next activity
 
-Process **`சாக்ரடீஸ்` `காட்சி—5` scan 42 / printed p.37 only** as the next Scene-5 page-verification slice.
+Process **`சாக்ரடீஸ்` `காட்சி—5` scan 43 / printed p.38 only** as the closing Scene-5 page-verification slice.
 
 Requirements:
 
 - use the user-supplied Gemini first-pass as the lexical baseline;
 - retain Gemini's dialogue words exactly;
-- use direct scan inspection for punctuation, long dash, speaker-label spacing, physical line boundaries and source marks;
-- create `works/socrates/pages/0042.md` only after verification;
+- use direct scan inspection for punctuation, long dash, speaker-label spacing/structure, physical line boundaries and source marks;
+- create `works/socrates/pages/0043.md` only after verification;
+- preserve the Scene-5 closing `*` if present in the scan;
 - update `SCENE5_PAGE_VERIFICATION.md`, work/source page maps, metadata/readmes and handover after verification;
-- expected durable total after success: **16/17 verified**, Scene 5 **3/4**;
-- do **not** process scan 43 in the same activity;
-- do **not** assemble `காட்சி—5` until scans 40–43 are all verified;
+- expected durable total after success: **17/17 verified**, Scene 5 **4/4 page gate COMPLETE**;
+- do **not** assemble `காட்சி—5` in the same activity; assembly/fidelity must be the separate following activity;
 - do not begin `சேரன் செங்குட்டுவன்`.
 
 ## Permanent safeguards
@@ -88,7 +97,7 @@ Requirements:
 - live `main` controls repository state;
 - PDF remains external;
 - Gemini dialogue words are retained for active `சாக்ரடீஸ்` page transcription;
-- scan controls headings, punctuation, long dash, speaker-label spacing, physical line boundaries and final marks;
+- scan controls headings, punctuation, long dash, speaker-label spacing/structure, physical line boundaries and final marks;
 - user-rejected assistant word corrections stay withdrawn;
 - assembly must use verified page records, not a fresh Gemini/source reconstruction;
 - English witnesses are secondary only;
