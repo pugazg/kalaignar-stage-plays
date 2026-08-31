@@ -4,7 +4,7 @@ Repository: `pugazg/kalaignar-stage-plays`, branch `main`.
 
 ## Startup rule
 
-Always fetch live `main` first and treat it as authoritative. Scene-2 page verification was corrected after the user rejected assistant word-level substitutions, and Scene 2 has now been assembled from that corrected page record. Preserve the newer state and never restore the withdrawn word corrections.
+Always fetch live `main` first and treat it as authoritative. Scene-2 page verification was corrected after the user rejected assistant word-level substitutions, Scene 2 was then assembled from that corrected page record, and Scene 3 has now completed its page-verification gate. Preserve the newer state and never restore withdrawn word corrections.
 
 Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
@@ -66,19 +66,22 @@ The first Scene-2 verification pass incorrectly changed Gemini words. Those assi
 - incorrect assistant `கவிஞனும் மெலிடசும்` → restored Gemini `கவிஞனாம் மெலிடசும்`;
 - incorrect assistant `அரசியல் நிபுணனும் நீயும்` → restored Gemini `அரசியல் நிபுணனாம் நீயும்`.
 
-The corrected page record and assembled scene both retain the Gemini wording. For scan 32, direct scan inspection controls the non-lexical features specified by the user, including:
+### `காட்சி—3` — PAGE GATE COMPLETE
 
-- `காட்சி—2.`;
-- source label variation `அனிடஸ் :` / `லைகன்:` / `மெலிடஸ் :`;
-- `சாக்ரடீஸ்—சமுத்திரத்துத்` with the printed long dash;
-- source punctuation runs;
-- physical print-line evidence preserved in `pages/0032.md` and mechanically joined only in `scenes/02.md`;
-- centred final `*`.
+Source extent: scan **33** / printed p. **28**; one-page scene.
+
+- `pages/0033.md` — **verified**;
+- page-gate record: `works/socrates/SCENE3_PAGE_VERIFICATION.md` — **PASS**;
+- Gemini lexical wording retained without assistant substitutions;
+- scan controls `காட்சி—3.`, punctuation, speaker-label spacing, physical line boundaries and the long dash in `அறிவுத் தங்கத்தை — விடு`;
+- scan 33 has **no closing `*`**; none is invented;
+- unresolved readings under the user's rule: **0**;
+- Scene-3 assembly: **not yet begun**.
 
 Durable `சாக்ரடீஸ்` progress:
 
-- total page verification: **6/17**;
-- dramatic-body pages: **4/15**;
+- total page verification: **7/17**;
+- dramatic-body pages: **5/15**;
 - scenes assembled: **2/5**.
 
 The 2009 published-English witness remains secondary and cannot reconstruct Tamil.
@@ -87,25 +90,27 @@ The 2009 published-English witness remains secondary and cannot reconstruct Tami
 
 1. `காட்சி—1` — scans 29–31 / pp.24–26 — **page gate + assembly/fidelity COMPLETE**;
 2. `காட்சி—2` — scan 32 / p.27 — **page gate + assembly/fidelity COMPLETE**;
-3. `காட்சி—3` — scan 33 / p.28 — not started;
+3. `காட்சி—3` — scan 33 / p.28 — **page gate COMPLETE; assembly pending**;
 4. `காட்சி—4` — scans 34–39 / pp.29–34 — not started;
 5. `காட்சி—5` — scans 40–43 / pp.35–38 — not started.
 
 ## Exact next activity
 
-Verify **`சாக்ரடீஸ்` `காட்சி—3` only**, scan **33** / printed p.28.
+Assemble **`சாக்ரடீஸ்` `காட்சி—3` only** from verified `pages/0033.md`.
 
 Requirements:
 
-- use the user-supplied Gemini first-pass visible in the active chat as the lexical baseline;
-- **keep Gemini's words**; do not make assistant word corrections unless the user explicitly asks for a word-level recheck;
-- inspect scan 33 directly for the scene heading, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks;
-- create `works/socrates/pages/0033.md` only after that verification;
-- update work/source page maps and handover after the page gate;
-- expected durable page progress after success: **7/17 verified**;
-- because `காட்சி—3` is a one-scan scene, **do not assemble it in the same activity**; its assembly/fidelity audit is the following distinct activity;
-- do not begin scan 34 / `காட்சி—4`;
+- use verified `pages/0033.md` as the sole textual authority;
+- mechanically remove legitimate physical print-line breaks only;
+- retain Gemini lexical words exactly;
+- preserve scan-controlled punctuation, speaker-label spacing, long dash, repetitions and stage directions;
+- do **not** invent a final `*`, because scan 33 has none;
+- create the Scene-3 assembled file under `works/socrates/scenes/`;
+- create/run the page-record ↔ scene fidelity audit and require PASS;
+- **do not begin scan 34 / `காட்சி—4` in the same activity**;
 - do not begin `சேரன் செங்குட்டுவன்`.
+
+After a clean Scene-3 assembly/fidelity PASS, the following distinct activity is scan **34** / printed p.29 (`காட்சி—4`) page verification, continuing under the same Gemini-words / scan-typography rule.
 
 ## Permanent safeguards
 
