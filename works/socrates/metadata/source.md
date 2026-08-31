@@ -6,13 +6,15 @@
 - Work scan range: **27–43**
 - Printed pages: **22–38**
 - Introductory note scans **27–28**: **2/2 verified**
-- `காட்சி—1` scans **29–31**: **3/3 page records verified**
-- Total Tamil page-level verification: **5/17**
-- Dramatic-body page verification: **3/15**
+- `காட்சி—1` scans **29–31**: **3/3 verified; assembly/fidelity PASS**
+- `காட்சி—2` scan **32**: **1/1 verified; assembly pending**
+- Total Tamil page-level verification: **6/17**
+- Dramatic-body page verification: **4/15**
 - Numbered dramatic scenes: **5**
 - Scene assembly completed: **1/5**
 - `காட்சி—1` assembly/fidelity: **PASS** (`../scenes/01.md`; `../ASSEMBLY_FIDELITY_REVIEW.md`)
+- `காட்சி—2` page gate: **PASS** (`../pages/0032.md`; `../SCENE2_PAGE_VERIFICATION.md`)
 
 For old-glyph adjudication, retain the user's Gemini first-pass wherever a reading remains plausibly ambiguous; change it only with unambiguous direct scan evidence. Do not silently replace a plausible source/Gemini form with a modern or semantically expected form.
 
-Next activity: verify `காட்சி—2`, scan **32** / printed p.27. Do not start `காட்சி—3` in the same activity.
+Next activity: assemble `காட்சி—2` from verified `pages/0032.md` and run its fidelity audit; do not start scan 33 in the same activity.
