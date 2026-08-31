@@ -10,19 +10,19 @@
 - `காட்சி—2` scan **32**: **1/1 verified; assembly/fidelity PASS**
 - `காட்சி—3` scan **33**: **1/1 verified; assembly/fidelity PASS**
 - `காட்சி—4` scans **34–39**: **6/6 verified; assembly/fidelity PASS**
-- Total Tamil page-level verification: **13/17**
-- Dramatic-body page verification: **11/15**
+- `காட்சி—5` scans **40–43**: **1/4 verified (scan 40 / p.35)**
+- Total Tamil page-level verification: **14/17**
+- Dramatic-body page verification: **12/15**
 - Numbered dramatic scenes: **5**
 - Scene assembly completed: **4/5**
-- `காட்சி—4` assembled file: `../scenes/04.md`
-- `காட்சி—4` fidelity review: `../SCENE4_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**
+- `காட்சி—5` page gate: **1/4 PASS** (`../pages/0040.md`; `../SCENE5_PAGE_VERIFICATION.md`)
 
 ## Active user-directed transcription rule
 
 - lexical words are retained from the user-supplied Gemini transcription;
 - the controlling scan verifies headings, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks;
-- no assistant word-level substitutions are permitted unless explicitly requested by the user.
+- no assistant word-level substitutions, corrections or insertions are permitted unless explicitly requested by the user.
 
-Scene 4 was assembled exclusively from verified `../pages/0034.md`–`../pages/0039.md`; only legitimate physical print-line and page-boundary joins were made. The final `*` is retained and the page-record ↔ scene audit passes with zero unresolved discrepancies.
+On scan 40, the scan controls `காட்சி—5.`, `சிறைச்சாலை`, punctuation/dashes, speaker-label spacing, physical lines and source marks. Two scan-visible lexical omissions in the supplied Gemini first-pass are documented in `../SCENE5_PAGE_VERIFICATION.md` but are not reconstructed from the scan under the active Gemini-words rule.
 
-Next activity: verify `காட்சி—5` scan **40** / printed p.35 only. Do not process scan 41 or assemble Scene 5 in that same activity.
+Next activity: verify `காட்சி—5` scan **41** / printed p.36 only. Do not process scan 42 or assemble Scene 5 in the same activity.
