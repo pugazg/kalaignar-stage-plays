@@ -13,8 +13,6 @@ Verified page records:
 - scan **42** / printed p.37 — continuation — `pages/0042.md`;
 - scan **43** / printed p.38 — closing — `pages/0043.md`.
 
-No Scene-5 assembly is performed in the scan-43 activity.
-
 ## Result
 
 | Scan | Printed page | Role | Result |
@@ -66,10 +64,8 @@ Two positions on scan 40 visibly contain lexical material absent from the suppli
 
 ## Scan 43 controls
 
-The closing page retains Gemini dialogue words while taking non-lexical/structural evidence from the scan.
-
 - scan 43 begins as the unlabeled continuation of Socrates' scan-42 speech;
-- Gemini lexical `சாச் / ரடீஸ்` is retained across the source physical line boundary under the explicit word-retention rule; no assistant word-level correction is introduced from the scan;
+- Gemini lexical `சாச் / ரடீஸ்` is retained across the source physical line boundary under the explicit word-retention rule;
 - scan punctuation includes `போகிறான்!...`, `உத்திரவிட்டிருக்கிறது!...`, `விடும்!- வருகிறேன்`, `கிரேக்கமே! .......வருகிறேன்!`, `வருகிறேன்!.....நான்`, `வணக்கம், வணக்கம்.`, and `ஏ, ஜெகமே! சிந்திக்கத்`;
 - stage-direction punctuation includes `மூடுகிறான், சில வினாடிகளுக்குப்பின்,` and closing `விலக்கி)`;
 - scan-controlled speaker-label spacing is `சாக்:`;
@@ -85,10 +81,17 @@ The closing page retains Gemini dialogue words while taking non-lexical/structur
 - page records verified: **4/4**;
 - Scene-5 pages verified: **4/4 COMPLETE**;
 - total Socrates pages verified: **17/17 COMPLETE**;
-- dramatic-body pages verified: **15/15 COMPLETE**;
-- scenes assembled: **4/5**;
-- Scene-5 assembly performed: **No**.
+- dramatic-body pages verified: **15/15 COMPLETE**.
+
+## Subsequent assembly state
+
+`காட்சி—5` has now been assembled exclusively from these verified page records:
+
+- assembled scene: `scenes/05.md`;
+- fidelity audit: `SCENE5_ASSEMBLY_FIDELITY_REVIEW.md`;
+- page-record ↔ scene fidelity: **PASS**;
+- scenes assembled for `சாக்ரடீஸ்`: **5/5 COMPLETE**.
 
 ## Next activity
 
-Assemble **`காட்சி—5` only** from verified `pages/0040.md`–`0043.md`, treating those verified page records as the sole textual authority. Mechanically join only legitimate physical print-line/page-boundary breaks, preserve all wording/punctuation/speaker-label variants/stage directions/final `*`, and run the page-record ↔ scene fidelity audit. Do not begin `சேரன் செங்குட்டுவன்` in that same activity.
+Tamil page verification and scene assembly for `சாக்ரடீஸ்` are complete. The next distinct source-sequential activity is **`சேரன் செங்குட்டுவன்` scan 44 / printed p.39 page verification only**. Do not process scan 45 in the same activity.
