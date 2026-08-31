@@ -24,7 +24,7 @@ Controlling extent: scans **27–43** / printed pp. **22–38**.
 
 - **WORDS: keep Gemini's supplied word-to-word transcription.**
 - **SCAN: use direct visual evidence for headings, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks such as `*`.**
-- Do not make assistant word corrections from spelling familiarity, grammar, semantics or visual expectation unless the user explicitly asks for a word-level recheck.
+- Do not make assistant word corrections, additions or reconstructions from spelling familiarity, grammar, semantics or visual expectation unless the user explicitly asks for a word-level recheck.
 
 ### Durable completed state
 
@@ -32,40 +32,49 @@ Controlling extent: scans **27–43** / printed pp. **22–38**.
 - `காட்சி—1`: **page gate + assembly/fidelity PASS**;
 - `காட்சி—2`: **page gate + assembly/fidelity PASS after user-directed lexical rollback**;
 - `காட்சி—3`: **page gate + assembly/fidelity PASS**;
-- `காட்சி — 4` scans 34–39 / pp.29–34: **6/6 page gate + assembly/fidelity PASS**.
+- `காட்சி — 4`: **6/6 page gate + assembly/fidelity PASS**;
+- `காட்சி—5`: **scan 40 / p.35 verified; page gate 1/4**.
 
-Scene-4 durable files:
+Scene-5 durable files so far:
 
-- verified pages: `works/socrates/pages/0034.md`–`0039.md`;
-- assembled scene: `works/socrates/scenes/04.md`;
-- page gate: `works/socrates/SCENE4_PAGE_VERIFICATION.md` — PASS;
-- assembly audit: `works/socrates/SCENE4_ASSEMBLY_FIDELITY_REVIEW.md` — PASS.
+- `works/socrates/pages/0040.md` — verified opening page;
+- `works/socrates/SCENE5_PAGE_VERIFICATION.md` — **1/4 PASS**.
 
-Scene-4 assembly uses the verified page records as the sole textual authority. Only legitimate print-line/page-boundary joins are made; wording, punctuation, speaker-label variants, stage directions and final `*` are preserved. Fidelity audit reports **0 unresolved discrepancies**, **0 speaker-label mismatches**, and **0 assistant lexical substitutions**.
+### Scan 40 controls
 
-Scene-2 rejected assistant corrections remain withdrawn; Gemini `கவிஞனாம் மெலிடசும்` and `அரசியல் நிபுணனாம் நீயும்` remain controlling lexical readings.
+The user-supplied Gemini first-pass remains the lexical baseline.
+
+- scan-controlled heading: `காட்சி—5.`;
+- setting: `சிறைச்சாலை`;
+- scan controls punctuation/dashes, speaker-label spacing, physical source lines and source marks;
+- scan 40 ends at `இன்றுதான்!`;
+- no closing `*` appears on scan 40;
+- printed p.35 is recorded separately.
+
+Two positions on scan 40 visibly contain lexical material that is absent from the supplied Gemini first-pass. Under the explicit **Gemini words** rule, no scan-derived word was inserted at those positions. `SCENE5_PAGE_VERIFICATION.md` records this intentionally rather than silently reconstructing the omissions.
 
 Durable `சாக்ரடீஸ்` progress:
 
-- total page verification: **13/17**;
-- dramatic-body pages: **11/15**;
-- scenes assembled: **4/5**.
+- total page verification: **14/17**;
+- dramatic-body pages: **12/15**;
+- scenes assembled: **4/5**;
+- Scene-5 page gate: **1/4**.
 
 The 2009 published-English witness remains secondary and cannot reconstruct Tamil.
 
 ## Exact next activity
 
-Process **`சாக்ரடீஸ்` `காட்சி—5` scan 40 / printed p.35 only** as the opening Scene-5 page-verification slice.
+Process **`சாக்ரடீஸ்` `காட்சி—5` scan 41 / printed p.36 only** as the next Scene-5 page-verification slice.
 
 Requirements:
 
 - use the user-supplied Gemini first-pass as the lexical baseline;
 - retain Gemini's words exactly;
-- use direct scan inspection for the Scene-5 heading, punctuation, long dash, speaker-label spacing, physical line boundaries and source marks;
-- create `works/socrates/pages/0040.md` only after verification;
-- update work/source page-gate status after verification;
-- expected durable total after success: **14/17 verified**, Scene 5 **1/4**;
-- do **not** process scan 41 in the same activity;
+- use direct scan inspection for punctuation, long dash, speaker-label spacing, physical line boundaries and source marks;
+- create `works/socrates/pages/0041.md` only after verification;
+- update `SCENE5_PAGE_VERIFICATION.md`, work/source page maps, metadata/readmes and handover after verification;
+- expected durable total after success: **15/17 verified**, Scene 5 **2/4**;
+- do **not** process scan 42 in the same activity;
 - do **not** assemble `காட்சி—5` until scans 40–43 are all verified;
 - do not begin `சேரன் செங்குட்டுவன்`.
 
