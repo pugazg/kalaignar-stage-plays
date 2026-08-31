@@ -12,7 +12,7 @@ Controlling source PDF: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`
 
 ## Live-state rule
 
-Fetch live GitHub `main` **FIRST** and treat it as authoritative. The checkpoint immediately before the Scene-1 page-verification batch was `e4cef290c33808bd7efeb13251bc10010731ccc0`; if live `main` is newer, preserve the newer state.
+Fetch live GitHub `main` **FIRST** and treat it as authoritative. The Scene-1 page gate was first committed at `df8ad9d34f71948543f757cce856c999fb7b02cd`, then re-opened after the user supplied the original Gemini first-pass for scans 29–31. Preserve the newer final Gemini/source reconciliation and do not revert it.
 
 ## Mandatory startup reading
 
@@ -44,18 +44,30 @@ Active work: `சாக்ரடீஸ்`.
 
 - source extent: scans **27–43** / pp.22–38;
 - introductory note scans 27–28: **2/2 verified**;
-- `காட்சி—1` scans 29–31 / pp.24–26: **3/3 page records verified**;
+- `காட்சி—1` scans 29–31 / pp.24–26: **3/3 page records verified after final Gemini/source reconciliation**;
 - total Socrates page progress: **5/17 verified**;
 - dramatic page progress: **3/15**;
 - Scene-1 assembly: **pending**.
 
 Critical page boundary: scan 29 ends Socrates' speech at `எனக்கு`; scan 30 begins `வாய்த்த இளம் மனைவி...`. Assembly must join this mechanically without inventing a new speaker label.
 
-Old-glyph controls and user-rejected normalizations are recorded in `INTRO_RECONCILIATION.md` and `SCENE1_PAGE_VERIFICATION.md`. Retain plausible Gemini readings unless the scan is unambiguous; do not normalize by expectation.
+## Critical Scene-1 controls
+
+The user supplied the original Gemini first-pass after a preliminary page-gate commit. The three page records were therefore re-reconciled and the later text is controlling.
+
+Retain these final readings exactly unless new unambiguous scan evidence appears:
+
+- scan 29: `மடமைப் பைசாசத்தை`, `காணா`, `புலிநிகர்`, `என்னோடு-புறப்படுங்கள்!`;
+- scan 30: `மின்னலப்பா ;`, `இந்தக் கிண்ணாரக் கிழவருக்கு`, `கஷ்டப்பட`, `நட்டாற்றில்`, `ஏண்டி`, `சுடுகாடு`;
+- scan 31: `புவனமறியாததல்ல`, `கீறல்களை`, `சிரந்தாழ்த்தி`, `உயிரினுமினியவர்` plus the source punctuation recorded in `pages/0031.md`.
+
+Do **not** reintroduce the withdrawn preliminary assistant readings `காண`, `புவிநிகர்`, `மின்னல்பா`, `இந்தத் திண்ணைக் கிழவனுக்கு`, `கஷ்டப்பட்ட`, `நடுத்தெருவில்`, or `ஏனடி`.
+
+The complete discrepancy record is `works/socrates/SCENE1_PAGE_VERIFICATION.md`. The 2009 published-English witness remains secondary and cannot reconstruct Tamil.
 
 ## Exact next activity
 
-Assemble **`சாக்ரடீஸ்` `காட்சி—1` only** from the three verified page records.
+Assemble **`சாக்ரடீஸ்` `காட்சி—1` only** from the three **final re-reconciled verified** page records.
 
 Requirements:
 
