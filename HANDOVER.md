@@ -39,51 +39,53 @@ For Cheran, follow the permanent source-first old-glyph policy:
 - if the scan is unambiguous, use the scan-supported form and document the difference;
 - do not use the English witness to reconstruct Tamil.
 
-### Scan 44 / printed p.39 — COMPLETE
+### `காட்சி — 1` page gate — COMPLETE
 
 Durable files:
 
-- `works/cheran-senguttuvan/pages/0044.md` — **verified**;
-- `works/cheran-senguttuvan/SCENE1_PAGE_VERIFICATION.md` — Scene-1 page gate **1/2 PASS**;
-- `works/cheran-senguttuvan/indexes/page-map.md` — created.
+- `works/cheran-senguttuvan/pages/0044.md` — scan 44 / p.39 — **verified**;
+- `works/cheran-senguttuvan/pages/0045.md` — scan 45 / p.40 — **verified**;
+- `works/cheran-senguttuvan/SCENE1_PAGE_VERIFICATION.md` — **2/2 PASS / COMPLETE**;
+- `works/cheran-senguttuvan/indexes/page-map.md`.
 
 Scan-44 controls include:
 
 - printed title displayed as `சேரன்` / `செங்குட்டுவன்`;
 - pre-scene voice-over beginning `நாடகத் துவக்கத்திற்கு முன்பு குரல்:`;
 - source heading `காட்சி — 1`;
-- labels `மன்னர்கள்:`, `கனகர்:`, `விஜயர்:`, `கன:`, `மன்:`, `தமிழ்நாட்டுப் புலவர்:`, `விஜ.`;
-- printed page number `39`;
-- no scene-closing `*` on scan 44.
+- unambiguous first-pass/source differences including `வேந்தர் குலதிலக` → `வேந்தர்குலதிலக` and `கனக விஐயர்` → `கனக விஜயர்`.
 
-Unambiguous first-pass/source differences recorded:
+Scan-45 controls include:
 
-- `காட்சி-1` → `காட்சி — 1`;
-- `வேந்தர் குலதிலக` → `வேந்தர்குலதிலக`;
-- `கனக விஐயர்` → `கனக விஜயர்`;
-- `கன :` → `கன:`.
+- no printed stray `ழ்!` after `செந்தமிழ்!`;
+- `யுல:` before the poem is source `புல:`;
+- Gemini's standalone `தமிழன்!` belongs inside the following `கன:` speech after `...போராடினான்`;
+- `யுல: : கனகர் சொன்னது...` is source `விஜ: கனகர் சொன்னது...`;
+- source long-dash forms and physical print-line boundaries are retained;
+- scan 45 closes Scene 1 structurally but carries **no printed closing `*`**.
 
 Current Cheran progress:
 
-- Tamil pages verified: **1/10**;
-- Scene-1 page gate: **1/2**;
-- scenes assembled from verified Tamil: **0/4**.
+- Tamil pages verified: **2/10**;
+- Scene-1 page gate: **2/2 COMPLETE**;
+- scenes assembled from verified Tamil: **0/4**;
+- scan 46: **not processed**.
 
 ## Exact next activity
 
-Process **`சேரன் செங்குட்டுவன்` scan 45 / printed p.40 only** as the Scene-1 continuation/closing page-verification activity.
+Assemble **`சேரன் செங்குட்டுவன்` `காட்சி — 1` only** from verified page records `works/cheran-senguttuvan/pages/0044.md` and `0045.md`.
 
 Requirements:
 
-- fetch live `main` first and read the permanent guide/current handover/work page-map/page record;
-- inspect scan 45 directly from the controlling PDF;
-- use the user-supplied Gemini first pass as the comparison baseline if it is available in the chat; in a fresh chat, ask for only the relevant first-pass segment rather than inventing it from memory;
-- preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and source marks;
-- create `works/cheran-senguttuvan/pages/0045.md` only after direct verification;
-- update `SCENE1_PAGE_VERIFICATION.md`, work/source progress, page maps, README files and handover;
-- expected durable state after success: **2/10 pages verified**, Scene-1 page gate **2/2 COMPLETE**;
+- fetch live `main` first and read the permanent guide/current handover/Scene-1 page records and page-gate record;
+- treat verified page records as the **sole textual authority** for assembly;
+- mechanically join only legitimate physical print-line and page-boundary breaks;
+- preserve the work-opening pre-scene voice-over, source heading, wording, punctuation and speaker-label variants;
+- do **not** invent a closing `*` because neither verified Scene-1 page contains one;
+- create the Scene-1 assembled file following existing repository naming/format conventions;
+- run a page-record ↔ scene fidelity audit and require PASS;
+- update work/source/readme/page-map/handover state after fidelity PASS;
 - do **not** process scan 46 in the same activity;
-- do **not** assemble Scene 1 in the same activity;
 - do **not** use the English witness to fill Tamil gaps.
 
 ## Permanent safeguards
