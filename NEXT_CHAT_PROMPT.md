@@ -12,7 +12,7 @@ Controlling source PDF: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`
 
 ## Live-state rule
 
-Fetch live GitHub `main` first and treat it as authoritative. Scene-2 lexical rollback remains locked, Scenes 1–3 have assembly/fidelity PASS, and Scene 4 is verified through scan 38 / printed p.33. Preserve any newer live state.
+Fetch live GitHub `main` first and treat it as authoritative. Scene-2 lexical rollback remains locked, Scenes 1–3 have assembly/fidelity PASS, and Scene 4 now has a complete 6/6 verified page gate through scan 39 / printed p.34. Preserve any newer live state.
 
 ## Durable state
 
@@ -22,9 +22,9 @@ Active work: `சாக்ரடீஸ்`.
 - `காட்சி—1`: **page gate + assembly/fidelity PASS**;
 - `காட்சி—2`: **page gate + assembly/fidelity PASS after lexical rollback**;
 - `காட்சி—3`: **page gate + assembly/fidelity PASS**;
-- `காட்சி—4` scans 34–39: **5/6 verified (34–38 / pp.29–33)**;
-- total page progress: **12/17 verified**;
-- dramatic-body progress: **10/15**;
+- `காட்சி—4` scans 34–39: **6/6 verified / page gate COMPLETE**;
+- total page progress: **13/17 verified**;
+- dramatic-body progress: **11/15**;
 - scenes assembled: **3/5**.
 
 ## Critical transcription rule
@@ -36,22 +36,22 @@ The user explicitly instructed:
 
 Do not make assistant word corrections based on visual interpretation, grammar, familiar spelling or sentence meaning unless explicitly requested.
 
-Scan 38 is durably recorded in `works/socrates/pages/0038.md`. Gemini lexical forms including `எனக்கேட்கலாம்`, `அபராதங்`, `என்னுடைய.சொந்த`, and `எனதருமை ஏதென்ஸ் நகரத்தும்` are retained. Scan-controlled labels are `நீதி:`; the page ends at verdict `வேண்டும்!`, preserves lower-left `3` plus centered page number `33`, and has no Scene-4 closing `*`.
+Scan 39 is durably recorded in `works/socrates/pages/0039.md`. Gemini lexical forms including `விட்டர்கள்` and `களத்தில்` are retained. The scan controls `சாக்:` label spacing, `281—220!........`, `மேன்மையானது!........`, `ஒரு மனிதன்—`, physical line boundaries, the centered closing `*`, and printed p.34.
 
 ## Exact next activity
 
-Process **`சாக்ரடீஸ்` `காட்சி—4` scan 39 / printed p.34 only** as the closing Scene-4 page-verification slice.
+Assemble **`சாக்ரடீஸ்` `காட்சி—4` only** from verified page records `works/socrates/pages/0034.md` through `0039.md`.
 
 Requirements:
 
-- use the user-supplied Gemini first-pass as the lexical baseline;
-- retain Gemini's words exactly;
-- use direct scan inspection only for punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks;
-- create `works/socrates/pages/0039.md` only after verification;
-- preserve the final `*` if present in the controlling scan;
-- update `SCENE4_PAGE_VERIFICATION.md`, work/source page maps, metadata/readmes and handover;
-- expected durable total after success: **13/17 verified**, Scene 4 **6/6**;
-- do **not** assemble `காட்சி—4` in the same activity; assembly/fidelity is the next separate activity after the page gate reaches 6/6;
-- do not begin `காட்சி—5` or `சேரன் செங்குட்டுவன்`.
+- treat the verified page records as the sole textual authority;
+- mechanically join only legitimate print-line/page-boundary breaks;
+- preserve wording, punctuation, speaker labels, stage directions, repetitions and final `*`;
+- follow the existing scene-file naming/format convention;
+- run the page-record ↔ scene fidelity audit and require PASS;
+- update work/source/readme/page-map/handover state only after fidelity PASS;
+- expected durable state after success: **4/5 scenes assembled**;
+- do **not** begin `காட்சி—5` in the same activity;
+- do not begin `சேரன் செங்குட்டுவன்`.
 
 When I say **“Proceed with next activity”**, execute this exact activity directly without asking me to choose a routine next step.
