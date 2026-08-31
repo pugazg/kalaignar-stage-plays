@@ -12,12 +12,14 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archival/assembly PASS; independent English translation PASS** |
 | [அனார்கலி](works/anarkali/) | **Tamil page verification 9/9; 4/4 scenes assembled; fidelity PASS** |
 | [சாக்ரடீஸ்](works/socrates/) | **Tamil page verification 17/17 COMPLETE; 5/5 scenes assembled; fidelity PASS** |
-| [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil source registered; verification pending** |
+| [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil page verification 1/10; Scene 1 page gate 1/2; 0/4 scenes assembled** |
 
 ## Current repository phase
 
-`சாக்ரடீஸ்` Tamil source processing is complete for scans **27–43** / printed pp.22–38: **17/17 pages verified**, **15/15 dramatic-body pages verified**, and **5/5 source-printed scenes assembled with page-record fidelity PASS**. `காட்சி—5.` is assembled at `works/socrates/scenes/05.md`; its dedicated fidelity audit is `works/socrates/SCENE5_ASSEMBLY_FIDELITY_REVIEW.md`.
+`சாக்ரடீஸ்` Tamil source processing is complete for scans **27–43** / printed pp.22–38: **17/17 pages verified** and **5/5 scenes assembled with fidelity PASS**.
 
-The completed `சாக்ரடீஸ்` records retain the user-directed Gemini-word / scan-typography rule used during verification. Assembly uses verified page records as the sole textual authority and introduces only legitimate physical-line/page-boundary joins.
+`சேரன் செங்குட்டுவன்` is now active. Scan **44 / printed p.39**—the work opening and `காட்சி — 1` opening—has been directly verified against the controlling Tamil scan using the user-supplied Gemini first pass as comparison baseline. Current Cheran progress is **1/10 pages verified**, `காட்சி — 1` page gate **1/2**, scenes assembled **0/4**.
 
-Next source-sequential activity: verify **`சேரன் செங்குட்டுவன்` scan 44 / printed p.39 only**. Do not process scan 45 in the same activity.
+The 2009 published-English witness remains secondary and is not used to reconstruct Tamil.
+
+Next source-sequential activity: verify **`சேரன் செங்குட்டுவன்` scan 45 / printed p.40 only**. Do not process scan 46 or assemble Scene 1 in the same activity.
