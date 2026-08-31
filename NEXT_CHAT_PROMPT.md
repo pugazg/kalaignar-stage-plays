@@ -27,8 +27,9 @@ Before any write, read completely:
 7. `works/cheran-senguttuvan/SCENE2_PAGE_VERIFICATION.md`
 8. `works/cheran-senguttuvan/pages/0046.md`
 9. `works/cheran-senguttuvan/pages/0047.md`
-10. `sources/naanmani-malai-tamil/README.md`
-11. `sources/naanmani-malai-tamil/indexes/page-map.md`
+10. `works/cheran-senguttuvan/pages/0048.md`
+11. `sources/naanmani-malai-tamil/README.md`
+12. `sources/naanmani-malai-tamil/indexes/page-map.md`
 
 Then re-fetch live `main` immediately before the first write.
 
@@ -49,18 +50,20 @@ Controlling extent:
 
 Current durable progress:
 
-- Tamil pages verified: **4/10**;
+- Tamil pages verified: **5/10**;
 - scenes assembled: **1/4**;
 - `காட்சி — 2` source extent: scans **46–49** / pp.41–44;
 - scan **46 / p.41** — **verified**;
 - scan **47 / p.42** — **verified**;
-- Scene-2 page gate: **2/4**;
-- scans **48–49** — not processed.
+- scan **48 / p.43** — **verified**;
+- Scene-2 page gate: **3/4**;
+- scan **49** — not processed.
 
 Scene-2 durable files:
 
 - `works/cheran-senguttuvan/pages/0046.md`;
 - `works/cheran-senguttuvan/pages/0047.md`;
+- `works/cheran-senguttuvan/pages/0048.md`;
 - `works/cheran-senguttuvan/SCENE2_PAGE_VERIFICATION.md`.
 
 ## First-pass / source rule
@@ -73,30 +76,33 @@ The user supplied a Gemini word-to-word first pass covering the Cheran source ex
 - change the first pass only when scan evidence is unambiguous, and document the difference;
 - the 2009 English witness is secondary and must not reconstruct Tamil.
 
-Scan 47 recorded source-proven reconciliation including:
+Scan 48 recorded source-proven reconciliation including:
 
-- `எண்ணினேன் ;` → source `எண்ணினேன்;`;
-- `அவன்` → source `அவன்,`;
-- `“நடந்திடுக கண்ணே” என்றாள்?` → source `“நடந்திடுக கண்ணே” என்றாள்!`;
 - hyphen-style separators → source long dashes;
-- `பார்!பார்! பார்!` → source `பார்! பார்! பார்!`;
-- `வாழ்த்துக்கள் வழங்கினர்!` → source `வாழ்த்துகள் வழங்கினர்!`.
+- `சாவிலே வீழ்ந்து விட்டான் -` → source `சாவிலே வீழ்ந்துவிட்டான்—`;
+- `மண்தானோ? இனிஇது தூங்காத` → source `மண் தானே? இனி இது தூங்காத`;
+- `கண்தானோ?` → source `கண் தானே?`;
+- `நாட்டுக்கே அன்றி.` → source `நாட்டுக்கே அன்றி,`;
+- `தமிழ்நாட்டுமாதரக` → enlarged-scan `தமிழ்நாட்டுமாதரசு`.
+
+The plausible first-pass `சோகத்தாள்` was retained under the old-glyph safeguard rather than normalized by expectation.
 
 ## Exact next activity
 
-Process **`சேரன் செங்குட்டுவன்` scan 48 / printed p.43 only** as the next Scene-2 continuation-page verification activity.
+Process **`சேரன் செங்குட்டுவன்` scan 49 / printed p.44 only** as the closing-page verification activity for Scene 2.
 
 Requirements:
 
-- inspect scan 48 directly from the controlling PDF;
+- inspect scan 49 directly from the controlling PDF;
 - use the user-supplied Gemini first-pass as comparison baseline;
-- preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and source marks;
+- preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and final source marks;
 - apply the old-glyph safeguard and avoid expectation-based lexical correction;
-- create `works/cheran-senguttuvan/pages/0048.md` only after direct verification;
+- create `works/cheran-senguttuvan/pages/0049.md` only after direct verification;
 - update `SCENE2_PAGE_VERIFICATION.md`, work/source progress, page maps, README files and handover after verification;
-- expected durable total after success: **5/10 pages verified**, Scene-2 gate **3/4**;
-- do **not** process scan 49 in the same activity;
+- expected durable total after success: **6/10 pages verified**, Scene-2 gate **4/4 COMPLETE**;
+- preserve any scene-closing `*` exactly if present;
 - do **not** assemble Scene 2 in the same activity;
+- do **not** process scan 50 in the same activity;
 - do **not** use the English witness to reconstruct Tamil.
 
 When I say **“Proceed with next activity”**, execute this exact activity directly without asking me to choose a routine next step.
