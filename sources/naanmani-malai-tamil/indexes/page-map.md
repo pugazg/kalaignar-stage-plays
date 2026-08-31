@@ -17,14 +17,14 @@ Printed pagination is recorded only where directly visible.
 | 46–49 | 41–44 | `சேரன் செங்குட்டுவன்` — `காட்சி — 2` | assembly-reviewed | Scene-2 assembly/fidelity PASS; no closing `*`. |
 | 50 | 45 | `சேரன் செங்குட்டுவன்` — `காட்சி—3.` opening | assembly-reviewed | Scene-3 assembly/fidelity PASS. |
 | 51 | 46 | `சேரன் செங்குட்டுவன்` — `காட்சி—3.` closing | assembly-reviewed | Scene-3 assembly/fidelity PASS; centered closing `*` retained. |
-| 52 | 47 | `சேரன் செங்குட்டுவன்` — `காட்சி—4.` opening | verified | Final-scene page gate 1/2; source structure/label punctuation recorded. |
-| 53 | 48 | `சேரன் செங்குட்டுவன்` — `காட்சி—4.` closing | not-started | Next activity. |
+| 52 | 47 | `சேரன் செங்குட்டுவன்` — `காட்சி—4.` opening | verified | Final-scene page gate. |
+| 53 | 48 | `சேரன் செங்குட்டுவன்` — `காட்சி—4.` closing | verified | Final-scene page gate 2/2 COMPLETE; centered `- * -` retained. |
 | 54 | — | back cover | partial | Archival description pending. |
 
 ## Current checkpoint
 
 `சாக்ரடீஸ்` is complete at **17/17 pages, 5/5 scenes, fidelity PASS**.
 
-`சேரன் செங்குட்டுவன்` scans **44–52 / printed pp.39–47** are verified: **9/10 Tamil pages verified**. Scenes 1–3 are assembled with page-record fidelity **PASS**; final-scene page gate is **1/2**; scenes assembled **3/4**.
+`சேரன் செங்குட்டுவன்` scans **44–53 / printed pp.39–48** are verified: **10/10 Tamil pages COMPLETE**. Scenes 1–3 are assembled with page-record fidelity **PASS**; final-scene page gate is **2/2 COMPLETE**; scenes assembled **3/4**.
 
-Next source-sequential activity: verify **scan 53 / printed p.48 only** as the closing page of `காட்சி—4.`. Do not assemble the final scene in the same activity.
+Next source-sequential activity: assemble `காட்சி—4.` only from verified scans/pages 52–53 and run the page-record fidelity audit. Do not process scan 54 / the back cover in the same activity.
