@@ -87,8 +87,8 @@ No lexical correction beyond these mechanical physical-line joins is introduced.
 |---|---:|---:|---|
 | `அனி :` | 2 | 2 | PASS |
 | `நீதிமன்றத் தலைவர் :` | 1 | 1 | PASS |
-| `சாக் :` | 12 | 12 | PASS |
-| `மெலி :` | 9 | 9 | PASS |
+| `சாக் :` | 13 | 13 | PASS |
+| `மெலி :` | 10 | 10 | PASS |
 | `நீதி :` | 2 | 2 | PASS |
 | `சார் :` | 1 | 1 | PASS |
 | `நீதி:` | 2 | 2 | PASS |
