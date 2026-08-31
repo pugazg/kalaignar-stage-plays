@@ -15,11 +15,11 @@ Printed pagination is recorded only where directly visible.
 | 40–43 | 35–38 | `சாக்ரடீஸ்` — `காட்சி—5.` | assembly-reviewed | 4/4 page gate + assembly/fidelity PASS; scan 43 centered final `*` retained. |
 | 44 | 39 | `சேரன் செங்குட்டுவன்` — work opening + `காட்சி — 1` opening | assembly-reviewed | Scene-1 assembly/fidelity PASS. |
 | 45 | 40 | `சேரன் செங்குட்டுவன்` — `காட்சி — 1` continuation/closing | assembly-reviewed | No printed closing `*`. |
-| 46 | 41 | `சேரன் செங்குட்டுவன்` — `காட்சி — 2` opening | verified | Scene-2 page gate. |
-| 47 | 42 | `சேரன் செங்குட்டுவன்` — `காட்சி — 2` continuation | verified | Source punctuation/long dashes preserved. |
-| 48 | 43 | `சேரன் செங்குட்டுவன்` — `காட்சி — 2` continuation | verified | Source `மண் தானே?`, `கண் தானே?`, `தமிழ்நாட்டுமாதரசு`. |
-| 49 | 44 | `சேரன் செங்குட்டுவன்` — `காட்சி — 2` closing | verified | Scene-2 page gate 4/4 COMPLETE; source `பூண்டார்!` restored; no closing `*`. |
-| 50–51 | 45–46 | `சேரன் செங்குட்டுவன்` — `காட்சி—3.` | not-started | Structural survey only. |
+| 46 | 41 | `சேரன் செங்குட்டுவன்` — `காட்சி — 2` opening | assembly-reviewed | Scene-2 assembly/fidelity PASS. |
+| 47 | 42 | `சேரன் செங்குட்டுவன்` — `காட்சி — 2` continuation | assembly-reviewed | Scene-2 assembly/fidelity PASS. |
+| 48 | 43 | `சேரன் செங்குட்டுவன்` — `காட்சி — 2` continuation | assembly-reviewed | Scene-2 assembly/fidelity PASS. |
+| 49 | 44 | `சேரன் செங்குட்டுவன்` — `காட்சி — 2` closing | assembly-reviewed | Scene-2 assembly/fidelity PASS; no closing `*`. |
+| 50–51 | 45–46 | `சேரன் செங்குட்டுவன்` — `காட்சி—3.` | not-started | Scan 50 / p.45 is next. |
 | 52–53 | 47–48 | `சேரன் செங்குட்டுவன்` — final scene | not-started | Structural survey only. |
 | 54 | — | back cover | partial | Archival description pending. |
 
@@ -27,6 +27,6 @@ Printed pagination is recorded only where directly visible.
 
 `சாக்ரடீஸ்` is complete at **17/17 pages, 5/5 scenes, fidelity PASS**.
 
-`சேரன் செங்குட்டுவன்` scans **44–49 / printed pp.39–44** are verified: **6/10 Tamil pages verified**. Scene 1 is assembled with fidelity **PASS**; Scene 2 page gate is **4/4 COMPLETE**; scenes assembled **1/4**.
+`சேரன் செங்குட்டுவன்` scans **44–49 / printed pp.39–44** are verified: **6/10 Tamil pages verified**. Scene 1 and Scene 2 are assembled with page-record fidelity **PASS**; scenes assembled **2/4**.
 
-Next source-sequential activity: assemble `காட்சி — 2` only from verified scans/pages 46–49 and run the page-record fidelity audit. Do not process scan 50 in the same activity.
+Next source-sequential activity: verify **scan 50 / printed p.45 only** as the opening page of `காட்சி—3.`. Do not process scan 51 or assemble Scene 3 in the same activity.
