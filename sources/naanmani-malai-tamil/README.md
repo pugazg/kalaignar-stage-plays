@@ -7,17 +7,15 @@ Source: `TVA_BOK_0065576_நான்மணி_மாலை.pdf` — **54 scans*
 - `பரதாயணம்`: Tamil archival/assembly PASS; independent English translation PASS.
 - `அனார்கலி`: Tamil archival/assembly PASS.
 - `சாக்ரடீஸ்`: scans **27–43 = 17/17 pages verified COMPLETE**; all five scenes assembled with page-record fidelity **PASS**.
-- `சேரன் செங்குட்டுவன்`: scans **44–51 / pp.39–46 verified**; Tamil page progress **8/10**; Scenes 1–3 assembly/fidelity **PASS**; scenes assembled **3/4**.
+- `சேரன் செங்குட்டுவன்`: scans **44–52 / pp.39–47 verified**; Tamil page progress **9/10**; Scenes 1–3 assembly/fidelity **PASS**; final-scene page gate **1/2**; scenes assembled **3/4**.
 
 For active `சேரன் செங்குட்டுவன்`, the user-supplied Gemini first pass is a comparison baseline. The Tamil scan remains controlling under `STAGE_PLAY_PROCESSING_GUIDE.md`; ambiguous old-glyph readings are not normalized by expectation, while unambiguous scan evidence controls canonical wording, spacing, punctuation, labels and source order. The 2009 English witness remains secondary only.
 
-Current Scene-3 artifacts:
+Current final-scene artifacts:
 
-- `../../works/cheran-senguttuvan/pages/0050.md`–`0051.md` — **2/2 verified**;
-- `../../works/cheran-senguttuvan/SCENE3_PAGE_VERIFICATION.md` — **PASS / COMPLETE**;
-- `../../works/cheran-senguttuvan/scenes/03.md` — **assembly-reviewed / PASS**;
-- `../../works/cheran-senguttuvan/SCENE3_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**.
+- `../../works/cheran-senguttuvan/pages/0052.md` — scan 52 / p.47 — **verified**;
+- `../../works/cheran-senguttuvan/SCENE4_PAGE_VERIFICATION.md` — **1/2 PASS**.
 
-Scene 3 preserves its source heading/setting, verified labels and punctuation, the scan-51 continuous `சேரன்:` speech, and the centered closing `*`.
+Scan 52 preserves source `காட்சி—4.`, `குயிலாலுவம்`, source-order opening stage direction, exact speaker-label punctuation variants, source long dashes, `ராம ராவணப் போர்?....`, physical print lines, and no closing `*`.
 
-Next source-sequential activity: verify **`சேரன் செங்குட்டுவன்` scan 52 / printed p.47 only** as the opening page of the final scene. Do not process scan 53 or assemble the final scene in the same activity.
+Next source-sequential activity: verify **`சேரன் செங்குட்டுவன்` scan 53 / printed p.48 only** as the closing page of the final scene. Do not assemble the final scene in the same activity.
