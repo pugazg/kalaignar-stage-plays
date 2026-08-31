@@ -15,15 +15,15 @@ Printed pagination is recorded only where directly visible.
 | 40–43 | 35–38 | `சாக்ரடீஸ்` — `காட்சி—5.` | assembly-reviewed | 4/4 page gate + assembly/fidelity PASS; scan 43 centered final `*` retained. |
 | 44–45 | 39–40 | `சேரன் செங்குட்டுவன்` — `காட்சி — 1` | assembly-reviewed | Scene-1 assembly/fidelity PASS. |
 | 46–49 | 41–44 | `சேரன் செங்குட்டுவன்` — `காட்சி — 2` | assembly-reviewed | Scene-2 assembly/fidelity PASS; no closing `*`. |
-| 50 | 45 | `சேரன் செங்குட்டுவன்` — `காட்சி—3.` opening | verified | Scene-3 page gate. |
-| 51 | 46 | `சேரன் செங்குட்டுவன்` — `காட்சி—3.` closing | verified | Scene-3 page gate 2/2 COMPLETE; centered closing `*` retained. |
-| 52–53 | 47–48 | `சேரன் செங்குட்டுவன்` — final scene | not-started | Structural survey only. |
+| 50 | 45 | `சேரன் செங்குட்டுவன்` — `காட்சி—3.` opening | assembly-reviewed | Scene-3 assembly/fidelity PASS. |
+| 51 | 46 | `சேரன் செங்குட்டுவன்` — `காட்சி—3.` closing | assembly-reviewed | Scene-3 assembly/fidelity PASS; centered closing `*` retained. |
+| 52–53 | 47–48 | `சேரன் செங்குட்டுவன்` — final scene | not-started | Scan 52 / p.47 is next. |
 | 54 | — | back cover | partial | Archival description pending. |
 
 ## Current checkpoint
 
 `சாக்ரடீஸ்` is complete at **17/17 pages, 5/5 scenes, fidelity PASS**.
 
-`சேரன் செங்குட்டுவன்` scans **44–51 / printed pp.39–46** are verified: **8/10 Tamil pages verified**. Scenes 1–2 are assembled with page-record fidelity **PASS**; Scene 3 page gate is **2/2 COMPLETE**; scenes assembled **2/4**.
+`சேரன் செங்குட்டுவன்` scans **44–51 / printed pp.39–46** are verified: **8/10 Tamil pages verified**. Scenes 1–3 are assembled with page-record fidelity **PASS**; scenes assembled **3/4**.
 
-Next source-sequential activity: assemble `காட்சி—3.` only from verified scans/pages 50–51 and run the page-record fidelity audit. Do not process scan 52 in the same activity.
+Next source-sequential activity: verify **scan 52 / printed p.47 only** as the opening page of the final scene. Do not process scan 53 or assemble the final scene in the same activity.
