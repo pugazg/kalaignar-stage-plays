@@ -7,15 +7,15 @@ Source: `TVA_BOK_0065576_நான்மணி_மாலை.pdf` — **54 scans*
 - `பரதாயணம்`: Tamil archival/assembly PASS; independent English translation PASS.
 - `அனார்கலி`: Tamil archival/assembly PASS.
 - `சாக்ரடீஸ்`: scans **27–43 = 17/17 pages verified COMPLETE**; all five scenes assembled with page-record fidelity **PASS**.
-- `சேரன் செங்குட்டுவன்`: scans **44–52 / pp.39–47 verified**; Tamil page progress **9/10**; Scenes 1–3 assembly/fidelity **PASS**; final-scene page gate **1/2**; scenes assembled **3/4**.
+- `சேரன் செங்குட்டுவன்`: scans **44–53 / pp.39–48 verified COMPLETE**; Tamil page progress **10/10**; Scenes 1–3 assembly/fidelity **PASS**; final-scene page gate **2/2 COMPLETE**; scenes assembled **3/4**.
 
 For active `சேரன் செங்குட்டுவன்`, the user-supplied Gemini first pass is a comparison baseline. The Tamil scan remains controlling under `STAGE_PLAY_PROCESSING_GUIDE.md`; ambiguous old-glyph readings are not normalized by expectation, while unambiguous scan evidence controls canonical wording, spacing, punctuation, labels and source order. The 2009 English witness remains secondary only.
 
 Current final-scene artifacts:
 
-- `../../works/cheran-senguttuvan/pages/0052.md` — scan 52 / p.47 — **verified**;
-- `../../works/cheran-senguttuvan/SCENE4_PAGE_VERIFICATION.md` — **1/2 PASS**.
+- `../../works/cheran-senguttuvan/pages/0052.md`–`0053.md` — scans 52–53 / pp.47–48 — **2/2 verified**;
+- `../../works/cheran-senguttuvan/SCENE4_PAGE_VERIFICATION.md` — **PASS / COMPLETE**.
 
-Scan 52 preserves source `காட்சி—4.`, `குயிலாலுவம்`, source-order opening stage direction, exact speaker-label punctuation variants, source long dashes, `ராம ராவணப் போர்?....`, physical print lines, and no closing `*`.
+Scan 53 preserves the source `சேர்!` label variant, `புறப்படுவோம்—வில்லவா.`, `கனக—விஜயா`, `சொல்—இப்போது`, physical print-line boundaries, and centered final source mark `- * -`.
 
-Next source-sequential activity: verify **`சேரன் செங்குட்டுவன்` scan 53 / printed p.48 only** as the closing page of the final scene. Do not assemble the final scene in the same activity.
+Next source-sequential activity: assemble **`சேரன் செங்குட்டுவன்` `காட்சி—4.` only** from verified pages 0052–0053 and run the page-record fidelity audit. Do not process scan 54 / the back cover in that activity.
