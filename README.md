@@ -20,6 +20,10 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 
 `சேரன் செங்குட்டுவன்` Tamil dramatic-source processing is complete for scans **44–53 / printed pp.39–48**: **10/10 pages verified**, all four source-printed scenes assembled from verified page records, and **all page-record ↔ scene fidelity gates PASS**. Final `காட்சி—4.` preserves the unusual source `சேர்!` label and centered `- * -` closing mark.
 
+For the composite `கலைஞரின் நான்மணி மாலை` source, scan **54 / back cover** is now visually archived and **verified** at `sources/naanmani-malai-tamil/pages/0054.md`. The back cover carries the printed title `கலைஞரின் நான்மணி மாலை` over a full-page colour illustration; no literary body text or visible non-authorial marks were found.
+
+Shared front matter scans **1–5** still require full page-level archival records. The source PDF remains external to the repository.
+
 The 2009 published-English witness remains secondary and is not used to reconstruct Tamil.
 
-Next source-sequential activity: process **scan 54 / back cover only** as an archival description for the composite `கலைஞரின் நான்மணி மாலை` source. Do not begin another work in the same activity.
+Next source-sequential activity: process **scan 1 / illustrated front cover only** as an archival-description page for the composite `கலைஞரின் நான்மணி மாலை` source. Do not begin another work in the same activity.
