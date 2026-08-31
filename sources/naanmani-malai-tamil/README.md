@@ -7,17 +7,15 @@ Source: `TVA_BOK_0065576_நான்மணி_மாலை.pdf` — **54 scans*
 - `பரதாயணம்`: Tamil archival/assembly PASS; independent English translation PASS.
 - `அனார்கலி`: Tamil archival/assembly PASS.
 - `சாக்ரடீஸ்`: scans **27–43 = 17/17 pages verified COMPLETE**; all five scenes assembled with page-record fidelity **PASS**.
-- `சேரன் செங்குட்டுவன்`: scans **44–45 / pp.39–40 verified**; Tamil page progress **2/10**; `காட்சி — 1` page gate **2/2 COMPLETE**; Scene-1 assembly/fidelity **PASS**; scenes assembled **1/4**.
+- `சேரன் செங்குட்டுவன்`: scans **44–46 / pp.39–41 verified**; Tamil page progress **3/10**; `காட்சி — 1` assembly/fidelity **PASS**; `காட்சி — 2` page gate **1/4**; scenes assembled **1/4**.
 
-For active `சேரன் செங்குட்டுவன்`, the user-supplied Gemini first pass is a comparison baseline. The Tamil scan remains controlling under `STAGE_PLAY_PROCESSING_GUIDE.md`; ambiguous old-glyph readings are not normalized by expectation, while unambiguous scan evidence controls canonical wording, spacing, punctuation and labels. The 2009 English witness remains secondary only.
+For active `சேரன் செங்குட்டுவன்`, the user-supplied Gemini first pass is a comparison baseline. The Tamil scan remains controlling under `STAGE_PLAY_PROCESSING_GUIDE.md`; ambiguous old-glyph readings are not normalized by expectation, while unambiguous scan evidence controls canonical wording, spacing, punctuation, labels and source order. The 2009 English witness remains secondary only.
 
-Completed Scene-1 artifacts:
+Current Scene-2 artifacts:
 
-- `../../works/cheran-senguttuvan/pages/0044.md`–`0045.md` — verified;
-- `../../works/cheran-senguttuvan/SCENE1_PAGE_VERIFICATION.md` — **2/2 PASS / COMPLETE**;
-- `../../works/cheran-senguttuvan/scenes/01.md` — assembly-reviewed;
-- `../../works/cheran-senguttuvan/SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**.
+- `../../works/cheran-senguttuvan/pages/0046.md` — scan 46 / p.41 — **verified**;
+- `../../works/cheran-senguttuvan/SCENE2_PAGE_VERIFICATION.md` — **1/4 PASS**.
 
-The assembly uses verified page records only, preserves the pre-scene voice-over and source heading, and does not invent a closing `*` because neither Scene-1 source page contains one.
+Scan 46 preserves source heading `காட்சி — 2`, setting `சேரனின் மண்டபம்`, speaker labels, punctuation, verse structure and the source placement of `ஓர் களத்தில்,` immediately after `அந்நாளில்`. The plausible first-pass old-glyph reading around `தன் மகனை / யும்` is retained rather than modernized by expectation.
 
-Next source-sequential activity: verify **`சேரன் செங்குட்டுவன்` scan 46 / printed p.41 only**, the opening page of `காட்சி — 2`. Do not process scan 47 or assemble Scene 2 in the same activity.
+Next source-sequential activity: verify **`சேரன் செங்குட்டுவன்` scan 47 / printed p.42 only**. Do not process scan 48 or assemble Scene 2 in the same activity.
