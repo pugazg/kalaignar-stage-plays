@@ -15,9 +15,26 @@ Repository text ஒரு புதிய பதிப்பு அல்ல. �
 - punctuation, sandhi, இலக்கணம், பெயர், தேதி, எண், speaker label ஆகியவற்றை standardize செய்தல்;
 - dialogue repetition-ஐ stylistic காரணத்தால் நீக்குதல்;
 - stage direction-ஐ prose-ஆக மாற்றுதல் அல்லது prose-ஐ stage direction-ஆக மாற்றுதல்;
-- later edition / இணைய transcription / நினைவிலுள்ள Silappathikaram wording மூலம் scan text-ஐ மாற்றுதல்;
+- later edition / இணைய transcription / நினைவிலுள்ள wording மூலம் scan text-ஐ மாற்றுதல்;
 - தெளிவில்லாத எழுத்தை sentence பொருளை வைத்து நிரப்புதல்;
 - source-ல் இல்லாத act/scene/section heading-ஐ body transcription-க்கு silently சேர்த்தல்.
+
+### 1A. First-pass / Gemini / old-Tamil-glyph adjudication
+
+OCR அல்லது Gemini first-pass **controlling authority அல்ல**; scan தான் controlling source. ஆனால் first-pass ஒரு comparison baseline. குறிப்பாக பழைய Tamil glyphs உள்ள source-களில், first-pass-ஐ semantic expectation அல்லது modern spelling அடிப்படையில் assistant தானாக மாற்றக்கூடாது.
+
+Permanent rules:
+
+1. user supplied first-pass இருந்தால் அதிலிருந்து தொடங்கு; scan-க்கு எதிராக compare செய்;
+2. ஒரு glyph / சொல் பழைய வடிவத்தால் ambiguous என்றால், familiar modern spelling, dictionary expectation, proper-name familiarity, grammar அல்லது sentence meaning அடிப்படையில் மாற்ற வேண்டாம்;
+3. **scan unambiguous ஆக வேறு reading காட்டினால் மட்டுமே** first-pass-ஐ மாற்று; evidence-ஐ page verification notes / discrepancy record-ல் பதிவு செய்;
+4. scan ambiguity நீங்கவில்லை என்றால் first-pass reading-ஐ retain செய்து `needs-review` / ambiguity note பயன்படுத்து;
+5. user ஒரு assistant-proposed correction source-ல் இல்லை என்று explicitly நிராகரித்தால், அந்த correction உடனே withdraw செய்ய வேண்டும். அந்த reading-ஐ மீண்டும் கொண்டு வர புதிய, தெளிவான source evidence இல்லாமல் கூடாது;
+6. user-confirmed rollback பிறகு affected page ஏற்கெனவே `verified` என்றால், verification gate-ஐ reopen செய்து தேவையானால் `needs-review`-க்கு மாற்று; clean re-reconciliation முடிந்த பிறகே மீண்டும் `verified`;
+7. OCR/re-OCR, published translation, later edition, general knowledge, common spelling ஆகியவற்றில் எதுவும் user-retained plausible old-glyph reading-ஐ override செய்யக்கூடாது;
+8. new chat/session-ல் original first-pass text கிடைக்காவிட்டால் அதை memory-யில் இருந்து invent செய்யக்கூடாது. Repository-யில் durable text இருந்தால் அதை பயன்படுத்து; இல்லையெனில் relevant first-pass segment-ஐ user மீண்டும் வழங்கும் வரை disputed reading-ஐ adjudicate செய்ததாகக் கூறக்கூடாது.
+
+இந்த விதி source-first policy-க்கு முரணல்ல: scan authority தொடர்கிறது; ஆனால் **uncertain scan pixels மீது assistant expectation authority ஆக மாறுவதைத் தடுக்கிறது**.
 
 ## 2. PDF policy
 
@@ -62,6 +79,8 @@ Later phases may add:
   audit.md
   ASSEMBLY_REVIEW.md
   POSSIBLE_ERRORS_FOR_REVIEW.md
+  FIRST_PASS_DISCREPANCIES.md
+  INTRO_RECONCILIATION.md
   translations/en/
   TRANSLATION_REVIEW.md
   HANDOVER.md
@@ -96,7 +115,7 @@ Status values:
 - `verified`
 - `blocked`
 
-`verified` என்பது scan-ஐ நேரடியாகப் பார்த்து text, punctuation, speaker labels, stage directions, paragraph/column structure மற்றும் source marks அனைத்தையும் உறுதிப்படுத்திய பின்னரே பயன்படுத்த வேண்டும்.
+`verified` என்பது scan-ஐ நேரடியாகப் பார்த்து text, punctuation, speaker labels, stage directions, paragraph/column structure மற்றும் source marks அனைத்தையும் உறுதிப்படுத்திய பின்னரே பயன்படுத்த வேண்டும். Old-glyph dispute user correction மூலம் reopen செய்யப்பட்டால் முன்னைய `verified` status தானாக authoritative ஆகாது; re-reconciliation தேவை.
 
 ## 5. Drama-specific transcription rules
 
@@ -148,9 +167,10 @@ Do not silently merge a library mark into the literary text.
 5. stamp/bleed-through இருந்தால் print strokes மற்றும் overlay strokes வேறுபடுத்த முயற்சி செய்;
 6. அதே font/glyph வடிவம் வரும் neighbouring pages-ஐ compare செய்;
 7. previous/next page continuation பார்க்கவும்;
-8. user-provided reading இருந்தால் source pixels-க்கு எதிராக verify செய்;
-9. அவசியமெனில் independent secondary witness-ஐ provenance-உடன் corroboration-க்கு மட்டும் பயன்படுத்தலாம்;
-10. secondary witness wording-ஐ controlling scan-க்கு silently import செய்யக்கூடாது.
+8. user-provided reading / first-pass இருந்தால் source pixels-க்கு எதிராக verify செய்; ambiguity இருந்தால் அதை retain செய்வதே default;
+9. user ஒரு proposed correction-ஐ நிராகரித்திருந்தால், semantic expectation கொண்டு அதையே மீண்டும் propose செய்ய வேண்டாம்;
+10. அவசியமெனில் independent secondary witness-ஐ provenance-உடன் corroboration-க்கு மட்டும் பயன்படுத்தலாம்;
+11. secondary witness wording-ஐ controlling scan-க்கு silently import செய்யக்கூடாது.
 
 Processing objective: defensible reading recover செய்யக்கூடிய இடங்களில் unresolved literary-text blocks zero-க்கு கொண்டு வருதல்; fabrication மூலம் அல்ல.
 
@@ -201,6 +221,7 @@ Before a work is considered transcription-complete:
 - page map matches repository files;
 - assembled scenes match page records;
 - no silent normalization is present;
+- first-pass / user-correction discrepancy records are resolved or explicitly documented;
 - non-literary marks are distinguished from printed text;
 - source PDF remains outside the repository.
 
@@ -217,6 +238,15 @@ At the end of each substantial batch, update the work README / `HANDOVER.md` wit
 - files created/updated;
 - next page/scene to process;
 - any source anomalies discovered;
-- verification status.
+- verification status;
+- any user correction that invalidated or reopened an earlier verification gate;
+- whether provisional visual work was performed but **not committed**.
+
+If the repository uses `NEXT_CHAT_PROMPT.md`, update it at the same checkpoint. A new chat/session must:
+
+1. fetch live `main` first and treat it as authoritative;
+2. read this guide, `HANDOVER.md`, and the active-work reconciliation/page-map files completely;
+3. distinguish **durable committed state** from provisional work done in a prior chat but never committed;
+4. never claim a provisional/uncommitted page as verified merely because an earlier chat said it had been inspected.
 
 A new chat/session should be able to continue without guessing prior decisions.
