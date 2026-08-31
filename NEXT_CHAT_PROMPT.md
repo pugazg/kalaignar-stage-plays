@@ -14,7 +14,7 @@ Controlling source PDF: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`
 
 ## Live-state rule
 
-Fetch live GitHub `main` **FIRST** and treat it as authoritative. Scene-1 assembly work began from `7ec8d99c4dc6784ab39fc9144e8eb6a839601b3e`; preserve any newer live state.
+Fetch live GitHub `main` **FIRST** and treat it as authoritative. The Scene-2 page-verification activity began from `c0ca398e4b6583638fdcefe58393f976e06a9c51`; preserve any newer live state.
 
 ## Mandatory startup reading
 
@@ -26,13 +26,14 @@ Read completely before any write:
 4. `works/socrates/INTRO_RECONCILIATION.md`
 5. `works/socrates/SCENE1_PAGE_VERIFICATION.md`
 6. `works/socrates/ASSEMBLY_FIDELITY_REVIEW.md`
-7. `works/socrates/README.md`
-8. `works/socrates/metadata/source.md`
-9. `works/socrates/indexes/page-map.md`
-10. `works/socrates/scenes/01.md`
-11. `works/socrates/pages/0031.md`
-12. `sources/naanmani-malai-tamil/README.md`
-13. `sources/naanmani-malai-tamil/indexes/page-map.md`
+7. `works/socrates/SCENE2_PAGE_VERIFICATION.md`
+8. `works/socrates/README.md`
+9. `works/socrates/metadata/source.md`
+10. `works/socrates/indexes/page-map.md`
+11. `works/socrates/scenes/01.md`
+12. `works/socrates/pages/0032.md`
+13. `sources/naanmani-malai-tamil/README.md`
+14. `sources/naanmani-malai-tamil/indexes/page-map.md`
 
 Then re-fetch live `main` immediately before the first write.
 
@@ -48,14 +49,13 @@ Active work: `சாக்ரடீஸ்`.
 
 - source extent: scans **27–43** / pp.22–38;
 - introductory note scans 27–28: **2/2 verified**;
-- `காட்சி—1` scans 29–31 / pp.24–26: **3/3 final page records verified**;
-- `காட்சி—1` assembled at `scenes/01.md`: **assembly/fidelity PASS**;
-- Scene-1 audit: `ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**;
-- total Socrates page progress: **5/17 verified**;
-- dramatic page progress: **3/15**;
+- `காட்சி—1` scans 29–31: **3/3 verified; assembly/fidelity PASS**;
+- `காட்சி—2` scan 32 / p.27: **1/1 verified; assembly pending**;
+- total Socrates page progress: **6/17 verified**;
+- dramatic page progress: **4/15**;
 - scenes assembled: **1/5**.
 
-Critical Scene-1 controls remain locked: `காணா`, `புலிநிகர்`, `மின்னலப்பா`, `இந்தக் கிண்ணாரக் கிழவருக்கு`, `கஷ்டப்பட`, `நட்டாற்றில்`, `ஏண்டி`, `சுடுகாடு`, `புவனமறியாததல்ல`, `சிரந்தாழ்த்தி`, `உயிரினுமினியவர்`. Do not reintroduce withdrawn preliminary assistant normalizations.
+Scene-2 page gate is recorded in `SCENE2_PAGE_VERIFICATION.md`. Direct scan inspection proved Gemini `கவிஞனாம்` → source `கவிஞனும்` and Gemini `நிபுணனாம்` → source `நிபுணனும்`. Source label spacing, long dash, punctuation runs and final `*` are preserved in `pages/0032.md`.
 
 Permanent old-glyph rule: **retain a plausible Gemini reading unless direct scan evidence is unambiguous. Do not replace it because another spelling/name/grammar looks more familiar.**
 
@@ -63,21 +63,18 @@ The 2009 published-English witness remains secondary and cannot reconstruct Tami
 
 ## Exact next activity
 
-Process **`சாக்ரடீஸ்` `காட்சி—2` scan 32 / printed p.27** as a **page-verification-only** activity.
+Assemble **`சாக்ரடீஸ்` `காட்சி—2` only** from verified `works/socrates/pages/0032.md`.
 
 Requirements:
 
-- use the user-supplied Gemini first-pass as baseline if it is visible in the active chat;
-- visually reconcile scan 32 under the old-glyph rule;
-- preserve exact wording, punctuation, speaker labels, stage directions and physical line boundaries;
-- create `works/socrates/pages/0032.md` only after direct visual verification;
-- record any Gemini discrepancy only when genuinely scan-proven;
-- update work/source page maps and handover after the page gate;
-- expected durable total after success: **6/17 verified**;
-- **do not assemble `காட்சி—2` in the same activity**; its one-page scene assembly/fidelity audit is the following distinct activity;
-- do not begin scan 33 / `காட்சி—3`;
-- do not begin `சேரன் செங்குட்டுவன்`.
+- verified page record `0032.md` is the sole textual authority;
+- mechanically join legitimate print-line splits only;
+- preserve exact wording, punctuation, speaker-label spacing, repetitions, stage directions, source-sensitive forms and the final `*`;
+- create the assembled Scene-2 file under `works/socrates/scenes/`;
+- extend/create the page-record ↔ scene fidelity audit and require PASS before advancing;
+- **do not start scan 33 / `காட்சி—3` in the same activity**;
+- do not start `சேரன் செங்குட்டுவன்`.
 
-If the original Gemini first-pass segment for scan 32 is not visible in a fresh chat and no durable baseline exists, ask for only that relevant segment rather than reconstructing it from memory.
+After Scene-2 assembly/fidelity PASS, the next distinct activity is `காட்சி—3` page verification at scan **33** / printed p.28.
 
 When I say **“Proceed with next activity”**, execute this exact activity directly without asking me to choose a routine next step.
