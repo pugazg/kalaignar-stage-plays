@@ -27,9 +27,10 @@ Scene 4 preserves the source `சேர்!` label variant, `புறப்ப�
 - scan **1 / illustrated front cover** — **verified** at [`pages/0001.md`](pages/0001.md);
 - scan **2 / title page** — **verified** at [`pages/0002.md`](pages/0002.md);
 - scan **3 / copyright-imprint page** — **verified** at [`pages/0003.md`](pages/0003.md);
-- scan 3 preserves **`© பதிப்புரிமை`**, **`விலை ரூ. 4/-`**, **`அச்சிட்டோர் :`**, and **`ஜெம் பிரஸ், சென்னை - 600 001.`** exactly as printed;
-- scan 3 contains no visible printed pagination, publication year, library stamp, accession mark or later handwriting; faint reverse-side show-through is non-authorial;
+- scan **4 / `என்னுரை`** — **verified** at [`pages/0004.md`](pages/0004.md);
+- scan 4 uses the user-supplied words unchanged; direct scan comparison controls heading, punctuation, spaces before exclamation marks, physical lines, display-style emphasis and the printed facsimile-signature area;
+- the supplied trailing `5` after `அன்புள்ள` is not a separate printed textual digit and is not transcribed;
 - scan **54 / illustrated back cover** — **verified** at [`pages/0054.md`](pages/0054.md);
-- shared front-matter scans **4–5** still require page-level archival records.
+- shared front matter has one remaining page-level verification task: **scan 5 / `பதிப்புரை`**.
 
-Next source-sequential activity: process **scan 4 / `என்னுரை` only** as a page-level archival transcription for the composite source. Do not process scan 5 or begin another work in the same activity.
+Next source-sequential activity: process **scan 5 / `பதிப்புரை` only** using the user-supplied lexical transcription as baseline and direct scan comparison for punctuation, paragraph/line structure and source marks. Do not begin another work in the same activity.
