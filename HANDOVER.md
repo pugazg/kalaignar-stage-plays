@@ -23,7 +23,6 @@ Controlling Tamil extent:
 
 - scans **44–53**;
 - printed pp. **39–48**;
-- printed title: **சேரன் செங்குட்டுவன்**;
 - source-printed dramatic scenes: **4**;
 - 2009 published-English witness: **secondary only**.
 
@@ -31,75 +30,61 @@ Controlling Tamil extent:
 
 The user supplied a Gemini word-to-word first pass covering the Cheran source extent.
 
-For Cheran, follow the permanent source-first old-glyph policy:
-
 - Gemini is a comparison baseline, not the controlling authority;
 - the Tamil scan is controlling;
-- do not change a plausible first-pass reading merely because a modern spelling, grammar or semantic form seems more familiar;
-- if the scan is unambiguous, use the scan-supported form and document the difference;
+- do not change a plausible first-pass reading merely because modern spelling, grammar or semantics suggest another form;
+- use unambiguous scan evidence when it differs and document the difference;
 - do not use the English witness to reconstruct Tamil.
 
 ### `காட்சி — 1` — COMPLETE
 
-Source extent: scans **44–45** / printed pp.39–40.
+Scans **44–45** / printed pp.39–40: **2/2 verified**, `scenes/01.md` assembled, fidelity **PASS**.
 
-Durable artifacts:
-
-- `works/cheran-senguttuvan/pages/0044.md` — **verified**;
-- `works/cheran-senguttuvan/pages/0045.md` — **verified**;
-- `works/cheran-senguttuvan/SCENE1_PAGE_VERIFICATION.md` — **2/2 PASS / COMPLETE**;
-- `works/cheran-senguttuvan/scenes/01.md` — **assembly-reviewed**;
-- `works/cheran-senguttuvan/SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**.
-
-### `காட்சி — 2` — PAGE GATE IN PROGRESS
+### `காட்சி — 2` — PAGE GATE COMPLETE
 
 Source extent: scans **46–49** / printed pp.41–44.
 
-Current durable state:
+Durable state:
 
-- `works/cheran-senguttuvan/pages/0046.md` — scan **46** / p.41 — **verified**;
-- `works/cheran-senguttuvan/pages/0047.md` — scan **47** / p.42 — **verified**;
-- `works/cheran-senguttuvan/pages/0048.md` — scan **48** / p.43 — **verified**;
-- `works/cheran-senguttuvan/SCENE2_PAGE_VERIFICATION.md` — **3/4 PASS**;
-- scan **49** — not processed;
-- Scene-2 assembly — blocked until 4/4 pages are verified.
+- `works/cheran-senguttuvan/pages/0046.md` — verified;
+- `works/cheran-senguttuvan/pages/0047.md` — verified;
+- `works/cheran-senguttuvan/pages/0048.md` — verified;
+- `works/cheran-senguttuvan/pages/0049.md` — verified;
+- `works/cheran-senguttuvan/SCENE2_PAGE_VERIFICATION.md` — **4/4 PASS / COMPLETE**;
+- Scene-2 assembly — **not yet performed**.
 
-Scan-48 controls include:
+Important locked Scene-2 controls:
 
-- continuation of the same recitation with no new speaker label or heading;
-- source long dashes throughout the narrative sequence;
-- source `சாவிலே வீழ்ந்துவிட்டான்—` rather than Gemini `சாவிலே வீழ்ந்து விட்டான் -`;
-- source `மண் தானே? இனி இது தூங்காத / கண் தானே?` rather than Gemini `மண்தானோ? இனிஇது தூங்காத / கண்தானோ?`;
-- source punctuation `நாட்டுக்கே அன்றி,`;
-- enlarged-scan reading `தமிழ்நாட்டுமாதரசு` rather than Gemini `தமிழ்நாட்டுமாதரக`;
-- plausible first-pass `சோகத்தாள்` retained under the old-glyph safeguard rather than normalized by grammar or semantics;
-- no scene-closing `*` on scan 48.
+- scan 46: `ஓர் களத்தில்,` is after `அந்நாளில்`; plausible old-glyph `தன் மகனை / யும்` retained;
+- scan 47: source `“நடந்திடுக கண்ணே” என்றாள்!`, long dashes, `வாழ்த்துகள் வழங்கினர்!`;
+- scan 48: source `மண் தானே?`, `கண் தானே?`, `தமிழ்நாட்டுமாதரசு`; plausible `சோகத்தாள்` retained;
+- scan 49: source long dashes; a separate printed `பூண்டார்!` absent from Gemini is restored; source `வெள்ளிமாடத்திற்கு`, `வந்திருக்கிறேனே`, and `காலத்திலே` retained;
+- **none of scans 46–49 contains a scene-closing `*`**.
 
 Current Cheran progress:
 
-- Tamil pages verified: **5/10**;
+- Tamil pages verified: **6/10**;
 - Scene-1 assembly/fidelity: **PASS**;
-- Scene-2 page gate: **3/4**;
-- scenes assembled from verified Tamil: **1/4**.
+- Scene-2 page gate: **4/4 COMPLETE**;
+- scenes assembled from verified Tamil: **1/4**;
+- scan 50: **not processed**.
 
 ## Exact next activity
 
-Process **`சேரன் செங்குட்டுவன்` scan 49 / printed p.44 only** as the closing-page verification activity for `காட்சி — 2`.
+Assemble **`சேரன் செங்குட்டுவன்` `காட்சி — 2` only** from verified page records `works/cheran-senguttuvan/pages/0046.md`–`0049.md`.
 
 Requirements:
 
-- fetch live `main` first and read the permanent guide/current handover/work/source state;
-- inspect scan 49 directly from the controlling PDF;
-- use the user-supplied Gemini first-pass as comparison baseline;
-- preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and final source marks;
-- apply the old-glyph safeguard: do not replace a plausible Gemini reading merely from modern spelling/grammar/semantics;
-- create `works/cheran-senguttuvan/pages/0049.md` only after direct verification;
-- update `SCENE2_PAGE_VERIFICATION.md`, page maps, README/source metadata and handover after verification;
-- expected durable page progress after success: **6/10**, Scene-2 gate **4/4 COMPLETE**;
-- preserve any scene-closing `*` exactly if present;
-- do **not** assemble Scene 2 in the same activity;
-- do **not** begin scan 50 in the same activity;
-- do **not** use the English witness to fill Tamil gaps.
+- fetch live `main` first;
+- treat the four verified page records as the sole textual authority for assembly;
+- mechanically join only legitimate physical print-line/page-boundary breaks;
+- preserve wording, punctuation, speaker-label variants, stage directions and verified source reconciliations;
+- do not invent a closing `*` because none exists on scans 46–49;
+- create the Scene-2 assembled file using repository naming conventions;
+- run a page-record ↔ scene fidelity audit and require PASS;
+- update work/source/readme/page-map/handover state only after fidelity PASS;
+- do **not** process scan 50 / begin `காட்சி—3.` in the same activity;
+- do **not** use the English witness to reconstruct Tamil.
 
 ## Permanent safeguards
 
