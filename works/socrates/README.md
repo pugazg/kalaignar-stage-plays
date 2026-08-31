@@ -7,7 +7,7 @@ Work-level archival entry for Kalaignar's one-act play **`சாக்ரடீ�
 - controlling Tamil source: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`;
 - work extent: scans **27–43** / printed pp. **22–38**;
 - introductory note scans **27–28**: **2/2 verified after user-directed re-reconciliation**;
-- `காட்சி—1` scans **29–31**: **3/3 page records verified**;
+- `காட்சி—1` scans **29–31**: **3/3 page records verified after final Gemini/source reconciliation**;
 - total Tamil page verification: **5/17**;
 - dramatic-body pages verified: **3/15**;
 - source-printed dramatic scenes: **5**;
@@ -25,7 +25,9 @@ Scene map:
 
 The user-established rule remains permanent: retain a plausible Gemini/old-glyph reading unless direct scan evidence is unambiguous; never normalize by spelling familiarity, grammar, proper-name expectation or sentence meaning.
 
-Intro corrections remain recorded in [`INTRO_RECONCILIATION.md`](INTRO_RECONCILIATION.md). Scene-1 page verification is recorded in [`SCENE1_PAGE_VERIFICATION.md`](SCENE1_PAGE_VERIFICATION.md).
+Intro corrections remain recorded in [`INTRO_RECONCILIATION.md`](INTRO_RECONCILIATION.md). The final Scene-1 page verification/reconciliation is recorded in [`SCENE1_PAGE_VERIFICATION.md`](SCENE1_PAGE_VERIFICATION.md).
+
+The Scene-1 page gate was re-opened after the user supplied the original Gemini first-pass. Final controls include `காணா`, `புலிநிகர்`, `மின்னலப்பா`, `இந்தக் கிண்ணாரக் கிழவருக்கு`, `கஷ்டப்பட`, `நட்டாற்றில்`, `ஏண்டி`, `சுடுகாடு`, and `உயிரினுமினியவர்`. Withdrawn preliminary assistant substitutions must not be reintroduced.
 
 The 2009 published-English witness remains secondary and cannot control Tamil.
 
@@ -41,4 +43,4 @@ The scan 29→30 continuation must remain provenance-safe: scan 29 ends `...எ�
 
 ## Next activity
 
-Assemble **`காட்சி—1` only** from the three verified page records and run the page-record ↔ scene fidelity audit. Do not begin `காட்சி—2` / scan 32 in the same activity.
+Assemble **`காட்சி—1` only** from the three final re-reconciled verified page records and run the page-record ↔ scene fidelity audit. Do not begin `காட்சி—2` / scan 32 in the same activity.
