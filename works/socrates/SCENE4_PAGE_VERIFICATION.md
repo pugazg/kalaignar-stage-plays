@@ -9,9 +9,10 @@ Scene-4 extent: scans **34–39** / printed pp.29–34.
 Verified so far:
 
 - scan **34** / p.29 — opening — `pages/0034.md`;
-- scan **35** / p.30 — continuation — `pages/0035.md`.
+- scan **35** / p.30 — continuation — `pages/0035.md`;
+- scan **36** / p.31 — continuation — `pages/0036.md`.
 
-No scan 36 work and no Scene-4 assembly are performed in the scan-35 activity.
+No scan 37 work and no Scene-4 assembly are performed in the scan-36 activity.
 
 ## Result
 
@@ -19,12 +20,13 @@ No scan 36 work and no Scene-4 assembly are performed in the scan-35 activity.
 |---:|---:|---|---|
 | 34 | 29 | `காட்சி—4` opening | **PASS / verified** |
 | 35 | 30 | `காட்சி—4` continuation | **PASS / verified** |
+| 36 | 31 | `காட்சி—4` continuation | **PASS / verified** |
 
-`காட்சி—4` source-page gate: **2/6 verified**.
+`காட்சி—4` source-page gate: **3/6 verified**.
 
 ## User-directed lexical / visual rule
 
-The active user instruction controls both verified Scene-4 pages:
+The active user instruction controls all verified Scene-4 pages:
 
 - **words:** retain the supplied Gemini first-pass;
 - **scan:** use direct visual evidence for scene heading where present, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks.
@@ -34,73 +36,61 @@ No assistant lexical normalization is introduced from spelling familiarity, gram
 ## Scan 34 controls
 
 - heading `காட்சி — 4`, with spaces around the long dash and no terminal period;
-- speaker-label spacing `அனி :` and `நீதிமன்றத் தலைவர் :`;
-- the English printed form `'Hedge Log'` and its surrounding punctuation;
-- source long-dash/punctuation usage;
-- physical source lines retained;
+- source speaker-label spacing;
+- source punctuation/dash usage and physical lines;
 - no Scene-4 closing `*`.
 
 ## Scan 35 controls
 
-The verified continuation preserves Gemini lexical words while taking non-lexical evidence from the scan.
+- Gemini lexical wording retained, including `செடுக்கிறேனா`;
+- scan-controlled labels `சாக் :`, `மெலி :`, `நீதி :`, `சார் :`, `அனி :`;
+- scan punctuation/dashes and physical lines retained;
+- no Scene-4 closing `*`.
+
+## Scan 36 controls
+
+The verified continuation retains Gemini lexical words while taking non-lexical evidence from the scan.
 
 Speaker-label spacing:
 
-- `சாக் :`;
 - `மெலி :`;
-- `நீதி :`;
-- `சார் :`;
-- `அனி :`.
+- `சாக் :`.
 
 Important scan-controlled punctuation/dash evidence includes:
 
-- `தலைவ!.......`;
-- `அனிடஸ் —`;
-- `நினைத்தேன்—சிரித்தேன்!`;
-- `எனக்கும்—அனிடசுக்`;
-- `கும்!....இல்லையா`;
-- `சபையோர்களே!....என்ன`;
-- `சாக்ரடீஸ்!....வழக்கும்`;
-- `அல்ல! ...அதை`;
-- `மெலிடஸ்!....ஆனால் ஒன்று!....எண்சாண்`;
-- `போல்....இந்த`;
-- `அறிவு—அதை`;
-- `கற்பனைகள்-அனிடசின்`;
-- `ஆணவம்—` and `போராட்டம்—அதன்`;
-- `காட்டலாம்—ஆனால்`;
-- `நீர்!........`;
-- `சொல்வாய் !........அன்புள்ள`;
-- `இளைஞனே!....`.
+- `கெடுக்கிறீர்!........சந்தை`;
+- `கெடுக்கிறேன்....இல்லையா?`;
+- `தவிர!....`;
+- `ஆமாம்—ஆமாம்!`;
+- `இவ்வளவு பேரும்—ஏன்—ஏதென்சு`;
+- `முடியுமா?........`;
+- `விஷம்!... ....`;
+- `சொல்லலாமே....இருண்ட`;
+- `ஒளிவிளக்கு!....`;
+- `என்றால்—அந்தப்`;
+- `பெருமை!....`;
+- `சபையோர்களே!....`;
+- `கருத்துக்கள் — தரங்குறையாத கொள்கைகள் — இந்தத்`;
+- final `எண்ணங்கள்!........`.
 
-Gemini's lexical `செடுக்கிறேனா` is retained exactly; the scan is not used to replace it under the user's current rule.
+Gemini's lexical `எல்லாரும்` is retained exactly; the scan is not used to replace lexical wording under the user's current rule.
 
-## Physical-line controls
+Physical source lines are retained, including `அனிட / சின்` and `அள / வுக்கு`.
 
-Scan 34 important physical splits include `பெஞ்சு / களில்`, `பலகை / கள்`, `சாட்சி / களும்`, `குற்றப்பத்திரி / கைகள்`, `குற்றப் பத்திரிகை- / களைக்`, `ஒத்துக்கொள்வ / தில்லை`, `முயலு / கிறான்`, and `இழிகுணக் / கிழவன்`.
-
-Scan 35 important physical splits include:
-
-- `அனிடசுக் / கும்`;
-- `விரும்பு / கிறேன்`;
-- `வழக்கிற் / கும்`;
-- `தலையிலே / யிருந்து`;
-- `அவமதிக் / கிறான்`;
-- `கெடுத் / தான்`;
-- `அலங் / காரம்`;
-- `இப் / படிப்பல`.
+Scan 36 contains no Scene-4 closing `*`.
 
 ## Integrity checkpoint
 
-- source scans directly inspected: **2/2**;
+- source scans directly inspected: **3/3**;
 - Gemini lexical baseline retained: **yes**;
 - assistant lexical substitutions introduced: **0**;
-- page records verified: **2/2**;
-- Scene-4 pages verified: **2/6**;
-- total Socrates pages verified: **9/17**;
-- dramatic-body pages verified: **7/15**;
+- page records verified: **3/3**;
+- Scene-4 pages verified: **3/6**;
+- total Socrates pages verified: **10/17**;
+- dramatic-body pages verified: **8/15**;
 - scene assembly performed: **No**;
-- scan 36 processed: **No**.
+- scan 37 processed: **No**.
 
 ## Next activity
 
-Verify **scan 36 / printed p.31 only** as the next `காட்சி—4` continuation page under the same Gemini-words / scan-typography rule. Do not process scan 37 or assemble Scene 4 in that same activity.
+Verify **scan 37 / printed p.32 only** as the next `காட்சி—4` continuation page under the same Gemini-words / scan-typography rule. Do not process scan 38 or assemble Scene 4 in that same activity.
