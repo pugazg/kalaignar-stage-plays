@@ -8,9 +8,9 @@
 | 47 | 42 | `காட்சி — 2` continuation | assembly-reviewed | Scene-2 assembly/fidelity PASS. |
 | 48 | 43 | `காட்சி — 2` continuation | assembly-reviewed | Scene-2 assembly/fidelity PASS. |
 | 49 | 44 | `காட்சி — 2` closing | assembly-reviewed | Scene-2 assembly/fidelity PASS; no closing `*`. |
-| 50 | 45 | `காட்சி—3.` opening | verified | Scene-3 page gate; source name-sequence/punctuation controls and old-glyph safeguard recorded. |
-| 51 | 46 | `காட்சி—3.` closing | verified | Scene-3 page gate 2/2 COMPLETE; continues `சேரன்:` speech; centered closing `*` retained. |
-| 52–53 | 47–48 | final scene | not-started | Structural survey only; scan 52 not processed. |
+| 50 | 45 | `காட்சி—3.` opening | assembly-reviewed | Scene-3 assembly/fidelity PASS; source heading/setting, name sequence, punctuation and old-glyph safeguard preserved. |
+| 51 | 46 | `காட்சி—3.` closing | assembly-reviewed | Scene-3 assembly/fidelity PASS; continues `சேரன்:` speech; centered closing `*` retained. |
+| 52–53 | 47–48 | final scene | not-started | Scan 52 / p.47 is next. |
 
 ## Current checkpoint
 
@@ -18,9 +18,9 @@
 - Tamil pages verified: **8/10**;
 - `காட்சி — 1` page gate + assembly/fidelity: **PASS**;
 - `காட்சி — 2` page gate + assembly/fidelity: **PASS**;
-- `காட்சி—3.` page gate: **2/2 COMPLETE** (`../pages/0050.md`–`../pages/0051.md`; `../SCENE3_PAGE_VERIFICATION.md`);
+- `காட்சி—3.` page gate + assembly/fidelity: **PASS** (`../scenes/03.md`; `../SCENE3_ASSEMBLY_FIDELITY_REVIEW.md`);
 - source-printed scenes: **4**;
-- scenes assembled from verified Tamil: **2/4**.
+- scenes assembled from verified Tamil: **3/4**.
 
 ## First-pass / source rule
 
@@ -28,4 +28,4 @@ The user-supplied Gemini first pass is a comparison baseline. The Tamil scan rem
 
 ## Next activity
 
-Assemble **`காட்சி—3.` only** from verified pages 0050–0051, preserve the scan-51 closing `*`, and run the page-record ↔ scene fidelity audit. Do not process scan 52 in the same activity.
+Verify **scan 52 / printed p.47 only** as the opening page of the final scene. Do not process scan 53 or assemble the final scene in the same activity.
