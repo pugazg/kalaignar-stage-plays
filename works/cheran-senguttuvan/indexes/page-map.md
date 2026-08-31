@@ -8,17 +8,19 @@
 | 47 | 42 | `காட்சி — 2` continuation | assembly-reviewed | Scene-2 assembly/fidelity PASS. |
 | 48 | 43 | `காட்சி — 2` continuation | assembly-reviewed | Scene-2 assembly/fidelity PASS. |
 | 49 | 44 | `காட்சி — 2` closing | assembly-reviewed | Scene-2 assembly/fidelity PASS; no closing `*`. |
-| 50 | 45 | `காட்சி—3.` opening | assembly-reviewed | Scene-3 assembly/fidelity PASS; source heading/setting, name sequence, punctuation and old-glyph safeguard preserved. |
-| 51 | 46 | `காட்சி—3.` closing | assembly-reviewed | Scene-3 assembly/fidelity PASS; continues `சேரன்:` speech; centered closing `*` retained. |
-| 52–53 | 47–48 | final scene | not-started | Scan 52 / p.47 is next. |
+| 50 | 45 | `காட்சி—3.` opening | assembly-reviewed | Scene-3 assembly/fidelity PASS. |
+| 51 | 46 | `காட்சி—3.` closing | assembly-reviewed | Scene-3 assembly/fidelity PASS; centered closing `*` retained. |
+| 52 | 47 | `காட்சி—4.` opening | verified | Final-scene page gate 1/2; source heading/setting, stage-direction order, label punctuation and long dashes recorded. |
+| 53 | 48 | `காட்சி—4.` closing | not-started | Next activity. |
 
 ## Current checkpoint
 
 - controlling Tamil extent: scans **44–53** / printed pp.39–48;
-- Tamil pages verified: **8/10**;
+- Tamil pages verified: **9/10**;
 - `காட்சி — 1` page gate + assembly/fidelity: **PASS**;
 - `காட்சி — 2` page gate + assembly/fidelity: **PASS**;
-- `காட்சி—3.` page gate + assembly/fidelity: **PASS** (`../scenes/03.md`; `../SCENE3_ASSEMBLY_FIDELITY_REVIEW.md`);
+- `காட்சி—3.` page gate + assembly/fidelity: **PASS**;
+- `காட்சி—4.` page gate: **1/2** (`../pages/0052.md`; `../SCENE4_PAGE_VERIFICATION.md`);
 - source-printed scenes: **4**;
 - scenes assembled from verified Tamil: **3/4**.
 
@@ -28,4 +30,4 @@ The user-supplied Gemini first pass is a comparison baseline. The Tamil scan rem
 
 ## Next activity
 
-Verify **scan 52 / printed p.47 only** as the opening page of the final scene. Do not process scan 53 or assemble the final scene in the same activity.
+Verify **scan 53 / printed p.48 only** as the closing page of `காட்சி—4.`. Preserve any final source mark exactly if present. Do not assemble the final scene in the same activity.
