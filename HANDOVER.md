@@ -27,25 +27,28 @@ Completed Cheran Scene-4 locked controls include source `காட்சி—4.
 - scan **1 / illustrated front cover** is **verified** at `sources/naanmani-malai-tamil/pages/0001.md`;
 - scan **2 / title page** is **verified** at `sources/naanmani-malai-tamil/pages/0002.md`;
 - scan **3 / copyright-imprint page** is **verified** at `sources/naanmani-malai-tamil/pages/0003.md`;
-- scan 3 preserves exact printed forms `© பதிப்புரிமை`, `விலை ரூ. 4/-`, `அச்சிட்டோர் :`, and `ஜெம் பிரஸ், சென்னை - 600 001.`;
-- scan 3 has no visible printed pagination or publication year and no obvious library stamp, accession mark or later handwriting; faint reverse-side show-through is non-authorial;
+- scan **4 / `என்னுரை`** is **verified** at `sources/naanmani-malai-tamil/pages/0004.md`;
+- for scan 4, the user-supplied words are locked as the lexical baseline; source inspection controls heading, punctuation/spacing, physical line structure, typography and source marks only;
+- verified scan-4 punctuation includes spaces before `!` in `மாலை !`, `மாலையாக !`, `கேட்டது !`, `படித்தது !`, and `நடித்தது !`;
+- the closing `அன்புள்ள` is followed by a printed facsimile signature; the supplied trailing `5` is not a separate printed textual digit and was not transcribed;
 - scan **54 / illustrated back cover** is **verified** at `sources/naanmani-malai-tamil/pages/0054.md`;
-- shared front-matter scans **4–5** remain pending at page level;
+- the only remaining shared front-matter page-level task is **scan 5 / `பதிப்புரை`**;
 - source PDF remains external to the repository.
 
 ## Exact next activity
 
-Process **scan 4 / `என்னுரை` only** from `TVA_BOK_0065576_நான்மணி_மாலை.pdf` as a page-level archival transcription for the composite Tamil source.
+Process **scan 5 / `பதிப்புரை` only** from `TVA_BOK_0065576_நான்மணி_மாலை.pdf` as the final shared-front-matter page-level archival transcription.
+
+The user has already supplied a lexical transcription for scan 5 in the current conversation. Use those **words as the baseline and keep them**. Direct scan comparison should control only heading, punctuation, hyphens/dashes, quotation marks, paragraph/physical line structure, signature/imprint treatment, and other source marks unless the user separately authorizes lexical changes.
 
 Requirements:
 
 - fetch live `main` first;
-- inspect scan 4 directly from the controlling PDF;
-- transcribe only what the source visibly supports, preserving heading, wording, punctuation, paragraph structure, signatures/dates if printed, and physical line distinctions where relevant;
+- inspect scan 5 directly from the controlling PDF;
+- preserve the user-supplied words;
+- create `sources/naanmani-malai-tamil/pages/0005.md` only after direct visual verification;
 - distinguish printed publication text from library marks, later handwriting, stamps, damage, bleed-through or other non-authorial marks;
-- create `sources/naanmani-malai-tamil/pages/0004.md` only after direct visual verification;
 - update the composite source page map, source metadata/README, root README, handover and next-chat checkpoint after verification;
-- do **not** process scan 5 in the same activity;
 - do **not** reopen any completed dramatic work;
 - do **not** begin another work in the same activity.
 
