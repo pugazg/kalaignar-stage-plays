@@ -7,11 +7,11 @@
 - Printed pages: **39–48**
 - Printed title: **சேரன் செங்குட்டுவன்**
 - Source collection: **கலைஞரின் நான்மணி மாலை**
-- Tamil page-level verification: **8/10**
+- Tamil page-level verification: **9/10**
 - `காட்சி — 1` page gate + assembly/fidelity: **PASS**
 - `காட்சி — 2` page gate + assembly/fidelity: **PASS**
-- `காட்சி—3.` page gate: **2/2 COMPLETE** (`../pages/0050.md`–`../pages/0051.md`; `../SCENE3_PAGE_VERIFICATION.md`)
-- `காட்சி—3.` assembly/fidelity: **PASS** (`../scenes/03.md`; `../SCENE3_ASSEMBLY_FIDELITY_REVIEW.md`)
+- `காட்சி—3.` page gate + assembly/fidelity: **PASS**
+- `காட்சி—4.` page gate: **1/2** (`../pages/0052.md`; `../SCENE4_PAGE_VERIFICATION.md`)
 - Source-printed dramatic scenes: **4**
 - Scene assembly completed from verified Tamil: **3/4**
 
@@ -23,6 +23,17 @@ The Tamil scan is controlling. The user-supplied Gemini transcription is a compa
 
 - Scene 1: scans **44–45** / pp.39–40 — page gate + assembly/fidelity **PASS**.
 - Scene 2: scans **46–49** / pp.41–44 — page gate + assembly/fidelity **PASS**.
-- Scene 3: scans **50–51** / pp.45–46 — page gate + assembly/fidelity **PASS**; centered closing `*` retained.
+- Scene 3: scans **50–51** / pp.45–46 — page gate + assembly/fidelity **PASS**.
 
-Next activity: verify scan **52** / printed p.47 only as the opening page of the final scene. Do not process scan 53 or assemble the final scene in the same activity.
+## Active final scene
+
+Scene 4 spans scans **52–53** / printed pp.47–48.
+
+- scan **52** / p.47 — **verified**;
+- scan **53** / p.48 — not processed;
+- final-scene page gate: **1/2**;
+- assembly blocked until 2/2.
+
+Scan-52 controls include `காட்சி—4.`, `குயிலாலுவம்`, source-order opening stage direction, exact speaker-label punctuation variants, source long dashes, `ராம ராவணப் போர்?....`, and no closing `*`.
+
+Next activity: verify scan **53** / printed p.48 only. Do not assemble the final scene in the same activity.
