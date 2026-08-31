@@ -10,9 +10,10 @@ Verified so far:
 
 - scan **34** / p.29 — opening — `pages/0034.md`;
 - scan **35** / p.30 — continuation — `pages/0035.md`;
-- scan **36** / p.31 — continuation — `pages/0036.md`.
+- scan **36** / p.31 — continuation — `pages/0036.md`;
+- scan **37** / p.32 — continuation — `pages/0037.md`.
 
-No scan 37 work and no Scene-4 assembly are performed in the scan-36 activity.
+No scan 38 work and no Scene-4 assembly are performed in the scan-37 activity.
 
 ## Result
 
@@ -21,8 +22,9 @@ No scan 37 work and no Scene-4 assembly are performed in the scan-36 activity.
 | 34 | 29 | `காட்சி—4` opening | **PASS / verified** |
 | 35 | 30 | `காட்சி—4` continuation | **PASS / verified** |
 | 36 | 31 | `காட்சி—4` continuation | **PASS / verified** |
+| 37 | 32 | `காட்சி—4` continuation | **PASS / verified** |
 
-`காட்சி—4` source-page gate: **3/6 verified**.
+`காட்சி—4` source-page gate: **4/6 verified**.
 
 ## User-directed lexical / visual rule
 
@@ -49,48 +51,55 @@ No assistant lexical normalization is introduced from spelling familiarity, gram
 
 ## Scan 36 controls
 
+- Gemini lexical wording retained, including `எல்லாரும்`;
+- scan-controlled labels `மெலி :` and `சாக் :`;
+- scan punctuation/dashes and physical lines retained;
+- no Scene-4 closing `*`.
+
+## Scan 37 controls
+
 The verified continuation retains Gemini lexical words while taking non-lexical evidence from the scan.
 
 Speaker-label spacing:
 
-- `மெலி :`;
+- `நீதி :`;
 - `சாக் :`.
 
 Important scan-controlled punctuation/dash evidence includes:
 
-- `கெடுக்கிறீர்!........சந்தை`;
-- `கெடுக்கிறேன்....இல்லையா?`;
-- `தவிர!....`;
-- `ஆமாம்—ஆமாம்!`;
-- `இவ்வளவு பேரும்—ஏன்—ஏதென்சு`;
-- `முடியுமா?........`;
-- `விஷம்!... ....`;
-- `சொல்லலாமே....இருண்ட`;
-- `ஒளிவிளக்கு!....`;
-- `என்றால்—அந்தப்`;
-- `பெருமை!....`;
-- `சபையோர்களே!....`;
-- `கருத்துக்கள் — தரங்குறையாத கொள்கைகள் — இந்தத்`;
-- final `எண்ணங்கள்!........`.
+- `மல்லவே—அனிடசும்`;
+- `அவர்களும்—பாவம்`;
+- `அல்ல—எண்ணத்தில்`;
+- `செய்பவன்—விண்ணிலும்`;
+- `நாத்திகன்—`;
+- `புரட்டன்—இப்படியெல்லாம்`;
+- `பட்டங்கள்—குற்றச்சாட்டுகள்`;
+- `வருடங்களில்—சில`;
+- `மாதங்களில்—அவர்களது`;
+- `மரண தண்டனை—சிறை`;
+- `வாசம்—நாடு கடத்தல்—அபராதம் வசூலித்தல்—இப்படிப்`;
+- `நடைபெற்றதே—அதில்`.
 
-Gemini's lexical `எல்லாரும்` is retained exactly; the scan is not used to replace lexical wording under the user's current rule.
+Gemini lexical forms including `இன்னும` and `கொன்றோம்என்ற` are retained exactly; scan evidence is not used to rewrite them.
 
-Physical source lines are retained, including `அனிட / சின்` and `அள / வுக்கு`.
+Physical source lines include `பார்க் / கட்டுமே`, `துடி / யாய்த்`, and `சபை / யின்`.
 
-Scan 36 contains no Scene-4 closing `*`.
+Scan 37 ends mid-Socrates utterance at `மரண தண்டனை`; the continuation begins on scan 38 and is not imported into `pages/0037.md`.
+
+Scan 37 contains no Scene-4 closing `*`.
 
 ## Integrity checkpoint
 
-- source scans directly inspected: **3/3**;
+- source scans directly inspected: **4/4**;
 - Gemini lexical baseline retained: **yes**;
 - assistant lexical substitutions introduced: **0**;
-- page records verified: **3/3**;
-- Scene-4 pages verified: **3/6**;
-- total Socrates pages verified: **10/17**;
-- dramatic-body pages verified: **8/15**;
+- page records verified: **4/4**;
+- Scene-4 pages verified: **4/6**;
+- total Socrates pages verified: **11/17**;
+- dramatic-body pages verified: **9/15**;
 - scene assembly performed: **No**;
-- scan 37 processed: **No**.
+- scan 38 processed: **No**.
 
 ## Next activity
 
-Verify **scan 37 / printed p.32 only** as the next `காட்சி—4` continuation page under the same Gemini-words / scan-typography rule. Do not process scan 38 or assemble Scene 4 in that same activity.
+Verify **scan 38 / printed p.33 only** as the next `காட்சி—4` continuation page under the same Gemini-words / scan-typography rule. Do not process scan 39 or assemble Scene 4 in that same activity.
