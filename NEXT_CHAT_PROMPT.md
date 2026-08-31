@@ -24,9 +24,9 @@ Before any write, read completely:
 4. `works/cheran-senguttuvan/README.md`
 5. `works/cheran-senguttuvan/metadata/source.md`
 6. `works/cheran-senguttuvan/indexes/page-map.md`
-7. `works/cheran-senguttuvan/SCENE1_PAGE_VERIFICATION.md`
-8. `works/cheran-senguttuvan/SCENE1_ASSEMBLY_FIDELITY_REVIEW.md`
-9. `works/cheran-senguttuvan/scenes/01.md`
+7. `works/cheran-senguttuvan/SCENE2_PAGE_VERIFICATION.md`
+8. `works/cheran-senguttuvan/pages/0046.md`
+9. `works/cheran-senguttuvan/SCENE1_ASSEMBLY_FIDELITY_REVIEW.md`
 10. `sources/naanmani-malai-tamil/README.md`
 11. `sources/naanmani-malai-tamil/indexes/page-map.md`
 
@@ -37,6 +37,7 @@ Then re-fetch live `main` immediately before the first write.
 - `பரதாயணம்` — Tamil archive/assembly PASS; independent English translation PASS.
 - `அனார்கலி` — Tamil page/assembly fidelity PASS.
 - `சாக்ரடீஸ்` — **17/17 pages verified; 5/5 scenes assembled; all fidelity gates PASS**.
+- `சேரன் செங்குட்டுவன்` `காட்சி — 1` — **2/2 pages verified; assembly/fidelity PASS**.
 
 ## Active work — `சேரன் செங்குட்டுவன்`
 
@@ -48,22 +49,17 @@ Controlling extent:
 
 Current durable progress:
 
-- scans **44–45 / pp.39–40** — verified;
-- `காட்சி — 1` page gate: **2/2 COMPLETE**;
-- `காட்சி — 1` assembly/fidelity: **PASS**;
-- Tamil pages verified: **2/10**;
+- Tamil pages verified: **3/10**;
 - scenes assembled: **1/4**;
-- scan 46: **not processed**.
+- `காட்சி — 2` source extent: scans **46–49** / pp.41–44;
+- scan **46 / p.41** — **verified**;
+- Scene-2 page gate: **1/4**;
+- scans **47–49** — not processed.
 
-Scene-1 durable artifacts:
+Scene-2 durable files:
 
-- `works/cheran-senguttuvan/pages/0044.md`;
-- `works/cheran-senguttuvan/pages/0045.md`;
-- `works/cheran-senguttuvan/SCENE1_PAGE_VERIFICATION.md`;
-- `works/cheran-senguttuvan/scenes/01.md`;
-- `works/cheran-senguttuvan/SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**.
-
-The completed assembly uses verified page records only, retains the pre-scene voice-over and `காட்சி — 1` heading, introduces no assistant lexical substitutions and does not invent a closing `*`.
+- `works/cheran-senguttuvan/pages/0046.md`;
+- `works/cheran-senguttuvan/SCENE2_PAGE_VERIFICATION.md`.
 
 ## First-pass / source rule
 
@@ -75,19 +71,30 @@ The user supplied a Gemini word-to-word first pass covering the Cheran source ex
 - change the first pass only when scan evidence is unambiguous, and document the difference;
 - the 2009 English witness is secondary and must not reconstruct Tamil.
 
+Scan 46 recorded source-proven reconciliation including:
+
+- `காட்சி - 2` → source `காட்சி — 2`;
+- `சொல்லட்டுமா !` → source `சொல்லட்டுமா!`;
+- source punctuation grouping `புறநானூற்றிலே... ...`;
+- `ஓர் களத்தில்,` restored to its source position after `அந்நாளில்` and before `தாய்நாடு காக்க...`;
+- scan-visible paired quotation punctuation retained.
+
+The old-glyph area corresponding to Gemini's `தன் மகனை / யும்` was deliberately not modernized from visual expectation; the plausible first-pass reading was retained.
+
 ## Exact next activity
 
-Process **`சேரன் செங்குட்டுவன்` scan 46 / printed p.41 only** as the opening-page verification activity for `காட்சி — 2`.
+Process **`சேரன் செங்குட்டுவன்` scan 47 / printed p.42 only** as the next Scene-2 continuation-page verification activity.
 
 Requirements:
 
-- inspect scan 46 directly from the controlling PDF;
-- use the user-supplied Gemini first-pass segment as comparison baseline if available; if this is a fresh chat and the first-pass text is unavailable, ask the user to paste only the scan-46 / p.41 segment rather than inventing it;
+- inspect scan 47 directly from the controlling PDF;
+- use the user-supplied Gemini first-pass as comparison baseline;
 - preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and source marks;
-- create `works/cheran-senguttuvan/pages/0046.md` only after direct verification;
-- create/update the Scene-2 page-verification record and work/source progress after verification;
-- expected durable total after success: **3/10 pages verified**;
-- do **not** process scan 47 in the same activity;
+- apply the old-glyph safeguard and avoid expectation-based lexical correction;
+- create `works/cheran-senguttuvan/pages/0047.md` only after direct verification;
+- update `SCENE2_PAGE_VERIFICATION.md`, work/source progress, page maps, README files and handover after verification;
+- expected durable total after success: **4/10 pages verified**, Scene-2 gate **2/4**;
+- do **not** process scan 48 in the same activity;
 - do **not** assemble Scene 2 in the same activity;
 - do **not** use the English witness to reconstruct Tamil.
 
