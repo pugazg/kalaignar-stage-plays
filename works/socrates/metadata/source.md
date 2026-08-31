@@ -7,14 +7,22 @@
 - Printed pages: **22–38**
 - Introductory note scans **27–28**: **2/2 verified**
 - `காட்சி—1` scans **29–31**: **3/3 verified; assembly/fidelity PASS**
-- `காட்சி—2` scan **32**: **1/1 verified; assembly pending**
+- `காட்சி—2` scan **32**: **1/1 verified after user-directed lexical rollback; assembly pending**
 - Total Tamil page-level verification: **6/17**
 - Dramatic-body page verification: **4/15**
 - Numbered dramatic scenes: **5**
 - Scene assembly completed: **1/5**
 - `காட்சி—1` assembly/fidelity: **PASS** (`../scenes/01.md`; `../ASSEMBLY_FIDELITY_REVIEW.md`)
-- `காட்சி—2` page gate: **PASS** (`../pages/0032.md`; `../SCENE2_PAGE_VERIFICATION.md`)
+- `காட்சி—2` corrected page gate: **PASS** (`../pages/0032.md`; `../SCENE2_PAGE_VERIFICATION.md`)
 
-For old-glyph adjudication, retain the user's Gemini first-pass wherever a reading remains plausibly ambiguous; change it only with unambiguous direct scan evidence. Do not silently replace a plausible source/Gemini form with a modern or semantically expected form.
+## Active user-directed transcription rule
 
-Next activity: assemble `காட்சி—2` from verified `pages/0032.md` and run its fidelity audit; do not start scan 33 in the same activity.
+For continuing `சாக்ரடீஸ்` work:
+
+- lexical **words are retained from the user-supplied Gemini transcription**;
+- the controlling scan is used to verify **headings, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks**;
+- assistant word-level substitutions based on visual interpretation, grammar, spelling familiarity or semantic expectation are not permitted unless the user explicitly requests a word-level recheck.
+
+On scan 32, the withdrawn assistant readings `கவிஞனும் மெலிடசும்` and `அரசியல் நிபுணனும் நீயும்` have been restored to Gemini's `கவிஞனாம் மெலிடசும்` and `அரசியல் நிபுணனாம் நீயும்`.
+
+Next activity: assemble `காட்சி—2` from the corrected verified `pages/0032.md` and run its fidelity audit; do not start scan 33 in the same activity.
