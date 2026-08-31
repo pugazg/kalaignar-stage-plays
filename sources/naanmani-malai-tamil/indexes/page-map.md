@@ -15,12 +15,12 @@ Printed pagination is recorded only where directly visible.
 | 40 | 35 | `சாக்ரடீஸ்` — `காட்சி—5` opening | verified | Scene-5 gate 1/4; heading/setting and scan typography checked; no closing `*`. |
 | 41 | 36 | `சாக்ரடீஸ்` — `காட்சி—5` continuation | verified | Scene-5 gate 2/4; Gemini dialogue words retained; scan punctuation/dash/label/physical-line controls checked; no closing `*`. |
 | 42 | 37 | `சாக்ரடீஸ்` — `காட்சி—5` continuation | verified | Scene-5 gate 3/4; scan controls labels, stage-direction structure, dashes, quote punctuation and physical lines; no closing `*`. |
-| 43 | 38 | `சாக்ரடீஸ்` — `காட்சி—5` closing | not-started | Structural survey only; closes with `*`. |
+| 43 | 38 | `சாக்ரடீஸ்` — `காட்சி—5` closing | verified | Scene-5 gate 4/4 COMPLETE; Gemini dialogue words retained; scan controls punctuation/label/physical-line structure and centered final `*`. |
 | 44–53 | 39–48 | `சேரன் செங்குட்டுவன்` | not-started | Direct visual verification pending. |
 | 54 | — | back cover | partial | Archival description pending. |
 
 ## Current checkpoint
 
-`சாக்ரடீஸ்` scans **27–42 = 16 pages verified**. Scenes 1–4 are assembled with page-record fidelity PASS. Scene 5 is **3/4 pages verified** and not assembled. Overall work progress: **16/17 verified**; scenes assembled **4/5**.
+`சாக்ரடீஸ்` scans **27–43 = 17 pages verified COMPLETE**. Scenes 1–4 are assembled with page-record fidelity PASS. Scene 5 has **4/4 verified pages** and is ready for assembly/fidelity review. Overall work progress: **17/17 verified**; scenes assembled **4/5**.
 
-Next: verify `காட்சி—5` scan **43** / printed p.38 only as the closing page and preserve its final `*` if present. Do not assemble Scene 5 in that same activity.
+Next: assemble `காட்சி—5` only from verified `pages/0040.md`–`0043.md` and run the page-record ↔ scene fidelity audit. Do not begin `சேரன் செங்குட்டுவன்` in that same activity.
