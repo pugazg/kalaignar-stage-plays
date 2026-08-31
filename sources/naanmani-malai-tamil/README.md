@@ -8,11 +8,13 @@ For active `சாக்ரடீஸ்`, Gemini's words are retained; the scan 
 
 - `பரதாயணம்`: Tamil archival/assembly PASS; independent English translation PASS.
 - `அனார்கலி`: Tamil archival/assembly PASS.
-- `சாக்ரடீஸ்`: scans **27–39 = 13/17 pages verified**; Scenes 1–3 assembly/fidelity PASS; Scene 4 scans 34–39 **6/6 page gate PASS**, assembly pending; scenes assembled **3/5**.
+- `சாக்ரடீஸ்`: scans **27–39 = 13/17 pages verified**; Scenes 1–4 assembly/fidelity PASS; Scene 4 scans 34–39 **6/6 page gate + assembly/fidelity PASS**; scenes assembled **4/5**.
 - `சேரன் செங்குட்டுவன்`: pending Tamil verification.
 
 Scene-4 page-gate record: `../../works/socrates/SCENE4_PAGE_VERIFICATION.md`.
 
-Scan 39 / printed p.34 is verified. Gemini lexical wording remains unchanged; scan evidence controls `சாக்:` label spacing, punctuation/dashes, physical source lines, centered closing `*`, and page number `34`.
+Scene-4 assembled file: `../../works/socrates/scenes/04.md`.
 
-Next source-sequential activity: assemble **`சாக்ரடீஸ்` `காட்சி—4` only** from verified scans 34–39 page records and run the page-record ↔ scene fidelity audit. Do not begin `காட்சி—5` in the same activity.
+Scene-4 fidelity audit: `../../works/socrates/SCENE4_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**.
+
+Next source-sequential activity: verify **`சாக்ரடீஸ்` `காட்சி—5` scan 40 / printed p.35 only**. Do not process scan 41 or assemble Scene 5 in the same activity.
