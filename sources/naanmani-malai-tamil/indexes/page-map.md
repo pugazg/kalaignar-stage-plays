@@ -12,7 +12,7 @@ Printed pagination is recorded only where directly visible.
 | 30 | 25 | `சாக்ரடீஸ்` — `காட்சி—1` continuation | assembly-reviewed | Final Gemini/source reconciliation complete; `மின்னலப்பா`, `கிண்ணாரக்`, `நட்டாற்றில்`, `ஏண்டி`; scan-proven `சுடுகாடு`; Scene-1 assembly/fidelity PASS. |
 | 31 | 26 | `சாக்ரடீஸ்` — `காட்சி—1` closing | assembly-reviewed | Final Gemini/source reconciliation complete; `உயிரினுமினியவர்`, source punctuation, water-pouring sequence and printed `*`; Scene-1 assembly/fidelity PASS. |
 | 32 | 27 | `சாக்ரடீஸ்` — `காட்சி—2` | assembly-reviewed | Gemini words retained after user-directed lexical rollback (`கவிஞனாம் மெலிடசும்`, `அரசியல் நிபுணனாம் நீயும்`); scan controls heading, punctuation, long dash, label spacing and final `*`; Scene-2 assembly/fidelity PASS. |
-| 33 | 28 | `சாக்ரடீஸ்` — `காட்சி—3` | verified | Gemini words retained; scan controls `காட்சி—3.`, punctuation, label spacing, `அறிவுத் தங்கத்தை — விடு`, physical line boundaries and source marks; no closing `*`; assembly pending. |
+| 33 | 28 | `சாக்ரடீஸ்` — `காட்சி—3` | assembly-reviewed | Gemini words retained; scan controls `காட்சி—3.`, punctuation, label spacing, `அறிவுத் தங்கத்தை — விடு`, physical line evidence and source marks; no closing `*`; Scene-3 assembly/fidelity PASS. |
 | 34–39 | 29–34 | `சாக்ரடீஸ்` — `காட்சி—4` | not-started | Structural survey only. |
 | 40–43 | 35–38 | `சாக்ரடீஸ்` — `காட்சி—5` | not-started | Structural survey only. |
 | 44–53 | 39–48 | `சேரன் செங்குட்டுவன்` | not-started | Four scenes; direct visual verification pending. |
@@ -20,6 +20,6 @@ Printed pagination is recorded only where directly visible.
 
 ## Current checkpoint
 
-`சாக்ரடீஸ்` scans **27–33 = 7/7 pages processed and verified** for the introduction plus Scenes 1–3 page gates. `காட்சி—1` and `காட்சி—2` are assembled with page-record fidelity **PASS**; `காட்சி—3` page gate is complete and its assembly is pending. Overall work progress: **7/17 verified**; scenes assembled **2/5**.
+`சாக்ரடீஸ்` scans **27–33 = 7/7 pages processed and verified** for the introduction plus Scenes 1–3 page gates. `காட்சி—1`, `காட்சி—2`, and `காட்சி—3` are all assembled with page-record fidelity **PASS**. Overall work progress: **7/17 verified**; scenes assembled **3/5**.
 
-Next: assemble `காட்சி—3` solely from verified scan 33 / `pages/0033.md`; do not advance to scan 34 in that same activity.
+Next: begin `காட்சி—4` page verification at scan **34** / printed p.29 only under the Gemini-words / scan-typography rule; do not assemble `காட்சி—4` in that same activity.
