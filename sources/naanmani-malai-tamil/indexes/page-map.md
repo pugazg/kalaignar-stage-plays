@@ -11,7 +11,7 @@ Printed pagination is recorded only where directly visible.
 | 29 | 24 | `சாக்ரடீஸ்` — `காட்சி—1` opening | assembly-reviewed | Final Gemini/source reconciliation complete; `காணா`, `புலிநிகர்`; ends mid-Socrates speech at `எனக்கு`; Scene-1 assembly/fidelity PASS. |
 | 30 | 25 | `சாக்ரடீஸ்` — `காட்சி—1` continuation | assembly-reviewed | Final Gemini/source reconciliation complete; `மின்னலப்பா`, `கிண்ணாரக்`, `நட்டாற்றில்`, `ஏண்டி`; scan-proven `சுடுகாடு`; Scene-1 assembly/fidelity PASS. |
 | 31 | 26 | `சாக்ரடீஸ்` — `காட்சி—1` closing | assembly-reviewed | Final Gemini/source reconciliation complete; `உயிரினுமினியவர்`, source punctuation, water-pouring sequence and printed `*`; Scene-1 assembly/fidelity PASS. |
-| 32 | 27 | `சாக்ரடீஸ்` — `காட்சி—2` | verified | Complete one-scan scene; Gemini/source reconciliation PASS; scan-proven `கவிஞனும்`, `அரசியல் நிபுணனும்`; final `*`; assembly pending. |
+| 32 | 27 | `சாக்ரடீஸ்` — `காட்சி—2` | verified | User-directed lexical rollback: Gemini words retained (`கவிஞனாம் மெலிடசும்`, `அரசியல் நிபுணனாம் நீயும்`); scan controls heading, punctuation, long dash, label spacing, physical line breaks and final `*`; assembly pending. |
 | 33 | 28 | `சாக்ரடீஸ்` — `காட்சி—3` | not-started | Structural survey only. |
 | 34–39 | 29–34 | `சாக்ரடீஸ்` — `காட்சி—4` | not-started | Structural survey only. |
 | 40–43 | 35–38 | `சாக்ரடீஸ்` — `காட்சி—5` | not-started | Structural survey only. |
@@ -20,6 +20,6 @@ Printed pagination is recorded only where directly visible.
 
 ## Current checkpoint
 
-`சாக்ரடீஸ்` scans **27–32 = 6/6 pages processed and verified** for the introduction plus Scenes 1–2 page gates. `காட்சி—1` is assembled with fidelity **PASS**; `காட்சி—2` assembly is pending. Overall work progress: **6/17 verified**; scenes assembled **1/5**.
+`சாக்ரடீஸ்` scans **27–32 = 6/6 pages processed and verified** for the introduction plus Scenes 1–2 page gates. `காட்சி—1` is assembled with fidelity **PASS**; `காட்சி—2` page record is corrected under the user-directed Gemini-word/scan-typography rule and its assembly is pending. Overall work progress: **6/17 verified**; scenes assembled **1/5**.
 
-Next: assemble `காட்சி—2` solely from verified scan 32 / `pages/0032.md`; do not advance to scan 33 in that same activity.
+Next: assemble `காட்சி—2` solely from corrected verified scan 32 / `pages/0032.md`; do not advance to scan 33 in that same activity.
