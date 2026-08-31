@@ -14,11 +14,21 @@
 
 ## Title / imprint details visible in the scan
 
-- Scan 1: illustrated front cover carrying **கலைஞரின் நான்மணி மாலை**.
+- Scan 1: illustrated front cover carrying **கலைஞரின் நான்மணி மாலை**; page-level archival record [`../pages/0001.md`](../pages/0001.md) is **verified**.
 - Scan 2: title page carrying **கலைஞரின் நான்மணி மாலை**, **தமிழ்க்கனி பதிப்பகம்**, **சென்னை-28**.
 - Scan 3: `© பதிப்புரிமை`, **விலை ரூ. 4/-**, and printer line **அச்சிட்டோர்: ஜெம் பிரஸ், சென்னை - 600 001**.
 
 No standalone publication year has been established from the supplied scans inspected for source registration. Internal dates or contextual clues must not be promoted to a publication year without a separate printed edition statement.
+
+## Front-cover verification — scan 1
+
+Direct visual inspection confirms:
+
+- the visible printed wording is **`கலைஞரின் நான்மணி மாலை`**, arranged over two lines;
+- the page is a full-page colour printed illustration rather than literary body text;
+- no printed page number, separate author-name line, publisher/imprint line, price line or caption is visible;
+- no library stamp, accession number, later handwriting or other obvious non-authorial mark is visible;
+- no obvious torn or missing text area is visible.
 
 ## Front matter and contents survey
 
@@ -42,6 +52,7 @@ Direct visual inspection confirms:
 
 ## Printed pagination
 
+- Scans 1–5 carry no printed page numbers in the source-registration survey; no pagination is inferred.
 - Scan 6 opens `பரதாயணம்` but no printed page number is securely visible; none is inferred.
 - Scans 7–17 visibly progress through printed pages 2–12.
 - Scans 18–26 visibly carry printed pages 13–21.
@@ -53,6 +64,7 @@ Direct visual inspection confirms:
 
 - Colour scan of aged cream paper with variable contrast, speckling and mild reverse-side show-through.
 - Decorative title bars and illustrated front/back covers are part of the printed edition and must be represented in the archive.
+- Composite-source cover page records are now verified for scans **1 and 54**; shared front-matter scans **2–5** remain pending at page level.
 - Some type forms are old-style Tamil glyphs; Unicode transcription must follow the actual letters represented by those glyphs rather than OCR appearance.
 - The source PDF does not provide reliable parsed text for archival use.
 
