@@ -38,7 +38,6 @@ Assembled file: `scenes/03.md`.
 
 | Page-record evidence | Assembled reading | Decision |
 |---|---|---|
-| `ஆழ்ந்த` / — | — | not applicable; no unrelated text imported from another page |
 | `என்` / `தோழர்கள்` | `என் தோழர்கள்` | physical line removed; lexical word boundary retained |
 | `புத்துலகு` / `சமைப்போரின்` | `புத்துலகு சமைப்போரின்` | physical line removed; lexical word boundary retained |
 | `காட்டுக்` / `குதிரையல்ல` | `காட்டுக் குதிரையல்ல` | physical line removed; lexical word boundary retained |
