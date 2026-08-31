@@ -7,9 +7,10 @@
 - Printed pages: **39–48**
 - Printed title: **சேரன் செங்குட்டுவன்**
 - Source collection: **கலைஞரின் நான்மணி மாலை**
-- Tamil page-level verification: **2/10**
+- Tamil page-level verification: **3/10**
 - `காட்சி — 1` page gate: **2/2 COMPLETE** (`../pages/0044.md`–`../pages/0045.md`; `../SCENE1_PAGE_VERIFICATION.md`)
 - `காட்சி — 1` assembly/fidelity: **PASS** (`../scenes/01.md`; `../SCENE1_ASSEMBLY_FIDELITY_REVIEW.md`)
+- `காட்சி — 2` page gate: **1/4** (`../pages/0046.md`; `../SCENE2_PAGE_VERIFICATION.md`)
 - Source-printed dramatic scenes: **4**
 - Scene assembly completed from verified Tamil: **1/4**
 
@@ -21,11 +22,22 @@ The Tamil scan is controlling. The user-supplied Gemini transcription is a compa
 
 Scans **44–45** / printed pp.39–40 are verified and assembled as `../scenes/01.md` with page-record fidelity **PASS**.
 
-The assembly uses the verified page records as the sole textual authority, preserves the pre-scene voice-over and `காட்சி — 1` heading, joins only legitimate physical print-line boundaries, and does not invent a closing `*` because neither source page contains one.
+## Active Scene 2
 
-Locked source-proven first-pass differences include:
+Scene 2 spans scans **46–49** / printed pp.41–44.
 
-- scan 44: `காட்சி-1` → `காட்சி — 1`; `வேந்தர் குலதிலக` → `வேந்தர்குலதிலக`; `கனக விஐயர்` → `கனக விஜயர்`; `கன :` → `கன:`;
-- scan 45: stray `ழ்!` after `செந்தமிழ்!` absent from source; `யுல:` → `புல:`; standalone `தமிழன்!` returned to its source position in the following `கன:` speech; `யுல: : கனகர் சொன்னது...` → `விஜ: கனகர் சொன்னது...`.
+Scan **46** / printed p.41 is verified as the Scene-2 opening. The canonical page record preserves source heading `காட்சி — 2`, setting `சேரனின் மண்டபம்`, speaker labels, punctuation and physical line structure.
 
-Next activity: verify scan **46** / printed p.41 only, the opening page of `காட்சி — 2`. Do not process scan 47 or assemble Scene 2 in the same activity.
+Source-proven scan-46 reconciliation includes:
+
+- `காட்சி - 2` → `காட்சி — 2`;
+- `சொல்லட்டுமா !` → `சொல்லட்டுமா!`;
+- source punctuation grouping `புறநானூற்றிலே... ...`;
+- `ஓர் களத்தில்,` restored to its source position after `அந்நாளில்` and before the `தாய்நாடு காக்க...` line;
+- paired source quotation punctuation retained.
+
+The old-glyph area corresponding to Gemini's `தன் மகனை / யும்` remains on the plausible first-pass reading; no expectation-based modernization is introduced.
+
+Scan 46 contains no scene-closing `*`.
+
+Next activity: verify scan **47** / printed p.42 only. Do not process scan 48 or assemble Scene 2 in the same activity.
