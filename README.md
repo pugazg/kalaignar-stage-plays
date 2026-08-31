@@ -25,10 +25,11 @@ For the composite `கலைஞரின் நான்மணி மாலை` 
 - scan **1 / illustrated front cover** — `sources/naanmani-malai-tamil/pages/0001.md`;
 - scan **2 / title page** — `sources/naanmani-malai-tamil/pages/0002.md`;
 - scan **3 / copyright-imprint page** — `sources/naanmani-malai-tamil/pages/0003.md`;
+- scan **4 / `என்னுரை`** — `sources/naanmani-malai-tamil/pages/0004.md`;
 - scan **54 / illustrated back cover** — `sources/naanmani-malai-tamil/pages/0054.md`.
 
-Scan 3 preserves `© பதிப்புரிமை`, `விலை ரூ. 4/-`, `அச்சிட்டோர் :`, and `ஜெம் பிரஸ், சென்னை - 600 001.` exactly as printed. Shared front-matter scans **4–5** still require page-level archival records. The source PDF remains external to the repository.
+Scan 4 retains the user-supplied words and uses direct source inspection only for heading, punctuation/spacing, physical lines and the facsimile-signature area. The remaining shared front-matter page is **scan 5 / `பதிப்புரை`**. The source PDF remains external to the repository.
 
 The 2009 published-English witness remains secondary and is not used to reconstruct Tamil.
 
-Next source-sequential activity: process **scan 4 / `என்னுரை` only** as an archival transcription page for the composite source. Do not process scan 5 or begin another work in the same activity.
+Next source-sequential activity: process **scan 5 / `பதிப்புரை` only** using the user-supplied lexical transcription as baseline. Do not begin another work in the same activity.
