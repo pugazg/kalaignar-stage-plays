@@ -10,7 +10,7 @@ Controlling Tamil source: `TVA_BOK_0065576_நான்மணி_மாலை.pd
 - source-printed scene: **`காட்சி—1`**;
 - setting: **`சாக்ரடீசின் வீட்டு வாயில்`**.
 
-This activity is page verification only. No scene assembly is created here.
+This record documents the page-verification activity. The downstream assembly is now complete at `scenes/01.md`; its page-record fidelity audit is `ASSEMBLY_FIDELITY_REVIEW.md`.
 
 ## Reconciliation history
 
@@ -38,7 +38,7 @@ Scan 30 begins:
 
 `வாய்த்த இளம் மனைவி, இரண்டாம்தாரம்....எக்ஸேந்திபி, ...`
 
-This is one continuous utterance across the physical page boundary. The page records preserve that break. A later scene assembly may remove the physical break mechanically, but must not insert a speaker label or alter the wording.
+This is one continuous utterance across the physical page boundary. The page records preserve that break. The assembled scene removes the physical page break mechanically as `...எனக்கு வாய்த்த இளம் மனைவி...`, without inserting a speaker label or altering the wording.
 
 ## Old-glyph / source-sensitive controls
 
@@ -87,8 +87,10 @@ No published-English wording was used to reconstruct Tamil.
 - page records re-reconciled and verified: **3/3**;
 - unresolved page-level readings: **0**;
 - page-boundary continuation documented: **1** (29→30);
-- scene assembly performed in this activity: **No**.
+- scene assembly performed in the original page-verification activity: **No**;
+- downstream `scenes/01.md` assembly: **PASS**;
+- downstream page-record ↔ scene audit: **PASS** (`ASSEMBLY_FIDELITY_REVIEW.md`).
 
 ## Next activity
 
-Assemble **`காட்சி—1` only** from verified `pages/0029.md`–`0031.md`, mechanically join legitimate print/page splits, and run a page-record ↔ scene fidelity audit. Do not begin scan 32 / `காட்சி—2` in that same activity.
+Verify **`காட்சி—2` only**, scan **32** / printed p.27, under the same source/Gemini old-glyph rule. Do not begin `காட்சி—3` or `சேரன் செங்குட்டுவன்` in that activity.
