@@ -20,13 +20,14 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 
 `சேரன் செங்குட்டுவன்` Tamil dramatic-source processing is complete for scans **44–53 / printed pp.39–48**: **10/10 pages verified**, all four source-printed scenes assembled from verified page records, and **all page-record ↔ scene fidelity gates PASS**. Final `காட்சி—4.` preserves the unusual source `சேர்!` label and centered `- * -` closing mark.
 
-For the composite `கலைஞரின் நான்மணி மாலை` source, both illustrated outer covers are now visually archived and **verified**:
+For the composite `கலைஞரின் நான்மணி மாலை` source, page-level outer/front-matter records now verified are:
 
-- scan **1 / front cover** — `sources/naanmani-malai-tamil/pages/0001.md`;
-- scan **54 / back cover** — `sources/naanmani-malai-tamil/pages/0054.md`.
+- scan **1 / illustrated front cover** — `sources/naanmani-malai-tamil/pages/0001.md`;
+- scan **2 / title page** — `sources/naanmani-malai-tamil/pages/0002.md`;
+- scan **54 / illustrated back cover** — `sources/naanmani-malai-tamil/pages/0054.md`.
 
-The front cover carries `கலைஞரின் நான்மணி மாலை` over a full-page colour illustration; no separate author-name line, literary body text or visible non-authorial marks were found. Shared front-matter scans **2–5** still require page-level archival records. The source PDF remains external to the repository.
+Scan 2 preserves `கலைஞரின் நான்மணி மாலை`, publisher `தமிழ்க்கனி பதிப்பகம்`, the decorative lamp emblem between the publisher words, and `சென்னை-28`. Shared front-matter scans **3–5** still require page-level archival records. The source PDF remains external to the repository.
 
 The 2009 published-English witness remains secondary and is not used to reconstruct Tamil.
 
-Next source-sequential activity: process **scan 2 / title page only** as an archival transcription/description page for the composite source. Do not process scan 3 or begin another work in the same activity.
+Next source-sequential activity: process **scan 3 / copyright-imprint page only** as an archival transcription/description page for the composite source. Do not process scan 4 or begin another work in the same activity.
