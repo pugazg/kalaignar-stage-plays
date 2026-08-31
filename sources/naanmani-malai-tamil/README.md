@@ -24,9 +24,11 @@ Scene 4 preserves the source `சேர்!` label variant, `புறப்ப�
 
 ## Composite-source outer matter
 
-- scan **54 / back cover** — **verified** at [`pages/0054.md`](pages/0054.md);
-- printed back-cover wording: **`கலைஞரின் நான்மணி மாலை`**;
-- the back cover is a full-page colour illustration and contains no visible literary body text, printed pagination, publisher/imprint line, price line, library stamp, accession mark or later handwriting;
-- scans **1–5** remain partially represented and still require page-level archival records.
+- scan **1 / illustrated front cover** — **verified** at [`pages/0001.md`](pages/0001.md);
+- front-cover printed wording: **`கலைஞரின் நான்மணி மாலை`**, arranged over two lines;
+- the front cover is a full-page colour printed illustration and contains no visible separate author-name line, literary body text, printed pagination, publisher/imprint line, price line, library stamp, accession mark or later handwriting;
+- scan **54 / illustrated back cover** — **verified** at [`pages/0054.md`](pages/0054.md);
+- back-cover printed wording: **`கலைஞரின் நான்மணி மாலை`**;
+- shared front-matter scans **2–5** still require page-level archival records.
 
-Next source-sequential activity: process **scan 1 / illustrated front cover only** as an archival-description page for the composite source. Do not begin another work in the same activity.
+Next source-sequential activity: process **scan 2 / title page only** as an archival transcription/description page for the composite source. Do not process scan 3 or begin another work in the same activity.
