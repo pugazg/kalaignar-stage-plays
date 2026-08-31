@@ -29,45 +29,40 @@ The user supplied a Gemini word-to-word first pass covering the Cheran source ex
 
 - `காட்சி — 1`: scans **44–45** / pp.39–40 — page gate + assembly/fidelity **PASS**.
 - `காட்சி — 2`: scans **46–49** / pp.41–44 — page gate + assembly/fidelity **PASS**.
+- `காட்சி—3.`: scans **50–51** / pp.45–46 — page gate **2/2 COMPLETE**, `scenes/03.md` assembled, `SCENE3_ASSEMBLY_FIDELITY_REVIEW.md` **PASS**.
 
-### `காட்சி—3.` — PAGE GATE COMPLETE
+Important locked Scene-3 controls:
 
-Source extent: scans **50–51** / printed pp.45–46.
-
-Durable state:
-
-- `works/cheran-senguttuvan/pages/0050.md` — scan 50 / p.45 — **verified**;
-- `works/cheran-senguttuvan/pages/0051.md` — scan 51 / p.46 — **verified**;
-- `works/cheran-senguttuvan/SCENE3_PAGE_VERIFICATION.md` — **2/2 PASS / COMPLETE**;
-- Scene-3 assembly — **not yet performed**.
-
-Important controls:
-
-- scan 50: source `காட்சி—3.`, `சேரன் கொலுமண்டபம்`, `உத்திரனும்—விசித்திரனும்—சித்தரனும்—சிவேதனும்—பைரவனும்!`, `கனகனும்விசயனும்`, source punctuation/labels, short spaced hyphen `வீணன் - கயலைப்`, and plausible first-pass `காணா` retained;
-- scan 51 continues the same `சேரன்:` speech without a new label;
-- scan 51 preserves source long dashes, `நதியும், பொழிலும்`, `இல்லை!....இல்லை!..`, `தோழர்களே! ....புறப்படுங்கள்!`, and the centered closing `*`.
+- source `காட்சி—3.` and `சேரன் கொலுமண்டபம்`;
+- source labels `சேரன்:` and `ஒரு அமைச்சர் :`;
+- source `உத்திரனும்—விசித்திரனும்—சித்தரனும்—சிவேதனும்—பைரவனும்!` and `கனகனும்விசயனும்`;
+- source short spaced hyphen `வீணன் - கயலைப்`;
+- plausible first-pass `காணா` retained under the old-glyph safeguard;
+- scan 51 continues the same `சேரன்:` speech with no new label;
+- source long dashes, `நதியும், பொழிலும்`, `இல்லை!....இல்லை!..`, `தோழர்களே! ....புறப்படுங்கள்!`, and the centered closing `*` retained in assembly.
 
 Current Cheran progress:
 
 - Tamil pages verified: **8/10**;
-- scenes assembled from verified Tamil: **2/4**;
-- Scene-3 page gate: **2/2 COMPLETE**;
-- scans 52–53: not processed.
+- scenes assembled from verified Tamil: **3/4**;
+- scans **52–53** / printed pp.47–48: not yet processed.
 
 ## Exact next activity
 
-Assemble **`சேரன் செங்குட்டுவன்` `காட்சி—3.` only** from verified page records `works/cheran-senguttuvan/pages/0050.md` and `0051.md`.
+Process **`சேரன் செங்குட்டுவன்` scan 52 / printed p.47 only** as the opening-page verification activity for the final scene.
 
 Requirements:
 
 - fetch live `main` first;
-- use the two verified page records as the sole textual authority;
-- mechanically join only legitimate physical print-line/page-boundary breaks;
-- preserve verified wording, punctuation, speaker-label forms and the scan-51 closing `*`;
-- create the Scene-3 assembled file using repository naming conventions;
-- run a page-record ↔ scene fidelity audit and require PASS;
-- update durable status only after fidelity PASS;
-- do **not** process scan 52 / begin the final scene in the same activity;
+- inspect scan 52 directly from the controlling PDF;
+- use the user-supplied Gemini first pass as comparison baseline;
+- preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and source marks;
+- apply the old-glyph safeguard and avoid expectation-based lexical correction;
+- create `works/cheran-senguttuvan/pages/0052.md` only after direct verification;
+- create/update the final-scene page-verification record and work/source progress after verification;
+- expected durable page progress after success: **9/10**;
+- do **not** process scan 53 in the same activity;
+- do **not** assemble the final scene in the same activity;
 - do **not** use the English witness to reconstruct Tamil.
 
 ## Permanent safeguards
