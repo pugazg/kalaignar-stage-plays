@@ -18,53 +18,33 @@ Controlling composite source: `TVA_BOK_0065576_நான்மணி_மால�
 - Silappathikaram completed state remains locked and unchanged.
 - `சேரன் செங்குட்டுவன்`: **10/10 Tamil pages verified; 4/4 scenes assembled; all page-record ↔ scene fidelity gates PASS**.
 
-## `சேரன் செங்குட்டுவன்` — completed Tamil dramatic-source state
+Completed Cheran Scene-4 locked controls include source `காட்சி—4.`, `குயிலாலுவம்`, exact speaker-label variants `சேர்:`, `சேர்;`, unusual `சேர்!`, `வில்லவன்:`, `வில்:`, `வில்!`, `கன:`, source long dashes, `ராம ராவணப் போர்?....`, `புறப்படுவோம்—வில்லவா.`, `கனக—விஜயா`, `சொல்—இப்போது`, and centered final `- * -`.
 
-Controlling Tamil extent: scans **44–53** / printed pp. **39–48**; four source-printed dramatic scenes. The 2009 published-English witness is secondary only.
+## Composite source — கலைஞரின் நான்மணி மாலை
 
-### First-pass / source rule
-
-The user supplied a Gemini word-to-word first pass covering the Cheran source extent. Gemini is a comparison baseline, not the controlling authority. Do not replace plausible old-glyph readings by familiar spelling, grammar or semantic expectation. Use unambiguous scan evidence when it differs and document the difference. Do not use the English witness to reconstruct Tamil.
-
-### Completed scenes
-
-- `காட்சி — 1`: scans **44–45** / pp.39–40 — page gate + assembly/fidelity **PASS**.
-- `காட்சி — 2`: scans **46–49** / pp.41–44 — page gate + assembly/fidelity **PASS**.
-- `காட்சி—3.`: scans **50–51** / pp.45–46 — page gate + assembly/fidelity **PASS**.
-- `காட்சி—4.`: scans **52–53** / pp.47–48 — page gate **2/2 COMPLETE**, `scenes/04.md` assembled, `SCENE4_ASSEMBLY_FIDELITY_REVIEW.md` **PASS**.
-
-Important locked final-scene controls:
-
-- source heading `காட்சி—4.` and setting `குயிலாலுவம்`;
-- source-order opening direction assembled only by mechanical print-line joining;
-- exact source speaker-label punctuation variants `சேர்:`, `சேர்;`, unusual `சேர்!`, `வில்லவன்:`, `வில்:`, `வில்!`, and `கன:`;
-- source long dashes and `ராம ராவணப் போர்?....`;
-- `புறப்படுவோம்—வில்லவா.`, `கனக—விஜயா`, `சொல்—இப்போது`;
-- scan 53 centered final source mark **`- * -`** retained exactly.
-
-Durable Cheran completion:
-
-- Tamil pages verified: **10/10 COMPLETE**;
-- scenes assembled from verified Tamil: **4/4 COMPLETE**;
-- unresolved assembly discrepancies: **0**;
-- speaker-label mismatches: **0**;
-- assistant lexical substitutions introduced during final assembly: **0**;
-- English-witness reconstruction: **0**.
+- total scans: **54**;
+- scans **6–53** contain the four dramatic works at their durable completed checkpoints;
+- scan **54 / back cover** is now **verified** at `sources/naanmani-malai-tamil/pages/0054.md`;
+- scan 54 printed wording: `கலைஞரின் நான்மணி மாலை` over three lines;
+- scan 54 is a full-page colour printed illustration with no visible literary body text, pagination, publisher/imprint line, price line, library stamp, accession mark or later handwriting;
+- shared front matter scans **1–5** remain only partially represented at page level;
+- source PDF remains external to the repository.
 
 ## Exact next activity
 
-Process **scan 54 / back cover only** from `TVA_BOK_0065576_நான்மணி_மாலை.pdf` as an archival-description page for the composite Tamil source.
+Process **scan 1 / illustrated front cover only** from `TVA_BOK_0065576_நான்மணி_மாலை.pdf` as an archival-description page for the composite Tamil source.
 
 Requirements:
 
 - fetch live `main` first;
-- inspect scan 54 directly from the controlling PDF;
-- treat it as a back-cover / non-literary source page unless the scan itself proves printed literary text;
+- inspect scan 1 directly from the controlling PDF;
+- treat it as a front-cover / non-literary source page unless the scan itself proves printed literary text;
 - distinguish printed publication material from library marks, later handwriting, stamps, damage or other non-authorial marks;
-- preserve any printed caption/text exactly if present;
-- create/update the appropriate composite-source page record and page map according to repository conventions;
-- update source README, root README, handover and next-chat checkpoint after verification;
-- do **not** reopen completed `சேரன் செங்குட்டுவன்` dramatic text;
+- preserve every visible printed title/imprint/caption element exactly;
+- create `sources/naanmani-malai-tamil/pages/0001.md` only after direct visual verification;
+- update the composite source page map, source metadata/README, root README, handover and next-chat checkpoint after verification;
+- do **not** process scan 2 in the same activity;
+- do **not** reopen any completed dramatic work;
 - do **not** begin another work in the same activity.
 
 ## Permanent safeguards
