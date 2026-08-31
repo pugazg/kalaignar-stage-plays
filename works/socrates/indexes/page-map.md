@@ -9,8 +9,9 @@
 | 33 | 28 | `காட்சி—3` | assembly-reviewed | Gemini words retained; assembly/fidelity PASS. |
 | 34–39 | 29–34 | `காட்சி — 4` | assembly-reviewed | 6/6 verified; `scenes/04.md` assembly/fidelity PASS; final `*` retained. |
 | 40 | 35 | `காட்சி—5` — opening | verified | Scene-5 gate 1/4; heading `காட்சி—5.`; Gemini lexical material retained; scan controls typography/source marks; no closing `*`. |
-| 41 | 36 | `காட்சி—5` — continuation | verified | Scene-5 gate 2/4; Gemini dialogue wording retained; scan controls punctuation/dashes, physical lines and speaker-label structure/spacing; no closing `*`. |
-| 42–43 | 37–38 | `காட்சி—5` — continuation/closing | not-started | Scan 43 closes with `*`. |
+| 41 | 36 | `காட்சி—5` — continuation | verified | Scene-5 gate 2/4; Gemini dialogue words retained; scan controls punctuation/dashes, physical lines and speaker-label structure/spacing; no closing `*`. |
+| 42 | 37 | `காட்சி—5` — continuation | verified | Scene-5 gate 3/4; Gemini dialogue words retained; scan controls labels, stage-direction structure, long dashes, quote punctuation, physical lines and source marks; no closing `*`. |
+| 43 | 38 | `காட்சி—5` — closing | not-started | Structural survey: closes with `*`. |
 
 ## Current checkpoint
 
@@ -19,17 +20,17 @@
 - `காட்சி—2`: **assembly/fidelity PASS**;
 - `காட்சி—3`: **assembly/fidelity PASS**;
 - `காட்சி — 4`: **6/6 page gate + assembly/fidelity PASS**;
-- `காட்சி—5`: **2/4 pages verified (scans 40–41)**;
-- total `சாக்ரடீஸ்` page progress: **15/17 verified**;
-- dramatic-body page progress: **13/15 verified**;
+- `காட்சி—5`: **3/4 pages verified (scans 40–42)**;
+- total `சாக்ரடீஸ்` page progress: **16/17 verified**;
+- dramatic-body page progress: **14/15 verified**;
 - scenes assembled: **4/5**.
 
-Detailed Scene-5 page gate: `../SCENE5_PAGE_VERIFICATION.md` — **2/4 PASS**.
+Detailed Scene-5 page gate: `../SCENE5_PAGE_VERIFICATION.md` — **3/4 PASS**.
 
 ## Active lexical / visual rule
 
-Retain Gemini's dialogue words. Use the controlling scan for headings where present, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks. Do not introduce assistant dialogue-word corrections or additions by expectation.
+Retain Gemini's dialogue words. Use the controlling scan for headings where present, punctuation, long dash, speaker-label spacing/structure, physical line boundaries and final source marks. Do not introduce assistant dialogue-word corrections or additions by expectation.
 
 ## Next activity
 
-Verify `காட்சி—5` scan **42** / printed p.37 only. Do not process scan 43 or assemble Scene 5 in that activity.
+Verify `காட்சி—5` scan **43** / printed p.38 only as the closing page. Preserve the closing `*` if present. Do not assemble Scene 5 in that same activity.
