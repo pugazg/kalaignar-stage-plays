@@ -7,7 +7,7 @@ Work-level archival entry for Kalaignar's one-act play **`சேரன் செ
 - controlling Tamil source: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`;
 - physical scans: **44–53**;
 - printed pages: **39–48**;
-- Tamil page-level visual verification: **9/10**;
+- Tamil page-level visual verification: **10/10 COMPLETE**;
 - source-printed dramatic scenes: **4**;
 - scenes assembled from verified Tamil: **3/4**.
 
@@ -21,19 +21,15 @@ Completed Scene 2:
 
 Completed Scene 3:
 
-- scans **50–51** / printed pp.45–46 — **2/2 verified**;
-- `SCENE3_PAGE_VERIFICATION.md` — **PASS / COMPLETE**;
-- `scenes/03.md` — **assembly-reviewed / PASS**;
-- `SCENE3_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**;
+- scans **50–51** / printed pp.45–46 — page gate + assembly/fidelity **PASS**;
 - scan 51 centered closing `*` retained.
 
-Active final Scene 4:
+Final Scene 4 page gate is complete:
 
 - source extent: scans **52–53** / printed pp.47–48;
-- scan **52** / printed p.47 — opening — **verified**;
-- `SCENE4_PAGE_VERIFICATION.md` — **1/2 PASS**;
-- scan **53** — not processed;
-- final-scene assembly — blocked until 2/2 page verification.
+- scans **52–53** — **2/2 verified**;
+- `SCENE4_PAGE_VERIFICATION.md` — **PASS / COMPLETE**;
+- final-scene assembly — **not yet performed**.
 
 Work page map: [`indexes/page-map.md`](indexes/page-map.md).
 
@@ -43,17 +39,12 @@ The Tamil scan is controlling for canonical Tamil archival work. The user-suppli
 
 The 2009 published-English witness remains **secondary only** and must not reconstruct Tamil.
 
-## Final-scene scan-52 controls
+## Final-scene locked controls
 
-The verified opening page preserves:
+Scan 52 preserves source `காட்சி—4.`, `குயிலாலுவம்`, source-order opening stage direction, exact speaker-label punctuation variants, source long dashes and `ராம ராவணப் போர்?....`.
 
-- source heading `காட்சி—4.` and setting `குயிலாலுவம்`;
-- source-order stage direction `...கனக—விஜயருக்கும் நடை / பெற்ற போரில்...`;
-- source label/punctuation variants `சேர்:`, `வில்லவன்:`, `வில்:`, `சேர்;`, `வில்!`, and `கன:`;
-- source long dashes in the stage direction and `காட்டுவது—முக்காடு போடுவது—மறைந்திருந்து தாக்கு / வது—மகானாய் மாறுவது.`;
-- source spacing `ராம ராவணப் போர்?....`;
-- no closing `*` on scan 52.
+Scan 53 preserves source labels `சேர்:`, the unusual `சேர்!` second Cheran label, `வில்:`, source `புறப்படுவோம்—வில்லவா.`, `கனக—விஜயா`, `சொல்—இப்போது`, physical print lines, and the centered final mark **`- * -`**.
 
 ## Next activity
 
-Verify **scan 53 / printed p.48 only** as the closing page of `காட்சி—4.`. Do not assemble the final scene in the same activity.
+Assemble **`காட்சி—4.` only** from verified `pages/0052.md`–`0053.md`, then run the page-record ↔ scene fidelity audit. Preserve the final `- * -` exactly. Do not process the back cover or begin another work in the same activity.
