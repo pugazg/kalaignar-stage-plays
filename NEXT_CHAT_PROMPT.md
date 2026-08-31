@@ -26,7 +26,7 @@ Before any write, read completely:
 6. `works/cheran-senguttuvan/indexes/page-map.md`
 7. `works/cheran-senguttuvan/SCENE2_PAGE_VERIFICATION.md`
 8. `works/cheran-senguttuvan/pages/0046.md`
-9. `works/cheran-senguttuvan/SCENE1_ASSEMBLY_FIDELITY_REVIEW.md`
+9. `works/cheran-senguttuvan/pages/0047.md`
 10. `sources/naanmani-malai-tamil/README.md`
 11. `sources/naanmani-malai-tamil/indexes/page-map.md`
 
@@ -49,16 +49,18 @@ Controlling extent:
 
 Current durable progress:
 
-- Tamil pages verified: **3/10**;
+- Tamil pages verified: **4/10**;
 - scenes assembled: **1/4**;
 - `காட்சி — 2` source extent: scans **46–49** / pp.41–44;
 - scan **46 / p.41** — **verified**;
-- Scene-2 page gate: **1/4**;
-- scans **47–49** — not processed.
+- scan **47 / p.42** — **verified**;
+- Scene-2 page gate: **2/4**;
+- scans **48–49** — not processed.
 
 Scene-2 durable files:
 
 - `works/cheran-senguttuvan/pages/0046.md`;
+- `works/cheran-senguttuvan/pages/0047.md`;
 - `works/cheran-senguttuvan/SCENE2_PAGE_VERIFICATION.md`.
 
 ## First-pass / source rule
@@ -71,30 +73,29 @@ The user supplied a Gemini word-to-word first pass covering the Cheran source ex
 - change the first pass only when scan evidence is unambiguous, and document the difference;
 - the 2009 English witness is secondary and must not reconstruct Tamil.
 
-Scan 46 recorded source-proven reconciliation including:
+Scan 47 recorded source-proven reconciliation including:
 
-- `காட்சி - 2` → source `காட்சி — 2`;
-- `சொல்லட்டுமா !` → source `சொல்லட்டுமா!`;
-- source punctuation grouping `புறநானூற்றிலே... ...`;
-- `ஓர் களத்தில்,` restored to its source position after `அந்நாளில்` and before `தாய்நாடு காக்க...`;
-- scan-visible paired quotation punctuation retained.
-
-The old-glyph area corresponding to Gemini's `தன் மகனை / யும்` was deliberately not modernized from visual expectation; the plausible first-pass reading was retained.
+- `எண்ணினேன் ;` → source `எண்ணினேன்;`;
+- `அவன்` → source `அவன்,`;
+- `“நடந்திடுக கண்ணே” என்றாள்?` → source `“நடந்திடுக கண்ணே” என்றாள்!`;
+- hyphen-style separators → source long dashes;
+- `பார்!பார்! பார்!` → source `பார்! பார்! பார்!`;
+- `வாழ்த்துக்கள் வழங்கினர்!` → source `வாழ்த்துகள் வழங்கினர்!`.
 
 ## Exact next activity
 
-Process **`சேரன் செங்குட்டுவன்` scan 47 / printed p.42 only** as the next Scene-2 continuation-page verification activity.
+Process **`சேரன் செங்குட்டுவன்` scan 48 / printed p.43 only** as the next Scene-2 continuation-page verification activity.
 
 Requirements:
 
-- inspect scan 47 directly from the controlling PDF;
+- inspect scan 48 directly from the controlling PDF;
 - use the user-supplied Gemini first-pass as comparison baseline;
 - preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and source marks;
 - apply the old-glyph safeguard and avoid expectation-based lexical correction;
-- create `works/cheran-senguttuvan/pages/0047.md` only after direct verification;
+- create `works/cheran-senguttuvan/pages/0048.md` only after direct verification;
 - update `SCENE2_PAGE_VERIFICATION.md`, work/source progress, page maps, README files and handover after verification;
-- expected durable total after success: **4/10 pages verified**, Scene-2 gate **2/4**;
-- do **not** process scan 48 in the same activity;
+- expected durable total after success: **5/10 pages verified**, Scene-2 gate **3/4**;
+- do **not** process scan 49 in the same activity;
 - do **not** assemble Scene 2 in the same activity;
 - do **not** use the English witness to reconstruct Tamil.
 
