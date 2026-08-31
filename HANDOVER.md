@@ -25,47 +25,57 @@ Controlling Tamil extent: scans **44–53** / printed pp. **39–48**; four sour
 
 The user supplied a Gemini word-to-word first pass covering the Cheran source extent. Gemini is a comparison baseline, not the controlling authority. Do not replace plausible old-glyph readings by familiar spelling, grammar or semantic expectation. Use unambiguous scan evidence when it differs and document the difference. Do not use the English witness to reconstruct Tamil.
 
-### `காட்சி — 1` — COMPLETE
+### Completed scenes
 
-Scans **44–45** / printed pp.39–40: **2/2 verified**, `scenes/01.md` assembled, fidelity **PASS**.
+- `காட்சி — 1`: scans **44–45** / pp.39–40 — page gate + assembly/fidelity **PASS**.
+- `காட்சி — 2`: scans **46–49** / pp.41–44 — page gate + assembly/fidelity **PASS**.
 
-### `காட்சி — 2` — COMPLETE
+### `காட்சி—3.` — PAGE GATE IN PROGRESS
 
-Source extent: scans **46–49** / printed pp.41–44.
+Source extent: scans **50–51** / printed pp.45–46.
 
-Durable artifacts:
+Current durable state:
 
-- `works/cheran-senguttuvan/pages/0046.md`–`0049.md` — **4/4 verified**;
-- `works/cheran-senguttuvan/SCENE2_PAGE_VERIFICATION.md` — **PASS / COMPLETE**;
-- `works/cheran-senguttuvan/scenes/02.md` — **assembly-reviewed / PASS**;
-- `works/cheran-senguttuvan/SCENE2_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**.
+- `works/cheran-senguttuvan/pages/0050.md` — scan **50** / p.45 — **verified**;
+- `works/cheran-senguttuvan/SCENE3_PAGE_VERIFICATION.md` — **1/2 PASS**;
+- scan **51** — not processed;
+- Scene-3 assembly — blocked until 2/2 pages verified.
 
-The Scene-2 assembly uses the verified page records as sole textual authority. It preserves the locked source reconciliations, speaker-label variants, punctuation and stage directions; only legitimate physical print-line/page-boundary joins are made. None of scans 46–49 contains a closing `*`, so none is invented.
+Important scan-50 controls:
+
+- source heading `காட்சி—3.`;
+- setting `சேரன் கொலுமண்டபம்`;
+- source speaker labels `சேரன்:` and `ஒரு அமைச்சர் :`;
+- source `உத்திரனும்—விசித்திரனும்—சித்தரனும்—சிவேதனும்—பைரவனும்!` rather than Gemini's `...னாம்` sequence;
+- source `கனகனும்விசயனும்` rather than Gemini `கனகனாம் விசயனாம்`;
+- source punctuation `வள்ளுவனே!`, `முல்லைக் கொல்லையே!`, and joined `நெடுஞ்செழியனே!`;
+- source short spaced hyphen retained in `வீணன் - கயலைப்`;
+- plausible first-pass `காணா` retained under the old-glyph safeguard;
+- scan 50 contains no closing `*`.
 
 Current Cheran progress:
 
-- Tamil pages verified: **6/10**;
-- Scene-1 assembly/fidelity: **PASS**;
-- Scene-2 assembly/fidelity: **PASS**;
+- Tamil pages verified: **7/10**;
 - scenes assembled from verified Tamil: **2/4**;
-- scans **50–53**: not processed.
+- Scene-3 page gate: **1/2**.
 
 ## Exact next activity
 
-Process **`சேரன் செங்குட்டுவன்` scan 50 / printed p.45 only** as the opening-page verification activity for `காட்சி—3.`.
+Process **`சேரன் செங்குட்டுவன்` scan 51 / printed p.46 only** as the closing-page verification activity for `காட்சி—3.`.
 
 Requirements:
 
 - fetch live `main` first;
-- inspect scan 50 directly from the controlling PDF;
+- inspect scan 51 directly from the controlling PDF;
 - use the user-supplied Gemini first pass as comparison baseline;
-- preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and source marks;
+- preserve source wording, punctuation, speaker labels, physical line boundaries and final source marks;
 - apply the old-glyph safeguard and avoid expectation-based lexical correction;
-- create `works/cheran-senguttuvan/pages/0050.md` only after direct verification;
-- create/update the Scene-3 page-verification record and work/source progress after verification;
-- expected durable page progress after success: **7/10**;
-- do **not** process scan 51 in the same activity;
+- create `works/cheran-senguttuvan/pages/0051.md` only after direct verification;
+- update `SCENE3_PAGE_VERIFICATION.md`, work/source progress, page maps, README files and handover after verification;
+- expected durable page progress after success: **8/10**, Scene-3 gate **2/2 COMPLETE**;
+- preserve the scene-closing `*` exactly if confirmed on scan 51;
 - do **not** assemble Scene 3 in the same activity;
+- do **not** process scan 52 in the same activity;
 - do **not** use the English witness to reconstruct Tamil.
 
 ## Permanent safeguards
