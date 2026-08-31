@@ -11,48 +11,33 @@ Work-level archival entry for Kalaignar's one-act play **`சாக்ரடீ�
 - `காட்சி—2` scan **32**: **page gate + assembly/fidelity PASS after user-directed lexical rollback**;
 - `காட்சி—3` scan **33**: **page gate + assembly/fidelity PASS**;
 - `காட்சி—4` scans **34–39**: **6/6 verified; assembly/fidelity PASS**;
-- `காட்சி—5` scans **40–43** / pp.35–38: **4/4 pages verified — page gate COMPLETE**;
+- `காட்சி—5` scans **40–43**: **4/4 verified; assembly/fidelity PASS**;
 - total Tamil page verification: **17/17 COMPLETE**;
 - dramatic-body pages verified: **15/15 COMPLETE**;
 - source-printed dramatic scenes: **5**;
-- scenes assembled: **4/5**.
+- scenes assembled: **5/5 COMPLETE**.
 
 Scene map:
 
 1. `காட்சி—1` — scans 29–31 — **assembly/fidelity PASS**;
 2. `காட்சி—2` — scan 32 — **assembly/fidelity PASS**;
 3. `காட்சி—3` — scan 33 — **assembly/fidelity PASS**;
-4. `காட்சி — 4` — scans 34–39 — **6/6 page gate + `scenes/04.md` assembly/fidelity PASS**;
-5. `காட்சி—5` — scans 40–43 — **4/4 page gate COMPLETE; assembly next**.
+4. `காட்சி — 4` — scans 34–39 — **assembly/fidelity PASS**;
+5. `காட்சி—5.` — scans 40–43 — **4/4 page gate + `scenes/05.md` assembly/fidelity PASS**.
 
-## Active Gemini / scan rule
+## Active Gemini / scan rule retained in the archive
 
-For continuing `சாக்ரடீஸ்` work:
+For the completed `சாக்ரடீஸ்` page records:
 
-- retain the user-supplied Gemini transcription for lexical **dialogue words**;
-- use the scan for headings, punctuation, dash, speaker-label spacing/structure, physical line boundaries and final source marks;
-- do not replace, add or normalize Gemini dialogue-word readings by grammar, familiar spelling, semantic expectation or visual interpretation unless explicitly requested.
+- user-supplied Gemini transcription controls lexical dialogue words under the user's explicit instruction;
+- the controlling scan supplies headings, punctuation, dash, speaker-label spacing/structure, physical line boundaries and final source marks;
+- no assistant lexical normalization is introduced unless explicitly requested by the user.
 
-Scene-5 page verification is recorded in [`SCENE5_PAGE_VERIFICATION.md`](SCENE5_PAGE_VERIFICATION.md) — **4/4 PASS / COMPLETE**.
-
-For scan 40, two scan-visible lexical omissions in Gemini remain documented and deliberately unfilled.
-
-For scan 41, Gemini dialogue words are retained while the scan controls punctuation/dashes, physical lines and speaker-label structure/spacing.
-
-For scan 42, Gemini dialogue words remain controlling. The scan controls `சாக்:` / `கிரி:` label structure, the standalone `(விஷக் கிண்ணத்தை வாங்குகிறான்.)` direction, long dashes, quote punctuation, physical lines and source marks. Gemini's `பகுத்த றிவால்` is retained.
-
-For scan 43, Gemini dialogue words remain controlling, including `சாச் / ரடீஸ்` across the physical source line boundary. The scan controls punctuation, `சாக்:` label spacing, physical lines, stage-direction punctuation and the centered closing `*`.
-
-The 2009 published-English witness remains secondary and cannot control Tamil.
+The 2009 published-English witness remains secondary and does not control Tamil.
 
 ## Verified page records
 
-`pages/0027.md` through `pages/0043.md` are verified. Scene 5 has:
-
-- `pages/0040.md` — opening — verified;
-- `pages/0041.md` — continuation — verified;
-- `pages/0042.md` — continuation — verified;
-- `pages/0043.md` — closing — verified; final `*` retained.
+`pages/0027.md` through `pages/0043.md` are verified for the complete `சாக்ரடீஸ்` source extent.
 
 ## Assembly state
 
@@ -60,8 +45,22 @@ The 2009 published-English witness remains secondary and cannot control Tamil.
 - `scenes/02.md` — PASS;
 - `scenes/03.md` — PASS;
 - `scenes/04.md` — PASS;
-- `காட்சி—5` — **not yet assembled; page gate 4/4 COMPLETE**.
+- `scenes/05.md` — PASS.
+
+Scene-level audits:
+
+- `ASSEMBLY_FIDELITY_REVIEW.md` — Scene 1 PASS;
+- `SCENE2_ASSEMBLY_FIDELITY_REVIEW.md` — Scene 2 PASS;
+- `SCENE3_ASSEMBLY_FIDELITY_REVIEW.md` — Scene 3 PASS;
+- `SCENE4_ASSEMBLY_FIDELITY_REVIEW.md` — Scene 4 PASS;
+- `SCENE5_ASSEMBLY_FIDELITY_REVIEW.md` — Scene 5 PASS.
+
+## Completion checkpoint
+
+**Tamil page-level verification and five-scene assembly for `சாக்ரடீஸ்` are complete.**
+
+The final Scene-5 audit confirms 4/4 verified page records represented, 0 unresolved assembly discrepancies, 0 speaker-label mismatches, 0 assistant lexical substitutions, and retention of the final `*`.
 
 ## Next activity
 
-Assemble **`காட்சி—5` only** from verified `pages/0040.md`–`0043.md` and run the page-record ↔ scene fidelity audit. The verified page records are the sole textual authority for assembly. Do not begin `சேரன் செங்குட்டுவன்` in the same activity.
+Proceed source-sequentially to **`சேரன் செங்குட்டுவன்` scan 44 / printed p.39 page verification only**. Do not process scan 45 in the same activity.
