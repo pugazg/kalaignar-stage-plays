@@ -28,7 +28,17 @@ No standalone publication year has been established from the supplied scans insp
 - Scans 18–26: **அனார்கலி**.
 - Scans 27–43: **சாக்ரடீஸ்**.
 - Scans 44–53: **சேரன் செங்குட்டுவன்**.
-- Scan 54: illustrated back cover.
+- Scan 54: illustrated back cover; page-level archival record [`../pages/0054.md`](../pages/0054.md) is **verified**.
+
+## Back-cover verification — scan 54
+
+Direct visual inspection confirms:
+
+- the only visible printed wording is **`கலைஞரின் நான்மணி மாலை`**, arranged over three lines;
+- the page is a full-page colour printed illustration rather than literary body text;
+- no printed page number, publisher/imprint line, price line or caption is visible;
+- no library stamp, accession number, later handwriting or other obvious non-authorial mark is visible;
+- no obvious torn or missing text area is visible.
 
 ## Printed pagination
 
@@ -37,6 +47,7 @@ No standalone publication year has been established from the supplied scans insp
 - Scans 18–26 visibly carry printed pages 13–21.
 - Scans 27–43 visibly carry printed pages 22–38.
 - Scans 44–53 visibly carry printed pages 39–48.
+- Scan 54 carries no printed page number.
 
 ## Scan / physical-copy observations
 
