@@ -29,7 +29,7 @@ Controlling Tamil extent:
 
 ### First-pass / source rule
 
-The user supplied a Gemini word-to-word first pass covering the Cheran source extent in the current chat.
+The user supplied a Gemini word-to-word first pass covering the Cheran source extent.
 
 For Cheran, follow the permanent source-first old-glyph policy:
 
@@ -39,53 +39,57 @@ For Cheran, follow the permanent source-first old-glyph policy:
 - if the scan is unambiguous, use the scan-supported form and document the difference;
 - do not use the English witness to reconstruct Tamil.
 
-### `காட்சி — 1` page gate — COMPLETE
+### `காட்சி — 1` — COMPLETE
+
+Source extent: scans **44–45** / printed pp.39–40.
 
 Durable files:
 
-- `works/cheran-senguttuvan/pages/0044.md` — scan 44 / p.39 — **verified**;
-- `works/cheran-senguttuvan/pages/0045.md` — scan 45 / p.40 — **verified**;
+- `works/cheran-senguttuvan/pages/0044.md` — **verified**;
+- `works/cheran-senguttuvan/pages/0045.md` — **verified**;
 - `works/cheran-senguttuvan/SCENE1_PAGE_VERIFICATION.md` — **2/2 PASS / COMPLETE**;
-- `works/cheran-senguttuvan/indexes/page-map.md`.
+- `works/cheran-senguttuvan/scenes/01.md` — **assembly-reviewed**;
+- `works/cheran-senguttuvan/SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**;
+- `works/cheran-senguttuvan/indexes/page-map.md` — synchronized.
 
-Scan-44 controls include:
+Scene-1 assembly integrity:
 
-- printed title displayed as `சேரன்` / `செங்குட்டுவன்`;
-- pre-scene voice-over beginning `நாடகத் துவக்கத்திற்கு முன்பு குரல்:`;
-- source heading `காட்சி — 1`;
-- unambiguous first-pass/source differences including `வேந்தர் குலதிலக` → `வேந்தர்குலதிலக` and `கனக விஐயர்` → `கனக விஜயர்`.
+- verified page records used: **2/2**;
+- page-record ↔ scene comparison: **PASS**;
+- unresolved assembly discrepancies: **0**;
+- speaker-label count mismatches: **0**;
+- assistant lexical substitutions introduced: **0**;
+- English-witness reconstruction: **0**;
+- closing `*`: **not present in either source page and not invented**.
 
-Scan-45 controls include:
+The assembled scene retains the work-opening pre-scene voice-over and source heading `காட்சி — 1`. It uses the verified page records as the sole textual authority and joins only legitimate physical print-line boundaries.
 
-- no printed stray `ழ்!` after `செந்தமிழ்!`;
-- `யுல:` before the poem is source `புல:`;
-- Gemini's standalone `தமிழன்!` belongs inside the following `கன:` speech after `...போராடினான்`;
-- `யுல: : கனகர் சொன்னது...` is source `விஜ: கனகர் சொன்னது...`;
-- source long-dash forms and physical print-line boundaries are retained;
-- scan 45 closes Scene 1 structurally but carries **no printed closing `*`**.
+Locked upstream source reconciliations include:
+
+- scan 44: `வேந்தர் குலதிலக` → `வேந்தர்குலதிலக`; `கனக விஐயர்` → `கனக விஜயர்`;
+- scan 45: stray Gemini `ழ்!` removed because absent from source; `யுல:` → `புல:`; standalone `தமிழன்!` restored inside the following `கன:` speech; `யுல: : கனகர் சொன்னது...` → `விஜ: கனகர் சொன்னது...`.
 
 Current Cheran progress:
 
 - Tamil pages verified: **2/10**;
-- Scene-1 page gate: **2/2 COMPLETE**;
-- scenes assembled from verified Tamil: **0/4**;
+- scenes assembled from verified Tamil: **1/4**;
 - scan 46: **not processed**.
 
 ## Exact next activity
 
-Assemble **`சேரன் செங்குட்டுவன்` `காட்சி — 1` only** from verified page records `works/cheran-senguttuvan/pages/0044.md` and `0045.md`.
+Process **`சேரன் செங்குட்டுவன்` scan 46 / printed p.41 only** as the opening-page verification activity for `காட்சி — 2`.
 
 Requirements:
 
-- fetch live `main` first and read the permanent guide/current handover/Scene-1 page records and page-gate record;
-- treat verified page records as the **sole textual authority** for assembly;
-- mechanically join only legitimate physical print-line and page-boundary breaks;
-- preserve the work-opening pre-scene voice-over, source heading, wording, punctuation and speaker-label variants;
-- do **not** invent a closing `*` because neither verified Scene-1 page contains one;
-- create the Scene-1 assembled file following existing repository naming/format conventions;
-- run a page-record ↔ scene fidelity audit and require PASS;
-- update work/source/readme/page-map/handover state after fidelity PASS;
-- do **not** process scan 46 in the same activity;
+- fetch live `main` first and read the permanent guide/current handover/work/source state;
+- inspect scan 46 directly from the controlling PDF;
+- use the user-supplied Gemini first-pass segment as comparison baseline if available; in a fresh chat, ask for only the relevant scan-46 / p.41 segment rather than inventing it from memory;
+- preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and source marks;
+- create `works/cheran-senguttuvan/pages/0046.md` only after direct verification;
+- start/update a dedicated Scene-2 page-verification record and page maps after verification;
+- expected durable page progress after success: **3/10**;
+- do **not** process scan 47 in the same activity;
+- do **not** assemble Scene 2 in the same activity;
 - do **not** use the English witness to fill Tamil gaps.
 
 ## Permanent safeguards
