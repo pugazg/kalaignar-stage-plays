@@ -4,7 +4,7 @@ Printed pagination is recorded only where directly visible.
 
 | Scan page(s) | Printed page(s) | Section / work | Current state | Notes |
 |---|---|---|---|---|
-| 1–5 | — | shared front matter | partial | Full front-matter transcription pending. |
+| 1–5 | — | shared front matter | partial | Full front-matter page-level archival processing pending. |
 | 6–17 | — / 2–12 | `பரதாயணம்` | assembly-reviewed | Tamil page/assembly PASS; English translation PASS. |
 | 18–26 | 13–21 | `அனார்கலி` | assembly-reviewed | 9/9 verified; 4/4 scenes assembled; fidelity PASS. |
 | 27–28 | 22–23 | `சாக்ரடீஸ்` — introductory note | verified | 2/2 verified. |
@@ -19,7 +19,7 @@ Printed pagination is recorded only where directly visible.
 | 51 | 46 | `சேரன் செங்குட்டுவன்` — `காட்சி—3.` closing | assembly-reviewed | Scene-3 assembly/fidelity PASS; centered closing `*` retained. |
 | 52 | 47 | `சேரன் செங்குட்டுவன்` — `காட்சி—4.` opening | assembly-reviewed | Scene-4 assembly/fidelity PASS. |
 | 53 | 48 | `சேரன் செங்குட்டுவன்` — `காட்சி—4.` closing | assembly-reviewed | Scene-4 assembly/fidelity PASS; `சேர்!` and centered `- * -` retained. |
-| 54 | — | back cover | partial | Archival description pending; next activity. |
+| 54 | — | back cover | verified | [`../pages/0054.md`](../pages/0054.md); illustrated printed back cover carrying `கலைஞரின் நான்மணி மாலை`; no visible pagination or non-authorial marks. |
 
 ## Current checkpoint
 
@@ -27,4 +27,6 @@ Printed pagination is recorded only where directly visible.
 
 `சேரன் செங்குட்டுவன்` is complete for scans **44–53 / printed pp.39–48**: **10/10 Tamil pages verified, 4/4 scenes assembled, all page-record fidelity gates PASS**.
 
-Next source-sequential activity: process **scan 54 / back cover only** as an archival description. Do not begin another work in the same activity.
+Composite-source scan **54 / back cover** is now visually archived and **verified**. Shared front matter scans **1–5** remain only partially represented at page level.
+
+Next source-sequential activity: process **scan 1 / illustrated front cover only** as an archival-description page. Do not begin another work in the same activity.
