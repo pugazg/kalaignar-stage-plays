@@ -11,7 +11,7 @@
 | 40 | 35 | `காட்சி—5` — opening | verified | Scene-5 gate 1/4; heading `காட்சி—5.`; Gemini lexical material retained; scan controls typography/source marks; no closing `*`. |
 | 41 | 36 | `காட்சி—5` — continuation | verified | Scene-5 gate 2/4; Gemini dialogue words retained; scan controls punctuation/dashes, physical lines and speaker-label structure/spacing; no closing `*`. |
 | 42 | 37 | `காட்சி—5` — continuation | verified | Scene-5 gate 3/4; Gemini dialogue words retained; scan controls labels, stage-direction structure, long dashes, quote punctuation, physical lines and source marks; no closing `*`. |
-| 43 | 38 | `காட்சி—5` — closing | not-started | Structural survey: closes with `*`. |
+| 43 | 38 | `காட்சி—5` — closing | verified | Scene-5 gate 4/4 COMPLETE; Gemini dialogue words retained; scan controls punctuation/label/physical-line structure and final centered `*`. |
 
 ## Current checkpoint
 
@@ -20,17 +20,17 @@
 - `காட்சி—2`: **assembly/fidelity PASS**;
 - `காட்சி—3`: **assembly/fidelity PASS**;
 - `காட்சி — 4`: **6/6 page gate + assembly/fidelity PASS**;
-- `காட்சி—5`: **3/4 pages verified (scans 40–42)**;
-- total `சாக்ரடீஸ்` page progress: **16/17 verified**;
-- dramatic-body page progress: **14/15 verified**;
+- `காட்சி—5`: **4/4 pages verified / page gate COMPLETE**;
+- total `சாக்ரடீஸ்` page progress: **17/17 COMPLETE**;
+- dramatic-body page progress: **15/15 COMPLETE**;
 - scenes assembled: **4/5**.
 
-Detailed Scene-5 page gate: `../SCENE5_PAGE_VERIFICATION.md` — **3/4 PASS**.
+Detailed Scene-5 page gate: `../SCENE5_PAGE_VERIFICATION.md` — **4/4 PASS / COMPLETE**.
 
 ## Active lexical / visual rule
 
-Retain Gemini's dialogue words. Use the controlling scan for headings where present, punctuation, long dash, speaker-label spacing/structure, physical line boundaries and final source marks. Do not introduce assistant dialogue-word corrections or additions by expectation.
+Retain Gemini's dialogue words. Use the controlling scan for headings where present, punctuation, dash, speaker-label spacing/structure, physical line boundaries and final source marks. Do not introduce assistant dialogue-word corrections or additions by expectation.
 
 ## Next activity
 
-Verify `காட்சி—5` scan **43** / printed p.38 only as the closing page. Preserve the closing `*` if present. Do not assemble Scene 5 in that same activity.
+Assemble `காட்சி—5` only from verified `pages/0040.md`–`0043.md` and run the page-record ↔ scene fidelity audit. Do not begin `சேரன் செங்குட்டுவன்` in that activity.
