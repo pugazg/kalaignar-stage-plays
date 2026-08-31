@@ -9,7 +9,7 @@ Work-level archival entry for Kalaignar's one-act play **`சேரன் செ
 - printed pages: **39–48**;
 - Tamil page-level visual verification: **8/10**;
 - source-printed dramatic scenes: **4**;
-- scenes assembled from verified Tamil: **2/4**.
+- scenes assembled from verified Tamil: **3/4**.
 
 Completed Scene 1:
 
@@ -19,12 +19,13 @@ Completed Scene 2:
 
 - scans **46–49** / printed pp.41–44 — page gate + assembly/fidelity **PASS**.
 
-Scene 3 page gate is complete:
+Completed Scene 3:
 
-- source extent: scans **50–51** / printed pp.45–46;
-- scans **50–51** — **2/2 verified**;
+- scans **50–51** / printed pp.45–46 — **2/2 verified**;
 - `SCENE3_PAGE_VERIFICATION.md` — **PASS / COMPLETE**;
-- Scene-3 assembly — **not yet performed**.
+- `scenes/03.md` — **assembly-reviewed / PASS**;
+- `SCENE3_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**;
+- scan 51 centered closing `*` retained.
 
 Work page map: [`indexes/page-map.md`](indexes/page-map.md).
 
@@ -36,10 +37,16 @@ The 2009 published-English witness remains **secondary only** and must not recon
 
 ## Scene 3 locked controls
 
-Scan 50 preserves source `காட்சி—3.`, `சேரன் கொலுமண்டபம்`, the source `...னும்` five-name sequence, `கனகனும்விசயனும்`, source punctuation/label forms, the short spaced hyphen in `வீணன் - கயலைப்`, and plausible first-pass `காணா` under the old-glyph safeguard.
+The assembled Scene 3 preserves the verified page-record decisions, including:
 
-Scan 51 preserves source long dashes, `நதியும், பொழிலும்`, `இல்லை!....இல்லை!..`, `தோழர்களே! ....புறப்படுங்கள்!`, physical print lines, and the centered closing `*`. It continues the scan-50 `சேரன்:` speech without a new speaker label.
+- source `காட்சி—3.` and `சேரன் கொலுமண்டபம்`;
+- labels `சேரன்:` and `ஒரு அமைச்சர் :`;
+- source `உத்திரனும்—விசித்திரனும்—சித்தரனும்—சிவேதனும்—பைரவனும்!` and `கனகனும்விசயனும்`;
+- source short spaced hyphen `வீணன் - கயலைப்` and retained plausible `காணா`;
+- `வள்ளுவனே!`, `முல்லைக் கொல்லையே!`, `நெடுஞ்செழியனே!`;
+- scan 51 continuing the same `சேரன்:` speech with no new label;
+- scan-51 long dashes, `நதியும், பொழிலும்`, `இல்லை!....இல்லை!..`, `தோழர்களே! ....புறப்படுங்கள்!`, and centered closing `*`.
 
 ## Next activity
 
-Assemble **`காட்சி—3.` only** from verified `pages/0050.md`–`0051.md`, then run the page-record ↔ scene fidelity audit. Do not process scan 52 or begin the final scene in the same activity.
+Verify **scan 52 / printed p.47 only** as the opening page of the final scene. Do not process scan 53 or assemble the final scene in the same activity.
