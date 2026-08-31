@@ -27,7 +27,8 @@ Before any write, read completely:
 7. `sources/naanmani-malai-tamil/indexes/page-map.md`
 8. `sources/naanmani-malai-tamil/pages/0001.md`
 9. `sources/naanmani-malai-tamil/pages/0002.md`
-10. `sources/naanmani-malai-tamil/pages/0054.md`
+10. `sources/naanmani-malai-tamil/pages/0003.md`
+11. `sources/naanmani-malai-tamil/pages/0054.md`
 
 Then re-fetch live `main` immediately before the first write.
 
@@ -44,23 +45,24 @@ Then re-fetch live `main` immediately before the first write.
 - scans **6–53** contain the completed dramatic works;
 - scan **1 / illustrated front cover** — **verified** at `sources/naanmani-malai-tamil/pages/0001.md`;
 - scan **2 / title page** — **verified** at `sources/naanmani-malai-tamil/pages/0002.md`;
-- scan 2 preserves `கலைஞரின் நான்மணி மாலை`, publisher `தமிழ்க்கனி பதிப்பகம்`, the decorative lamp emblem between the publisher words, and `சென்னை-28`;
+- scan **3 / copyright-imprint page** — **verified** at `sources/naanmani-malai-tamil/pages/0003.md`;
+- scan 3 preserves exact printed forms `© பதிப்புரிமை`, `விலை ரூ. 4/-`, `அச்சிட்டோர் :`, and `ஜெம் பிரஸ், சென்னை - 600 001.`;
 - scan **54 / illustrated back cover** — **verified** at `sources/naanmani-malai-tamil/pages/0054.md`;
-- shared front-matter scans **3–5** remain pending at page level;
+- shared front-matter scans **4–5** remain pending at page level;
 - source PDF remains external to the repository.
 
 ## Exact next activity
 
-Process **scan 3 / copyright-imprint page only** as a page-level archival transcription/description for the composite Tamil source.
+Process **scan 4 / `என்னுரை` only** as a page-level archival transcription for the composite Tamil source.
 
 Requirements:
 
-- inspect scan 3 directly from the controlling PDF;
-- preserve every visible printed copyright, price, printer/imprint, address/location and other publication line exactly, including punctuation and spacing;
-- distinguish printed publication material from library stamps, accession marks, later handwriting, damage or other non-authorial marks;
-- create `sources/naanmani-malai-tamil/pages/0003.md` only after direct visual verification;
+- inspect scan 4 directly from the controlling PDF;
+- transcribe only what the source visibly supports, preserving heading, wording, punctuation, paragraph structure, signatures/dates if printed, and physical line distinctions where relevant;
+- distinguish printed publication text from library marks, later handwriting, stamps, damage, bleed-through or other non-authorial marks;
+- create `sources/naanmani-malai-tamil/pages/0004.md` only after direct visual verification;
 - update the composite source page map, source metadata/README, root README, handover and this next-chat prompt after verification;
-- do **not** process scan 4 in the same activity;
+- do **not** process scan 5 in the same activity;
 - do **not** reopen any completed dramatic work;
 - do **not** begin another work in the same activity.
 
