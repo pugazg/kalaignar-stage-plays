@@ -28,7 +28,8 @@ Before any write, read completely:
 8. `sources/naanmani-malai-tamil/pages/0001.md`
 9. `sources/naanmani-malai-tamil/pages/0002.md`
 10. `sources/naanmani-malai-tamil/pages/0003.md`
-11. `sources/naanmani-malai-tamil/pages/0054.md`
+11. `sources/naanmani-malai-tamil/pages/0004.md`
+12. `sources/naanmani-malai-tamil/pages/0054.md`
 
 Then re-fetch live `main` immediately before the first write.
 
@@ -46,23 +47,25 @@ Then re-fetch live `main` immediately before the first write.
 - scan **1 / illustrated front cover** — **verified** at `sources/naanmani-malai-tamil/pages/0001.md`;
 - scan **2 / title page** — **verified** at `sources/naanmani-malai-tamil/pages/0002.md`;
 - scan **3 / copyright-imprint page** — **verified** at `sources/naanmani-malai-tamil/pages/0003.md`;
-- scan 3 preserves exact printed forms `© பதிப்புரிமை`, `விலை ரூ. 4/-`, `அச்சிட்டோர் :`, and `ஜெம் பிரஸ், சென்னை - 600 001.`;
+- scan **4 / `என்னுரை`** — **verified** at `sources/naanmani-malai-tamil/pages/0004.md`;
+- scan 4 retains the user-supplied words; the controlling scan was used for heading, punctuation/spacing, physical line structure, display typography and the facsimile-signature area;
 - scan **54 / illustrated back cover** — **verified** at `sources/naanmani-malai-tamil/pages/0054.md`;
-- shared front-matter scans **4–5** remain pending at page level;
+- only shared front-matter **scan 5 / `பதிப்புரை`** remains pending at page level;
 - source PDF remains external to the repository.
 
 ## Exact next activity
 
-Process **scan 4 / `என்னுரை` only** as a page-level archival transcription for the composite Tamil source.
+Process **scan 5 / `பதிப்புரை` only** as the final shared-front-matter page-level archival transcription for the composite Tamil source.
+
+The user already supplied the scan-5 transcription in the same conversation. **Keep the supplied words.** Use direct scan comparison to check and adjust only heading, punctuation, spaces, hyphens/dashes, quotation marks, paragraph/physical line structure, signature/imprint treatment and other source marks unless the user separately authorizes a lexical change.
 
 Requirements:
 
-- inspect scan 4 directly from the controlling PDF;
-- transcribe only what the source visibly supports, preserving heading, wording, punctuation, paragraph structure, signatures/dates if printed, and physical line distinctions where relevant;
-- distinguish printed publication text from library marks, later handwriting, stamps, damage, bleed-through or other non-authorial marks;
-- create `sources/naanmani-malai-tamil/pages/0004.md` only after direct visual verification;
+- inspect scan 5 directly from the controlling PDF;
+- preserve the user-supplied lexical wording;
+- distinguish printed publication text from library stamps, accession marks, later handwriting, damage, bleed-through or other non-authorial marks;
+- create `sources/naanmani-malai-tamil/pages/0005.md` only after direct visual verification;
 - update the composite source page map, source metadata/README, root README, handover and this next-chat prompt after verification;
-- do **not** process scan 5 in the same activity;
 - do **not** reopen any completed dramatic work;
 - do **not** begin another work in the same activity.
 
