@@ -10,11 +10,11 @@ Use the GitHub connector and work directly on `main`.
 
 Controlling source PDF: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`.
 
-**Attach the controlling PDF again in a fresh chat before page-level visual work.**
+**Attach the controlling PDF again in a fresh chat before new page-level visual work.**
 
 ## Live-state rule
 
-Fetch live GitHub `main` **FIRST** and treat it as authoritative. The Scene-2 page-verification activity began from `c0ca398e4b6583638fdcefe58393f976e06a9c51`; preserve any newer live state.
+Fetch live GitHub `main` **FIRST** and treat it as authoritative. Scene-2 page verification was corrected after the user rejected assistant word-level substitutions. Preserve the newer lexical-rollback state and never restore the withdrawn word corrections.
 
 ## Mandatory startup reading
 
@@ -50,31 +50,44 @@ Active work: `சாக்ரடீஸ்`.
 - source extent: scans **27–43** / pp.22–38;
 - introductory note scans 27–28: **2/2 verified**;
 - `காட்சி—1` scans 29–31: **3/3 verified; assembly/fidelity PASS**;
-- `காட்சி—2` scan 32 / p.27: **1/1 verified; assembly pending**;
+- `காட்சி—2` scan 32 / p.27: **1/1 verified after user-directed lexical rollback; assembly pending**;
 - total Socrates page progress: **6/17 verified**;
 - dramatic page progress: **4/15**;
 - scenes assembled: **1/5**.
 
-Scene-2 page gate is recorded in `SCENE2_PAGE_VERIFICATION.md`. Direct scan inspection proved Gemini `கவிஞனாம்` → source `கவிஞனும்` and Gemini `நிபுணனாம்` → source `நிபுணனும்`. Source label spacing, long dash, punctuation runs and final `*` are preserved in `pages/0032.md`.
+## Critical current transcription rule
 
-Permanent old-glyph rule: **retain a plausible Gemini reading unless direct scan evidence is unambiguous. Do not replace it because another spelling/name/grammar looks more familiar.**
+The user explicitly instructed:
+
+- **For words, keep Gemini's transcription.**
+- For **heading, punctuation, long dash, speaker-label spacing, physical line breaks and final `*`**, keep what is found in the controlling scan.
+
+Do not make assistant word corrections based on visual interpretation, grammar, familiar spelling or sentence meaning unless the user explicitly requests a word-level recheck.
+
+For Scene 2 specifically, the prior assistant readings `கவிஞனும் மெலிடசும்` and `அரசியல் நிபுணனும் நீயும்` are wrong and withdrawn. Corrected verified `pages/0032.md` retains Gemini's:
+
+- `கவிஞனாம் மெலிடசும்`;
+- `அரசியல் நிபுணனாம் நீயும்`.
+
+The scan-controlled heading, punctuation, long dash, speaker-label spacing, physical line breaks and final `*` remain preserved in that page record.
 
 The 2009 published-English witness remains secondary and cannot reconstruct Tamil.
 
 ## Exact next activity
 
-Assemble **`சாக்ரடீஸ்` `காட்சி—2` only** from verified `works/socrates/pages/0032.md`.
+Assemble **`சாக்ரடீஸ்` `காட்சி—2` only** from corrected verified `works/socrates/pages/0032.md`.
 
 Requirements:
 
-- verified page record `0032.md` is the sole textual authority;
+- `pages/0032.md` is the sole textual authority for assembly;
 - mechanically join legitimate print-line splits only;
-- preserve exact wording, punctuation, speaker-label spacing, repetitions, stage directions, source-sensitive forms and the final `*`;
+- retain Gemini lexical words exactly;
+- preserve scan-controlled punctuation, speaker-label spacing, long dash, repetitions, stage directions and final `*`;
 - create the assembled Scene-2 file under `works/socrates/scenes/`;
 - extend/create the page-record ↔ scene fidelity audit and require PASS before advancing;
 - **do not start scan 33 / `காட்சி—3` in the same activity**;
 - do not start `சேரன் செங்குட்டுவன்`.
 
-After Scene-2 assembly/fidelity PASS, the next distinct activity is `காட்சி—3` page verification at scan **33** / printed p.28.
+After Scene-2 assembly/fidelity PASS, the next distinct activity is `காட்சி—3` page verification at scan **33** / printed p.28 under the same Gemini-words / scan-typography rule.
 
 When I say **“Proceed with next activity”**, execute this exact activity directly without asking me to choose a routine next step.
