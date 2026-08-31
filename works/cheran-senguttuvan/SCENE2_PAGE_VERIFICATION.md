@@ -6,93 +6,91 @@ Controlling Tamil source: `TVA_BOK_0065576_நான்மணி_மாலை.pd
 
 Scene 2 spans scans **46–49** / printed pp. **41–44**.
 
-Verified so far:
+All four pages are now verified:
 
 - scan **46** / printed p.41 — Scene-2 opening — `pages/0046.md`;
-- scan **47** / printed p.42 — Scene-2 continuation — `pages/0047.md`;
-- scan **48** / printed p.43 — Scene-2 continuation — `pages/0048.md`.
+- scan **47** / printed p.42 — continuation — `pages/0047.md`;
+- scan **48** / printed p.43 — continuation — `pages/0048.md`;
+- scan **49** / printed p.44 — closing — `pages/0049.md`.
 
-Scan 49 is not processed yet, and Scene 2 is not assembled.
+Scene 2 is not assembled in this activity.
 
 ## Result
 
 | Scan | Printed page | Role | Result |
 |---:|---:|---|---|
 | 46 | 41 | `காட்சி — 2` opening | **PASS / verified** |
-| 47 | 42 | `காட்சி — 2` continuation | **PASS / verified** |
-| 48 | 43 | `காட்சி — 2` continuation | **PASS / verified** |
+| 47 | 42 | continuation | **PASS / verified** |
+| 48 | 43 | continuation | **PASS / verified** |
+| 49 | 44 | closing | **PASS / verified** |
 
-Scene-2 page gate: **3/4 verified**.
+Scene-2 page gate: **4/4 PASS / COMPLETE**.
 
 ## First-pass / source reconciliation
 
-The user supplied a Gemini word-to-word first pass covering the Cheran source extent. It is used as the comparison baseline; the controlling Tamil scan remains authoritative under `STAGE_PLAY_PROCESSING_GUIDE.md`.
+The user supplied a Gemini word-to-word first pass covering the Cheran source extent. It is the comparison baseline; the controlling Tamil scan remains authoritative under `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
 ### Scan 46
 
-Unambiguous differences retained in the canonical page record include:
-
-| Gemini first pass | Controlling scan | Decision |
-|---|---|---|
-| `காட்சி - 2` | `காட்சி — 2` | source heading retained |
-| `சொல்லட்டுமா !` | `சொல்லட்டுமா!` | source punctuation spacing retained |
-| continuous dot run after `புறநானூற்றிலே` | `... ...` | source punctuation grouping retained |
-| `ஓர் களத்தில்,` after `தந்தை என்ற சேதி கேட்டுத்` | `ஓர் களத்தில்,` immediately after `அந்நாளில்` | source word/line order retained |
-| straight/plain quotation punctuation in first pass | scan-visible paired quotation marks | source punctuation retained |
-
-The old-glyph area corresponding to Gemini's `தன் மகனை / யும்` was deliberately not modernized from visual expectation; the plausible first-pass reading remains retained.
+- source heading `காட்சி — 2`;
+- source punctuation grouping `புறநானூற்றிலே... ...`;
+- `ஓர் களத்தில்,` restored to its source position immediately after `அந்நாளில்`;
+- plausible old-glyph reading `தன் மகனை / யும்` retained rather than normalized by expectation.
 
 ### Scan 47
 
-Unambiguous differences retained in the canonical page record include:
-
-| Gemini first pass | Controlling scan | Decision |
-|---|---|---|
-| `எண்ணினேன் ;` | `எண்ணினேன்;` | source punctuation spacing retained |
-| `அவன்` | `அவன்,` | source punctuation retained |
-| `“நடந்திடுக கண்ணே” என்றாள்?` | `“நடந்திடுக கண்ணே” என்றாள்!` | source terminal punctuation retained |
-| hyphen-style separators | printed long dashes | source dash forms retained |
-| `பார்!பார்! பார்!` | `பார்! பார்! பார்!` | source spacing retained |
-| `வாழ்த்துக்கள் வழங்கினர்!` | `வாழ்த்துகள் வழங்கினர்!` | unambiguous source wording retained |
-
-Scan 47 continues the same long recitation from scan 46; no new speaker label is introduced.
+- `எண்ணினேன் ;` → source `எண்ணினேன்;`;
+- `அவன்` → source `அவன்,`;
+- `“நடந்திடுக கண்ணே” என்றாள்?` → source `“நடந்திடுக கண்ணே” என்றாள்!`;
+- source long dashes and spacing retained;
+- `வாழ்த்துக்கள் வழங்கினர்!` → source `வாழ்த்துகள் வழங்கினர்!`.
 
 ### Scan 48
 
-Unambiguous differences retained in the canonical page record include:
+- source long dashes retained throughout;
+- `சாவிலே வீழ்ந்து விட்டான் -` → `சாவிலே வீழ்ந்துவிட்டான்—`;
+- `மண்தானோ? இனிஇது... / கண்தானோ?` → source `மண் தானே? இனி இது... / கண் தானே?`;
+- `நாட்டுக்கே அன்றி.` → source `நாட்டுக்கே அன்றி,`;
+- `தமிழ்நாட்டுமாதரக` → enlarged-scan `தமிழ்நாட்டுமாதரசு`;
+- plausible first-pass `சோகத்தாள்` retained under the old-glyph safeguard.
+
+### Scan 49
+
+Unambiguous scan-49 reconciliation includes:
 
 | Gemini first pass | Controlling scan | Decision |
 |---|---|---|
-| hyphen-style separators throughout | printed long dashes | source dash forms retained |
-| `சாவிலே வீழ்ந்து விட்டான் -` | `சாவிலே வீழ்ந்துவிட்டான்—` | source word joining and dash retained |
-| `மண்தானோ? இனிஇது தூங்காத` | `மண் தானே? இனி இது தூங்காத` | source spacing and `-னே` reading retained |
-| `கண்தானோ?` | `கண் தானே?` | source spacing and `-னே` reading retained |
-| `நாட்டுக்கே அன்றி.` | `நாட்டுக்கே அன்றி,` | source punctuation retained |
-| `தமிழ்நாட்டுமாதரக` | `தமிழ்நாட்டுமாதரசு` | enlarged scan makes source form unambiguous |
+| hyphen-style separators | printed long dashes | source punctuation retained |
+| no `பூண்டார்!` after `...‘மானங்காத்தார்’ என்ற பெயர்` | separate printed `பூண்டார்!` | omitted source word restored |
+| `வெள்ளிமடத்திற்கு` | `வெள்ளிமாடத்திற்கு` | source wording retained |
+| `வந்திருக்கிறானே` | `வந்திருக்கிறேனே` | source wording retained |
+| `காலத்தில` | `காலத்திலே` | source wording retained |
+| spaced `வேண்மாள்.... வேலை` | `வேண்மாள்....வேலை` | source punctuation/spacing retained |
 
-Scan 48 continues the same recitation with no new speaker label. The plausible first-pass reading `சோகத்தாள்` is retained under the old-glyph safeguard rather than normalized by grammar or semantic expectation.
+Source speaker-label forms on scan 49 are retained as printed: `புலவர்:`, `சேர:`, `புல:`, and `வேண்:`. The first `புலவர்:` turn includes `(குறுக்கே வந்து)`.
 
 No change is made merely from familiar spelling, grammar, semantic expectation or the English witness.
 
 ## Scan-controlled structure
 
-- scan 46 preserves source heading `காட்சி — 2`, setting `சேரனின் மண்டபம்`, opening direction and `வேண்:` / `சேரன்:` labels;
-- scans 47–48 are continuation pages with no new label and no new heading;
-- physical prose/verse line boundaries are preserved in all three page records;
-- printed page numbers `41`, `42` and `43` are represented separately;
-- scans 46–48 contain no scene-closing `*`.
+- scan 46 contains the Scene-2 heading and setting;
+- scans 47–48 continue the recitation without new speaker labels;
+- scan 49 completes the recitation and resumes dialogue labels;
+- physical prose/verse line boundaries are preserved in all four page records;
+- printed page numbers `41`–`44` are represented separately;
+- **none of scans 46–49 contains a scene-closing `*`**; Scene 2 therefore closes structurally without an invented mark.
 
 ## Integrity checkpoint
 
-- source scans directly inspected for Scene 2: **3/3 processed pages**;
+- source scans directly inspected: **4/4**;
 - user-supplied first pass compared: **yes**;
 - English witness used to reconstruct Tamil: **no**;
-- Scene-2 page records verified: **3/4**;
-- total Cheran Tamil pages verified: **5/10**;
+- Scene-2 page records verified: **4/4 COMPLETE**;
+- total Cheran Tamil pages verified: **6/10**;
 - scenes assembled from controlling Tamil: **1/4**;
-- scan 49 processed: **No**;
+- scan 50 processed: **No**;
 - Scene-2 assembly performed: **No**.
 
 ## Next activity
 
-Verify **scan 49 / printed p.44 only** as the `காட்சி — 2` closing page. Use the user-supplied Gemini first-pass as comparison baseline and the Tamil scan as controlling authority. Preserve the page ending/source marks exactly. Do not assemble Scene 2 in the same activity.
+Assemble **`காட்சி — 2` only** from verified `pages/0046.md`–`0049.md`, using those page records as the sole textual authority, then run a page-record ↔ scene fidelity audit. Do not begin scan 50 / `காட்சி—3.` in the same activity.
