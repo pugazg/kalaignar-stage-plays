@@ -6,67 +6,68 @@ Controlling Tamil source: `TVA_BOK_0065576_நான்மணி_மாலை.pd
 
 Scene-5 extent: scans **40–43** / printed pp.35–38.
 
-This activity processes only the opening page:
+Verified page records:
 
-- scan **40** / printed p.35;
-- page record `pages/0040.md`.
+- scan **40** / printed p.35 — opening — `pages/0040.md`;
+- scan **41** / printed p.36 — continuation — `pages/0041.md`.
 
-No scan 41 work and no Scene-5 assembly are performed in this activity.
+No scan 42 work and no Scene-5 assembly are performed in the scan-41 activity.
 
 ## Result
 
 | Scan | Printed page | Role | Result |
 |---:|---:|---|---|
 | 40 | 35 | `காட்சி—5` opening | **PASS / verified** |
+| 41 | 36 | continuation | **PASS / verified** |
 
-`காட்சி—5` source-page gate: **1/4 verified**.
+`காட்சி—5` source-page gate: **2/4 verified**.
 
 ## User-directed lexical / visual rule
 
-The active user instruction controls this page:
+The active user instruction controls the Scene-5 page work:
 
 - **words:** retain the supplied Gemini first-pass;
-- **scan:** use direct visual evidence for scene heading, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks.
+- **scan:** use direct visual evidence for headings where present, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks.
 
-No assistant lexical normalization, correction or insertion is introduced from spelling familiarity, grammar, semantics or visual expectation.
+No assistant dialogue-word normalization, correction or insertion is introduced from spelling familiarity, grammar, semantics or visual expectation.
 
 ## Scan 40 controls
 
-The verified page retains the supplied Gemini lexical material while taking non-lexical evidence from the scan.
+- heading `காட்சி—5.`;
+- setting `சிறைச்சாலை`;
+- scan punctuation/dashes, speaker-label spacing, physical lines and source marks retained;
+- scan 40 ends at `இன்றுதான்!`;
+- no closing `*`.
 
-- heading: `காட்சி—5.`;
-- setting: `சிறைச்சாலை`;
-- scan-controlled labels represented from the Gemini material: `சாக்:` and `கிரி :`;
-- opening stage-direction dash: `திறக்கப்படுகிறது—கிரிட்டோ`;
-- source punctuation runs around the look outside, wife/children entrance and Socrates speeches are retained;
-- source physical lines are retained, including `இடத் / திலே`, `மாறிவிட் / டான்`, `யாருக் / கும்`, and `முயலுங் / கள்`;
-- scan 40 ends with Socrates saying `இன்றுதான்!`;
-- scan 40 contains no closing `*`;
-- printed p.35 is represented separately from the dramatic text.
+Two positions on scan 40 visibly contain lexical material absent from the supplied Gemini first-pass. Under the explicit Gemini-words rule, no scan-derived word is inserted there.
 
-## Gemini-retention consequence
+## Scan 41 controls
 
-Direct scan inspection visibly shows lexical material at two positions where the user-supplied Gemini first-pass has no corresponding word material:
+The verified continuation retains Gemini dialogue words while taking non-lexical/structural evidence from the scan.
 
-1. between the two punctuation runs following `(வெளியே வந்து பார்த்து)`;
-2. on the short utterance line represented by Gemini only as `: !........`.
-
-Because the user explicitly instructed **“For words keep Gemini’s”**, no scan-derived word is inserted at either position. These are documented as intentional lexical omissions under the current rule, not silently reconstructed from the scan.
+- scan-controlled speaker labels are `கிரி :`, `சாக்:`, and `காவ:`;
+- Gemini's extraction around the final two turns contains duplicated/shifted speaker-label tokens; those are treated as structural label-extraction artifacts rather than dialogue words, and the scan-visible label placement is retained;
+- punctuation/dash evidence includes `அழிக்கப்போகிறது!....`, `நண்பா!........இன்னும்`, `தப்பிவிட்டால்....?`, `கிரிட்டோ!........சாக்ரடீஸ்`, `பயந்தவனல்ல........நீதிமன்றம்`, `செய்ததும்—`, `கிரிட்டோ!........`, and `வேண்டும்........`;
+- scan punctuation controls `இருந்தும்,` and `யிருக்கிறது!` without changing Gemini lexical wording;
+- physical source lines include `வசப் / படுத்திக்கொண்டு`, `தயா / ராக`, `புருவங் / களை`, and `முறை / களைச்`;
+- Gemini lexical forms retained include `மனங்குலையாமாவீர`, `தொகை தொகையாகப் பகைவரினும் துவளாது`, `தேசப் பிரஷ்ட உத்திரவு`, and `வியாக்யானம்`;
+- scan 41 ends with the jailer instruction `பிறகு இங்குமங்கும் நடந்து கொண்டேயிருக்க வேண்டும்!`;
+- no closing `*` appears on scan 41;
+- printed p.36 is represented separately.
 
 ## Integrity checkpoint
 
-- source scan directly inspected: **1/1**;
+- source scans directly inspected for Scene 5: **2/2**;
 - Gemini lexical baseline retained: **yes**;
-- assistant lexical substitutions/insertions introduced: **0**;
-- heading/punctuation/dash/label spacing/physical lines/source marks checked against scan: **yes**;
-- page record verified: **1/1**;
-- Scene-5 pages verified: **1/4**;
-- total Socrates pages verified: **14/17**;
-- dramatic-body pages verified: **12/15**;
+- assistant dialogue-word substitutions/insertions introduced: **0**;
+- page records verified: **2/2**;
+- Scene-5 pages verified: **2/4**;
+- total Socrates pages verified: **15/17**;
+- dramatic-body pages verified: **13/15**;
 - scenes assembled: **4/5**;
 - Scene-5 assembly performed: **No**;
-- scan 41 processed: **No**.
+- scan 42 processed: **No**.
 
 ## Next activity
 
-Verify **scan 41 / printed p.36 only** as the next `காட்சி—5` continuation page under the same Gemini-words / scan-typography rule. Do not process scan 42 or assemble Scene 5 in that same activity.
+Verify **scan 42 / printed p.37 only** as the next `காட்சி—5` continuation page under the same Gemini-words / scan-typography rule. Do not process scan 43 or assemble Scene 5 in that same activity.
