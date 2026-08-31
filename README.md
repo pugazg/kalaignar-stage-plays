@@ -11,13 +11,13 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archival/assembly PASS; independent English translation PASS** |
 | [அனார்கலி](works/anarkali/) | **Tamil page verification 9/9; 4/4 scenes assembled; fidelity PASS** |
-| [சாக்ரடீஸ்](works/socrates/) | **11/17 pages verified; Scenes 1–3 assembly/fidelity PASS; Scene 4 page gate 4/6; 3/5 scenes assembled** |
+| [சாக்ரடீஸ்](works/socrates/) | **12/17 pages verified; Scenes 1–3 assembly/fidelity PASS; Scene 4 page gate 5/6; 3/5 scenes assembled** |
 | [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil source registered; verification pending** |
 
 ## Current repository phase
 
-`சாக்ரடீஸ்` is verified through scan **37** / printed p.32. Scenes 1–3 have completed page verification plus assembled-scene fidelity review. `காட்சி—4` now has scans 34–37 verified (**4/6 pages**). Total progress is **11/17 pages verified**, with **3/5 dramatic scenes assembled**.
+`சாக்ரடீஸ்` is verified through scan **38** / printed p.33. Scenes 1–3 have completed page verification plus assembled-scene fidelity review. `காட்சி—4` now has scans 34–38 verified (**5/6 pages**). Total progress is **12/17 pages verified**, with **3/5 dramatic scenes assembled**.
 
 For active `சாக்ரடீஸ்`, Gemini supplies lexical words as directed by the user; the scan controls headings, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks.
 
-Next activity: verify `காட்சி—4` scan **38** / printed p.33 only. Do not process scan 39 or assemble `காட்சி—4` in that same activity.
+Next activity: verify `காட்சி—4` scan **39** / printed p.34 only, preserving the scene-closing `*` if present. Do not assemble `காட்சி—4` in that same activity.
