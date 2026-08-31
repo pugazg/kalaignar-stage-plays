@@ -4,7 +4,7 @@ Repository: `pugazg/kalaignar-stage-plays`, branch `main`.
 
 ## Startup rule
 
-Always fetch live `main` first and treat it as authoritative. Scene-2 lexical rollback remains locked, Scenes 1–3 have assembly/fidelity PASS, and Scene 4 is now verified through scan 37. Preserve any newer live state and never restore withdrawn assistant word corrections.
+Always fetch live `main` first and treat it as authoritative. Scene-2 lexical rollback remains locked, Scenes 1–3 have assembly/fidelity PASS, and Scene 4 is now verified through scan 38. Preserve any newer live state and never restore withdrawn assistant word corrections.
 
 Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
@@ -45,44 +45,47 @@ Current state:
 - `pages/0035.md` — scan 35 / p.30 — **verified**;
 - `pages/0036.md` — scan 36 / p.31 — **verified**;
 - `pages/0037.md` — scan 37 / p.32 — **verified**;
-- `SCENE4_PAGE_VERIFICATION.md` — **4/6 PASS**;
-- scans 38–39 — not started;
-- Scene-4 assembly — **blocked until all 6 pages are verified**.
+- `pages/0038.md` — scan 38 / p.33 — **verified**;
+- `SCENE4_PAGE_VERIFICATION.md` — **5/6 PASS**;
+- scan 39 — not started;
+- Scene-4 assembly — **blocked until the six-page gate reaches 6/6**.
 
-Scan-37 lexical/visual controls:
+Scan-38 lexical/visual controls:
 
-- Gemini lexical words retained exactly, including `இன்னும` and `கொன்றோம்என்ற`;
-- scan controls punctuation, long dashes, speaker-label spacing, physical line breaks and source marks;
-- source labels retained as `நீதி :` and `சாக் :`;
-- important scan dashes include `மல்லவே—அனிடசும்`, `அவர்களும்—பாவம்`, `செய்பவன்—விண்ணிலும்`, `பட்டங்கள்—குற்றச்சாட்டுகள்`, `மரண தண்டனை—சிறை`, and `நடைபெற்றதே—அதில்`;
-- physical splits include `பார்க் / கட்டுமே`, `துடி / யாய்த்`, and `சபை / யின்`;
-- scan 37 ends mid-Socrates utterance at `மரண தண்டனை`;
-- scan 37 contains no Scene-4 closing `*`.
+- Gemini lexical words retained exactly, including `எனக்கேட்கலாம்`, `அபராதங்`, `என்னுடைய.சொந்த`, and `எனதருமை ஏதென்ஸ் நகரத்தும்`;
+- scan controls punctuation, long dashes, speaker-label spacing, quote marks, physical line breaks and source marks;
+- source speaker label is `நீதி:` with no space before the colon;
+- `மரணமா?........மன்னிப்பா?........` has eight dots after each question mark;
+- quoted source forms `“சங்கு”`, `‘மரணம்’`, and `‘மன்னிப்பு’` are preserved;
+- physical splits include `தடை / யாக`, `அதி / காரிகளின்`, `என் / னுடைய`, `தண்டனை / யாக`, `எனக் / கும்`, `வாக் / கெடுப்பு`, and `சாக்ர / டீஸின்`;
+- scan 38 begins as the continuation of scan 37 after `மரண தண்டனை` and ends at verdict `வேண்டும்!`;
+- lower-left printed marginal mark `3` and centered page number `33` are both represented;
+- scan 38 contains no Scene-4 closing `*`.
 
 Durable `சாக்ரடீஸ்` progress:
 
-- total page verification: **11/17**;
-- dramatic-body pages: **9/15**;
+- total page verification: **12/17**;
+- dramatic-body pages: **10/15**;
 - scenes assembled: **3/5**;
-- Scene-4 page gate: **4/6**.
+- Scene-4 page gate: **5/6**.
 
 The 2009 published-English witness remains secondary and cannot reconstruct Tamil.
 
 ## Exact next activity
 
-Process **`சாக்ரடீஸ்` `காட்சி—4` scan 38 / printed p.33 only** as the next Scene-4 page-verification slice.
+Process **`சாக்ரடீஸ்` `காட்சி—4` scan 39 / printed p.34 only** as the closing Scene-4 page-verification slice.
 
 Requirements:
 
 - use the user-supplied Gemini first-pass as the lexical baseline;
 - retain Gemini's words exactly;
 - use direct scan inspection only for punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks;
-- create `works/socrates/pages/0038.md` only after verification;
+- create `works/socrates/pages/0039.md` only after verification;
+- preserve the scene-closing `*` if present in the scan;
 - update Scene-4 gate and work/source status files;
-- expected durable total after success: **12/17 verified**, Scene 4 **5/6**;
-- do **not** process scan 39 in the same activity;
-- do **not** assemble `காட்சி—4` until scans 34–39 are all verified;
-- do not begin `சேரன் செங்குட்டுவன்`.
+- expected durable total after success: **13/17 verified**, Scene 4 **6/6**;
+- do **not** assemble `காட்சி—4` in the same activity; assembly/fidelity must be the next separate activity after page-gate completion;
+- do not begin `காட்சி—5` or `சேரன் செங்குட்டுவன்`.
 
 ## Permanent safeguards
 
