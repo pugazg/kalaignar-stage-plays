@@ -4,7 +4,7 @@ Repository: `pugazg/kalaignar-stage-plays`, branch `main`.
 
 ## Startup rule
 
-Always fetch live `main` first and treat it as authoritative. Preserve newer durable state and never restore withdrawn assistant word corrections.
+Always fetch live `main` first and treat it as authoritative. Preserve newer durable state and never reopen completed work unless the user explicitly requests it.
 
 Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
@@ -13,88 +13,86 @@ Controlling composite source: `TVA_BOK_0065576_நான்மணி_மால�
 ## Locked completed work
 
 - `பரதாயணம்`: Tamil archive/assembly PASS; independent English translation PASS.
-- `அனார்கலி`: 9/9 Tamil pages verified; 4/4 scenes assembled; fidelity PASS.
-- `சாக்ரடீஸ்`: **17/17 Tamil pages verified; 15/15 dramatic-body pages verified; 5/5 scenes assembled; page-record fidelity PASS for all scenes**.
+- `அனார்கலி`: Tamil page/assembly fidelity PASS.
+- `சாக்ரடீஸ்`: **17/17 pages verified; 15/15 dramatic-body pages verified; 5/5 scenes assembled; all scene fidelity gates PASS**.
 - Silappathikaram completed state remains locked and unchanged.
 
-Do not reopen completed work unless the user explicitly requests it.
+## Active work — சேரன் செங்குட்டுவன்
 
-## `சாக்ரடீஸ்` final durable state
-
-Controlling extent: scans **27–43** / printed pp. **22–38**.
-
-- intro scans 27–28: **2/2 verified**;
-- `காட்சி—1`: **page gate + assembly/fidelity PASS**;
-- `காட்சி—2`: **page gate + assembly/fidelity PASS after user-directed lexical rollback**;
-- `காட்சி—3`: **page gate + assembly/fidelity PASS**;
-- `காட்சி — 4`: **6/6 page gate + assembly/fidelity PASS**;
-- `காட்சி—5.`: **4/4 page gate + assembly/fidelity PASS**;
-- total page verification: **17/17 COMPLETE**;
-- dramatic-body pages: **15/15 COMPLETE**;
-- scenes assembled: **5/5 COMPLETE**.
-
-Final Scene-5 durable artifacts:
-
-- `works/socrates/pages/0040.md`–`0043.md` — verified;
-- `works/socrates/SCENE5_PAGE_VERIFICATION.md` — **4/4 PASS / COMPLETE**;
-- `works/socrates/scenes/05.md` — assembled exclusively from verified page records;
-- `works/socrates/SCENE5_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**.
-
-Scene-5 assembly integrity:
-
-- verified page records used: **4/4**;
-- page-record ↔ scene fidelity: **PASS**;
-- unresolved assembly discrepancies: **0**;
-- speaker-label count mismatches: **0**;
-- assistant lexical substitutions introduced: **0**;
-- final centered `*` retained: **yes**.
-
-The user-directed Gemini-word / scan-typography rule remains part of the durable `சாக்ரடீஸ்` archival record. Assembly itself uses verified page records as the sole textual authority.
-
-The 2009 published-English witness remains secondary and cannot reconstruct controlling Tamil.
-
-## Next active work — சேரன் செங்குட்டுவன்
-
-Controlling Tamil source remains the same composite PDF.
-
-Registered extent:
+Controlling Tamil extent:
 
 - scans **44–53**;
-- printed pages **39–48**;
-- printed title **சேரன் செங்குட்டுவன்**;
-- Tamil page-level verification: **not started**;
-- source-printed dramatic scenes: **4** according to the existing structural registry;
-- 2009 published-English witness: already verified but **secondary only**.
+- printed pp. **39–48**;
+- printed title: **சேரன் செங்குட்டுவன்**;
+- source-printed dramatic scenes: **4**;
+- 2009 published-English witness: **secondary only**.
 
-Existing work registry:
+### First-pass / source rule
 
-- `works/cheran-senguttuvan/README.md`;
-- `works/cheran-senguttuvan/metadata/source.md`;
-- composite source registry under `sources/naanmani-malai-tamil/`.
+The user supplied a Gemini word-to-word first pass covering the Cheran source extent in the current chat.
+
+For Cheran, follow the permanent source-first old-glyph policy:
+
+- Gemini is a comparison baseline, not the controlling authority;
+- the Tamil scan is controlling;
+- do not change a plausible first-pass reading merely because a modern spelling, grammar or semantic form seems more familiar;
+- if the scan is unambiguous, use the scan-supported form and document the difference;
+- do not use the English witness to reconstruct Tamil.
+
+### Scan 44 / printed p.39 — COMPLETE
+
+Durable files:
+
+- `works/cheran-senguttuvan/pages/0044.md` — **verified**;
+- `works/cheran-senguttuvan/SCENE1_PAGE_VERIFICATION.md` — Scene-1 page gate **1/2 PASS**;
+- `works/cheran-senguttuvan/indexes/page-map.md` — created.
+
+Scan-44 controls include:
+
+- printed title displayed as `சேரன்` / `செங்குட்டுவன்`;
+- pre-scene voice-over beginning `நாடகத் துவக்கத்திற்கு முன்பு குரல்:`;
+- source heading `காட்சி — 1`;
+- labels `மன்னர்கள்:`, `கனகர்:`, `விஜயர்:`, `கன:`, `மன்:`, `தமிழ்நாட்டுப் புலவர்:`, `விஜ.`;
+- printed page number `39`;
+- no scene-closing `*` on scan 44.
+
+Unambiguous first-pass/source differences recorded:
+
+- `காட்சி-1` → `காட்சி — 1`;
+- `வேந்தர் குலதிலக` → `வேந்தர்குலதிலக`;
+- `கனக விஐயர்` → `கனக விஜயர்`;
+- `கன :` → `கன:`.
+
+Current Cheran progress:
+
+- Tamil pages verified: **1/10**;
+- Scene-1 page gate: **1/2**;
+- scenes assembled from verified Tamil: **0/4**.
 
 ## Exact next activity
 
-Process **`சேரன் செங்குட்டுவன்` scan 44 / printed p.39 only** as the first Tamil page-verification slice.
+Process **`சேரன் செங்குட்டுவன்` scan 45 / printed p.40 only** as the Scene-1 continuation/closing page-verification activity.
 
 Requirements:
 
-- fetch live `main` first and read the permanent guide plus current handover/work/source registry;
-- inspect scan 44 directly from the controlling PDF;
-- use any user-supplied first-pass text only as a comparison baseline; do not invent unavailable first-pass wording from memory;
-- preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and source marks under `STAGE_PLAY_PROCESSING_GUIDE.md`;
-- create the first `works/cheran-senguttuvan/pages/` record only after direct verification;
-- update the Cheran work/source page-map and durable handover state after verification;
-- do **not** process scan 45 in the same activity;
-- do **not** use the English witness to reconstruct Tamil.
+- fetch live `main` first and read the permanent guide/current handover/work page-map/page record;
+- inspect scan 45 directly from the controlling PDF;
+- use the user-supplied Gemini first pass as the comparison baseline if it is available in the chat; in a fresh chat, ask for only the relevant first-pass segment rather than inventing it from memory;
+- preserve source wording, punctuation, speaker labels, stage directions, physical line boundaries and source marks;
+- create `works/cheran-senguttuvan/pages/0045.md` only after direct verification;
+- update `SCENE1_PAGE_VERIFICATION.md`, work/source progress, page maps, README files and handover;
+- expected durable state after success: **2/10 pages verified**, Scene-1 page gate **2/2 COMPLETE**;
+- do **not** process scan 46 in the same activity;
+- do **not** assemble Scene 1 in the same activity;
+- do **not** use the English witness to fill Tamil gaps.
 
 ## Permanent safeguards
 
 - live `main` controls repository state;
 - PDF remains external;
-- controlling Tamil scan outranks secondary witnesses;
-- user-rejected assistant word corrections stay withdrawn in completed Socrates records;
-- no silent lexical normalization, semantic reconstruction or speaker-label standardization;
+- no silent lexical normalization or semantic reconstruction;
+- ambiguous old-glyph readings are not overridden by expectation;
 - scene assembly occurs only after every source page for that scene is verified;
 - English witnesses are secondary only;
-- translation is later and must derive from verified Tamil;
+- translation must derive from verified Tamil;
 - `அந்தணர்` is not automatically “Brahmin” in future translation work.
