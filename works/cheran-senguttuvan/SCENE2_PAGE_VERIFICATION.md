@@ -9,9 +9,10 @@ Scene 2 spans scans **46–49** / printed pp. **41–44**.
 Verified so far:
 
 - scan **46** / printed p.41 — Scene-2 opening — `pages/0046.md`;
-- scan **47** / printed p.42 — Scene-2 continuation — `pages/0047.md`.
+- scan **47** / printed p.42 — Scene-2 continuation — `pages/0047.md`;
+- scan **48** / printed p.43 — Scene-2 continuation — `pages/0048.md`.
 
-Scans 48–49 are not processed yet, and Scene 2 is not assembled.
+Scan 49 is not processed yet, and Scene 2 is not assembled.
 
 ## Result
 
@@ -19,8 +20,9 @@ Scans 48–49 are not processed yet, and Scene 2 is not assembled.
 |---:|---:|---|---|
 | 46 | 41 | `காட்சி — 2` opening | **PASS / verified** |
 | 47 | 42 | `காட்சி — 2` continuation | **PASS / verified** |
+| 48 | 43 | `காட்சி — 2` continuation | **PASS / verified** |
 
-Scene-2 page gate: **2/4 verified**.
+Scene-2 page gate: **3/4 verified**.
 
 ## First-pass / source reconciliation
 
@@ -55,27 +57,42 @@ Unambiguous differences retained in the canonical page record include:
 
 Scan 47 continues the same long recitation from scan 46; no new speaker label is introduced.
 
-No change is made merely from grammar, familiar spelling, semantic expectation or the English witness.
+### Scan 48
+
+Unambiguous differences retained in the canonical page record include:
+
+| Gemini first pass | Controlling scan | Decision |
+|---|---|---|
+| hyphen-style separators throughout | printed long dashes | source dash forms retained |
+| `சாவிலே வீழ்ந்து விட்டான் -` | `சாவிலே வீழ்ந்துவிட்டான்—` | source word joining and dash retained |
+| `மண்தானோ? இனிஇது தூங்காத` | `மண் தானே? இனி இது தூங்காத` | source spacing and `-னே` reading retained |
+| `கண்தானோ?` | `கண் தானே?` | source spacing and `-னே` reading retained |
+| `நாட்டுக்கே அன்றி.` | `நாட்டுக்கே அன்றி,` | source punctuation retained |
+| `தமிழ்நாட்டுமாதரக` | `தமிழ்நாட்டுமாதரசு` | enlarged scan makes source form unambiguous |
+
+Scan 48 continues the same recitation with no new speaker label. The plausible first-pass reading `சோகத்தாள்` is retained under the old-glyph safeguard rather than normalized by grammar or semantic expectation.
+
+No change is made merely from familiar spelling, grammar, semantic expectation or the English witness.
 
 ## Scan-controlled structure
 
 - scan 46 preserves source heading `காட்சி — 2`, setting `சேரனின் மண்டபம்`, opening direction and `வேண்:` / `சேரன்:` labels;
-- scan 47 is a continuation page with no new label and no new heading;
-- physical prose/verse line boundaries are preserved in both page records;
-- printed page numbers `41` and `42` are represented separately;
-- neither scan 46 nor scan 47 contains a scene-closing `*`.
+- scans 47–48 are continuation pages with no new label and no new heading;
+- physical prose/verse line boundaries are preserved in all three page records;
+- printed page numbers `41`, `42` and `43` are represented separately;
+- scans 46–48 contain no scene-closing `*`.
 
 ## Integrity checkpoint
 
-- source scans directly inspected for Scene 2: **2/2 processed pages**;
+- source scans directly inspected for Scene 2: **3/3 processed pages**;
 - user-supplied first pass compared: **yes**;
 - English witness used to reconstruct Tamil: **no**;
-- Scene-2 page records verified: **2/4**;
-- total Cheran Tamil pages verified: **4/10**;
+- Scene-2 page records verified: **3/4**;
+- total Cheran Tamil pages verified: **5/10**;
 - scenes assembled from controlling Tamil: **1/4**;
-- scan 48 processed: **No**;
+- scan 49 processed: **No**;
 - Scene-2 assembly performed: **No**.
 
 ## Next activity
 
-Verify **scan 48 / printed p.43 only** as the next `காட்சி — 2` continuation page. Use the user-supplied Gemini first-pass as comparison baseline and the Tamil scan as controlling authority. Do not process scan 49 or assemble Scene 2 in the same activity.
+Verify **scan 49 / printed p.44 only** as the `காட்சி — 2` closing page. Use the user-supplied Gemini first-pass as comparison baseline and the Tamil scan as controlling authority. Preserve the page ending/source marks exactly. Do not assemble Scene 2 in the same activity.
