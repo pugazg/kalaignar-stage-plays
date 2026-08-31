@@ -7,11 +7,10 @@
 - Printed pages: **39–48**
 - Printed title: **சேரன் செங்குட்டுவன்**
 - Source collection: **கலைஞரின் நான்மணி மாலை**
-- Tamil page-level verification: **6/10**
-- `காட்சி — 1` page gate: **2/2 COMPLETE** (`../pages/0044.md`–`../pages/0045.md`; `../SCENE1_PAGE_VERIFICATION.md`)
-- `காட்சி — 1` assembly/fidelity: **PASS** (`../scenes/01.md`; `../SCENE1_ASSEMBLY_FIDELITY_REVIEW.md`)
-- `காட்சி — 2` page gate: **4/4 COMPLETE** (`../pages/0046.md`–`../pages/0049.md`; `../SCENE2_PAGE_VERIFICATION.md`)
-- `காட்சி — 2` assembly/fidelity: **PASS** (`../scenes/02.md`; `../SCENE2_ASSEMBLY_FIDELITY_REVIEW.md`)
+- Tamil page-level verification: **7/10**
+- `காட்சி — 1` page gate + assembly/fidelity: **PASS**
+- `காட்சி — 2` page gate + assembly/fidelity: **PASS**
+- `காட்சி—3.` page gate: **1/2** (`../pages/0050.md`; `../SCENE3_PAGE_VERIFICATION.md`)
 - Source-printed dramatic scenes: **4**
 - Scene assembly completed from verified Tamil: **2/4**
 
@@ -24,6 +23,15 @@ The Tamil scan is controlling. The user-supplied Gemini transcription is a compa
 - Scene 1: scans **44–45** / pp.39–40 — page gate + assembly/fidelity **PASS**.
 - Scene 2: scans **46–49** / pp.41–44 — page gate + assembly/fidelity **PASS**.
 
-Scene 2 was assembled exclusively from the four verified page records. Only legitimate physical line/page boundaries were removed. No closing `*` was invented because none appears on scans 46–49.
+## Active Scene 3
 
-Next activity: verify scan **50** / printed p.45 only as the opening page of `காட்சி—3.`. Do not process scan 51 or assemble Scene 3 in the same activity.
+Scene 3 spans scans **50–51** / printed pp.45–46.
+
+- scan **50** / p.45 — **verified**;
+- scan **51** / p.46 — not processed;
+- Scene-3 page gate: **1/2**;
+- assembly blocked until 2/2.
+
+Scan-50 source controls include `காட்சி—3.`, `சேரன் கொலுமண்டபம்`, source `...னும்` name sequence, `கனகனும்விசயனும்`, source punctuation/labels, and retained plausible old-glyph `காணா`. No closing `*` occurs on scan 50.
+
+Next activity: verify scan **51** / printed p.46 only. Do not assemble Scene 3 or process scan 52 in the same activity.
