@@ -16,31 +16,37 @@ This activity is page verification only. No Scene-2 assembly is created here.
 
 | Scan | Printed page | Role | Result |
 |---:|---:|---|---|
-| 32 | 27 | complete `காட்சி—2` | **PASS / verified** |
+| 32 | 27 | complete `காட்சி—2` | **PASS / verified after user-directed lexical rollback** |
 
 `காட்சி—2` source pages: **1/1 verified**.
 
-## Gemini/source reconciliation
+## User-directed lexical / visual rule
 
-The user-supplied Gemini first-pass visible in the active chat was used as the baseline. Scan 32 was inspected directly, including an enlarged render, under the permanent rule that a plausible old-glyph reading is retained unless the controlling scan is unambiguous.
+The first verification pass incorrectly changed Gemini word readings after visual inspection. The user then explicitly corrected that approach:
 
-### Scan-proven lexical differences
+- **for words, retain Gemini's transcription**;
+- use direct scan inspection for the **heading, punctuation, long dash, speaker-label spacing, physical line breaks and final `*`**.
 
-| Gemini first-pass | Controlling scan |
+This rule controls the corrected `pages/0032.md` and must be preserved in later `சாக்ரடீஸ்` work unless the user changes it.
+
+### Withdrawn assistant word corrections
+
+| Incorrect assistant substitution | Restored Gemini wording |
 |---|---|
-| `கவிஞனாம் மெலிடசும்` | `கவிஞனும் மெலிடசும்` |
-| `அரசியல் நிபுணனாம் நீயும்` | `அரசியல் நிபுணனும் நீயும்` |
+| `கவிஞனும் மெலிடசும்` | `கவிஞனாம் மெலிடசும்` |
+| `அரசியல் நிபுணனும் நீயும்` | `அரசியல் நிபுணனாம் நீயும்` |
 
-These changes are made because the scan is unambiguous, not because of grammar or semantic expectation.
+The restored word readings are controlling for this page. They must not be changed again by grammar, semantic expectation, modern spelling or visual over-interpretation.
 
-### Scan-proven typography / punctuation controls
+### Scan-controlled typography / punctuation
 
-The page record also preserves source-visible forms that the flattened first-pass did not reproduce exactly, including:
+The scan remains controlling for the non-lexical physical features specified by the user. The page record preserves:
 
-- `காட்சி—2.` rather than `காட்சி-2.`;
-- `சாக்ரடீஸ்—சமுத்திரத்துத்` rather than a spaced hyphen;
-- source punctuation runs `சாக்ரடீஸ்!.....`, `அஸ்திரமாம்!.....`, `லைகன்?.....`, `சிற்பி!.....`, `அனிடஸ்.....!`, `சபாஷ்.....!`, and `வேண்டும்........`;
-- source speaker-label spacing variation: `அனிடஸ் :`, `லைகன்:`, `மெலிடஸ் :`.
+- `காட்சி—2.` rather than flattened `காட்சி-2.`;
+- `சாக்ரடீஸ்—சமுத்திரத்துத்` with the printed long dash;
+- source speaker-label spacing variation: `அனிடஸ் :`, `லைகன்:`, `மெலிடஸ் :`;
+- source-visible punctuation runs;
+- the centred final `*`.
 
 ## Physical-line controls
 
@@ -48,7 +54,7 @@ The page record preserves source print-line boundaries, including:
 
 - `முடி / யாது`;
 - `மாறிவிட் / டான்`;
-- `கவிஞ / னும்`;
+- `கவிஞ / னாம்`;
 - `கழுதை / களாயிருந்தால்தான்`;
 - `பொய்மூட்டை / களைச்`;
 - `கோட் / டைத்`;
@@ -57,13 +63,13 @@ The page record preserves source print-line boundaries, including:
 ## Integrity checkpoint
 
 - source scan inspected directly: **1/1**;
+- lexical wording restored to user-directed Gemini baseline: **yes**;
+- prior assistant lexical substitutions withdrawn: **2**;
+- heading/punctuation/long dash/label spacing/physical lines/final `*` checked against scan: **yes**;
 - page record verified: **1/1**;
-- unresolved readings: **0**;
-- source heading represented: **yes**;
-- closing stage direction represented: **yes**;
-- final centred `*` represented: **yes**;
+- unresolved readings under the user-directed rule: **0**;
 - scene assembly performed in this activity: **No**.
 
 ## Next activity
 
-Assemble **`காட்சி—2` only** from verified `pages/0032.md` and run the page-record ↔ scene fidelity audit. Do not begin scan 33 / `காட்சி—3` in that same activity.
+Assemble **`காட்சி—2` only** from the corrected verified `pages/0032.md` and run the page-record ↔ scene fidelity audit. Do not begin scan 33 / `காட்சி—3` in that same activity.
