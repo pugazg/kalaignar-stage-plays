@@ -6,103 +6,66 @@ Controlling Tamil source: `TVA_BOK_0065576_நான்மணி_மாலை.pd
 
 Scene-4 extent: scans **34–39** / printed pp.29–34.
 
-Verified so far:
+Verified page records:
 
 - scan **34** / p.29 — opening — `pages/0034.md`;
 - scan **35** / p.30 — continuation — `pages/0035.md`;
 - scan **36** / p.31 — continuation — `pages/0036.md`;
 - scan **37** / p.32 — continuation — `pages/0037.md`;
-- scan **38** / p.33 — continuation — `pages/0038.md`.
+- scan **38** / p.33 — continuation / verdict — `pages/0038.md`;
+- scan **39** / p.34 — closing — `pages/0039.md`.
 
-No scan 39 work and no Scene-4 assembly are performed in the scan-38 activity.
+No Scene-4 assembly is performed in the scan-39 activity.
 
 ## Result
 
 | Scan | Printed page | Role | Result |
 |---:|---:|---|---|
 | 34 | 29 | `காட்சி—4` opening | **PASS / verified** |
-| 35 | 30 | `காட்சி—4` continuation | **PASS / verified** |
-| 36 | 31 | `காட்சி—4` continuation | **PASS / verified** |
-| 37 | 32 | `காட்சி—4` continuation | **PASS / verified** |
-| 38 | 33 | `காட்சி—4` continuation | **PASS / verified** |
+| 35 | 30 | continuation | **PASS / verified** |
+| 36 | 31 | continuation | **PASS / verified** |
+| 37 | 32 | continuation | **PASS / verified** |
+| 38 | 33 | continuation / verdict | **PASS / verified** |
+| 39 | 34 | closing | **PASS / verified** |
 
-`காட்சி—4` source-page gate: **5/6 verified**.
+`காட்சி—4` source-page gate: **6/6 PASS / complete**.
 
 ## User-directed lexical / visual rule
 
-The active user instruction controls all verified Scene-4 pages:
+For all Scene-4 page records:
 
 - **words:** retain the supplied Gemini first-pass;
-- **scan:** use direct visual evidence for scene heading where present, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks.
+- **scan:** use direct visual evidence for headings where present, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks.
 
 No assistant lexical normalization is introduced from spelling familiarity, grammar, semantics or name familiarity.
 
-## Scan 34 controls
+## Scan 39 controls
 
-- heading `காட்சி — 4`, with spaces around the long dash and no terminal period;
-- source speaker-label spacing;
-- source punctuation/dash usage and physical lines;
-- no Scene-4 closing `*`.
+The closing page retains Gemini lexical wording while taking non-lexical evidence from the controlling scan.
 
-## Scan 35 controls
-
-- Gemini lexical wording retained, including `செடுக்கிறேனா`;
-- scan-controlled labels `சாக் :`, `மெலி :`, `நீதி :`, `சார் :`, `அனி :`;
-- scan punctuation/dashes and physical lines retained;
-- no Scene-4 closing `*`.
-
-## Scan 36 controls
-
-- Gemini lexical wording retained, including `எல்லாரும்`;
-- scan-controlled labels `மெலி :` and `சாக் :`;
-- scan punctuation/dashes and physical lines retained;
-- no Scene-4 closing `*`.
-
-## Scan 37 controls
-
-- Gemini lexical forms including `இன்னும` and `கொன்றோம்என்ற` retained exactly;
-- scan-controlled labels `நீதி :` and `சாக் :`;
-- scan punctuation/dashes and physical lines retained;
-- page ends mid-Socrates utterance at `மரண தண்டனை`;
-- no Scene-4 closing `*`.
-
-## Scan 38 controls
-
-The verified continuation retains Gemini lexical words while taking non-lexical evidence from the scan.
-
-Speaker-label spacing:
-
-- `நீதி:` with no space before the colon, in both court-president entries.
-
-Important scan-controlled punctuation/dash evidence includes:
-
-- `எனக்கேட்கலாம்—அதி`;
-- `ஏற்கலாம்—`;
-- `திரியலாம்—ஆனால்`;
-- `பேச்சு!....அவமதிப்பு!....`;
-- `மரணமா?........மன்னிப்பா?........` — eight dots after each question mark;
-- quoted forms `“சங்கு”`, `‘மரணம்’`, and `‘மன்னிப்பு’`.
-
-Gemini lexical forms including `எனக்கேட்கலாம்`, `அபராதங்`, `என்னுடைய.சொந்த`, and `எனதருமை ஏதென்ஸ் நகரத்தும்` are retained exactly; scan evidence is not used to rewrite them.
-
-Physical source lines include `தடை / யாக`, `அதி / காரிகளின்`, `என் / னுடைய`, `தண்டனை / யாக`, `எனக் / கும்`, `வாக் / கெடுப்பு`, and `சாக்ர / டீஸின்`.
-
-Scan 38 begins as the continuation of scan 37 after `மரண தண்டனை` and ends after the verdict `வேண்டும்!`. It contains no Scene-4 closing `*`.
-
-The lower-left printed marginal mark `3` and centered printed page number `33` are both preserved in `pages/0038.md`.
+- speaker-label spacing: `சாக்:` with no space before the colon;
+- opening source quote before `அறிவு` retained as punctuation;
+- `281—220!........` retained from the scan, replacing Gemini's OCR-like punctuation rendering without changing the lexical numbers;
+- `மேன்மையானது!........` retained from the scan;
+- long dash retained at `ஒரு மனிதன்—`;
+- physical source lines retained, including `சரித்திரத் / திலே`, `கிடைத்திருக் / கிறது`, `கூறிய / தற்கு`, `ஆயிரக் / கணக்கான`, `வாங்கப் / பட்டவை`, and `காட்டி / லும்`;
+- Gemini lexical forms such as `விட்டர்கள்` and `களத்தில்` remain unchanged under the active user rule;
+- centered scene-closing `*` is present and preserved;
+- centered printed page number `34` is represented separately from the dramatic text.
 
 ## Integrity checkpoint
 
-- source scans directly inspected: **5/5**;
+- source scans directly inspected for Scene 4: **6/6**;
 - Gemini lexical baseline retained: **yes**;
-- assistant lexical substitutions introduced: **0**;
-- page records verified: **5/5**;
-- Scene-4 pages verified: **5/6**;
-- total Socrates pages verified: **12/17**;
-- dramatic-body pages verified: **10/15**;
-- scene assembly performed: **No**;
-- scan 39 processed: **No**.
+- assistant lexical substitutions introduced in scan-39 activity: **0**;
+- page records verified: **6/6**;
+- Scene-4 pages verified: **6/6 PASS**;
+- total Socrates pages verified: **13/17**;
+- dramatic-body pages verified: **11/15**;
+- scenes assembled: **3/5**;
+- Scene-4 assembly performed: **No**;
+- `காட்சி—5` processed: **No**.
 
 ## Next activity
 
-Verify **scan 39 / printed p.34 only** as the closing `காட்சி—4` page under the same Gemini-words / scan-typography rule. Preserve the source closing `*` if present. Do not assemble Scene 4 in that same activity; assembly/fidelity must be a separate activity after the six-page gate reaches 6/6.
+Assemble **`காட்சி—4` only** from verified `pages/0034.md` through `pages/0039.md`, using those verified page records as the sole textual authority. Mechanically join legitimate physical print-line/page-boundary breaks, preserve wording/punctuation/labels/stage directions/source marks, then run a page-record ↔ scene fidelity audit. Do not begin `காட்சி—5` in the same activity.
