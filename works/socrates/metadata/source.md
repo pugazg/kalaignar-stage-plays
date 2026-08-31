@@ -7,13 +7,14 @@
 - Printed pages: **22–38**
 - Introductory note scans **27–28**: **2/2 verified**
 - `காட்சி—1` scans **29–31**: **3/3 verified; assembly/fidelity PASS**
-- `காட்சி—2` scan **32**: **1/1 verified after user-directed lexical rollback; assembly pending**
+- `காட்சி—2` scan **32**: **1/1 verified after user-directed lexical rollback; assembly/fidelity PASS**
 - Total Tamil page-level verification: **6/17**
 - Dramatic-body page verification: **4/15**
 - Numbered dramatic scenes: **5**
-- Scene assembly completed: **1/5**
+- Scene assembly completed: **2/5**
 - `காட்சி—1` assembly/fidelity: **PASS** (`../scenes/01.md`; `../ASSEMBLY_FIDELITY_REVIEW.md`)
 - `காட்சி—2` corrected page gate: **PASS** (`../pages/0032.md`; `../SCENE2_PAGE_VERIFICATION.md`)
+- `காட்சி—2` assembly/fidelity: **PASS** (`../scenes/02.md`; `../SCENE2_ASSEMBLY_FIDELITY_REVIEW.md`)
 
 ## Active user-directed transcription rule
 
@@ -23,6 +24,6 @@ For continuing `சாக்ரடீஸ்` work:
 - the controlling scan is used to verify **headings, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks**;
 - assistant word-level substitutions based on visual interpretation, grammar, spelling familiarity or semantic expectation are not permitted unless the user explicitly requests a word-level recheck.
 
-On scan 32, the withdrawn assistant readings `கவிஞனும் மெலிடசும்` and `அரசியல் நிபுணனும் நீயும்` have been restored to Gemini's `கவிஞனாம் மெலிடசும்` and `அரசியல் நிபுணனாம் நீயும்`.
+On scan 32, the withdrawn assistant readings `கவிஞனும் மெலிடசும்` and `அரசியல் நிபுணனும் நீயும்` remain restored to Gemini's `கவிஞனாம் மெலிடசும்` and `அரசியல் நிபுணனாம் நீயும்`. The assembled `scenes/02.md` preserves those lexical readings.
 
-Next activity: assemble `காட்சி—2` from the corrected verified `pages/0032.md` and run its fidelity audit; do not start scan 33 in the same activity.
+Next activity: verify `காட்சி—3`, scan **33** / printed p.28, under the same Gemini-words / scan-typography rule. Do not assemble it in the same activity.
