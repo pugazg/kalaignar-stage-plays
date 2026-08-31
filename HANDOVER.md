@@ -24,26 +24,27 @@ Completed Cheran Scene-4 locked controls include source `காட்சி—4.
 
 - total scans: **54**;
 - scans **6–53** contain the four dramatic works at their durable completed checkpoints;
-- scan **54 / back cover** is now **verified** at `sources/naanmani-malai-tamil/pages/0054.md`;
-- scan 54 printed wording: `கலைஞரின் நான்மணி மாலை` over three lines;
-- scan 54 is a full-page colour printed illustration with no visible literary body text, pagination, publisher/imprint line, price line, library stamp, accession mark or later handwriting;
-- shared front matter scans **1–5** remain only partially represented at page level;
+- scan **1 / illustrated front cover** is **verified** at `sources/naanmani-malai-tamil/pages/0001.md`;
+- scan 1 printed wording is `கலைஞரின் நான்மணி மாலை`, arranged over two lines, over a full-page colour printed illustration;
+- scan 1 contains no visible printed pagination, separate author-name line, publisher/imprint line, price line, library stamp, accession mark or later handwriting;
+- scan **54 / illustrated back cover** is **verified** at `sources/naanmani-malai-tamil/pages/0054.md`;
+- scan 54 carries the same printed title over a full-page colour illustration and contains no visible literary body text or obvious non-authorial marks;
+- shared front-matter scans **2–5** remain pending at page level;
 - source PDF remains external to the repository.
 
 ## Exact next activity
 
-Process **scan 1 / illustrated front cover only** from `TVA_BOK_0065576_நான்மணி_மாலை.pdf` as an archival-description page for the composite Tamil source.
+Process **scan 2 / title page only** from `TVA_BOK_0065576_நான்மணி_மாலை.pdf` as a page-level archival transcription/description for the composite Tamil source.
 
 Requirements:
 
 - fetch live `main` first;
-- inspect scan 1 directly from the controlling PDF;
-- treat it as a front-cover / non-literary source page unless the scan itself proves printed literary text;
+- inspect scan 2 directly from the controlling PDF;
+- preserve every visible printed title, publisher/imprint and location line exactly, including source punctuation and spacing;
 - distinguish printed publication material from library marks, later handwriting, stamps, damage or other non-authorial marks;
-- preserve every visible printed title/imprint/caption element exactly;
-- create `sources/naanmani-malai-tamil/pages/0001.md` only after direct visual verification;
+- create `sources/naanmani-malai-tamil/pages/0002.md` only after direct visual verification;
 - update the composite source page map, source metadata/README, root README, handover and next-chat checkpoint after verification;
-- do **not** process scan 2 in the same activity;
+- do **not** process scan 3 in the same activity;
 - do **not** reopen any completed dramatic work;
 - do **not** begin another work in the same activity.
 
