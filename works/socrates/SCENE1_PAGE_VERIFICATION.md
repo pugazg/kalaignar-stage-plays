@@ -12,6 +12,12 @@ Controlling Tamil source: `TVA_BOK_0065576_நான்மணி_மாலை.pd
 
 This activity is page verification only. No scene assembly is created here.
 
+## Reconciliation history
+
+A preliminary live page-gate commit was created before the user supplied the original Gemini first-pass segment for scans 29–31. After the user supplied that baseline, all three scans were re-opened and compared again under the permanent old-glyph rule.
+
+The later reconciliation is controlling. Assistant substitutions made by familiarity/expectation were withdrawn wherever the Gemini reading remained plausible and the scan did not unambiguously support the substitution.
+
 ## Result
 
 | Scan | Printed page | Role | Result |
@@ -36,20 +42,49 @@ This is one continuous utterance across the physical page boundary. The page rec
 
 ## Old-glyph / source-sensitive controls
 
-The re-review followed the user-established rule recorded in `STAGE_PLAY_PROCESSING_GUIDE.md` §1A: do not replace plausible old-glyph readings by modern spelling, semantic expectation, proper-name familiarity or grammar.
+The re-review followed `STAGE_PLAY_PROCESSING_GUIDE.md` §1A: Gemini is a comparison baseline; a plausible old-glyph reading is not replaced by modern spelling, semantic expectation, proper-name familiarity or grammar unless the controlling scan is unambiguous.
 
-Targeted source-controlled readings include:
+Final controlled readings include:
 
-- scan 29: `சாக்ரடீசின் வீட்டு வாயில்`, `கச்சைக்கட்டிக்`, `ஈட்டியும்மாத்திரம்`, `புவிநிகர்`, `என்னோடு-புறப்படுங்கள்!`;
-- scan 30: `இரண்டாம்தாரம்`, `விழிகளா அவைகள் ?`, `மின்னல்பா ;`, source label variation `எக்ஸேந்திபி :` / `எக்ஸ்:` / `சாக் :`, repeated `சாகலாம்!`;
-- scan 31: `அனிடஸ்`, `மெலிடஸ்`, `லைகன்`, `முளைக்கக்`, `புவனமறியாததல்ல`, `கீறல்களை`, `சிரந்தாழ்த்தி`, `உயிரினுமினியவர்`.
+- scan 29: `சாக்ரடீசின் வீட்டு வாயில்`, `கச்சைக்கட்டிக்`, `ஈட்டியும்மாத்திரம்`, `மடமைப் பைசாசத்தை`, `காணா`, `புலிநிகர்`, `என்னோடு-புறப்படுங்கள்!`;
+- scan 30: `இரண்டாம்தாரம்`, `விழிகளா அவைகள் ?`, `மின்னலப்பா ;`, `இந்தக் கிண்ணாரக் கிழவருக்கு`, `கஷ்டப்பட`, `நட்டாற்றில்`, `ஏண்டி`, `சுடுகாடு`, source label variation `எக்ஸேந்திபி :` / `சாக் :` / `எக்ஸ்:`;
+- scan 31: `அனிடஸ்`, `மெலிடஸ்`, `லைகன்`, `முளைக்கக்`, `புவனமறியாததல்ல`, `கீறல்களை`, `சிரந்தாழ்த்தி`, `உயிரினுமினியவர்`, the water-pouring stage direction and final `*`.
+
+### Withdrawn preliminary assistant substitutions
+
+These readings from the preliminary live page-gate pass are not controlling and must not be reintroduced without new unambiguous scan evidence:
+
+| Preliminary assistant reading | Final Gemini/source-controlled reading |
+|---|---|
+| `காண` | `காணா` |
+| `புவிநிகர்` | `புலிநிகர்` |
+| `மின்னல்பா` | `மின்னலப்பா` |
+| `இந்தத் திண்ணைக் கிழவனுக்கு` | `இந்தக் கிண்ணாரக் கிழவருக்கு` |
+| `கஷ்டப்பட்ட` | `கஷ்டப்பட` |
+| `நடுத்தெருவில்` | `நட்டாற்றில்` |
+| `ஏனடி` | `ஏண்டி` |
+
+### Genuine Gemini/source discrepancies proved by the scan
+
+These are changes to the supplied first-pass that are directly supported by the controlling scan rather than by assistant expectation:
+
+| Scan | Gemini first-pass | Controlling scan |
+|---:|---|---|
+| 29 | `காட்சி-1.` | `காட்சி—1.` |
+| 29 | `என்னோடு - புறப்படுங்கள்!` | `என்னோடு-புறப்படுங்கள்!` |
+| 29 | `படை எதுவுமின்றி.....` | `படை எதுவுமின்றி!.....` |
+| 30 | `இருந்தால்.` | `இருந்தால்,` |
+| 30 | `சுடுசாடு` | `சுடுகாடு` |
+| 31 | `உயிரினு மினியவர்` | `உயிரினுமினியவர்` |
+
+Scan-visible punctuation sequences on scan 31 are also preserved from the image where the first-pass flattened or shortened them, including `போன்றது ! .......`, `கிரிட்டோ ! ....`, `மழையும் பெய்கிறது.....`, and `அவ்வளவுதான் !.....`.
 
 No published-English wording was used to reconstruct Tamil.
 
 ## Integrity checkpoint
 
-- source pages examined directly: **3/3**;
-- page records verified: **3/3**;
+- source pages examined directly after receipt of the Gemini baseline: **3/3**;
+- page records re-reconciled and verified: **3/3**;
 - unresolved page-level readings: **0**;
 - page-boundary continuation documented: **1** (29→30);
 - scene assembly performed in this activity: **No**.
