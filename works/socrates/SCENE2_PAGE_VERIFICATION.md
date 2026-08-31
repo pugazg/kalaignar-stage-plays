@@ -10,8 +10,6 @@ Controlling Tamil source: `TVA_BOK_0065576_நான்மணி_மாலை.pd
 - source-printed scene: **`காட்சி—2`**;
 - scene extent: **one scan / one printed page**.
 
-This activity is page verification only. No Scene-2 assembly is created here.
-
 ## Result
 
 | Scan | Printed page | Role | Result |
@@ -67,9 +65,16 @@ The page record preserves source print-line boundaries, including:
 - prior assistant lexical substitutions withdrawn: **2**;
 - heading/punctuation/long dash/label spacing/physical lines/final `*` checked against scan: **yes**;
 - page record verified: **1/1**;
-- unresolved readings under the user-directed rule: **0**;
-- scene assembly performed in this activity: **No**.
+- unresolved readings under the user-directed rule: **0**.
+
+## Downstream assembly
+
+- assembled scene: `scenes/02.md` — **assembly-reviewed**;
+- page-record ↔ scene audit: `SCENE2_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**;
+- Gemini lexical controls `கவிஞனாம் மெலிடசும்` and `அரசியல் நிபுணனாம் நீயும்` remain intact in assembly;
+- final `*` retained;
+- unresolved assembly discrepancies: **0**.
 
 ## Next activity
 
-Assemble **`காட்சி—2` only** from the corrected verified `pages/0032.md` and run the page-record ↔ scene fidelity audit. Do not begin scan 33 / `காட்சி—3` in that same activity.
+Verify **`காட்சி—3` only**, scan **33** / printed p.28, under the same rule: keep Gemini's words; use the scan for heading, punctuation, long dash, speaker-label spacing, physical line boundaries and final source marks. Do not assemble `காட்சி—3` in the same activity.
