@@ -15,7 +15,7 @@
 ## Title / imprint details visible in the scan
 
 - Scan 1: illustrated front cover carrying **கலைஞரின் நான்மணி மாலை**; page-level archival record [`../pages/0001.md`](../pages/0001.md) is **verified**.
-- Scan 2: title page carrying **கலைஞரின் நான்மணி மாலை**, **தமிழ்க்கனி பதிப்பகம்**, **சென்னை-28**.
+- Scan 2: title page carrying **கலைஞரின் நான்மணி மாலை**, **தமிழ்க்கனி பதிப்பகம்**, and **சென்னை-28**; page-level archival record [`../pages/0002.md`](../pages/0002.md) is **verified**.
 - Scan 3: `© பதிப்புரிமை`, **விலை ரூ. 4/-**, and printer line **அச்சிட்டோர்: ஜெம் பிரஸ், சென்னை - 600 001**.
 
 No standalone publication year has been established from the supplied scans inspected for source registration. Internal dates or contextual clues must not be promoted to a publication year without a separate printed edition statement.
@@ -29,6 +29,18 @@ Direct visual inspection confirms:
 - no printed page number, separate author-name line, publisher/imprint line, price line or caption is visible;
 - no library stamp, accession number, later handwriting or other obvious non-authorial mark is visible;
 - no obvious torn or missing text area is visible.
+
+## Title-page verification — scan 2
+
+Direct visual inspection confirms:
+
+- the title is printed as **`கலைஞரின் நான்மணி மாலை`**, arranged over two lines;
+- the publisher/imprint is **`தமிழ்க்கனி பதிப்பகம்`**;
+- a small printed decorative lamp emblem sits between `தமிழ்க்கனி` and `பதிப்பகம்` and is recorded as publication artwork rather than a textual character;
+- the location line is printed exactly as **`சென்னை-28`**;
+- no printed page number, separate author-name line, publication year, price line or literary body text is visible;
+- no library stamp, accession number, later handwriting or other obvious non-authorial mark is visible;
+- minor age/surface speckling is visible, with no obvious torn or missing text area.
 
 ## Front matter and contents survey
 
@@ -64,7 +76,7 @@ Direct visual inspection confirms:
 
 - Colour scan of aged cream paper with variable contrast, speckling and mild reverse-side show-through.
 - Decorative title bars and illustrated front/back covers are part of the printed edition and must be represented in the archive.
-- Composite-source cover page records are now verified for scans **1 and 54**; shared front-matter scans **2–5** remain pending at page level.
+- Composite-source page records are now verified for scans **1, 2 and 54**; shared front-matter scans **3–5** remain pending at page level.
 - Some type forms are old-style Tamil glyphs; Unicode transcription must follow the actual letters represented by those glyphs rather than OCR appearance.
 - The source PDF does not provide reliable parsed text for archival use.
 
