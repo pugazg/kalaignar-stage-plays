@@ -26,11 +26,11 @@ Durable source identity:
 The repository state — not uncommitted prior-chat work — is authoritative.
 
 - scans **1–13** front matter: **13 / 13 VERIFIED**;
-- scans **14–150** dramatic body: **137 / 137 VERIFIED**;
-- overall page-level status: **150 / 170 verified**;
-- durable page records: `works/manimagudam/pages/0001.md` through `0150.md`;
-- `காட்சி 1`–`காட்சி 41`: page-level transcription complete;
-- `காட்சி 42`: begins on scan 145 / printed page 136 and continues beyond scan 150;
+- scans **14–155** dramatic body: **142 / 142 VERIFIED**;
+- overall page-level status: **155 / 170 verified**;
+- durable page records: `works/manimagudam/pages/0001.md` through `0155.md`;
+- `காட்சி 1`–`காட்சி 42`: page-level transcription complete;
+- `காட்சி 43`: begins on scan 152 / printed page 143 and continues beyond scan 155;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
@@ -42,42 +42,40 @@ Completed fidelity records:
 - `works/manimagudam/SCANS_0091_0115_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved readings**;
 - `works/manimagudam/SCANS_0116_0140_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved readings**;
 - `works/manimagudam/SCANS_0141_0145_VERIFICATION.md` — **5 / 5 VERIFIED, 0 unresolved readings**;
-- `works/manimagudam/SCANS_0146_0150_VERIFICATION.md` — **5 / 5 VERIFIED, 0 unresolved readings**.
+- `works/manimagudam/SCANS_0146_0150_VERIFICATION.md` — **5 / 5 VERIFIED, 0 unresolved readings**;
+- `works/manimagudam/SCANS_0151_0155_VERIFICATION.md` — **5 / 5 VERIFIED, 0 unresolved readings**.
 
-The scans 146–150 mini-gate preserves source forms/punctuation including `சாமான்யமாயிருக்கிறதா?`, `நாமென்ன`, `இப்படிப் பொதுவான இடங்களில் தணித்துக் கொள்ளக் கூடாது`, `பொன்னழகின்`, `தலைவரே!,`, `விடுங்கள்..!`, `திரணமாக`, `அபாக்கியவதி`, first `உத்திரவு`, and later `உத்தரவு`.
+The scans 151–155 mini-gate was rendered directly from the raw 170-page PDF and preserves source readings including `அந்தக் காம வீரனை`, `சிறப்பாயிரத்தை`, `சூழ்ச்சிக் காரர்`, `கல் நாட்டு விழாவிலே`, `நடிடான்னு`, `கடுந்தண்டனை`, `சித்தங் கலங்கியவனைப்`, `நடுத்தெரு நாராயணன்`, `குப்பை மேட்டுப் பயல்`, `மண்ணாங்கட்டியுமல்ல`, and `சபையோர்க்களே`.
 
-Scan 149 contains a locally blot-obscured `சாட்சி?`; enlarged inspection and direct same-page comparison with clear `சாட்சியாக` support the retained reading without semantic reconstruction.
+The previously flagged scan-155 reading `சித்தங் கலங்கியவனைப்` was freshly resolved through enlarged raw-source inspection; it is no longer pending.
 
-### Scene checkpoint through committed scan 150
+### Scene checkpoint through committed scan 155
 
 - `காட்சி 40`: closes scan 140.
 - `காட்சி 41`: scan 141–144; closes scan 144.
-- `காட்சி 42`: begins scan 145 and continues beyond scan 150.
+- `காட்சி 42`: scan 145–152; closes scan 152.
+- `காட்சி 43`: begins scan 152 and continues beyond scan 155.
 
-Important physical continuities in the newly committed mini-batch:
+Important physical continuity:
 
-- scan 145→146 continues பொன்னழகன் without a repeated speaker label;
-- scan 146→147 continues பொன்னழகன்'s `ஐந்தாம்படை...` utterance;
-- scan 149→150 continues அல்லி's long defence without a repeated speaker label.
+- scan 155→156 continues அரிஹரநாதர்'s long revelation without a repeated speaker label; scan 155 ends at `சீமான்கள் சபையின் கண்ணை மறைத்து` and scan 156 continues `விட்டதாகவும் எண்ணி...`.
 
 ## Provisional remaining work from the previous chat — NOT COMMITTED
 
-Earlier source inspection covered scans **141–170**, but only scans **141–150** have now been freshly reconciled and committed. The remaining provisional range is therefore **151–170**.
+Earlier source inspection covered scans **141–170**, but only scans **141–155** have now been freshly reconciled and committed. The remaining provisional range is therefore **156–170**.
 
 Navigation / structural findings may be used only as a source-navigation aid after direct rechecking:
 
-- `காட்சி 42` continues on scan 151;
-- `காட்சி 43` begins scan **152** / printed page **143**;
+- `காட்சி 43` continues after scan 155;
 - scan **162** / printed page **153** contains the openings of `காட்சி 44`, `காட்சி 45`, and `காட்சி 46` on the same physical page;
 - scan **169** / printed page **160** contains `காட்சி 47` and ends with source-visible `(முடிவுற்றது)`;
 - scan **170** is back matter headed `கலைஞரின் சிறப்புமிகு நூல்கள்` / publisher catalogue-advertisement.
 
-Do not promote scans 151–170 to verified merely because they were inspected provisionally in an earlier chat.
+Do not promote scans 156–170 to verified merely because they were inspected provisionally in an earlier chat.
 
 ### Pending enlarged-source adjudication from provisional work
 
-- scan **151** received local checking previously but must be freshly reconciled from the raw PDF;
-- difficult / isolated readings remain especially on scans **155, 160, 161, and 164**.
+Difficult / isolated readings remain especially on scans **160, 161, and 164**. Each must be freshly checked when its mini-batch is processed.
 
 ## Critical source-boundary safeguard
 
@@ -98,15 +96,16 @@ Do not silently merge these into one reconstructed history. The 1962 statement r
 
 The final range remains intentionally broken into smaller durable tasks.
 
-**Next source task: scans 151–155**.
+**Next source task: scans 156–160**.
 
 1. Fetch live `main` first and preserve anything newer than this handover.
-2. Read the permanent guide, this handover, `NEXT_CHAT_PROMPT.md`, the active-work README/source metadata, `SCANS_0146_0150_VERIFICATION.md`, and `pages/0150.md`.
-3. Render scans **151–155** directly from the raw 170-page controlling PDF.
-4. Reconcile all five scans directly against source; scan 151 requires fresh direct checking and scan 155 requires targeted enlarged-source adjudication.
-5. Create `pages/0151.md` through `pages/0155.md` and a mini-batch verification record only after all five scans pass.
-6. If any reading genuinely remains unresolved, use `needs-review`; do not infer from modern spelling, grammar or semantics.
-7. Stop after scan 155 for this mini-task unless the user explicitly asks to continue immediately.
+2. Read the permanent guide, this handover, `NEXT_CHAT_PROMPT.md`, the active-work README/source metadata, `SCANS_0151_0155_VERIFICATION.md`, and `pages/0155.md`.
+3. Render scans **156–160** directly from the raw 170-page controlling PDF.
+4. Preserve the physical continuation from scan 155 into scan 156.
+5. Reconcile all five scans directly against source; scan 160 requires targeted enlarged-source adjudication because it was flagged during the provisional pass.
+6. Create `pages/0156.md` through `pages/0160.md` and a mini-batch verification record only after all five scans pass.
+7. If any reading genuinely remains unresolved, use `needs-review`; do not infer from modern spelling, grammar or semantics.
+8. Stop after scan 160 for this mini-task unless the user explicitly asks to continue immediately.
 
 Tracking files such as the large `indexes/page-map.md` will be fully synchronized no later than the aggregate scans 141–170 closure. Durable page files, verification records, this handover and `NEXT_CHAT_PROMPT.md` control interim mini-batch progress.
 
