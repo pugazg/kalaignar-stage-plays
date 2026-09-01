@@ -13,17 +13,12 @@ Before changing anything, read completely:
 3. this `NEXT_CHAT_PROMPT.md`;
 4. `works/manimagudam/README.md`;
 5. `works/manimagudam/metadata/source.md`;
-6. `works/manimagudam/indexes/page-map.md`;
-7. `works/manimagudam/SCANS_0116_0140_VERIFICATION.md`;
-8. `works/manimagudam/pages/0140.md`.
-
-The permanent guide now contains explicit fresh-chat / provisional-work transfer rules. Follow them.
+6. `works/manimagudam/SCANS_0141_0145_VERIFICATION.md`;
+7. `works/manimagudam/pages/0145.md`.
 
 ## Active work — மணிமகுடம்
 
-Controlling source:
-
-`TVA_BOK_0064143_மணி_மகுடம்.pdf`
+Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 
 Durable source identity:
 
@@ -31,70 +26,53 @@ Durable source identity:
 - file size: **187,091,728 bytes**;
 - physical PDF pages: **170**.
 
-Attach / resolve the controlling PDF again in this fresh chat before source-dependent checking.
-
 ## Durable completed checkpoint
 
-The repository — not prior-chat temporary files — is authoritative.
-
 - scans 1–13: **front matter VERIFIED**;
-- scans 14–140: **dramatic body VERIFIED**;
-- overall page-level archival status: **140 / 170 verified**;
-- durable page records: `works/manimagudam/pages/0001.md` through `0140.md`;
-- `காட்சி 1`–`காட்சி 40`: page-level source transcription complete;
-- `காட்சி 41`: begins on scan 141 / printed page 132 and is the first uncommitted page;
-- scans 116–140 fidelity gate: **25 / 25 PASS / COMPLETE, 0 unresolved readings**;
+- scans 14–145: **dramatic body VERIFIED**;
+- overall page-level archival status: **145 / 170 verified**;
+- durable page records: `works/manimagudam/pages/0001.md` through `0145.md`;
+- `காட்சி 1`–`காட்சி 41`: page-level source transcription complete;
+- `காட்சி 42`: begins scan 145 / printed page 136 and continues onto scan 146;
+- scans 141–145 mini-gate: **5 / 5 PASS / COMPLETE, 0 unresolved readings**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-Do not reopen scans 1–140 without new source evidence or explicit user direction.
+Do not reopen scans 1–145 without new source evidence or explicit user direction.
 
-## Provisional previous-chat work — NOT DURABLE VERIFICATION
+## Remaining provisional range — NOT DURABLE VERIFICATION
 
-The user instructed the previous chat to **process all remaining pages**. Source inspection was carried across scans **141–170**, but no final page records for this range were committed.
+Earlier source inspection covered scans 141–170, but only scans 141–145 have now been freshly reconciled and committed. The remaining provisional range is **146–170**.
 
-Navigation / structural findings from that provisional source inspection:
+Navigation findings only:
 
-- scans 141–150 were inspected through the conversation PDF preview;
-- scans 151–170 were inspected from raw-PDF renders because the preview exposes only 150 pages;
-- `காட்சி 41` begins scan 141 / printed page 132;
-- `காட்சி 42` begins scan 145 / printed page 136;
+- `காட்சி 42` continues on scan 146;
 - `காட்சி 43` begins scan 152 / printed page 143;
-- scan 162 / printed page 153 contains `காட்சி 44`, `காட்சி 45`, and `காட்சி 46` openings on the same physical page;
-- scan 169 / printed page 160 contains `காட்சி 47` and ends with source-visible `(முடிவுற்றது)`;
-- scan 170 is the back-cover publisher catalogue / advertisement headed `கலைஞரின் சிறப்புமிகு நூல்கள்`.
+- scan 162 / printed page 153 contains `காட்சி 44`, `காட்சி 45`, and `காட்சி 46` openings;
+- scan 169 / printed page 160 contains `காட்சி 47` and ends `(முடிவுற்றது)`;
+- scan 170 is back matter headed `கலைஞரின் சிறப்புமிகு நூல்கள்`.
 
-These findings are a navigation aid only. **Do not mark scans 141–170 verified merely because they were inspected in the previous chat.** Reconcile them against the controlling source in this chat.
-
-The prior chat identified isolated difficult readings needing targeted enlarged-source rechecking, especially on scans **141, 155, 160, 161, and 164**. Additional local checking around scan 151 was also performed, but it was not durably committed and must be verified again from source.
+Difficult readings from the earlier provisional pass remain to be freshly checked especially on scans **155, 160, 161, and 164**. Scan 151 also needs fresh direct reconciliation.
 
 ## Critical 170-page safeguard
 
-The conversation/file preview may report only **150 pages**. The raw PDF is **170 physical scans**. If the preview stops at 150, use the raw attached PDF to render scans 151–170. Never treat scan 150 as the end.
+The conversation/file preview may report only **150 pages**. The raw PDF is **170 physical scans**. If the preview stops at 150, render scans 151–170 directly from the raw PDF.
 
-Temporary prior-chat container paths/crops are not authoritative and may not exist in the fresh chat. Re-render from the controlling PDF as needed.
+## Exact next activity — simplified mini-batch
 
-## Exact next activity — COMPLETE ALL REMAINING PAGES
+Process **scans 146–150 only**.
 
-Process the complete remaining physical range **scans 141–170 in one go**. Do **not** stop at scan 165 or at the literary ending on scan 169.
+1. Reconcile scans 146–150 directly against the controlling source.
+2. Preserve the physical continuation from scan 145 into scan 146.
+3. Use enlarged/non-destructive variants where needed; never resolve Tamil from expected modern spelling or semantics.
+4. Create durable `works/manimagudam/pages/0146.md` through `0150.md`.
+5. Create a mini-batch verification record after all five scans pass; if a reading remains unresolved, use `needs-review` instead of guessing.
+6. Commit the mini-batch directly to `main`, refetch live `main`, and verify at least `pages/0150.md` plus the mini-batch verification record.
+7. Stop after scan 150 for this mini-task unless the user explicitly asks to continue immediately.
 
-For the final batch:
+The large `indexes/page-map.md` and full repository status files must be fully synchronized by the aggregate scans 141–170 closure. Interim durable progress is controlled by committed page records, mini-batch verification records, `HANDOVER.md`, and this prompt.
 
-1. Reconcile scan 141 through scan 170 directly against the controlling source.
-2. Use enlarged crops / non-destructive image variants for difficult glyphs; do not resolve ambiguous Tamil from expected modern spelling, grammar, or semantics.
-3. Create durable page records:
-   - `works/manimagudam/pages/0141.md`
-   - through
-   - `works/manimagudam/pages/0170.md`.
-4. Preserve exact source wording, punctuation, speaker labels, stage directions, old/source forms, printed pagination, and physical page boundaries.
-5. Represent scan 170 as back matter / publisher catalogue; every physical scan requires a record.
-6. If any reading genuinely remains unresolved, use `needs-review` and document it; do not fabricate completion.
-7. After all 30 scans pass, create `works/manimagudam/SCANS_0141_0170_VERIFICATION.md` or an equivalent final verification/closure record.
-8. Update `works/manimagudam/indexes/page-map.md`, work README, root README, `HANDOVER.md`, and this prompt.
-9. Only after every physical scan has a reconciled record and all verification gates pass, mark the Tamil page-level archival transcription **170 / 170 COMPLETE**.
-10. Commit the complete final batch directly to `main`, then fetch live `main` again and verify the commit plus at least `pages/0170.md` and the final verification record.
-
-After 170/170 page-level completion, **do not automatically start scene assembly or English translation**. Stop at the durable closure checkpoint unless the user explicitly authorizes the next phase.
+After 170/170 page-level completion, **do not automatically start scene assembly or English translation**.
 
 ## Provenance safeguard
 
