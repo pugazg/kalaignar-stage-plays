@@ -12,7 +12,7 @@ Controlling Tamil source PDF: `TVA_BOK_0065576_நான்மணி_மால�
 
 ## Live-state rule
 
-Fetch live GitHub `main` first and treat it as authoritative. Preserve any newer durable state. Do not reopen completed Tamil literary wording unless explicitly required by new source evidence or user direction.
+Fetch live GitHub `main` first and treat it as authoritative. Preserve any newer durable state. Do not reopen completed Tamil literary wording or reviewed English wording unless explicitly required by new source evidence or user direction.
 
 ## Mandatory startup reading
 
@@ -22,18 +22,12 @@ Before any write, read completely:
 2. `HANDOVER.md`
 3. `NEXT_CHAT_PROMPT.md`
 4. root `README.md`
-5. `works/cheran-senguttuvan/README.md`
-6. `works/cheran-senguttuvan/scenes/01.md`
-7. `works/cheran-senguttuvan/scenes/02.md`
-8. `works/cheran-senguttuvan/scenes/03.md`
-9. `works/cheran-senguttuvan/scenes/04.md`
-10. `works/cheran-senguttuvan/translations/en/README.md`
-11. `works/cheran-senguttuvan/translations/en/01.md`
-12. `works/cheran-senguttuvan/translations/en/02.md`
-13. `works/cheran-senguttuvan/translations/en/03.md`
-14. `works/cheran-senguttuvan/translations/en/04.md`
-15. `works/cheran-senguttuvan/translations/en/TRANSLATION_REVIEW.md`
-16. relevant Cheran scene/page fidelity reviews where a source-sensitive form needs confirmation
+5. `sources/naanmani-malai-tamil/COVERAGE_AUDIT.md`
+6. English authority/status and review files for `பரதாயணம்`
+7. `works/anarkali/translations/en/README.md`, `TRANSLATION_REVIEW.md`, `SECONDARY_WITNESS_COMPARISON.md`
+8. `works/socrates/translations/en/README.md`, `TRANSLATION_REVIEW.md`, `SECONDARY_WITNESS_COMPARISON.md`
+9. `works/cheran-senguttuvan/translations/en/README.md`, `TRANSLATION_REVIEW.md`, `SECONDARY_WITNESS_COMPARISON.md`
+10. `sources/one-act-plays-2009/README.md` and live directory/witness organization needed to determine applicability across the four plays
 
 Then re-fetch live `main` immediately before the first write.
 
@@ -48,55 +42,52 @@ The composite `கலைஞரின் நான்மணி மாலை` Tami
 
 ## English translation state
 
-Independent English translation of the four `நான்மணி மாலை` plays is now **4/4 COMPLETE**.
+Independent English translation of the four `நான்மணி மாலை` plays is **4/4 COMPLETE**:
 
 - `பரதாயணம்` — independent English **PASS / COMPLETE**;
-- `அனார்கலி` — independent English **4/4 COMPLETE; translation review PASS; 2009 secondary-witness comparison PASS / COMPLETE**;
-- `சாக்ரடீஸ்` — independent English **introductory note + 5/5 COMPLETE; translation review PASS; 2009 secondary-witness comparison PASS / COMPLETE**;
-- `சேரன் செங்குட்டுவன்` — independent English **4/4 COMPLETE; translation review PASS**.
+- `அனார்கலி` — independent English **PASS / COMPLETE**, 2009 witness comparison **PASS / COMPLETE**;
+- `சாக்ரடீஸ்` — independent English **PASS / COMPLETE**, 2009 witness comparison **PASS / COMPLETE**;
+- `சேரன் செங்குட்டுவன்` — independent English **PASS / COMPLETE**, 2009 witness comparison **PASS / COMPLETE**.
 
-## Cheran independent-English checkpoint
+### Cheran closed English checkpoint
 
-Files:
-
-- `works/cheran-senguttuvan/translations/en/01.md`;
-- `works/cheran-senguttuvan/translations/en/02.md`;
-- `works/cheran-senguttuvan/translations/en/03.md`;
-- `works/cheran-senguttuvan/translations/en/04.md`;
+- `works/cheran-senguttuvan/translations/en/01.md`–`04.md` — independent translation, translation-reviewed;
 - `works/cheran-senguttuvan/translations/en/TRANSLATION_REVIEW.md` — **PASS**;
-- `works/cheran-senguttuvan/translations/en/README.md`.
+- `works/cheran-senguttuvan/translations/en/SECONDARY_WITNESS_COMPARISON.md` — **PASS / COMPLETE**.
 
-These were drafted and reviewed only from the verified Tamil archive. The complete 2009 published-English `Cheran Senguttuvan` witness was deliberately not consulted during the independent phase.
+The 2009 Cheran witness was consulted only after the independent translation had been locked. No published wording was automatically imported into the verified Tamil or independent English.
 
-Protected independent-translation decisions include:
+Important comparison findings include:
 
-- Scene 1 pre-scene voice-over; `விஜ.` / `விஜ:` distinction; `புலி—வில்—கயல்` → `tiger—bow—fish`;
-- Scene 2 `சேரன்:` / `சேர:` and `புலவர்:` / `புல:` distinctions; long embedded martial-family recitation; conservative visible handling of `கட்டாணி முத்தாள்`, `ஆரணங்கு`, and `பனவெல்ல`;
-- Scene 3 `மண்டூக மன்னர்கள்` → `frog-kings`; Tamil self-respect and mobilization rhetoric; source-spaced `வேட்ட மங்கலம்`; final `*`;
-- Scene 4 `குயிலாலுவம்` → `Kuyilaluvam`; exact label variants `சேர்:`, `சேர்;`, `சேர்!`, `வில்லவன்:`, `வில்:`, `வில்!`, `கன:`; unconverted `நாழிகை`; source long dashes; final `- * -`.
+- Scene 1 `பாரதந்தான்` → `another Mahabharatham`, `மண்` → `sand`, label normalization;
+- Scene 2 `சாதல் கதையொன்று` → `love story`;
+- Scene 2 `வேழப்படை` → `Tiger flags`;
+- Scene 3 `வாளேந்தி` → `holding lances`;
+- materially rewritten Sattanar / Athani-hall wording;
+- `இமயத்தை முட்டுங்கள்!` → `Invade the Himalayas!`;
+- Scene 4 label normalization;
+- `நாழிகை` → `nali` with a 24-minute gloss;
+- `on your heads` added to the final stone command;
+- source closing marks omitted in the witness transcription.
+
+These remain witness differences, not revisions.
 
 ## Exact next activity
 
-Run a **post-translation comparison of `சேரன் செங்குட்டுவன்` against the complete 2009 published-English `Cheran Senguttuvan` witness only**.
+Run a **`நான்மணி மாலை` English-phase closure audit only**.
 
-Only after confirming the independent translation checkpoint above, locate and read the complete Cheran published-English witness in the repository's `sources/one-act-plays-2009/` organization and its underlying verified physical-page records.
+Tasks:
 
-Compare:
+- confirm from live repository files that independent English is complete for all **4 / 4** plays;
+- inspect `sources/one-act-plays-2009/` and establish exactly which of the four plays have a complete applicable 2009 published-English witness;
+- do **not** assume whether `பரதாயணம்` is applicable; resolve it from live repository evidence;
+- confirm every applicable secondary-witness comparison is **PASS / COMPLETE** and linked to its provenance range;
+- keep `not applicable` distinct from `pending`;
+- create `sources/naanmani-malai-tamil/ENGLISH_PHASE_CLOSURE_AUDIT.md` unless live `main` already contains an equivalent/superseding convention;
+- update the relevant source/root/handover status files only after the audit result is established;
+- do not change verified Tamil, independent translation wording, or completed comparison findings;
+- do not begin another work or phase in the same activity.
 
-- pre-scene `Silappathikaram` / Kannagi-stone framing;
-- four-scene coverage and order;
-- speaker-turn coverage and any label normalization;
-- stage directions and final marks;
-- Scene 1 `swayamvara`, Tamil-antiquity declaration, Ganges/Kaveri poem, `புலி—வில்—கயல்`, and northern ridicule;
-- Scene 2 domestic opening, complete embedded martial-family poem, father/husband/son sacrifice, honour rhetoric, source-sensitive poetic forms, northern challenge and sword/feet rhetoric;
-- Scene 3 tiger/bow/fish insult sequence, `மண்டூக மன்னர்கள்`, Tamil self-respect / internal-rivalry argument, literary/historical catalogue, mobilization speech and bodily-war imagery;
-- Scene 4 `குயிலாலுவம்`, exact speaker-label variants, disguise/ridicule sequence, eighteen-year/month/day/`நாழிகை` escalation, Tamil-soil forgiveness, thirty-two-month return, Kannagi stone and final oxen humiliation;
-- omissions, additions, compressions, normalization and material interpretive divergences.
+The closure record should answer whether `கலைஞரின் நான்மணி மாலை` can now be marked **English phase PASS / COMPLETE**, with exact numerator/denominator counts for independent translations and for applicable secondary-witness comparisons.
 
-Create `works/cheran-senguttuvan/translations/en/SECONDARY_WITNESS_COMPARISON.md` according to repository convention.
-
-**Do not automatically rewrite** either the verified Tamil archive or the independent English translation because the published witness differs. Published alternatives are comparison evidence only.
-
-Do **not** begin another work in the same activity.
-
-When I say **“Proceed with next activity”**, execute this exact Cheran secondary-witness comparison directly.
+When I say **“Proceed with next activity”**, execute this exact English-phase closure audit directly.
