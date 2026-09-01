@@ -15,7 +15,11 @@ Work-level archival entry for Kalaignar's one-act play **`சாக்ரடீ�
 - total Tamil page verification: **17/17 COMPLETE**;
 - dramatic-body pages verified: **15/15 COMPLETE**;
 - source-printed dramatic scenes: **5**;
-- scenes assembled: **5/5 COMPLETE**.
+- scenes assembled: **5/5 COMPLETE**;
+- independent English introductory note: **COMPLETE**;
+- independent English scenes: **5/5 COMPLETE**;
+- Tamil→English translation review: **PASS**;
+- unresolved English translation blocks: **0**.
 
 Scene map:
 
@@ -25,9 +29,9 @@ Scene map:
 4. `காட்சி — 4` — scans 34–39 — **assembly/fidelity PASS**;
 5. `காட்சி—5.` — scans 40–43 — **4/4 page gate + `scenes/05.md` assembly/fidelity PASS**.
 
-## Active Gemini / scan rule retained in the archive
+## Tamil authority state
 
-For the completed `சாக்ரடீஸ்` page records:
+For the completed Tamil page records:
 
 - user-supplied Gemini transcription controls lexical dialogue words under the user's explicit instruction;
 - the controlling scan supplies headings, punctuation, dash, speaker-label spacing/structure, physical line boundaries and final source marks;
@@ -35,32 +39,39 @@ For the completed `சாக்ரடீஸ்` page records:
 
 The 2009 published-English witness remains secondary and does not control Tamil.
 
-## Verified page records
+Verified Tamil files are `pages/0027.md` through `pages/0043.md` and `scenes/01.md` through `scenes/05.md`.
 
-`pages/0027.md` through `pages/0043.md` are verified for the complete `சாக்ரடீஸ்` source extent.
+## Independent English translation
 
-## Assembly state
+English directory: [`translations/en/`](translations/en/).
 
-- `scenes/01.md` — PASS;
-- `scenes/02.md` — PASS;
-- `scenes/03.md` — PASS;
-- `scenes/04.md` — PASS;
-- `scenes/05.md` — PASS.
+Files:
 
-Scene-level audits:
+- [`translations/en/00-introduction.md`](translations/en/00-introduction.md) — verified introductory-note translation;
+- [`translations/en/01.md`](translations/en/01.md) through [`translations/en/05.md`](translations/en/05.md) — five independent English scenes;
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) — **PASS**;
+- [`translations/en/README.md`](translations/en/README.md) — translation authority/status record.
 
-- `ASSEMBLY_FIDELITY_REVIEW.md` — Scene 1 PASS;
-- `SCENE2_ASSEMBLY_FIDELITY_REVIEW.md` — Scene 2 PASS;
-- `SCENE3_ASSEMBLY_FIDELITY_REVIEW.md` — Scene 3 PASS;
-- `SCENE4_ASSEMBLY_FIDELITY_REVIEW.md` — Scene 4 PASS;
-- `SCENE5_ASSEMBLY_FIDELITY_REVIEW.md` — Scene 5 PASS.
+The English was drafted and reviewed only from the verified Tamil archive. The complete 2009 published-English `Socrates` witness was **not consulted for wording** during independent translation or Tamil→English review.
+
+Protected translation controls include:
+
+- intro `‘சோக்ரதர்’` → conservative `‘Sogradhar’`;
+- unusual `ஆஸ்திகப்பழமாக்கியிருக்கிறார்` retained visibly as `astika-pazham` rather than silently repaired;
+- `சபைன்` → `Sabain` without external identification;
+- Scene 4 verified speaker label `சார் :` → `Sar :` rather than silently regularized;
+- Scene 4 locked `செடுக்கிறேனா` kept visibly as `sedukkirēn`;
+- source `முப்பத்தொரு வாக்குகள்` retained as `thirty-one votes` despite the same source printing `281—220`;
+- Scene 5 bare `: !........` kept unassigned;
+- source `சாச்ரடீஸ்` retained at its occurrence as `Sasrates`;
+- final creditor `அங்கிளிப்பியசு` retained as `Angilipiyas` without importing a famous external variant.
 
 ## Completion checkpoint
 
-**Tamil page-level verification and five-scene assembly for `சாக்ரடீஸ்` are complete.**
+**Tamil page-level verification and five-scene assembly for `சாக்ரடீஸ்` are complete: 17/17 pages, 5/5 scenes, all fidelity gates PASS.**
 
-The final Scene-5 audit confirms 4/4 verified page records represented, 0 unresolved assembly discrepancies, 0 speaker-label mismatches, 0 assistant lexical substitutions, and retention of the final `*`.
+**Independent English translation is also complete: introductory note + 5/5 scenes, translation review PASS, 0 unresolved translation blocks, 0 published-witness contamination.**
 
 ## Next activity
 
-Proceed source-sequentially to **`சேரன் செங்குட்டுவன்` scan 44 / printed p.39 page verification only**. Do not process scan 45 in the same activity.
+Run a **post-translation secondary-witness comparison** between the completed independent English translation and the complete 2009 published-English `Socrates` witness. Keep that comparison separate: record agreements, omissions, additions, normalization and interpretive differences without automatically changing either the verified Tamil archive or the independent English translation.
