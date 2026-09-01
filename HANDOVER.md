@@ -32,24 +32,27 @@ Durable source identity:
 
 ### Completed front-matter checkpoint
 
-Scans **1–13 are now 13 / 13 VERIFIED** and have individual archival page records:
+Scans **1–13 are 13 / 13 VERIFIED** with durable page records `works/manimagudam/pages/0001.md` through `0013.md`.
 
-- `works/manimagudam/pages/0001.md` through `0013.md`.
+No unresolved reading remains in scans 1–13.
 
-Coverage of this batch:
+### Dramatic-body checkpoint
 
-- scan 1 colour cover;
-- scans 2–3 captioned photographs / portrait;
-- scans 4–5 குறிஞ்சி சுப்பிரமணியன் introductory-publisher note;
-- scans 6–8 rotated captioned photographs, inspected after non-destructive rotation;
-- scan 9 uncaptained portrait composite;
-- scan 10 title/publisher page;
-- scan 11 `பதிப்புரை` plus complete edition/imprint block;
-- scans 12–13 author `என்னுரை`, ending `22.7.1986 / அன்புள்ள / மு.கருணாநிதி`.
+Scan **14 / காட்சி 1 opening is VERIFIED** and archived as:
 
-Current page-level status: **13 / 170 verified**.
+`works/manimagudam/pages/0014.md`
 
-No unresolved reading remains in scans 1–13 at this checkpoint. Scene assembly has not started. English translation remains **not authorized / not started**.
+Source-supported checkpoint facts:
+
+- no printed page number is visible on scan 14 and none is inferred;
+- `காட்சி 1` begins with the night-time `மணிமகுடபுரியின் மாடவீதியில்` stage direction;
+- source speaker labels include `குள்ளன்:`, `விளக்கடி மனிதன்:`, and `குள்:`;
+- the final stage direction is physically split across scans: scan 14 ends after `அந்தப் பக்கம்`, while scan 15 begins `வருகிறான்.`;
+- scan 15 visibly carries printed page **6**.
+
+Current page-level status: **14 / 170 verified**.
+
+`காட்சி 1` is **in progress**. Scene assembly has not started. English translation remains **not authorized / not started**.
 
 ### Source-boundary safeguard
 
@@ -66,14 +69,15 @@ The inspected scan does not itself verify the 1962 Madurai statement. Keep that 
 
 ### Exact next activity
 
-Begin **scan 14 / காட்சி 1** only.
+Process **scan 15 / printed page 6 / காட்சி 1 continuation** only.
 
 1. inspect the controlling scan directly;
-2. create `works/manimagudam/pages/0014.md`;
-3. transcribe the complete scene-opening text exactly as printed;
-4. preserve speaker labels, punctuation, stage directions and source forms;
-5. record printed pagination only if directly visible;
-6. update `works/manimagudam/indexes/page-map.md` and checkpoint documents after the scan is reconciled.
+2. create `works/manimagudam/pages/0015.md`;
+3. preserve the physical continuation from scan 14, beginning `வருகிறான்.`;
+4. transcribe the complete scan exactly as printed;
+5. preserve speaker labels, punctuation, stage directions and source forms;
+6. record printed page **6** because it is directly visible;
+7. update `works/manimagudam/indexes/page-map.md` and checkpoint documents after reconciliation.
 
 Do not begin English translation unless the user explicitly authorizes a later translation phase.
 
