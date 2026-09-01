@@ -9,8 +9,9 @@ Archive slug: `manimagudam`.
 - Source intake / structural survey: **REGISTERED**.
 - Physical PDF pages: **170**.
 - Front matter scans **1–13: 13 / 13 VERIFIED**.
-- Overall Tamil page-level archival transcription: **13 / 170 verified**.
-- Dramatic body: **not started**; next scan is **14 / காட்சி 1**.
+- Dramatic body scan **14 / காட்சி 1 opening: VERIFIED**.
+- Overall Tamil page-level archival transcription: **14 / 170 verified**.
+- `காட்சி 1`: **in progress**; next scan is **15 / printed page 6**.
 - Scene assembly: **not started**.
 - English translation: **not authorized / not started**.
 - Source PDF remains external to the repository.
@@ -42,23 +43,23 @@ The paragraph above is preserved as **user-supplied catalog context**, not as ve
 
 ## Front-matter archival checkpoint
 
-Individual verified page records now exist for:
-
-- `pages/0001.md` — colour cover;
-- `pages/0002.md` — presentation photograph + printed captions;
-- `pages/0003.md` — portrait + printed caption;
-- `pages/0004.md` — குறிஞ்சி சுப்பிரமணியன் introductory/publisher note;
-- `pages/0005.md` — continuation / sign-off;
-- `pages/0006.md` — rotated photograph + `8.11.1960` caption;
-- `pages/0007.md` — rotated photograph + `15.8.1975` caption;
-- `pages/0008.md` — rotated photograph + printed caption;
-- `pages/0009.md` — uncaptained portrait composite;
-- `pages/0010.md` — title / publisher page;
-- `pages/0011.md` — `பதிப்புரை` + edition/imprint;
-- `pages/0012.md` — `என்னுரை` first page;
-- `pages/0013.md` — `என்னுரை` closing page.
+Individual verified page records exist for `pages/0001.md` through `pages/0013.md`, covering the colour cover, photographic front matter/captions, குறிஞ்சி சுப்பிரமணியன் introductory note, title/imprint page, `பதிப்புரை`, and both `என்னுரை` pages.
 
 All **13 / 13** front-matter scans were directly inspected against enlarged native source renders before being promoted to `verified`. No unresolved reading remains in this front-matter batch.
+
+## Dramatic-body checkpoint
+
+`pages/0014.md` is the first verified dramatic-body page.
+
+- scan: **14**;
+- scene: **காட்சி 1**;
+- printed page: **not visible / not inferred**;
+- opening direction begins `இரவு நேரம் - மணிமகுடபுரியின் மாடவீதியில்...`;
+- speaker labels preserved include `குள்ளன்:`, `விளக்கடி மனிதன்:`, and `குள்:`;
+- the physical page ends inside a stage direction after `அந்தப் பக்கம்`;
+- scan 15 visibly continues that direction with `வருகிறான்.` and carries printed page **6**.
+
+No wording from scan 15 has been silently joined into the scan-14 page record.
 
 ## Performance-history provenance note
 
@@ -71,8 +72,9 @@ The inspected scan does **not establish the 1962 Madurai statement**. Therefore 
 
 ## Physical-source boundary
 
-- Scans **1–13**: cover / photographs / publisher-introductory matter / title and edition matter / author preface — **VERIFIED**.
-- Scan **14**: **காட்சி 1** begins the dramatic body.
+- Scans **1–13**: front matter — **VERIFIED**.
+- Scan **14**: `காட்சி 1` opening — **VERIFIED**.
+- Scan **15**: printed page **6**, `காட்சி 1` continuation — next page.
 - Scan **145**: **காட்சி 42** begins.
 - Scan **152**: **காட்சி 43** begins.
 - Scan **162**: **காட்சி 44**, **காட்சி 45**, and **காட்சி 46** all begin on the same physical scan.
@@ -93,11 +95,12 @@ A conversation-file preview exposed only the first **150** pages, but the attach
 - no silent lexical, punctuation, speaker-label, stage-direction or old-glyph normalization;
 - printed pagination is recorded only when directly visible;
 - photographs/captions and non-literary marks remain distinct from literary text;
+- physical page breaks are preserved in page records;
 - page transcription precedes scene assembly;
 - English translation is a separate later phase and is not implied by this archival work.
 
 ## Exact next activity
 
-Begin the dramatic body at **scan 14 / காட்சி 1**. Create `pages/0014.md` from direct source inspection, preserve the complete scene-opening wording / speaker labels / stage direction / punctuation, and record only printed pagination actually visible on that scan.
+Process **scan 15 / printed page 6 / காட்சி 1 continuation**. Create `pages/0015.md` from direct source inspection, preserve the opening physical continuation `வருகிறான்.`, and transcribe the complete scan with exact speaker labels, stage directions, punctuation and source forms.
 
 Do **not** begin English translation and do not reopen any closed `நான்மணி மாலை` work.
