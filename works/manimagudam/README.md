@@ -9,9 +9,10 @@ Archive slug: `manimagudam`.
 - Source intake / structural survey: **REGISTERED**.
 - Physical PDF pages: **170**.
 - Front matter scans **1–13: 13 / 13 VERIFIED**.
-- Dramatic body scan **14 / காட்சி 1 opening: VERIFIED**.
-- Overall Tamil page-level archival transcription: **14 / 170 verified**.
-- `காட்சி 1`: **in progress**; next scan is **15 / printed page 6**.
+- Dramatic-body scans **14–39: 26 / 26 VERIFIED**.
+- Overall Tamil page-level archival transcription: **39 / 170 verified**.
+- `காட்சி 1`–`காட்சி 6`: page-level source transcription complete.
+- `காட்சி 7`: **in progress**; it begins on scan 39 and continues on scan 40.
 - Scene assembly: **not started**.
 - English translation: **not authorized / not started**.
 - Source PDF remains external to the repository.
@@ -31,76 +32,65 @@ The paragraph above is preserved as **user-supplied catalog context**, not as ve
 
 ## Source-derived intake findings
 
-- Scan 10 is the title/imprint page. Its display title is visually set as **`மணி மகுடம்`**; the author line is **`டாக்டர் கலைஞர். மு.கருணாநிதி`**, followed by **பாரதி பதிப்பகம்** and its address block.
-- Scan 11 carries `பதிப்புரை (நான்காம் பதிப்பின் பதிப்புரை)` plus the edition/imprint block. It visibly records:
-  - Fourth Edition (Bharathi Pathippagam): **December 1986**;
-  - Fifth Edition: **October 2001**;
-  - Sixth Edition: **May 2010**;
-  - Price: **Rs. 40.00**;
-  - publisher: **BHARATHI PATHIPPAGAM**, T. Nagar, Chennai-600017.
-- Scans 12–13 are headed **என்னுரை** and end with **22.7.1986 / அன்புள்ள / மு.கருணாநிதி**.
-- In scan 12, the author's own preface states that the king-character construction in **`மேரிகாரல்லி எழுதிய “டெம்போரல் பவர்”`** attracted him, but that he reshaped the dramatic situation toward a later political/social context. The same page explicitly frames the conflict as **`மதம் - ஆட்சி பீடம் - பிரச்சார பீடம்`** and the people.
-
-## Front-matter archival checkpoint
-
-Individual verified page records exist for `pages/0001.md` through `pages/0013.md`, covering the colour cover, photographic front matter/captions, குறிஞ்சி சுப்பிரமணியன் introductory note, title/imprint page, `பதிப்புரை`, and both `என்னுரை` pages.
-
-All **13 / 13** front-matter scans were directly inspected against enlarged native source renders before being promoted to `verified`. No unresolved reading remains in this front-matter batch.
-
-## Dramatic-body checkpoint
-
-`pages/0014.md` is the first verified dramatic-body page.
-
-- scan: **14**;
-- scene: **காட்சி 1**;
-- printed page: **not visible / not inferred**;
-- opening direction begins `இரவு நேரம் - மணிமகுடபுரியின் மாடவீதியில்...`;
-- speaker labels preserved include `குள்ளன்:`, `விளக்கடி மனிதன்:`, and `குள்:`;
-- the physical page ends inside a stage direction after `அந்தப் பக்கம்`;
-- scan 15 visibly continues that direction with `வருகிறான்.` and carries printed page **6**.
-
-No wording from scan 15 has been silently joined into the scan-14 page record.
+- Scan 10 display title: `மணி மகுடம்`; author line `டாக்டர் கலைஞர். மு.கருணாநிதி`; publisher `பாரதி பதிப்பகம்`.
+- Scan 11 records Fourth Edition December 1986, Fifth Edition October 2001, Sixth Edition May 2010, and price Rs.40.00.
+- Scans 12–13: `என்னுரை`, ending `22.7.1986 / அன்புள்ள / மு.கருணாநிதி`.
+- Scan 12 records the author's `மேரிகாரல்லி` / `“டெம்போரல் பவர்”` source context and the `மதம் - ஆட்சி பீடம் - பிரச்சார பீடம்` framing.
 
 ## Performance-history provenance note
 
-The user-supplied catalog description records a **1962 Madurai DMK conference** performance. The inspected controlling scan supplies different, additional performance-history evidence:
+The user-supplied catalog description records a **1962 Madurai DMK conference** performance. The inspected controlling scan supplies different/additional evidence:
 
-- scan 4 states that in **May 1956**, at the DMK **second state conference in Tiruchirappalli**, the **S. S. Rajendran** troupe staged `மணிமகுடம்`;
-- scan 5 records a **September 1963** staging associated with the Murasoli drama troupe under **Anna's leadership**.
+- scan 4: **May 1956**, DMK second state conference, Tiruchirappalli, staging by the S. S. Rajendran troupe;
+- scan 5: **September 1963** staging associated with the Murasoli drama troupe under Anna's leadership.
 
-The inspected scan does **not establish the 1962 Madurai statement**. Therefore that statement remains in the user-supplied catalog layer and is not promoted into source-derived metadata without a separate supporting source. The 1956/1963 scan evidence likewise does not silently erase the user-supplied note.
+The scan does not establish the 1962 Madurai statement. Keep that statement in the user-supplied catalog layer unless separately sourced.
+
+## Durable page checkpoint
+
+Verified page records now exist at:
+
+`pages/0001.md` through `pages/0039.md`.
+
+Scans 15–39 were processed as one 25-page batch after scan 14. Their final source-fidelity pass corrected draft readings only where enlarged source pixels were clear. Durable examples include:
+
+- `ஒரு வேளை` and `அவளும்` on scan 16;
+- `நாட்டுப் பற்று` / `என்ற எண்ணத்தில்` on scan 18;
+- `எலும்பு உடலினர்` on scan 20;
+- `ஏறத்தாழ` on scan 23;
+- `தோன்றி விடுமானால்` on scan 24;
+- `“கா” வன்னா` and `முல்லை அரும்புகள்` on scan 28;
+- `அடேடே!` on scan 32;
+- `சிரஞ்சீவித்தன்மை` on scan 33;
+- `குமுறியெழும் வறுமைத் தீயை` / `குழந்தை குட்டிகளோடு` on scan 34;
+- `எலும்பாய்த் தேய்ந்து, எறும்பாய் உழைத்து` / `தேர்களாய்` on scan 36;
+- `புகையும் எரிமலை` / `நிர்மூலமாக்கப்பட்டு` on scan 37.
+
+These are source readings, not editorial modernization. See `SCANS_0015_0039_VERIFICATION.md`.
 
 ## Physical-source boundary
 
-- Scans **1–13**: front matter — **VERIFIED**.
-- Scan **14**: `காட்சி 1` opening — **VERIFIED**.
-- Scan **15**: printed page **6**, `காட்சி 1` continuation — next page.
-- Scan **145**: **காட்சி 42** begins.
-- Scan **152**: **காட்சி 43** begins.
-- Scan **162**: **காட்சி 44**, **காட்சி 45**, and **காட்சி 46** all begin on the same physical scan.
-- Scan **169**: printed page **160**, contains **காட்சி 47** and the source-visible closing marker **`(முடிவுற்றது)`**.
-- Scan **170**: back-cover publisher catalogue / advertisement headed **கலைஞரின் சிறப்புமிகு நூல்கள்**.
+- Scans 1–13: front matter — **VERIFIED**.
+- Scans 14–19: `காட்சி 1` — **VERIFIED / page-level complete**.
+- Scans 20–24: `காட்சி 2`, with `காட்சி 3` beginning on scan 24 — **VERIFIED**.
+- Scans 24–26: `காட்சி 3` — **VERIFIED / page-level complete**.
+- Scans 27–30: `காட்சி 4`, with `காட்சி 5` beginning on scan 30 — **VERIFIED**.
+- Scans 30–32: `காட்சி 5`, with `காட்சி 6` beginning on scan 32 — **VERIFIED**.
+- Scans 32–39: `காட்சி 6`, with `காட்சி 7` beginning on scan 39 — **VERIFIED**.
+- Scan 40: next unprocessed physical scan / `காட்சி 7` continuation.
+- Scan 169: printed page 160, `காட்சி 47`, `(முடிவுற்றது)`.
+- Scan 170: back-cover publisher catalogue / advertisement.
 
-The supplied PDF therefore contains **47 scenes** in the dramatic body and a separate back-cover scan.
+## Critical PDF-ingestion note
 
-## Important PDF-ingestion note
-
-A conversation-file preview exposed only the first **150** pages, but the attached raw PDF itself contains **170** pages. Independent PDF-structure checks on the attached bytes report 170 pages, and scans **151–170** were directly rendered and visually inspected during intake. The preview boundary must never be mistaken for the source boundary.
+A conversation-file preview exposed only the first **150** pages, but raw-PDF inspection establishes **170 physical pages** and scans 151–170 were directly rendered during intake. Never treat scan 150 as the source end.
 
 ## Archival rules
 
-`STAGE_PLAY_PROCESSING_GUIDE.md` governs this work. In particular:
-
-- scan is the controlling authority;
-- no silent lexical, punctuation, speaker-label, stage-direction or old-glyph normalization;
-- printed pagination is recorded only when directly visible;
-- photographs/captions and non-literary marks remain distinct from literary text;
-- physical page breaks are preserved in page records;
-- page transcription precedes scene assembly;
-- English translation is a separate later phase and is not implied by this archival work.
+`STAGE_PLAY_PROCESSING_GUIDE.md` governs this work. Scan is controlling authority; no silent lexical/punctuation/speaker/stage-direction/old-glyph normalization; printed pagination is recorded only when visible; physical page breaks are preserved; page transcription precedes scene assembly; English is a separate later phase.
 
 ## Exact next activity
 
-Process **scan 15 / printed page 6 / காட்சி 1 continuation**. Create `pages/0015.md` from direct source inspection, preserve the opening physical continuation `வருகிறான்.`, and transcribe the complete scan with exact speaker labels, stage directions, punctuation and source forms.
+Process **scan 40 / காட்சி 7 continuation** from the controlling source, create `pages/0040.md`, preserve the physical continuation from scan 39, and update the page map/checkpoint after reconciliation.
 
-Do **not** begin English translation and do not reopen any closed `நான்மணி மாலை` work.
+Do **not** begin English translation and do not reopen closed `நான்மணி மாலை` work.

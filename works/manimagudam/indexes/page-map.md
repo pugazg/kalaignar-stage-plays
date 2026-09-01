@@ -6,47 +6,73 @@ Printed pagination is recorded only when directly visible. The raw PDF contains 
 
 | Scan page(s) | Printed page | Section / scene | Page type | Status | Notes |
 |---|---|---|---|---|---|
-| 1 | — | front matter | colour cover | verified | `மணி மகுடம்`; author-name line; colour portrait and emblematic cover artwork archived in `pages/0001.md`. |
-| 2 | — | front matter | photograph + printed captions | verified | Caption identifies மு.க.ஸ்டாலின் / குறிஞ்சி சுப்பிரமணியன் and date `22.9.2009`; printed gift-note line also transcribed. |
-| 3 | — | front matter | portrait + printed caption | verified | Full-page portrait; caption `மாண்புமிகு தமிழக முதல்வர் / டாக்டர் கலைஞர் அவர்கள்`. |
-| 4 | — | front matter | introductory / publisher note | verified | `குறிஞ்சி சுப்பிரமணியன்`; address/contact block and first four prose paragraphs transcribed; includes May 1956 Tiruchirappalli performance-history note. |
-| 5 | — | front matter | introductory / publisher note | verified | Continuation through `3.6.2010` sign-off; includes September 1963 performance-history/fund note. |
-| 6 | — | front matter | photograph + caption | verified | Rotated source page; caption on மதுரை தியாகராசர் கல்லூரி மாணவர் மன்ற event and date `8.11.1960` transcribed after non-destructive rotation. |
-| 7 | — | front matter | photograph + caption | verified | Rotated source page; caption naming எம்.ஜி.ஆர்., கா. காளிமுத்து, பெ.சீனிவாசன் and குறிஞ்சி சுப்பிரமணியன்; date `15.8.1975`. |
-| 8 | — | front matter | photograph + caption | verified | Rotated source page; caption naming திராவிடர் கழகத் தலைவர் திரு. வீரமணி and குறிஞ்சி சுப்பிரமணியன். |
-| 9 | — | front matter | portrait composite | verified | Four portrait images; no printed caption/name labels visible, so no identities editorially supplied. |
-| 10 | — | front matter | title / imprint page | verified | Display title `மணி மகுடம்`; `டாக்டர் கலைஞர். மு.கருணாநிதி`; பாரதி பதிப்பகம் address / post-box / phone block transcribed. |
-| 11 | — | front matter | `பதிப்புரை` + edition/imprint | verified | Tamil publisher preface plus full English edition/imprint block; Sixth Edition May 2010; price Rs.40.00. |
-| 12 | — | front matter | `என்னுரை` | verified | First author-preface page fully transcribed; includes `மேரிகாரல்லி`, `“டெம்போரல் பவர்”`, and `மதம் - ஆட்சி பீடம் - பிரச்சார பீடம்`. |
-| 13 | — | front matter | `என்னுரை` close | verified | Preface continuation and close; date `22.7.1986`; `அன்புள்ள / மு.கருணாநிதி`. |
-| 14 | — | காட்சி 1 | dramatic body opening | verified | First dramatic page archived in `pages/0014.md`. No printed page number visible. Final stage direction physically ends `அந்தப் பக்கம்` and continues on scan 15. |
-| 15–144 | 6 visible at scan 15; others pending | dramatic body | dialogue / stage directions | not-started | Scan 15 is the next page and continues `காட்சி 1`; later scene boundaries and printed pagination will be mapped only during direct inspection. |
+| 1 | — | front matter | colour cover | verified | `மணி மகுடம்`; author-name line; cover portrait/artwork archived in `pages/0001.md`. |
+| 2 | — | front matter | photograph + printed captions | verified | Presentation photograph and printed caption/gift-note archived. |
+| 3 | — | front matter | portrait + printed caption | verified | Full-page author portrait and caption archived. |
+| 4 | — | front matter | introductory / publisher note | verified | `குறிஞ்சி சுப்பிரமணியன்`; includes May 1956 Tiruchirappalli performance-history note. |
+| 5 | — | front matter | introductory / publisher note | verified | Continuation through `3.6.2010` sign-off; includes September 1963 performance-history note. |
+| 6 | — | front matter | photograph + caption | verified | Rotated source page; caption/date `8.11.1960` verified after non-destructive rotation. |
+| 7 | — | front matter | photograph + caption | verified | Rotated source page; caption/date `15.8.1975` verified. |
+| 8 | — | front matter | photograph + caption | verified | Rotated source page; printed caption verified. |
+| 9 | — | front matter | portrait composite | verified | Four portraits; no printed identity labels visible, so none supplied editorially. |
+| 10 | — | front matter | title / imprint page | verified | `மணி மகுடம்`; author line; பாரதி பதிப்பகம் block. |
+| 11 | — | front matter | `பதிப்புரை` + edition/imprint | verified | Sixth Edition May 2010; price Rs.40.00; publisher/printer block. |
+| 12 | — | front matter | `என்னுரை` | verified | First author-preface page. |
+| 13 | — | front matter | `என்னுரை` close | verified | Preface close; `22.7.1986 / அன்புள்ள / மு.கருணாநிதி`. |
+| 14 | — | காட்சி 1 | scene opening | verified | First dramatic page; no printed page number visible; final stage direction continues onto scan 15. |
+| 15 | 6 | காட்சி 1 | continuation | verified | Begins physical continuation `வருகிறான்.` from scan 14. |
+| 16 | 7 | காட்சி 1 | continuation | verified | Spider-web / political analogy dialogue continues. |
+| 17 | 8 | காட்சி 1 | continuation | verified | `மக்கள் தொண்டன்` critique continues. |
+| 18 | 9 | காட்சி 1 | continuation | verified | புதுமைப்பித்தன் / பொன்னழகன் introduction. |
+| 19 | 10 | காட்சி 1 | scene close | verified | `கருப்பு ரோஜா` naming and exit stage direction close the scene. |
+| 20 | 11 | காட்சி 2 | scene opening | verified | `ஏழை மக்கள் வாழும் குடிசைகள்`; source form `எலும்பு உடலினர்` retained. |
+| 21 | 12 | காட்சி 2 | continuation | verified | Epidemic / palace medical-department sequence. |
+| 22 | 13 | காட்சி 2 | continuation | verified | காளி/மாரி பூஜை and `கடவுள் அவதாரம்` dialogue. |
+| 23 | 14 | காட்சி 2 | continuation | verified | Political explanation; source form `ஏறத்தாழ` retained. |
+| 24 | 15 | காட்சி 2 / காட்சி 3 | close + opening | verified | Scene 2 closes; `காட்சி 3` begins on same physical scan. |
+| 25 | 16 | காட்சி 3 | continuation | verified | புதுமைப்பித்தன் introduced to the மக்கள் மன்றம். |
+| 26 | 17 | காட்சி 3 | scene close | verified | Membership oath / signature sequence closes scene. |
+| 27 | 18 | காட்சி 4 | scene opening | verified | அமைச்சர் வீடு / கலாராணி அறை. |
+| 28 | 19 | காட்சி 4 | continuation | verified | கலாராணி–வஞ்சி dialogue; source form `முல்லை அரும்புகள்` retained. |
+| 29 | 20 | காட்சி 4 | continuation | verified | குணசீலர் questions வஞ்சி; marriage/palace strategy. |
+| 30 | 21 | காட்சி 4 / காட்சி 5 | close + opening | verified | Scene 4 closes; newspaper-shop `காட்சி 5` begins. |
+| 31 | 22 | காட்சி 5 | continuation | verified | கருப்பு ரோஜா challenges newspaper report. |
+| 32 | 23 | காட்சி 5 / காட்சி 6 | close + opening | verified | Scene 5 closes; `காட்சி 6` சீமான்கள் சபை begins. |
+| 33 | 24 | காட்சி 6 | continuation | verified | ஆலயம் proposal / public-comment invitation. |
+| 34 | 25 | காட்சி 6 | continuation | verified | பொன்னழகன் objection; source forms `குமுறியெழும் வறுமைத் தீயை`, `குழந்தை குட்டிகளோடு`. |
+| 35 | 26 | காட்சி 6 | continuation | verified | குருநாதர் defends கொடிக்கால் demolition / temple plan. |
+| 36 | 27 | காட்சி 6 | continuation | verified | புதுமைப்பித்தன் temple-economy argument; source forms `எலும்பாய்த் தேய்ந்து, எறும்பாய் உழைத்து` and `தேர்களாய்`. |
+| 37 | 28 | காட்சி 6 | continuation | verified | Debate continues; source forms `புகையும் எரிமலை` and `நிர்மூலமாக்கப்பட்டு`. |
+| 38 | 29 | காட்சி 6 | continuation | verified | புதுமைப்பித்தன் denunciation continues; final utterance carries to scan 39. |
+| 39 | 30 | காட்சி 6 / காட்சி 7 | close + opening | verified | Scene 6 closes; `காட்சி 7` begins on same scan and continues onto scan 40. |
+| 40–144 | pending | dramatic body | dialogue / stage directions | not-started | Process sequentially from scan 40; printed pagination and scene boundaries must be recorded only from direct inspection. |
 | 145 | 136 | காட்சி 42 | scene opening | not-started | `காட்சி 42` visibly begins. |
-| 146–151 | 137–142 visible in inspected tail sequence | காட்சி 42 continuation | dialogue / stage directions | not-started | Detailed wording remains untranscribed. |
-| 152 | 143 | காட்சி 43 | scene opening | not-started | `காட்சி 43` visibly begins after the preceding scene closes on the same scan. |
-| 153–161 | 144–152 visible in inspected tail sequence | dramatic body | dialogue / stage directions | not-started | Detailed scene mapping remains to be completed. |
-| 162 | 153 | காட்சி 44 / 45 / 46 | three scene openings on one scan | not-started | All three headings visibly occur on this physical page. |
-| 163–168 | 154–159 visible in inspected tail sequence | dramatic body | dialogue / stage directions | not-started | Continues toward the final scene; exact internal boundary mapping pending. |
+| 146–151 | 137–142 visible in intake survey | காட்சி 42 continuation | dialogue / stage directions | not-started | Detailed transcription pending. |
+| 152 | 143 | காட்சி 43 | scene opening | not-started | `காட்சி 43` visibly begins. |
+| 153–161 | 144–152 visible in intake survey | dramatic body | dialogue / stage directions | not-started | Detailed mapping pending. |
+| 162 | 153 | காட்சி 44 / 45 / 46 | multiple scene openings | not-started | Three scene headings occur on the same physical scan. |
+| 163–168 | 154–159 visible in intake survey | dramatic body | dialogue / stage directions | not-started | Detailed mapping pending. |
 | 169 | 160 | காட்சி 47 + closure | final dramatic page | not-started | `காட்சி 47`; source-visible closing marker `(முடிவுற்றது)`. |
-| 170 | — | back matter | publisher catalogue / advertisement | not-started | Headed `கலைஞரின் சிறப்புமிகு நூல்கள்`; Bharathi Pathippagam address at foot. |
+| 170 | — | back matter | publisher catalogue / advertisement | not-started | Headed `கலைஞரின் சிறப்புமிகு நூல்கள்`. |
 
 ## Source-boundary safeguard
 
-The conversation preview exposed only scans 1–150, but raw-PDF inspection establishes **170 scans** and visually confirms the additional scans 151–170. Do not truncate future processing at scan 150.
+The conversation preview exposed only scans 1–150, but raw-PDF inspection establishes **170 scans** and visually confirms scans 151–170. Do not truncate future processing at scan 150.
 
 ## Current checkpoint
 
-- Source identity / 170-scan physical boundary: registered.
 - Front matter scans **1–13: 13 / 13 verified**.
-- Dramatic body scan **14 / காட்சி 1 opening: verified**.
-- Overall page-level verification: **14 / 170**.
-- `காட்சி 1`: **in progress**; scan 14 ends inside a stage direction at `அந்தப் பக்கம்`.
-- No unresolved reading remains in scans 1–14 at this checkpoint.
+- Dramatic scans **14–39: 26 / 26 verified**.
+- Overall page-level verification: **39 / 170**.
+- `காட்சி 1` through `காட்சி 6`: page-level source transcription complete across the supplied scans.
+- `காட்சி 7`: started on scan 39 and remains in progress.
+- Durable page records: `../pages/0001.md` through `../pages/0039.md`.
+- Scans 15–39 received a final enlarged-source fidelity pass before commit; draft misreadings were corrected rather than normalized by expectation.
 
-Verified archival page records now exist at `../pages/0001.md` through `../pages/0014.md`.
+See `../SCANS_0015_0039_VERIFICATION.md` for the batch correction record.
 
 ## Exact next activity
 
-Process **scan 15 / printed page 6 / காட்சி 1 continuation** directly against the controlling source. Create `pages/0015.md`, begin with the physical continuation `வருகிறான்.`, preserve all speaker labels / stage directions / punctuation exactly, and record the visibly printed page number `6`.
+Process **scan 40 / காட்சி 7 continuation** directly against the controlling source. Create `pages/0040.md`, preserve the physical continuation from scan 39, and record a printed page number only if directly visible on scan 40.
 
-Do not begin English translation; it remains outside the currently authorized phase.
+English translation remains outside the currently authorized phase.
