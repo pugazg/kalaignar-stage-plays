@@ -120,6 +120,23 @@ Direct visual inspection confirms:
 - Some type forms are old-style Tamil glyphs; Unicode transcription must follow the actual letters represented by those glyphs rather than OCR appearance.
 - The source PDF does not provide reliable parsed text for archival use.
 
+## Composite-source closure audit
+
+Durable audit: [`../COVERAGE_AUDIT.md`](../COVERAGE_AUDIT.md) — **PASS / COMPLETE**.
+
+Physical-scan partition:
+
+- **1–5** — front matter — 5 scans;
+- **6–17** — `பரதாயணம்` — 12 scans;
+- **18–26** — `அனார்கலி` — 9 scans;
+- **27–43** — `சாக்ரடீஸ்` — 17 scans;
+- **44–53** — `சேரன் செங்குட்டுவன்` — 10 scans;
+- **54** — back cover — 1 scan.
+
+Count check: **5 + 12 + 9 + 17 + 10 + 1 = 54**.
+
+Closure result: **54/54 represented; 0 gaps; 0 overlaps; 0 pending composite-source pages**. All dramatic-work completion/fidelity states remain unchanged, and no verified literary wording was modified during the audit.
+
 ## First-pass transcription status
 
 User-supplied first-pass/transcription material is a comparison baseline. Direct scan comparison is mandatory before `verified` status. When the user explicitly asks that supplied words be retained, lexical wording is not changed unless separately authorized; source inspection still controls punctuation, layout, source marks and non-text artifacts.
