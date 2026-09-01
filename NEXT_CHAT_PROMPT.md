@@ -29,7 +29,8 @@ Before any write, read completely:
 9. `sources/naanmani-malai-tamil/pages/0002.md`
 10. `sources/naanmani-malai-tamil/pages/0003.md`
 11. `sources/naanmani-malai-tamil/pages/0004.md`
-12. `sources/naanmani-malai-tamil/pages/0054.md`
+12. `sources/naanmani-malai-tamil/pages/0005.md`
+13. `sources/naanmani-malai-tamil/pages/0054.md`
 
 Then re-fetch live `main` immediately before the first write.
 
@@ -43,30 +44,30 @@ Then re-fetch live `main` immediately before the first write.
 ## Composite source state — `கலைஞரின் நான்மணி மாலை`
 
 - total scans: **54**;
-- scans **6–53** contain the completed dramatic works;
 - scan **1 / illustrated front cover** — **verified** at `sources/naanmani-malai-tamil/pages/0001.md`;
 - scan **2 / title page** — **verified** at `sources/naanmani-malai-tamil/pages/0002.md`;
 - scan **3 / copyright-imprint page** — **verified** at `sources/naanmani-malai-tamil/pages/0003.md`;
 - scan **4 / `என்னுரை`** — **verified** at `sources/naanmani-malai-tamil/pages/0004.md`;
-- scan 4 retains the user-supplied words; the controlling scan was used for heading, punctuation/spacing, physical line structure, display typography and the facsimile-signature area;
+- scan **5 / `பதிப்புரை`** — **verified** at `sources/naanmani-malai-tamil/pages/0005.md`;
+- scans **6–53** contain the completed dramatic works;
 - scan **54 / illustrated back cover** — **verified** at `sources/naanmani-malai-tamil/pages/0054.md`;
-- only shared front-matter **scan 5 / `பதிப்புரை`** remains pending at page level;
+- all **54/54 physical scans** are now represented in the repository workflow;
 - source PDF remains external to the repository.
+
+For scans 4–5, retain the user-supplied lexical words. Direct source inspection controls punctuation, spacing, physical line structure and source marks. Scan 5 specifically preserves long dashes, `அனார்கலி—சாக்ரடீஸ்—சேரன் செங்குட்டுவன்`, `இந்நூல்!`, `வழங்குகிறோம்!`, `என்றும்போல் ஆதரவு தருக — ஆக்கம் பெருகிட;`, and `— தமிழ்க்கனி பதிப்பகத்தார்.`. The supplied lexical `நாடகங்களின்` remains retained under the user's explicit word-retention instruction.
 
 ## Exact next activity
 
-Process **scan 5 / `பதிப்புரை` only** as the final shared-front-matter page-level archival transcription for the composite Tamil source.
-
-The user already supplied the scan-5 transcription in the same conversation. **Keep the supplied words.** Use direct scan comparison to check and adjust only heading, punctuation, spaces, hyphens/dashes, quotation marks, paragraph/physical line structure, signature/imprint treatment and other source marks unless the user separately authorizes a lexical change.
+Run a **composite-source 54-scan coverage / closure audit only**.
 
 Requirements:
 
-- inspect scan 5 directly from the controlling PDF;
-- preserve the user-supplied lexical wording;
-- distinguish printed publication text from library stamps, accession marks, later handwriting, damage, bleed-through or other non-authorial marks;
-- create `sources/naanmani-malai-tamil/pages/0005.md` only after direct visual verification;
-- update the composite source page map, source metadata/README, root README, handover and this next-chat prompt after verification;
-- do **not** reopen any completed dramatic work;
-- do **not** begin another work in the same activity.
+- verify every physical scan **1–54** is mapped exactly once to front matter, a dramatic work/page range, or back cover;
+- verify there are no scan gaps, overlaps or composite-source pages still marked pending/partial;
+- verify source metadata, source README, root README, physical page map, handover and this next-chat prompt agree on the completed coverage;
+- inspect work-level mapping/status for scans **6–53** without reopening or rewriting completed literary text;
+- create a durable composite-source closure/audit record if repository conventions support one;
+- do **not** change verified literary wording;
+- do **not** begin translation or another work in the same activity.
 
 When I say **“Proceed with next activity”**, execute this exact activity directly without asking me to choose a routine next step.
