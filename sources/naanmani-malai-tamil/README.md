@@ -4,23 +4,12 @@ Source: `TVA_BOK_0065576_நான்மணி_மாலை.pdf` — **54 scans*
 
 ## Current work state
 
-- `பரதாயணம்`: Tamil archival/assembly PASS; independent English translation PASS.
-- `அனார்கலி`: Tamil archival/assembly PASS.
-- `சாக்ரடீஸ்`: scans **27–43 = 17/17 pages verified COMPLETE**; all five scenes assembled with page-record fidelity **PASS**.
-- `சேரன் செங்குட்டுவன்`: scans **44–53 / pp.39–48 verified COMPLETE**; Tamil page progress **10/10**; all four scenes assembled with page-record fidelity **PASS**; scenes assembled **4/4 COMPLETE**.
+- `பரதாயணம்`: Tamil archival/assembly **PASS**; independent English **PASS / COMPLETE**; 2009 One Act Plays witness **NOT APPLICABLE**.
+- `அனார்கலி`: Tamil **9/9**, 4/4 scenes and fidelity **PASS**; independent English **PASS / COMPLETE**; 2009 comparison **PASS / COMPLETE**.
+- `சாக்ரடீஸ்`: Tamil **17/17**, 5/5 scenes and fidelity **PASS**; independent English introduction + 5/5 scenes **PASS / COMPLETE**; 2009 comparison **PASS / COMPLETE**.
+- `சேரன் செங்குட்டுவன்`: Tamil **10/10**, 4/4 scenes and fidelity **PASS**; independent English **PASS / COMPLETE**; 2009 comparison **PASS / COMPLETE**.
 
-For `சேரன் செங்குட்டுவன்`, the user-supplied Gemini first pass is a comparison baseline. The Tamil scan remains controlling under `STAGE_PLAY_PROCESSING_GUIDE.md`; ambiguous old-glyph readings are not normalized by expectation, while unambiguous scan evidence controls canonical wording, spacing, punctuation, labels and source order. The 2009 English witness remains secondary only.
-
-Final-scene artifacts:
-
-- `../../works/cheran-senguttuvan/pages/0052.md`–`0053.md` — scans 52–53 / pp.47–48 — **2/2 verified**;
-- `../../works/cheran-senguttuvan/SCENE4_PAGE_VERIFICATION.md` — **PASS / COMPLETE**;
-- `../../works/cheran-senguttuvan/scenes/04.md` — **assembly-reviewed / PASS**;
-- `../../works/cheran-senguttuvan/SCENE4_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**.
-
-Scene 4 preserves the source `சேர்!` label variant, `புறப்படுவோம்—வில்லவா.`, `கனக—விஜயா`, `சொல்—இப்போது`, exact source speaker-label punctuation variants, and centered final source mark `- * -`.
-
-**`சேரன் செங்குட்டுவன்` Tamil dramatic-source processing is complete for scans 44–53 / pp.39–48.**
+The Tamil scan remains controlling under `STAGE_PLAY_PROCESSING_GUIDE.md`. Published English is secondary only and must not reconstruct Tamil or silently control an independent translation.
 
 ## Composite-source outer/front matter
 
@@ -29,10 +18,11 @@ Scene 4 preserves the source `சேர்!` label variant, `புறப்ப�
 - scan **3 / copyright-imprint page** — **verified** at [`pages/0003.md`](pages/0003.md);
 - scan **4 / `என்னுரை`** — **verified** at [`pages/0004.md`](pages/0004.md);
 - scan **5 / `பதிப்புரை`** — **verified** at [`pages/0005.md`](pages/0005.md);
-- scans 4–5 retain the user-supplied lexical wording; direct scan comparison controls heading, punctuation, spacing, physical lines, dashes/quotation treatment, display/source marks and sign-off treatment;
 - scan **54 / illustrated back cover** — **verified** at [`pages/0054.md`](pages/0054.md).
 
-## Composite-source closure
+Scans 4–5 retain the user-supplied lexical wording; direct scan comparison controls heading, punctuation, spacing, physical lines, dashes/quotation treatment, display/source marks and sign-off treatment.
+
+## Composite-source Tamil closure
 
 Coverage audit: [`COVERAGE_AUDIT.md`](COVERAGE_AUDIT.md) — **PASS / COMPLETE**.
 
@@ -47,6 +37,41 @@ The 54 physical scans form one exact, non-overlapping partition:
 
 Result: **54/54 physical scans represented; 0 gaps; 0 overlaps; 0 pending composite-source pages**.
 
-No verified literary wording was changed during the closure audit. The source PDF remains external to the repository.
+## English-phase closure
 
-There is no remaining source-sequential archival task for this composite volume. Further work should begin only from an explicit new user direction.
+English closure audit: [`ENGLISH_PHASE_CLOSURE_AUDIT.md`](ENGLISH_PHASE_CLOSURE_AUDIT.md) — **PASS / COMPLETE**.
+
+Independent English translation gates:
+
+- `பரதாயணம்` — **PASS / COMPLETE**;
+- `அனார்கலி` — **PASS / COMPLETE**;
+- `சாக்ரடீஸ்` — **PASS / COMPLETE**;
+- `சேரன் செங்குட்டுவன்` — **PASS / COMPLETE**.
+
+Count: **4 / 4 independent English translations COMPLETE**.
+
+The repository's 2009 *One Act Plays* witness contains exactly `Anarkali`, `Cheran Senguttuvan`, and `Socrates`. It contains no `Bharathayanam`.
+
+Therefore:
+
+- applicable complete 2009 witness plays: **3**;
+- completed applicable post-translation comparisons: **3 / 3**;
+- `பரதாயணம்`: **NOT APPLICABLE**, not pending;
+- pending independent translations: **0**;
+- pending applicable witness comparisons: **0**.
+
+Comparison provenance:
+
+- `அனார்கலி` — 2009 scans **135–140** — comparison **PASS / COMPLETE**;
+- `சேரன் செங்குட்டுவன்` — 2009 scans **141–149** — comparison **PASS / COMPLETE**;
+- `சாக்ரடீஸ்` — 2009 scans **150–160** — comparison **PASS / COMPLETE**.
+
+No verified Tamil or reviewed independent English wording was changed by the English-phase closure audit.
+
+## Closed volume state
+
+**Tamil archival phase: PASS / COMPLETE.**  
+**Independent English phase: PASS / COMPLETE.**  
+**Applicable 2009 secondary-witness comparison phase: PASS / COMPLETE.**
+
+There is no remaining source-sequential or English-sequential task for this four-play composite volume. A new work or revision phase should begin only from explicit user direction. The source PDF remains external to the repository.
