@@ -20,17 +20,21 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 
 `சேரன் செங்குட்டுவன்` Tamil dramatic-source processing is complete for scans **44–53 / printed pp.39–48**: **10/10 pages verified**, all four source-printed scenes assembled from verified page records, and **all page-record ↔ scene fidelity gates PASS**. Final `காட்சி—4.` preserves the unusual source `சேர்!` label and centered `- * -` closing mark.
 
-For the composite `கலைஞரின் நான்மணி மாலை` source, page-level outer/front-matter records are now verified for:
+For the composite `கலைஞரின் நான்மணி மாலை` source:
 
-- scan **1 / illustrated front cover** — `sources/naanmani-malai-tamil/pages/0001.md`;
-- scan **2 / title page** — `sources/naanmani-malai-tamil/pages/0002.md`;
-- scan **3 / copyright-imprint page** — `sources/naanmani-malai-tamil/pages/0003.md`;
-- scan **4 / `என்னுரை`** — `sources/naanmani-malai-tamil/pages/0004.md`;
-- scan **5 / `பதிப்புரை`** — `sources/naanmani-malai-tamil/pages/0005.md`;
-- scan **54 / illustrated back cover** — `sources/naanmani-malai-tamil/pages/0054.md`.
+- scans **1–5** — front matter — page-level verified;
+- scans **6–17** — `பரதாயணம்` — completed;
+- scans **18–26** — `அனார்கலி` — completed;
+- scans **27–43** — `சாக்ரடீஸ்` — completed;
+- scans **44–53** — `சேரன் செங்குட்டுவன்` — completed;
+- scan **54** — illustrated back cover — page-level verified.
 
-Scans 4–5 retain the user-supplied lexical wording, while direct source inspection controls punctuation, spacing, physical lines, dashes/quotation treatment and source marks. Together with completed work coverage for scans **6–53**, all **54/54 physical scans** are now represented in the repository workflow. The source PDF remains external to the repository.
+Composite coverage audit: `sources/naanmani-malai-tamil/COVERAGE_AUDIT.md` — **PASS / COMPLETE**.
+
+Result: **54/54 physical scans represented, with 0 gaps, 0 overlaps and 0 pending composite-source pages**. No verified literary wording was changed during the closure audit. The source PDF remains external to the repository.
+
+Scans 4–5 retain the user-supplied lexical wording, while direct source inspection controls punctuation, spacing, physical lines, dashes/quotation treatment and source marks.
 
 The 2009 published-English witness remains secondary and is not used to reconstruct Tamil.
 
-Next activity: run a **composite-source 54-scan coverage / closure audit** only. Confirm every scan is mapped exactly once and no source page remains pending; do not reopen completed literary text in the same activity.
+There is no remaining source-sequential archival task for `கலைஞரின் நான்மணி மாலை`. Further work should begin only from an explicit new user direction.
