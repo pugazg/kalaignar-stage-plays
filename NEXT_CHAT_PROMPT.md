@@ -18,7 +18,8 @@ Before changing anything, read completely:
 8. `works/manimagudam/SCANS_0041_0065_VERIFICATION.md`;
 9. `works/manimagudam/SCANS_0066_0090_VERIFICATION.md`;
 10. `works/manimagudam/SCANS_0091_0115_VERIFICATION.md`;
-11. `works/manimagudam/pages/0115.md`.
+11. `works/manimagudam/SCANS_0116_0140_VERIFICATION.md`;
+12. `works/manimagudam/pages/0140.md`.
 
 ## Active work — மணிமகுடம்
 
@@ -35,24 +36,24 @@ A conversation preview exposed only the first 150 pages, but raw-PDF inspection 
 ## Completed archival checkpoint
 
 - scans 1–13: **front matter VERIFIED**;
-- scans 14–115: **dramatic body VERIFIED**;
-- overall: **115 / 170 verified**;
-- durable page records: `works/manimagudam/pages/0001.md` through `0115.md`;
-- `காட்சி 1`–`காட்சி 28`: page-level transcription complete;
-- `காட்சி 29`: begins on scan 110, is verified through scan 115, and continues onto scan 116;
-- scans 91–115 fidelity gate: **25 / 25 PASS / COMPLETE**, **0 unresolved readings**.
+- scans 14–140: **dramatic body VERIFIED**;
+- overall: **140 / 170 verified**;
+- durable page records: `works/manimagudam/pages/0001.md` through `0140.md`;
+- `காட்சி 1`–`காட்சி 40`: page-level transcription complete;
+- `காட்சி 41`: begins on scan 141 / printed page 132 and is next;
+- scans 116–140 fidelity gate: **25 / 25 PASS / COMPLETE**, **0 unresolved readings**.
 
-Do not reintroduce superseded batch draft readings without new clear scan evidence. The durable fidelity record is `works/manimagudam/SCANS_0091_0115_VERIFICATION.md`.
+Do not reintroduce superseded batch draft readings without new clear scan evidence. The durable fidelity record is `works/manimagudam/SCANS_0116_0140_VERIFICATION.md`.
 
-Important deliberately retained scan forms include `க்ஷேமலாபத்தில் அக்கரை`, `திராட்டை பழம்`, `தூது விட்டானே`, `கண்ணஜாடை`, and `பிணக் கொலுவைக்`.
+Important deliberately retained scan forms include `பொசுக்கியதாக வேண்டும்!`, `உளவறியப் போயிருக்கிறார்!`, `சாஜூரைத் தவிர`, `அல்லியை அள்ளிப் பருக`, `நாமே அதையெல்லாம்`, `(முணுமுணுத்தபடி)`, `மாதேன்மத்தர்கள்!`, and `கல்நாட்டு`.
 
 ## Exact next activity — 25-page iteration
 
-Process **scans 116–140**, starting with **scan 116 / printed page 107 / `காட்சி 29` continuation**.
+Process **scans 141–165**, starting with **scan 141 / printed page 132 / `காட்சி 41` opening**.
 
 For the complete batch:
 
-- create `works/manimagudam/pages/0116.md` through `0140.md`;
+- create `works/manimagudam/pages/0141.md` through `0165.md`;
 - inspect every controlling scan directly;
 - preserve speaker labels, punctuation, stage directions, old/source forms and physical page boundaries;
 - record printed pagination only when directly visible;

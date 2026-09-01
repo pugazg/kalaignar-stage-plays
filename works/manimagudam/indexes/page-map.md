@@ -121,7 +121,33 @@ Printed pagination is recorded only when directly visible. The raw PDF contains 
 | 113 | 104 | காட்சி 29 | continuation | verified | Final அல்லி utterance breaks after `தந்தம் ஓடாகத்`. |
 | 114 | 105 | காட்சி 29 | continuation | verified | Begins physical continuation `தேய்க்கப்பட்டல்லவா`; scene continues. |
 | 115 | 106 | காட்சி 29 | continuation | verified | Ends `மாநிலத்து மக்கள் அழாமல் இருந்தால், அது ஒன்றே போதும்!`; scene continues onto scan 116. |
-| 116–144 | pending | dramatic body | dialogue / stage directions | not-started | Next requested 25-page iteration begins at scan 116 / printed page 107 / `காட்சி 29` continuation. |
+| 116 | 107 | காட்சி 29 | continuation | verified | Continues `காட்சி 29`; final அல்லி utterance continues onto scan 117. |
+| 117 | 108 | காட்சி 29 / காட்சி 30 | close + opening | verified | Begins by continuing அல்லி from scan 116; scene 29 closes and `காட்சி 30` begins. |
+| 118 | 109 | காட்சி 30 | continuation | verified | Continues `காட்சி 30`. |
+| 119 | 110 | காட்சி 30 | continuation | verified | Continues `காட்சி 30`. |
+| 120 | 111 | காட்சி 30 | continuation | verified | Continues `காட்சி 30`. |
+| 121 | 112 | காட்சி 30 / காட்சி 31 | close + opening | verified | Scene 30 closes; `காட்சி 31` begins. |
+| 122 | 113 | காட்சி 31 / காட்சி 32 | close + opening | verified | Scene 31 closes; `காட்சி 32` begins; final அல்லி utterance continues onto scan 123. |
+| 123 | 114 | காட்சி 32 | continuation | verified | Begins physical continuation of அல்லி from scan 122. |
+| 124 | 115 | காட்சி 32 | continuation | verified | Final புதுமைப்பித்தன் utterance continues onto scan 125. |
+| 125 | 116 | காட்சி 32 | continuation | verified | Begins physical continuation of புதுமைப்பித்தன் from scan 124. |
+| 126 | 117 | காட்சி 32 | continuation | verified | Continues `காட்சி 32`. |
+| 127 | 118 | காட்சி 32 / காட்சி 33 | close + opening | verified | Scene 32 closes; `காட்சி 33` begins; final கலாராணி utterance continues onto scan 128. |
+| 128 | 119 | காட்சி 33 | continuation | verified | Begins physical continuation of கலாராணி from scan 127. |
+| 129 | 120 | காட்சி 33 | continuation | verified | Continues `காட்சி 33`. |
+| 130 | 121 | காட்சி 33 | continuation | verified | Continues `காட்சி 33`; source-supported `உளவறியப் போயிருக்கிறார்!`. |
+| 131 | 122 | காட்சி 33 / காட்சி 34 / காட்சி 35 | multiple transitions | verified | Scene 33 closes; scene 34 begins and closes; scene 35 begins. |
+| 132 | 123 | காட்சி 35 / காட்சி 36 | close + opening | verified | Scene 35 closes; `காட்சி 36` begins; source-supported `பொசுக்கியதாக வேண்டும்!`. |
+| 133 | 124 | காட்சி 36 | continuation | verified | Continues `காட்சி 36`. |
+| 134 | 125 | காட்சி 36 | continuation | verified | Continues `காட்சி 36`; enlarged-source form `சாஜூரைத் தவிர` retained. |
+| 135 | 126 | காட்சி 36 / காட்சி 37 | close + opening | verified | Scene 36 closes; `காட்சி 37` begins. |
+| 136 | 127 | காட்சி 37 / காட்சி 38 / காட்சி 39 | multiple transitions | verified | Scene 37 closes; scene 38 begins and closes; scene 39 begins; `(முணுமுணுத்தபடி)` retained. |
+| 137 | 128 | காட்சி 39 / காட்சி 40 | close + opening | verified | Scene 39 closes; `காட்சி 40` begins; final குருநாதர் utterance continues onto scan 138. |
+| 138 | 129 | காட்சி 40 | continuation | verified | Begins physical continuation of குருநாதர்; source form `மாதேன்மத்தர்கள்!` retained. |
+| 139 | 130 | காட்சி 40 | continuation | verified | Continues `காட்சி 40`. |
+| 140 | 131 | காட்சி 40 | scene close | verified | `காட்சி 40` closes; scan 141 begins `காட்சி 41`. |
+| 141 | 132 | காட்சி 41 | scene opening | not-started | `காட்சி 41` visibly begins; next requested iteration starts here. |
+| 142–144 | pending | காட்சி 41 continuation | dialogue / stage directions | not-started | Detailed transcription pending. |
 | 145 | 136 | காட்சி 42 | scene opening | not-started | `காட்சி 42` visibly begins. |
 | 146–151 | 137–142 visible in intake survey | காட்சி 42 continuation | dialogue / stage directions | not-started | Detailed transcription pending. |
 | 152 | 143 | காட்சி 43 | scene opening | not-started | `காட்சி 43` visibly begins. |
@@ -138,17 +164,17 @@ The conversation preview exposed only scans 1–150, but raw-PDF inspection esta
 ## Current checkpoint
 
 - Front matter scans **1–13: 13 / 13 verified**.
-- Dramatic scans **14–115: 102 / 102 verified**.
-- Overall page-level verification: **115 / 170**.
-- `காட்சி 1` through `காட்சி 28`: page-level source transcription complete.
-- `காட்சி 29`: begins on scan 110, is verified through scan 115, and remains in progress onto scan 116.
-- Durable page records: `../pages/0001.md` through `../pages/0115.md`.
-- Scans 91–115 passed a dedicated enlarged-source fidelity gate with **0 unresolved readings**.
+- Dramatic scans **14–140: 127 / 127 verified**.
+- Overall page-level verification: **140 / 170**.
+- `காட்சி 1` through `காட்சி 40`: page-level source transcription complete.
+- `காட்சி 40`: closes on scan 140; `காட்சி 41` begins on scan 141.
+- Durable page records: `../pages/0001.md` through `../pages/0140.md`.
+- Scans 116–140 passed a dedicated enlarged-source fidelity gate with **0 unresolved readings**.
 
-See `../SCANS_0015_0039_VERIFICATION.md`, `../SCANS_0041_0065_VERIFICATION.md`, `../SCANS_0066_0090_VERIFICATION.md`, and `../SCANS_0091_0115_VERIFICATION.md`.
+See `../SCANS_0015_0039_VERIFICATION.md`, `../SCANS_0041_0065_VERIFICATION.md`, `../SCANS_0066_0090_VERIFICATION.md`, `../SCANS_0091_0115_VERIFICATION.md`, and `../SCANS_0116_0140_VERIFICATION.md`.
 
 ## Exact next activity
 
-Process the next requested 25-page iteration: **scans 116–140**, beginning with **scan 116 / printed page 107 / காட்சி 29 continuation**. Preserve physical continuities, exact source wording, punctuation, speaker labels, stage directions and old/source forms; promote pages to `verified` only after direct reconciliation.
+Process the next requested 25-page iteration: **scans 141–165**, beginning with **scan 141 / printed page 132 / காட்சி 41 opening**. Preserve physical continuities, exact source wording, punctuation, speaker labels, stage directions and old/source forms; promote pages to `verified` only after direct reconciliation.
 
 English translation remains outside the currently authorized phase.

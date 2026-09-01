@@ -9,10 +9,10 @@ Archive slug: `manimagudam`.
 - Source intake / structural survey: **REGISTERED**.
 - Physical PDF pages: **170**.
 - Front matter scans **1–13: 13 / 13 VERIFIED**.
-- Dramatic-body scans **14–115: 102 / 102 VERIFIED**.
-- Overall Tamil page-level archival transcription: **115 / 170 verified**.
-- `காட்சி 1`–`காட்சி 28`: page-level source transcription complete.
-- `காட்சி 29`: **in progress**; begins on scan 110 and is verified through scan 115, continuing on scan 116.
+- Dramatic-body scans **14–140: 127 / 127 VERIFIED**.
+- Overall Tamil page-level archival transcription: **140 / 170 verified**.
+- `காட்சி 1`–`காட்சி 40`: page-level source transcription complete.
+- `காட்சி 41`: **next**; begins on scan 141 / printed page 132.
 - Scene assembly: **not started**.
 - English translation: **not authorized / not started**.
 - Source PDF remains external to the repository.
@@ -48,25 +48,26 @@ The controlling scan does not itself establish the 1962 Madurai statement. Keep 
 
 ## Durable page checkpoint
 
-Verified page records now exist at `pages/0001.md` through `pages/0115.md`.
+Verified page records now exist at `pages/0001.md` through `pages/0140.md`.
 
 Completed fidelity gates:
 
 - `SCANS_0015_0039_VERIFICATION.md` — scans 15–39 **PASS / COMPLETE**;
 - `SCANS_0041_0065_VERIFICATION.md` — scans 41–65 **25 / 25 VERIFIED, 0 unresolved readings**;
 - `SCANS_0066_0090_VERIFICATION.md` — scans 66–90 **25 / 25 VERIFIED, 0 unresolved readings**;
-- `SCANS_0091_0115_VERIFICATION.md` — scans 91–115 **25 / 25 VERIFIED, 0 unresolved readings**.
+- `SCANS_0091_0115_VERIFICATION.md` — scans 91–115 **25 / 25 VERIFIED, 0 unresolved readings**;
+- `SCANS_0116_0140_VERIFICATION.md` — scans 116–140 **25 / 25 VERIFIED, 0 unresolved readings**.
 
-The scans 91–115 gate records enlarged-source readings including `க்ஷேமலாபத்தில் அக்கரை`, `திராட்டை பழம்`, `தூது விட்டானே`, `அழிந்தது மமதையார் தர்பார்!`, `கண்ணஜாடை`, `பிணக் கொலுவைக்`, `புடைசூழ`, and `மாநிலத்து மக்கள் அழாமல் இருந்தால், அது ஒன்றே போதும்!`.
+The scans 116–140 gate records enlarged-source readings including `பொசுக்கியதாக வேண்டும்!`, `உளவறியப் போயிருக்கிறார்!`, `சாஜூரைத் தவிர`, `அல்லியை அள்ளிப் பருக`, `நாமே அதையெல்லாம்`, `(முணுமுணுத்தபடி)`, `மாதேன்மத்தர்கள்!`, and `கல்நாட்டு`.
 
 ## Physical-source boundary
 
 - Scans 1–13: front matter — **VERIFIED**.
-- Scans 14–115: dramatic body — **VERIFIED**.
-- `காட்சி 1`–`காட்சி 28`: page-level complete.
-- `காட்சி 29`: begins on scan 110 and is verified through scan 115.
-- Scan 115: printed page **106**; `காட்சி 29` continues onto scan 116.
-- Scan 116: next unprocessed physical scan / printed page **107** / `காட்சி 29` continuation.
+- Scans 14–140: dramatic body — **VERIFIED**.
+- `காட்சி 1`–`காட்சி 40`: page-level complete.
+- `காட்சி 40`: closes on scan 140.
+- Scan 140: printed page **131**; `காட்சி 40` closes.
+- Scan 141: next unprocessed physical scan / printed page **132** / `காட்சி 41` opening.
 - Scan 169: printed page 160, `காட்சி 47`, `(முடிவுற்றது)`.
 - Scan 170: back-cover publisher catalogue / advertisement.
 
@@ -80,6 +81,6 @@ A conversation-file preview exposed only the first **150** pages, but raw-PDF in
 
 ## Exact next activity
 
-Process the next **25-page iteration: scans 116–140**, beginning at **scan 116 / printed page 107 / காட்சி 29 continuation**. Perform direct page-by-page reconciliation and an enlarged-source fidelity pass before the batch is marked complete.
+Process the next **25-page iteration: scans 141–165**, beginning at **scan 141 / printed page 132 / காட்சி 41 opening**. Perform direct page-by-page reconciliation and an enlarged-source fidelity pass before the batch is marked complete.
 
 Do **not** begin English translation and do not reopen closed `நான்மணி மாலை` work.
