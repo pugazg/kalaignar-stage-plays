@@ -19,8 +19,8 @@ Printed pagination is recorded only when directly visible. The raw PDF contains 
 | 11 | — | front matter | `பதிப்புரை` + edition/imprint | verified | Tamil publisher preface plus full English edition/imprint block; Sixth Edition May 2010; price Rs.40.00. |
 | 12 | — | front matter | `என்னுரை` | verified | First author-preface page fully transcribed; includes `மேரிகாரல்லி`, `“டெம்போரல் பவர்”`, and `மதம் - ஆட்சி பீடம் - பிரச்சார பீடம்`. |
 | 13 | — | front matter | `என்னுரை` close | verified | Preface continuation and close; date `22.7.1986`; `அன்புள்ள / மு.கருணாநிதி`. |
-| 14 | — | காட்சி 1 | dramatic body opening | not-started | `காட்சி 1` begins. No printed page number inferred. |
-| 15–144 | 6 visible at scan 15; others pending | dramatic body | dialogue / stage directions | not-started | Detailed scene boundaries and printed pagination to be mapped only during direct page inspection. |
+| 14 | — | காட்சி 1 | dramatic body opening | verified | First dramatic page archived in `pages/0014.md`. No printed page number visible. Final stage direction physically ends `அந்தப் பக்கம்` and continues on scan 15. |
+| 15–144 | 6 visible at scan 15; others pending | dramatic body | dialogue / stage directions | not-started | Scan 15 is the next page and continues `காட்சி 1`; later scene boundaries and printed pagination will be mapped only during direct inspection. |
 | 145 | 136 | காட்சி 42 | scene opening | not-started | `காட்சி 42` visibly begins. |
 | 146–151 | 137–142 visible in inspected tail sequence | காட்சி 42 continuation | dialogue / stage directions | not-started | Detailed wording remains untranscribed. |
 | 152 | 143 | காட்சி 43 | scene opening | not-started | `காட்சி 43` visibly begins after the preceding scene closes on the same scan. |
@@ -38,14 +38,15 @@ The conversation preview exposed only scans 1–150, but raw-PDF inspection esta
 
 - Source identity / 170-scan physical boundary: registered.
 - Front matter scans **1–13: 13 / 13 verified**.
-- Overall page-level verification: **13 / 170**.
-- Dramatic body: **not started**.
-- No unresolved reading remains in scans 1–13 at this checkpoint.
+- Dramatic body scan **14 / காட்சி 1 opening: verified**.
+- Overall page-level verification: **14 / 170**.
+- `காட்சி 1`: **in progress**; scan 14 ends inside a stage direction at `அந்தப் பக்கம்`.
+- No unresolved reading remains in scans 1–14 at this checkpoint.
 
-Each verified front-matter scan now has an individual archival page record at `../pages/0001.md` through `../pages/0013.md`.
+Verified archival page records now exist at `../pages/0001.md` through `../pages/0014.md`.
 
 ## Exact next activity
 
-Begin the dramatic body at **scan 14 / காட்சி 1**. Process scan 14 directly against the controlling source, create `pages/0014.md`, preserve speaker labels / stage direction / punctuation exactly, and map only the printed pagination actually visible on that scan.
+Process **scan 15 / printed page 6 / காட்சி 1 continuation** directly against the controlling source. Create `pages/0015.md`, begin with the physical continuation `வருகிறான்.`, preserve all speaker labels / stage directions / punctuation exactly, and record the visibly printed page number `6`.
 
 Do not begin English translation; it remains outside the currently authorized phase.
