@@ -14,7 +14,8 @@ Before changing anything, read completely:
 4. `works/manimagudam/README.md`;
 5. `works/manimagudam/metadata/source.md`;
 6. `works/manimagudam/indexes/page-map.md`;
-7. `works/manimagudam/SCANS_0015_0039_VERIFICATION.md`.
+7. `works/manimagudam/SCANS_0015_0039_VERIFICATION.md`;
+8. `works/manimagudam/pages/0040.md`.
 
 ## Active work — மணிமகுடம்
 
@@ -31,25 +32,35 @@ A conversation preview exposed only the first 150 pages, but raw-PDF inspection 
 ## Completed archival checkpoint
 
 - scans 1–13: **front matter VERIFIED**;
-- scans 14–39: **dramatic body VERIFIED**;
-- overall: **39 / 170 verified**;
-- durable page records: `works/manimagudam/pages/0001.md` through `0039.md`;
+- scans 14–40: **dramatic body VERIFIED**;
+- overall: **40 / 170 verified**;
+- durable page records: `works/manimagudam/pages/0001.md` through `0040.md`;
 - `காட்சி 1`–`காட்சி 6`: page-level transcription complete;
-- `காட்சி 7`: begins on scan 39 and continues onto scan 40;
+- `காட்சி 7`: begins on scan 39, is verified through scan 40, and continues onto scan 41;
 - 25-scan batch 15–39 final fidelity pass: **PASS / COMPLETE**.
 
-The batch correction log is `works/manimagudam/SCANS_0015_0039_VERIFICATION.md`. Do not reintroduce superseded draft readings such as `ஏழும் உடலினர்`, `ஏற்றாழ்வு`, `முள்ளை அரும்புகள்`, `குற்றியலும் வறுமைத் தீயை`, `தோகளாய்`, or `நீர்மூல மாக்கப்பட்டு` without new clear source evidence.
+The batch correction log is `works/manimagudam/SCANS_0015_0039_VERIFICATION.md`. Do not reintroduce superseded draft readings without new clear source evidence.
+
+### Scan 40 boundary
+
+Scan 40 is printed page **31** and is verified as `pages/0040.md`.
+
+- scan 39 ends அல்லி's utterance `...தவிக்கப் போகும்`;
+- scan 40 begins the continuation `தாங்கொணாத வேதனைக்காட்சிகளைத் தான் நாம் காண வேண்டும்.`;
+- the page then contains பொன்னழகன் / புதுமைப்பித்தன் dialogue;
+- source forms `இதோபதேசம்`, `நாகரீகத்தைப்`, and `அப்போது தான்` are preserved;
+- scan 40 ends with புதுமைப்பித்தன்'s speaker turn; scan 41 continues that same turn without repeating the speaker label.
 
 ## Exact next activity
 
-Process **scan 40 / காட்சி 7 continuation**:
+Process **scan 41 / printed page 32 / காட்சி 7 continuation**:
 
-- create `works/manimagudam/pages/0040.md`;
+- create `works/manimagudam/pages/0041.md`;
 - inspect the controlling scan directly;
-- preserve the physical continuation from scan 39;
+- preserve the physical continuation of புதுமைப்பித்தன்'s scan-40 speaker turn;
 - transcribe the complete scan exactly as printed;
 - preserve speaker labels, punctuation, stage directions, old/source forms and physical page boundary;
-- record printed pagination only if directly visible;
+- record printed page `32` because it is directly visible;
 - use `verified` only after complete visual reconciliation;
 - update `works/manimagudam/indexes/page-map.md`, work README, `HANDOVER.md`, and this prompt at the checkpoint.
 
