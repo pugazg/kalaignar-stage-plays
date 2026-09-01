@@ -96,8 +96,32 @@ Printed pagination is recorded only when directly visible. The raw PDF contains 
 | 88 | 79 | காட்சி 21 | continuation | verified | Continues `காட்சி 21`. |
 | 89 | 80 | காட்சி 21 | continuation | verified | Continues `காட்சி 21`. |
 | 90 | 81 | காட்சி 21 | continuation | verified | Continues `காட்சி 21`; the final stage direction is physically incomplete and continues onto scan 91. |
-
-| 91–144 | pending | dramatic body | dialogue / stage directions | not-started | Next requested 25-page iteration begins at scan 91 / printed page 82 / `காட்சி 21` continuation. |
+| 91 | 82 | காட்சி 21 | continuation | verified | Completes scan-90 stage direction; `காட்சி 21` continues. |
+| 92 | 83 | காட்சி 21 | continuation | verified | `காட்சி 21` continues. |
+| 93 | 84 | காட்சி 21 | continuation | verified | `காட்சி 21` continues. |
+| 94 | 85 | காட்சி 21 / காட்சி 22 | close + opening | verified | `காட்சி 21` closes; `காட்சி 22` begins on same scan. |
+| 95 | 86 | காட்சி 22 / காட்சி - 23 | close + opening | verified | Scene 22 closes; printed heading `காட்சி - 23`; source-supported `குள்ளநரிக் கூட்டத்தார்`. |
+| 96 | 87 | காட்சி - 23 | continuation | verified | Scene 23 continues; source label `அரசர்:` retained. |
+| 97 | 88 | காட்சி - 23 | continuation | verified | Final அரசன் utterance continues onto scan 98. |
+| 98 | 89 | காட்சி - 23 | continuation | verified | Begins physical continuation without repeated speaker label. |
+| 99 | 90 | காட்சி - 23 | scene close | verified | Scene 23 closes; source-supported `இந்நிலையில்` retained. |
+| 100 | 91 | காட்சி 24 | scene opening | verified | `காட்சி 24` begins. |
+| 101 | 92 | காட்சி 24 / காட்சி 25 | close + opening | verified | Scene 24 closes; scene 25 begins; enlarged reading `க்ஷேமலாபத்தில் அக்கரை`. |
+| 102 | 93 | காட்சி 25 | continuation | verified | Source's duplicated `குரு:` speaker label is preserved. |
+| 103 | 94 | காட்சி 25 | continuation | verified | Final குரு utterance continues onto scan 104. |
+| 104 | 95 | காட்சி 25 / காட்சி 26 | close + opening | verified | Scene 25 closes; `காட்சி 26` begins. |
+| 105 | 96 | காட்சி 26 | continuation | verified | Source form `திராட்டை பழம்`; final utterance continues onto scan 106. |
+| 106 | 97 | காட்சி 26 | continuation | verified | Source-supported `தூது விட்டானே`; utterance continues onto scan 107. |
+| 107 | 98 | காட்சி 26 | continuation | verified | Damaged-but-readable source wording retained; `குப்பை மேட்டிலும் ... கோபுரத்திலுந்தான்`. |
+| 108 | 99 | காட்சி 26 / காட்சி 27 / காட்சி 28 | multiple transitions | verified | Scene 26 closes; scene 27 begins and closes; scene 28 begins; `கண்ணஜாடை` retained. |
+| 109 | 100 | காட்சி 28 | continuation | verified | Completes scan-108 stage direction; source-supported `பிணக் கொலுவைக்`. |
+| 110 | 101 | காட்சி 28 / காட்சி 29 | close + opening | verified | Scene 28 closes; scene 29 begins; `புடைசூழ`, `அவளது தோளிலே பலத்த காயம்`. |
+| 111 | 102 | காட்சி 29 | continuation | verified | Source phrase `அவன் கோட்டை கொத்தளங்களை அல்ல`; internal monologue continues. |
+| 112 | 103 | காட்சி 29 | continuation | verified | Source form `கண்ணேஅல்லி.`; final stage direction continues onto scan 113. |
+| 113 | 104 | காட்சி 29 | continuation | verified | Final அல்லி utterance breaks after `தந்தம் ஓடாகத்`. |
+| 114 | 105 | காட்சி 29 | continuation | verified | Begins physical continuation `தேய்க்கப்பட்டல்லவா`; scene continues. |
+| 115 | 106 | காட்சி 29 | continuation | verified | Ends `மாநிலத்து மக்கள் அழாமல் இருந்தால், அது ஒன்றே போதும்!`; scene continues onto scan 116. |
+| 116–144 | pending | dramatic body | dialogue / stage directions | not-started | Next requested 25-page iteration begins at scan 116 / printed page 107 / `காட்சி 29` continuation. |
 | 145 | 136 | காட்சி 42 | scene opening | not-started | `காட்சி 42` visibly begins. |
 | 146–151 | 137–142 visible in intake survey | காட்சி 42 continuation | dialogue / stage directions | not-started | Detailed transcription pending. |
 | 152 | 143 | காட்சி 43 | scene opening | not-started | `காட்சி 43` visibly begins. |
@@ -114,17 +138,17 @@ The conversation preview exposed only scans 1–150, but raw-PDF inspection esta
 ## Current checkpoint
 
 - Front matter scans **1–13: 13 / 13 verified**.
-- Dramatic scans **14–90: 77 / 77 verified**.
-- Overall page-level verification: **90 / 170**.
-- `காட்சி 1` through `காட்சி 20`: page-level source transcription complete.
-- `காட்சி 21`: begins on scan 85, is verified through scan 90, and remains in progress onto scan 91.
-- Durable page records: `../pages/0001.md` through `../pages/0090.md`.
-- Scans 66–90 passed a dedicated enlarged-source fidelity gate with **0 unresolved readings**.
+- Dramatic scans **14–115: 102 / 102 verified**.
+- Overall page-level verification: **115 / 170**.
+- `காட்சி 1` through `காட்சி 28`: page-level source transcription complete.
+- `காட்சி 29`: begins on scan 110, is verified through scan 115, and remains in progress onto scan 116.
+- Durable page records: `../pages/0001.md` through `../pages/0115.md`.
+- Scans 91–115 passed a dedicated enlarged-source fidelity gate with **0 unresolved readings**.
 
-See `../SCANS_0015_0039_VERIFICATION.md`, `../SCANS_0041_0065_VERIFICATION.md`, and `../SCANS_0066_0090_VERIFICATION.md`.
+See `../SCANS_0015_0039_VERIFICATION.md`, `../SCANS_0041_0065_VERIFICATION.md`, `../SCANS_0066_0090_VERIFICATION.md`, and `../SCANS_0091_0115_VERIFICATION.md`.
 
 ## Exact next activity
 
-Process the next requested 25-page iteration: **scans 91–115**, beginning with **scan 91 / printed page 82 / காட்சி 21 continuation**. Preserve physical continuities, exact source wording, punctuation, speaker labels, stage directions and old/source forms; promote pages to `verified` only after direct reconciliation.
+Process the next requested 25-page iteration: **scans 116–140**, beginning with **scan 116 / printed page 107 / காட்சி 29 continuation**. Preserve physical continuities, exact source wording, punctuation, speaker labels, stage directions and old/source forms; promote pages to `verified` only after direct reconciliation.
 
 English translation remains outside the currently authorized phase.

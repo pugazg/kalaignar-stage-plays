@@ -24,11 +24,11 @@ Durable source identity:
 ### Current durable checkpoint
 
 - scans **1–13** front matter: **13 / 13 VERIFIED**;
-- scans **14–90** dramatic body: **77 / 77 VERIFIED**;
-- overall page-level status: **90 / 170 verified**;
-- durable page records: `works/manimagudam/pages/0001.md` through `0090.md`;
-- `காட்சி 1`–`காட்சி 20`: page-level transcription complete;
-- `காட்சி 21`: begins on scan 85, is verified through scan 90, and remains in progress onto scan 91;
+- scans **14–115** dramatic body: **102 / 102 VERIFIED**;
+- overall page-level status: **115 / 170 verified**;
+- durable page records: `works/manimagudam/pages/0001.md` through `0115.md`;
+- `காட்சி 1`–`காட்சி 28`: page-level transcription complete;
+- `காட்சி 29`: begins on scan 110, is verified through scan 115, and remains in progress onto scan 116;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
@@ -36,28 +36,34 @@ Completed fidelity records:
 
 - `works/manimagudam/SCANS_0015_0039_VERIFICATION.md` — PASS / COMPLETE;
 - `works/manimagudam/SCANS_0041_0065_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved readings**;
-- `works/manimagudam/SCANS_0066_0090_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved readings**.
+- `works/manimagudam/SCANS_0066_0090_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved readings**;
+- `works/manimagudam/SCANS_0091_0115_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved readings**.
 
-The scans 66–90 gate records scan-supported corrections including `பொன்மலர்`, `நாங்க படிக்கணும்.`, `கோரதாண்டவம்`, `என்றைக்கு`, `அந்த லட்சணங்கள் அத்தனையும்`, `பின்னடைந்து போனவரின்`, `அரச பதவியைத் துறந்து விட்டார்!`, and `அது பெரிய ஆபத்து அமைச்சரே!`. Unusual printed forms `அந்த மலரை மட்டும் பறிப்பாளேன்?` and `இதுபோன்ற தேய்ந்து போனதுகள்` were inspected and intentionally retained.
+The scans 91–115 gate preserves enlarged-source readings including `குள்ளநரிக் கூட்டத்தார்`, `இந்நிலையில்`, `க்ஷேமலாபத்தில் அக்கரை`, `திராட்டை பழம்`, `தூது விட்டானே`, `அழிந்தது மமதையார் தர்பார்!`, `கண்ணஜாடை`, `பிணக் கொலுவைக்`, `புடைசூழ`, and `மாநிலத்து மக்கள் அழாமல் இருந்தால், அது ஒன்றே போதும்!`.
 
-### Scene checkpoint through scan 90
+### Scene checkpoint through scan 115
 
-- `காட்சி 14`: closes scan 68.
-- `காட்சி 15`: scan 68–70.
-- `காட்சி 16`: scan 70–74.
-- `காட்சி 17`: scan 74–75.
-- `காட்சி 18`: scan 76–80.
-- `காட்சி 19`: scan 80–81.
-- `காட்சி 20`: scan 81–85.
-- `காட்சி 21`: begins scan 85; verified through scan 90; continues scan 91.
+- `காட்சி 21`: closes scan 94.
+- `காட்சி 22`: scan 94–95.
+- `காட்சி - 23`: scan 95–99.
+- `காட்சி 24`: scan 100–101.
+- `காட்சி 25`: scan 101–104.
+- `காட்சி 26`: scan 104–108.
+- `காட்சி 27`: complete on scan 108.
+- `காட்சி 28`: scan 108–110.
+- `காட்சி 29`: begins scan 110; verified through scan 115; continues scan 116.
 
 Important physical continuities in the completed batch:
 
-- scan 73→74 continues புதுமைப்பித்தன் across the physical break;
-- scan 74→75 continues the newspaper quotation;
-- scan 80→81 continues the minister without a repeated speaker label;
-- scan 85→86 continues குணசீலர் after `எதுவுமே` without a repeated label;
-- scan 90→91 carries an incomplete stage direction into the next physical scan.
+- scan 90→91 completes the prior incomplete stage direction;
+- scan 97→98 continues அரசன் without a repeated label;
+- scan 103→104 continues குரு;
+- scan 105→106 and 106→107 continue அரசன்;
+- scan 108→109 continues the `காட்சி 28` opening stage direction;
+- scan 111→112 continues அரசன்'s internal monologue;
+- scan 112→113 continues the stage direction;
+- scan 113→114 continues அல்லி after `தந்தம் ஓடாகத்`;
+- scan 115→116 continues `காட்சி 29`.
 
 ### Source-boundary safeguard
 
@@ -74,15 +80,15 @@ Do not silently merge these into one reconstructed history. The 1962 statement r
 
 ### Exact next activity
 
-Process the next user-requested **25-page iteration: scans 91–115**.
+Process the next user-requested **25-page iteration: scans 116–140**.
 
-Start at **scan 91 / printed page 82 / `காட்சி 21` continuation** and continue sequentially through scan 115. For every page:
+Start at **scan 116 / printed page 107 / `காட்சி 29` continuation** and continue sequentially through scan 140. For every page:
 
 1. inspect the controlling scan directly;
 2. preserve speaker labels, punctuation, stage directions, source/old forms and physical page boundaries;
 3. record printed pagination only when directly visible;
 4. use enlarged-source adjudication for difficult readings;
-5. create durable `pages/0091.md` through `pages/0115.md` records;
+5. create durable `pages/0116.md` through `pages/0140.md` records;
 6. create a batch fidelity/verification record and update page map / checkpoint docs only after the 25-page gate passes.
 
 Do not begin English translation unless explicitly authorized.
