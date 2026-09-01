@@ -13,83 +13,82 @@ Controlling composite Tamil source: `TVA_BOK_0065576_நான்மணி_ம�
 ## Locked Tamil archival state
 
 - `பரதாயணம்`: Tamil archive/assembly PASS.
-- `அனார்கலி`: **9/9 Tamil pages verified; 4/4 scenes assembled; page-record ↔ scene fidelity PASS**.
+- `அனார்கலி`: **9/9 Tamil pages verified; 4/4 scenes assembled; fidelity PASS**.
 - `சாக்ரடீஸ்`: **17/17 pages verified; 5/5 scenes assembled; all fidelity gates PASS**.
 - `சேரன் செங்குட்டுவன்`: **10/10 Tamil pages verified; 4/4 scenes assembled; all fidelity gates PASS**.
 - Silappathikaram completed state remains locked and unchanged.
 
 Composite-source coverage audit: `sources/naanmani-malai-tamil/COVERAGE_AUDIT.md` — **PASS / COMPLETE**.
 
-The exact scan partition remains **1–5 / 6–17 / 18–26 / 27–43 / 44–53 / 54 = 54 scans**, with **0 gaps, 0 overlaps and 0 pending composite-source pages**.
+Physical scan partition remains **1–5 / 6–17 / 18–26 / 27–43 / 44–53 / 54 = 54**, with **0 gaps, 0 overlaps and 0 pending composite-source pages**.
 
 ## English translation state — நான்மணி மாலை plays
 
 Independent English translation is now **4/4 COMPLETE**:
 
-- `பரதாயணம்`: independent English translation **PASS / COMPLETE**.
+- `பரதாயணம்`: independent English **PASS / COMPLETE**.
 - `அனார்கலி`: independent English **4/4 COMPLETE; translation review PASS; 2009 secondary-witness comparison PASS / COMPLETE**.
 - `சாக்ரடீஸ்`: independent English **introductory note + 5/5 COMPLETE; translation review PASS; 2009 secondary-witness comparison PASS / COMPLETE**.
-- `சேரன் செங்குட்டுவன்`: independent English **4/4 COMPLETE; translation review PASS**.
+- `சேரன் செங்குட்டுவன்`: independent English **4/4 COMPLETE; translation review PASS; 2009 secondary-witness comparison PASS / COMPLETE**.
 
-## Cheran independent English — durable checkpoint
+## Cheran English — durable closed checkpoint
 
-Work: `works/cheran-senguttuvan/`.
+Independent files:
 
-Tamil authority:
-
-- Scene 1 — scans **44–45** / pp.39–40 — `scenes/01.md` — fidelity PASS;
-- Scene 2 — scans **46–49** / pp.41–44 — `scenes/02.md` — fidelity PASS;
-- Scene 3 — scans **50–51** / pp.45–46 — `scenes/03.md` — fidelity PASS;
-- Scene 4 — scans **52–53** / pp.47–48 — `scenes/04.md` — fidelity PASS.
-
-Independent English files:
-
-- `works/cheran-senguttuvan/translations/en/01.md` — Scene 1 — translation-reviewed;
-- `works/cheran-senguttuvan/translations/en/02.md` — Scene 2 — translation-reviewed;
-- `works/cheran-senguttuvan/translations/en/03.md` — Scene 3 — translation-reviewed;
-- `works/cheran-senguttuvan/translations/en/04.md` — Scene 4 — translation-reviewed;
+- `works/cheran-senguttuvan/translations/en/01.md`–`04.md` — translation-reviewed;
 - `works/cheran-senguttuvan/translations/en/TRANSLATION_REVIEW.md` — **PASS**;
 - `works/cheran-senguttuvan/translations/en/README.md` — authority/status record.
 
-Translation authority was the verified Tamil scene assemblies only, with verified Tamil page/assembly records used for source-sensitive checks. The complete 2009 published-English `Cheran Senguttuvan` witness was **not consulted for wording** during independent drafting or Tamil→English review.
+Post-translation witness comparison:
 
-Protected Cheran translation controls include:
+- `works/cheran-senguttuvan/translations/en/SECONDARY_WITNESS_COMPARISON.md` — **PASS / COMPLETE**;
+- secondary witness: M. D. Jayabalan 2009 published English, provenance `sources/one-act-plays-2009/pages/0141.md`–`0149.md`;
+- witness opened only after the independent translation was locked;
+- verified Tamil changed by comparison: **0**;
+- independent English changed by comparison: **0**;
+- automatic published-witness wording imported: **0**.
 
-- Scene 1 pre-scene voice-over retained; `விஜ.` / `விஜ:` remain distinct; `புலி—வில்—கயல்` → `tiger—bow—fish`;
-- Scene 2 `சேரன்:` / `சேர:` and `புலவர்:` / `புல:` remain distinct; the long embedded recitation remains present; uncertain poetic forms `கட்டாணி முத்தாள்`, `ஆரணங்கு`, and `பனவெல்ல` are represented conservatively rather than silently normalized;
-- Scene 3 `மண்டூக மன்னர்கள்` → `frog-kings`; Tamil identity / self-respect / northern-challenge rhetoric remains explicit; source-spaced `வேட்ட மங்கலம்` remains two words; final `*` retained;
-- Scene 4 `குயிலாலுவம்` → conservative `Kuyilaluvam`; exact label/punctuation variants `சேர்:`, `சேர்;`, `சேர்!`, `வில்லவன்:`, `வில்:`, `வில்!`, `கன:` are preserved as distinct English labels; `நாழிகை` remains `nazhigai`; final `- * -` retained exactly.
+Important Cheran comparison findings to preserve:
 
-Independent-English result for `சேரன் செங்குட்டுவன்`:
+- Scene 1 `பாரதந்தான்` → published `another Mahabharatham`, `மண்` → published `sand`, and source label distinctions normalized;
+- Scene 2 `சாதல் கதையொன்று` → published `love story`;
+- Scene 2 `வேழப்படை முறிபட்டது` → published `Foes with Tiger flags defeated`;
+- source-sensitive poetic forms such as `கட்டாணி முத்தாள்`, `ஆரணங்கு`, `பனவெல்ல` are confidently normalized/interpreted in the published witness;
+- Scene 3 `வாளேந்தி` → published `holding lances`;
+- Scene 3 Sattanar / Athani-hall line is materially rewritten;
+- Scene 3 `இமயத்தை முட்டுங்கள்!` → published `Invade the Himalayas!`;
+- Scene 4 exact source label variants are normalized to ordinary names;
+- Scene 4 `பதினெட்டே நாழிகை` → published `eighteen 'nali' [1 nali equals 24 minutes]`;
+- Scene 4 final `இப்போது தூக்கு கல்!` gains published `on your heads`;
+- source closing `*` / `- * -` marks are omitted in the published-witness transcription.
 
-- 4/4 scene coverage: **PASS**;
-- pre-scene voice-over coverage: **PASS**;
-- embedded verse / historical-political rhetoric: **PASS**;
-- speaker-label distinction protection: **PASS**;
-- source-anomaly handling: **PASS**;
-- unresolved translation blocks: **0**;
-- published-English contamination: **0**.
+These are evidence only and do not authorize revision.
 
 ## Prior closed English-comparison checkpoints
 
-`அனார்கலி` and `சாக்ரடீஸ்` have completed post-translation 2009 witness comparisons. Those comparison files are separate evidence layers and did not rewrite verified Tamil or independent English.
+- `அனார்கலி` — independent English + 2009 witness comparison **PASS / COMPLETE**.
+- `சாக்ரடீஸ்` — independent English + 2009 witness comparison **PASS / COMPLETE**.
+- `சேரன் செங்குட்டுவன்` — independent English + 2009 witness comparison **PASS / COMPLETE**.
 
-For Socrates, preserve the documented major witness divergences including intro `பல தகுதிகளுக்கும்` → published `certain misdeeds`, `அறிவுலக ஜோதியாக` → published `an intellectual who enjoyed his life`, normalized protected forms, a published `281...221` variant, conversion of `நாழிகை` into minutes, and final `அங்கிளிப்பியசு` / `கோழிக் குஞ்சு` → `Asclepius / cock`.
+`பரதாயணம்` independent English is **PASS / COMPLETE**. Its applicability to the 2009 witness collection must be resolved from the repository during the volume-level closure audit rather than assumed.
 
 ## Exact next activity
 
-Run a **post-translation secondary-witness comparison for `சேரன் செங்குட்டுவன்` only**.
+Run a **`நான்மணி மாலை` English-phase closure audit only**.
 
 Requirements:
 
 1. fetch live `main` first;
-2. read `STAGE_PLAY_PROCESSING_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, root `README.md`, `works/cheran-senguttuvan/README.md`, all four verified Tamil scene assemblies, all four independent English files, `translations/en/README.md`, `translations/en/TRANSLATION_REVIEW.md`, and relevant scene/page fidelity reviews for source-sensitive forms;
-3. confirm the independent translation checkpoint before opening the complete 2009 published-English `Cheran Senguttuvan` witness;
-4. compare pre-scene framing, four-scene coverage/order, speaker turns and label normalization, stage directions, embedded poem/verse coverage, Tamil historical/political vocabulary, Chera/Chola/Pandya framing, northern challenge, honour/self-respect rhetoric, tiger/bow/fish emblems, source-sensitive poetic forms, scene-3 mobilization speech, Scene-4 label variants, `நாழிகை`, Kanaka-Vijaya humiliation, Kannagi-stone ending and closing marks;
-5. create `works/cheran-senguttuvan/translations/en/SECONDARY_WITNESS_COMPARISON.md` according to existing repository convention;
-6. do **not** automatically rewrite the verified Tamil or independent English merely because the published witness differs;
-7. useful published alternatives remain comparison evidence only unless the user separately authorizes revision;
-8. do **not** begin another work in the same activity.
+2. read `STAGE_PLAY_PROCESSING_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, root `README.md`, `sources/naanmani-malai-tamil/COVERAGE_AUDIT.md`, and the English authority/status + review files for all four plays;
+3. verify independently from repository state that all four independent English translation gates are complete;
+4. inspect `sources/one-act-plays-2009/` to establish exactly which `நான்மணி மாலை` plays have an applicable complete 2009 published-English witness; do not assume `பரதாயணம்` applicability from memory;
+5. verify every applicable post-translation comparison gate is complete and linked to its provenance range;
+6. create a durable volume-level English closure record, preferably `sources/naanmani-malai-tamil/ENGLISH_PHASE_CLOSURE_AUDIT.md`, if no existing convention supersedes it;
+7. record counts as **independent translations complete / total plays** and **secondary-witness comparisons complete / applicable witness plays**, keeping `not applicable` distinct from `pending`;
+8. do not reopen or revise verified Tamil, reviewed independent English, or completed comparison files merely to harmonize wording;
+9. do not begin a new work or new translation phase in the same activity.
+
+Expected closure question to answer from live repository evidence: whether the four-play volume can be marked **English phase PASS / COMPLETE**, with any 2009-witness non-applicability explicitly documented.
 
 ## Permanent safeguards
 
