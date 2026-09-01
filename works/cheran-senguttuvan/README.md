@@ -13,6 +13,7 @@ Work-level archival entry for Kalaignar's one-act play **`சேரன் செ
 - all four scene page-record ↔ assembly fidelity gates: **PASS**;
 - independent English scenes: **4/4 COMPLETE**;
 - Tamil→English translation review: **PASS**;
+- 2009 secondary-witness comparison: **PASS / COMPLETE**;
 - unresolved English translation blocks: **0**.
 
 Scene map:
@@ -30,7 +31,9 @@ The Tamil scan is controlling for canonical Tamil archival work. The user-suppli
 
 The independent English translation derives only from the verified Tamil scene assemblies and, where necessary, verified Tamil page/assembly controls.
 
-The complete 2009 published-English `Cheran Senguttuvan` witness remains **secondary only**. Its wording was **not consulted or used** during independent English drafting or Tamil→English review.
+The complete 2009 published-English `Cheran Senguttuvan` witness is **secondary only**. It was not consulted during independent English drafting or Tamil→English review; it was opened afterward only for the separate comparison at [`translations/en/SECONDARY_WITNESS_COMPARISON.md`](translations/en/SECONDARY_WITNESS_COMPARISON.md).
+
+No verified Tamil or independent English wording was changed by that comparison.
 
 ## Independent English translation
 
@@ -43,6 +46,7 @@ Files:
 - [`translations/en/03.md`](translations/en/03.md) — Scene 3;
 - [`translations/en/04.md`](translations/en/04.md) — Scene 4;
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) — **PASS**;
+- [`translations/en/SECONDARY_WITNESS_COMPARISON.md`](translations/en/SECONDARY_WITNESS_COMPARISON.md) — **PASS / COMPLETE**;
 - [`translations/en/README.md`](translations/en/README.md) — translation authority/status record.
 
 Protected translation controls include:
@@ -52,12 +56,31 @@ Protected translation controls include:
 - Scene 3 `மண்டூக மன்னர்கள்` → `frog-kings`, Tamil self-respect rhetoric, source-spaced `வேட்ட மங்கலம்`, and final `*`;
 - Scene 4 source `காட்சி—4.` / `குயிலாலுவம்`, exact label variants `சேர்:`, `சேர்;`, `சேர்!`, `வில்லவன்:`, `வில்:`, `வில்!`, `கன:`, unconverted `நாழிகை`, source long dashes, and final `- * -`.
 
+## 2009 witness comparison
+
+Witness extent:
+
+- `sources/one-act-plays-2009/pages/0141.md`–`0149.md`;
+- pre-play framing + complete Scenes 1–4.
+
+The comparison confirms complete structural coverage but records a freer published style, including:
+
+- Scene 1 modernization/interpretation such as `பாரதந்தான்` → `another Mahabharatham`, `மண்` → `sand`, and normalized speaker labels;
+- Scene 2 material divergences including `சாதல் கதையொன்று` → `love story` and `வேழப்படை` → `Tiger flags`, plus normalization of source-sensitive poetic forms;
+- Scene 3 `வாளேந்தி` → `holding lances`, a rewritten Sattanar/Athani-hall phrase, and `இமயத்தை முட்டுங்கள்!` → `Invade the Himalayas!`;
+- Scene 4 normalization of all speaker labels, `நாழிகை` → `nali` with a 24-minute gloss, and the added `on your heads` in the final stone command;
+- omission of source closing `*` / `- * -` marks in the published-witness transcription.
+
+These remain secondary-witness differences, not corrections.
+
 ## Completion state
 
 **Tamil archival gate: PASS / COMPLETE — 10/10 pages, 4/4 scenes, all fidelity gates PASS.**
 
 **Independent English translation gate: PASS / COMPLETE — 4/4 scenes, translation review PASS, 0 unresolved translation blocks, 0 published-witness contamination.**
 
+**2009 secondary-witness comparison gate: PASS / COMPLETE — verified Tamil changed: 0; independent English changed: 0.**
+
 ## Next activity
 
-Run a **post-translation secondary-witness comparison** between the completed independent English translation and the complete 2009 published-English `Cheran Senguttuvan` witness. Keep that comparison separate: record agreements, omissions, additions, normalization and interpretive differences without automatically changing either the verified Tamil archive or the independent English translation.
+Run a **`நான்மணி மாலை` English-phase closure audit only**. Confirm the four independent-English completion gates and the applicable 2009-witness comparison status across the volume, without reopening verified Tamil or already-reviewed English wording.
