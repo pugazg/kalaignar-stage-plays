@@ -10,20 +10,19 @@ Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
 ## Active work — மணிமகுடம்
 
-The user has explicitly authorized `மணிமகுடம்` as the next work.
+The user has explicitly authorized `மணிமகுடம்` as the active work.
 
 Controlling source:
 
 `TVA_BOK_0064143_மணி_மகுடம்.pdf`
 
-Durable source intake:
+Durable source identity:
 
 - source SHA-256: `a629509c3404fcc5c2844f5b693e72a41aca03ad2e2494588807af4ff8f16f3b`;
 - file size: **187,091,728 bytes**;
 - physical PDF pages: **170**;
 - user catalog metadata: title `மணிமகுடம்`, author `கலைஞர் மு. கருணாநிதி`, publisher `பாரதி பதிப்பகம்`, sixth edition 2010;
 - scan 11 independently supports **Sixth Edition: May 2010** and **Rs. 40.00**;
-- scans 12–13: author preface `என்னுரை`, dated **22.7.1986**;
 - scan 14: **காட்சி 1** begins;
 - scan 145: **காட்சி 42** begins;
 - scan 152: **காட்சி 43** begins;
@@ -31,11 +30,26 @@ Durable source intake:
 - scan 169: printed page **160**, **காட்சி 47**, closure **`(முடிவுற்றது)`**;
 - scan 170: back-cover publisher catalogue / advertisement.
 
-Work files created:
+### Completed front-matter checkpoint
 
-- `works/manimagudam/README.md`;
-- `works/manimagudam/metadata/source.md`;
-- `works/manimagudam/indexes/page-map.md`.
+Scans **1–13 are now 13 / 13 VERIFIED** and have individual archival page records:
+
+- `works/manimagudam/pages/0001.md` through `0013.md`.
+
+Coverage of this batch:
+
+- scan 1 colour cover;
+- scans 2–3 captioned photographs / portrait;
+- scans 4–5 குறிஞ்சி சுப்பிரமணியன் introductory-publisher note;
+- scans 6–8 rotated captioned photographs, inspected after non-destructive rotation;
+- scan 9 uncaptained portrait composite;
+- scan 10 title/publisher page;
+- scan 11 `பதிப்புரை` plus complete edition/imprint block;
+- scans 12–13 author `என்னுரை`, ending `22.7.1986 / அன்புள்ள / மு.கருணாநிதி`.
+
+Current page-level status: **13 / 170 verified**.
+
+No unresolved reading remains in scans 1–13 at this checkpoint. Scene assembly has not started. English translation remains **not authorized / not started**.
 
 ### Source-boundary safeguard
 
@@ -43,32 +57,23 @@ The conversation file-preview layer exposed only the first **150** pages. Raw-PD
 
 ### Performance-history provenance safeguard
 
-The user-supplied catalog description states a **1962 Madurai DMK conference** performance. The currently inspected controlling scan instead/differently establishes additional performance evidence:
+The user-supplied catalog description states a **1962 Madurai DMK conference** performance. The controlling scan supplies different/additional performance evidence:
 
 - scan 4: **May 1956**, DMK second state conference, Tiruchirappalli, staging by the **S. S. Rajendran** troupe;
 - scan 5: **September 1963** staging associated with the Murasoli drama troupe under **Anna's leadership**.
 
 The inspected scan does not itself verify the 1962 Madurai statement. Keep that statement in the user-supplied catalog layer pending a separate source; do not silently erase it or promote it to source-derived metadata.
 
-### Current `மணிமகுடம்` checkpoint
-
-- source intake / physical survey: **REGISTERED**;
-- page-level Tamil transcription: **0 / 170 verified**;
-- scene assembly: **not started**;
-- English translation: **not authorized / not started**.
-
 ### Exact next activity
 
-Process **scans 1–13** page by page from the controlling scan:
+Begin **scan 14 / காட்சி 1** only.
 
-1. create archival page records;
-2. transcribe exact printed text/captions where applicable;
-3. describe photographs without treating image content as literary text;
-4. preserve dates, punctuation and visible source wording;
-5. distinguish later/copy-specific marks from publication text;
-6. update `works/manimagudam/indexes/page-map.md` with individual statuses.
-
-After scans 1–13 are complete, begin **scan 14 / காட்சி 1**.
+1. inspect the controlling scan directly;
+2. create `works/manimagudam/pages/0014.md`;
+3. transcribe the complete scene-opening text exactly as printed;
+4. preserve speaker labels, punctuation, stage directions and source forms;
+5. record printed pagination only if directly visible;
+6. update `works/manimagudam/indexes/page-map.md` and checkpoint documents after the scan is reconciled.
 
 Do not begin English translation unless the user explicitly authorizes a later translation phase.
 
