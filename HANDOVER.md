@@ -23,33 +23,31 @@ Completed Cheran Scene-4 locked controls include source `காட்சி—4.
 ## Composite source — கலைஞரின் நான்மணி மாலை
 
 - total scans: **54**;
-- scan **1 / illustrated front cover** — **verified** at `sources/naanmani-malai-tamil/pages/0001.md`;
-- scan **2 / title page** — **verified** at `sources/naanmani-malai-tamil/pages/0002.md`;
-- scan **3 / copyright-imprint page** — **verified** at `sources/naanmani-malai-tamil/pages/0003.md`;
-- scan **4 / `என்னுரை`** — **verified** at `sources/naanmani-malai-tamil/pages/0004.md`;
-- scan **5 / `பதிப்புரை`** — **verified** at `sources/naanmani-malai-tamil/pages/0005.md`;
-- scans **6–53** contain the four dramatic works at their durable completed checkpoints;
-- scan **54 / illustrated back cover** — **verified** at `sources/naanmani-malai-tamil/pages/0054.md`;
-- all **54/54 physical scans** are now represented in the repository workflow;
+- scans **1–5** — composite front matter — verified;
+- scans **6–17** — `பரதாயணம்` — completed Tamil page/assembly fidelity;
+- scans **18–26** — `அனார்கலி` — 9/9 verified, 4/4 scenes, fidelity PASS;
+- scans **27–43** — `சாக்ரடீஸ்` — 17/17 verified, 5/5 scenes, fidelity PASS;
+- scans **44–53** — `சேரன் செங்குட்டுவன்` — 10/10 verified, 4/4 scenes, fidelity PASS;
+- scan **54** — illustrated back cover — verified;
 - source PDF remains external to the repository.
 
-For scans 4–5, the user-supplied words are locked as the lexical baseline. Source inspection controls heading, punctuation/spacing, physical line structure, typography, dashes/quotation treatment and source marks. For scan 5 specifically, verified controls include long dashes in the descriptive sequence, no spaces around the internal dashes in `அனார்கலி—சாக்ரடீஸ்—சேரன் செங்குட்டுவன்`, `இந்நூல்!`, `வழங்குகிறோம்!`, closing `என்றும்போல் ஆதரவு தருக — ஆக்கம் பெருகிட;`, and publisher sign-off `— தமிழ்க்கனி பதிப்பகத்தார்.`. The supplied lexical `நாடகங்களின்` remains retained under the user's explicit word-retention instruction.
+Composite-source coverage audit: `sources/naanmani-malai-tamil/COVERAGE_AUDIT.md` — **PASS / COMPLETE**.
+
+The ranges form one exact partition of physical scans **1–54**. Count check: **5 + 12 + 9 + 17 + 10 + 1 = 54**. Audit result: **54/54 represented; 0 gaps; 0 overlaps; 0 pending composite-source pages**.
+
+For scans 4–5, the user-supplied words remain the locked lexical baseline. Source inspection controls heading, punctuation/spacing, physical line structure, typography, dashes/quotation treatment and source marks. For scan 5 specifically, verified controls include long dashes in the descriptive sequence, no spaces around the internal dashes in `அனார்கலி—சாக்ரடீஸ்—சேரன் செங்குட்டுவன்`, `இந்நூல்!`, `வழங்குகிறோம்!`, closing `என்றும்போல் ஆதரவு தருக — ஆக்கம் பெருகிட;`, and publisher sign-off `— தமிழ்க்கனி பதிப்பகத்தார்.`. The supplied lexical `நாடகங்களின்` remains retained under the user's explicit word-retention instruction.
+
+## Current durable boundary
+
+**`கலைஞரின் நான்மணி மாலை` source processing is closed at 54/54 physical scans with coverage audit PASS.**
+
+No verified literary wording was changed by the closure audit.
 
 ## Exact next activity
 
-Run a **composite-source 54-scan coverage / closure audit only** for `கலைஞரின் நான்மணி மாலை`.
+There is **no remaining source-sequential archival activity** for this composite volume.
 
-Requirements:
-
-- fetch live `main` first;
-- read the source README, metadata, physical page map and page records `0001.md`–`0005.md` plus `0054.md`;
-- inspect the work-level mapping/status for scans **6–53** without reopening completed literary transcription;
-- verify that every physical scan **1–54** is mapped exactly once to front matter, a work/page range, or back cover;
-- verify there are no gaps, overlaps or composite-source pages still marked pending/partial;
-- verify the source metadata, source README, root README, page map, handover and next-chat checkpoint agree on the completed 54-scan coverage;
-- create a durable composite-source closure/audit record if repository conventions support one;
-- do **not** change verified literary wording during this audit;
-- do **not** begin translation or another dramatic work in the same activity.
+Do not invent a new translation, transcription, work, normalization pass or literary revision. Await an explicit user direction for what project/work/phase to begin next. If the user only says `Proceed with next activity` again, report that this source has reached its durable closure boundary and ask for the next explicit project/phase rather than silently starting unrelated work.
 
 ## Permanent safeguards
 
