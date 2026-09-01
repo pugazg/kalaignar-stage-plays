@@ -25,69 +25,69 @@ The exact scan partition remains **1–5 / 6–17 / 18–26 / 27–43 / 44–53 
 ## English translation state — நான்மணி மாலை plays
 
 - `பரதாயணம்`: independent English translation **PASS / COMPLETE**.
-- `அனார்கலி`: independent English translation **4/4 scenes COMPLETE; translation review PASS; 2009 secondary-witness comparison PASS / COMPLETE**.
-- `சாக்ரடீஸ்`: independent English **introductory note + 5/5 scenes COMPLETE; translation review PASS**.
+- `அனார்கலி`: independent English **4/4 COMPLETE; translation review PASS; 2009 secondary-witness comparison PASS / COMPLETE**.
+- `சாக்ரடீஸ்`: independent English **introductory note + 5/5 COMPLETE; translation review PASS; 2009 secondary-witness comparison PASS / COMPLETE**.
 - `சேரன் செங்குட்டுவன்`: independent English translation **pending**.
 
-### Anarkali English — durable closed checkpoint
+### Socrates English — durable closed checkpoint
 
-- `works/anarkali/translations/en/01.md`–`04.md` — independent translation, translation-reviewed;
-- `works/anarkali/translations/en/TRANSLATION_REVIEW.md` — **PASS**;
-- `works/anarkali/translations/en/SECONDARY_WITNESS_COMPARISON.md` — **PASS / COMPLETE**.
+Independent translation files:
 
-The 2009 published-English `Anarkali` witness was consulted only after independent drafting/review was locked. No published wording was automatically imported into the verified Tamil or independent translation.
-
-### Socrates independent English — durable checkpoint
-
-Files:
-
-- `works/socrates/translations/en/00-introduction.md` — scans 27–28 introductory note — translation-reviewed;
-- `works/socrates/translations/en/01.md` — Scene 1 — translation-reviewed;
-- `works/socrates/translations/en/02.md` — Scene 2 — translation-reviewed;
-- `works/socrates/translations/en/03.md` — Scene 3 — translation-reviewed;
-- `works/socrates/translations/en/04.md` — Scene 4 — translation-reviewed;
-- `works/socrates/translations/en/05.md` — Scene 5 — translation-reviewed;
+- `works/socrates/translations/en/00-introduction.md`;
+- `works/socrates/translations/en/01.md`–`05.md`;
 - `works/socrates/translations/en/TRANSLATION_REVIEW.md` — **PASS**;
-- `works/socrates/translations/en/README.md` — authority/status record.
+- `works/socrates/translations/en/SECONDARY_WITNESS_COMPARISON.md` — **PASS / COMPLETE**.
 
-Translation authority was the verified Tamil introductory-note records `pages/0027.md`–`0028.md` and verified scene assemblies `scenes/01.md`–`05.md`. The complete 2009 published-English `Socrates` witness was **not consulted for wording** during independent drafting or Tamil→English review.
+The 2009 published-English `Socrates` witness under `sources/one-act-plays-2009/socrates/` and provenance records `pages/0150.md`–`0160.md` was consulted only after the independent translation had been locked.
 
-Protected Socrates translation controls include:
+No verified Tamil or independent English scene wording was changed by the comparison.
 
-- intro `‘சோக்ரதர்’` → conservative `‘Sogradhar’`;
-- unusual `ஆஸ்திகப்பழமாக்கியிருக்கிறார்` represented visibly as `astika-pazham`, not silently repaired;
-- `சபைன்` → `Sabain` without external identification;
-- Scene 4 source label `சார் :` → `Sar :`, not regularized;
-- Scene 4 locked `செடுக்கிறேனா` represented visibly as `sedukkirēn`;
-- source `முப்பத்தொரு வாக்குகள்` → `thirty-one votes` despite the printed totals `281—220`; no arithmetic repair;
-- Scene 5 bare `: !........` remains unassigned;
-- source `சாச்ரடீஸ்` → `Sasrates` at its verified occurrence;
-- `அங்கிளிப்பியசு` → `Angilipiyas`; no external famous-name substitution;
-- `நாழிகை` remains `nazhigai` rather than being silently converted to a modern clock value.
+Important Socrates witness-comparison findings to preserve:
 
-Independent-English result for `சாக்ரடீஸ்`:
+- intro `பல தகுதிகளுக்கும்` → published `certain misdeeds`;
+- source `அறிவுலக ஜோதியாக` → published `an intellectual who enjoyed his life`;
+- published normalization of protected source forms including `சார் :`, `செடுக்கிறேனா`, and `சாச்ரடீஸ்`;
+- published `281...221` at one Socrates line despite the witness's own 281/220 vote count, while `31 votes` is also retained;
+- `கால் நாழிகை` / `இரண்டு நாழிகை` converted to minutes in the 2009 witness;
+- final source `அங்கிளிப்பியசு` / neighbouring-house `கோழிக் குஞ்சு` replaced by the familiar `Asclepius / cock` formulation;
+- several source stage directions / `*` marks compressed or omitted.
 
-- intro coverage: **PASS**;
-- 5/5 scene coverage: **PASS**;
-- philosophical / political rhetoric: **PASS**;
-- source-anomaly protection: **PASS**;
-- unresolved translation blocks: **0**;
-- published-English contamination: **0**.
+These are comparison evidence only, not revision authority.
+
+## Cheran Tamil checkpoint for translation
+
+Work: `works/cheran-senguttuvan/`.
+
+- source scans: **44–53** / printed pp. **39–48**;
+- verified Tamil pages: **10/10**;
+- source-printed scenes: **4**;
+- assembled scenes: **4/4**;
+- all page-record ↔ scene fidelity gates: **PASS**.
+
+Scene ranges:
+
+1. Scene 1 — scans **44–45** / pp.39–40;
+2. Scene 2 — scans **46–49** / pp.41–44;
+3. Scene 3 — scans **50–51** / pp.45–46;
+4. Scene 4 — scans **52–53** / pp.47–48.
+
+Final Scene-4 locked controls include source `காட்சி—4.`, `குயிலாலுவம்`, exact label variants `சேர்:`, `சேர்;`, unusual `சேர்!`, `வில்லவன்:`, `வில்:`, `வில்!`, `கன:`, source long dashes, `ராம ராவணப் போர்?....`, `புறப்படுவோம்—வில்லவா.`, `கனக—விஜயா`, `சொல்—இப்போது`, and centered final `- * -`.
 
 ## Exact next activity
 
-Run a **post-translation secondary-witness comparison for `சாக்ரடீஸ்` only**.
+Run the **independent English translation phase for `சேரன் செங்குட்டுவன்` only**.
 
 Requirements:
 
 1. fetch live `main` first;
-2. read `STAGE_PLAY_PROCESSING_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, `works/socrates/README.md`, the verified Tamil intro records / five scenes, and all independent English files plus `TRANSLATION_REVIEW.md`;
-3. confirm the independent translation checkpoint before opening the complete 2009 published-English `Socrates` witness;
-4. compare introductory framing, scene coverage/order, speaker turns, stage directions, philosophical terminology, political/court rhetoric, omissions/additions, normalization, source-sensitive lexical forms, death-vote sequence, prison farewell, rationalist maxims and final creditor line;
-5. create a durable secondary-witness comparison record under `works/socrates/translations/en/`;
-6. do **not** automatically rewrite the verified Tamil or independent English merely because the published witness differs;
-7. useful published alternatives remain comparison evidence only unless the user separately authorizes revision;
-8. do **not** begin `சேரன் செங்குட்டுவன்` English translation in the same activity.
+2. read `STAGE_PLAY_PROCESSING_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, root `README.md`, `works/cheran-senguttuvan/README.md`, all four verified Tamil scene assemblies, and relevant scene/page fidelity reviews where a source-sensitive form needs confirmation;
+3. derive English only from the verified Tamil archive;
+4. create `works/cheran-senguttuvan/translations/en/` with a clear authority/status README, Scene 1–4 translation files, and a complete `TRANSLATION_REVIEW.md`;
+5. preserve scene structure, speaker-label distinctions, stage directions, repetitions, Tamil historical/political rhetoric, source-sensitive lexical forms, source dashes, and closing marks where textually meaningful;
+6. preserve the final-scene label distinctions rather than normalizing all of them into one English speaker label without documentation;
+7. do **not** consult or borrow wording from the complete 2009 published-English `Cheran Senguttuvan` witness during drafting or Tamil→English review;
+8. only after the independent translation review is PASS may that witness be opened for a separate comparison;
+9. do **not** start another work or reopen completed `பரதாயணம்`, `அனார்கலி`, or `சாக்ரடீஸ்` English work in the same activity.
 
 ## Permanent safeguards
 
