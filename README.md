@@ -20,16 +20,17 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 
 `சேரன் செங்குட்டுவன்` Tamil dramatic-source processing is complete for scans **44–53 / printed pp.39–48**: **10/10 pages verified**, all four source-printed scenes assembled from verified page records, and **all page-record ↔ scene fidelity gates PASS**. Final `காட்சி—4.` preserves the unusual source `சேர்!` label and centered `- * -` closing mark.
 
-For the composite `கலைஞரின் நான்மணி மாலை` source, page-level outer/front-matter records now verified are:
+For the composite `கலைஞரின் நான்மணி மாலை` source, page-level outer/front-matter records are now verified for:
 
 - scan **1 / illustrated front cover** — `sources/naanmani-malai-tamil/pages/0001.md`;
 - scan **2 / title page** — `sources/naanmani-malai-tamil/pages/0002.md`;
 - scan **3 / copyright-imprint page** — `sources/naanmani-malai-tamil/pages/0003.md`;
 - scan **4 / `என்னுரை`** — `sources/naanmani-malai-tamil/pages/0004.md`;
+- scan **5 / `பதிப்புரை`** — `sources/naanmani-malai-tamil/pages/0005.md`;
 - scan **54 / illustrated back cover** — `sources/naanmani-malai-tamil/pages/0054.md`.
 
-Scan 4 retains the user-supplied words and uses direct source inspection only for heading, punctuation/spacing, physical lines and the facsimile-signature area. The remaining shared front-matter page is **scan 5 / `பதிப்புரை`**. The source PDF remains external to the repository.
+Scans 4–5 retain the user-supplied lexical wording, while direct source inspection controls punctuation, spacing, physical lines, dashes/quotation treatment and source marks. Together with completed work coverage for scans **6–53**, all **54/54 physical scans** are now represented in the repository workflow. The source PDF remains external to the repository.
 
 The 2009 published-English witness remains secondary and is not used to reconstruct Tamil.
 
-Next source-sequential activity: process **scan 5 / `பதிப்புரை` only** using the user-supplied lexical transcription as baseline. Do not begin another work in the same activity.
+Next activity: run a **composite-source 54-scan coverage / closure audit** only. Confirm every scan is mapped exactly once and no source page remains pending; do not reopen completed literary text in the same activity.
