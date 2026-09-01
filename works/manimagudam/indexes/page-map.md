@@ -44,8 +44,9 @@ Printed pagination is recorded only when directly visible. The raw PDF contains 
 | 36 | 27 | காட்சி 6 | continuation | verified | புதுமைப்பித்தன் temple-economy argument; source forms `எலும்பாய்த் தேய்ந்து, எறும்பாய் உழைத்து` and `தேர்களாய்`. |
 | 37 | 28 | காட்சி 6 | continuation | verified | Debate continues; source forms `புகையும் எரிமலை` and `நிர்மூலமாக்கப்பட்டு`. |
 | 38 | 29 | காட்சி 6 | continuation | verified | புதுமைப்பித்தன் denunciation continues; final utterance carries to scan 39. |
-| 39 | 30 | காட்சி 6 / காட்சி 7 | close + opening | verified | Scene 6 closes; `காட்சி 7` begins on same scan and continues onto scan 40. |
-| 40–144 | pending | dramatic body | dialogue / stage directions | not-started | Process sequentially from scan 40; printed pagination and scene boundaries must be recorded only from direct inspection. |
+| 39 | 30 | காட்சி 6 / காட்சி 7 | close + opening | verified | Scene 6 closes; `காட்சி 7` begins on same scan and அல்லி's utterance continues onto scan 40. |
+| 40 | 31 | காட்சி 7 | continuation | verified | Continues அல்லி's scan-39 utterance; பொன்னழகன் / புதுமைப்பித்தன் debate follows. Final புதுமைப்பித்தன் speaker turn continues onto scan 41 without a repeated label. |
+| 41–144 | pending | dramatic body | dialogue / stage directions | not-started | Process sequentially from scan 41; printed pagination and scene boundaries must be recorded only from direct inspection. |
 | 145 | 136 | காட்சி 42 | scene opening | not-started | `காட்சி 42` visibly begins. |
 | 146–151 | 137–142 visible in intake survey | காட்சி 42 continuation | dialogue / stage directions | not-started | Detailed transcription pending. |
 | 152 | 143 | காட்சி 43 | scene opening | not-started | `காட்சி 43` visibly begins. |
@@ -62,17 +63,17 @@ The conversation preview exposed only scans 1–150, but raw-PDF inspection esta
 ## Current checkpoint
 
 - Front matter scans **1–13: 13 / 13 verified**.
-- Dramatic scans **14–39: 26 / 26 verified**.
-- Overall page-level verification: **39 / 170**.
-- `காட்சி 1` through `காட்சி 6`: page-level source transcription complete across the supplied scans.
-- `காட்சி 7`: started on scan 39 and remains in progress.
-- Durable page records: `../pages/0001.md` through `../pages/0039.md`.
+- Dramatic scans **14–40: 27 / 27 verified**.
+- Overall page-level verification: **40 / 170**.
+- `காட்சி 1` through `காட்சி 6`: page-level source transcription complete.
+- `காட்சி 7`: scans 39–40 verified and remains in progress onto scan 41.
+- Durable page records: `../pages/0001.md` through `../pages/0040.md`.
 - Scans 15–39 received a final enlarged-source fidelity pass before commit; draft misreadings were corrected rather than normalized by expectation.
 
-See `../SCANS_0015_0039_VERIFICATION.md` for the batch correction record.
+See `../SCANS_0015_0039_VERIFICATION.md` for the prior batch correction record.
 
 ## Exact next activity
 
-Process **scan 40 / காட்சி 7 continuation** directly against the controlling source. Create `pages/0040.md`, preserve the physical continuation from scan 39, and record a printed page number only if directly visible on scan 40.
+Process **scan 41 / printed page 32 / காட்சி 7 continuation** directly against the controlling source. Create `pages/0041.md`, preserve the physical continuation of புதுமைப்பித்தன்'s speaker turn from scan 40, and record only what is visibly printed on scan 41.
 
 English translation remains outside the currently authorized phase.
