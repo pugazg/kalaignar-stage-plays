@@ -14,6 +14,7 @@ Controlling Tamil source: `TVA_BOK_0065576_நான்மணி_மாலை.pd
 - page-record ↔ scene-assembly fidelity review: **PASS**;
 - independent English translation: **4/4 scenes COMPLETE**;
 - English translation review: **PASS**;
+- 2009 published-English secondary-witness comparison: **PASS / COMPLETE**;
 - unresolved literary-text / assembly readings: **0**;
 - unresolved English translation blocks: **0**.
 
@@ -30,7 +31,7 @@ Composite Tamil source registry: `../../sources/naanmani-malai-tamil/`.
 
 The Tamil scan is controlling. The Gemini first-pass transcription supplied in chat is assistive only and was checked against the source during the page-level pass.
 
-The independent English translation derives only from the verified Tamil scene assemblies and page records. The complete 2009 published-English text at `../../sources/one-act-plays-2009/anarkali/` remains a **secondary witness only**. Its wording was not consulted or used in drafting or reviewing the independent English translation.
+The independent English translation derives only from the verified Tamil scene assemblies and page records. The complete 2009 published-English text at `../../sources/one-act-plays-2009/anarkali/` was not consulted during drafting or Tamil→English review. It was consulted only afterward as a separate secondary witness.
 
 Old Tamil glyph forms, punctuation, speaker labels, repetitions, physical page/line boundaries, stage directions and apparent print anomalies remain preserved in the Tamil archive.
 
@@ -41,7 +42,8 @@ See:
 - [`ASSEMBLY_FIDELITY_REVIEW.md`](ASSEMBLY_FIDELITY_REVIEW.md) for the page-record ↔ scene audit;
 - [`translations/en/README.md`](translations/en/README.md) for English translation authority and status;
 - [`translations/en/01.md`](translations/en/01.md) through [`translations/en/04.md`](translations/en/04.md) for the independent English scenes;
-- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) for the English fidelity review.
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) for the Tamil→English fidelity review;
+- [`translations/en/SECONDARY_WITNESS_COMPARISON.md`](translations/en/SECONDARY_WITNESS_COMPARISON.md) for the completed comparison with the 2009 published-English witness.
 
 ## Important source controls
 
@@ -60,6 +62,23 @@ Do not revert or silently normalize, among others:
 
 The English translation explicitly protects unusual verified source forms. `என் திழையே!` remains `my thizhaiye!`; `என்னுள் உன் குடிசை பெருமையுற்றது` is translated without source repair; and `சப்ரகூட மஞ்சம்` is retained conservatively as the *sabrakooda* couch.
 
+## Secondary-witness comparison result
+
+The complete 2009 published-English `Anarkali` preserves all four scenes and the core plot, but is generally freer and more smoothing than the independent verified-Tamil-derived translation.
+
+Documented material differences include:
+
+- `அக்பரது குடைநிழலில்` reduced to a generic reference to Akbar's reign;
+- `என்னுள் உன் குடிசை பெருமையுற்றது` silently smoothed;
+- `சப்ரகூட மஞ்சம்` confidently interpreted as a regal bedchamber;
+- additions such as `geisha girl` and `disco` absent from the verified Tamil;
+- `அவள் அழுகை மறைத்தீர்கள்!` rendered as hidden `eternal beauty`;
+- `நீதியில்லாத பூமியில்` rendered as `world without you`, removing the explicit justice wording;
+- Scene-4 royal-status causality altered;
+- some source repetitions, inventory details and final `*` marks compressed or omitted.
+
+No automatic revision was made from those differences. The published witness remains evidence, not controlling authority.
+
 ## Completed checkpoint
 
 - `pages/0018.md` through `pages/0026.md`: **verified**;
@@ -70,7 +89,9 @@ The English translation explicitly protects unusual verified source forms. `எ�
 - unresolved assembly discrepancies: **0**;
 - `translations/en/01.md` through `04.md`: **translation-reviewed**;
 - `translations/en/TRANSLATION_REVIEW.md`: **PASS**;
-- secondary-English wording used in independent translation: **0**.
+- `translations/en/SECONDARY_WITNESS_COMPARISON.md`: **PASS / COMPLETE**;
+- secondary-English wording used during independent drafting/review: **0**;
+- automatic revisions imported from the published witness: **0**.
 
 ## Result
 
@@ -78,6 +99,8 @@ The English translation explicitly protects unusual verified source forms. `எ�
 
 **Independent English translation gate: PASS / COMPLETE for `அனார்கலி`.**
 
+**Secondary-witness comparison gate: PASS / COMPLETE for `அனார்கலி`.**
+
 ## Next repository activity
 
-Run a **post-translation comparison** between the completed independent English translation and the complete 2009 published-English `Anarkali` witness. Keep that comparison as a separate secondary-witness layer: record agreements, omissions, expansions and interpretive differences, but do not automatically rewrite the independent translation or the verified Tamil archive.
+Begin the **independent English translation of `சாக்ரடீஸ்`** from the verified Tamil introductory-note records and the five verified Tamil scene assemblies. The complete 2009 published-English `Socrates` witness must remain unread for wording until the independent translation and its Tamil→English fidelity review are complete.
