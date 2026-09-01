@@ -23,34 +23,33 @@ Completed Cheran Scene-4 locked controls include source `காட்சி—4.
 ## Composite source — கலைஞரின் நான்மணி மாலை
 
 - total scans: **54**;
+- scan **1 / illustrated front cover** — **verified** at `sources/naanmani-malai-tamil/pages/0001.md`;
+- scan **2 / title page** — **verified** at `sources/naanmani-malai-tamil/pages/0002.md`;
+- scan **3 / copyright-imprint page** — **verified** at `sources/naanmani-malai-tamil/pages/0003.md`;
+- scan **4 / `என்னுரை`** — **verified** at `sources/naanmani-malai-tamil/pages/0004.md`;
+- scan **5 / `பதிப்புரை`** — **verified** at `sources/naanmani-malai-tamil/pages/0005.md`;
 - scans **6–53** contain the four dramatic works at their durable completed checkpoints;
-- scan **1 / illustrated front cover** is **verified** at `sources/naanmani-malai-tamil/pages/0001.md`;
-- scan **2 / title page** is **verified** at `sources/naanmani-malai-tamil/pages/0002.md`;
-- scan **3 / copyright-imprint page** is **verified** at `sources/naanmani-malai-tamil/pages/0003.md`;
-- scan **4 / `என்னுரை`** is **verified** at `sources/naanmani-malai-tamil/pages/0004.md`;
-- for scan 4, the user-supplied words are locked as the lexical baseline; source inspection controls heading, punctuation/spacing, physical line structure, typography and source marks only;
-- verified scan-4 punctuation includes spaces before `!` in `மாலை !`, `மாலையாக !`, `கேட்டது !`, `படித்தது !`, and `நடித்தது !`;
-- the closing `அன்புள்ள` is followed by a printed facsimile signature; the supplied trailing `5` is not a separate printed textual digit and was not transcribed;
-- scan **54 / illustrated back cover** is **verified** at `sources/naanmani-malai-tamil/pages/0054.md`;
-- the only remaining shared front-matter page-level task is **scan 5 / `பதிப்புரை`**;
+- scan **54 / illustrated back cover** — **verified** at `sources/naanmani-malai-tamil/pages/0054.md`;
+- all **54/54 physical scans** are now represented in the repository workflow;
 - source PDF remains external to the repository.
+
+For scans 4–5, the user-supplied words are locked as the lexical baseline. Source inspection controls heading, punctuation/spacing, physical line structure, typography, dashes/quotation treatment and source marks. For scan 5 specifically, verified controls include long dashes in the descriptive sequence, no spaces around the internal dashes in `அனார்கலி—சாக்ரடீஸ்—சேரன் செங்குட்டுவன்`, `இந்நூல்!`, `வழங்குகிறோம்!`, closing `என்றும்போல் ஆதரவு தருக — ஆக்கம் பெருகிட;`, and publisher sign-off `— தமிழ்க்கனி பதிப்பகத்தார்.`. The supplied lexical `நாடகங்களின்` remains retained under the user's explicit word-retention instruction.
 
 ## Exact next activity
 
-Process **scan 5 / `பதிப்புரை` only** from `TVA_BOK_0065576_நான்மணி_மாலை.pdf` as the final shared-front-matter page-level archival transcription.
-
-The user has already supplied a lexical transcription for scan 5 in the current conversation. Use those **words as the baseline and keep them**. Direct scan comparison should control only heading, punctuation, hyphens/dashes, quotation marks, paragraph/physical line structure, signature/imprint treatment, and other source marks unless the user separately authorizes lexical changes.
+Run a **composite-source 54-scan coverage / closure audit only** for `கலைஞரின் நான்மணி மாலை`.
 
 Requirements:
 
 - fetch live `main` first;
-- inspect scan 5 directly from the controlling PDF;
-- preserve the user-supplied words;
-- create `sources/naanmani-malai-tamil/pages/0005.md` only after direct visual verification;
-- distinguish printed publication text from library marks, later handwriting, stamps, damage, bleed-through or other non-authorial marks;
-- update the composite source page map, source metadata/README, root README, handover and next-chat checkpoint after verification;
-- do **not** reopen any completed dramatic work;
-- do **not** begin another work in the same activity.
+- read the source README, metadata, physical page map and page records `0001.md`–`0005.md` plus `0054.md`;
+- inspect the work-level mapping/status for scans **6–53** without reopening completed literary transcription;
+- verify that every physical scan **1–54** is mapped exactly once to front matter, a work/page range, or back cover;
+- verify there are no gaps, overlaps or composite-source pages still marked pending/partial;
+- verify the source metadata, source README, root README, page map, handover and next-chat checkpoint agree on the completed 54-scan coverage;
+- create a durable composite-source closure/audit record if repository conventions support one;
+- do **not** change verified literary wording during this audit;
+- do **not** begin translation or another dramatic work in the same activity.
 
 ## Permanent safeguards
 
