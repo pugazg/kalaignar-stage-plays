@@ -1,19 +1,24 @@
 # Page Map — மணிமகுடம்
 
-This is the initial physical-source map for `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
+This is the physical-source map for `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 
-Printed pagination is recorded only when directly visible. The raw PDF contains **170 physical scans**. Page-level literary transcription has not yet begun.
+Printed pagination is recorded only when directly visible. The raw PDF contains **170 physical scans**.
 
 | Scan page(s) | Printed page | Section / scene | Page type | Status | Notes |
 |---|---|---|---|---|---|
-| 1 | — | front matter | colour cover | not-started | Title, author portrait and author name visible. |
-| 2 | — | front matter | photograph + printed captions | not-started | Presentation photograph; exact caption wording to transcribe visually. |
-| 3 | — | front matter | portrait + printed caption | not-started | Full-page author portrait. |
-| 4–5 | — | front matter | introductory / publisher note | not-started | `குறிஞ்சி சுப்பிரமணியன்`; scan 4 includes 1956 Tiruchirappalli performance-history note; scan 5 includes 1963 performance-history note and `3.6.2010` sign-off. |
-| 6–9 | — | front matter | photographs | not-started | Scans 6–8 require rotation for ordinary reading orientation; captions present on 6–8. |
-| 10 | — | front matter | title / imprint page | not-started | `மணிமகுடம்`; `டாக்டர் கலைஞர். மு.கருணாநிதி`; `பாரதி பதிப்பகம்`. |
-| 11 | — | front matter | `பதிப்புரை` + edition/imprint | not-started | Sixth Edition May 2010; price Rs.40.00; publication/printing block. |
-| 12–13 | — | front matter | `என்னுரை` | not-started | Author preface; scan 13 ends `22.7.1986 / அன்புள்ள / மு.கருணாநிதி`. |
+| 1 | — | front matter | colour cover | verified | `மணி மகுடம்`; author-name line; colour portrait and emblematic cover artwork archived in `pages/0001.md`. |
+| 2 | — | front matter | photograph + printed captions | verified | Caption identifies மு.க.ஸ்டாலின் / குறிஞ்சி சுப்பிரமணியன் and date `22.9.2009`; printed gift-note line also transcribed. |
+| 3 | — | front matter | portrait + printed caption | verified | Full-page portrait; caption `மாண்புமிகு தமிழக முதல்வர் / டாக்டர் கலைஞர் அவர்கள்`. |
+| 4 | — | front matter | introductory / publisher note | verified | `குறிஞ்சி சுப்பிரமணியன்`; address/contact block and first four prose paragraphs transcribed; includes May 1956 Tiruchirappalli performance-history note. |
+| 5 | — | front matter | introductory / publisher note | verified | Continuation through `3.6.2010` sign-off; includes September 1963 performance-history/fund note. |
+| 6 | — | front matter | photograph + caption | verified | Rotated source page; caption on மதுரை தியாகராசர் கல்லூரி மாணவர் மன்ற event and date `8.11.1960` transcribed after non-destructive rotation. |
+| 7 | — | front matter | photograph + caption | verified | Rotated source page; caption naming எம்.ஜி.ஆர்., கா. காளிமுத்து, பெ.சீனிவாசன் and குறிஞ்சி சுப்பிரமணியன்; date `15.8.1975`. |
+| 8 | — | front matter | photograph + caption | verified | Rotated source page; caption naming திராவிடர் கழகத் தலைவர் திரு. வீரமணி and குறிஞ்சி சுப்பிரமணியன். |
+| 9 | — | front matter | portrait composite | verified | Four portrait images; no printed caption/name labels visible, so no identities editorially supplied. |
+| 10 | — | front matter | title / imprint page | verified | Display title `மணி மகுடம்`; `டாக்டர் கலைஞர். மு.கருணாநிதி`; பாரதி பதிப்பகம் address / post-box / phone block transcribed. |
+| 11 | — | front matter | `பதிப்புரை` + edition/imprint | verified | Tamil publisher preface plus full English edition/imprint block; Sixth Edition May 2010; price Rs.40.00. |
+| 12 | — | front matter | `என்னுரை` | verified | First author-preface page fully transcribed; includes `மேரிகாரல்லி`, `“டெம்போரல் பவர்”`, and `மதம் - ஆட்சி பீடம் - பிரச்சார பீடம்`. |
+| 13 | — | front matter | `என்னுரை` close | verified | Preface continuation and close; date `22.7.1986`; `அன்புள்ள / மு.கருணாநிதி`. |
 | 14 | — | காட்சி 1 | dramatic body opening | not-started | `காட்சி 1` begins. No printed page number inferred. |
 | 15–144 | 6 visible at scan 15; others pending | dramatic body | dialogue / stage directions | not-started | Detailed scene boundaries and printed pagination to be mapped only during direct page inspection. |
 | 145 | 136 | காட்சி 42 | scene opening | not-started | `காட்சி 42` visibly begins. |
@@ -31,12 +36,16 @@ The conversation preview exposed only scans 1–150, but raw-PDF inspection esta
 
 ## Current checkpoint
 
-Source identity, checksum, file size, 170-scan extent, front/body/back broad partition and terminal scene boundary have been registered.
+- Source identity / 170-scan physical boundary: registered.
+- Front matter scans **1–13: 13 / 13 verified**.
+- Overall page-level verification: **13 / 170**.
+- Dramatic body: **not started**.
+- No unresolved reading remains in scans 1–13 at this checkpoint.
 
-No scan has yet been promoted to `verified` in this work. Intake inspection is not a substitute for full page-level reconciliation.
+Each verified front-matter scan now has an individual archival page record at `../pages/0001.md` through `../pages/0013.md`.
 
 ## Exact next activity
 
-Process **scans 1–13** page by page from the controlling scan. Create archival page records, transcribe exact printed captions/text where applicable, distinguish photographs from printed text, and update this map with individual page statuses.
+Begin the dramatic body at **scan 14 / காட்சி 1**. Process scan 14 directly against the controlling source, create `pages/0014.md`, preserve speaker labels / stage direction / punctuation exactly, and map only the printed pagination actually visible on that scan.
 
-After scans 1–13 are complete, begin **scan 14 / காட்சி 1**.
+Do not begin English translation; it remains outside the currently authorized phase.
