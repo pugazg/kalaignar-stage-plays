@@ -13,11 +13,11 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 | [அனார்கலி](works/anarkali/) | **Tamil 9/9; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சாக்ரடீஸ்](works/socrates/) | **Tamil 17/17; 5/5 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil 10/10; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
-| [மணிமகுடம்](works/manimagudam/) | **ACTIVE — source intake registered; 170 scans; Tamil page transcription not started** |
+| [மணிமகுடம்](works/manimagudam/) | **ACTIVE — front matter 13/13 verified; overall Tamil pages 13/170; next scan 14 / காட்சி 1** |
 
 ## Active repository phase — மணிமகுடம்
 
-The user has explicitly authorized the next stage-play work as **மணிமகுடம்**.
+The user has explicitly authorized **மணிமகுடம்** as the active stage-play work.
 
 Controlling source:
 
@@ -28,7 +28,7 @@ Registered source facts:
 - SHA-256: `a629509c3404fcc5c2844f5b693e72a41aca03ad2e2494588807af4ff8f16f3b`;
 - file size: **187,091,728 bytes**;
 - physical PDF pages: **170**;
-- scans **1–13**: front matter;
+- scans **1–13**: front matter — **13 / 13 VERIFIED**;
 - scan **14**: `காட்சி 1` begins;
 - scan **169**: printed page 160, `காட்சி 47`, source-visible closure `(முடிவுற்றது)`;
 - scan **170**: back-cover publisher catalogue / advertisement.
@@ -39,11 +39,12 @@ See:
 
 - `works/manimagudam/README.md`;
 - `works/manimagudam/metadata/source.md`;
-- `works/manimagudam/indexes/page-map.md`.
+- `works/manimagudam/indexes/page-map.md`;
+- `works/manimagudam/pages/0001.md` through `pages/0013.md`.
 
 ### Exact next activity
 
-Process **scans 1–13** page by page, creating archival page records and reconciling exact printed text/captions and image descriptions. Then begin the dramatic body at **scan 14 / காட்சி 1**.
+Begin **scan 14 / காட்சி 1**. Create the first dramatic page record from direct visual inspection, preserve exact speaker labels / stage direction / punctuation / source wording, and record only printed pagination actually visible on the scan.
 
 English translation is not part of the currently authorized `மணிமகுடம்` phase.
 
