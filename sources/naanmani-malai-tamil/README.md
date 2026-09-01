@@ -32,6 +32,21 @@ Scene 4 preserves the source `சேர்!` label variant, `புறப்ப�
 - scans 4–5 retain the user-supplied lexical wording; direct scan comparison controls heading, punctuation, spacing, physical lines, dashes/quotation treatment, display/source marks and sign-off treatment;
 - scan **54 / illustrated back cover** — **verified** at [`pages/0054.md`](pages/0054.md).
 
-All composite front/outer-matter scans **1–5 and 54** are now page-level verified. Together with the completed dramatic-work coverage for scans **6–53**, all **54/54 physical scans** are represented in the archival workflow.
+## Composite-source closure
 
-Next activity: run a **composite-source 54-scan coverage / closure audit** only. Confirm that every scan is mapped exactly once, no composite-source page remains pending, and the completion checkpoint is internally consistent. Do not reopen completed literary text in that audit.
+Coverage audit: [`COVERAGE_AUDIT.md`](COVERAGE_AUDIT.md) — **PASS / COMPLETE**.
+
+The 54 physical scans form one exact, non-overlapping partition:
+
+- scans **1–5** — front matter;
+- scans **6–17** — `பரதாயணம்`;
+- scans **18–26** — `அனார்கலி`;
+- scans **27–43** — `சாக்ரடீஸ்`;
+- scans **44–53** — `சேரன் செங்குட்டுவன்`;
+- scan **54** — back cover.
+
+Result: **54/54 physical scans represented; 0 gaps; 0 overlaps; 0 pending composite-source pages**.
+
+No verified literary wording was changed during the closure audit. The source PDF remains external to the repository.
+
+There is no remaining source-sequential archival task for this composite volume. Further work should begin only from an explicit new user direction.
