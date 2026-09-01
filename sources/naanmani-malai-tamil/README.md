@@ -28,9 +28,10 @@ Scene 4 preserves the source `சேர்!` label variant, `புறப்ப�
 - scan **2 / title page** — **verified** at [`pages/0002.md`](pages/0002.md);
 - scan **3 / copyright-imprint page** — **verified** at [`pages/0003.md`](pages/0003.md);
 - scan **4 / `என்னுரை`** — **verified** at [`pages/0004.md`](pages/0004.md);
-- scan 4 uses the user-supplied words unchanged; direct scan comparison controls heading, punctuation, spaces before exclamation marks, physical lines, display-style emphasis and the printed facsimile-signature area;
-- the supplied trailing `5` after `அன்புள்ள` is not a separate printed textual digit and is not transcribed;
-- scan **54 / illustrated back cover** — **verified** at [`pages/0054.md`](pages/0054.md);
-- shared front matter has one remaining page-level verification task: **scan 5 / `பதிப்புரை`**.
+- scan **5 / `பதிப்புரை`** — **verified** at [`pages/0005.md`](pages/0005.md);
+- scans 4–5 retain the user-supplied lexical wording; direct scan comparison controls heading, punctuation, spacing, physical lines, dashes/quotation treatment, display/source marks and sign-off treatment;
+- scan **54 / illustrated back cover** — **verified** at [`pages/0054.md`](pages/0054.md).
 
-Next source-sequential activity: process **scan 5 / `பதிப்புரை` only** using the user-supplied lexical transcription as baseline and direct scan comparison for punctuation, paragraph/line structure and source marks. Do not begin another work in the same activity.
+All composite front/outer-matter scans **1–5 and 54** are now page-level verified. Together with the completed dramatic-work coverage for scans **6–53**, all **54/54 physical scans** are represented in the archival workflow.
+
+Next activity: run a **composite-source 54-scan coverage / closure audit** only. Confirm that every scan is mapped exactly once, no composite-source page remains pending, and the completion checkpoint is internally consistent. Do not reopen completed literary text in that audit.
