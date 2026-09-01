@@ -25,13 +25,13 @@ The exact scan partition remains **1–5 / 6–17 / 18–26 / 27–43 / 44–53 
 ## English translation state — நான்மணி மாலை plays
 
 - `பரதாயணம்`: independent English translation **PASS / COMPLETE**.
-- `அனார்கலி`: independent English translation **4/4 scenes COMPLETE; translation review PASS**.
+- `அனார்கலி`: independent English translation **4/4 scenes COMPLETE; translation review PASS; 2009 secondary-witness comparison PASS / COMPLETE**.
 - `சாக்ரடீஸ்`: independent English translation **pending**.
 - `சேரன் செங்குட்டுவன்`: independent English translation **pending**.
 
-### Anarkali independent English — durable checkpoint
+### Anarkali English — durable closed checkpoint
 
-Files:
+Independent translation files:
 
 - `works/anarkali/translations/en/01.md` — Scene 1 — translation-reviewed;
 - `works/anarkali/translations/en/02.md` — Scene 2 — translation-reviewed;
@@ -40,35 +40,40 @@ Files:
 - `works/anarkali/translations/en/TRANSLATION_REVIEW.md` — **PASS**;
 - `works/anarkali/translations/en/README.md` — authority/status record.
 
-Translation authority was the verified Tamil scene assemblies `works/anarkali/scenes/01.md`–`04.md`, backed by verified page records `0018.md`–`0026.md`. The Gemini first pass was not a translation source.
+Post-translation secondary-witness comparison:
 
-The complete 2009 published-English `Anarkali` witness under `sources/one-act-plays-2009/anarkali/` was **not consulted for wording during drafting or Tamil-to-English translation review**. It remains a secondary witness for the next phase.
+- `works/anarkali/translations/en/SECONDARY_WITNESS_COMPARISON.md` — **PASS / COMPLETE**;
+- secondary witness: `sources/one-act-plays-2009/pages/0135.md`–`0140.md` / M. D. Jayabalan 2009 published English;
+- witness consulted only after independent drafting/review was locked;
+- verified Tamil changed by comparison: **0**;
+- independent English scene files changed by comparison: **0**;
+- automatic published-witness revisions imported: **0**.
 
-Protected Anarkali translation controls include:
+Comparison findings to preserve:
 
-- verified `என் திழையே!` retained conservatively as `my thizhaiye!`, not silently normalized;
-- verified unusual `என்னுள் உன் குடிசை பெருமையுற்றது` translated without repairing the Tamil;
-- uncertain `சப்ரகூட மஞ்சம்` retained as the *sabrakooda* couch rather than guessed;
-- `காதல் சுதந்திரம்` → `freedom of love`;
-- `டில்லி ஏகாதிபத்தியம்` → `Delhi imperialism`;
-- `ஜரிகைப்பூ` → `zari-flower`;
-- `(திரையில் குரல்)` preserved as dramatic `Voice behind the curtain`;
-- `மாசற்ற ஜோதி மழையே!`, `நீதியில்லாத பூமியில்`, the royal-privilege catalogue, suicide-attempt directions and final source `*` marks remain represented.
+- the 2009 witness contains all four scenes and the complete core plot;
+- it is generally freer/smoother than the independent archival translation;
+- it normalizes or interprets source-sensitive forms such as `என் திழையே!`, `என்னுள் உன் குடிசை பெருமையுற்றது`, and `சப்ரகூட மஞ்சம்`;
+- additions absent from verified Tamil include examples such as `geisha girl` and `disco`;
+- Scene 4 has material divergences including verified `அவள் அழுகை மறைத்தீர்கள்!` rendered as hidden `eternal beauty`, `நீதியில்லாத பூமியில்` rendered as `world without you`, and altered royal-status causality;
+- some rhetorical repetition, inventory details and source `*` marks are compressed/omitted in the published witness;
+- useful published alternatives are comparison evidence only and do not control revision.
 
 ## Exact next activity
 
-Run a **post-translation secondary-witness comparison for `அனார்கலி` only**.
+Begin the **independent English translation of `சாக்ரடீஸ்`**.
 
 Requirements:
 
 1. fetch live `main` first;
-2. read `STAGE_PLAY_PROCESSING_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, `works/anarkali/README.md`, the four verified Tamil scenes, the four independent English translation files, and `works/anarkali/translations/en/TRANSLATION_REVIEW.md`;
-3. only after the independent translation checkpoint is confirmed, read the complete 2009 published-English `Anarkali` witness under `sources/one-act-plays-2009/anarkali/`;
-4. compare source coverage, scene structure, speaker turns, stage directions, omissions/additions, terminology and interpretive choices;
-5. create a durable secondary-witness comparison record under `works/anarkali/` or `works/anarkali/translations/en/` according to existing repository convention;
-6. do **not** automatically rewrite the verified Tamil archive or the independent English translation merely because the published witness differs;
-7. record any genuinely useful alternative rendering as comparison evidence only unless the user separately authorizes a translation revision;
-8. do **not** begin `சாக்ரடீஸ்` English translation in the same activity.
+2. read `STAGE_PLAY_PROCESSING_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, root `README.md`, `works/socrates/README.md`, `works/socrates/INTRO_RECONCILIATION.md`, verified Tamil introductory-note records for scans **27–28**, and all five verified Tamil scene assemblies;
+3. derive the English only from the verified Tamil archive; use page records for source-form/boundary questions;
+4. do **not** consult the complete 2009 published-English `Socrates` witness for wording before independent translation + Tamil→English fidelity review are complete;
+5. translate the introductory note as part of the work, then Scenes 1–5;
+6. preserve dramatic structure, speaker distinctions, repetitions, stage directions, source-sensitive philosophical/political terminology and documented user-retained lexical forms;
+7. create a translation authority/status README and a complete Tamil→English fidelity review;
+8. only after independent translation review PASS may a separate 2009 secondary-witness comparison begin;
+9. do **not** begin `சேரன் செங்குட்டுவன்` English translation in the same activity.
 
 ## Permanent safeguards
 
