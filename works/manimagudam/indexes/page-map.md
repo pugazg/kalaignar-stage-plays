@@ -146,35 +146,49 @@ Printed pagination is recorded only when directly visible. The raw PDF contains 
 | 138 | 129 | காட்சி 40 | continuation | verified | Begins physical continuation of குருநாதர்; source form `மாதேன்மத்தர்கள்!` retained. |
 | 139 | 130 | காட்சி 40 | continuation | verified | Continues `காட்சி 40`. |
 | 140 | 131 | காட்சி 40 | scene close | verified | `காட்சி 40` closes; scan 141 begins `காட்சி 41`. |
-| 141 | 132 | காட்சி 41 | scene opening | not-started | `காட்சி 41` visibly begins; next requested iteration starts here. |
-| 142–144 | pending | காட்சி 41 continuation | dialogue / stage directions | not-started | Detailed transcription pending. |
-| 145 | 136 | காட்சி 42 | scene opening | not-started | `காட்சி 42` visibly begins. |
-| 146–151 | 137–142 visible in intake survey | காட்சி 42 continuation | dialogue / stage directions | not-started | Detailed transcription pending. |
-| 152 | 143 | காட்சி 43 | scene opening | not-started | `காட்சி 43` visibly begins. |
-| 153–161 | 144–152 visible in intake survey | dramatic body | dialogue / stage directions | not-started | Detailed mapping pending. |
-| 162 | 153 | காட்சி 44 / 45 / 46 | multiple scene openings | not-started | Three scene headings occur on the same physical scan. |
-| 163–168 | 154–159 visible in intake survey | dramatic body | dialogue / stage directions | not-started | Detailed mapping pending. |
-| 169 | 160 | காட்சி 47 + closure | final dramatic page | not-started | `காட்சி 47`; source-visible closing marker `(முடிவுற்றது)`. |
-| 170 | — | back matter | publisher catalogue / advertisement | not-started | Headed `கலைஞரின் சிறப்புமிகு நூல்கள்`. |
+| 141 | 132 | காட்சி 41 | scene opening | verified | `காட்சி 41` begins; difficult `கேளடா!` and `கேட்டுன்னைத்` resolved by enlarged source inspection. |
+| 142 | 133 | காட்சி 41 | continuation | verified | Source forms include `ருத்திராக்ஷ`, `உண்மையானா?`. |
+| 143 | 134 | காட்சி 41 | continuation | verified | Source forms `சக்கரவர்த்திக்கு`, `போலி வேதாரி` / `வேதாரியைக்`; final குருநாதர் utterance continues onto scan 144. |
+| 144 | 135 | காட்சி 41 | scene close | verified | Begins continuation without repeated label; source forms `இன்றில்லா விட்டால்`, `என்ன பழிப்பு?`; scene closes. |
+| 145 | 136 | காட்சி 42 | scene opening | verified | Scene 42 begins; source forms `அணைபோட்டுத் தடுக்க`, `அரசனுடைய அழகில்`; final பொன்னழகன் utterance continues onto scan 146. |
+| 146 | 137 | காட்சி 42 | continuation | verified | Begins continuation from scan 145; source forms `சாமான்யமாயிருக்கிறதா?`, `நாமென்ன`, `மாட்டேன்?`; continues onto 147. |
+| 147 | 138 | காட்சி 42 | continuation | verified | Source-visible `இப்படிப் பொதுவான இடங்களில் தணித்துக் கொள்ளக் கூடாது`; scene continues. |
+| 148 | 139 | காட்சி 42 | continuation | verified | Source forms `பொன்னழகின்`, `சகோதரனாகவே, கருதுகிறேன்!`, `கொள்ளுங்கள்...!`. |
+| 149 | 140 | காட்சி 42 | continuation | verified | Blot-obscured `சாட்சி?` resolved by enlarged same-page comparison; source punctuation retained; final அல்லி utterance continues. |
+| 150 | 141 | காட்சி 42 | continuation | verified | Begins physical continuation of அல்லி; `திரணமாக`, `அபாக்கியவதி`, `உத்திரவு` / later `உத்தரவு` retained; scene continues. |
+| 151 | 142 | காட்சி 42 | scene close | verified | Raw-PDF reconciliation completed beyond preview boundary; scene 42 closes on this scan. |
+| 152 | 143 | காட்சி 42 / காட்சி 43 | close + opening | verified | `காட்சி 43` begins after scene-42 closure. |
+| 153 | 144 | காட்சி 43 | continuation | verified | Direct raw-PDF reconciliation; source wording and physical boundaries retained. |
+| 154 | 145 | காட்சி 43 | continuation | verified | Source forms include `நடிடான்னு`, `கடுந்தண்டனை`; scene continues. |
+| 155 | 146 | காட்சி 43 | continuation | verified | Difficult `சித்தங் கலங்கியவனைப்` resolved; source forms `நடுத்தெரு நாராயணன்`, `குப்பை மேட்டுப் பயல்`, `மண்ணாங்கட்டியுமல்ல`, `சபையோர்க்களே`; final `அர:` utterance continues. |
+| 156 | 147 | காட்சி 43 | continuation | verified | Begins physical continuation from scan 155; source forms `மருதலாங்கானத்து`, `களந்தந்த வடு`, `கையளாக`, `சேர்ந்துதாங்க`. |
+| 157 | 148 | காட்சி 43 | continuation | verified | Source forms `விழற`, `மோதிக்கிட்டு`, `ஒடிஞ்சு போச்சாம்!`, `துணண்டு கொடுத்தும்`; final `அர:` utterance continues. |
+| 158 | 149 | காட்சி 43 | continuation | verified | Begins physical continuation; source forms `ஜரிகை`, `ஜப மாலையோடிருக்கும்`, `சீமான சபையின்`; continues to 159. |
+| 159 | 150 | காட்சி 43 | continuation | verified | Source forms include `சத்தெடுக்கப்பட்ட சதைகளாக`, `ரிஷிப் பிண்டம் இராத்தங்காது`, `குளங் கொண்டவனைப்`, `வெறும் வெத்து வேட்டுக்கள்தான்`; continues to 160. |
+| 160 | 151 | காட்சி 43 | continuation | verified | Enlarged-source gate resolved `குடல் கருகிச் செத்த`, `கன்னியர் சூழ் கட்டிலறையும்`; final utterance continues to 161. |
+| 161 | 152 | காட்சி 43 | continuation | verified | Begins continuation of `அர:`; targeted source forms `சுயமரியாதைத் தனமும்`, `சூறாவளி வேகத்திலே`, `நமது வாலை!`. |
+| 162 | 153 | காட்சி 43 / 44 / 45 / 46 | multiple transitions | verified | Scene 43 closes; scenes 44 and 45 each begin and close; scene 46 begins; final stage direction continues. |
+| 163 | 154 | காட்சி 46 | continuation | verified | Completes scan-162 stage direction; source form `கொலுமண்டபத்துப்`; scene continues. |
+| 164 | 155 | காட்சி 46 | continuation | verified | Enlarged source confirms anomalous `இந்தத் துப்பாக்கியின் யார் என்று காட்டப் போகிறேன்!`; retained without semantic repair. |
+| 165 | 156 | காட்சி 46 | continuation | verified | Offstage source label `குரல்:`; `ஜனநாயகத்தின் முன்னோடும் பிள்ளை`; copy mark over `சபை` resolved by surviving strokes and same-font comparison. |
+| 166 | 157 | காட்சி 46 | continuation | verified | Source form `உத்திரவை`; final `அர:` utterance continues onto scan 167. |
+| 167 | 158 | காட்சி 46 | continuation | verified | Begins continuation; source-visible joined `சீமான்கள் சபையிலேஅந்த`; final utterance continues. |
+| 168 | 159 | காட்சி 46 | continuation | verified | Begins continuation; source-visible `முடிக்க முடியாதகாரியத்தை`, `பத்தாம்பசலி`; final utterance continues to 169. |
+| 169 | 160 | காட்சி 46 / காட்சி 47 | final dramatic page | verified | Scene 46 closes; final `காட்சி 47` begins and closes; source-visible `(முடிவுற்றது)`. |
+| 170 | — | back matter | publisher catalogue / advertisement | verified | Final physical scan; headed `கலைஞரின் சிறப்புமிகு நூல்கள்`; publisher catalogue and address archived in `pages/0170.md`. |
 
 ## Source-boundary safeguard
 
-The conversation preview exposed only scans 1–150, but raw-PDF inspection establishes **170 scans** and visually confirms scans 151–170. Do not truncate future processing at scan 150.
+The conversation preview exposed only scans 1–150, but direct raw-PDF inspection establishes **170 physical scans**. Scans 151–170 were rendered and reconciled from the raw controlling PDF; scan 150 is not the source end.
 
-## Current checkpoint
+## Final checkpoint
 
-- Front matter scans **1–13: 13 / 13 verified**.
-- Dramatic scans **14–140: 127 / 127 verified**.
-- Overall page-level verification: **140 / 170**.
-- `காட்சி 1` through `காட்சி 40`: page-level source transcription complete.
-- `காட்சி 40`: closes on scan 140; `காட்சி 41` begins on scan 141.
-- Durable page records: `../pages/0001.md` through `../pages/0140.md`.
-- Scans 116–140 passed a dedicated enlarged-source fidelity gate with **0 unresolved readings**.
+- Front matter scans **1–13: 13 / 13 VERIFIED**.
+- Dramatic body scans **14–169: 156 / 156 VERIFIED**.
+- Back matter scan **170: VERIFIED**.
+- Overall page-level verification: **170 / 170 COMPLETE**.
+- `காட்சி 1` through `காட்சி 47`: page-level source transcription complete.
+- Durable page records: `../pages/0001.md` through `../pages/0170.md`.
+- Final aggregate gate: `../SCANS_0141_0170_VERIFICATION.md` — **30 / 30 VERIFIED, 0 unresolved readings**.
 
-See `../SCANS_0015_0039_VERIFICATION.md`, `../SCANS_0041_0065_VERIFICATION.md`, `../SCANS_0066_0090_VERIFICATION.md`, `../SCANS_0091_0115_VERIFICATION.md`, and `../SCANS_0116_0140_VERIFICATION.md`.
-
-## Exact next activity
-
-Process the next requested 25-page iteration: **scans 141–165**, beginning with **scan 141 / printed page 132 / காட்சி 41 opening**. Preserve physical continuities, exact source wording, punctuation, speaker labels, stage directions and old/source forms; promote pages to `verified` only after direct reconciliation.
-
-English translation remains outside the currently authorized phase.
+Scene assembly has **not started**. English translation is **not authorized / not started**. These are separate later phases and must not begin automatically.
