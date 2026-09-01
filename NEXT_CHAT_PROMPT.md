@@ -27,7 +27,13 @@ Before any write, read completely:
 7. `works/cheran-senguttuvan/scenes/02.md`
 8. `works/cheran-senguttuvan/scenes/03.md`
 9. `works/cheran-senguttuvan/scenes/04.md`
-10. the relevant Cheran page/assembly fidelity reviews where a source-sensitive reading needs confirmation
+10. `works/cheran-senguttuvan/translations/en/README.md`
+11. `works/cheran-senguttuvan/translations/en/01.md`
+12. `works/cheran-senguttuvan/translations/en/02.md`
+13. `works/cheran-senguttuvan/translations/en/03.md`
+14. `works/cheran-senguttuvan/translations/en/04.md`
+15. `works/cheran-senguttuvan/translations/en/TRANSLATION_REVIEW.md`
+16. relevant Cheran scene/page fidelity reviews where a source-sensitive form needs confirmation
 
 Then re-fetch live `main` immediately before the first write.
 
@@ -42,64 +48,55 @@ The composite `கலைஞரின் நான்மணி மாலை` Tami
 
 ## English translation state
 
+Independent English translation of the four `நான்மணி மாலை` plays is now **4/4 COMPLETE**.
+
 - `பரதாயணம்` — independent English **PASS / COMPLETE**;
 - `அனார்கலி` — independent English **4/4 COMPLETE; translation review PASS; 2009 secondary-witness comparison PASS / COMPLETE**;
 - `சாக்ரடீஸ்` — independent English **introductory note + 5/5 COMPLETE; translation review PASS; 2009 secondary-witness comparison PASS / COMPLETE**;
-- `சேரன் செங்குட்டுவன்` — independent English **pending**.
+- `சேரன் செங்குட்டுவன்` — independent English **4/4 COMPLETE; translation review PASS**.
 
-### Socrates closed English checkpoint
+## Cheran independent-English checkpoint
 
-- `works/socrates/translations/en/00-introduction.md` and `01.md`–`05.md` — independent translation, translation-reviewed;
-- `works/socrates/translations/en/TRANSLATION_REVIEW.md` — **PASS**;
-- `works/socrates/translations/en/SECONDARY_WITNESS_COMPARISON.md` — **PASS / COMPLETE**.
+Files:
 
-The 2009 published-English `Socrates` witness was consulted only after the independent translation had been locked. No published wording was automatically imported into the verified Tamil or independent English.
+- `works/cheran-senguttuvan/translations/en/01.md`;
+- `works/cheran-senguttuvan/translations/en/02.md`;
+- `works/cheran-senguttuvan/translations/en/03.md`;
+- `works/cheran-senguttuvan/translations/en/04.md`;
+- `works/cheran-senguttuvan/translations/en/TRANSLATION_REVIEW.md` — **PASS**;
+- `works/cheran-senguttuvan/translations/en/README.md`.
 
-Important comparison findings include intro `பல தகுதிகளுக்கும்` → `certain misdeeds`, source `அறிவுலக ஜோதியாக` → `an intellectual who enjoyed his life`, normalization of protected `சார் :` / `செடுக்கிறேனா` / `சாச்ரடீஸ்`, a published `281...221` variant, `நாழிகை`→minutes conversion, and final `அங்கிளிப்பியசு` / neighbouring-house `கோழிக் குஞ்சு` → `Asclepius / cock`. These remain witness differences, not revisions.
+These were drafted and reviewed only from the verified Tamil archive. The complete 2009 published-English `Cheran Senguttuvan` witness was deliberately not consulted during the independent phase.
 
-## Cheran verified Tamil checkpoint
+Protected independent-translation decisions include:
 
-Work directory: `works/cheran-senguttuvan/`.
-
-- scans **44–53** / printed pp. **39–48**;
-- Tamil page verification **10/10 COMPLETE**;
-- source-printed scenes **4**;
-- scene assembly **4/4 COMPLETE**;
-- all page-record ↔ scene fidelity gates **PASS**.
-
-Scene map:
-
-1. Scene 1 — scans **44–45** / pp.39–40;
-2. Scene 2 — scans **46–49** / pp.41–44;
-3. Scene 3 — scans **50–51** / pp.45–46;
-4. Scene 4 — scans **52–53** / pp.47–48.
-
-Protected final Scene-4 controls include:
-
-- source heading `காட்சி—4.`;
-- setting `குயிலாலுவம்`;
-- exact speaker-label/punctuation variants `சேர்:`, `சேர்;`, unusual `சேர்!`, `வில்லவன்:`, `வில்:`, `வில்!`, `கன:`;
-- source long dashes;
-- `ராம ராவணப் போர்?....`;
-- `புறப்படுவோம்—வில்லவா.`;
-- `கனக—விஜயா`;
-- `சொல்—இப்போது`;
-- centered final `- * -`.
+- Scene 1 pre-scene voice-over; `விஜ.` / `விஜ:` distinction; `புலி—வில்—கயல்` → `tiger—bow—fish`;
+- Scene 2 `சேரன்:` / `சேர:` and `புலவர்:` / `புல:` distinctions; long embedded martial-family recitation; conservative visible handling of `கட்டாணி முத்தாள்`, `ஆரணங்கு`, and `பனவெல்ல`;
+- Scene 3 `மண்டூக மன்னர்கள்` → `frog-kings`; Tamil self-respect and mobilization rhetoric; source-spaced `வேட்ட மங்கலம்`; final `*`;
+- Scene 4 `குயிலாலுவம்` → `Kuyilaluvam`; exact label variants `சேர்:`, `சேர்;`, `சேர்!`, `வில்லவன்:`, `வில்:`, `வில்!`, `கன:`; unconverted `நாழிகை`; source long dashes; final `- * -`.
 
 ## Exact next activity
 
-Run the **independent English translation phase for `சேரன் செங்குட்டுவன்`**.
+Run a **post-translation comparison of `சேரன் செங்குட்டுவன்` against the complete 2009 published-English `Cheran Senguttuvan` witness only**.
 
-Requirements:
+Only after confirming the independent translation checkpoint above, locate and read the complete Cheran published-English witness in the repository's `sources/one-act-plays-2009/` organization and its underlying verified physical-page records.
 
-- translate only from the verified Tamil scene assemblies;
-- translate all four scenes in source order;
-- preserve speaker structure, speaker-label distinctions, stage directions, repetitions, source-sensitive historical/political terminology, long-dash rhetoric and closing marks where textually meaningful;
-- do not silently collapse source label variants where they may encode distinct printed forms; document the English handling;
-- use verified page records only when a source-sensitive form or scene boundary needs clarification;
-- create `works/cheran-senguttuvan/translations/en/` with `README.md`, Scene `01.md`–`04.md`, and `TRANSLATION_REVIEW.md`;
-- do **not** consult or borrow wording from the complete 2009 published-English `Cheran Senguttuvan` witness during drafting or Tamil→English review;
-- only after independent translation review PASS may that published witness be opened for a separate comparison;
-- do **not** begin another work in the same activity.
+Compare:
 
-When I say **“Proceed with next activity”**, execute this exact Cheran independent-translation activity directly.
+- pre-scene `Silappathikaram` / Kannagi-stone framing;
+- four-scene coverage and order;
+- speaker-turn coverage and any label normalization;
+- stage directions and final marks;
+- Scene 1 `swayamvara`, Tamil-antiquity declaration, Ganges/Kaveri poem, `புலி—வில்—கயல்`, and northern ridicule;
+- Scene 2 domestic opening, complete embedded martial-family poem, father/husband/son sacrifice, honour rhetoric, source-sensitive poetic forms, northern challenge and sword/feet rhetoric;
+- Scene 3 tiger/bow/fish insult sequence, `மண்டூக மன்னர்கள்`, Tamil self-respect / internal-rivalry argument, literary/historical catalogue, mobilization speech and bodily-war imagery;
+- Scene 4 `குயிலாலுவம்`, exact speaker-label variants, disguise/ridicule sequence, eighteen-year/month/day/`நாழிகை` escalation, Tamil-soil forgiveness, thirty-two-month return, Kannagi stone and final oxen humiliation;
+- omissions, additions, compressions, normalization and material interpretive divergences.
+
+Create `works/cheran-senguttuvan/translations/en/SECONDARY_WITNESS_COMPARISON.md` according to repository convention.
+
+**Do not automatically rewrite** either the verified Tamil archive or the independent English translation because the published witness differs. Published alternatives are comparison evidence only.
+
+Do **not** begin another work in the same activity.
+
+When I say **“Proceed with next activity”**, execute this exact Cheran secondary-witness comparison directly.
