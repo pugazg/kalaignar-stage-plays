@@ -19,6 +19,7 @@ Work-level archival entry for Kalaignar's one-act play **`சாக்ரடீ�
 - independent English introductory note: **COMPLETE**;
 - independent English scenes: **5/5 COMPLETE**;
 - Tamil→English translation review: **PASS**;
+- 2009 published-English secondary-witness comparison: **PASS / COMPLETE**;
 - unresolved English translation blocks: **0**.
 
 Scene map:
@@ -50,9 +51,10 @@ Files:
 - [`translations/en/00-introduction.md`](translations/en/00-introduction.md) — verified introductory-note translation;
 - [`translations/en/01.md`](translations/en/01.md) through [`translations/en/05.md`](translations/en/05.md) — five independent English scenes;
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) — **PASS**;
+- [`translations/en/SECONDARY_WITNESS_COMPARISON.md`](translations/en/SECONDARY_WITNESS_COMPARISON.md) — **PASS / COMPLETE**;
 - [`translations/en/README.md`](translations/en/README.md) — translation authority/status record.
 
-The English was drafted and reviewed only from the verified Tamil archive. The complete 2009 published-English `Socrates` witness was **not consulted for wording** during independent translation or Tamil→English review.
+The English was drafted and reviewed only from the verified Tamil archive. The complete 2009 published-English `Socrates` witness was opened only after the independent translation and Tamil→English review were locked.
 
 Protected translation controls include:
 
@@ -64,14 +66,35 @@ Protected translation controls include:
 - source `முப்பத்தொரு வாக்குகள்` retained as `thirty-one votes` despite the same source printing `281—220`;
 - Scene 5 bare `: !........` kept unassigned;
 - source `சாச்ரடீஸ்` retained at its occurrence as `Sasrates`;
-- final creditor `அங்கிளிப்பியசு` retained as `Angilipiyas` without importing a famous external variant.
+- final creditor `அங்கிளிப்பியசு` retained as `Angilipiyas` without importing a famous external variant;
+- `நாழிகை` remains unconverted in the independent English.
+
+## 2009 witness comparison
+
+The completed comparison uses M. D. Jayabalan's published-English `Socrates` as recorded in `sources/one-act-plays-2009/pages/0150.md`–`0160.md`.
+
+Result: **PASS / COMPLETE** as a comparison layer. The witness preserves the introductory framing and all five scenes, but it is consistently freer and more normalizing than the independent archival translation.
+
+Material differences recorded include:
+
+- intro `பல தகுதிகளுக்கும்` → `certain misdeeds`;
+- source `அறிவுலக ஜோதியாக` replaced by `an intellectual who enjoyed his life`;
+- normalization of `ஹெகல்`, `சபைன்`, `சார் :`, `செடுக்கிறேனா`, and `சாச்ரடீஸ்`;
+- Scene-4 published `281...221` at one occurrence despite its own 281/220 count, while still retaining the source's `31 votes` statement;
+- conversion of `கால் நாழிகை` / `இரண்டு நாழிகை` into modern minutes;
+- final `அங்கிளிப்பியசு` / neighbouring-house `கோழிக் குஞ்சு` replaced by the familiar `Asclepius / cock` formulation;
+- several source `*` marks and stage-direction details omitted or compressed.
+
+No comparison finding altered the verified Tamil or the independent English files.
 
 ## Completion checkpoint
 
 **Tamil page-level verification and five-scene assembly for `சாக்ரடீஸ்` are complete: 17/17 pages, 5/5 scenes, all fidelity gates PASS.**
 
-**Independent English translation is also complete: introductory note + 5/5 scenes, translation review PASS, 0 unresolved translation blocks, 0 published-witness contamination.**
+**Independent English translation is complete: introductory note + 5/5 scenes, translation review PASS, 0 unresolved translation blocks, 0 published-witness contamination.**
+
+**Post-translation 2009 secondary-witness comparison is PASS / COMPLETE.**
 
 ## Next activity
 
-Run a **post-translation secondary-witness comparison** between the completed independent English translation and the complete 2009 published-English `Socrates` witness. Keep that comparison separate: record agreements, omissions, additions, normalization and interpretive differences without automatically changing either the verified Tamil archive or the independent English translation.
+Begin the **independent English translation of `சேரன் செங்குட்டுவன்`** from its verified Tamil archive. Keep its 2009 published-English witness unopened for wording until the independent translation and Tamil→English fidelity review are complete.
