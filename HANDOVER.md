@@ -24,38 +24,40 @@ Durable source identity:
 ### Current durable checkpoint
 
 - scans **1–13** front matter: **13 / 13 VERIFIED**;
-- scans **14–65** dramatic body: **52 / 52 VERIFIED**;
-- overall page-level status: **65 / 170 verified**;
-- durable page records: `works/manimagudam/pages/0001.md` through `0065.md`;
-- `காட்சி 1`–`காட்சி 13`: page-level transcription complete;
-- `காட்சி 14`: begins on scan 65 and remains in progress onto scan 66;
+- scans **14–90** dramatic body: **77 / 77 VERIFIED**;
+- overall page-level status: **90 / 170 verified**;
+- durable page records: `works/manimagudam/pages/0001.md` through `0090.md`;
+- `காட்சி 1`–`காட்சி 20`: page-level transcription complete;
+- `காட்சி 21`: begins on scan 85, is verified through scan 90, and remains in progress onto scan 91;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 Completed fidelity records:
 
 - `works/manimagudam/SCANS_0015_0039_VERIFICATION.md` — PASS / COMPLETE;
-- `works/manimagudam/SCANS_0041_0065_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved readings**.
+- `works/manimagudam/SCANS_0041_0065_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved readings**;
+- `works/manimagudam/SCANS_0066_0090_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved readings**.
 
-The latter records source-supported corrections including `பரவ விடாமல்`, `மன்றத்தினர்`, `அரசனிடம்`, `சம்மந்தி உறவும்`, `தேவைப்படுகிற`, `பாடையில் ஏறும் வரையில்`, `தங்கைகளில்`, and `அனாதைக் குடிசையைக்`. Unusual source forms `குஷிமிக்க வேண்டும்!`, `மன்னிடம் பணி செய்கிறோம்`, and `அக்கரை` were inspected and intentionally retained.
+The scans 66–90 gate records scan-supported corrections including `பொன்மலர்`, `நாங்க படிக்கணும்.`, `கோரதாண்டவம்`, `என்றைக்கு`, `அந்த லட்சணங்கள் அத்தனையும்`, `பின்னடைந்து போனவரின்`, `அரச பதவியைத் துறந்து விட்டார்!`, and `அது பெரிய ஆபத்து அமைச்சரே!`. Unusual printed forms `அந்த மலரை மட்டும் பறிப்பாளேன்?` and `இதுபோன்ற தேய்ந்து போனதுகள்` were inspected and intentionally retained.
 
-### Scene checkpoint through scan 65
+### Scene checkpoint through scan 90
 
-- `காட்சி 7`: closes scan 44.
-- `காட்சி 8`: scan 44–49.
-- `காட்சி 9`: scan 49–50.
-- `காட்சி 10`: scan 50–55.
-- `காட்சி 11`: scan 55–58.
-- `காட்சி 12`: scan 58–59.
-- `காட்சி 13`: scan 60–65.
-- `காட்சி 14`: begins scan 65, continues scan 66.
+- `காட்சி 14`: closes scan 68.
+- `காட்சி 15`: scan 68–70.
+- `காட்சி 16`: scan 70–74.
+- `காட்சி 17`: scan 74–75.
+- `காட்சி 18`: scan 76–80.
+- `காட்சி 19`: scan 80–81.
+- `காட்சி 20`: scan 81–85.
+- `காட்சி 21`: begins scan 85; verified through scan 90; continues scan 91.
 
 Important physical continuities in the completed batch:
 
-- scan 40→41 and 41→42 continue புதுமைப்பித்தன் without repeated speaker labels;
-- scan 57→58 breaks குணசீலர் after `சீமான்களுக்கு`;
-- scan 63→64 breaks அரசன் after `ஆயிரக்கணக்கான`, resuming `பவுன்கள்`;
-- scan 65 closes scene 13 and begins scene 14.
+- scan 73→74 continues புதுமைப்பித்தன் across the physical break;
+- scan 74→75 continues the newspaper quotation;
+- scan 80→81 continues the minister without a repeated speaker label;
+- scan 85→86 continues குணசீலர் after `எதுவுமே` without a repeated label;
+- scan 90→91 carries an incomplete stage direction into the next physical scan.
 
 ### Source-boundary safeguard
 
@@ -72,15 +74,15 @@ Do not silently merge these into one reconstructed history. The 1962 statement r
 
 ### Exact next activity
 
-Process the next user-requested **25-page iteration: scans 66–90**.
+Process the next user-requested **25-page iteration: scans 91–115**.
 
-Start at **scan 66 / printed page 57 / `காட்சி 14` continuation** and continue sequentially through scan 90. For every page:
+Start at **scan 91 / printed page 82 / `காட்சி 21` continuation** and continue sequentially through scan 115. For every page:
 
 1. inspect the controlling scan directly;
 2. preserve speaker labels, punctuation, stage directions, source/old forms and physical page boundaries;
 3. record printed pagination only when directly visible;
 4. use enlarged-source adjudication for difficult readings;
-5. create durable `pages/0066.md` through `pages/0090.md` records;
+5. create durable `pages/0091.md` through `pages/0115.md` records;
 6. create a batch fidelity/verification record and update page map / checkpoint docs only after the 25-page gate passes.
 
 Do not begin English translation unless explicitly authorized.

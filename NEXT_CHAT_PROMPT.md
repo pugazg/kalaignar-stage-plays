@@ -16,7 +16,8 @@ Before changing anything, read completely:
 6. `works/manimagudam/indexes/page-map.md`;
 7. `works/manimagudam/SCANS_0015_0039_VERIFICATION.md`;
 8. `works/manimagudam/SCANS_0041_0065_VERIFICATION.md`;
-9. `works/manimagudam/pages/0065.md`.
+9. `works/manimagudam/SCANS_0066_0090_VERIFICATION.md`;
+10. `works/manimagudam/pages/0090.md`.
 
 ## Active work — மணிமகுடம்
 
@@ -33,22 +34,24 @@ A conversation preview exposed only the first 150 pages, but raw-PDF inspection 
 ## Completed archival checkpoint
 
 - scans 1–13: **front matter VERIFIED**;
-- scans 14–65: **dramatic body VERIFIED**;
-- overall: **65 / 170 verified**;
-- durable page records: `works/manimagudam/pages/0001.md` through `0065.md`;
-- `காட்சி 1`–`காட்சி 13`: page-level transcription complete;
-- `காட்சி 14`: begins on scan 65 and continues onto scan 66;
-- scans 41–65 fidelity gate: **25 / 25 PASS / COMPLETE**, **0 unresolved readings**.
+- scans 14–90: **dramatic body VERIFIED**;
+- overall: **90 / 170 verified**;
+- durable page records: `works/manimagudam/pages/0001.md` through `0090.md`;
+- `காட்சி 1`–`காட்சி 20`: page-level transcription complete;
+- `காட்சி 21`: begins on scan 85, is verified through scan 90, and continues onto scan 91;
+- scans 66–90 fidelity gate: **25 / 25 PASS / COMPLETE**, **0 unresolved readings**.
 
-Do not reintroduce superseded batch draft readings without new clear scan evidence. The durable fidelity record is `works/manimagudam/SCANS_0041_0065_VERIFICATION.md`.
+Do not reintroduce superseded batch draft readings without new clear scan evidence. The durable fidelity record is `works/manimagudam/SCANS_0066_0090_VERIFICATION.md`.
+
+Important deliberately retained scan forms include `அந்த மலரை மட்டும் பறிப்பாளேன்?` and `இதுபோன்ற தேய்ந்து போனதுகள்`.
 
 ## Exact next activity — 25-page iteration
 
-Process **scans 66–90**, starting with **scan 66 / printed page 57 / `காட்சி 14` continuation**.
+Process **scans 91–115**, starting with **scan 91 / printed page 82 / `காட்சி 21` continuation**.
 
 For the complete batch:
 
-- create `works/manimagudam/pages/0066.md` through `0090.md`;
+- create `works/manimagudam/pages/0091.md` through `0115.md`;
 - inspect every controlling scan directly;
 - preserve speaker labels, punctuation, stage directions, old/source forms and physical page boundaries;
 - record printed pagination only when directly visible;

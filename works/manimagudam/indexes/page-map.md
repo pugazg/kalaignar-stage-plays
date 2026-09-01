@@ -71,7 +71,33 @@ Printed pagination is recorded only when directly visible. The raw PDF contains 
 | 63 | 54 | காட்சி 13 | continuation | verified | பொன்னழகன் revealed; source-supported `அனாதைக் குடிசையைக்`; utterance ends `ஆயிரக்கணக்கான`. |
 | 64 | 55 | காட்சி 13 | continuation | verified | Begins physical continuation `பவுன்கள்`; அரசன் questions கலாராணி and summons உலகப்பன். |
 | 65 | 56 | காட்சி 13 / காட்சி 14 | close + opening | verified | Scene 13 closes; `காட்சி 14` begins with வஞ்சி / உலகப்பன் and continues onto scan 66. |
-| 66–144 | pending | dramatic body | dialogue / stage directions | not-started | Next requested 25-page iteration begins at scan 66 / printed page 57 / `காட்சி 14` continuation. |
+| 66 | 57 | காட்சி 14 | continuation | verified | Continues `காட்சி 14` with வஞ்சி / உலகப்பன் dialogue. |
+| 67 | 58 | காட்சி 14 | continuation | verified | Continues `காட்சி 14`; வஞ்சி / உலகப்பன் exchange. |
+| 68 | 59 | காட்சி 14 / காட்சி 15 | close + opening | verified | `காட்சி 14` closes; `காட்சி 15` begins on the same physical scan. |
+| 69 | 60 | காட்சி 15 | continuation | verified | Continues `காட்சி 15`; அரசன் / உலகப்பன் sequence and புதுமைப்பித்தன் / கருப்பு ரோஜா exchange. |
+| 70 | 61 | காட்சி 15 / காட்சி 16 | close + opening | verified | `காட்சி 15` closes; `காட்சி 16` begins on the same physical scan. |
+| 71 | 62 | காட்சி 16 | continuation | verified | Continues `காட்சி 16`. |
+| 72 | 63 | காட்சி 16 | continuation | verified | Continues `காட்சி 16`. |
+| 73 | 64 | காட்சி 16 | continuation | verified | Continues `காட்சி 16`; final புதுமைப்பித்தன் utterance physically continues onto scan 74. |
+| 74 | 65 | காட்சி 16 / காட்சி 17 | close + opening | verified | Begins by continuing புதுமைப்பித்தன் from scan 73; `காட்சி 16` closes and `காட்சி 17` begins. The newspaper quotation continues onto scan 75. |
+| 75 | 66 | காட்சி 17 | scene close | verified | Begins with the continuation of the newspaper quotation from scan 74; `காட்சி 17` closes. |
+| 76 | 67 | காட்சி 18 | scene opening | verified | `காட்சி 18` begins. |
+| 77 | 68 | காட்சி 18 | continuation | verified | Continues `காட்சி 18`. |
+| 78 | 69 | காட்சி 18 | continuation | verified | Continues `காட்சி 18`. |
+| 79 | 70 | காட்சி 18 | continuation | verified | Continues `காட்சி 18`. |
+| 80 | 71 | காட்சி 18 / காட்சி 19 | close + opening | verified | `காட்சி 18` closes; `காட்சி 19` begins on the same physical scan. |
+| 81 | 72 | காட்சி 19 / காட்சி 20 | close + opening | verified | Begins by continuing the minister's utterance from scan 80 without a repeated speaker label; `காட்சி 19` closes and `காட்சி 20` begins. |
+| 82 | 73 | காட்சி 20 | continuation | verified | Continues `காட்சி 20`. |
+| 83 | 74 | காட்சி 20 | continuation | verified | Continues `காட்சி 20`. |
+| 84 | 75 | காட்சி 20 | continuation | verified | Continues `காட்சி 20`. |
+| 85 | 76 | காட்சி 20 / காட்சி 21 | close + opening | verified | `காட்சி 20` closes; `காட்சி 21` begins. The final குணசீலர் utterance ends with `எதுவுமே` and continues onto scan 86. |
+| 86 | 77 | காட்சி 21 | continuation | verified | Begins by continuing குணசீலர்'s scan-85 utterance without a repeated speaker label; `காட்சி 21` continues. |
+| 87 | 78 | காட்சி 21 | continuation | verified | Continues `காட்சி 21`. |
+| 88 | 79 | காட்சி 21 | continuation | verified | Continues `காட்சி 21`. |
+| 89 | 80 | காட்சி 21 | continuation | verified | Continues `காட்சி 21`. |
+| 90 | 81 | காட்சி 21 | continuation | verified | Continues `காட்சி 21`; the final stage direction is physically incomplete and continues onto scan 91. |
+
+| 91–144 | pending | dramatic body | dialogue / stage directions | not-started | Next requested 25-page iteration begins at scan 91 / printed page 82 / `காட்சி 21` continuation. |
 | 145 | 136 | காட்சி 42 | scene opening | not-started | `காட்சி 42` visibly begins. |
 | 146–151 | 137–142 visible in intake survey | காட்சி 42 continuation | dialogue / stage directions | not-started | Detailed transcription pending. |
 | 152 | 143 | காட்சி 43 | scene opening | not-started | `காட்சி 43` visibly begins. |
@@ -88,17 +114,17 @@ The conversation preview exposed only scans 1–150, but raw-PDF inspection esta
 ## Current checkpoint
 
 - Front matter scans **1–13: 13 / 13 verified**.
-- Dramatic scans **14–65: 52 / 52 verified**.
-- Overall page-level verification: **65 / 170**.
-- `காட்சி 1` through `காட்சி 13`: page-level source transcription complete.
-- `காட்சி 14`: begins on scan 65 and remains in progress onto scan 66.
-- Durable page records: `../pages/0001.md` through `../pages/0065.md`.
-- Scans 41–65 passed a dedicated enlarged-source fidelity gate with **0 unresolved readings**.
+- Dramatic scans **14–90: 77 / 77 verified**.
+- Overall page-level verification: **90 / 170**.
+- `காட்சி 1` through `காட்சி 20`: page-level source transcription complete.
+- `காட்சி 21`: begins on scan 85, is verified through scan 90, and remains in progress onto scan 91.
+- Durable page records: `../pages/0001.md` through `../pages/0090.md`.
+- Scans 66–90 passed a dedicated enlarged-source fidelity gate with **0 unresolved readings**.
 
-See `../SCANS_0015_0039_VERIFICATION.md` and `../SCANS_0041_0065_VERIFICATION.md`.
+See `../SCANS_0015_0039_VERIFICATION.md`, `../SCANS_0041_0065_VERIFICATION.md`, and `../SCANS_0066_0090_VERIFICATION.md`.
 
 ## Exact next activity
 
-Process the next requested 25-page iteration: **scans 66–90**, beginning with **scan 66 / printed page 57 / காட்சி 14 continuation**. Preserve physical continuities, exact source wording, punctuation, speaker labels, stage directions and old/source forms; promote pages to `verified` only after direct reconciliation.
+Process the next requested 25-page iteration: **scans 91–115**, beginning with **scan 91 / printed page 82 / காட்சி 21 continuation**. Preserve physical continuities, exact source wording, punctuation, speaker labels, stage directions and old/source forms; promote pages to `verified` only after direct reconciliation.
 
 English translation remains outside the currently authorized phase.
