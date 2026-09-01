@@ -13,31 +13,32 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 | [அனார்கலி](works/anarkali/) | **Tamil 9/9; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சாக்ரடீஸ்](works/socrates/) | **Tamil 17/17; 5/5 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil 10/10; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
-| [மணிமகுடம்](works/manimagudam/) | **ACTIVE — 145/170 scans verified; காட்சி 1–41 page-level complete; next mini-batch scans 146–150** |
+| [மணிமகுடம்](works/manimagudam/) | **Tamil page-level archive 170/170 COMPLETE; காட்சி 1–47 page-level complete; scene assembly not started; English not started** |
 
-## Active repository phase — மணிமகுடம்
+## மணிமகுடம் — completed page-level Tamil archival phase
 
 Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 
 - SHA-256: `a629509c3404fcc5c2844f5b693e72a41aca03ad2e2494588807af4ff8f16f3b`;
 - file size: **187,091,728 bytes**;
-- physical PDF pages: **170**;
-- scans 1–13: front matter — **VERIFIED**;
-- scans 14–145: dramatic body — **VERIFIED**;
-- overall: **145 / 170 verified**;
-- `காட்சி 1`–`காட்சி 41`: page-level complete;
-- `காட்சி 41`: closes on scan 144;
-- `காட்சி 42`: begins scan 145 / printed page 136 and continues onto scan 146;
-- scans 141–145 mini-gate: **5/5 PASS / COMPLETE, 0 unresolved readings**;
-- next simplified source task: **scans 146–150**;
-- scan 169: printed page 160, `காட்சி 47`, source-visible closure `(முடிவுற்றது)`;
-- scan 170: back-cover publisher catalogue / advertisement.
+- physical PDF scans: **170**;
+- scans 1–13: front matter — **13 / 13 VERIFIED**;
+- scans 14–169: dramatic body — **156 / 156 VERIFIED**;
+- scan 170: back matter — **VERIFIED**;
+- overall page-level archive: **170 / 170 COMPLETE**;
+- durable page records: `works/manimagudam/pages/0001.md` through `0170.md`;
+- `காட்சி 1` through `காட்சி 47`: page-level source transcription complete;
+- scan 169 / printed page 160: final dramatic page, ending source-visible `(முடிவுற்றது)`;
+- scan 170: verified publisher catalogue / advertisement;
+- scans 161–170 final gate: **10 / 10 VERIFIED, 0 unresolved readings**;
+- scans 141–170 aggregate final gate: **30 / 30 VERIFIED, 0 unresolved readings**;
+- `works/manimagudam/indexes/page-map.md`: synchronized through **170 / 170 COMPLETE**.
 
-A conversation preview exposed only 150 pages, but raw-PDF inspection established 170 physical scans. Never truncate this work at scan 150.
+A conversation preview exposed only 150 pages, but raw-PDF inspection established 170 physical scans. Scans 151–170 were rendered and reconciled directly from the raw controlling PDF.
 
-See `works/manimagudam/README.md`, `metadata/source.md`, the verification records, and `pages/0001.md` through `pages/0145.md`. The large `indexes/page-map.md` will be fully synchronized by the aggregate scans 141–170 closure; interim durable progress is controlled by the committed page files, mini-batch verification records, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md`.
+See `works/manimagudam/README.md`, `works/manimagudam/indexes/page-map.md`, `works/manimagudam/SCANS_0141_0170_VERIFICATION.md`, and the durable page records.
 
-English translation is not part of the currently authorized `மணிமகுடம்` phase.
+Scene assembly has **not started**. English translation is **not authorized / not started**. Neither phase should begin automatically.
 
 ## Closed `கலைஞரின் நான்மணி மாலை` checkpoint
 
