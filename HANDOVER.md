@@ -24,19 +24,30 @@ Durable source identity:
 ### Current durable checkpoint
 
 - scans **1–13** front matter: **13 / 13 VERIFIED**;
-- scans **14–39** dramatic body: **26 / 26 VERIFIED**;
-- overall page-level status: **39 / 170 verified**;
-- durable page records: `works/manimagudam/pages/0001.md` through `0039.md`;
+- scans **14–40** dramatic body: **27 / 27 VERIFIED**;
+- overall page-level status: **40 / 170 verified**;
+- durable page records: `works/manimagudam/pages/0001.md` through `0040.md`;
 - `காட்சி 1`–`காட்சி 6`: page-level transcription complete;
-- `காட்சி 7`: begins on scan 39 and remains in progress;
+- `காட்சி 7`: begins on scan 39 and is verified through scan 40; it remains in progress onto scan 41;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-The 25-scan batch 15–39 received a final enlarged-source fidelity pass before commit. The correction log is durable at:
+The 25-scan batch 15–39 passed an enlarged-source fidelity gate. Correction log:
 
 `works/manimagudam/SCANS_0015_0039_VERIFICATION.md`.
 
-Important source-supported corrected forms include `எலும்பு உடலினர்`, `ஏறத்தாழ`, `முல்லை அரும்புகள்`, `குமுறியெழும் வறுமைத் தீயை`, `எலும்பாய்த் தேய்ந்து, எறும்பாய் உழைத்து`, `தேர்களாய்`, `புகையும் எரிமலை`, and `நிர்மூலமாக்கப்பட்டு`.
+Important source-supported forms include `எலும்பு உடலினர்`, `ஏறத்தாழ`, `முல்லை அரும்புகள்`, `குமுறியெழும் வறுமைத் தீயை`, `எலும்பாய்த் தேய்ந்து, எறும்பாய் உழைத்து`, `தேர்களாய்`, `புகையும் எரிமலை`, and `நிர்மூலமாக்கப்பட்டு`.
+
+### Scan 40 checkpoint
+
+`works/manimagudam/pages/0040.md` is **VERIFIED**.
+
+- printed page: **31**;
+- scene: **காட்சி 7**;
+- scan 39 ends அல்லி's utterance at `தவிக்கப் போகும்`; scan 40 physically continues `தாங்கொணாத வேதனைக்காட்சிகளைத் தான் நாம் காண வேண்டும்.`;
+- scan 40 records பொன்னழகன் / புதுமைப்பித்தன் dialogue;
+- source forms such as `இதோபதேசம்`, `நாகரீகத்தைப்`, and spaced `அப்போது தான்` are retained as printed;
+- the final புதுமைப்பித்தன் speaker turn continues at the top of scan 41 without a repeated speaker label.
 
 ### Source-boundary safeguard
 
@@ -53,13 +64,13 @@ Do not silently merge these into one reconstructed history. The 1962 statement r
 
 ### Exact next activity
 
-Process **scan 40 / காட்சி 7 continuation** only:
+Process **scan 41 / printed page 32 / காட்சி 7 continuation** only:
 
 1. inspect the controlling scan directly;
-2. create `works/manimagudam/pages/0040.md`;
-3. preserve the physical continuation from the open அல்லி utterance on scan 39;
+2. create `works/manimagudam/pages/0041.md`;
+3. preserve the physical continuation of புதுமைப்பித்தன்'s speaker turn from scan 40;
 4. preserve speaker labels, punctuation, stage directions and source forms;
-5. record printed pagination only if directly visible on scan 40;
+5. record printed page **32** only because it is directly visible on scan 41;
 6. update page map and checkpoint docs after reconciliation.
 
 Do not begin English translation unless explicitly authorized.
