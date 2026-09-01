@@ -34,7 +34,6 @@ Durable source identity:
 - SHA-256: `a629509c3404fcc5c2844f5b693e72a41aca03ad2e2494588807af4ff8f16f3b`;
 - file size: **187,091,728 bytes**;
 - physical PDF pages: **170**;
-- scan 14: **காட்சி 1** begins;
 - scan 145: **காட்சி 42** begins;
 - scan 152: **காட்சி 43** begins;
 - scan 162: **காட்சி 44 / 45 / 46** begin on the same physical page;
@@ -45,17 +44,22 @@ Durable source identity:
 
 A conversation preview exposed only the first **150** pages, but raw-PDF inspection establishes **170 physical pages** and the extra scans 151–170 have been directly rendered and inspected. Never treat scan 150 as the source end.
 
-## Completed front-matter checkpoint
+## Completed archival checkpoint
 
-Scans **1–13 are 13 / 13 VERIFIED**.
+- Front matter scans **1–13: 13 / 13 VERIFIED**.
+- Scan **14 / காட்சி 1 opening: VERIFIED**.
+- Durable page records: `works/manimagudam/pages/0001.md` through `works/manimagudam/pages/0014.md`.
+- Overall Tamil page-level status: **14 / 170 verified**.
+- `காட்சி 1`: **in progress**.
 
-Durable page records:
+Scan 14 source-boundary detail:
 
-`works/manimagudam/pages/0001.md` through `works/manimagudam/pages/0013.md`.
+- no printed page number is visible and none is inferred;
+- the final stage direction ends physically after `அந்தப் பக்கம்`;
+- scan 15 begins the continuation `வருகிறான்.`;
+- scan 15 visibly carries printed page **6**.
 
-The batch covers the colour cover, photographic front matter/captions, குறிஞ்சி சுப்பிரமணியன் introductory note, title/imprint page, `பதிப்புரை`, and both `என்னுரை` pages. No unresolved reading remains in these 13 scans.
-
-Overall Tamil page-level status: **13 / 170 verified**.
+No unresolved reading remains in scans 1–14 at this checkpoint.
 
 ### Catalog/source provenance safeguard
 
@@ -70,13 +74,14 @@ Do not silently force these statements into a single reconstructed history.
 
 ## Exact next activity
 
-Process **scan 14 / காட்சி 1** as the next source page.
+Process **scan 15 / printed page 6 / காட்சி 1 continuation** only.
 
-- create `works/manimagudam/pages/0014.md`;
+- create `works/manimagudam/pages/0015.md`;
 - inspect the controlling scan directly;
-- transcribe the complete scene-opening wording exactly as printed;
+- begin with the physical continuation `வருகிறான்.` from the open stage direction on scan 14;
+- transcribe the complete scan exactly as printed;
 - preserve speaker labels, punctuation, stage directions and source forms;
-- record a printed page number only if directly visible; do not infer one from scan 15;
+- record printed page **6** because it is directly visible;
 - use `verified` only after the complete physical page has been visually reconciled;
 - update `works/manimagudam/indexes/page-map.md`, `works/manimagudam/README.md`, `HANDOVER.md`, and this prompt at the checkpoint.
 
