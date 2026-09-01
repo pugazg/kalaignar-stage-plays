@@ -67,10 +67,25 @@ Direct visual inspection against the user-supplied transcription confirms:
 - no printed page number or date is visible;
 - no library stamp, accession number or later handwriting is visible; ordinary surface speckling/show-through is non-authorial.
 
+## `பதிப்புரை` verification — scan 5
+
+Direct visual inspection against the user-supplied transcription confirms:
+
+- the heading is **`பதிப்புரை`**;
+- the user-supplied lexical wording is retained without substitution;
+- source hyphen-like separators in the descriptive prose are long dashes; these are recorded as `—`;
+- `அனார்கலி—சாக்ரடீஸ்—சேரன் செங்குட்டுவன்` is printed without spaces around the internal dashes;
+- the source prints `இந்நூல்!` and `வழங்குகிறோம்!` without a space before the exclamation mark;
+- the closing appeal is `என்றும்போல் ஆதரவு தருக — ஆக்கம் பெருகிட;`;
+- the publisher sign-off is preceded by a long dash and is recorded as **`— தமிழ்க்கனி பதிப்பகத்தார்.`**;
+- around the quoted `சிறு நாடக...` phrase, the source closing-quote boundary interacts with the word ending; under the user's explicit instruction to keep supplied words, **`நாடகங்களின்`** is retained rather than lexically rewritten;
+- no printed page number or date is visible;
+- no library stamp, accession number or later handwriting is visible; ordinary surface speckling/show-through is non-authorial.
+
 ## Front matter and contents survey
 
 - Scan 4: `என்னுரை`; page-level archival record [`../pages/0004.md`](../pages/0004.md) is **verified**.
-- Scan 5: `பதிப்புரை`; it explicitly describes the volume as a collection of four short plays and names **பரதாயணம்**, **அனார்கலி**, **சாக்ரடீஸ்**, and **சேரன் செங்குட்டுவன்**; direct page-level verification remains pending.
+- Scan 5: `பதிப்புரை`; page-level archival record [`../pages/0005.md`](../pages/0005.md) is **verified**. It describes the volume as a collection of four short plays and names **பரதாயணம்**, **அனார்கலி**, **சாக்ரடீஸ்**, and **சேரன் செங்குட்டுவன்**.
 - Scans 6–17: **பரதாயணம்**.
 - Scans 18–26: **அனார்கலி**.
 - Scans 27–43: **சாக்ரடீஸ்**.
@@ -101,7 +116,7 @@ Direct visual inspection confirms:
 
 - Colour scan of aged cream paper with variable contrast, speckling and mild reverse-side show-through.
 - Decorative title bars and illustrated front/back covers are part of the printed edition and must be represented in the archive.
-- Composite-source page records are now verified for scans **1–4 and 54**; only shared front-matter scan **5** remains pending at page level.
+- Composite-source front/outer-matter page records are verified for scans **1–5 and 54**. Together with the completed work records for scans **6–53**, the repository now has representation for all **54/54 physical scans**.
 - Some type forms are old-style Tamil glyphs; Unicode transcription must follow the actual letters represented by those glyphs rather than OCR appearance.
 - The source PDF does not provide reliable parsed text for archival use.
 
