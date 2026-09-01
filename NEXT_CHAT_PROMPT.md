@@ -22,17 +22,15 @@ Before any write, read completely:
 2. `HANDOVER.md`
 3. `NEXT_CHAT_PROMPT.md`
 4. root `README.md`
-5. `works/anarkali/README.md`
-6. `works/anarkali/scenes/01.md`
-7. `works/anarkali/scenes/02.md`
-8. `works/anarkali/scenes/03.md`
-9. `works/anarkali/scenes/04.md`
-10. `works/anarkali/translations/en/README.md`
-11. `works/anarkali/translations/en/01.md`
-12. `works/anarkali/translations/en/02.md`
-13. `works/anarkali/translations/en/03.md`
-14. `works/anarkali/translations/en/04.md`
-15. `works/anarkali/translations/en/TRANSLATION_REVIEW.md`
+5. `works/socrates/README.md`
+6. `works/socrates/INTRO_RECONCILIATION.md`
+7. verified Socrates Tamil introductory-note page records for scans **27–28**
+8. `works/socrates/scenes/01.md`
+9. `works/socrates/scenes/02.md`
+10. `works/socrates/scenes/03.md`
+11. `works/socrates/scenes/04.md`
+12. `works/socrates/scenes/05.md`
+13. the relevant Socrates page/assembly fidelity reviews where a source-sensitive reading needs confirmation
 
 Then re-fetch live `main` immediately before the first write.
 
@@ -48,48 +46,34 @@ The composite `கலைஞரின் நான்மணி மாலை` Tami
 ## English translation state
 
 - `பரதாயணம்` — independent English **PASS / COMPLETE**;
-- `அனார்கலி` — independent English **4/4 scenes COMPLETE; translation review PASS**;
+- `அனார்கலி` — independent English **4/4 COMPLETE; translation review PASS; 2009 secondary-witness comparison PASS / COMPLETE**;
 - `சாக்ரடீஸ்` — independent English **pending**;
 - `சேரன் செங்குட்டுவன்` — independent English **pending**.
 
-### Anarkali independent English checkpoint
+### Anarkali closed English checkpoint
 
-Files:
-
-- `works/anarkali/translations/en/01.md`;
-- `works/anarkali/translations/en/02.md`;
-- `works/anarkali/translations/en/03.md`;
-- `works/anarkali/translations/en/04.md`;
+- `works/anarkali/translations/en/01.md`–`04.md` — independent translation, translation-reviewed;
 - `works/anarkali/translations/en/TRANSLATION_REVIEW.md` — **PASS**;
-- `works/anarkali/translations/en/README.md`.
+- `works/anarkali/translations/en/SECONDARY_WITNESS_COMPARISON.md` — **PASS / COMPLETE**.
 
-These were drafted/reviewed only from verified Tamil. The 2009 published-English wording was deliberately not consulted during the independent translation phase.
+The 2009 published-English `Anarkali` witness was consulted only after the independent translation had been locked. The comparison found broad scene/plot agreement but a freer published style, source normalization, added explanatory language, compressions and material divergences. No published wording was automatically imported into the verified Tamil or independent English.
 
-Protected decisions include `my thizhaiye!` for verified unusual `என் திழையே!`, literal handling of `என்னுள் உன் குடிசை பெருமையுற்றது`, conservative *sabrakooda* couch for `சப்ரகூட மஞ்சம்`, `freedom of love`, `Delhi imperialism`, `zari-flower`, the live-entombment `Voice behind the curtain`, the Scene-4 privilege catalogue, and final source `*` marks.
+Important comparison findings include published `அவள் அழுகை` → `eternal beauty`, `நீதியில்லாத பூமியில்` → `world without you`, and altered Scene-4 royal-status causality. These remain witness differences, not revisions.
 
 ## Exact next activity
 
-Run a **post-translation comparison of `அனார்கலி` against the complete 2009 published-English witness only**.
+Run the **independent English translation phase for `சாக்ரடீஸ்`**.
 
-After confirming the independent translation files above, read the complete witness under:
+Requirements:
 
-`sources/one-act-plays-2009/anarkali/`
+- translate from the verified Tamil archive only;
+- include the verified introductory note from scans **27–28** as part of the work;
+- translate all five verified scene assemblies in source order;
+- preserve speaker structure, stage directions, repetitions, philosophical rhetoric, court/prison structure, source marks where textually meaningful, and documented user-retained lexical forms;
+- use verified page records only when a scene assembly or source-sensitive form needs clarification;
+- create `works/socrates/translations/en/` with a clear authority/status README, introductory-note translation if separate, Scene 1–5 translation files, and a complete `TRANSLATION_REVIEW.md`;
+- do **not** consult or borrow wording from the complete 2009 published-English `Socrates` witness during drafting or Tamil→English review;
+- only after independent translation review PASS may that published witness be opened for a separate comparison;
+- do **not** begin `சேரன் செங்குட்டுவன்` English translation in the same activity.
 
-Compare:
-
-- scene coverage and order;
-- speaker-turn coverage;
-- stage directions;
-- omissions / additions / compressions;
-- culturally loaded terms and court vocabulary;
-- `freedom of love` / `Delhi imperialism` language;
-- the status/rank argument;
-- live-entombment narration;
-- Scene-4 lament and royal-privilege argument;
-- any materially different interpretation of source-sensitive or anomalous Tamil forms.
-
-Create a durable comparison record. **Do not automatically rewrite** either the verified Tamil archive or the independent English translation because the published witness differs. Alternative published renderings are evidence for comparison, not controlling authority.
-
-Do **not** begin `சாக்ரடீஸ்` English translation in the same activity.
-
-When I say **“Proceed with next activity”**, execute this exact comparison directly.
+When I say **“Proceed with next activity”**, execute this exact Socrates independent-translation activity directly.
