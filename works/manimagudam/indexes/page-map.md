@@ -44,9 +44,34 @@ Printed pagination is recorded only when directly visible. The raw PDF contains 
 | 36 | 27 | காட்சி 6 | continuation | verified | புதுமைப்பித்தன் temple-economy argument; source forms `எலும்பாய்த் தேய்ந்து, எறும்பாய் உழைத்து` and `தேர்களாய்`. |
 | 37 | 28 | காட்சி 6 | continuation | verified | Debate continues; source forms `புகையும் எரிமலை` and `நிர்மூலமாக்கப்பட்டு`. |
 | 38 | 29 | காட்சி 6 | continuation | verified | புதுமைப்பித்தன் denunciation continues; final utterance carries to scan 39. |
-| 39 | 30 | காட்சி 6 / காட்சி 7 | close + opening | verified | Scene 6 closes; `காட்சி 7` begins on same scan and அல்லி's utterance continues onto scan 40. |
-| 40 | 31 | காட்சி 7 | continuation | verified | Continues அல்லி's scan-39 utterance; பொன்னழகன் / புதுமைப்பித்தன் debate follows. Final புதுமைப்பித்தன் speaker turn continues onto scan 41 without a repeated label. |
-| 41–144 | pending | dramatic body | dialogue / stage directions | not-started | Process sequentially from scan 41; printed pagination and scene boundaries must be recorded only from direct inspection. |
+| 39 | 30 | காட்சி 6 / காட்சி 7 | close + opening | verified | Scene 6 closes; `காட்சி 7` begins and அல்லி continues onto scan 40. |
+| 40 | 31 | காட்சி 7 | continuation | verified | அல்லி continuation; பொன்னழகன் / புதுமைப்பித்தன் debate; final புதுமைப்பித்தன் turn continues onto scan 41. |
+| 41 | 32 | காட்சி 7 | continuation | verified | Continues புதுமைப்பித்தன் without repeated label; source-supported `பரவ விடாமல்`. |
+| 42 | 33 | காட்சி 7 | continuation | verified | புதுமைப்பித்தன் political argument continues; page ends with departure cue. |
+| 43 | 34 | காட்சி 7 | continuation | verified | கவிஞர் accuses புதுமைப்பித்தன்; source-supported `மன்றத்தினர்`. |
+| 44 | 35 | காட்சி 7 / காட்சி 8 | close + opening | verified | Scene 7 closes; `காட்சி 8` palace entrance begins. |
+| 45 | 36 | காட்சி 8 | continuation | verified | குணசீலர் / மெய்க்காப்பாளன் exchange; unusual source forms retained. |
+| 46 | 37 | காட்சி 8 | continuation | verified | அரசன் enters; minister’s audience begins. |
+| 47 | 38 | காட்சி 8 | continuation | verified | Temple resolution / taxation discussion. |
+| 48 | 39 | காட்சி 8 | continuation | verified | அரசன் refuses signature; minister presses. |
+| 49 | 40 | காட்சி 8 / காட்சி 9 | close + opening | verified | Scene 8 closes; minister decides false publicity; `காட்சி 9` street-sale begins. |
+| 50 | 41 | காட்சி 9 / காட்சி 10 | close + opening | verified | Newspaper sale closes scene 9; `காட்சி 10` மக்கள் மன்றம் begins; `சம்மந்தி` retained. |
+| 51 | 42 | காட்சி 10 | continuation | verified | புதுமைப்பித்தன் enters; newspaper report disputed. |
+| 52 | 43 | காட்சி 10 | continuation | verified | Loyalty test ordered; source-supported `தேவைப்படுகிற`. |
+| 53 | 44 | காட்சி 10 | continuation | verified | அல்லி and புதுமைப்பித்தன் exchange after others depart. |
+| 54 | 45 | காட்சி 10 | continuation | verified | Emotional farewell / `அன்புக் கோரிக்கை`. |
+| 55 | 46 | காட்சி 10 / காட்சி 11 | close + opening | verified | Scene 10 closes; `காட்சி 11` கலாராணி room begins. |
+| 56 | 47 | காட்சி 11 | continuation | verified | கலாராணி–வஞ்சி dialogue continues. |
+| 57 | 48 | காட்சி 11 | continuation | verified | குணசீலர் enters; final utterance breaks after `சீமான்களுக்கு`. |
+| 58 | 49 | காட்சி 11 / காட்சி 12 | close + opening | verified | Continues scan 57; source-supported `பாடையில்`; scene 11 closes and `காட்சி 12` begins. |
+| 59 | 50 | காட்சி 12 | scene close | verified | வஞ்சி gives advice; கலாராணி departs; scene 12 closes. |
+| 60 | 51 | காட்சி 13 | scene opening | verified | `காட்சி 13` palace audience begins. |
+| 61 | 52 | காட்சி 13 | continuation | verified | கலாராணி questions அரசன் about marriage/love. |
+| 62 | 53 | காட்சி 13 | continuation | verified | Source-supported `தங்கைகளில்`; unusual source `அக்கரை` retained. |
+| 63 | 54 | காட்சி 13 | continuation | verified | பொன்னழகன் revealed; source-supported `அனாதைக் குடிசையைக்`; utterance ends `ஆயிரக்கணக்கான`. |
+| 64 | 55 | காட்சி 13 | continuation | verified | Begins physical continuation `பவுன்கள்`; அரசன் questions கலாராணி and summons உலகப்பன். |
+| 65 | 56 | காட்சி 13 / காட்சி 14 | close + opening | verified | Scene 13 closes; `காட்சி 14` begins with வஞ்சி / உலகப்பன் and continues onto scan 66. |
+| 66–144 | pending | dramatic body | dialogue / stage directions | not-started | Next requested 25-page iteration begins at scan 66 / printed page 57 / `காட்சி 14` continuation. |
 | 145 | 136 | காட்சி 42 | scene opening | not-started | `காட்சி 42` visibly begins. |
 | 146–151 | 137–142 visible in intake survey | காட்சி 42 continuation | dialogue / stage directions | not-started | Detailed transcription pending. |
 | 152 | 143 | காட்சி 43 | scene opening | not-started | `காட்சி 43` visibly begins. |
@@ -63,17 +88,17 @@ The conversation preview exposed only scans 1–150, but raw-PDF inspection esta
 ## Current checkpoint
 
 - Front matter scans **1–13: 13 / 13 verified**.
-- Dramatic scans **14–40: 27 / 27 verified**.
-- Overall page-level verification: **40 / 170**.
-- `காட்சி 1` through `காட்சி 6`: page-level source transcription complete.
-- `காட்சி 7`: scans 39–40 verified and remains in progress onto scan 41.
-- Durable page records: `../pages/0001.md` through `../pages/0040.md`.
-- Scans 15–39 received a final enlarged-source fidelity pass before commit; draft misreadings were corrected rather than normalized by expectation.
+- Dramatic scans **14–65: 52 / 52 verified**.
+- Overall page-level verification: **65 / 170**.
+- `காட்சி 1` through `காட்சி 13`: page-level source transcription complete.
+- `காட்சி 14`: begins on scan 65 and remains in progress onto scan 66.
+- Durable page records: `../pages/0001.md` through `../pages/0065.md`.
+- Scans 41–65 passed a dedicated enlarged-source fidelity gate with **0 unresolved readings**.
 
-See `../SCANS_0015_0039_VERIFICATION.md` for the prior batch correction record.
+See `../SCANS_0015_0039_VERIFICATION.md` and `../SCANS_0041_0065_VERIFICATION.md`.
 
 ## Exact next activity
 
-Process **scan 41 / printed page 32 / காட்சி 7 continuation** directly against the controlling source. Create `pages/0041.md`, preserve the physical continuation of புதுமைப்பித்தன்'s speaker turn from scan 40, and record only what is visibly printed on scan 41.
+Process the next requested 25-page iteration: **scans 66–90**, beginning with **scan 66 / printed page 57 / காட்சி 14 continuation**. Preserve physical continuities, exact source wording, punctuation, speaker labels, stage directions and old/source forms; promote pages to `verified` only after direct reconciliation.
 
 English translation remains outside the currently authorized phase.
