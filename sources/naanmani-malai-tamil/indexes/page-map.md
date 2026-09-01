@@ -8,7 +8,7 @@ Printed pagination is recorded only where directly visible.
 | 2 | — | title page | verified | [`../pages/0002.md`](../pages/0002.md); title `கலைஞரின் நான்மணி மாலை`, publisher `தமிழ்க்கனி பதிப்பகம்`, decorative lamp emblem and location `சென்னை-28` recorded. |
 | 3 | — | copyright / printer imprint | verified | [`../pages/0003.md`](../pages/0003.md); `© பதிப்புரிமை`, `விலை ரூ. 4/-`, `அச்சிட்டோர் :`, and `ஜெம் பிரஸ், சென்னை - 600 001.` verified. |
 | 4 | — | `என்னுரை` | verified | [`../pages/0004.md`](../pages/0004.md); user-supplied words retained; source punctuation/spacing, physical lines, display-style lines and printed facsimile-signature area verified. |
-| 5 | — | `பதிப்புரை` | partial | Identified in source and user transcription supplied; page-level direct visual verification still pending. |
+| 5 | — | `பதிப்புரை` | verified | [`../pages/0005.md`](../pages/0005.md); user-supplied words retained; source punctuation, long dashes, quotation treatment, paragraph/physical-line structure and publisher sign-off verified. |
 | 6–17 | — / 2–12 | `பரதாயணம்` | assembly-reviewed | Tamil page/assembly PASS; English translation PASS. |
 | 18–26 | 13–21 | `அனார்கலி` | assembly-reviewed | 9/9 verified; 4/4 scenes assembled; fidelity PASS. |
 | 27–28 | 22–23 | `சாக்ரடீஸ்` — introductory note | verified | 2/2 verified. |
@@ -31,6 +31,6 @@ Printed pagination is recorded only where directly visible.
 
 `சேரன் செங்குட்டுவன்` is complete for scans **44–53 / printed pp.39–48**: **10/10 Tamil pages verified, 4/4 scenes assembled, all page-record fidelity gates PASS**.
 
-Composite-source page-level records are now verified for scans **1–4 and 54**. Shared front matter has one remaining unverified page: **scan 5 / `பதிப்புரை`**.
+Composite-source front/outer-matter page records are now verified for scans **1–5 and 54**. Together with the completed dramatic-work coverage for scans **6–53**, all **54/54 physical scans** are now represented in the repository workflow.
 
-Next source-sequential activity: process **scan 5 / `பதிப்புரை` only** using the user-supplied lexical transcription as baseline and the controlling scan for punctuation, layout and source marks. Do not reopen completed dramatic works in the same activity.
+Next activity: run a **composite-source 54-scan coverage / closure audit** only. Confirm every scan is mapped exactly once to the appropriate front matter, work record or back cover; confirm no pending composite-source page remains; synchronize the durable source-completion checkpoint. Do not reopen completed literary text during that audit.
