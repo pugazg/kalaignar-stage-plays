@@ -1,6 +1,6 @@
 # Next Chat Prompt — Continue Kalaignar Stage Plays
 
-Continue the Kalaignar Stage Plays archival project directly in:
+Continue the Kalaignar Stage Plays archival/translation project directly in:
 
 `https://github.com/pugazg/kalaignar-stage-plays`
 
@@ -8,61 +8,88 @@ Branch: `main`.
 
 Use the GitHub connector and work directly on `main`.
 
-Controlling source PDF: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`.
+Controlling Tamil source PDF: `TVA_BOK_0065576_நான்மணி_மாலை.pdf`.
 
 ## Live-state rule
 
-Fetch live GitHub `main` first and treat it as authoritative. Preserve any newer durable state. Do not reopen completed dramatic works unless explicitly requested.
+Fetch live GitHub `main` first and treat it as authoritative. Preserve any newer durable state. Do not reopen completed Tamil literary wording unless explicitly required by new source evidence or user direction.
 
 ## Mandatory startup reading
 
-Before any new repository activity, read completely:
+Before any write, read completely:
 
 1. `STAGE_PLAY_PROCESSING_GUIDE.md`
 2. `HANDOVER.md`
 3. `NEXT_CHAT_PROMPT.md`
 4. root `README.md`
-5. `sources/naanmani-malai-tamil/README.md`
-6. `sources/naanmani-malai-tamil/metadata/source.md`
-7. `sources/naanmani-malai-tamil/indexes/page-map.md`
-8. `sources/naanmani-malai-tamil/COVERAGE_AUDIT.md`
+5. `works/anarkali/README.md`
+6. `works/anarkali/scenes/01.md`
+7. `works/anarkali/scenes/02.md`
+8. `works/anarkali/scenes/03.md`
+9. `works/anarkali/scenes/04.md`
+10. `works/anarkali/translations/en/README.md`
+11. `works/anarkali/translations/en/01.md`
+12. `works/anarkali/translations/en/02.md`
+13. `works/anarkali/translations/en/03.md`
+14. `works/anarkali/translations/en/04.md`
+15. `works/anarkali/translations/en/TRANSLATION_REVIEW.md`
 
-Read individual source/work page records only if a new user instruction specifically requires reopening that material.
+Then re-fetch live `main` immediately before the first write.
 
-## Completed durable state
+## Durable Tamil state
 
-- `பரதாயணம்` — Tamil archive/assembly PASS; independent English translation PASS.
-- `அனார்கலி` — Tamil page/assembly fidelity PASS.
-- `சாக்ரடீஸ்` — **17/17 pages verified; 5/5 scenes assembled; all fidelity gates PASS**.
-- `சேரன் செங்குட்டுவன்` — **10/10 Tamil pages verified; 4/4 scenes assembled; all fidelity gates PASS**.
+The composite `கலைஞரின் நான்மணி மாலை` Tamil source is closed at **54/54 physical scans** with coverage audit **PASS / COMPLETE**.
 
-## Composite source closure — `கலைஞரின் நான்மணி மாலை`
+- `பரதாயணம்` — Tamil assembly PASS;
+- `அனார்கலி` — **9/9 pages verified; 4/4 scenes assembled; fidelity PASS**;
+- `சாக்ரடீஸ்` — **17/17 pages verified; 5/5 scenes assembled; fidelity PASS**;
+- `சேரன் செங்குட்டுவன்` — **10/10 pages verified; 4/4 scenes assembled; fidelity PASS**.
 
-The composite 54-scan coverage audit is **PASS / COMPLETE**.
+## English translation state
 
-Exact physical-scan partition:
+- `பரதாயணம்` — independent English **PASS / COMPLETE**;
+- `அனார்கலி` — independent English **4/4 scenes COMPLETE; translation review PASS**;
+- `சாக்ரடீஸ்` — independent English **pending**;
+- `சேரன் செங்குட்டுவன்` — independent English **pending**.
 
-- scans **1–5** — front matter;
-- scans **6–17** — `பரதாயணம்`;
-- scans **18–26** — `அனார்கலி`;
-- scans **27–43** — `சாக்ரடீஸ்`;
-- scans **44–53** — `சேரன் செங்குட்டுவன்`;
-- scan **54** — illustrated back cover.
+### Anarkali independent English checkpoint
 
-Count check: **5 + 12 + 9 + 17 + 10 + 1 = 54**.
+Files:
 
-Closure result: **54/54 physical scans represented; 0 gaps; 0 overlaps; 0 pending composite-source pages**.
+- `works/anarkali/translations/en/01.md`;
+- `works/anarkali/translations/en/02.md`;
+- `works/anarkali/translations/en/03.md`;
+- `works/anarkali/translations/en/04.md`;
+- `works/anarkali/translations/en/TRANSLATION_REVIEW.md` — **PASS**;
+- `works/anarkali/translations/en/README.md`.
 
-Durable audit: `sources/naanmani-malai-tamil/COVERAGE_AUDIT.md`.
+These were drafted/reviewed only from verified Tamil. The 2009 published-English wording was deliberately not consulted during the independent translation phase.
 
-The source PDF remains external to the repository. No verified literary wording was changed during closure.
-
-For scans 4–5, retain the user-supplied lexical words. Direct source inspection controls punctuation, spacing, physical line structure and source marks. Scan 5 specifically preserves long dashes, `அனார்கலி—சாக்ரடீஸ்—சேரன் செங்குட்டுவன்`, `இந்நூல்!`, `வழங்குகிறோம்!`, `என்றும்போல் ஆதரவு தருக — ஆக்கம் பெருகிட;`, and `— தமிழ்க்கனி பதிப்பகத்தார்.`. The supplied lexical `நாடகங்களின்` remains retained under the user's explicit word-retention instruction.
+Protected decisions include `my thizhaiye!` for verified unusual `என் திழையே!`, literal handling of `என்னுள் உன் குடிசை பெருமையுற்றது`, conservative *sabrakooda* couch for `சப்ரகூட மஞ்சம்`, `freedom of love`, `Delhi imperialism`, `zari-flower`, the live-entombment `Voice behind the curtain`, the Scene-4 privilege catalogue, and final source `*` marks.
 
 ## Exact next activity
 
-There is **no remaining source-sequential archival task** for `கலைஞரின் நான்மணி மாலை`.
+Run a **post-translation comparison of `அனார்கலி` against the complete 2009 published-English witness only**.
 
-Await an explicit new user direction before starting another work, translation, transcription, normalization pass, audit or phase. Do not infer a new activity from repository adjacency.
+After confirming the independent translation files above, read the complete witness under:
 
-If the user says only **“Proceed with next activity”** from this checkpoint, report that the composite source is durably closed and ask which project/work/phase they want to start next.
+`sources/one-act-plays-2009/anarkali/`
+
+Compare:
+
+- scene coverage and order;
+- speaker-turn coverage;
+- stage directions;
+- omissions / additions / compressions;
+- culturally loaded terms and court vocabulary;
+- `freedom of love` / `Delhi imperialism` language;
+- the status/rank argument;
+- live-entombment narration;
+- Scene-4 lament and royal-privilege argument;
+- any materially different interpretation of source-sensitive or anomalous Tamil forms.
+
+Create a durable comparison record. **Do not automatically rewrite** either the verified Tamil archive or the independent English translation because the published witness differs. Alternative published renderings are evidence for comparison, not controlling authority.
+
+Do **not** begin `சாக்ரடீஸ்` English translation in the same activity.
+
+When I say **“Proceed with next activity”**, execute this exact comparison directly.
