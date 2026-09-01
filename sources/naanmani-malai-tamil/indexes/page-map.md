@@ -25,12 +25,23 @@ Printed pagination is recorded only where directly visible.
 | 53 | 48 | `சேரன் செங்குட்டுவன்` — `காட்சி—4.` closing | assembly-reviewed | Scene-4 assembly/fidelity PASS; `சேர்!` and centered `- * -` retained. |
 | 54 | — | illustrated back cover | verified | [`../pages/0054.md`](../pages/0054.md); printed title `கலைஞரின் நான்மணி மாலை` and full-page colour illustration recorded. |
 
-## Current checkpoint
+## Closure checkpoint
 
-`சாக்ரடீஸ்` is complete at **17/17 pages, 5/5 scenes, fidelity PASS**.
+Composite-source coverage audit: [`../COVERAGE_AUDIT.md`](../COVERAGE_AUDIT.md) — **PASS / COMPLETE**.
 
-`சேரன் செங்குட்டுவன்` is complete for scans **44–53 / printed pp.39–48**: **10/10 Tamil pages verified, 4/4 scenes assembled, all page-record fidelity gates PASS**.
+The physical source is partitioned without gaps or overlaps as:
 
-Composite-source front/outer-matter page records are now verified for scans **1–5 and 54**. Together with the completed dramatic-work coverage for scans **6–53**, all **54/54 physical scans** are now represented in the repository workflow.
+- scans **1–5** — composite front matter;
+- scans **6–17** — `பரதாயணம்`;
+- scans **18–26** — `அனார்கலி`;
+- scans **27–43** — `சாக்ரடீஸ்`;
+- scans **44–53** — `சேரன் செங்குட்டுவன்`;
+- scan **54** — illustrated back cover.
 
-Next activity: run a **composite-source 54-scan coverage / closure audit** only. Confirm every scan is mapped exactly once to the appropriate front matter, work record or back cover; confirm no pending composite-source page remains; synchronize the durable source-completion checkpoint. Do not reopen completed literary text during that audit.
+Count check: **5 + 12 + 9 + 17 + 10 + 1 = 54**.
+
+Result: **54/54 physical scans represented; 0 gaps; 0 overlaps; 0 pending composite-source pages**.
+
+All completed dramatic-work page/assembly fidelity gates remain unchanged. No verified literary wording was modified during the closure audit.
+
+There is no remaining source-sequential archival task for this composite volume. Further work requires an explicit new user direction.
