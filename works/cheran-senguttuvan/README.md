@@ -10,28 +10,17 @@ Work-level archival entry for Kalaignar's one-act play **`சேரன் செ
 - Tamil page-level visual verification: **10/10 COMPLETE**;
 - source-printed dramatic scenes: **4**;
 - scenes assembled from verified Tamil: **4/4 COMPLETE**;
-- all four scene page-record ↔ assembly fidelity gates: **PASS**.
+- all four scene page-record ↔ assembly fidelity gates: **PASS**;
+- independent English scenes: **4/4 COMPLETE**;
+- Tamil→English translation review: **PASS**;
+- unresolved English translation blocks: **0**.
 
-Completed Scene 1:
+Scene map:
 
-- scans **44–45** / printed pp.39–40 — page gate + assembly/fidelity **PASS**.
-
-Completed Scene 2:
-
-- scans **46–49** / printed pp.41–44 — page gate + assembly/fidelity **PASS**.
-
-Completed Scene 3:
-
-- scans **50–51** / printed pp.45–46 — page gate + assembly/fidelity **PASS**;
-- scan 51 centered closing `*` retained.
-
-Completed Scene 4:
-
-- scans **52–53** / printed pp.47–48 — page gate **2/2 PASS / COMPLETE**;
-- `SCENE4_PAGE_VERIFICATION.md` — **PASS / COMPLETE**;
-- `scenes/04.md` — **assembly-reviewed / PASS**;
-- `SCENE4_ASSEMBLY_FIDELITY_REVIEW.md` — **PASS**;
-- scan 53 centered final mark `- * -` retained exactly.
+1. Scene 1 — scans **44–45** / printed pp.39–40 — assembly/fidelity **PASS**;
+2. Scene 2 — scans **46–49** / pp.41–44 — assembly/fidelity **PASS**;
+3. Scene 3 — scans **50–51** / pp.45–46 — assembly/fidelity **PASS**, centered closing `*` retained;
+4. Scene 4 — scans **52–53** / pp.47–48 — assembly/fidelity **PASS**, centered final `- * -` retained exactly.
 
 Work page map: [`indexes/page-map.md`](indexes/page-map.md).
 
@@ -39,21 +28,36 @@ Work page map: [`indexes/page-map.md`](indexes/page-map.md).
 
 The Tamil scan is controlling for canonical Tamil archival work. The user-supplied Gemini first pass is a comparison baseline only. Under `STAGE_PLAY_PROCESSING_GUIDE.md`, a first-pass reading is changed only when the scan is unambiguous; uncertain old-glyph readings must not be normalized from familiar spelling, grammar or semantic expectation.
 
-The 2009 published-English witness remains **secondary only** and must not reconstruct Tamil.
+The independent English translation derives only from the verified Tamil scene assemblies and, where necessary, verified Tamil page/assembly controls.
 
-## Final-scene locked controls
+The complete 2009 published-English `Cheran Senguttuvan` witness remains **secondary only**. Its wording was **not consulted or used** during independent English drafting or Tamil→English review.
 
-The assembled final scene preserves:
+## Independent English translation
 
-- source `காட்சி—4.` and `குயிலாலுவம்`;
-- source-order opening stage direction, mechanically joining `நடை / பெற்ற` only;
-- exact source label/punctuation variants `சேர்:`, `சேர்;`, `சேர்!`, `வில்லவன்:`, `வில்:`, `வில்!`, and `கன:`;
-- source long dashes and `ராம ராவணப் போர்?....`;
-- `புறப்படுவோம்—வில்லவா.`, `கனக—விஜயா`, and `சொல்—இப்போது`;
-- centered final source mark `- * -`.
+English directory: [`translations/en/`](translations/en/).
+
+Files:
+
+- [`translations/en/01.md`](translations/en/01.md) — Scene 1, including the pre-scene voice-over;
+- [`translations/en/02.md`](translations/en/02.md) — Scene 2;
+- [`translations/en/03.md`](translations/en/03.md) — Scene 3;
+- [`translations/en/04.md`](translations/en/04.md) — Scene 4;
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) — **PASS**;
+- [`translations/en/README.md`](translations/en/README.md) — translation authority/status record.
+
+Protected translation controls include:
+
+- Scene 1 `விஜ.` / `விஜ:` distinction and `புலி—வில்—கயல்` → `tiger—bow—fish`;
+- Scene 2 `சேரன்:` / `சேர:` and `புலவர்:` / `புல:` distinctions; difficult poetic forms such as `கட்டாணி முத்தாள்`, `ஆரணங்கு`, and `பனவெல்ல` remain conservatively visible where lexical certainty is insufficient;
+- Scene 3 `மண்டூக மன்னர்கள்` → `frog-kings`, Tamil self-respect rhetoric, source-spaced `வேட்ட மங்கலம்`, and final `*`;
+- Scene 4 source `காட்சி—4.` / `குயிலாலுவம்`, exact label variants `சேர்:`, `சேர்;`, `சேர்!`, `வில்லவன்:`, `வில்:`, `வில்!`, `கன:`, unconverted `நாழிகை`, source long dashes, and final `- * -`.
 
 ## Completion state
 
-**`சேரன் செங்குட்டுவன்` Tamil dramatic-source processing is complete for scans 44–53 / printed pp.39–48: 10/10 pages verified, 4/4 scenes assembled, all fidelity gates PASS.**
+**Tamil archival gate: PASS / COMPLETE — 10/10 pages, 4/4 scenes, all fidelity gates PASS.**
 
-The next distinct source-sequential activity is **scan 54 / back-cover archival description only** in the composite `கலைஞரின் நான்மணி மாலை` source. Do not begin another work in the same activity.
+**Independent English translation gate: PASS / COMPLETE — 4/4 scenes, translation review PASS, 0 unresolved translation blocks, 0 published-witness contamination.**
+
+## Next activity
+
+Run a **post-translation secondary-witness comparison** between the completed independent English translation and the complete 2009 published-English `Cheran Senguttuvan` witness. Keep that comparison separate: record agreements, omissions, additions, normalization and interpretive differences without automatically changing either the verified Tamil archive or the independent English translation.
