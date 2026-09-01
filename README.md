@@ -10,31 +10,23 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 |---|---|
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archival/assembly PASS; independent English translation PASS** |
-| [அனார்கலி](works/anarkali/) | **Tamil page verification 9/9; 4/4 scenes assembled; fidelity PASS** |
-| [சாக்ரடீஸ்](works/socrates/) | **Tamil page verification 17/17 COMPLETE; 5/5 scenes assembled; fidelity PASS** |
-| [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil page verification 10/10 COMPLETE; 4/4 scenes assembled; all fidelity gates PASS** |
+| [அனார்கலி](works/anarkali/) | **Tamil page verification 9/9; 4/4 scenes assembled; fidelity PASS; independent English 4/4 + review PASS** |
+| [சாக்ரடீஸ்](works/socrates/) | **Tamil page verification 17/17 COMPLETE; 5/5 scenes assembled; fidelity PASS; independent English pending** |
+| [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil page verification 10/10 COMPLETE; 4/4 scenes assembled; all fidelity gates PASS; independent English pending** |
 
 ## Current repository phase
 
-`சாக்ரடீஸ்` Tamil source processing is complete for scans **27–43** / printed pp.22–38: **17/17 pages verified** and **5/5 scenes assembled with fidelity PASS**.
+The composite `கலைஞரின் நான்மணி மாலை` Tamil source is durably closed at **54/54 physical scans**, with `sources/naanmani-malai-tamil/COVERAGE_AUDIT.md` at **PASS / COMPLETE**: **0 gaps, 0 overlaps and 0 pending composite-source pages**.
 
-`சேரன் செங்குட்டுவன்` Tamil dramatic-source processing is complete for scans **44–53 / printed pp.39–48**: **10/10 pages verified**, all four source-printed scenes assembled from verified page records, and **all page-record ↔ scene fidelity gates PASS**. Final `காட்சி—4.` preserves the unusual source `சேர்!` label and centered `- * -` closing mark.
+English translation progress for the four plays in this volume is now:
 
-For the composite `கலைஞரின் நான்மணி மாலை` source:
+- `பரதாயணம்` — independent English translation **PASS / COMPLETE**;
+- `அனார்கலி` — independent English translation **4/4 scenes COMPLETE; translation review PASS**;
+- `சாக்ரடீஸ்` — independent English translation **pending**;
+- `சேரன் செங்குட்டுவன்` — independent English translation **pending**.
 
-- scans **1–5** — front matter — page-level verified;
-- scans **6–17** — `பரதாயணம்` — completed;
-- scans **18–26** — `அனார்கலி` — completed;
-- scans **27–43** — `சாக்ரடீஸ்` — completed;
-- scans **44–53** — `சேரன் செங்குட்டுவன்` — completed;
-- scan **54** — illustrated back cover — page-level verified.
+`அனார்கலி` English files are at `works/anarkali/translations/en/01.md` through `04.md`, with `TRANSLATION_REVIEW.md` at **PASS**. They were drafted and reviewed only from the verified Tamil assemblies/page records. The existing 2009 published-English `Anarkali` wording was not used in that independent translation.
 
-Composite coverage audit: `sources/naanmani-malai-tamil/COVERAGE_AUDIT.md` — **PASS / COMPLETE**.
+The 2009 published-English one-act-play source remains a **secondary witness**. It must not reconstruct Tamil, and its wording must not silently control independent translations.
 
-Result: **54/54 physical scans represented, with 0 gaps, 0 overlaps and 0 pending composite-source pages**. No verified literary wording was changed during the closure audit. The source PDF remains external to the repository.
-
-Scans 4–5 retain the user-supplied lexical wording, while direct source inspection controls punctuation, spacing, physical lines, dashes/quotation treatment and source marks.
-
-The 2009 published-English witness remains secondary and is not used to reconstruct Tamil.
-
-There is no remaining source-sequential archival task for `கலைஞரின் நான்மணி மாலை`. Further work should begin only from an explicit new user direction.
+The exact next activity is a **post-translation comparison of the independent `அனார்கலி` English translation against the complete 2009 published-English `Anarkali` witness**. Keep the comparison as a separate witness layer; record agreements, omissions, expansions and interpretive differences without automatically rewriting either the verified Tamil archive or the independent translation.
