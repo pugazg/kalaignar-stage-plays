@@ -24,30 +24,38 @@ Durable source identity:
 ### Current durable checkpoint
 
 - scans **1–13** front matter: **13 / 13 VERIFIED**;
-- scans **14–40** dramatic body: **27 / 27 VERIFIED**;
-- overall page-level status: **40 / 170 verified**;
-- durable page records: `works/manimagudam/pages/0001.md` through `0040.md`;
-- `காட்சி 1`–`காட்சி 6`: page-level transcription complete;
-- `காட்சி 7`: begins on scan 39 and is verified through scan 40; it remains in progress onto scan 41;
+- scans **14–65** dramatic body: **52 / 52 VERIFIED**;
+- overall page-level status: **65 / 170 verified**;
+- durable page records: `works/manimagudam/pages/0001.md` through `0065.md`;
+- `காட்சி 1`–`காட்சி 13`: page-level transcription complete;
+- `காட்சி 14`: begins on scan 65 and remains in progress onto scan 66;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-The 25-scan batch 15–39 passed an enlarged-source fidelity gate. Correction log:
+Completed fidelity records:
 
-`works/manimagudam/SCANS_0015_0039_VERIFICATION.md`.
+- `works/manimagudam/SCANS_0015_0039_VERIFICATION.md` — PASS / COMPLETE;
+- `works/manimagudam/SCANS_0041_0065_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved readings**.
 
-Important source-supported forms include `எலும்பு உடலினர்`, `ஏறத்தாழ`, `முல்லை அரும்புகள்`, `குமுறியெழும் வறுமைத் தீயை`, `எலும்பாய்த் தேய்ந்து, எறும்பாய் உழைத்து`, `தேர்களாய்`, `புகையும் எரிமலை`, and `நிர்மூலமாக்கப்பட்டு`.
+The latter records source-supported corrections including `பரவ விடாமல்`, `மன்றத்தினர்`, `அரசனிடம்`, `சம்மந்தி உறவும்`, `தேவைப்படுகிற`, `பாடையில் ஏறும் வரையில்`, `தங்கைகளில்`, and `அனாதைக் குடிசையைக்`. Unusual source forms `குஷிமிக்க வேண்டும்!`, `மன்னிடம் பணி செய்கிறோம்`, and `அக்கரை` were inspected and intentionally retained.
 
-### Scan 40 checkpoint
+### Scene checkpoint through scan 65
 
-`works/manimagudam/pages/0040.md` is **VERIFIED**.
+- `காட்சி 7`: closes scan 44.
+- `காட்சி 8`: scan 44–49.
+- `காட்சி 9`: scan 49–50.
+- `காட்சி 10`: scan 50–55.
+- `காட்சி 11`: scan 55–58.
+- `காட்சி 12`: scan 58–59.
+- `காட்சி 13`: scan 60–65.
+- `காட்சி 14`: begins scan 65, continues scan 66.
 
-- printed page: **31**;
-- scene: **காட்சி 7**;
-- scan 39 ends அல்லி's utterance at `தவிக்கப் போகும்`; scan 40 physically continues `தாங்கொணாத வேதனைக்காட்சிகளைத் தான் நாம் காண வேண்டும்.`;
-- scan 40 records பொன்னழகன் / புதுமைப்பித்தன் dialogue;
-- source forms such as `இதோபதேசம்`, `நாகரீகத்தைப்`, and spaced `அப்போது தான்` are retained as printed;
-- the final புதுமைப்பித்தன் speaker turn continues at the top of scan 41 without a repeated speaker label.
+Important physical continuities in the completed batch:
+
+- scan 40→41 and 41→42 continue புதுமைப்பித்தன் without repeated speaker labels;
+- scan 57→58 breaks குணசீலர் after `சீமான்களுக்கு`;
+- scan 63→64 breaks அரசன் after `ஆயிரக்கணக்கான`, resuming `பவுன்கள்`;
+- scan 65 closes scene 13 and begins scene 14.
 
 ### Source-boundary safeguard
 
@@ -64,14 +72,16 @@ Do not silently merge these into one reconstructed history. The 1962 statement r
 
 ### Exact next activity
 
-Process **scan 41 / printed page 32 / காட்சி 7 continuation** only:
+Process the next user-requested **25-page iteration: scans 66–90**.
+
+Start at **scan 66 / printed page 57 / `காட்சி 14` continuation** and continue sequentially through scan 90. For every page:
 
 1. inspect the controlling scan directly;
-2. create `works/manimagudam/pages/0041.md`;
-3. preserve the physical continuation of புதுமைப்பித்தன்'s speaker turn from scan 40;
-4. preserve speaker labels, punctuation, stage directions and source forms;
-5. record printed page **32** only because it is directly visible on scan 41;
-6. update page map and checkpoint docs after reconciliation.
+2. preserve speaker labels, punctuation, stage directions, source/old forms and physical page boundaries;
+3. record printed pagination only when directly visible;
+4. use enlarged-source adjudication for difficult readings;
+5. create durable `pages/0066.md` through `pages/0090.md` records;
+6. create a batch fidelity/verification record and update page map / checkpoint docs only after the 25-page gate passes.
 
 Do not begin English translation unless explicitly authorized.
 
