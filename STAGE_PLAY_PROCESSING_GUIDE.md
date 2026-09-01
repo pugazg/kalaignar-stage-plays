@@ -250,3 +250,16 @@ If the repository uses `NEXT_CHAT_PROMPT.md`, update it at the same checkpoint. 
 4. never claim a provisional/uncommitted page as verified merely because an earlier chat said it had been inspected.
 
 A new chat/session should be able to continue without guessing prior decisions.
+
+### 13A. Provisional-work transfer across chat windows
+
+When a chat ends after source inspection but before a durable commit, use the following rules:
+
+1. **Committed repository state remains authoritative.** Provisional page transcriptions, local crops, temporary renders and uncommitted Git trees are evidence of progress only; they are not durable verification.
+2. `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` must explicitly record the last committed page, the provisional scan range already inspected, unresolved readings still needing adjudication, and the exact write/verification step that remains.
+3. A fresh chat must re-resolve or reattach the controlling PDF before source-dependent work. Do not assume temporary container paths, local crops or rendered images from the earlier chat still exist.
+4. If a conversation/file preview exposes fewer pages than the raw PDF, the raw PDF page count and direct raw-page renders control. Never truncate processing merely because the preview stops early.
+5. When the user asks to process **all remaining pages**, continue through literary closure **and all remaining physical back matter** (advertisements, catalogue pages, back cover, blanks, etc.), because every physical scan requires a page record.
+6. A provisional page may be promoted to `verified` only after the fresh chat has either directly rechecked the controlling scan or has durable, source-reconciled page text already committed in the repository.
+7. Final-batch closure requires: page records for the entire remaining physical range, zero unresolved readings or explicit `needs-review` records, a batch/final verification record, synchronized page map/work README/root README/handover/prompt, a Git commit, and a final live-`main` verification.
+8. Do not begin scene assembly or English translation merely because page-level transcription reaches 100%; those remain separate phases requiring their own authorization/checkpoint.
