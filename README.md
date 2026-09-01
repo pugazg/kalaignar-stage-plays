@@ -13,7 +13,7 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 | [அனார்கலி](works/anarkali/) | **Tamil 9/9; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சாக்ரடீஸ்](works/socrates/) | **Tamil 17/17; 5/5 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil 10/10; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
-| [மணிமகுடம்](works/manimagudam/) | **ACTIVE — front matter 13/13 verified; overall Tamil pages 13/170; next scan 14 / காட்சி 1** |
+| [மணிமகுடம்](works/manimagudam/) | **ACTIVE — front matter 13/13 verified; scan 14 / காட்சி 1 verified; overall 14/170; next scan 15** |
 
 ## Active repository phase — மணிமகுடம்
 
@@ -29,9 +29,12 @@ Registered source facts:
 - file size: **187,091,728 bytes**;
 - physical PDF pages: **170**;
 - scans **1–13**: front matter — **13 / 13 VERIFIED**;
-- scan **14**: `காட்சி 1` begins;
+- scan **14**: `காட்சி 1` opening — **VERIFIED**;
+- scan **15**: printed page **6**, `காட்சி 1` continuation — next;
 - scan **169**: printed page 160, `காட்சி 47`, source-visible closure `(முடிவுற்றது)`;
 - scan **170**: back-cover publisher catalogue / advertisement.
+
+Overall Tamil page-level verification: **14 / 170**.
 
 A conversation preview exposed only 150 pages, but the raw attached PDF contains 170. Scans 151–170 were independently rendered and inspected during source intake. Future work must use the **170-scan** boundary.
 
@@ -40,11 +43,11 @@ See:
 - `works/manimagudam/README.md`;
 - `works/manimagudam/metadata/source.md`;
 - `works/manimagudam/indexes/page-map.md`;
-- `works/manimagudam/pages/0001.md` through `pages/0013.md`.
+- `works/manimagudam/pages/0001.md` through `pages/0014.md`.
 
 ### Exact next activity
 
-Begin **scan 14 / காட்சி 1**. Create the first dramatic page record from direct visual inspection, preserve exact speaker labels / stage direction / punctuation / source wording, and record only printed pagination actually visible on the scan.
+Process **scan 15 / printed page 6 / காட்சி 1 continuation**. Preserve the physical continuation from scan 14 and transcribe only what is visibly printed on scan 15.
 
 English translation is not part of the currently authorized `மணிமகுடம்` phase.
 
