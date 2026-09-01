@@ -9,10 +9,10 @@ Archive slug: `manimagudam`.
 - Source intake / structural survey: **REGISTERED**.
 - Physical PDF pages: **170**.
 - Front matter scans **1–13: 13 / 13 VERIFIED**.
-- Dramatic-body scans **14–39: 26 / 26 VERIFIED**.
-- Overall Tamil page-level archival transcription: **39 / 170 verified**.
+- Dramatic-body scans **14–40: 27 / 27 VERIFIED**.
+- Overall Tamil page-level archival transcription: **40 / 170 verified**.
 - `காட்சி 1`–`காட்சி 6`: page-level source transcription complete.
-- `காட்சி 7`: **in progress**; it begins on scan 39 and continues on scan 40.
+- `காட்சி 7`: **in progress**; it begins on scan 39 and is verified through scan 40, continuing on scan 41.
 - Scene assembly: **not started**.
 - English translation: **not authorized / not started**.
 - Source PDF remains external to the repository.
@@ -50,23 +50,11 @@ The scan does not establish the 1962 Madurai statement. Keep that statement in t
 
 Verified page records now exist at:
 
-`pages/0001.md` through `pages/0039.md`.
+`pages/0001.md` through `pages/0040.md`.
 
-Scans 15–39 were processed as one 25-page batch after scan 14. Their final source-fidelity pass corrected draft readings only where enlarged source pixels were clear. Durable examples include:
+Scans 15–39 were processed as one 25-page batch after scan 14. Their final source-fidelity pass corrected draft readings only where enlarged source pixels were clear. Durable examples include `எலும்பு உடலினர்`, `ஏறத்தாழ`, `முல்லை அரும்புகள்`, `குமுறியெழும் வறுமைத் தீயை`, `எலும்பாய்த் தேய்ந்து, எறும்பாய் உழைத்து`, `தேர்களாய்`, `புகையும் எரிமலை`, and `நிர்மூலமாக்கப்பட்டு`. These are source readings, not editorial modernization. See `SCANS_0015_0039_VERIFICATION.md`.
 
-- `ஒரு வேளை` and `அவளும்` on scan 16;
-- `நாட்டுப் பற்று` / `என்ற எண்ணத்தில்` on scan 18;
-- `எலும்பு உடலினர்` on scan 20;
-- `ஏறத்தாழ` on scan 23;
-- `தோன்றி விடுமானால்` on scan 24;
-- `“கா” வன்னா` and `முல்லை அரும்புகள்` on scan 28;
-- `அடேடே!` on scan 32;
-- `சிரஞ்சீவித்தன்மை` on scan 33;
-- `குமுறியெழும் வறுமைத் தீயை` / `குழந்தை குட்டிகளோடு` on scan 34;
-- `எலும்பாய்த் தேய்ந்து, எறும்பாய் உழைத்து` / `தேர்களாய்` on scan 36;
-- `புகையும் எரிமலை` / `நிர்மூலமாக்கப்பட்டு` on scan 37.
-
-These are source readings, not editorial modernization. See `SCANS_0015_0039_VERIFICATION.md`.
+Scan 40 / printed page 31 is separately verified in `pages/0040.md`. It continues அல்லி's scan-39 utterance, then records பொன்னழகன் / புதுமைப்பித்தன் dialogue. The final புதுமைப்பித்தன் speaker turn continues onto scan 41 without a repeated speaker label.
 
 ## Physical-source boundary
 
@@ -77,7 +65,8 @@ These are source readings, not editorial modernization. See `SCANS_0015_0039_VER
 - Scans 27–30: `காட்சி 4`, with `காட்சி 5` beginning on scan 30 — **VERIFIED**.
 - Scans 30–32: `காட்சி 5`, with `காட்சி 6` beginning on scan 32 — **VERIFIED**.
 - Scans 32–39: `காட்சி 6`, with `காட்சி 7` beginning on scan 39 — **VERIFIED**.
-- Scan 40: next unprocessed physical scan / `காட்சி 7` continuation.
+- Scan 40: `காட்சி 7` continuation / printed page 31 — **VERIFIED**.
+- Scan 41: next unprocessed physical scan / printed page 32 / `காட்சி 7` continuation.
 - Scan 169: printed page 160, `காட்சி 47`, `(முடிவுற்றது)`.
 - Scan 170: back-cover publisher catalogue / advertisement.
 
@@ -91,6 +80,6 @@ A conversation-file preview exposed only the first **150** pages, but raw-PDF in
 
 ## Exact next activity
 
-Process **scan 40 / காட்சி 7 continuation** from the controlling source, create `pages/0040.md`, preserve the physical continuation from scan 39, and update the page map/checkpoint after reconciliation.
+Process **scan 41 / printed page 32 / காட்சி 7 continuation** from the controlling source, create `pages/0041.md`, preserve the physical continuation of புதுமைப்பித்தன்'s speaker turn from scan 40, and update the page map/checkpoint after reconciliation.
 
 Do **not** begin English translation and do not reopen closed `நான்மணி மாலை` work.
