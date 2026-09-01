@@ -15,7 +15,7 @@ Archive slug: `manimagudam`.
 - `காட்சி 1` through `காட்சி 47`: page-level source transcription complete.
 - Final dramatic scan: **169 / printed page 160**, ending `(முடிவுற்றது)`.
 - Final physical scan: **170**, publisher catalogue / advertisement.
-- Scene assembly: **not started**.
+- Scene assembly: **1 / 47 PASS** — `scenes/01.md` is assembly-reviewed from verified scans 14–19.
 - English translation: **not authorized / not started**.
 - Source PDF remains external to the repository.
 
@@ -66,6 +66,21 @@ Completed fidelity gates include:
 
 `indexes/page-map.md` is synchronized through scan 170 and records the whole-work **170 / 170 COMPLETE** checkpoint.
 
+## Scene assembly phase
+
+Scene assembly is now explicitly authorized and has begun from the verified page records. Assembly may remove only mechanical physical page breaks; it must not alter wording, punctuation, source-specific speaker labels, stage directions or source forms.
+
+Completed assembly gate:
+
+- `காட்சி 1` — `scenes/01.md` from scans **14–19** / printed pages **unnumbered, 6–10** — **PASS**;
+- review: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` — **6 / 6 verified page records represented, 4 / 4 mechanical cross-page joins checked, 0 unresolved assembly discrepancies**.
+
+Exact next scene-assembly task:
+
+- assemble `காட்சி 2` from the verified portions of scans **20–24** / printed pages **11–15**;
+- scan 24 also begins `காட்சி 3`, so the Scene 2 file must stop at the source-visible `காட்சி 3` boundary;
+- create the Scene 2 assembly file and its fidelity review before advancing further.
+
 ## Final physical-source boundary
 
 - Scans 1–13: front matter — **VERIFIED**.
@@ -80,6 +95,6 @@ A conversation-file preview exposed only the first **150** pages, but raw-PDF in
 
 ## Archival rules / phase boundary
 
-`STAGE_PLAY_PROCESSING_GUIDE.md` governs this work. The scan is controlling authority; no silent lexical, punctuation, speaker, stage-direction, or old-glyph normalization; physical page breaks are preserved; page transcription precedes scene assembly; English is a separate later phase.
+`STAGE_PLAY_PROCESSING_GUIDE.md` governs this work. The scan is controlling authority; no silent lexical, punctuation, speaker, stage-direction, or old-glyph normalization; physical page breaks remain preserved in page records; scene assembly derives only from verified pages and documents mechanical joins.
 
-The page-level Tamil archival phase is now **COMPLETE**. Do **not** automatically begin scene assembly or English translation. Wait for explicit user authorization for the next phase.
+English translation remains a **separate, not-yet-authorized phase** and must not begin automatically while Tamil scene assembly is in progress.
