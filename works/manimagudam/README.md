@@ -9,10 +9,10 @@ Archive slug: `manimagudam`.
 - Source intake / structural survey: **REGISTERED**.
 - Physical PDF pages: **170**.
 - Front matter scans **1–13: 13 / 13 VERIFIED**.
-- Dramatic-body scans **14–140: 127 / 127 VERIFIED**.
-- Overall Tamil page-level archival transcription: **140 / 170 verified**.
-- `காட்சி 1`–`காட்சி 40`: page-level source transcription complete.
-- `காட்சி 41`: **next**; begins on scan 141 / printed page 132.
+- Dramatic-body scans **14–145: 132 / 132 VERIFIED**.
+- Overall Tamil page-level archival transcription: **145 / 170 verified**.
+- `காட்சி 1`–`காட்சி 41`: page-level source transcription complete.
+- `காட்சி 42`: begins scan 145 / printed page 136 and continues onto scan 146.
 - Scene assembly: **not started**.
 - English translation: **not authorized / not started**.
 - Source PDF remains external to the repository.
@@ -48,7 +48,7 @@ The controlling scan does not itself establish the 1962 Madurai statement. Keep 
 
 ## Durable page checkpoint
 
-Verified page records now exist at `pages/0001.md` through `pages/0140.md`.
+Verified page records now exist at `pages/0001.md` through `pages/0145.md`.
 
 Completed fidelity gates:
 
@@ -56,31 +56,44 @@ Completed fidelity gates:
 - `SCANS_0041_0065_VERIFICATION.md` — scans 41–65 **25 / 25 VERIFIED, 0 unresolved readings**;
 - `SCANS_0066_0090_VERIFICATION.md` — scans 66–90 **25 / 25 VERIFIED, 0 unresolved readings**;
 - `SCANS_0091_0115_VERIFICATION.md` — scans 91–115 **25 / 25 VERIFIED, 0 unresolved readings**;
-- `SCANS_0116_0140_VERIFICATION.md` — scans 116–140 **25 / 25 VERIFIED, 0 unresolved readings**.
+- `SCANS_0116_0140_VERIFICATION.md` — scans 116–140 **25 / 25 VERIFIED, 0 unresolved readings**;
+- `SCANS_0141_0145_VERIFICATION.md` — scans 141–145 **5 / 5 VERIFIED, 0 unresolved readings**.
 
-The scans 116–140 gate records enlarged-source readings including `பொசுக்கியதாக வேண்டும்!`, `உளவறியப் போயிருக்கிறார்!`, `சாஜூரைத் தவிர`, `அல்லியை அள்ளிப் பருக`, `நாமே அதையெல்லாம்`, `(முணுமுணுத்தபடி)`, `மாதேன்மத்தர்கள்!`, and `கல்நாட்டு`.
+The scans 141–145 mini-gate records enlarged-source readings including `கேளடா!`, `கேட்டுன்னைத்`, `ருத்திராக்ஷ`, `உண்மையானா?`, `சக்கரவர்த்திக்கு`, `போலி வேதாரி`, `இன்றில்லா விட்டால்`, `என்ன பழிப்பு?`, `அணைபோட்டுத் தடுக்க`, and `அரசனுடைய அழகில்`.
 
 ## Physical-source boundary
 
 - Scans 1–13: front matter — **VERIFIED**.
-- Scans 14–140: dramatic body — **VERIFIED**.
-- `காட்சி 1`–`காட்சி 40`: page-level complete.
-- `காட்சி 40`: closes on scan 140.
-- Scan 140: printed page **131**; `காட்சி 40` closes.
-- Scan 141: next unprocessed physical scan / printed page **132** / `காட்சி 41` opening.
+- Scans 14–145: dramatic body — **VERIFIED**.
+- `காட்சி 1`–`காட்சி 41`: page-level complete.
+- `காட்சி 41`: scan 141–144; closes on scan 144.
+- Scan 145: printed page **136**; `காட்சி 42` begins and continues onto scan 146.
 - Scan 169: printed page 160, `காட்சி 47`, `(முடிவுற்றது)`.
 - Scan 170: back-cover publisher catalogue / advertisement.
 
 ## Critical PDF-ingestion note
 
-A conversation-file preview exposed only the first **150** pages, but raw-PDF inspection establishes **170 physical pages** and scans 151–170 were directly rendered during intake. Never treat scan 150 as the source end.
+A conversation-file preview exposed only the first **150** pages, but raw-PDF inspection establishes **170 physical pages**. Never treat scan 150 as the source end.
 
 ## Archival rules
 
 `STAGE_PLAY_PROCESSING_GUIDE.md` governs this work. Scan is controlling authority; no silent lexical/punctuation/speaker/stage-direction/old-glyph normalization; printed pagination is recorded only when visible; physical page breaks are preserved; page transcription precedes scene assembly; English is a separate later phase.
 
-## Exact next activity
+## Simplified final-range workflow
 
-Process the next **25-page iteration: scans 141–165**, beginning at **scan 141 / printed page 132 / காட்சி 41 opening**. Perform direct page-by-page reconciliation and an enlarged-source fidelity pass before the batch is marked complete.
+The remaining source work is intentionally being processed in small durable mini-batches rather than one large 30-page write.
+
+Completed mini-batch:
+
+- scans **141–145** — **5 / 5 VERIFIED**.
+
+Exact next source task:
+
+- scans **146–150** only;
+- preserve the scan 145→146 continuation;
+- create `pages/0146.md` through `pages/0150.md` plus a mini-batch verification record;
+- stop at scan 150 for that task unless explicitly asked to continue.
+
+The large page map and final repository-wide tracking state must be fully synchronized by aggregate scans 141–170 closure.
 
 Do **not** begin English translation and do not reopen closed `நான்மணி மாலை` work.
