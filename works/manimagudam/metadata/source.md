@@ -51,7 +51,7 @@ The user-supplied catalog statement **ஆறாம் பதிப்பு, 201
 - Scan 11: `பதிப்புரை` plus edition / copyright / publication / printing block.
 - Scans 12–13: author preface headed **என்னுரை**. Scan 13 ends with **22.7.1986 / அன்புள்ள / மு.கருணாநிதி**.
 
-Exact caption wording and full front-matter transcription remain to be completed page by page. This survey is not a substitute for page records.
+Exact caption wording and the complete front-matter transcription are preserved in the verified page records `../pages/0001.md` through `../pages/0013.md`. This survey remains a source overview rather than a substitute for those page records.
 
 ## Author-preface source context
 
