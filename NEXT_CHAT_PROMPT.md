@@ -12,7 +12,9 @@ Before any future repository change, read completely:
 2. `HANDOVER.md`;
 3. this `NEXT_CHAT_PROMPT.md`;
 4. `works/manimagudam/README.md`;
-5. the latest source/review files relevant to the activity explicitly requested by the user.
+5. `works/manimagudam/translations/en/README.md`;
+6. `works/manimagudam/translations/en/TRANSLATION_REVIEW.md`;
+7. the verified Tamil scene assemblies needed for the next translation batch.
 
 ## மணிமகுடம் durable checkpoint
 
@@ -23,37 +25,52 @@ Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 - physical PDF scans: **170**;
 - page-level Tamil archive: **170 / 170 COMPLETE**;
 - durable page records: `works/manimagudam/pages/0001.md` through `0170.md`;
-- `காட்சி 1` through `காட்சி 47`: page-level source transcription complete;
 - Tamil scene assembly: **47 / 47 PASS / COMPLETE**;
 - assembled files: `works/manimagudam/scenes/01.md` through `47.md`;
-- per-scene fidelity reviews through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`;
 - unresolved assembly discrepancies: **0**;
 - final dramatic scan 169 / printed page 160 ends `(முடிவுற்றது)`;
 - scan 170 is separate verified publisher back matter;
-- English translation: **not authorized / not started**.
+- independent English translation: **IN PROGRESS — 5 / 47 scenes translated and reviewed**;
+- current English files: `works/manimagudam/translations/en/01.md` through `05.md`;
+- unresolved translation blocks through Scene 5: **0**;
+- secondary-English contamination: **0**.
 
-Do not reopen scans 1–170 or completed scene assemblies without new source evidence or explicit user direction.
+Do not reopen scans 1–170 or completed Tamil scene assemblies without new source evidence or explicit user direction.
 
-## Completed final assembly batch — Scenes 28–47
+## Completed English batch 1 — Scenes 1–5
 
-The user explicitly authorized assembly from `காட்சி 28` through the final `காட்சி 47`. All twenty final scene gates are durable and PASS. Scene assembly is therefore closed at **47 / 47**.
+The user explicitly authorized the English phase after Tamil assembly closed. The first bounded batch has been translated independently from the verified Tamil scene assemblies and Tamil→English reviewed.
 
-Source boundaries in this batch were handled from the verified page records only. Mechanical continuations were joined without changing source wording, punctuation, speaker labels, stage directions, repetitions, ellipses or old/source forms. Shared scans with multiple scene boundaries — especially scans 131, 136, 162 and 169 — were split only at the source-visible headings.
+- Scene 1 — scans 14–19 — PASS;
+- Scene 2 — scans 20–24 — PASS;
+- Scene 3 — scans 24–26 — PASS;
+- Scene 4 — scans 27–30 — PASS;
+- Scene 5 — scans 30–32 — PASS.
 
-`காட்சி 47` retains the final source marker `(முடிவுற்றது)`.
+Translation controls established so far include:
+
+- `மக்கள் மன்றம்` → `People's Forum`;
+- `சீமான்கள் சபை` → `Assembly of Nobles`;
+- `மக்கள் தொண்டன்` → *People's Servant*;
+- `ஆட்சிப் பீடம்` → `seat of power` where the abstract institution is intended;
+- source-sensitive ambiguity is preserved rather than silently repaired;
+- no published English or secondary witness has been used in drafting/review.
 
 ## Exact next activity
 
-There is **no automatic next activity** for `மணிமகுடம்`.
+Translate and review **Scenes 6–10 only**.
 
-Wait for an explicit user instruction. In particular, **do not start English translation unless the user explicitly authorizes it**. If English translation is authorized later:
+1. Fetch live `main` first.
+2. Fetch and read complete verified Tamil assemblies `works/manimagudam/scenes/06.md` through `10.md`.
+3. Create `works/manimagudam/translations/en/06.md` through `10.md` using the established English schema.
+4. Derive every translation from the verified Tamil assembly, not OCR, outside summaries or secondary English.
+5. Preserve speaker identities, stage directions, scene structure, repetitions, humour, rhetoric, political meaning, lexical distinctions and source ambiguity.
+6. Review each new file back against its Tamil authority before marking `translation-reviewed` / PASS.
+7. Extend `translations/en/TRANSLATION_REVIEW.md` and `translations/en/README.md` to **10 / 47** only after all five pass.
+8. Update root/work README and handover tracking.
+9. Stop at Scene 10 unless the user explicitly asks to continue further in the same activity.
 
-1. fetch live `main` first;
-2. read the repository translation guidance and current handover completely;
-3. derive translation from the verified assembled Tamil scenes, not OCR or outside summaries;
-4. preserve source meaning, dramatic structure, speaker identities, stage directions and historically specific terminology;
-5. keep published English, if consulted, as a secondary witness rather than controlling authority;
-6. retain the standing safeguard that `அந்தணர்` is not automatically translated as `Brahmin` without contextual justification.
+Standing safeguard: `அந்தணர்` is not automatically translated as `Brahmin` without contextual justification.
 
 ## Critical source safeguard
 
@@ -63,7 +80,8 @@ The raw PDF has **170 physical scans** even though a conversation preview expose
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- English translation: **not authorized / not started**.
+- Independent English translation: **IN PROGRESS — 5 / 47 translation-reviewed**.
+- Secondary-English witness comparison for `மணிமகுடம்`: **not started**.
 
 ## Provenance safeguard
 
