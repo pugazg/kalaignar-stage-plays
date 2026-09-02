@@ -2,11 +2,9 @@
 
 ## Decision
 
-**Release status: READY FOR ARCHIVAL + INDEPENDENT-ENGLISH RELEASE, with one non-content documentation cleanup noted below.**
+**Release status: READY / FINAL for the source-first Tamil archive + independent-English release.**
 
-This assessment covers the source-first Tamil archive, verified Tamil scene assembly, and independent English translation for `works/manimagudam/`. It does **not** claim completion of a secondary-English witness comparison; that remains a separate optional phase.
-
-Assessment baseline before this document was created: live `main` at `506c59e231cb7cfd728b29ae90c35bfb1eb255d1` (`Set Manimagudam post-translation handover prompt`). Any later durable commit supersedes that baseline while preserving the completed work state.
+This assessment covers the source-first Tamil archive, verified Tamil scene assembly, independent English translation, and final active-documentation synchronization for `works/manimagudam/`. It does **not** claim completion of a secondary-English witness comparison; that remains a separate optional future phase and is not a blocker for this release scope.
 
 ## Release scope
 
@@ -14,12 +12,12 @@ The release-ready package consists of:
 
 - source metadata and intake/provenance documentation;
 - physical-page archival records for all **170** source scans;
-- page-map and verification records;
+- synchronized page-map and verification records;
 - Tamil scene assemblies for **47 / 47** scenes;
 - per-scene assembly fidelity reviews through Scene 47;
 - independent English translations for **47 / 47** scenes;
 - consolidated Tamil→English translation review;
-- work README, repository handover, and continuation safeguards.
+- work README, repository handover, project-completion record, and continuation safeguards.
 
 The controlling source PDF itself remains external to the repository by design.
 
@@ -40,8 +38,6 @@ Recorded source identity:
 The raw **170-scan** count is authoritative even though an earlier conversation/file preview exposed only the first 150 pages.
 
 ## Physical archive gate — PASS
-
-Coverage is complete for every physical scan:
 
 | Source extent | Result |
 |---|---:|
@@ -119,32 +115,37 @@ Two performance-history layers remain deliberately separate:
 
 No silent reconciliation has been made between these statements.
 
-## Release documentation audit
+## Final documentation audit — PASS
 
-Authoritative current status documents (`README.md`, `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, and `translations/en/TRANSLATION_REVIEW.md`) record the Tamil archive, assembly, and independent English phases as complete.
+The final active-documentation cleanup has been completed.
 
-One historical tracking file still contains stale metadata from the earlier page-transcription phase:
+- `indexes/page-map.md` scan **151** now correctly records Scene 42 as continuing throughout that scan;
+- scan **152** now correctly records the Scene 42 close and Scene 43 opening on the same physical scan;
+- the `indexes/page-map.md` final checkpoint now records **47 / 47** Tamil scene assembly and **47 / 47** independent English completion instead of the obsolete pre-assembly/pre-translation state;
+- `metadata/source.md` now records the front-matter transcription as complete in verified `pages/0001.md` through `pages/0013.md`, replacing its obsolete pending-work statement;
+- current work status, handover, translation review, release-readiness, and project-completion surfaces are synchronized to the closed project state.
 
-- `indexes/page-map.md` row for scan **151** says Scene 42 closes there, while verified `pages/0151.md` records Scene 42 continuing throughout scan 151 and `pages/0152.md` records the actual Scene 42 close / Scene 43 opening on scan 152;
-- the footer of `indexes/page-map.md` still says scene assembly had not started and English was not authorized/not started.
-
-These are **documentation-only inconsistencies**. They do not alter the verified page records, assembled scenes, fidelity reviews, English translations, or final translation review. They should be corrected before creating a formal immutable release tag so that every tracking surface reports the same final state.
+**No known stale active `மணிமகுடம்` status documentation remains after this audit.** Historical verification records remain historical evidence and are not rewritten merely because they contain checkpoint-era context.
 
 ## Exclusions / non-blocking future work
 
-The following is **not part of this release-readiness claim**:
+The following is deliberately outside this release scope:
 
 - secondary-English witness comparison.
 
 If an appropriate published English witness is later supplied or identified and the user authorizes comparison, it must be opened as a separate provenance layer. It must not retroactively rewrite the verified Tamil archive or the locked independent English translation.
 
-## Release recommendation
+## Final release result
 
 **Content gates: PASS.**  
 **Archival completeness: PASS.**  
 **Tamil scene fidelity: PASS.**  
 **Independent-English fidelity: PASS.**  
-**Unresolved literary/translation blocks: 0.**  
+**Active-documentation synchronization: PASS.**  
+**Unresolved assembly discrepancies: 0.**  
+**Unresolved translation blocks: 0.**  
 **Secondary-English contamination: 0.**
 
-Recommendation: **release-ready after synchronizing the two stale `indexes/page-map.md` metadata statements identified above.** No re-transcription, re-assembly, or re-translation is required for that cleanup.
+**RELEASE RESULT: READY / FINAL for the defined source-first Tamil archive + independent-English scope.**
+
+No re-transcription, re-assembly, re-translation, or documentation cleanup remains in the active `மணிமகுடம்` project state.
