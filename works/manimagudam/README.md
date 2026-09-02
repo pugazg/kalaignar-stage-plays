@@ -16,11 +16,10 @@ Archive slug: `manimagudam`.
 - Assembled files: `scenes/01.md` through `scenes/47.md`.
 - Per-scene fidelity reviews: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`.
 - Assembly unresolved discrepancies: **0**.
-- Independent English translation: **40 / 47 scenes translated and reviewed**.
-- Current English frontier: **Scene 40**.
-- English files: `translations/en/01.md` through `translations/en/40.md`.
-- Translation review: `translations/en/TRANSLATION_REVIEW.md` — **Scenes 1–40 PASS**.
-- English unresolved translation blocks through Scene 40: **0**.
+- Independent English translation: **47 / 47 COMPLETE / PASS**.
+- English files: `translations/en/01.md` through `translations/en/47.md`.
+- Translation review: `translations/en/TRANSLATION_REVIEW.md` — **Scenes 1–47 PASS / COMPLETE**.
+- English unresolved translation blocks: **0**.
 - Secondary-English contamination: **0**.
 - Final dramatic source marker: scan **169 / printed page 160** ends `(முடிவுற்றது)`.
 - Scan **170** is verified publisher back matter and is not part of the dramatic assembly.
@@ -55,7 +54,7 @@ The user-supplied catalog description records a **1962 Madurai DMK conference** 
 
 Keep these layers separate unless a separate source resolves them.
 
-## Page-level verification checkpoint
+## Page-level verification checkpoint — COMPLETE
 
 The page-level archive is closed at **170 / 170 COMPLETE**. `indexes/page-map.md` remains the physical-page/source map through scan 170. Final-range verification includes `SCANS_0141_0170_VERIFICATION.md` at **30 / 30 VERIFIED, 0 unresolved**.
 
@@ -72,25 +71,28 @@ All assembly gates are complete:
 
 `காட்சி 47` is the final dramatic scene and retains the source-visible closure `(முடிவுற்றது)`.
 
-## Independent English translation — IN PROGRESS
+## Independent English translation — COMPLETE
 
-The English phase is authorized. Translation authority is the verified Tamil scene assembly, not OCR, outside summaries or a published-English witness.
+Translation authority is the verified Tamil scene assembly, not OCR, outside summaries or a published-English witness.
 
 Completed batches:
 
-- Scenes **1–5**: **translated + Tamil→English reviewed / PASS**;
-- Scenes **6–10**: **translated + Tamil→English reviewed / PASS**;
-- Scenes **11–20**: **translated + Tamil→English reviewed / PASS**;
-- Scenes **21–30**: **translated + Tamil→English reviewed / PASS**;
-- Scenes **31–40**: **translated + Tamil→English reviewed / PASS**;
-- English files: `translations/en/01.md` through `translations/en/40.md`;
-- review gate: `translations/en/TRANSLATION_REVIEW.md`;
-- unresolved translation blocks through Scene 40: **0**;
+- Scenes **1–5**: **PASS / locked**;
+- Scenes **6–10**: **PASS / locked**;
+- Scenes **11–20**: **PASS / locked**;
+- Scenes **21–30**: **PASS / locked**;
+- Scenes **31–40**: **PASS / locked**;
+- Scenes **41–47**: **PASS / locked**.
+
+Final English state:
+
+- English files: `translations/en/01.md` through `translations/en/47.md`;
+- consolidated review: `translations/en/TRANSLATION_REVIEW.md`;
+- translation-reviewed scenes: **47 / 47**;
+- unresolved translation blocks: **0**;
 - secondary-English witness use during drafting/review: **0**.
 
-The Scene 31–40 batch preserves Alli's palace escape; Alli/Puthumaippithan's love-and-duty exchange; Ponnazhagan's growing misunderstanding; Puthumaippithan's transformation back into King Manimaran; newspaper suppression; the emergency repression plan; Kalarani's use of the dropped letter; Ponnazhagan's mistaken fifth-column accusation; and the Assembly death order / ten-thousand-mohar bounty. Verified unusual forms such as `சாஜூரைத் தவிர`, `பாலைவனையை`, and `மாதேன்மத்தர்கள்` remain conservatively visible rather than silently normalized.
-
-The next bounded batch is **Scenes 41–45**.
+The final batch preserves Gurunathar's exposure/death, the Forum's internal accusation and assassination lot, the king's full identity disclosure and election argument, Alli's final mission, the Manimaran/Puthumaippithan reveal to Alli, Alli's self-shooting, Ponnazhagan's shooting of Manimaran, the dying political farewell, and the final statue/song scene. Verified source anomalies and compressed terms remain visible rather than silently repaired.
 
 ## Critical PDF-ingestion note
 
@@ -100,7 +102,7 @@ A conversation/file preview exposed only the first **150** pages, but raw-PDF in
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- Independent English translation: **IN PROGRESS — 40 / 47 reviewed**.
+- Independent English translation: **COMPLETE — 47 / 47 PASS**.
 - Secondary-English witness comparison for `மணிமகுடம்`: **not started**.
 
-Do not reopen the closed Tamil page or assembly gates without explicit direction or new source evidence. Continue English from verified Tamil assemblies only.
+There is no remaining Tamil archival, Tamil assembly or independent-English drafting work for this source. Do not reopen those closed gates without explicit direction or new source evidence. Any secondary-English comparison must remain a separate later phase.
