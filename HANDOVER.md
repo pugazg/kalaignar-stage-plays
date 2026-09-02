@@ -49,42 +49,43 @@ Translation authority is the verified Tamil scene assembly. OCR, outside summari
 - Batch 1 — Scenes **1–5**: **translation-reviewed / PASS**;
 - Batch 2 — Scenes **6–10**: **translation-reviewed / PASS**;
 - Batch 3 — Scenes **11–20**: **translation-reviewed / PASS**;
-- Batch 4 — Scenes **21–30**: **translation-reviewed / PASS**.
+- Batch 4 — Scenes **21–30**: **translation-reviewed / PASS**;
+- Batch 5 — Scenes **31–40**: **translation-reviewed / PASS**.
 
-Current English files: `works/manimagudam/translations/en/01.md` through `30.md`.
+Current English files: `works/manimagudam/translations/en/01.md` through `40.md`.
 
-Current independent-English dramatic progress: **30 / 47 scenes translated and reviewed**.
+Current independent-English dramatic progress: **40 / 47 scenes translated and reviewed**.
 
-Unresolved translation blocks through Scene 30: **0**.
+Unresolved translation blocks through Scene 40: **0**.
 
 Secondary-English contamination: **0**.
 
-### Completed Batch 4 — Scenes 21–30
+### Completed Batch 5 — Scenes 31–40
 
-The user explicitly requested processing Scene 21 through Scene 30 in one activity. All ten scenes were independently translated from verified Tamil assemblies and reviewed back against those authorities.
+The user explicitly requested processing Scene 31 through Scene 40 in one activity. All ten scenes were independently translated from verified Tamil assemblies and reviewed back against those authorities.
 
-- Scene 21 / scans **85–94** — counterfeit-king setup and final identity disclosure — **PASS**;
-- Scene 22 / scans **94–95** — competing newspaper street circulation — **PASS**;
-- Scene 23 / scans **95–100** — staged brain-disorder performance and dense sound-wordplay — **PASS**;
-- Scene 24 / scans **100–101** — Gurunathar's divine-punishment argument and Margazhi ceremony resolution — **PASS**;
-- Scene 25 / scans **101–104** — three-seat power conflict and murder conspiracy — **PASS**;
-- Scene 26 / scans **104–108** — king's long political speech and new-republic plan — **PASS**;
-- Scene 27 / scan **108** — devotional procession stage description only — **PASS**;
-- Scene 28 / scans **108–110** — protest blockade, assassination attempt and Alli's wound — **PASS**;
-- Scene 29 / scans **110–117** — king's imagined dialogue, Alli's palace/common-ownership debate and detention — **PASS**;
-- Scene 30 / scans **117–121** — Vanji/Ulagappan romantic-comic wordplay — **PASS**.
+- Scene 31 / scans **121–122** — Alli's palace escape with Puthumaippithan — **PASS**;
+- Scene 32 / scans **122–127** — mutual love / duty compact and return to royal identity — **PASS**;
+- Scene 33 / scans **127–131** — Kalarani / Ponnazhagan / Alli tension and Puthumaippithan praise — **PASS**;
+- Scene 34 / scan **131** — *Manimagudam* crackdown after Gurunathar-conspiracy headline — **PASS**;
+- Scene 35 / scans **131–132** — emergency repression / propaganda plan — **PASS**;
+- Scene 36 / scans **132–135** — unsigned letter, Kalarani's observation and garden trap — **PASS**;
+- Scene 37 / scans **135–136** — love-and-duty exchange overheard by Ponnazhagan — **PASS**;
+- Scene 38 / scan **136** — Puthumaippithan changes into the king; Ponnazhagan follows — **PASS**;
+- Scene 39 / scans **136–137** — Ponnazhagan's mistaken fifth-column accusation — **PASS**;
+- Scene 40 / scans **137–140** — Assembly ban, death order, ten-thousand-mohar bounty and capture of the actual knife attacker — **PASS**.
 
-Batch-4 source-sensitive controls include:
+Batch-5 source-sensitive / rhetorical controls include:
 
-- Scene 21 `leaf-cup / ghee` proverb retained literally;
-- Scene 23 sound-puns kept visible through Tamil transliteration where English substitution would erase the mechanism;
-- `மார்கழி` → `Margazhi`;
-- `கல் நாட்டு விழா` → `foundation-stone ceremony`;
-- `கொடி நாட்டு விழா` → `flag-raising ceremony`;
-- `ஜெபமாலை`, `தண்டு`, `கமண்டலம்` → prayer-beads, staff, `kamandalam`;
-- `வேதம், சாஸ்திரம், புராணம்` → `Veda, Sastra and Purana`;
-- `செவிடன் காது சங்கு` kept as the source image `a conch blown at a deaf man's ear`;
-- `மயக்கம்` remains context-dependent and is not forced into one English equivalent.
+- `அரண்மனை / அரிவாள் மனை` retained as visible `aranmanai / arivaal-manai` sound-play;
+- terse source `வாட்டுமா?` translated conservatively without an invented object;
+- enlarged-source `சாஜூரைத் தவிர` retained as `Saajur`;
+- `ராஜா / காதல் ராஜா` retained as `king / king of love` because Ponnazhagan's literal hearing drives the misunderstanding;
+- `ஐந்தாம்படை` → `fifth column`;
+- enlarged-source `பாலைவனையை` retained as `paalaivanai`;
+- `மோகராக்கள்` → `mohars`;
+- enlarged-source `மாதேன்மத்தர்கள்` retained as `maathenmaththargal`;
+- source slur `சண்டாளன்` retained as `chandalan` rather than silently mapped to another category.
 
 Recurring controls continue:
 
@@ -94,22 +95,21 @@ Recurring controls continue:
 - `ஆட்சிப் பீடம்` → `seat of power` where abstract authority is meant;
 - `கொடிக்கால் நகரம்` → `Kodikkal Nagar`;
 - `விசேஷ அதிகாரம்` → `special authority`;
-- newspaper title `மணிமகுடம்` → *Manimagudam*;
-- standing safeguard: `அந்தணர்` is not automatically `Brahmin` without contextual justification.
+- newspaper title `மணிமகுடம்` → *Manimagudam*.
 
 ## Exact next activity
 
-Continue the independent English translation with **Scenes 31–35 only**, unless the user explicitly requests a larger range.
+Continue the independent English translation with **Scenes 41–45 only**, unless the user explicitly requests a larger range.
 
 1. Fetch live `main` first.
-2. Read `STAGE_PLAY_PROCESSING_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, `works/manimagudam/README.md`, `works/manimagudam/translations/en/README.md`, and current `TRANSLATION_REVIEW.md`.
-3. Fetch complete verified Tamil assemblies `works/manimagudam/scenes/31.md` through `35.md`.
-4. Translate each scene into `works/manimagudam/translations/en/31.md` through `35.md` using the established schema and terminology controls.
-5. Preserve speaker identity, stage directions, dramatic structure, repetitions, humour, political rhetoric, ambiguity and source-specific terminology.
-6. Review every English scene back against its verified Tamil authority before marking `translation-reviewed` / PASS.
-7. Extend `TRANSLATION_REVIEW.md` and `translations/en/README.md` to **35 / 47** only after all five pass.
+2. Read this handover, `NEXT_CHAT_PROMPT.md`, `STAGE_PLAY_PROCESSING_GUIDE.md`, `works/manimagudam/README.md`, `works/manimagudam/translations/en/README.md`, and the current `TRANSLATION_REVIEW.md`.
+3. Fetch complete verified Tamil assemblies `works/manimagudam/scenes/41.md` through `45.md`.
+4. Translate each scene independently into `works/manimagudam/translations/en/41.md` through `45.md` using the established schema and terminology controls.
+5. Preserve scene structure, speaker identity, stage directions, rhetoric, repetition, humour, ambiguity, political meaning and source-specific terminology.
+6. Review every new English scene back against its verified Tamil assembly before marking `translation-reviewed` / PASS.
+7. Extend `translations/en/TRANSLATION_REVIEW.md` and `translations/en/README.md` to **45 / 47** only after the batch passes.
 8. Update root/work README, this handover and `NEXT_CHAT_PROMPT.md`.
-9. Stop at Scene 35 unless the user explicitly requests further continuation.
+9. Stop at Scene 45 unless the user explicitly requests a larger continuation.
 
 Do **not** reopen the closed Tamil page or scene-assembly gates during ordinary translation work.
 
@@ -130,7 +130,7 @@ Do not silently merge these statements.
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- Independent English translation: **IN PROGRESS — 30 / 47 translation-reviewed**.
+- Independent English translation: **IN PROGRESS — 40 / 47 translation-reviewed**.
 - Secondary-English witness comparison for `மணிமகுடம்`: **not started**.
 
 ## Closed `கலைஞரின் நான்மணி மாலை` state
@@ -151,4 +151,5 @@ Do not reopen closed work without explicit direction or new source evidence.
 - scene assembly derives only from verified page records;
 - independent translation derives from verified Tamil scene assemblies;
 - provisional/uncommitted work is not durable verification;
-- published English remains a secondary witness.
+- published English remains a secondary witness;
+- `அந்தணர்` is not automatically `Brahmin` without contextual justification.
