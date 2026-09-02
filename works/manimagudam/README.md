@@ -5,7 +5,6 @@ Archive slug: `manimagudam`.
 ## Current status
 
 - Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
-- Source intake / structural survey: **REGISTERED**.
 - Physical PDF scans: **170**.
 - Front matter scans **1–13: 13 / 13 VERIFIED**.
 - Dramatic-body scans **14–169: 156 / 156 VERIFIED**.
@@ -13,9 +12,10 @@ Archive slug: `manimagudam`.
 - Overall Tamil page-level archival transcription: **170 / 170 COMPLETE**.
 - Durable page records: `pages/0001.md` through `pages/0170.md`.
 - `காட்சி 1` through `காட்சி 47`: page-level source transcription complete.
-- Final dramatic scan: **169 / printed page 160**, ending `(முடிவுற்றது)`.
-- Final physical scan: **170**, publisher catalogue / advertisement.
-- Tamil scene assembly: **7 / 47 PASS** — `scenes/01.md` through `scenes/07.md` are assembly-reviewed from verified page records.
+- Tamil scene assembly: **17 / 47 PASS**.
+- Assembled files: `scenes/01.md` through `scenes/17.md`.
+- Per-scene fidelity reviews: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` through `SCENE17_ASSEMBLY_FIDELITY_REVIEW.md`.
+- Assembly unresolved discrepancies through Scene 17: **0**.
 - English translation: **not authorized / not started**.
 - Source PDF remains external to the repository.
 
@@ -28,7 +28,7 @@ Archive slug: `manimagudam`.
 
 ### User-supplied catalog description
 
-> மேரி காரல்லி எழுதிய புதினத்தின் அரசன் கதாபாத்திரத்தை மையமாகக் கொண்டு நவீனக் காலத்தை நோக்கிப் பயணிக்கிற ஒரு காலகட்டத்தில் கதை நடப்பதாக எழுதப்பட்ட நாடகம். மதம், ஆட்சிபீடம், பிரச்சார பீடம் இம்மூன்றுக்கும் மக்களுக்கும் இடையில் நடைபெறும் போராட்டமே இந்நாடகம். மதகுருவாக இருக்கிற ஒருவர் எப்படியெல்லாம் அரசனை ஆட்டிப்படைக்கிறார் என்பதை எடுத்துச்சொல்லும் இந்நாடகம், 1962 மதுரையில் நடைபெற்ற தி.மு.க. மாநாட்டில் நிகழ்த்தப்பட்டது.
+> மேரி காரல்லி எழுதிய புதினத்தின் அரசன் கதாபாத்திரத்தை மையமாகக் கொண்டு நவீனக் காலத்தை நோக்கிப் பயணிக்கிற ஒரு காலகட்டத்தில் கதை நடப்பதாக எழுதப்பட்ட நாடகம். மதம், ஆட்சிபீடம், பிரச்சார பீடம் இம்மூன்றுக்கும் மக்களுக்கும் இடையில் நடைபெறும் போராட்டமே இந்நாடகம். மதகுருவாக இருக்கிற ஒருவர் எப்படியெல்லாம் அரசனை ஆட்டிப்படைகிறார் என்பதை எடுத்துச்சொல்லும் இந்நாடகம், 1962 மதுரையில் நடைபெற்ற தி.மு.க. மாநாட்டில் நிகழ்த்தப்பட்டது.
 
 The paragraph above remains **user-supplied catalog context**, not verbatim transcription from the controlling scan.
 
@@ -41,68 +41,55 @@ The paragraph above remains **user-supplied catalog context**, not verbatim tran
 
 ## Performance-history provenance note
 
-The user-supplied catalog description records a **1962 Madurai DMK conference** performance. The controlling scan independently supplies different/additional evidence:
+The user-supplied catalog description records a **1962 Madurai DMK conference** performance. The controlling scan independently supplies:
 
 - scan 4: **May 1956**, DMK second state conference, Tiruchirappalli, staging by the S. S. Rajendran troupe;
 - scan 5: **September 1963** staging associated with the Murasoli drama troupe under Anna's leadership.
 
-The controlling scan does not itself establish the 1962 Madurai statement. Keep the layers separate unless a separate source resolves them.
+Keep these layers separate unless a separate source resolves them.
 
-## Durable page-level verification checkpoint
+## Page-level verification checkpoint
 
-Completed fidelity gates include:
+The page-level archive is closed at **170 / 170 COMPLETE**. `indexes/page-map.md` is synchronized through scan 170. Final-range verification includes `SCANS_0141_0170_VERIFICATION.md` at **30 / 30 VERIFIED, 0 unresolved**.
 
-- `SCANS_0015_0039_VERIFICATION.md` — PASS / COMPLETE;
-- `SCANS_0041_0065_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved**;
-- `SCANS_0066_0090_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved**;
-- `SCANS_0091_0115_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved**;
-- `SCANS_0116_0140_VERIFICATION.md` — **25 / 25 VERIFIED, 0 unresolved**;
-- `SCANS_0141_0145_VERIFICATION.md` — **5 / 5 VERIFIED, 0 unresolved**;
-- `SCANS_0146_0150_VERIFICATION.md` — **5 / 5 VERIFIED, 0 unresolved**;
-- `SCANS_0151_0155_VERIFICATION.md` — **5 / 5 VERIFIED, 0 unresolved**;
-- `SCANS_0156_0160_VERIFICATION.md` — **5 / 5 VERIFIED, 0 unresolved**;
-- `SCANS_0161_0170_VERIFICATION.md` — **10 / 10 VERIFIED, 0 unresolved**;
-- `SCANS_0141_0170_VERIFICATION.md` — final-range aggregate **30 / 30 VERIFIED, 0 unresolved**.
+## Scene assembly phase
 
-`indexes/page-map.md` is synchronized through scan 170 and records the whole-work **170 / 170 COMPLETE** checkpoint.
-
-## Tamil scene assembly phase
-
-Scene assembly is explicitly authorized and derives only from verified page records. Assembly may remove only mechanical physical page interruptions; exact source wording, punctuation, speaker-label variants, stage directions, repetitions, ellipses and source forms remain controlling.
+Scene assembly derives only from verified page records. It may remove mechanical physical-page interruptions for readability, but must not alter source wording, punctuation, speaker-label variants, stage directions, repetitions, ellipses, old/source forms or scene boundaries.
 
 Completed assembly gates:
 
-- `காட்சி 1` — `scenes/01.md`, scans **14–19** — **PASS**;
-- `காட்சி 2` — `scenes/02.md`, scans **20–24** — **PASS**;
-- `காட்சி 3` — `scenes/03.md`, scans **24–26** — **PASS**;
-- `காட்சி 4` — `scenes/04.md`, scans **27–30** — **PASS**;
-- `காட்சி 5` — `scenes/05.md`, scans **30–32** — **PASS**;
-- `காட்சி 6` — `scenes/06.md`, scans **32–39** — **PASS**;
-- `காட்சி 7` — `scenes/07.md`, scans **39–44** — **PASS**.
+- `காட்சி 1` — scans 14–19 — **PASS**;
+- `காட்சி 2` — scans 20–24 — **PASS**;
+- `காட்சி 3` — scans 24–26 — **PASS**;
+- `காட்சி 4` — scans 27–30 — **PASS**;
+- `காட்சி 5` — scans 30–32 — **PASS**;
+- `காட்சி 6` — scans 32–39 — **PASS**;
+- `காட்சி 7` — scans 39–44 — **PASS**;
+- `காட்சி 8` — scans 44–49 — **PASS**;
+- `காட்சி 9` — scans 49–50 — **PASS**;
+- `காட்சி 10` — scans 50–55 — **PASS**;
+- `காட்சி 11` — scans 55–58 — **PASS**;
+- `காட்சி 12` — scans 58–59 — **PASS**;
+- `காட்சி 13` — scans 60–65 — **PASS**;
+- `காட்சி 14` — scans 65–68 — **PASS**;
+- `காட்சி 15` — scans 68–70 — **PASS**;
+- `காட்சி 16` — scans 70–74 — **PASS**;
+- `காட்சி 17` — scans 74–75 — **PASS**.
 
-Each scene has a matching `SCENE*_ASSEMBLY_FIDELITY_REVIEW.md`. Through Scene 7, shared-page scene boundaries and all mechanical cross-page joins have been checked, with **0 unresolved assembly discrepancies**.
+Important assembly joins in the latest batch include scan 57→58 (குணசீலர்), scan 63→64 (அரசன்), scan 73→74 (புதுமைப்பித்தன்), and scan 74→75 (the `மணிமகுடம்` newspaper quotation). Shared-page scene boundaries at scans 49, 50, 55, 58, 65, 68, 70 and 74 were split at the source-visible headings.
 
-Exact next scene-assembly task:
+### Next scene-assembly task
 
-- assemble `காட்சி 8` from the verified Scene 8 portions of scans **44–49** / printed pages **35–40**;
-- scan 44 begins Scene 8 after Scene 7 closes;
-- scan 49 closes Scene 8 and then opens `காட்சி 9` on the same physical page;
-- stop Scene 8 assembly at the source-visible `காட்சி 9` boundary.
-
-## Final physical-source boundary
-
-- Scans 1–13: front matter — **VERIFIED**.
-- Scans 14–169: dramatic body — **VERIFIED**.
-- `காட்சி 1` through `காட்சி 47`: page-level complete.
-- Scan 169: printed page **160**; `காட்சி 46` closes, `காட்சி 47` begins and closes, and `(முடிவுற்றது)` is source-visible.
-- Scan 170: verified back-cover publisher catalogue headed `கலைஞரின் சிறப்புமிகு நூல்கள்`; source title `தேர் சென்ற பாதையிலே` retained.
+`காட்சி 18` only, from verified scans **76–80** / printed pages **67–71**. Scan 80 closes Scene 18 and opens `காட்சி 19`; stop before the Scene 19 heading.
 
 ## Critical PDF-ingestion note
 
-A conversation-file preview exposed only the first **150** pages, but raw-PDF inspection establishes **170 physical scans**. Scans 151–170 were rendered and reconciled directly from the raw source. Never treat scan 150 as the source end.
+A conversation/file preview exposed only the first **150** pages, but raw-PDF inspection established **170 physical scans**. The raw 170-page count is authoritative.
 
-## Archival rules / phase boundary
+## Phase boundary
 
-`STAGE_PLAY_PROCESSING_GUIDE.md` governs this work. The scan is controlling authority; no silent lexical, punctuation, speaker, stage-direction, or old-glyph normalization; physical page breaks remain preserved in page records; scene assembly derives only from verified pages and documents mechanical joins.
+- Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
+- Tamil scene assembly: **ACTIVE — 17 / 47 PASS**.
+- English translation: **not authorized / not started**.
 
-English translation remains a **separate, not-yet-authorized phase** and must not begin automatically while Tamil scene assembly is in progress.
+Do not begin English translation automatically while Tamil scene assembly remains active.
