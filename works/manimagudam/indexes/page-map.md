@@ -156,8 +156,8 @@ Printed pagination is recorded only when directly visible. The raw PDF contains 
 | 148 | 139 | காட்சி 42 | continuation | verified | Source forms `பொன்னழகின்`, `சகோதரனாகவே, கருதுகிறேன்!`, `கொள்ளுங்கள்...!`. |
 | 149 | 140 | காட்சி 42 | continuation | verified | Blot-obscured `சாட்சி?` resolved by enlarged same-page comparison; source punctuation retained; final அல்லி utterance continues. |
 | 150 | 141 | காட்சி 42 | continuation | verified | Begins physical continuation of அல்லி; `திரணமாக`, `அபாக்கியவதி`, `உத்திரவு` / later `உத்தரவு` retained; scene continues. |
-| 151 | 142 | காட்சி 42 | scene close | verified | Raw-PDF reconciliation completed beyond preview boundary; scene 42 closes on this scan. |
-| 152 | 143 | காட்சி 42 / காட்சி 43 | close + opening | verified | `காட்சி 43` begins after scene-42 closure. |
+| 151 | 142 | காட்சி 42 | continuation | verified | Raw-PDF reconciliation completed beyond preview boundary; scene 42 continues throughout this scan. |
+| 152 | 143 | காட்சி 42 / காட்சி 43 | close + opening | verified | Scene 42 closes; `காட்சி 43` begins on the same physical scan. |
 | 153 | 144 | காட்சி 43 | continuation | verified | Direct raw-PDF reconciliation; source wording and physical boundaries retained. |
 | 154 | 145 | காட்சி 43 | continuation | verified | Source forms include `நடிடான்னு`, `கடுந்தண்டனை`; scene continues. |
 | 155 | 146 | காட்சி 43 | continuation | verified | Difficult `சித்தங் கலங்கியவனைப்` resolved; source forms `நடுத்தெரு நாராயணன்`, `குப்பை மேட்டுப் பயல்`, `மண்ணாங்கட்டியுமல்ல`, `சபையோர்க்களே`; final `அர:` utterance continues. |
@@ -190,5 +190,10 @@ The conversation preview exposed only scans 1–150, but direct raw-PDF inspecti
 - `காட்சி 1` through `காட்சி 47`: page-level source transcription complete.
 - Durable page records: `../pages/0001.md` through `../pages/0170.md`.
 - Final aggregate gate: `../SCANS_0141_0170_VERIFICATION.md` — **30 / 30 VERIFIED, 0 unresolved readings**.
+- Tamil scene assembly: **47 / 47 PASS / COMPLETE**; durable scenes are `../scenes/01.md` through `../scenes/47.md`.
+- Independent English translation: **47 / 47 PASS / COMPLETE**; durable translations are `../translations/en/01.md` through `../translations/en/47.md`.
+- Assembly unresolved discrepancies: **0**.
+- Translation unresolved blocks: **0**.
+- Secondary-English contamination: **0**.
 
-Scene assembly has **not started**. English translation is **not authorized / not started**. These are separate later phases and must not begin automatically.
+There is no remaining Tamil page transcription, Tamil scene assembly, or independent-English drafting/review work for `மணிமகுடம்`. A secondary-English witness comparison remains a separate optional future phase and may begin only if an appropriate witness is supplied or identified and the user explicitly authorizes that phase.
