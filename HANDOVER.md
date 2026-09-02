@@ -34,61 +34,72 @@ Durable source identity:
 
 ## Tamil scene assembly checkpoint
 
-The user explicitly authorized assembly through `காட்சி 17`. Scene assembly derives only from verified page records; no page-level source gate was reopened.
+The user explicitly authorized scene assembly through `காட்சி 27`. Scene assembly derives only from verified page records; no page-level source gate was reopened.
 
 Completed scene assemblies:
 
-- `காட்சி 1` — scans **14–19** — `scenes/01.md` — **PASS**;
-- `காட்சி 2` — scans **20–24** — `scenes/02.md` — **PASS**;
-- `காட்சி 3` — scans **24–26** — `scenes/03.md` — **PASS**;
-- `காட்சி 4` — scans **27–30** — `scenes/04.md` — **PASS**;
-- `காட்சி 5` — scans **30–32** — `scenes/05.md` — **PASS**;
-- `காட்சி 6` — scans **32–39** — `scenes/06.md` — **PASS**;
-- `காட்சி 7` — scans **39–44** — `scenes/07.md` — **PASS**;
-- `காட்சி 8` — scans **44–49** — `scenes/08.md` — **PASS**;
-- `காட்சி 9` — scans **49–50** — `scenes/09.md` — **PASS**;
-- `காட்சி 10` — scans **50–55** — `scenes/10.md` — **PASS**;
-- `காட்சி 11` — scans **55–58** — `scenes/11.md` — **PASS**;
-- `காட்சி 12` — scans **58–59** — `scenes/12.md` — **PASS**;
-- `காட்சி 13` — scans **60–65** — `scenes/13.md` — **PASS**;
-- `காட்சி 14` — scans **65–68** — `scenes/14.md` — **PASS**;
-- `காட்சி 15` — scans **68–70** — `scenes/15.md` — **PASS**;
-- `காட்சி 16` — scans **70–74** — `scenes/16.md` — **PASS**;
-- `காட்சி 17` — scans **74–75** — `scenes/17.md` — **PASS**.
+- `காட்சி 1`–`காட்சி 7` — previously completed — **PASS**;
+- `காட்சி 8` — scans **44–49** — **PASS**;
+- `காட்சி 9` — scans **49–50** — **PASS**;
+- `காட்சி 10` — scans **50–55** — **PASS**;
+- `காட்சி 11` — scans **55–58** — **PASS**;
+- `காட்சி 12` — scans **58–59** — **PASS**;
+- `காட்சி 13` — scans **60–65** — **PASS**;
+- `காட்சி 14` — scans **65–68** — **PASS**;
+- `காட்சி 15` — scans **68–70** — **PASS**;
+- `காட்சி 16` — scans **70–74** — **PASS**;
+- `காட்சி 17` — scans **74–75** — **PASS**;
+- `காட்சி 18` — scans **76–80** — **PASS**;
+- `காட்சி 19` — scans **80–81** — **PASS**;
+- `காட்சி 20` — scans **81–85** — **PASS**;
+- `காட்சி 21` — scans **85–94** — **PASS**;
+- `காட்சி 22` — scans **94–95** — **PASS**;
+- `காட்சி 23` — scans **95–100** — **PASS**;
+- `காட்சி 24` — scans **100–101** — **PASS**;
+- `காட்சி 25` — scans **101–104** — **PASS**;
+- `காட்சி 26` — scans **104–108** — **PASS**;
+- `காட்சி 27` — scan **108** — **PASS**.
 
-Scene assembly overall: **17 / 47 PASS**.
+Scene assembly overall: **27 / 47 PASS**.
 
-Per-scene fidelity reviews exist through `SCENE17_ASSEMBLY_FIDELITY_REVIEW.md`. Through Scene 17:
+Assembled files exist as `works/manimagudam/scenes/01.md` through `27.md`. Per-scene fidelity reviews exist through `SCENE27_ASSEMBLY_FIDELITY_REVIEW.md`.
+
+Through Scene 27:
 
 - all verified source-page portions are represented;
-- shared physical pages containing two scene boundaries are split at the source-visible scene heading;
+- shared physical pages containing multiple scene boundaries are split only at source-visible scene headings;
 - only mechanical physical-page interruptions are joined;
 - source wording, punctuation, speaker-label variants, repetitions, ellipses, stage directions and source-specific forms are retained;
 - unresolved assembly discrepancies: **0**.
 
 Latest-batch mechanical joins / boundary controls:
 
-- scan 57→58: குணசீலர் utterance joined across the physical page break;
-- scan 63→64: அரசன் utterance joined from `ஆயிரக்கணக்கான` to `பவுன்கள்...`;
-- scan 73→74: புதுமைப்பித்தன் utterance joined from `யாரும் அவளை எழுப்ப` to `வேண்டாம் - இன்னொன்று...`;
-- scan 74→75: the quoted `மணிமகுடம்` newspaper item joined across the page break;
-- shared-page boundaries handled at scans 44, 49, 50, 55, 58, 65, 68, 70 and 74.
+- scan 80→81: Scene 19 `அமை:` continuation;
+- scan 82→83: Scene 20 அல்லி continuation;
+- scan 85→86: Scene 21 குணசீலர் continuation;
+- scan 90→91: Scene 21 physically split stage direction, retaining source punctuation;
+- scan 91→92: Scene 21 நாடோடி utterance;
+- scan 94→95: Scene 22 newspaper/street-sale continuation;
+- scan 95→96, 97→98 and 98→99: Scene 23 continuations;
+- scan 103→104: Scene 25 குருநாதர் continuation;
+- scan 105→106, 106→107 and 107→108: Scene 26 அரசன் continuations;
+- scan 108 contains Scene 26 close, the complete Scene 27, and Scene 28 opening; Scene 27 is bounded exactly by its headings.
 
 ### Exact next activity
 
-**Assemble `காட்சி 18` only.**
+**Assemble `காட்சி 28` only.**
 
 1. Fetch live `main` first and preserve newer durable state.
-2. Read `STAGE_PLAY_PROCESSING_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, `works/manimagudam/README.md`, `SCENE17_ASSEMBLY_FIDELITY_REVIEW.md`, and `scenes/17.md`.
-3. Read verified page records `pages/0076.md` through `0080.md` completely.
-4. Assemble only Scene 18 into `works/manimagudam/scenes/18.md`.
-5. Scans **76–80** correspond to printed pages **67–71**.
-6. Scan 80 closes `காட்சி 18` and opens `காட்சி 19` on the same physical scan; stop exactly before the Scene 19 heading.
+2. Read `STAGE_PLAY_PROCESSING_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, `works/manimagudam/README.md`, `SCENE27_ASSEMBLY_FIDELITY_REVIEW.md`, and `scenes/27.md`.
+3. Read verified page records `pages/0108.md` through `0110.md` completely.
+4. Assemble only Scene 28 into `works/manimagudam/scenes/28.md`.
+5. Scene 28 begins on scan **108**, continues through **109**, and closes on scan **110** before `காட்சி 29` begins on the same physical scan.
+6. Stop exactly before the source-visible Scene 29 heading.
 7. Join only mechanical physical-page interruptions; preserve all source wording, punctuation, labels, repetitions and stage directions.
-8. Create `SCENE18_ASSEMBLY_FIDELITY_REVIEW.md` and promote status to **18 / 47** only after PASS.
-9. Commit directly to `main`, refetch live `main`, and verify assembled scene plus review.
+8. Create `SCENE28_ASSEMBLY_FIDELITY_REVIEW.md` and promote status to **28 / 47** only after PASS.
+9. Commit directly to `main`, refetch live `main`, and verify the assembled scene and review.
 
-Do not automatically continue beyond Scene 18 unless the user explicitly asks.
+Do not automatically continue beyond Scene 28 unless the user explicitly asks.
 
 ## Critical source-boundary safeguard
 
@@ -96,29 +107,19 @@ A conversation preview exposed only 150 pages, but the raw controlling PDF conta
 
 ## Performance-history provenance safeguard
 
-The user-supplied catalog context records a **1962 Madurai DMK conference** performance. The controlling scan independently records:
-
-- scan 4: **May 1956**, DMK second state conference, Tiruchirappalli, S. S. Rajendran troupe;
-- scan 5: **September 1963** staging associated with the Murasoli drama troupe under Anna's leadership.
-
-Do not silently merge these statements.
+The user-supplied catalog context records a **1962 Madurai DMK conference** performance. The controlling scan independently records May 1956 Tiruchirappalli and September 1963 performance evidence. Do not silently merge these statements.
 
 ## Phase boundary
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
-- Tamil scene assembly: **ACTIVE — 17 / 47 PASS**.
+- Tamil scene assembly: **ACTIVE — 27 / 47 PASS**.
 - English translation: **not authorized / not started**.
 
 Do not begin English translation merely because scene assembly is active.
 
 ## Closed `கலைஞரின் நான்மணி மாலை` state
 
-- Tamil composite coverage: **54/54 PASS / COMPLETE**;
-- independent English translations: **4/4 COMPLETE**;
-- applicable 2009 witness comparisons: **3/3 PASS / COMPLETE**;
-- `பரதாயணம்` witness comparison: **NOT APPLICABLE**.
-
-Do not reopen closed work without explicit direction or new source evidence.
+Tamil composite coverage **54/54 PASS / COMPLETE**; independent English **4/4 COMPLETE**; applicable 2009 witness comparisons **3/3 PASS / COMPLETE**; `பரதாயணம்` witness comparison **NOT APPLICABLE**. Do not reopen without explicit direction or new source evidence.
 
 ## Permanent safeguards
 

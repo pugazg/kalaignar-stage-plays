@@ -12,10 +12,10 @@ Archive slug: `manimagudam`.
 - Overall Tamil page-level archival transcription: **170 / 170 COMPLETE**.
 - Durable page records: `pages/0001.md` through `pages/0170.md`.
 - `காட்சி 1` through `காட்சி 47`: page-level source transcription complete.
-- Tamil scene assembly: **17 / 47 PASS**.
-- Assembled files: `scenes/01.md` through `scenes/17.md`.
-- Per-scene fidelity reviews: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` through `SCENE17_ASSEMBLY_FIDELITY_REVIEW.md`.
-- Assembly unresolved discrepancies through Scene 17: **0**.
+- Tamil scene assembly: **27 / 47 PASS**.
+- Assembled files: `scenes/01.md` through `scenes/27.md`.
+- Per-scene fidelity reviews: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` through `SCENE27_ASSEMBLY_FIDELITY_REVIEW.md`.
+- Assembly unresolved discrepancies through Scene 27: **0**.
 - English translation: **not authorized / not started**.
 - Source PDF remains external to the repository.
 
@@ -41,12 +41,7 @@ The paragraph above remains **user-supplied catalog context**, not verbatim tran
 
 ## Performance-history provenance note
 
-The user-supplied catalog description records a **1962 Madurai DMK conference** performance. The controlling scan independently supplies:
-
-- scan 4: **May 1956**, DMK second state conference, Tiruchirappalli, staging by the S. S. Rajendran troupe;
-- scan 5: **September 1963** staging associated with the Murasoli drama troupe under Anna's leadership.
-
-Keep these layers separate unless a separate source resolves them.
+The user-supplied catalog description records a **1962 Madurai DMK conference** performance. The controlling scan independently supplies May 1956 Tiruchirappalli and September 1963 evidence. Keep these layers separate unless a separate source resolves them.
 
 ## Page-level verification checkpoint
 
@@ -56,31 +51,26 @@ The page-level archive is closed at **170 / 170 COMPLETE**. `indexes/page-map.md
 
 Scene assembly derives only from verified page records. It may remove mechanical physical-page interruptions for readability, but must not alter source wording, punctuation, speaker-label variants, stage directions, repetitions, ellipses, old/source forms or scene boundaries.
 
-Completed assembly gates:
+Completed assembly gates now cover **`காட்சி 1` through `காட்சி 27` — all PASS**.
 
-- `காட்சி 1` — scans 14–19 — **PASS**;
-- `காட்சி 2` — scans 20–24 — **PASS**;
-- `காட்சி 3` — scans 24–26 — **PASS**;
-- `காட்சி 4` — scans 27–30 — **PASS**;
-- `காட்சி 5` — scans 30–32 — **PASS**;
-- `காட்சி 6` — scans 32–39 — **PASS**;
-- `காட்சி 7` — scans 39–44 — **PASS**;
-- `காட்சி 8` — scans 44–49 — **PASS**;
-- `காட்சி 9` — scans 49–50 — **PASS**;
-- `காட்சி 10` — scans 50–55 — **PASS**;
-- `காட்சி 11` — scans 55–58 — **PASS**;
-- `காட்சி 12` — scans 58–59 — **PASS**;
-- `காட்சி 13` — scans 60–65 — **PASS**;
-- `காட்சி 14` — scans 65–68 — **PASS**;
-- `காட்சி 15` — scans 68–70 — **PASS**;
-- `காட்சி 16` — scans 70–74 — **PASS**;
-- `காட்சி 17` — scans 74–75 — **PASS**.
+Latest completed batch:
 
-Important assembly joins in the latest batch include scan 57→58 (குணசீலர்), scan 63→64 (அரசன்), scan 73→74 (புதுமைப்பித்தன்), and scan 74→75 (the `மணிமகுடம்` newspaper quotation). Shared-page scene boundaries at scans 49, 50, 55, 58, 65, 68, 70 and 74 were split at the source-visible headings.
+- `காட்சி 18` — scans 76–80 — **PASS**;
+- `காட்சி 19` — scans 80–81 — **PASS**;
+- `காட்சி 20` — scans 81–85 — **PASS**;
+- `காட்சி 21` — scans 85–94 — **PASS**;
+- `காட்சி 22` — scans 94–95 — **PASS**;
+- `காட்சி 23` — scans 95–100 — **PASS**;
+- `காட்சி 24` — scans 100–101 — **PASS**;
+- `காட்சி 25` — scans 101–104 — **PASS**;
+- `காட்சி 26` — scans 104–108 — **PASS**;
+- `காட்சி 27` — scan 108 — **PASS**.
+
+Notable latest-batch joins include scan 80→81 (`அமை:`), 82→83 (அல்லி), 85→86 (குணசீலர்), 90→91 (split stage direction), 91→92 (நாடோடி), 94→95 (street-sale text), 95→96 / 97→98 / 98→99 (Scene 23), 103→104 (குருநாதர்), and 105→106 / 106→107 / 107→108 (அரசன்). Source punctuation and label variants remain unnormalized.
 
 ### Next scene-assembly task
 
-`காட்சி 18` only, from verified scans **76–80** / printed pages **67–71**. Scan 80 closes Scene 18 and opens `காட்சி 19`; stop before the Scene 19 heading.
+`காட்சி 28` only, from verified scans **108–110** / printed pages **99–101**. Scan 108 opens Scene 28 after the complete Scene 27; scan 110 closes Scene 28 and opens `காட்சி 29`. Stop before the Scene 29 heading.
 
 ## Critical PDF-ingestion note
 
@@ -89,7 +79,7 @@ A conversation/file preview exposed only the first **150** pages, but raw-PDF in
 ## Phase boundary
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
-- Tamil scene assembly: **ACTIVE — 17 / 47 PASS**.
+- Tamil scene assembly: **ACTIVE — 27 / 47 PASS**.
 - English translation: **not authorized / not started**.
 
 Do not begin English translation automatically while Tamil scene assembly remains active.
