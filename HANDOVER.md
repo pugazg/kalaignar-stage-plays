@@ -40,9 +40,9 @@ Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 
 Final `காட்சி 47` retains `(முடிவுற்றது)`. Scan 170 remains separate back matter.
 
-## Independent English translation — AUTHORIZED / IN PROGRESS
+## Independent English translation — COMPLETE / LOCKED
 
-Translation authority is the verified Tamil scene assembly. OCR, outside summaries and any published English are not drafting authorities. Published English, if later available, remains a separate secondary-witness layer to be opened only after the independent translation and Tamil→English review for the relevant scope are locked.
+Translation authority is the verified Tamil scene assembly. OCR, outside summaries and any published English were not drafting authorities. A published English text, if later supplied or identified, remains a separate secondary-witness layer and must not retroactively alter this independent translation.
 
 ### Completed English batches
 
@@ -50,68 +50,71 @@ Translation authority is the verified Tamil scene assembly. OCR, outside summari
 - Batch 2 — Scenes **6–10**: **translation-reviewed / PASS**;
 - Batch 3 — Scenes **11–20**: **translation-reviewed / PASS**;
 - Batch 4 — Scenes **21–30**: **translation-reviewed / PASS**;
-- Batch 5 — Scenes **31–40**: **translation-reviewed / PASS**.
+- Batch 5 — Scenes **31–40**: **translation-reviewed / PASS**;
+- Final Batch 6 — Scenes **41–47**: **translation-reviewed / PASS**.
 
-Current English files: `works/manimagudam/translations/en/01.md` through `40.md`.
+Current English files: `works/manimagudam/translations/en/01.md` through `47.md`.
 
-Current independent-English dramatic progress: **40 / 47 scenes translated and reviewed**.
+Independent-English dramatic progress: **47 / 47 scenes translated and reviewed / COMPLETE**.
 
-Unresolved translation blocks through Scene 40: **0**.
+Consolidated gate: `works/manimagudam/translations/en/TRANSLATION_REVIEW.md` — **FINAL PASS**.
+
+Unresolved translation blocks: **0**.
 
 Secondary-English contamination: **0**.
 
-### Completed Batch 5 — Scenes 31–40
+### Final Batch 6 — Scenes 41–47
 
-The user explicitly requested processing Scene 31 through Scene 40 in one activity. All ten scenes were independently translated from verified Tamil assemblies and reviewed back against those authorities.
+The user explicitly requested the remaining scope, so the final batch was extended through Scene 47 rather than stopping at the earlier Scene-45 checkpoint.
 
-- Scene 31 / scans **121–122** — Alli's palace escape with Puthumaippithan — **PASS**;
-- Scene 32 / scans **122–127** — mutual love / duty compact and return to royal identity — **PASS**;
-- Scene 33 / scans **127–131** — Kalarani / Ponnazhagan / Alli tension and Puthumaippithan praise — **PASS**;
-- Scene 34 / scan **131** — *Manimagudam* crackdown after Gurunathar-conspiracy headline — **PASS**;
-- Scene 35 / scans **131–132** — emergency repression / propaganda plan — **PASS**;
-- Scene 36 / scans **132–135** — unsigned letter, Kalarani's observation and garden trap — **PASS**;
-- Scene 37 / scans **135–136** — love-and-duty exchange overheard by Ponnazhagan — **PASS**;
-- Scene 38 / scan **136** — Puthumaippithan changes into the king; Ponnazhagan follows — **PASS**;
-- Scene 39 / scans **136–137** — Ponnazhagan's mistaken fifth-column accusation — **PASS**;
-- Scene 40 / scans **137–140** — Assembly ban, death order, ten-thousand-mohar bounty and capture of the actual knife attacker — **PASS**.
+- Scene 41 / scans **141–144** — prison exposure, poison attempt, Gurunathar's self-poisoning and incomplete dying disclosure — **PASS**;
+- Scene 42 / scans **145–152** — fifth-column accusation, Alli's Forum defence, ban/arrest news and assassination lot — **PASS**;
+- Scene 43 / scans **152–162** — true-king reveal, signature/scar proof, arrests, long revolution/general-election address and Assembly dissolution decision — **PASS**;
+- Scene 44 / scan **162** — Alli moving secretly through the palace — **PASS**;
+- Scene 45 / scan **162** — Ulagappan deliberately moving aside as Alli enters — **PASS**;
+- Scene 46 / scans **162–169** — Alli's assassination mission, Manimaran/Puthumaippithan reveal, Alli's self-shooting, Ponnazhagan shooting Manimaran and the dying political farewell — **PASS**;
+- Scene 47 / scan **169** — statues, garlanding, source-only song cue and `(முடிவுற்றது)` closure — **PASS**.
 
-Batch-5 source-sensitive / rhetorical controls include:
+Final-batch source-sensitive controls include:
 
-- `அரண்மனை / அரிவாள் மனை` retained as visible `aranmanai / arivaal-manai` sound-play;
-- terse source `வாட்டுமா?` translated conservatively without an invented object;
-- enlarged-source `சாஜூரைத் தவிர` retained as `Saajur`;
-- `ராஜா / காதல் ராஜா` retained as `king / king of love` because Ponnazhagan's literal hearing drives the misunderstanding;
-- `ஐந்தாம்படை` → `fifth column`;
-- enlarged-source `பாலைவனையை` retained as `paalaivanai`;
-- `மோகராக்கள்` → `mohars`;
-- enlarged-source `மாதேன்மத்தர்கள்` retained as `maathenmaththargal`;
-- source slur `சண்டாளன்` retained as `chandalan` rather than silently mapped to another category.
+- `போலி வேதாரி` → conservative `false vedari`;
+- `சண்டாளர்கள்` → `chandalargal` and Scene-40 `சண்டாளன்` → `chandalan`, retained as source slurs rather than silently mapped to another category;
+- `காம வீரன்` → `kaama veeran`;
+- `சிறப்பாயிரம்` → `sirappayiram`;
+- `நடுத்தெரு நாராயணன்` → `nadutheru Narayanan`;
+- quoted oppressive caste speech in Scene 43 remains attributed to the king's warning examples, not narrator fact;
+- `வரி` tax/stripe wordplay remains visible;
+- `ரிஷிப் பிண்டம் இராத்தங்காது` remains a literal source mythic saying;
+- `அறிவியக்கம்` → `knowledge movement`; `சுயமரியாதை` → `self-respect`;
+- source-confirmed `கொலுமண்டபத்துப்` → `kolu-mandapam`;
+- `அணை` extinguish/embrace wordplay remains visible in Scene 46;
+- verified anomalous `இந்தத் துப்பாக்கியின் யார் என்று காட்டப் போகிறேன்!` remains exposed as `intha thuppaakkiyin yaar` rather than silently repaired;
+- `பத்தாம்பசலி` → `paththaambasali`;
+- the final `பாட்டு: ‘புதியதோர் உலகம்’ போல...` remains only a song cue; no absent lyrics were imported.
 
-Recurring controls continue:
+Recurring controls remain:
 
 - `மக்கள் மன்றம்` → `People's Forum`;
 - `சீமான்கள் சபை` → `Assembly of Nobles`;
-- `மக்கள் தொண்டன்` → *People's Servant*;
+- newspaper `மக்கள் தொண்டன்` → *People's Servant*;
+- common-noun `மக்கள் தொண்டன்` → `servant of the people` where context requires;
 - `ஆட்சிப் பீடம்` → `seat of power` where abstract authority is meant;
 - `கொடிக்கால் நகரம்` → `Kodikkal Nagar`;
 - `விசேஷ அதிகாரம்` → `special authority`;
-- newspaper title `மணிமகுடம்` → *Manimagudam*.
+- newspaper title `மணிமகுடம்` → *Manimagudam*;
+- `மார்கழி` → `Margazhi`;
+- `கல் நாட்டு விழா` → `foundation-stone ceremony`;
+- `கொடி நாட்டு விழா` → `flag-raising ceremony`;
+- `மோகராக்கள்` → `mohars`;
+- `ஐந்தாம்படை` → `fifth column`.
 
 ## Exact next activity
 
-Continue the independent English translation with **Scenes 41–45 only**, unless the user explicitly requests a larger range.
+There is **no remaining Tamil page transcription, Tamil scene assembly or independent-English drafting/review work for `மணிமகுடம்`**.
 
-1. Fetch live `main` first.
-2. Read this handover, `NEXT_CHAT_PROMPT.md`, `STAGE_PLAY_PROCESSING_GUIDE.md`, `works/manimagudam/README.md`, `works/manimagudam/translations/en/README.md`, and the current `TRANSLATION_REVIEW.md`.
-3. Fetch complete verified Tamil assemblies `works/manimagudam/scenes/41.md` through `45.md`.
-4. Translate each scene independently into `works/manimagudam/translations/en/41.md` through `45.md` using the established schema and terminology controls.
-5. Preserve scene structure, speaker identity, stage directions, rhetoric, repetition, humour, ambiguity, political meaning and source-specific terminology.
-6. Review every new English scene back against its verified Tamil assembly before marking `translation-reviewed` / PASS.
-7. Extend `translations/en/TRANSLATION_REVIEW.md` and `translations/en/README.md` to **45 / 47** only after the batch passes.
-8. Update root/work README, this handover and `NEXT_CHAT_PROMPT.md`.
-9. Stop at Scene 45 unless the user explicitly requests a larger continuation.
+If the user asks to continue this work, first fetch live `main` and preserve this closed state. The next possible project phase is a **secondary-English witness comparison**, but begin it only if an appropriate witness is supplied / identified and the user authorizes that separate phase. Do not invent or seek to reconstruct a published witness from memory.
 
-Do **not** reopen the closed Tamil page or scene-assembly gates during ordinary translation work.
+If no such witness is available, report that the `மணிமகுடம்` source-first archive + independent English phase is complete rather than reopening closed gates.
 
 ## Critical source-boundary safeguard
 
@@ -130,7 +133,7 @@ Do not silently merge these statements.
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- Independent English translation: **IN PROGRESS — 40 / 47 translation-reviewed**.
+- Independent English translation: **COMPLETE — 47 / 47 PASS**.
 - Secondary-English witness comparison for `மணிமகுடம்`: **not started**.
 
 ## Closed `கலைஞரின் நான்மணி மாலை` state
