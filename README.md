@@ -13,7 +13,7 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 | [அனார்கலி](works/anarkali/) | **Tamil 9/9; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சாக்ரடீஸ்](works/socrates/) | **Tamil 17/17; 5/5 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil 10/10; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
-| [மணிமகுடம்](works/manimagudam/) | **Tamil page-level archive 170/170 COMPLETE; scene assembly 1/47 PASS; next காட்சி 2; English not started** |
+| [மணிமகுடம்](works/manimagudam/) | **Tamil page-level archive 170/170 COMPLETE; scene assembly 7/47 PASS; next காட்சி 8; English not started** |
 
 ## மணிமகுடம் — Tamil scene-assembly phase
 
@@ -22,23 +22,21 @@ Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 - SHA-256: `a629509c3404fcc5c2844f5b693e72a41aca03ad2e2494588807af4ff8f16f3b`;
 - file size: **187,091,728 bytes**;
 - physical PDF scans: **170**;
-- scans 1–13: front matter — **13 / 13 VERIFIED**;
-- scans 14–169: dramatic body — **156 / 156 VERIFIED**;
-- scan 170: back matter — **VERIFIED**;
-- overall page-level archive: **170 / 170 COMPLETE**;
+- page-level Tamil archive: **170 / 170 COMPLETE**;
 - durable page records: `works/manimagudam/pages/0001.md` through `0170.md`;
 - `காட்சி 1` through `காட்சி 47`: page-level source transcription complete;
-- scene assembly: **1 / 47 PASS**;
-- `காட்சி 1`: assembled in `works/manimagudam/scenes/01.md` from verified scans 14–19;
-- `works/manimagudam/SCENE1_ASSEMBLY_FIDELITY_REVIEW.md`: **PASS, 0 unresolved assembly discrepancies**;
-- next scene-assembly task: **காட்சி 2**, verified scans 20–24, stopping before the `காட்சி 3` opening on scan 24;
+- scene assembly: **7 / 47 PASS**;
+- assembled and reviewed: `works/manimagudam/scenes/01.md` through `07.md`;
+- per-scene fidelity reviews: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` through `SCENE7_ASSEMBLY_FIDELITY_REVIEW.md`;
+- unresolved assembly discrepancies through Scene 7: **0**;
+- next scene-assembly task: **காட்சி 8**, verified scans **44–49**, stopping before the `காட்சி 9` opening on scan 49;
 - scan 169 / printed page 160: final dramatic page, ending source-visible `(முடிவுற்றது)`;
 - scan 170: verified publisher catalogue / advertisement;
 - `works/manimagudam/indexes/page-map.md`: synchronized through **170 / 170 COMPLETE**.
 
-A conversation preview exposed only 150 pages, but raw-PDF inspection established 170 physical scans. Scans 151–170 were rendered and reconciled directly from the raw controlling PDF.
+Scene assembly derives only from verified page records. Mechanical page breaks may be joined for readability while wording, punctuation, speaker-label variants, stage directions and source forms remain unchanged; join provenance and shared-page scene boundaries are documented in the scene fidelity reviews.
 
-Scene assembly derives only from verified page records. Mechanical page breaks may be joined for readability, while wording, punctuation, speaker labels, stage directions and source forms remain unchanged and the join provenance is documented in per-scene fidelity reviews.
+A conversation preview exposed only 150 pages, but raw-PDF inspection established 170 physical scans. Scans 151–170 were rendered and reconciled directly from the raw controlling PDF.
 
 English translation is **not authorized / not started** and remains a separate later phase.
 
