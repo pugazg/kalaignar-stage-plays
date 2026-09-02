@@ -12,9 +12,7 @@ Before any future repository change, read completely:
 2. `HANDOVER.md`;
 3. this `NEXT_CHAT_PROMPT.md`;
 4. `works/manimagudam/README.md`;
-5. `works/manimagudam/indexes/page-map.md`;
-6. `works/manimagudam/SCENE27_ASSEMBLY_FIDELITY_REVIEW.md`;
-7. `works/manimagudam/scenes/27.md`.
+5. the latest source/review files relevant to the activity explicitly requested by the user.
 
 ## மணிமகுடம் durable checkpoint
 
@@ -26,57 +24,36 @@ Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 - page-level Tamil archive: **170 / 170 COMPLETE**;
 - durable page records: `works/manimagudam/pages/0001.md` through `0170.md`;
 - `காட்சி 1` through `காட்சி 47`: page-level source transcription complete;
-- Tamil scene assembly: **27 / 47 PASS**;
-- assembled files: `works/manimagudam/scenes/01.md` through `27.md`;
-- per-scene fidelity reviews through `SCENE27_ASSEMBLY_FIDELITY_REVIEW.md`;
-- unresolved assembly discrepancies through Scene 27: **0**;
+- Tamil scene assembly: **47 / 47 PASS / COMPLETE**;
+- assembled files: `works/manimagudam/scenes/01.md` through `47.md`;
+- per-scene fidelity reviews through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`;
+- unresolved assembly discrepancies: **0**;
+- final dramatic scan 169 / printed page 160 ends `(முடிவுற்றது)`;
+- scan 170 is separate verified publisher back matter;
 - English translation: **not authorized / not started**.
 
-Do not reopen scans 1–170 without new source evidence or explicit user direction.
+Do not reopen scans 1–170 or completed scene assemblies without new source evidence or explicit user direction.
 
-## Completed latest assembly batch — Scenes 18–27
+## Completed final assembly batch — Scenes 28–47
 
-The user explicitly authorized assembly from `காட்சி 18` through `காட்சி 27`. All ten scene gates are durable and PASS:
+The user explicitly authorized assembly from `காட்சி 28` through the final `காட்சி 47`. All twenty final scene gates are durable and PASS. Scene assembly is therefore closed at **47 / 47**.
 
-- Scene 18: scans 76–80;
-- Scene 19: scans 80–81;
-- Scene 20: scans 81–85;
-- Scene 21: scans 85–94;
-- Scene 22: scans 94–95;
-- Scene 23: scans 95–100;
-- Scene 24: scans 100–101;
-- Scene 25: scans 101–104;
-- Scene 26: scans 104–108;
-- Scene 27: scan 108.
+Source boundaries in this batch were handled from the verified page records only. Mechanical continuations were joined without changing source wording, punctuation, speaker labels, stage directions, repetitions, ellipses or old/source forms. Shared scans with multiple scene boundaries — especially scans 131, 136, 162 and 169 — were split only at the source-visible headings.
 
-Important mechanical joins in this batch include:
-
-- scan 80→81: Scene 19 `அமை:` continuation;
-- scan 82→83: Scene 20 அல்லி continuation;
-- scan 85→86: Scene 21 குணசீலர் continuation;
-- scan 90→91: Scene 21 split stage direction, source punctuation retained;
-- scan 91→92: Scene 21 நாடோடி continuation;
-- scan 94→95: Scene 22 street-sale/newspaper continuation;
-- scan 95→96, 97→98, 98→99: Scene 23 continuations;
-- scan 103→104: Scene 25 குருநாதர் continuation;
-- scan 105→106, 106→107, 107→108: Scene 26 அரசன் continuations.
-
-Scan 108 contains Scene 26 close, complete Scene 27 and Scene 28 opening; Scene 27 is bounded exactly between its source-visible headings. No wording, punctuation, labels, stage directions, repetitions, ellipses or source forms were regularized.
+`காட்சி 47` retains the final source marker `(முடிவுற்றது)`.
 
 ## Exact next activity
 
-Process **`காட்சி 28` assembly only**.
+There is **no automatic next activity** for `மணிமகுடம்`.
 
-1. Fetch live `main` first.
-2. Read `works/manimagudam/pages/0108.md` through `0110.md` completely; these verified page records are textual authority.
-3. Assemble only Scene 28 into `works/manimagudam/scenes/28.md`.
-4. Scene 28 begins on scan **108** / printed page **99**, continues on scan **109** / printed page **100**, and closes on scan **110** / printed page **101**.
-5. Scan 110 then opens `காட்சி 29`; stop exactly before the Scene 29 heading.
-6. Join only mechanical physical-page interruptions. Do not change source wording, punctuation, speaker labels, stage directions, repetitions, ellipses or old/source forms.
-7. Document source-page coverage, cross-page joins and the scan-110 boundary in `SCENE28_ASSEMBLY_FIDELITY_REVIEW.md`.
-8. Only after PASS, update status to **28 / 47** in work/root README, handover and this prompt.
-9. Commit directly to `main`, refetch live `main`, and verify `scenes/28.md` plus its review.
-10. Stop after Scene 28 unless the user explicitly asks to continue immediately.
+Wait for an explicit user instruction. In particular, **do not start English translation unless the user explicitly authorizes it**. If English translation is authorized later:
+
+1. fetch live `main` first;
+2. read the repository translation guidance and current handover completely;
+3. derive translation from the verified assembled Tamil scenes, not OCR or outside summaries;
+4. preserve source meaning, dramatic structure, speaker identities, stage directions and historically specific terminology;
+5. keep published English, if consulted, as a secondary witness rather than controlling authority;
+6. retain the standing safeguard that `அந்தணர்` is not automatically translated as `Brahmin` without contextual justification.
 
 ## Critical source safeguard
 
@@ -85,10 +62,8 @@ The raw PDF has **170 physical scans** even though a conversation preview expose
 ## Phase boundary
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
-- Tamil scene assembly: **ACTIVE — 27 / 47 PASS**.
+- Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
 - English translation: **not authorized / not started**.
-
-Do not begin English translation automatically.
 
 ## Provenance safeguard
 

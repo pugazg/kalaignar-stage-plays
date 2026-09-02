@@ -13,9 +13,9 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 | [அனார்கலி](works/anarkali/) | **Tamil 9/9; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சாக்ரடீஸ்](works/socrates/) | **Tamil 17/17; 5/5 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil 10/10; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
-| [மணிமகுடம்](works/manimagudam/) | **Tamil page-level archive 170/170 COMPLETE; scene assembly 27/47 PASS; next காட்சி 28; English not started** |
+| [மணிமகுடம்](works/manimagudam/) | **Tamil page-level archive 170/170 COMPLETE; scene assembly 47/47 PASS / COMPLETE; English not started** |
 
-## மணிமகுடம் — Tamil scene-assembly phase
+## மணிமகுடம் — Tamil archival / assembly checkpoint
 
 Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 
@@ -24,12 +24,10 @@ Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 - page-level archive: **170 / 170 COMPLETE**;
 - durable page records: `works/manimagudam/pages/0001.md` through `0170.md`;
 - page-level scenes: `காட்சி 1` through `காட்சி 47` complete;
-- scene assembly: **27 / 47 PASS**;
-- assembled files: `works/manimagudam/scenes/01.md` through `27.md`;
-- per-scene fidelity reviews through `SCENE27_ASSEMBLY_FIDELITY_REVIEW.md`;
-- unresolved assembly discrepancies through Scene 27: **0**;
-- latest batch `காட்சி 18`–`காட்சி 27`: **10 / 10 PASS**;
-- next assembly task: **காட்சி 28**, verified scans **108–110**, stopping before `காட்சி 29` on scan 110;
+- Tamil scene assembly: **47 / 47 PASS / COMPLETE**;
+- assembled files: `works/manimagudam/scenes/01.md` through `47.md`;
+- per-scene fidelity reviews through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`;
+- unresolved assembly discrepancies: **0**;
 - final dramatic scan 169 / printed page 160 ends `(முடிவுற்றது)`;
 - scan 170 is verified back matter.
 
