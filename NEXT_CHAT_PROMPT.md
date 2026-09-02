@@ -14,8 +14,8 @@ Before any future repository change, read completely:
 4. `works/manimagudam/README.md`;
 5. `works/manimagudam/indexes/page-map.md`;
 6. `works/manimagudam/SCANS_0141_0170_VERIFICATION.md`;
-7. `works/manimagudam/SCENE1_ASSEMBLY_FIDELITY_REVIEW.md`;
-8. `works/manimagudam/scenes/01.md`.
+7. `works/manimagudam/SCENE7_ASSEMBLY_FIDELITY_REVIEW.md`;
+8. `works/manimagudam/scenes/07.md`.
 
 ## மணிமகுடம் durable checkpoint
 
@@ -27,43 +27,41 @@ Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 - page-level Tamil archive: **170 / 170 COMPLETE**;
 - durable page records: `works/manimagudam/pages/0001.md` through `0170.md`;
 - `காட்சி 1` through `காட்சி 47`: page-level source transcription complete;
-- final dramatic scan 169 / printed page 160 ends `(முடிவுற்றது)`;
-- scan 170 is the verified publisher catalogue / advertisement;
-- scene assembly: **1 / 47 PASS**;
+- scene assembly: **7 / 47 PASS**;
+- assembled scene files: `works/manimagudam/scenes/01.md` through `07.md`;
+- assembly-fidelity reviews: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` through `SCENE7_ASSEMBLY_FIDELITY_REVIEW.md`;
+- unresolved assembly discrepancies through Scene 7: **0**;
 - English translation: **not authorized / not started**.
 
 Do not reopen scans 1–170 without new source evidence or explicit user direction.
 
-## Completed Scene 1 assembly
+## Completed Scene 2–7 assembly batch
 
-`காட்சி 1` is now durably assembled and fidelity-reviewed:
+The user explicitly requested assembly from `காட்சி 2` through `காட்சி 7`. All six scenes are durably assembled and reviewed from verified page records only.
 
-- source records: `pages/0014.md`–`0019.md`;
-- scans: **14–19**;
-- printed pages: scan 14 unnumbered, then **6–10**;
-- assembled file: `scenes/01.md`;
-- review: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md`;
-- verified page records represented: **6 / 6**;
-- cross-page mechanical joins checked: **4 / 4**;
-- unresolved assembly discrepancies: **0**;
-- result: **PASS**.
+- `காட்சி 2`: scans 20–24 — PASS;
+- `காட்சி 3`: scans 24–26 — PASS;
+- `காட்சி 4`: scans 27–30 — PASS;
+- `காட்சி 5`: scans 30–32 — PASS;
+- `காட்சி 6`: scans 32–39 — PASS;
+- `காட்சி 7`: scans 39–44 — PASS.
 
-Source speaker-label variants, wording, punctuation, stage directions and source-specific forms were not regularized. Page-break provenance is documented in the assembly review.
+Shared-page boundaries were kept exact at scans 24, 30, 32, 39 and 44. Only documented mechanical cross-page interruptions were joined. No lexical, punctuation, speaker-label, stage-direction or semantic normalization was introduced.
 
 ## Exact next activity
 
-Process **`காட்சி 2` assembly only**.
+Process **`காட்சி 8` assembly only**.
 
 1. Fetch live `main` first.
-2. Read `works/manimagudam/pages/0020.md` through `0024.md` completely; these are already verified and are the textual authority for assembly.
-3. Assemble only the Scene 2 portion into `works/manimagudam/scenes/02.md`.
-4. Scans **20–24** correspond to printed pages **11–15**.
-5. Scan 24 closes `காட்சி 2` and then opens `காட்சி 3` on the same physical page. Stop exactly at the `காட்சி 3` heading; do not copy Scene 3 material into Scene 2.
+2. Read verified page records `works/manimagudam/pages/0044.md` through `0049.md` completely; these are already verified and are the textual authority for assembly.
+3. Assemble only the Scene 8 portions into `works/manimagudam/scenes/08.md`.
+4. Scan 44 begins Scene 8 after Scene 7 closes.
+5. Scan 49 closes Scene 8 and then opens `காட்சி 9` on the same physical page; stop exactly at the `காட்சி 9` heading.
 6. Join only mechanical physical-page interruptions. Do not change source wording, punctuation, speaker labels, stage directions, repetitions, ellipses or old/source forms.
-7. Document all cross-page joins and the scan-24 scene boundary in a Scene 2 assembly-fidelity review.
-8. Only after the review passes, update status to **2 / 47** in the work README, root README, handover and this prompt.
-9. Commit directly to `main`, refetch live `main`, and verify `scenes/02.md` plus its review.
-10. Stop after Scene 2 unless the user explicitly asks to continue immediately.
+7. Document all joins and both shared-page boundaries in `SCENE8_ASSEMBLY_FIDELITY_REVIEW.md`.
+8. Only after the review passes, update status to **8 / 47** in the work README, root README, handover and this prompt.
+9. Commit directly to `main`, refetch live `main`, and verify `scenes/08.md` plus its review.
+10. Stop after Scene 8 unless the user explicitly asks to continue immediately.
 
 ## Critical source safeguard
 
@@ -72,7 +70,7 @@ The raw PDF has **170 physical scans** even though a conversation preview expose
 ## Phase boundary
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
-- Tamil scene assembly: **ACTIVE — 1 / 47 PASS**.
+- Tamil scene assembly: **ACTIVE — 7 / 47 PASS**.
 - English translation: **not authorized / not started**.
 
 Do not begin English translation automatically.
