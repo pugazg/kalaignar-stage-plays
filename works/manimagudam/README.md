@@ -16,9 +16,14 @@ Archive slug: `manimagudam`.
 - Assembled files: `scenes/01.md` through `scenes/47.md`.
 - Per-scene fidelity reviews: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`.
 - Assembly unresolved discrepancies: **0**.
+- Independent English translation: **5 / 47 scenes translated and reviewed**.
+- Current English frontier: **Scene 5**.
+- English files: `translations/en/01.md` through `translations/en/05.md`.
+- Translation review: `translations/en/TRANSLATION_REVIEW.md` — **Scenes 1–5 PASS**.
+- English unresolved translation blocks through Scene 5: **0**.
+- Secondary-English contamination: **0**.
 - Final dramatic source marker: scan **169 / printed page 160** ends `(முடிவுற்றது)`.
 - Scan **170** is verified publisher back matter and is not part of the dramatic assembly.
-- English translation: **not authorized / not started**.
 - Source PDF remains external to the repository.
 
 ## User-supplied catalog metadata
@@ -65,9 +70,24 @@ All assembly gates are complete:
 - fidelity reviews: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`;
 - unresolved assembly discrepancies: **0**.
 
-The final assembly batch completed `காட்சி 28` through `காட்சி 47`. Important controlled joins include the Scene 29 multi-page continuities, Scene 32 and Scene 33 dialogue continuities, Scene 40 and Scene 41 long speeches, Scene 42's three physical-page joins, Scene 43's five long-form `அர:` joins, and Scene 46's opening stage-direction plus later dramatic-speech joins. Shared physical scans containing multiple scene transitions — especially scans 131, 136, 162 and 169 — are split only at source-visible scene headings.
-
 `காட்சி 47` is the final dramatic scene and retains the source-visible closure `(முடிவுற்றது)`.
+
+## Independent English translation — IN PROGRESS
+
+The user has explicitly authorized the English phase. Translation authority is the verified Tamil scene assembly, not OCR, outside summaries or a published-English witness.
+
+Batch 1 is complete:
+
+- Scenes **1–5**: **translated + Tamil→English reviewed / PASS**;
+- source authorities: `scenes/01.md` through `scenes/05.md`;
+- English files: `translations/en/01.md` through `translations/en/05.md`;
+- review gate: `translations/en/TRANSLATION_REVIEW.md`;
+- unresolved translation blocks: **0**;
+- secondary-English witness use during drafting/review: **0**.
+
+Recurring controls established in this batch include `மக்கள் மன்றம்` → `People's Forum`, `சீமான்கள் சபை` → `Assembly of Nobles`, and `மக்கள் தொண்டன்` → *People's Servant*. Source-sensitive ambiguities are retained instead of silently repaired.
+
+The next bounded batch is **Scenes 6–10**.
 
 ## Critical PDF-ingestion note
 
@@ -77,6 +97,6 @@ A conversation/file preview exposed only the first **150** pages, but raw-PDF in
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- English translation: **not authorized / not started**.
+- Independent English translation: **IN PROGRESS — 5 / 47 reviewed**.
 
-Do not begin English translation automatically. Await explicit user authorization for the next phase.
+Do not reopen the closed Tamil page or assembly gates without explicit direction or new source evidence. Continue English from verified Tamil assemblies only.
