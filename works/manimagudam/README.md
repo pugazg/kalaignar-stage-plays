@@ -16,11 +16,11 @@ Archive slug: `manimagudam`.
 - Assembled files: `scenes/01.md` through `scenes/47.md`.
 - Per-scene fidelity reviews: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`.
 - Assembly unresolved discrepancies: **0**.
-- Independent English translation: **5 / 47 scenes translated and reviewed**.
-- Current English frontier: **Scene 5**.
-- English files: `translations/en/01.md` through `translations/en/05.md`.
-- Translation review: `translations/en/TRANSLATION_REVIEW.md` — **Scenes 1–5 PASS**.
-- English unresolved translation blocks through Scene 5: **0**.
+- Independent English translation: **10 / 47 scenes translated and reviewed**.
+- Current English frontier: **Scene 10**.
+- English files: `translations/en/01.md` through `translations/en/10.md`.
+- Translation review: `translations/en/TRANSLATION_REVIEW.md` — **Scenes 1–10 PASS**.
+- English unresolved translation blocks through Scene 10: **0**.
 - Secondary-English contamination: **0**.
 - Final dramatic source marker: scan **169 / printed page 160** ends `(முடிவுற்றது)`.
 - Scan **170** is verified publisher back matter and is not part of the dramatic assembly.
@@ -76,18 +76,18 @@ All assembly gates are complete:
 
 The user has explicitly authorized the English phase. Translation authority is the verified Tamil scene assembly, not OCR, outside summaries or a published-English witness.
 
-Batch 1 is complete:
+Completed batches:
 
 - Scenes **1–5**: **translated + Tamil→English reviewed / PASS**;
-- source authorities: `scenes/01.md` through `scenes/05.md`;
-- English files: `translations/en/01.md` through `translations/en/05.md`;
+- Scenes **6–10**: **translated + Tamil→English reviewed / PASS**;
+- English files: `translations/en/01.md` through `translations/en/10.md`;
 - review gate: `translations/en/TRANSLATION_REVIEW.md`;
-- unresolved translation blocks: **0**;
+- unresolved translation blocks through Scene 10: **0**;
 - secondary-English witness use during drafting/review: **0**.
 
-Recurring controls established in this batch include `மக்கள் மன்றம்` → `People's Forum`, `சீமான்கள் சபை` → `Assembly of Nobles`, and `மக்கள் தொண்டன்` → *People's Servant*. Source-sensitive ambiguities are retained instead of silently repaired.
+Recurring controls include `மக்கள் மன்றம்` → `People's Forum`, `சீமான்கள் சபை` → `Assembly of Nobles`, `மக்கள் தொண்டன்` → *People's Servant*, `கொடிக்கால் நகரம்` → `Kodikkal Nagar`, and `விசேஷ அதிகாரம்` → `special authority`. Source-sensitive ambiguities and unusual verified forms are retained instead of silently repaired.
 
-The next bounded batch is **Scenes 6–10**.
+The next bounded batch is **Scenes 11–15**.
 
 ## Critical PDF-ingestion note
 
@@ -97,6 +97,6 @@ A conversation/file preview exposed only the first **150** pages, but raw-PDF in
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- Independent English translation: **IN PROGRESS — 5 / 47 reviewed**.
+- Independent English translation: **IN PROGRESS — 10 / 47 reviewed**.
 
 Do not reopen the closed Tamil page or assembly gates without explicit direction or new source evidence. Continue English from verified Tamil assemblies only.
