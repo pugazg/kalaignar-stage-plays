@@ -15,7 +15,7 @@ Archive slug: `manimagudam`.
 - `காட்சி 1` through `காட்சி 47`: page-level source transcription complete.
 - Final dramatic scan: **169 / printed page 160**, ending `(முடிவுற்றது)`.
 - Final physical scan: **170**, publisher catalogue / advertisement.
-- Scene assembly: **1 / 47 PASS** — `scenes/01.md` is assembly-reviewed from verified scans 14–19.
+- Tamil scene assembly: **7 / 47 PASS** — `scenes/01.md` through `scenes/07.md` are assembly-reviewed from verified page records.
 - English translation: **not authorized / not started**.
 - Source PDF remains external to the repository.
 
@@ -28,7 +28,7 @@ Archive slug: `manimagudam`.
 
 ### User-supplied catalog description
 
-> மேரி காரல்லி எழுதிய புதினத்தின் அரசன் கதாபாத்திரத்தை மையமாகக் கொண்டு நவீனக் காலத்தை நோக்கிப் பயணிக்கிற ஒரு காலகட்டத்தில் கதை நடப்பதாக எழுதப்பட்ட நாடகம். மதம், ஆட்சிபீடம், பிரச்சார பீடம் இம்மூன்றுக்கும் மக்களுக்கும் இடையில் நடைபெறும் போராட்டமே இந்நாடகம். மதகுருவாக இருக்கிற ஒருவர் எப்படியெல்லாம் அரசனை ஆட்டிப்படைகிறார் என்பதை எடுத்துச்சொல்லும் இந்நாடகம், 1962 மதுரையில் நடைபெற்ற தி.மு.க. மாநாட்டில் நிகழ்த்தப்பட்டது.
+> மேரி காரல்லி எழுதிய புதினத்தின் அரசன் கதாபாத்திரத்தை மையமாகக் கொண்டு நவீனக் காலத்தை நோக்கிப் பயணிக்கிற ஒரு காலகட்டத்தில் கதை நடப்பதாக எழுதப்பட்ட நாடகம். மதம், ஆட்சிபீடம், பிரச்சார பீடம் இம்மூன்றுக்கும் மக்களுக்கும் இடையில் நடைபெறும் போராட்டமே இந்நாடகம். மதகுருவாக இருக்கிற ஒருவர் எப்படியெல்லாம் அரசனை ஆட்டிப்படைக்கிறார் என்பதை எடுத்துச்சொல்லும் இந்நாடகம், 1962 மதுரையில் நடைபெற்ற தி.மு.க. மாநாட்டில் நிகழ்த்தப்பட்டது.
 
 The paragraph above remains **user-supplied catalog context**, not verbatim transcription from the controlling scan.
 
@@ -48,7 +48,7 @@ The user-supplied catalog description records a **1962 Madurai DMK conference** 
 
 The controlling scan does not itself establish the 1962 Madurai statement. Keep the layers separate unless a separate source resolves them.
 
-## Durable verification checkpoint
+## Durable page-level verification checkpoint
 
 Completed fidelity gates include:
 
@@ -66,20 +66,28 @@ Completed fidelity gates include:
 
 `indexes/page-map.md` is synchronized through scan 170 and records the whole-work **170 / 170 COMPLETE** checkpoint.
 
-## Scene assembly phase
+## Tamil scene assembly phase
 
-Scene assembly is now explicitly authorized and has begun from the verified page records. Assembly may remove only mechanical physical page breaks; it must not alter wording, punctuation, source-specific speaker labels, stage directions or source forms.
+Scene assembly is explicitly authorized and derives only from verified page records. Assembly may remove only mechanical physical page interruptions; exact source wording, punctuation, speaker-label variants, stage directions, repetitions, ellipses and source forms remain controlling.
 
-Completed assembly gate:
+Completed assembly gates:
 
-- `காட்சி 1` — `scenes/01.md` from scans **14–19** / printed pages **unnumbered, 6–10** — **PASS**;
-- review: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` — **6 / 6 verified page records represented, 4 / 4 mechanical cross-page joins checked, 0 unresolved assembly discrepancies**.
+- `காட்சி 1` — `scenes/01.md`, scans **14–19** — **PASS**;
+- `காட்சி 2` — `scenes/02.md`, scans **20–24** — **PASS**;
+- `காட்சி 3` — `scenes/03.md`, scans **24–26** — **PASS**;
+- `காட்சி 4` — `scenes/04.md`, scans **27–30** — **PASS**;
+- `காட்சி 5` — `scenes/05.md`, scans **30–32** — **PASS**;
+- `காட்சி 6` — `scenes/06.md`, scans **32–39** — **PASS**;
+- `காட்சி 7` — `scenes/07.md`, scans **39–44** — **PASS**.
+
+Each scene has a matching `SCENE*_ASSEMBLY_FIDELITY_REVIEW.md`. Through Scene 7, shared-page scene boundaries and all mechanical cross-page joins have been checked, with **0 unresolved assembly discrepancies**.
 
 Exact next scene-assembly task:
 
-- assemble `காட்சி 2` from the verified portions of scans **20–24** / printed pages **11–15**;
-- scan 24 also begins `காட்சி 3`, so the Scene 2 file must stop at the source-visible `காட்சி 3` boundary;
-- create the Scene 2 assembly file and its fidelity review before advancing further.
+- assemble `காட்சி 8` from the verified Scene 8 portions of scans **44–49** / printed pages **35–40**;
+- scan 44 begins Scene 8 after Scene 7 closes;
+- scan 49 closes Scene 8 and then opens `காட்சி 9` on the same physical page;
+- stop Scene 8 assembly at the source-visible `காட்சி 9` boundary.
 
 ## Final physical-source boundary
 
