@@ -38,50 +38,62 @@ Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 - shared physical pages with multiple scenes split only at source-visible headings;
 - unresolved assembly discrepancies: **0**.
 
-The final assembly batch completed Scenes 28–47. Important controlled joins include Scene 29's multi-page continuities, Scene 32 and 33 dialogue continuities, Scene 40 and 41 long speeches, Scene 42's three cross-page joins, Scene 43's long `அர:` continuities across scans 155–161, and Scene 46's opening stage-direction and later dramatic-speech continuities. Scans 162 and 169 contain multiple source-visible scene boundaries and were split only at those headings.
-
 Final `காட்சி 47` retains `(முடிவுற்றது)`. Scan 170 remains separate back matter.
 
 ## Independent English translation — AUTHORIZED / IN PROGRESS
 
-The user explicitly authorized the next phase by instructing `proceed with next activity` after the Tamil scene assembly closed.
-
 Translation authority is the verified Tamil scene assembly. OCR, outside summaries and any published English are not drafting authorities. Published English, if later available, remains a separate secondary-witness layer to be opened only after the independent translation and Tamil→English review for the relevant scope are locked.
 
-### Completed English batch 1 — Scenes 1–5
+### Completed English Batch 1 — Scenes 1–5
 
-- `works/manimagudam/translations/en/01.md` — Scene 1 / scans 14–19 — **translation-reviewed / PASS**;
-- `02.md` — Scene 2 / scans 20–24 — **PASS**;
-- `03.md` — Scene 3 / scans 24–26 — **PASS**;
-- `04.md` — Scene 4 / scans 27–30 — **PASS**;
-- `05.md` — Scene 5 / scans 30–32 — **PASS**;
-- `translations/en/README.md` records authority, terminology and frontier;
-- `translations/en/TRANSLATION_REVIEW.md` records the Tamil→English review;
-- English dramatic progress: **5 / 47 scenes translated and reviewed**;
-- unresolved translation blocks through Scene 5: **0**;
+- `works/manimagudam/translations/en/01.md` through `05.md`;
+- all five scenes: **translation-reviewed / PASS**;
+- unresolved translation blocks: **0**;
 - secondary-English contamination: **0**.
 
-Recurring terminology controls established in batch 1:
+### Completed English Batch 2 — Scenes 6–10
+
+- `06.md` — Scene 6 / scans 32–39 — **PASS**;
+- `07.md` — Scene 7 / scans 39–44 — **PASS**;
+- `08.md` — Scene 8 / scans 44–49 — **PASS**;
+- `09.md` — Scene 9 / scans 49–50 — **PASS**;
+- `10.md` — Scene 10 / scans 50–55 — **PASS**;
+- `translations/en/TRANSLATION_REVIEW.md` now covers **Scenes 1–10**;
+- independent English dramatic progress: **10 / 47 scenes translated and reviewed**;
+- unresolved translation blocks through Scene 10: **0**;
+- secondary-English contamination: **0**.
+
+Batch-2 controls established or confirmed:
+
+- `கொடிக்கால் நகரம்` → `Kodikkal Nagar`;
+- `அறிவியக்க வாதிகள்` → `advocates of the knowledge movement`;
+- source crore amounts remain in crores;
+- `மகுடி` → `magudi`;
+- `அலி` → *ali* rather than assigning a narrower unsupported modern category;
+- `விசேஷ அதிகாரம்` → `special authority`;
+- verified odd form `குஷிமிக்க வேண்டும்!` remains visible as `kushimikka vendum!` rather than silently repaired;
+- proposed newspaper title `மணிமகுடம்` remains *Manimagudam*.
+
+Recurring controls continue:
 
 - `மக்கள் மன்றம்` → `People's Forum`;
 - `சீமான்கள் சபை` → `Assembly of Nobles`;
 - `மக்கள் தொண்டன்` → *People's Servant*;
-- `ஆட்சிப் பீடம்` → `seat of power` where abstract political authority is meant.
-
-Source-sensitive forms are not silently repaired. Examples already protected include `ஸ்ரீஜத் அரிஹரநாதன்`, `“கா” வன்னா விஷயம்`, and `ஆஷாடபூதிகள்`.
+- `ஆட்சிப் பீடம்` → `seat of power` where abstract authority is meant.
 
 ## Exact next activity
 
-Continue the independent English translation with **Scenes 6–10 only**.
+Continue the independent English translation with **Scenes 11–15 only**.
 
 1. Fetch live `main` first.
 2. Read this handover, `NEXT_CHAT_PROMPT.md`, `STAGE_PLAY_PROCESSING_GUIDE.md`, `works/manimagudam/README.md`, `translations/en/README.md`, and the current `TRANSLATION_REVIEW.md`.
-3. Fetch complete verified Tamil assemblies `works/manimagudam/scenes/06.md` through `10.md`.
-4. Translate each scene independently into `works/manimagudam/translations/en/06.md` through `10.md` using the established schema and terminology controls.
+3. Fetch complete verified Tamil assemblies `works/manimagudam/scenes/11.md` through `15.md`.
+4. Translate each scene independently into `works/manimagudam/translations/en/11.md` through `15.md` using the established schema and terminology controls.
 5. Preserve scene structure, speaker identity, stage directions, rhetoric, repetition, humour, ambiguity and historically specific terminology.
 6. Review every new English scene back against its verified Tamil assembly before marking `translation-reviewed` / PASS.
-7. Extend `translations/en/TRANSLATION_REVIEW.md` and `translations/en/README.md` to **10 / 47** only after the batch passes.
-8. Update tracking docs and stop at Scene 10 unless the user explicitly requests further continuation.
+7. Extend `translations/en/TRANSLATION_REVIEW.md` and `translations/en/README.md` to **15 / 47** only after the batch passes.
+8. Update root/work README and handover tracking.
+9. Stop at Scene 15 unless the user explicitly requests further continuation.
 
 Do **not** reopen the closed Tamil page or scene-assembly gates during ordinary translation work.
 
@@ -102,7 +114,7 @@ Do not silently merge these statements.
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- Independent English translation: **IN PROGRESS — 5 / 47 translation-reviewed**.
+- Independent English translation: **IN PROGRESS — 10 / 47 translation-reviewed**.
 - Secondary-English witness comparison for `மணிமகுடம்`: **not started**.
 
 ## Closed `கலைஞரின் நான்மணி மாலை` state
@@ -120,7 +132,6 @@ Do not reopen closed work without explicit direction or new source evidence.
 - source PDFs remain external;
 - no silent lexical, punctuation, speaker, stage-direction, or old-glyph normalization;
 - physical page boundaries remain preserved in page records;
-- every physical scan, including back matter, has a durable record;
 - scene assembly derives only from verified page records;
 - independent translation derives from verified Tamil scene assemblies;
 - provisional/uncommitted work is not durable verification;
