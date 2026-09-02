@@ -16,11 +16,11 @@ Archive slug: `manimagudam`.
 - Assembled files: `scenes/01.md` through `scenes/47.md`.
 - Per-scene fidelity reviews: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`.
 - Assembly unresolved discrepancies: **0**.
-- Independent English translation: **30 / 47 scenes translated and reviewed**.
-- Current English frontier: **Scene 30**.
-- English files: `translations/en/01.md` through `translations/en/30.md`.
-- Translation review: `translations/en/TRANSLATION_REVIEW.md` — **Scenes 1–30 PASS**.
-- English unresolved translation blocks through Scene 30: **0**.
+- Independent English translation: **40 / 47 scenes translated and reviewed**.
+- Current English frontier: **Scene 40**.
+- English files: `translations/en/01.md` through `translations/en/40.md`.
+- Translation review: `translations/en/TRANSLATION_REVIEW.md` — **Scenes 1–40 PASS**.
+- English unresolved translation blocks through Scene 40: **0**.
 - Secondary-English contamination: **0**.
 - Final dramatic source marker: scan **169 / printed page 160** ends `(முடிவுற்றது)`.
 - Scan **170** is verified publisher back matter and is not part of the dramatic assembly.
@@ -82,14 +82,15 @@ Completed batches:
 - Scenes **6–10**: **translated + Tamil→English reviewed / PASS**;
 - Scenes **11–20**: **translated + Tamil→English reviewed / PASS**;
 - Scenes **21–30**: **translated + Tamil→English reviewed / PASS**;
-- English files: `translations/en/01.md` through `translations/en/30.md`;
+- Scenes **31–40**: **translated + Tamil→English reviewed / PASS**;
+- English files: `translations/en/01.md` through `translations/en/40.md`;
 - review gate: `translations/en/TRANSLATION_REVIEW.md`;
-- unresolved translation blocks through Scene 30: **0**;
+- unresolved translation blocks through Scene 40: **0**;
 - secondary-English witness use during drafting/review: **0**.
 
-The Scene 21–30 batch includes the counterfeit-king plot, Assembly performance, religious / ministerial murder conspiracy, Manimaran's long internal political speech, the foundation-stone assassination attempt, Alli's wound and palace debate, and Vanji/Ulagappan's comic scene. Source-dependent wordplay is retained visibly where direct English substitution would erase it.
+The Scene 31–40 batch preserves Alli's palace escape; Alli/Puthumaippithan's love-and-duty exchange; Ponnazhagan's growing misunderstanding; Puthumaippithan's transformation back into King Manimaran; newspaper suppression; the emergency repression plan; Kalarani's use of the dropped letter; Ponnazhagan's mistaken fifth-column accusation; and the Assembly death order / ten-thousand-mohar bounty. Verified unusual forms such as `சாஜூரைத் தவிர`, `பாலைவனையை`, and `மாதேன்மத்தர்கள்` remain conservatively visible rather than silently normalized.
 
-The next bounded batch is **Scenes 31–35**.
+The next bounded batch is **Scenes 41–45**.
 
 ## Critical PDF-ingestion note
 
@@ -99,7 +100,7 @@ A conversation/file preview exposed only the first **150** pages, but raw-PDF in
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- Independent English translation: **IN PROGRESS — 30 / 47 reviewed**.
+- Independent English translation: **IN PROGRESS — 40 / 47 reviewed**.
 - Secondary-English witness comparison for `மணிமகுடம்`: **not started**.
 
 Do not reopen the closed Tamil page or assembly gates without explicit direction or new source evidence. Continue English from verified Tamil assemblies only.
