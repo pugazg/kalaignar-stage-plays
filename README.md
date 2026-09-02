@@ -13,7 +13,7 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 | [அனார்கலி](works/anarkali/) | **Tamil 9/9; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சாக்ரடீஸ்](works/socrates/) | **Tamil 17/17; 5/5 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil 10/10; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
-| [மணிமகுடம்](works/manimagudam/) | **Tamil archive 170/170 COMPLETE; scene assembly 47/47 PASS; independent English 40/47 reviewed** |
+| [மணிமகுடம்](works/manimagudam/) | **Tamil archive 170/170 COMPLETE; scene assembly 47/47 PASS; independent English 47/47 COMPLETE** |
 
 ## மணிமகுடம் — archival / translation checkpoint
 
@@ -28,14 +28,14 @@ Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 - assembled files: `works/manimagudam/scenes/01.md` through `47.md`;
 - per-scene fidelity reviews through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`;
 - unresolved assembly discrepancies: **0**;
-- independent English translation: **40 / 47 scenes translated and Tamil→English reviewed**;
-- current English files: `works/manimagudam/translations/en/01.md` through `40.md`;
-- English unresolved blocks through Scene 40: **0**;
+- independent English translation: **47 / 47 scenes translated and Tamil→English reviewed / COMPLETE**;
+- English files: `works/manimagudam/translations/en/01.md` through `47.md`;
+- English unresolved blocks: **0**;
 - secondary-English contamination: **0**;
 - final dramatic scan 169 / printed page 160 ends `(முடிவுற்றது)`;
 - scan 170 is verified back matter.
 
-Scene assembly derives only from verified page records. Independent English derives only from the verified Tamil scene assemblies. No published English or secondary witness controls drafting; any later witness comparison must remain a separate post-translation layer.
+Scene assembly derives only from verified page records. Independent English derives only from the verified Tamil scene assemblies. No published English or secondary witness controlled drafting; any later witness comparison must remain a separate post-translation layer.
 
 Completed English batches:
 
@@ -43,9 +43,10 @@ Completed English batches:
 - Scenes **6–10** — PASS;
 - Scenes **11–20** — PASS;
 - Scenes **21–30** — PASS;
-- Scenes **31–40** — PASS.
+- Scenes **31–40** — PASS;
+- Scenes **41–47** — PASS / final closure.
 
-The next bounded translation batch is **Scenes 41–45**.
+There is no remaining independent-English scene drafting for `மணிமகுடம்`. Secondary-English witness comparison remains a separate, not-yet-started phase.
 
 ## Closed `கலைஞரின் நான்மணி மாலை` checkpoint
 
