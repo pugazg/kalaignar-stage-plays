@@ -4,7 +4,7 @@ Continue work directly in `https://github.com/pugazg/kalaignar-stage-plays`, bra
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live GitHub `main` first and preserve any newer durable state. Do not reset, overwrite, repeat, or reopen completed source work merely because this prompt contains an older checkpoint.
+Fetch live GitHub `main` first and preserve any newer durable state. Do not reset, overwrite, repeat or reopen completed source work merely because this prompt contains an older checkpoint.
 
 Before any future repository change, read completely:
 
@@ -13,10 +13,9 @@ Before any future repository change, read completely:
 3. this `NEXT_CHAT_PROMPT.md`;
 4. `works/manimagudam/README.md`;
 5. `works/manimagudam/translations/en/README.md`;
-6. `works/manimagudam/translations/en/TRANSLATION_REVIEW.md`;
-7. the verified Tamil scene assemblies needed for the next translation batch.
+6. `works/manimagudam/translations/en/TRANSLATION_REVIEW.md`.
 
-## மணிமகுடம் durable checkpoint
+## மணிமகுடம் durable checkpoint — CLOSED THROUGH INDEPENDENT ENGLISH
 
 Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 
@@ -24,18 +23,18 @@ Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 - file size: **187,091,728 bytes**;
 - physical PDF scans: **170**;
 - page-level Tamil archive: **170 / 170 COMPLETE**;
-- durable page records: `works/manimagudam/pages/0001.md` through `0170.md`;
 - Tamil scene assembly: **47 / 47 PASS / COMPLETE**;
 - assembled files: `works/manimagudam/scenes/01.md` through `47.md`;
 - unresolved assembly discrepancies: **0**;
 - final dramatic scan 169 / printed page 160 ends `(முடிவுற்றது)`;
 - scan 170 is separate verified publisher back matter;
-- independent English translation: **IN PROGRESS — 40 / 47 scenes translated and reviewed**;
-- current English files: `works/manimagudam/translations/en/01.md` through `40.md`;
-- unresolved translation blocks through Scene 40: **0**;
+- independent English translation: **47 / 47 COMPLETE / PASS**;
+- English files: `works/manimagudam/translations/en/01.md` through `47.md`;
+- consolidated English review: `works/manimagudam/translations/en/TRANSLATION_REVIEW.md` — **FINAL PASS**;
+- unresolved translation blocks: **0**;
 - secondary-English contamination: **0**.
 
-Do not reopen scans 1–170 or completed Tamil scene assemblies without new source evidence or explicit user direction.
+Do not reopen scans 1–170, completed Tamil scene assemblies or locked independent-English files without new source evidence or explicit user direction.
 
 ## Completed English batches
 
@@ -44,24 +43,25 @@ Do not reopen scans 1–170 or completed Tamil scene assemblies without new sour
 - Batch 3 — Scenes **11–20**: **PASS / locked**.
 - Batch 4 — Scenes **21–30**: **PASS / locked**.
 - Batch 5 — Scenes **31–40**: **PASS / locked**.
+- Final Batch 6 — Scenes **41–47**: **PASS / locked**.
 
-The Scene 31–40 batch preserves Alli's palace escape; the explicit Alli/Puthumaippithan love-and-duty compact; the transformation back into King Manimaran; Ponnazhagan's growing misunderstanding and eventual mistaken fifth-column accusation; the *Manimagudam* suppression; Minister/Gurunathar/Ariharanathar emergency repression plan; Kalarani's dropped-letter trap; and the Assembly's death order / ten-thousand-mohar bounty through Scene 40.
+The final batch completes Gurunathar's exposure and death; the People's Forum's internal betrayal dispute and assassination lot; Manimaran's full identity reveal and general-election argument; Alli's palace assassination mission; the Manimaran/Puthumaippithan reveal to Alli; Alli's self-shooting; Ponnazhagan's shooting of Manimaran; the dying political farewell; and the statue/song closing scene.
 
-Source-sensitive controls through this frontier include visible `aranmanai / arivaal-manai` sound-play; conservative `Saajur`; `king / king of love`; `fifth column`; preserved `paalaivanai`; `mohars`; preserved `maathenmaththargal`; and source `chandalan`. Recurring `People's Forum`, `Assembly of Nobles`, *People's Servant*, `seat of power`, `Kodikkal Nagar`, `special authority`, and *Manimagudam* controls remain active.
+Source-sensitive final controls include `false vedari`, `chandalargal`, `kaama veeran`, `sirappayiram`, `nadutheru Narayanan`, literal quoted caste-oppression examples, the `வரி` tax/stripe wordplay, `knowledge movement`, `self-respect`, `kolu-mandapam`, the `அணை` extinguish/embrace wordplay, anomalous `intha thuppaakkiyin yaar`, `paththaambasali`, and the source-only `புதியதோர் உலகம்` song cue without imported lyrics.
 
 ## Exact next activity
 
-Translate and review **Scenes 41–45 only**, unless the user explicitly requests a larger range.
+There is **no remaining independent-English scene to translate**.
 
-1. Fetch live `main` first.
-2. Fetch and read complete verified Tamil assemblies `works/manimagudam/scenes/41.md` through `45.md`.
-3. Create `works/manimagudam/translations/en/41.md` through `45.md` using the established English schema.
-4. Derive every translation from the verified Tamil assembly, not OCR, outside summaries or secondary English.
-5. Preserve speaker identities, stage directions, scene structure, repetitions, humour, rhetoric, political meaning, lexical distinctions and source ambiguity.
-6. Review each new file back against its Tamil authority before marking `translation-reviewed` / PASS.
-7. Extend `translations/en/TRANSLATION_REVIEW.md` and `translations/en/README.md` to **45 / 47** only after all five pass.
-8. Update root/work README and handover tracking.
-9. Stop at Scene 45 unless the user explicitly asks to continue further or requests a larger range.
+If the user asks to continue `மணிமகுடம்`, do the following:
+
+1. fetch live `main` first;
+2. confirm the closed Tamil archive, Tamil assembly and 47/47 independent-English state;
+3. do **not** reopen or rewrite those layers merely to create more work;
+4. if the user supplies, identifies or explicitly authorizes use of an appropriate published/secondary English witness, begin a **separate secondary-witness comparison phase** using the locked independent English as the comparison baseline;
+5. if no secondary witness is available, report that the source-first archive + independent English phase is complete.
+
+Do not reconstruct a secondary witness from memory or outside wording without an actual source.
 
 Standing safeguard: `அந்தணர்` is not automatically translated as `Brahmin` without contextual justification.
 
@@ -73,7 +73,7 @@ The raw PDF has **170 physical scans** even though a conversation preview expose
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- Independent English translation: **IN PROGRESS — 40 / 47 translation-reviewed**.
+- Independent English translation: **COMPLETE — 47 / 47 PASS**.
 - Secondary-English witness comparison for `மணிமகுடம்`: **not started**.
 
 ## Provenance safeguard
