@@ -2,7 +2,7 @@
 
 ## Completion declaration
 
-The source-first archival and independent-English project for **`மணிமகுடம்`** is **COMPLETE** for the scope defined in this repository.
+The source-first archival and independent-English project for **`மணிமகுடம்`** is **COMPLETE / CLOSED** for the scope defined in this repository.
 
 Completed scope:
 
@@ -10,9 +10,10 @@ Completed scope:
 2. Tamil page-level transcription and verification;
 3. Tamil dramatic scene assembly and fidelity review;
 4. independent English translation from the verified Tamil assemblies;
-5. Tamil→English fidelity review and closure documentation.
+5. Tamil→English fidelity review;
+6. release-readiness and active-documentation synchronization.
 
-A secondary-English witness comparison is **not included** in this completion declaration. It is a separate optional future phase that requires an appropriate witness and explicit authorization.
+A secondary-English witness comparison is **not included** in this completion declaration. It is a separate optional future phase that requires an appropriate witness and explicit authorization; its absence is not an incomplete item in the present project scope.
 
 ## Repository location
 
@@ -159,40 +160,46 @@ The project does not silently merge or reconcile these statements.
 The completed work is represented by these durable layers:
 
 - `README.md` — work status, source context, phase boundaries;
-- `metadata/source.md` — controlling-source identity and source characteristics;
-- `indexes/page-map.md` — physical scan/page map;
+- `metadata/source.md` — controlling-source identity, source characteristics, and completed front-matter status;
+- `indexes/page-map.md` — synchronized physical scan/page map and final project checkpoint;
 - `pages/0001.md`–`0170.md` — complete physical-page archive;
 - source verification records including `SCANS_0141_0170_VERIFICATION.md`;
 - `scenes/01.md`–`47.md` — complete Tamil scene assembly;
 - `SCENE*_ASSEMBLY_FIDELITY_REVIEW.md` — per-scene assembly gates;
 - `translations/en/01.md`–`47.md` — complete independent English translation;
 - `translations/en/TRANSLATION_REVIEW.md` — consolidated final translation review;
-- `RELEASE_READINESS.md` — release-readiness gate and remaining documentation-only cleanup;
+- `RELEASE_READINESS.md` — final release-readiness and documentation-synchronization gate;
 - root `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` — durable continuation / closed-state controls.
 
-## Known documentation-only cleanup
+## Documentation closure
 
-A release-readiness audit identified stale historical metadata in `indexes/page-map.md`:
+The final stale-status cleanup has been completed.
 
-- scan 151 is labelled there as the Scene 42 close, but verified `pages/0151.md` states that Scene 42 continues throughout scan 151; verified `pages/0152.md` contains the actual Scene 42 close and Scene 43 opening;
-- the page-map footer still reflects the earlier phase boundary saying scene assembly had not started and English was not authorized/not started.
+- `indexes/page-map.md` scan **151** now correctly records Scene 42 as a continuation rather than a scene close;
+- scan **152** records the actual Scene 42 close and Scene 43 opening;
+- the page-map footer now records **47 / 47** Tamil scene assembly and **47 / 47** independent-English completion;
+- `metadata/source.md` now records that exact front-matter transcription is complete in verified page records `pages/0001.md` through `pages/0013.md`;
+- `RELEASE_READINESS.md` records the final documentation audit as **PASS**.
 
-These statements are superseded by the verified page records, 47/47 assembled scenes, fidelity reviews, 47/47 English translations, final translation review, current work README, and handover. They are documentation-only cleanup items and do not reopen any completed source, assembly, or translation gate.
+A final audit of the active `மணிமகுடம்` status surfaces found **no known stale active project-status documentation remaining**. Historical batch/fidelity records remain immutable evidence of their own checkpoints and are not treated as stale merely because they describe the state at the time of verification.
 
 ## Project-completion status
 
 **Tamil physical archive:** COMPLETE — **170 / 170**  
 **Tamil dramatic scene assembly:** COMPLETE — **47 / 47 PASS**  
 **Independent English translation:** COMPLETE — **47 / 47 PASS**  
+**Active-documentation synchronization:** **PASS**  
 **Assembly unresolved discrepancies:** **0**  
 **Translation unresolved blocks:** **0**  
 **Secondary-English contamination:** **0**
 
-**PROJECT RESULT: COMPLETE for the source-first Tamil archive + independent-English scope.**
+**PROJECT RESULT: COMPLETE / CLOSED for the source-first Tamil archive + independent-English scope.**
+
+There is no remaining transcription, Tamil scene assembly, independent-English drafting/review, or active-documentation cleanup task for `மணிமகுடம்`.
 
 ## Closed-state rule
 
-Do not reopen the completed Tamil page archive, scene assembly, or independent English translation merely to continue work. Reopen a closed gate only if:
+Do not reopen the completed Tamil page archive, scene assembly, independent English translation, or closed documentation state merely to continue work. Reopen a closed gate only if:
 
 1. new source evidence requires reconciliation; or
 2. the user explicitly directs a revision/review.
