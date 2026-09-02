@@ -2,7 +2,7 @@
 
 ## Scope
 
-Current independent-English review frontier: **Scenes 1–40**.
+Independent-English review frontier: **Scenes 1–47 / COMPLETE**.
 
 Reviewed English files:
 
@@ -10,19 +10,20 @@ Reviewed English files:
 - `06.md` through `10.md` — Batch 2;
 - `11.md` through `20.md` — Batch 3;
 - `21.md` through `30.md` — Batch 4;
-- `31.md` through `40.md` — user-authorized Batch 5.
+- `31.md` through `40.md` — Batch 5;
+- `41.md` through `47.md` — final user-authorized Batch 6.
 
 Translation authority, in order:
 
-1. verified Tamil scene assemblies `../../scenes/01.md` through `40.md`;
-2. verified page-record provenance only where a long cross-page speech or source-sensitive form required confirmation;
+1. verified Tamil scene assemblies `../../scenes/01.md` through `47.md`;
+2. verified page-record provenance where a long cross-page utterance or source-sensitive form required confirmation;
 3. the controlling Tamil scan as already reconciled into those verified records.
 
-No published English text or other secondary-English witness was consulted during independent drafting or Tamil→English review.
+No published English text, outside summary, OCR layer or secondary-English witness was consulted during independent drafting or Tamil→English review.
 
 ## Coverage review
 
-| Verified Tamil extent | English file | Result |
+| Tamil extent | English file | Result |
 |---|---|---|
 | scans 14–19 — Scene 1 | `01.md` | PASS |
 | scans 20–24 — Scene 2 | `02.md` | PASS |
@@ -64,172 +65,137 @@ No published English text or other secondary-English witness was consulted durin
 | scan 136 — Scene 38 | `38.md` | PASS |
 | scans 136–137 — Scene 39 | `39.md` | PASS |
 | scans 137–140 — Scene 40 | `40.md` | PASS |
+| scans 141–144 — Scene 41 | `41.md` | PASS |
+| scans 145–152 — Scene 42 | `42.md` | PASS |
+| scans 152–162 — Scene 43 | `43.md` | PASS |
+| scan 162 — Scene 44 | `44.md` | PASS |
+| scan 162 — Scene 45 | `45.md` | PASS |
+| scans 162–169 — Scene 46 | `46.md` | PASS |
+| scan 169 — Scene 47 | `47.md` | PASS |
 
-Current dramatic English coverage: **40/47 scenes**.
+Current dramatic English coverage: **47/47 scenes — COMPLETE**.
 
 ## Previously locked batches
 
-### Batch 1 — Scenes 1–5
+- Batch 1 — Scenes **1–5**: **PASS / locked**.
+- Batch 2 — Scenes **6–10**: **PASS / locked**.
+- Batch 3 — Scenes **11–20**: **PASS / locked**.
+- Batch 4 — Scenes **21–30**: **PASS / locked**.
+- Batch 5 — Scenes **31–40**: **PASS / locked**.
 
-**PASS / locked.** Opening political metaphor; public-health / superstition debate; People's Forum initiation; Kalarani–Vanji comedy; Gunaseelar's dynastic ambition; and the *People's Servant* propaganda / eyewitness reversal remain source-bounded.
+Those batches preserve the established dramatic structure, speaker identity, stage directions, political and rationalist rhetoric, humour, repetitions, source-specific ambiguity and the project terminology controls documented in their translation files and prior review checkpoints.
 
-### Batch 2 — Scenes 6–10
+## Final Batch 6 — Scenes 41–47
 
-**PASS / locked.** Kodikkal temple-displacement debate; Puthumaippithan's non-personal theory of political struggle; government-spy accusation; the king's refusal to sign; Gunaseelar's false propaganda; and the Forum's suspicion / abduction test remain intact.
+### Scene 41 — PASS
 
-### Batch 3 — Scenes 11–20
+- Gurunathar's prison visit, attempt to make his henchman blame Puthumaippithan, poison/vibhuti deception and attempted strangling are complete;
+- the concealed listeners enter only after the source reveals them;
+- Gurunathar poisons himself, admits he is a `false vedari`, begins exposing the counterfeit-king scheme and dies before completing the disclosure;
+- his disintegrating speech and repetitions are not polished into a coherent confession absent from the source;
+- the king orders the corpse kept for display rather than allowing Ulagappan to throw it into the sea.
 
-**PASS / locked.** Kalarani's meeting with the king; the brotherly-love reveal; Vanji/Ulagappan `மெய்` and `ரசம்` wordplay; king/Puthumaippithan and Ulagappan/Black Rose identity reveal; launch of *Manimagudam*; Kalarani's declaration to Ponnazhagan; and the violent Kodikkal eviction / Forum resistance remain intact.
+### Scene 42 — PASS
 
-### Batch 4 — Scenes 21–30
+- Ponnazhagan's fifth-column suspicion, indirect accusation against Alli and the Forum members' rejection of unsupported charges remain complete;
+- Alli's defence of her record in the movement and repeated `Is Alli a traitor?` challenge are preserved;
+- the poet reports the ban on the People's Forum, planned arrests, and bounty/death order against Puthumaippithan;
+- the Forum decides that the king must die before morning, draws lots, and Alli receives the pistol;
+- `காம வீரன்` and `சிறப்பாயிரம்` remain conservatively visible as `kaama veeran` and `sirappayiram` rather than being narrowed by outside interpretation.
 
-**PASS / locked.** Counterfeit-king setup; competing newspapers; staged brain-disorder performance; Gurunathar / Gunaseelar power struggle; assassination conspiracy; Manimaran's long political speech and new-republic plan; foundation-stone assassination attempt; Alli's palace/common-ownership debate; and Vanji/Ulagappan romantic-comic wordplay remain intact.
+### Scene 43 — PASS
 
-## Batch 5 — Scenes 31–40 dramatic / structural review
+- Ariharanathar exposes the Minister's counterfeit-king arrangement; the king first plays along, then reveals he is the true Manimaran;
+- the disguise as *Manimagudam* seller, inability-to-sign performance, rapid signatures and battle-scar proof are complete;
+- the captured assassin directly implicates Gurunathar and Ariharanathar; Ariharanathar's comic appeals to Paramasivam, Muruga and Mahavishnu and Ulagappan's replies remain present;
+- the king's long political address is complete across verified scans 157–162, including the `Why?` question, quoted caste oppression, tax/stripe wordplay, revolutionary retaliation imagery, knowledge movement, self-respect, equality and general-election argument;
+- the Assembly agrees to dissolution and the king's renunciation of the crown.
 
-### Scene 31 — PASS
+### Scene 44 — PASS
 
-- Puthumaippithan secretly enters the palace while Alli is awake and the palace sleeps;
-- his warning that escape is itself a crime but that Alli must avoid a coming murder charge remains complete;
-- no additional escape route, guard action or palace geography is invented.
+- the source contains only Alli moving secretly through part of the palace;
+- no dialogue or connective action is invented.
 
-### Scene 32 — PASS
+### Scene 45 — PASS
 
-- Alli's question about how Puthumaippithan knew she was in the palace and his evasive answer are preserved;
-- her explanation for saving the king remains tied to an involuntary feeling and fear that blame would fall on the People's Forum;
-- Puthumaippithan identifies himself as owner of the *Manimagudam* newspaper, not owner of the country;
-- Alli and Puthumaippithan explicitly acknowledge their mutual love while insisting it must remain intertwined with political duty;
-- desert / date-palm shade, fire / breeze, honey-on-a-parched-tongue and battlefield-companion imagery remain complete;
-- `அரண்மனை / அரிவாள் மனை` sound-play is kept visibly as `aranmanai / arivaal-manai` rather than replaced by unrelated English words;
-- the final identity movement remains explicit: Puthumaippithan removes the disguise, appears in royal dress and returns toward the palace with Ulagappan.
+- Ulagappan sees Alli approaching, assumes the king has told her the truth, and deliberately moves aside;
+- his assumption remains character perspective rather than narrator fact;
+- Alli enters toward the palace under the source's terrifying-music cue.
 
-### Scene 33 — PASS
+### Scene 46 — PASS
 
-- Kalarani again presses her love for Ponnazhagan while he insists that Alli is the first person fixed in his heart;
-- Alli returns from the palace and credits Puthumaippithan with her escape;
-- Ponnazhagan now praises Puthumaippithan and regrets the Forum's earlier suspicion;
-- his later wound-checking, blanket, head-touching and hair-stroking are retained as staged actions; Alli withdraws and Kalarani secretly observes;
-- the translation does not infer beyond the source why Alli becomes uncomfortable.
+- Alli arrives to kill the king under the People's Forum's order; the pistol/hand struggle and `kolu-mandapam` image are retained;
+- `அணை` wordplay remains visible as `extinguish my life / embrace this body`;
+- the verified anomalous line `இந்தத் துப்பாக்கியின் யார் என்று காட்டப் போகிறேன்!` is exposed rather than silently repaired;
+- Manimaran reveals himself as Puthumaippithan, argues that the royal disguise enabled the transfer to people's rule, and then changes back into the king so Alli can carry out the order against her declared enemy;
+- Alli shoots herself; Ponnazhagan enters, wrongly assumes the king killed her, and shoots Manimaran;
+- the dying king absolves Ponnazhagan, announces the already-approved people's government and general election, returns visibly to the Puthumaippithan identity, rejects violence as a durable method, and closes with the source's `Long live` sequence;
+- no additional death direction is invented after the source's final ellipsis.
 
-### Scene 34 — PASS
+### Scene 47 — PASS
 
-- the scene remains a short street stage direction only;
-- *Manimagudam* announces that the attempt to kill the king was Gurunathar's failed conspiracy;
-- palace authorities arrest and beat both sellers and buyers without invented dialogue.
+- the statues of Puthumaippithan and Alli, Ponnazhagan's garlanding, poet/women song cue and final closure are complete;
+- the source gives only `பாட்டு: ‘புதியதோர் உலகம்’ போல...`; no absent song lyrics are imported;
+- source closure `(முடிவுற்றது)` remains the controlling Tamil ending; the English represents it as `(The work is concluded.)`.
 
-### Scene 35 — PASS
+## Terminology / source-sensitive controls — full work
 
-- the Minister identifies the revolutionary group as responsible both for Kalarani's abduction and the attempt on the king;
-- Ariharanathar answers the *Manimagudam* accusation by planning a banner headline branding Puthumaippithan a `lover of violence`;
-- the Minister orders Ponnazhagan's group arrested on sight, Puthumaippithan shot, and an emergency Assembly session convened;
-- propaganda, ministerial repression and religious approval remain separate speaker actions.
-
-### Scene 36 — PASS
-
-- Black Rose delivers Puthumaippithan's unsigned letter and again complains about not being admitted to the Forum;
-- Kalarani secretly sees Alli read the letter, then reads the dropped letter herself; the unprinted letter text is not invented;
-- Kalarani taunts Ponnazhagan with his earlier gestures toward Alli and sends him to the palace garden;
-- the enlarged-source form `சாஜூரைத் தவிர` is conservatively retained as `Saajur` rather than silently corrected;
-- the closing tiger / spotted-deer wordplay remains present.
-
-### Scene 37 — PASS
-
-- Alli and Puthumaippithan explicitly discuss a future public life as husband and wife who continue their duty;
-- `ராஜா / காதல் ராஜா` remains `king / king of love`, preserving the phrase that Ponnazhagan overhears and misinterprets;
-- Ponnazhagan sees the lovers part and follows Puthumaippithan to discover who he is.
-
-### Scene 38 — PASS
-
-- the Tamil scene contains only a stage direction;
-- Puthumaippithan meets Ulagappan, changes clothes, becomes the king and leaves;
-- Ponnazhagan witnesses/follows the transformation sequence; no extra disguise mechanics are invented.
-
-### Scene 39 — PASS
-
-- the king and Ulagappan discuss Alli while Ponnazhagan listens from hiding;
-- Ponnazhagan concludes that Alli is the king's lover and denounces her in an escalating monologue;
-- `ஐந்தாம்படை` remains `fifth column`;
-- goat / goatskin imagery is retained close to the source;
-- verified source form `பாலைவனையை` remains visible as `paalaivanai` rather than being silently normalized;
-- his threat to defeat intrigue with intrigue remains explicit as his own mistaken conclusion.
-
-### Scene 40 — PASS
-
-- Gurunathar publicly labels Puthumaippithan a terrorist, atheist and advocate of rationalism / revolution / common ownership, and demands shoot-on-sight authority;
-- the ten-thousand-mohar bounty for Puthumaippithan's corpse is retained;
-- the Minister secures a unanimous resolution banning the People's Forum and arresting Ponnazhagan's group;
-- the king himself issues the order to shoot Puthumaippithan;
-- the poet leaves in anger;
-- Ulagappan then reports that the actual knife attacker from the foundation-stone ceremony has been captured, keeping that event distinct from the earlier accusations;
-- verified unusual form `மாதேன்மத்தர்கள்` remains `maathenmaththargal`;
-- source slur `சண்டாளன்` remains visible as `chandalan` rather than being silently mapped onto another category;
-- the scene closes with the king asking the Minister and two nobles to follow him while the Assembly remains in session.
-
-## Terminology / source-sensitive controls through Scene 40
-
-Recurring controls remain active:
+Recurring controls remain:
 
 - `மக்கள் மன்றம்` → `People's Forum`;
 - `சீமான்கள் சபை` → `Assembly of Nobles`;
-- `மக்கள் தொண்டன்` → *People's Servant*;
+- newspaper `மக்கள் தொண்டன்` → *People's Servant*;
+- common-noun `மக்கள் தொண்டன்` in the Scene-46 dying speech → `servant of the people`;
 - `ஆட்சிப் பீடம்` → `seat of power` where abstract authority is meant;
 - `கொடிக்கால் நகரம்` → `Kodikkal Nagar`;
 - `விசேஷ அதிகாரம்` → `special authority`;
 - newspaper title `மணிமகுடம்` → *Manimagudam*;
 - `மார்கழி` → `Margazhi`;
 - `கல் நாட்டு விழா` → `foundation-stone ceremony`;
-- `கொடி நாட்டு விழா` → `flag-raising ceremony`.
-
-Batch-5 controls include:
-
-- `அரண்மனை / அரிவாள் மனை` → visible `aranmanai / arivaal-manai` sound-play with contextual gloss;
-- terse verified `வாட்டுமா?` kept conservatively without an invented object;
-- enlarged-source `சாஜூரைத் தவிர` → `Saajur` retained;
-- `ராஜா / காதல் ராஜா` → `king / king of love`;
-- `ஐந்தாம்படை` → `fifth column`;
-- enlarged-source `பாலைவனையை` → `paalaivanai` retained;
+- `கொடி நாட்டு விழா` → `flag-raising ceremony`;
 - `மோகராக்கள்` → `mohars`;
-- enlarged-source `மாதேன்மத்தர்கள்` → `maathenmaththargal` retained;
-- `சண்டாளன்` → `chandalan`, retained as the source slur.
+- `ஐந்தாம்படை` → `fifth column`.
+
+Source-sensitive retained forms include:
+
+- Scene 14 `மெய்` truth/body and `ரசம்` mirror/love wordplay;
+- context-dependent `மயக்கம்` rather than one fixed English equivalent;
+- Scene 23 sound-puns through visible Tamil transliteration where necessary;
+- `aranmanai / arivaal-manai`, `Saajur`, `paalaivanai`, `maathenmaththargal`, `chandalan`;
+- Scene 41 `false vedari` and `chandalargal`;
+- Scene 42 `kaama veeran` and `sirappayiram`;
+- Scene 43 `nadutheru Narayanan`, the literal rishi saying, and crown/head political imagery;
+- Scene 46 `kolu-mandapam`, anomalous `intha thuppaakkiyin yaar`, and `paththaambasali`.
 
 Standing repository safeguard: `அந்தணர்` is not automatically translated as `Brahmin` without contextual justification.
 
 ## Political / rhetorical fidelity
 
-PASS on the following controls:
+PASS on the following final controls:
 
-- love / duty and private identity / public political role remain intertwined without collapsing one into the other;
-- Ponnazhagan's mistaken conclusions after witnessing Manimaran's disguise are preserved as character perspective, not narrator fact;
-- the regime's newspaper suppression, arrest policy, death order and bounty remain explicit;
-- Gurunathar's accusations against rationalism, atheism, revolution and common ownership are retained as propaganda spoken by him;
-- the actual captured knife attacker remains narratively distinct from the campaign accusing Puthumaippithan;
-- no published-English wording, outside historical correction or inferred relationship detail is imported.
+- criticism of monarchy, religious authority, ministerial authority, propaganda, caste hierarchy and state repression remains explicit where the source states it;
+- accusations of terrorism, atheism, betrayal and fifth-column activity remain attributed to the speaking characters rather than converted into narrator facts;
+- the People's Forum's own coercive and violent decisions remain visible and are not idealized;
+- the king/Puthumaippithan identity and the political strategy behind the disguise are revealed only when the source reveals them;
+- the source's transition toward dissolution of the Assembly, renunciation of the crown, people's rule and a general election is preserved without importing outside political terminology;
+- the ending's rejection of violence and emphasis on intellectual, political and economic revolution remains source-bounded;
+- no published-English wording or outside historical correction is imported.
 
-## Review result
+## Final review result
 
-- Scenes 1–5: **PASS / locked**;
-- Scenes 6–10: **PASS / locked**;
-- Scenes 11–20: **PASS / locked**;
-- Scenes 21–30: **PASS / locked**;
-- Scene 31 coverage: **PASS**;
-- Scene 32 coverage: **PASS**;
-- Scene 33 coverage: **PASS**;
-- Scene 34 coverage: **PASS**;
-- Scene 35 coverage: **PASS**;
-- Scene 36 coverage: **PASS**;
-- Scene 37 coverage: **PASS**;
-- Scene 38 coverage: **PASS**;
-- Scene 39 coverage: **PASS**;
-- Scene 40 coverage: **PASS**;
+- Scenes **1–47**: **PASS / translation-reviewed / COMPLETE**;
 - speaker / stage-direction coverage: **PASS**;
+- dramatic-structure coverage: **PASS**;
 - political / rhetorical fidelity: **PASS**;
 - humour / wordplay / repetition coverage: **PASS**;
 - source-sensitive-form handling: **PASS**;
 - secondary-English contamination: **0**;
 - unresolved translation blocks: **0**.
 
-**BATCH RESULT: PASS — `மணிமகுடம்` independent English translation is complete and translation-reviewed through Scene 40.**
+**FINAL RESULT: PASS — `மணிமகுடம்` independent English translation is complete and translation-reviewed for all 47 scenes.**
 
-## Next activity
+## Next phase
 
-Translate and Tamil→English review **Scenes 41–45** from the verified Tamil assemblies `../../scenes/41.md` through `45.md`. Do not consult a secondary English witness before that independent batch is locked.
+There is **no remaining independent-English drafting** for `மணிமகுடம்`.
+
+A secondary-English witness comparison may begin only as a separate phase if an appropriate witness is supplied or explicitly authorized. It must not retroactively alter the verified Tamil archive or the now-locked independent English translation.
