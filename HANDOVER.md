@@ -19,7 +19,7 @@ Durable source identity:
 - physical PDF scans: **170**;
 - sixth edition scan statement: **May 2010**, price **Rs.40.00**.
 
-### Final page-level checkpoint
+### Page-level checkpoint
 
 - front matter scans **1–13**: **13 / 13 VERIFIED**;
 - dramatic-body scans **14–169**: **156 / 156 VERIFIED**;
@@ -30,52 +30,55 @@ Durable source identity:
 - scan **169 / printed page 160** closes `காட்சி 47` with source-visible `(முடிவுற்றது)`;
 - scan **170** is the verified publisher catalogue / advertisement headed `கலைஞரின் சிறப்புமிகு நூல்கள்`.
 
-Final-range verification remains closed and authoritative:
+Final-range page verification remains closed and authoritative, including `SCANS_0141_0170_VERIFICATION.md` at **30 / 30 VERIFIED, 0 unresolved**. `works/manimagudam/indexes/page-map.md` is synchronized through scan 170.
 
-- `SCANS_0141_0145_VERIFICATION.md` — **5 / 5 VERIFIED, 0 unresolved**;
-- `SCANS_0146_0150_VERIFICATION.md` — **5 / 5 VERIFIED, 0 unresolved**;
-- `SCANS_0151_0155_VERIFICATION.md` — **5 / 5 VERIFIED, 0 unresolved**;
-- `SCANS_0156_0160_VERIFICATION.md` — **5 / 5 VERIFIED, 0 unresolved**;
-- `SCANS_0161_0170_VERIFICATION.md` — **10 / 10 VERIFIED, 0 unresolved**;
-- `SCANS_0141_0170_VERIFICATION.md` — aggregate **30 / 30 VERIFIED, 0 unresolved**.
+## Tamil scene assembly checkpoint
 
-`works/manimagudam/indexes/page-map.md` is synchronized through scan 170 and records the final **170 / 170 COMPLETE** page-level checkpoint.
+The user explicitly authorized assembly through `காட்சி 7`. Assembly derives only from verified page records; no page-level source gate was reopened.
 
-## Scene assembly checkpoint
+Completed scene assemblies:
 
-The user has now explicitly authorized the next phase by asking to proceed with the next activity. The sequential next phase is **Tamil scene assembly**. English translation remains separately unauthorized.
+- `காட்சி 1` — scans **14–19** — `scenes/01.md` — **PASS**;
+- `காட்சி 2` — scans **20–24** — `scenes/02.md` — **PASS**;
+- `காட்சி 3` — scans **24–26** — `scenes/03.md` — **PASS**;
+- `காட்சி 4` — scans **27–30** — `scenes/04.md` — **PASS**;
+- `காட்சி 5` — scans **30–32** — `scenes/05.md` — **PASS**;
+- `காட்சி 6` — scans **32–39** — `scenes/06.md` — **PASS**;
+- `காட்சி 7` — scans **39–44** — `scenes/07.md` — **PASS**.
 
-Completed scene-assembly gate:
+Scene assembly overall: **7 / 47 PASS**.
 
-- `காட்சி 1`: **PASS / COMPLETE**;
-- source page records: `pages/0014.md` through `pages/0019.md`;
-- physical scans: **14–19**;
-- printed pages: scan 14 unnumbered, then **6–10**;
-- assembled file: `works/manimagudam/scenes/01.md`;
-- fidelity review: `works/manimagudam/SCENE1_ASSEMBLY_FIDELITY_REVIEW.md`;
-- verified page records represented: **6 / 6**;
-- mechanical cross-page joins checked: **4 / 4**;
-- unresolved assembly discrepancies: **0**;
-- scene assembly overall: **1 / 47 PASS**.
+Per-scene fidelity reviews exist as `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` through `SCENE7_ASSEMBLY_FIDELITY_REVIEW.md`. Through Scene 7:
 
-The Scene 1 assembly joins only mechanical physical-page interruptions. It does not alter source wording, punctuation, speaker-label variants, stage directions, repetitions, ellipses or old/source-specific forms. The review records the exact scan 14→15, 16→17, 17→18 and 18→19 joins.
+- all verified source-page portions are represented;
+- shared physical pages containing two scene boundaries are split at the source-visible scene heading;
+- only mechanical page interruptions are joined;
+- source wording, punctuation, speaker-label variants, repetitions, ellipses, stage directions and source-specific forms are retained;
+- unresolved assembly discrepancies: **0**.
+
+Notable shared-page boundaries already handled:
+
+- scan 24: `காட்சி 2` close / `காட்சி 3` open;
+- scan 30: `காட்சி 4` close / `காட்சி 5` open;
+- scan 32: `காட்சி 5` close / `காட்சி 6` open;
+- scan 39: `காட்சி 6` close / `காட்சி 7` open;
+- scan 44: `காட்சி 7` close / `காட்சி 8` open.
 
 ### Exact next activity
 
-**Assemble `காட்சி 2` only.**
+**Assemble `காட்சி 8` only.**
 
 1. Fetch live `main` first and preserve newer durable state.
-2. Read `STAGE_PLAY_PROCESSING_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, `works/manimagudam/README.md`, `works/manimagudam/SCENE1_ASSEMBLY_FIDELITY_REVIEW.md`, and `works/manimagudam/scenes/01.md`.
-3. Read the verified page records `works/manimagudam/pages/0020.md` through `0024.md`.
-4. Assemble Scene 2 only from the verified Scene 2 portions of those page records.
-5. Scans **20–24** correspond to printed pages **11–15**; scan 24 closes `காட்சி 2` and then opens `காட்சி 3` on the same physical page.
-6. Stop Scene 2 assembly exactly at the source-visible `காட்சி 3` boundary. Do not absorb Scene 3 text.
-7. Remove only mechanical physical-page breaks needed for readable assembly; preserve exact source words, punctuation, labels, stage directions and source forms.
-8. Create `works/manimagudam/scenes/02.md` and a Scene 2 assembly-fidelity review.
-9. Update the work/root status, this handover and next-chat prompt to **2 / 47** only after the fidelity gate passes.
-10. Commit directly to `main`, refetch live `main`, and verify the assembled scene plus its review.
+2. Read `STAGE_PLAY_PROCESSING_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, `works/manimagudam/README.md`, `SCENE7_ASSEMBLY_FIDELITY_REVIEW.md`, and `scenes/07.md`.
+3. Read verified page records `pages/0044.md` through `0049.md` completely.
+4. Assemble only the Scene 8 portions into `works/manimagudam/scenes/08.md`.
+5. Scan 44 begins `காட்சி 8` after Scene 7 closes; scan 49 closes Scene 8 and then opens `காட்சி 9` on the same physical scan.
+6. Stop exactly before the source-visible `காட்சி 9` heading.
+7. Join only mechanical physical-page interruptions; preserve all source wording, punctuation, labels and stage directions.
+8. Create `SCENE8_ASSEMBLY_FIDELITY_REVIEW.md` and promote status to **8 / 47** only after PASS.
+9. Commit directly to `main`, refetch live `main`, and verify the assembled scene and review.
 
-Do not automatically continue to Scene 3 in the same activity unless the user explicitly asks to continue immediately.
+Do not automatically continue beyond Scene 8 unless the user explicitly asks.
 
 ## Critical source-boundary safeguard
 
@@ -93,7 +96,7 @@ Do not silently merge these statements. The 1962 statement remains user-supplied
 ## Phase boundary
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
-- Tamil scene assembly: **ACTIVE — 1 / 47 PASS**.
+- Tamil scene assembly: **ACTIVE — 7 / 47 PASS**.
 - English translation: **not authorized / not started**.
 
 Do not begin English translation merely because scene assembly is active.
