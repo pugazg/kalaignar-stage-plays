@@ -30,9 +30,9 @@ Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 - unresolved assembly discrepancies: **0**;
 - final dramatic scan 169 / printed page 160 ends `(முடிவுற்றது)`;
 - scan 170 is separate verified publisher back matter;
-- independent English translation: **IN PROGRESS — 30 / 47 scenes translated and reviewed**;
-- current English files: `works/manimagudam/translations/en/01.md` through `30.md`;
-- unresolved translation blocks through Scene 30: **0**;
+- independent English translation: **IN PROGRESS — 40 / 47 scenes translated and reviewed**;
+- current English files: `works/manimagudam/translations/en/01.md` through `40.md`;
+- unresolved translation blocks through Scene 40: **0**;
 - secondary-English contamination: **0**.
 
 Do not reopen scans 1–170 or completed Tamil scene assemblies without new source evidence or explicit user direction.
@@ -43,24 +43,25 @@ Do not reopen scans 1–170 or completed Tamil scene assemblies without new sour
 - Batch 2 — Scenes **6–10**: **PASS / locked**.
 - Batch 3 — Scenes **11–20**: **PASS / locked**.
 - Batch 4 — Scenes **21–30**: **PASS / locked**.
+- Batch 5 — Scenes **31–40**: **PASS / locked**.
 
-The Scene 21–30 batch preserves the counterfeit-king setup and identity reveal, competing newspapers, the Assembly's staged madness performance and sound-puns, Gurunathar's divine-punishment claim, the three-seat power struggle and murder plot, Manimaran's long political speech and new-republic plan, the foundation-stone assassination attempt, Alli's palace/common-ownership debate, and Vanji/Ulagappan's comic romantic wordplay.
+The Scene 31–40 batch preserves Alli's palace escape; the explicit Alli/Puthumaippithan love-and-duty compact; the transformation back into King Manimaran; Ponnazhagan's growing misunderstanding and eventual mistaken fifth-column accusation; the *Manimagudam* suppression; Minister/Gurunathar/Ariharanathar emergency repression plan; Kalarani's dropped-letter trap; and the Assembly's death order / ten-thousand-mohar bounty through Scene 40.
 
-Source-sensitive controls through this frontier include visible Tamil transliteration for Scene-23 sound-puns; `Margazhi`; `foundation-stone ceremony` / `flag-raising ceremony`; `Veda, Sastra and Purana`; context-sensitive `மயக்கம்`; and the standing recurring `People's Forum`, `Assembly of Nobles`, *People's Servant*, `seat of power`, `Kodikkal Nagar`, `special authority`, and *Manimagudam* controls.
+Source-sensitive controls through this frontier include visible `aranmanai / arivaal-manai` sound-play; conservative `Saajur`; `king / king of love`; `fifth column`; preserved `paalaivanai`; `mohars`; preserved `maathenmaththargal`; and source `chandalan`. Recurring `People's Forum`, `Assembly of Nobles`, *People's Servant*, `seat of power`, `Kodikkal Nagar`, `special authority`, and *Manimagudam* controls remain active.
 
 ## Exact next activity
 
-Translate and review **Scenes 31–35 only**, unless the user explicitly requests a larger range.
+Translate and review **Scenes 41–45 only**, unless the user explicitly requests a larger range.
 
 1. Fetch live `main` first.
-2. Fetch and read complete verified Tamil assemblies `works/manimagudam/scenes/31.md` through `35.md`.
-3. Create `works/manimagudam/translations/en/31.md` through `35.md` using the established English schema.
+2. Fetch and read complete verified Tamil assemblies `works/manimagudam/scenes/41.md` through `45.md`.
+3. Create `works/manimagudam/translations/en/41.md` through `45.md` using the established English schema.
 4. Derive every translation from the verified Tamil assembly, not OCR, outside summaries or secondary English.
 5. Preserve speaker identities, stage directions, scene structure, repetitions, humour, rhetoric, political meaning, lexical distinctions and source ambiguity.
 6. Review each new file back against its Tamil authority before marking `translation-reviewed` / PASS.
-7. Extend `translations/en/TRANSLATION_REVIEW.md` and `translations/en/README.md` to **35 / 47** only after all five pass.
+7. Extend `translations/en/TRANSLATION_REVIEW.md` and `translations/en/README.md` to **45 / 47** only after all five pass.
 8. Update root/work README and handover tracking.
-9. Stop at Scene 35 unless the user explicitly asks to continue further or requests a larger range.
+9. Stop at Scene 45 unless the user explicitly asks to continue further or requests a larger range.
 
 Standing safeguard: `அந்தணர்` is not automatically translated as `Brahmin` without contextual justification.
 
@@ -72,7 +73,7 @@ The raw PDF has **170 physical scans** even though a conversation preview expose
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- Independent English translation: **IN PROGRESS — 30 / 47 translation-reviewed**.
+- Independent English translation: **IN PROGRESS — 40 / 47 translation-reviewed**.
 - Secondary-English witness comparison for `மணிமகுடம்`: **not started**.
 
 ## Provenance safeguard
