@@ -12,25 +12,27 @@ No published English text, outside summary, OCR layer or secondary witness is us
 
 ## Current files
 
-- `01.md` — Scene 1, scans 14–19;
-- `02.md` — Scene 2, scans 20–24;
-- `03.md` — Scene 3, scans 24–26;
-- `04.md` — Scene 4, scans 27–30;
-- `05.md` — Scene 5, scans 30–32;
-- `06.md` — Scene 6, scans 32–39;
-- `07.md` — Scene 7, scans 39–44;
-- `08.md` — Scene 8, scans 44–49;
-- `09.md` — Scene 9, scans 49–50;
-- `10.md` — Scene 10, scans 50–55;
-- `TRANSLATION_REVIEW.md` — Tamil→English coverage and fidelity review through Scene 10.
+- `01.md` through `05.md` — Scenes 1–5;
+- `06.md` through `10.md` — Scenes 6–10;
+- `11.md` — Scene 11, scans 55–58;
+- `12.md` — Scene 12, scans 58–59;
+- `13.md` — Scene 13, scans 60–65;
+- `14.md` — Scene 14, scans 65–68;
+- `15.md` — Scene 15, scans 68–70;
+- `16.md` — Scene 16, scans 70–74;
+- `17.md` — Scene 17, scans 74–75;
+- `18.md` — Scene 18, scans 76–80;
+- `19.md` — Scene 19, scans 80–81;
+- `20.md` — Scene 20, scans 81–85;
+- `TRANSLATION_REVIEW.md` — Tamil→English coverage and fidelity review through Scene 20.
 
 ## Current status
 
 - Tamil page archive: **170/170 COMPLETE**;
 - Tamil scene assembly: **47/47 PASS / COMPLETE**;
-- independent English translation: **10/47 scenes translated and reviewed**;
-- current English frontier: **Scene 10**;
-- unresolved translation blocks in Scenes 1–10: **0**;
+- independent English translation: **20/47 scenes translated and reviewed**;
+- current English frontier: **Scene 20**;
+- unresolved translation blocks in Scenes 1–20: **0**;
 - secondary-English contamination: **0**.
 
 ## Translation controls
@@ -44,27 +46,31 @@ Recurring political structures:
 - `மக்கள் மன்றம்` → `People's Forum`;
 - `சீமான்கள் சபை` → `Assembly of Nobles`;
 - `மக்கள் தொண்டன்` → *People's Servant*;
-- `ஆட்சிப் பீடம்` → `seat of power` where the abstract political institution is meant.
-
-Additional controls established through Scene 10 include:
-
+- `ஆட்சிப் பீடம்` → `seat of power` where the abstract political institution is meant;
 - `கொடிக்கால் நகரம்` → `Kodikkal Nagar`;
-- `அறிவியக்க வாதிகள்` → `advocates of the knowledge movement`;
-- crore-denominated source amounts remain in crores rather than being silently converted;
-- `மகுடி` → `magudi`;
-- `அலி` → *ali* rather than an unsupported narrower modern category;
 - `விசேஷ அதிகாரம்` → `special authority`;
-- source-odd `குஷிமிக்க வேண்டும்!` remains visible as `kushimikka vendum!` rather than being repaired;
-- the proposed newspaper title `மணிமகுடம்` remains *Manimagudam*.
+- newspaper title `மணிமகுடம்` → *Manimagudam*.
+
+Additional controls established through Scene 20 include:
+
+- unnamed `அவர்` → `him` until the source itself identifies him;
+- `காதல் அரிச்சுவடி` → `alphabet-primer of love`;
+- Scene-14 `மெய்` truth/body pun remains explicitly visible;
+- `ரசமில்லாத கண்ணாடி` / `காதல் ரசம்` → `unsilvered mirror` / `rasa of love`;
+- `மயக்கம்` remains context-sensitive — bewitching, unconsciousness or ideological stupor — rather than being flattened to one English word;
+- `குருபீடம் - அதிகார பீடம் - பிரச்சார பீடம்` → `guru-seat - seat of power - propaganda-seat`;
+- source-specific `குரப்புலிகள்` is retained as `kurappuligal` rather than assigned an unsupported modern equivalent.
 
 ## Batch results
 
 Batch 1 — Scenes **1–5**: **PASS / locked**.
 
-Batch 2 — Scenes **6–10**: **PASS / locked**. The batch preserves the Kodikkal temple-displacement debate; non-violent / political-civility argument; government-spy accusation; King Manimaran's refusal to sign the temple resolution; Gunaseelar's decision to publish the false signing claim; the street propaganda scene; the Forum's suspicion of Puthumaippithan; and the Kalarani test / closing emotional exchange.
+Batch 2 — Scenes **6–10**: **PASS / locked**.
 
-Across Scenes 1–10 there are **0 unresolved translation blocks** and **0 secondary-English contamination**.
+Batch 3 — Scenes **11–20**: **PASS / locked**. This batch preserves Kalarani / Vanji comedy and Gunaseelar's marriage pressure; Kalarani's meeting with the king and the Ponnazhagan revelation; the Vanji / Ulagappan wordplay; the king / Puthumaippithan and Ulagappan / Black Rose identity reveal; Puthumaippithan's launch of *Manimagudam* and ideological-stupor argument; the newspaper's first public circulation; Kalarani's declaration to Ponnazhagan and his naming of Alli; the decision to enforce the Kodikkal clearance; and the violent eviction / Forum resistance through Scene 20.
+
+Across Scenes 1–20 there are **0 unresolved translation blocks** and **0 secondary-English contamination**.
 
 ## Next activity
 
-Continue the independent English translation with **Scenes 11–15** only. Derive each file from the corresponding verified Tamil assembly, run Tamil→English fidelity review, update this progress record and stop at Scene 15 unless the user explicitly requests further continuation.
+Continue the independent English translation with **Scenes 21–25**. Derive each file from the corresponding verified Tamil assembly, run Tamil→English fidelity review, update this progress record and stop at Scene 25 unless the user explicitly requests further continuation.
