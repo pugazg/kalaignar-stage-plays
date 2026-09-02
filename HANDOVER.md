@@ -47,53 +47,65 @@ Translation authority is the verified Tamil scene assembly. OCR, outside summari
 ### Completed English Batch 1 — Scenes 1–5
 
 - `works/manimagudam/translations/en/01.md` through `05.md`;
-- all five scenes: **translation-reviewed / PASS**;
-- unresolved translation blocks: **0**;
-- secondary-English contamination: **0**.
+- all five scenes: **translation-reviewed / PASS**.
 
 ### Completed English Batch 2 — Scenes 6–10
 
-- `06.md` — Scene 6 / scans 32–39 — **PASS**;
-- `07.md` — Scene 7 / scans 39–44 — **PASS**;
-- `08.md` — Scene 8 / scans 44–49 — **PASS**;
-- `09.md` — Scene 9 / scans 49–50 — **PASS**;
-- `10.md` — Scene 10 / scans 50–55 — **PASS**;
-- `translations/en/TRANSLATION_REVIEW.md` now covers **Scenes 1–10**;
-- independent English dramatic progress: **10 / 47 scenes translated and reviewed**;
-- unresolved translation blocks through Scene 10: **0**;
+- `06.md` through `10.md`;
+- all five scenes: **translation-reviewed / PASS**.
+
+### Completed English Batch 3 — Scenes 11–20
+
+The user explicitly requested processing from Scene 11 through Scene 20 in one activity. All ten scenes have been independently translated from their verified Tamil assemblies and reviewed back against those authorities.
+
+- `11.md` — Scene 11 / scans **55–58** — **PASS**;
+- `12.md` — Scene 12 / scans **58–59** — **PASS**;
+- `13.md` — Scene 13 / scans **60–65** — **PASS**;
+- `14.md` — Scene 14 / scans **65–68** — **PASS**;
+- `15.md` — Scene 15 / scans **68–70** — **PASS**;
+- `16.md` — Scene 16 / scans **70–74** — **PASS**;
+- `17.md` — Scene 17 / scans **74–75** — **PASS**;
+- `18.md` — Scene 18 / scans **76–80** — **PASS**;
+- `19.md` — Scene 19 / scans **80–81** — **PASS**;
+- `20.md` — Scene 20 / scans **81–85** — **PASS**;
+- `translations/en/TRANSLATION_REVIEW.md` now covers **Scenes 1–20**;
+- independent English dramatic progress: **20 / 47 scenes translated and reviewed**;
+- unresolved translation blocks through Scene 20: **0**;
 - secondary-English contamination: **0**.
 
-Batch-2 controls established or confirmed:
+Batch-3 source-sensitive / rhetorical controls include:
 
-- `கொடிக்கால் நகரம்` → `Kodikkal Nagar`;
-- `அறிவியக்க வாதிகள்` → `advocates of the knowledge movement`;
-- source crore amounts remain in crores;
-- `மகுடி` → `magudi`;
-- `அலி` → *ali* rather than assigning a narrower unsupported modern category;
-- `விசேஷ அதிகாரம்` → `special authority`;
-- verified odd form `குஷிமிக்க வேண்டும்!` remains visible as `kushimikka vendum!` rather than silently repaired;
-- proposed newspaper title `மணிமகுடம்` remains *Manimagudam*.
+- Kalarani / Vanji's unnamed `அவர்` retained as `him` until the source identifies him;
+- `காதல் அரிச்சுவடி` → `alphabet-primer of love`;
+- Scene-14 `மெய்` truth/body pun preserved explicitly;
+- `ரசமில்லாத கண்ணாடி` / `காதல் ரசம்` → `unsilvered mirror` / `rasa of love`;
+- `மயக்கம்` remains context-dependent — charm, unconsciousness or ideological stupor;
+- `குருபீடம் - அதிகார பீடம் - பிரச்சார பீடம்` → `guru-seat - seat of power - propaganda-seat`;
+- source-specific `குரப்புலிகள்` retained as `kurappuligal` rather than assigned an unsupported modern equivalent.
 
 Recurring controls continue:
 
 - `மக்கள் மன்றம்` → `People's Forum`;
 - `சீமான்கள் சபை` → `Assembly of Nobles`;
 - `மக்கள் தொண்டன்` → *People's Servant*;
-- `ஆட்சிப் பீடம்` → `seat of power` where abstract authority is meant.
+- `ஆட்சிப் பீடம்` → `seat of power` where abstract authority is meant;
+- `கொடிக்கால் நகரம்` → `Kodikkal Nagar`;
+- `விசேஷ அதிகாரம்` → `special authority`;
+- newspaper title `மணிமகுடம்` → *Manimagudam*.
 
 ## Exact next activity
 
-Continue the independent English translation with **Scenes 11–15 only**.
+Continue the independent English translation with **Scenes 21–25 only**.
 
 1. Fetch live `main` first.
-2. Read this handover, `NEXT_CHAT_PROMPT.md`, `STAGE_PLAY_PROCESSING_GUIDE.md`, `works/manimagudam/README.md`, `translations/en/README.md`, and the current `TRANSLATION_REVIEW.md`.
-3. Fetch complete verified Tamil assemblies `works/manimagudam/scenes/11.md` through `15.md`.
-4. Translate each scene independently into `works/manimagudam/translations/en/11.md` through `15.md` using the established schema and terminology controls.
-5. Preserve scene structure, speaker identity, stage directions, rhetoric, repetition, humour, ambiguity and historically specific terminology.
+2. Read this handover, `NEXT_CHAT_PROMPT.md`, `STAGE_PLAY_PROCESSING_GUIDE.md`, `works/manimagudam/README.md`, `works/manimagudam/translations/en/README.md`, and the current `TRANSLATION_REVIEW.md`.
+3. Fetch complete verified Tamil assemblies `works/manimagudam/scenes/21.md` through `25.md`.
+4. Translate each scene independently into `works/manimagudam/translations/en/21.md` through `25.md` using the established schema and terminology controls.
+5. Preserve scene structure, speaker identity, stage directions, rhetoric, repetition, humour, ambiguity, political meaning and source-specific terminology.
 6. Review every new English scene back against its verified Tamil assembly before marking `translation-reviewed` / PASS.
-7. Extend `translations/en/TRANSLATION_REVIEW.md` and `translations/en/README.md` to **15 / 47** only after the batch passes.
+7. Extend `translations/en/TRANSLATION_REVIEW.md` and `translations/en/README.md` to **25 / 47** only after the batch passes.
 8. Update root/work README and handover tracking.
-9. Stop at Scene 15 unless the user explicitly requests further continuation.
+9. Stop at Scene 25 unless the user explicitly requests a larger continuation.
 
 Do **not** reopen the closed Tamil page or scene-assembly gates during ordinary translation work.
 
@@ -114,7 +126,7 @@ Do not silently merge these statements.
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- Independent English translation: **IN PROGRESS — 10 / 47 translation-reviewed**.
+- Independent English translation: **IN PROGRESS — 20 / 47 translation-reviewed**.
 - Secondary-English witness comparison for `மணிமகுடம்`: **not started**.
 
 ## Closed `கலைஞரின் நான்மணி மாலை` state
