@@ -16,11 +16,11 @@ Archive slug: `manimagudam`.
 - Assembled files: `scenes/01.md` through `scenes/47.md`.
 - Per-scene fidelity reviews: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`.
 - Assembly unresolved discrepancies: **0**.
-- Independent English translation: **20 / 47 scenes translated and reviewed**.
-- Current English frontier: **Scene 20**.
-- English files: `translations/en/01.md` through `translations/en/20.md`.
-- Translation review: `translations/en/TRANSLATION_REVIEW.md` — **Scenes 1–20 PASS**.
-- English unresolved translation blocks through Scene 20: **0**.
+- Independent English translation: **30 / 47 scenes translated and reviewed**.
+- Current English frontier: **Scene 30**.
+- English files: `translations/en/01.md` through `translations/en/30.md`.
+- Translation review: `translations/en/TRANSLATION_REVIEW.md` — **Scenes 1–30 PASS**.
+- English unresolved translation blocks through Scene 30: **0**.
 - Secondary-English contamination: **0**.
 - Final dramatic source marker: scan **169 / printed page 160** ends `(முடிவுற்றது)`.
 - Scan **170** is verified publisher back matter and is not part of the dramatic assembly.
@@ -74,23 +74,22 @@ All assembly gates are complete:
 
 ## Independent English translation — IN PROGRESS
 
-The user has explicitly authorized the English phase. Translation authority is the verified Tamil scene assembly, not OCR, outside summaries or a published-English witness.
+The English phase is authorized. Translation authority is the verified Tamil scene assembly, not OCR, outside summaries or a published-English witness.
 
 Completed batches:
 
 - Scenes **1–5**: **translated + Tamil→English reviewed / PASS**;
 - Scenes **6–10**: **translated + Tamil→English reviewed / PASS**;
 - Scenes **11–20**: **translated + Tamil→English reviewed / PASS**;
-- English files: `translations/en/01.md` through `translations/en/20.md`;
+- Scenes **21–30**: **translated + Tamil→English reviewed / PASS**;
+- English files: `translations/en/01.md` through `translations/en/30.md`;
 - review gate: `translations/en/TRANSLATION_REVIEW.md`;
-- unresolved translation blocks through Scene 20: **0**;
+- unresolved translation blocks through Scene 30: **0**;
 - secondary-English witness use during drafting/review: **0**.
 
-The Scene 11–20 batch includes the Kalarani / Vanji and Ulagappan comedy, the Kalarani–king conversation and Ponnazhagan revelation, the king / Puthumaippithan identity reveal, *Manimagudam*'s launch and public circulation, Kalarani's declaration to Ponnazhagan, the Kodikkal clearance decision and the violent eviction / People's Forum resistance through Scene 20.
+The Scene 21–30 batch includes the counterfeit-king plot, Assembly performance, religious / ministerial murder conspiracy, Manimaran's long internal political speech, the foundation-stone assassination attempt, Alli's wound and palace debate, and Vanji/Ulagappan's comic scene. Source-dependent wordplay is retained visibly where direct English substitution would erase it.
 
-Recurring controls include `மக்கள் மன்றம்` → `People's Forum`, `சீமான்கள் சபை` → `Assembly of Nobles`, `மக்கள் தொண்டன்` → *People's Servant*, `கொடிக்கால் நகரம்` → `Kodikkal Nagar`, `விசேஷ அதிகாரம்` → `special authority`, and `மணிமகுடம்` → *Manimagudam* for the newspaper title. Source-sensitive ambiguity and wordplay are retained rather than silently repaired; `குரப்புலிகள்` is currently retained as `kurappuligal` pending any future source-supported lexical adjudication.
-
-The next bounded batch is **Scenes 21–25**.
+The next bounded batch is **Scenes 31–35**.
 
 ## Critical PDF-ingestion note
 
@@ -100,7 +99,7 @@ A conversation/file preview exposed only the first **150** pages, but raw-PDF in
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- Independent English translation: **IN PROGRESS — 20 / 47 reviewed**.
+- Independent English translation: **IN PROGRESS — 30 / 47 reviewed**.
 - Secondary-English witness comparison for `மணிமகுடம்`: **not started**.
 
 Do not reopen the closed Tamil page or assembly gates without explicit direction or new source evidence. Continue English from verified Tamil assemblies only.
