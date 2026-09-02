@@ -2,19 +2,16 @@
 
 ## Scope
 
-Current independent-English review frontier: **Scenes 1–5**.
+Current independent-English review frontier: **Scenes 1–10**.
 
 Reviewed English files:
 
-- `01.md` — `காட்சி 1`;
-- `02.md` — `காட்சி 2`;
-- `03.md` — `காட்சி 3`;
-- `04.md` — `காட்சி 4`;
-- `05.md` — `காட்சி 5`.
+- `01.md` through `05.md` — completed Batch 1;
+- `06.md` through `10.md` — completed Batch 2.
 
 Translation authority, in order:
 
-1. verified Tamil scene assemblies `../../scenes/01.md` through `05.md`;
+1. verified Tamil scene assemblies `../../scenes/01.md` through `10.md`;
 2. their verified page-record provenance only where scene metadata or a source-sensitive form requires confirmation;
 3. the controlling Tamil scan as already reconciled into those verified records.
 
@@ -29,63 +26,87 @@ No published English text or other secondary-English witness was consulted durin
 | scans 24–26 — Scene 3 | `03.md` | PASS |
 | scans 27–30 — Scene 4 | `04.md` | PASS |
 | scans 30–32 — Scene 5 | `05.md` | PASS |
+| scans 32–39 — Scene 6 | `06.md` | PASS |
+| scans 39–44 — Scene 7 | `07.md` | PASS |
+| scans 44–49 — Scene 8 | `08.md` | PASS |
+| scans 49–50 — Scene 9 | `09.md` | PASS |
+| scans 50–55 — Scene 10 | `10.md` | PASS |
 
-Current dramatic English coverage: **5/47 scenes**.
+Current dramatic English coverage: **10/47 scenes**.
 
-## Dramatic / structural review
+## Batch 1 — Scenes 1–5
 
-### Scene 1 — PASS
+The previously locked review remains PASS. It preserves the opening lamp-post encounter and political metaphor; public-health / superstition debate; People's Forum initiation and pledge; Kalarani–Vanji domestic comedy and Gunaseelar's dynastic ambition; and the *People's Servant* report / Black Rose eyewitness reversal.
 
-- the staged encounter among the man by the lamp, the dwarf and Ponnazhagan is complete;
-- the moon/candy/star-ant image and the counter-image of spider/web/trapped insects remain structurally opposed;
-- the political distinction among king, minister, royal guru and Assembly of Nobles is preserved;
-- the attack on the *People's Servant* newspaper remains explicit rather than generalized;
-- Puthumaippithan's self-identification, request to join the movement, and the naming of Black Rose remain complete;
-- all source stage directions and speaker turns are represented.
-
-### Scene 2 — PASS
-
-- the poor settlement, diarrhoea deaths, Alli's relief work and government medical neglect remain complete;
-- the official prescription of Mariamman/Kaliamman worship is retained alongside Puthumaippithan's public-health challenge;
-- the divine-incarnation / Dashavataram satire remains visible;
-- the source argument redefining `விதி` as a law devised by the strong over the weak is retained;
-- the strategic disagreement is preserved: Ponnazhagan concentrates on opposition to the king, while Puthumaippithan insists on prior cultivation of the people's minds;
-- `அறிவு ஒளி` and `ஆட்சி ஒளி` remain distinct as `light of knowledge` and `light of government`.
-
-### Scene 3 — PASS
-
-- the source-visible Bharathidasan line is represented without importing additional poem text;
-- Alli's awakening, spear, liberation and rights imagery is retained;
-- the `மணிமகுடம்` / `மக்கள் மகுடம்` crown wordplay remains visible in English;
-- Puthumaippithan's admission, pledge and the comic accidental repetition of `sign it` are preserved;
-- speaker and stage-direction sequence is complete.
-
-### Scene 4 — PASS
-
-- Kalarani and Vanji's moon/sun poetic teasing, dream parody and dental/pearl/jasmine jokes remain present;
-- the source-sensitive `“கா” வன்னா விஷயம்` is not expanded into an asserted hidden word;
-- Gunaseelar's rapid sequence of questions is retained as comic pressure;
-- his dynastic motive — control of the Manimagudapuram throne through Kalarani's marriage — remains explicit;
-- Vanji's `net called Kalarani` joke and grandson/granddaughter punch line are preserved.
-
-### Scene 5 — PASS
-
-- the *People's Servant* report is represented as a report inside the drama, not adopted as narrator truth;
-- Black Rose's eyewitness correction preserves the crucial causal reversal: the cavalry did not come because of a disturbance; the disturbance began after the cavalry arrived;
-- the wound/medicine retort remains intact;
-- the catalogue of printed absurdities remains complete;
-- the scene closes with news that the Assembly of Nobles is meeting that day.
-
-## Terminology / source-sensitive controls
+Established controls remain unchanged:
 
 - `மக்கள் மன்றம்` → `People's Forum`;
 - `சீமான்கள் சபை` → `Assembly of Nobles`;
 - `மக்கள் தொண்டன்` → *People's Servant*;
 - `ஆட்சிப் பீடம்` → `seat of power` where used abstractly;
-- `ஸ்ரீஜத் அரிஹரநாதன்` → `Srijath Ariharanathan`, without outside normalization;
-- `பேதி` → `diarrhoea`, without inferring a different named disease;
-- `ஆஷாடபூதிகள்` → `Ashadabhuthis`, conservatively visible rather than replaced by an unsupported modern equivalent;
-- `“கா” வன்னா விஷயம்` → `the matter of the letter “Ka”`, preserving the source's teasing ambiguity.
+- `பேதி` → `diarrhoea` without inferring a different named disease;
+- source-sensitive forms such as `ஸ்ரீஜத் அரிஹரநாதன்`, `“கா” வன்னா விஷயம்`, and `ஆஷாடபூதிகள்` remain protected.
+
+## Batch 2 dramatic / structural review
+
+### Scene 6 — PASS
+
+- the Assembly of Nobles setting, invited Gurunathar / Ariharanathar presence and public gallery are complete;
+- Gunaseelar's proposal to clear Kodikkal Nagar for a monumental temple is represented in full;
+- Ponnazhagan's defence of the thousand hut-dwelling / betel-growing families, taxation argument and plea for another site remain complete;
+- Gurunathar's sacrifice / salvation argument remains explicit rather than softened;
+- Puthumaippithan's numerical argument — five hundred capital temples, six thousand nationally, sixty crore annual expenditure and three hundred crore locked wealth — is retained without silent unit conversion;
+- the knowledge-movement / atheism debate, temple-as-heart argument, `Love is God` contradiction, blood / incense / offering / bell / lament imagery and final denunciation remain intact;
+- the expulsion of the public and Ariharanathar's promise not to report the debate are preserved.
+
+### Scene 7 — PASS
+
+- Alli and Ponnazhagan's responses to the Kodikkal resolution are complete;
+- Ponnazhagan's threat against the king and Puthumaippithan's rejection of the violent path remain clearly distinguished;
+- the peacock / rutting elephant / mountain-python examples and the political-civility argument remain present;
+- Puthumaippithan's central distinction — destroy blind ideas and dark thought rather than individual king, Gurunathar, editor or minister — remains explicit;
+- the discussion of permanent people's government and superstition survives without external political terminology;
+- the poet's warning song, government-spy accusation, palace-entry evidence, Alli's resistance to the accusation and Ponnazhagan's order for a secret executive meeting are complete.
+
+### Scene 8 — PASS
+
+- the bodyguard's wordplay, headstand / Hanuman comedy and fear for his job are retained;
+- the verified odd source form `குஷிமிக்க வேண்டும்!` is kept visibly rather than silently repaired;
+- King Manimaran's source-stated resemblance to Puthumaippithan is represented without added explanation;
+- the king's dam / flood / divine-intervention remarks remain in source sequence without an invented `sarcastically` direction;
+- the king refuses to sign the temple resolution, explicitly tells Gunaseelar to use special authority if necessary, and signs the other resolutions;
+- Gunaseelar's private decision to lie that the king signed and to use *People's Servant* for that propaganda is preserved;
+- the closing `way / way out` joke remains structurally intact.
+
+### Scene 9 — PASS
+
+- the street sale of *People's Servant* and the headline claiming the king signed are complete;
+- temple preparations, temple tax and Gurunathar article remain in the vendor's cry;
+- Alli's purchase, shock and the report's countrywide spread are represented;
+- `பணம்` remains `panam` rather than being converted to a modern denomination.
+
+### Scene 10 — PASS
+
+- the Forum's fear of a king–Kalarani marriage alliance and plan to abduct Kalarani remain complete;
+- Puthumaippithan identifies the crucial ambiguity in the newspaper report: it says the king signed an Assembly resolution but does not state that he signed the temple resolution;
+- the proposal to start a daily called *Manimagudam* is preserved;
+- suspicion of Puthumaippithan, his oath on mother / father / language and the abduction test are complete;
+- `ஒரே கல்லில் இரண்டு மாங்காய்` remains `two mangoes with one stone`, paired with `ஒரு இருதயத்தில் இரண்டு வேல்கள்` as `two spears in one heart`;
+- Alli's praise sequence and the closing emotional exchange are retained without adding an explicit romantic label not printed by the source;
+- Black Rose's comic decision to stand guard remains present.
+
+## Terminology / source-sensitive controls through Scene 10
+
+- `கொடிக்கால் நகரம்` → `Kodikkal Nagar`;
+- `கொடிக்கால் வரி` → `Kodikkal tax` from immediate scene context;
+- `அறிவியக்க வாதிகள்` → `advocates of the knowledge movement`, conservatively preserving the play's own framing;
+- monetary scales `அறுபது கோடி`, `முன்னூறு கோடி` → `sixty crore`, `three hundred crore`;
+- `மகுடி` → `magudi`, retaining the culturally specific instrument;
+- `அலி` → *ali*, avoiding an unsupported narrower modern category;
+- `ஐந்தாம் படைத் தலைவன்` → `leader of a fifth column`;
+- `விசேஷ அதிகாரம்` → `special authority`;
+- verified odd form `குஷிமிக்க வேண்டும்!` → visible `kushimikka vendum!` rather than silent emendation;
+- `மணிமகுடம்` as the proposed newspaper title → *Manimagudam*.
 
 The standing repository safeguard remains in force: `அந்தணர்` is not automatically translated as `Brahmin` without contextual justification.
 
@@ -93,28 +114,31 @@ The standing repository safeguard remains in force: `அந்தணர்` is n
 
 PASS on the following controls:
 
-- the play's criticism of monarchy, court hierarchy, religious authority, propaganda and ruling-class power is not softened;
-- superstition/public-health conflict remains explicit;
-- Puthumaippithan's insistence on intellectual preparation before political transfer of power is preserved;
-- Alli's liberation rhetoric remains forceful rather than rewritten as neutral explanatory prose;
-- comedy and ideological debate remain interwoven as in the Tamil assemblies;
-- no external historical correction or later terminology is inserted.
+- criticism of monarchy, ministers, religious authority, propaganda and elite power remains explicit;
+- opposition to forced displacement for temple construction is not diluted;
+- Puthumaippithan's non-personal theory of political struggle — transform ideas and public consciousness rather than merely kill rulers — remains central;
+- the king's refusal to sign and Gunaseelar's decision to falsify the public narrative remain dramatically distinct;
+- the Forum's own suspicion, coercive test and internal tensions are preserved rather than idealized;
+- comedy, propaganda, rationalist rhetoric and personal emotion remain interwoven as in the verified Tamil assemblies;
+- no external historical correction, modern political label or published-English wording is imported.
 
 ## Review result
 
-- Scene 1 coverage: **PASS**;
-- Scene 2 coverage: **PASS**;
-- Scene 3 coverage: **PASS**;
-- Scene 4 coverage: **PASS**;
-- Scene 5 coverage: **PASS**;
+- Scenes 1–5: **PASS / previously locked**;
+- Scene 6 coverage: **PASS**;
+- Scene 7 coverage: **PASS**;
+- Scene 8 coverage: **PASS**;
+- Scene 9 coverage: **PASS**;
+- Scene 10 coverage: **PASS**;
 - speaker/stage-direction coverage: **PASS**;
 - political / rhetorical fidelity: **PASS**;
+- humour / metaphor / repetition coverage: **PASS**;
 - source-sensitive-form handling: **PASS**;
 - secondary-English contamination: **0**;
 - unresolved translation blocks: **0**.
 
-**BATCH RESULT: PASS — `மணிமகுடம்` independent English translation is complete and translation-reviewed through Scene 5.**
+**BATCH RESULT: PASS — `மணிமகுடம்` independent English translation is complete and translation-reviewed through Scene 10.**
 
 ## Next activity
 
-Translate and Tamil→English review **Scenes 6–10** from the verified Tamil assemblies `../../scenes/06.md` through `10.md`. Do not consult a secondary English witness before that independent batch is locked.
+Translate and Tamil→English review **Scenes 11–15** from the verified Tamil assemblies `../../scenes/11.md` through `15.md`. Do not consult a secondary English witness before that independent batch is locked.
