@@ -8,18 +8,16 @@ Always fetch live `main` first and treat it as authoritative. Preserve newer dur
 
 Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
-## மணிமகுடம் — Tamil page archive and scene assembly COMPLETE
+## மணிமகுடம் — durable source state
 
 Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
-
-Durable source identity:
 
 - SHA-256: `a629509c3404fcc5c2844f5b693e72a41aca03ad2e2494588807af4ff8f16f3b`;
 - file size: **187,091,728 bytes**;
 - physical PDF scans: **170**;
 - sixth edition scan statement: **May 2010**, price **Rs.40.00**.
 
-### Page-level checkpoint
+### Tamil page-level checkpoint — COMPLETE
 
 - front matter scans **1–13**: **13 / 13 VERIFIED**;
 - dramatic-body scans **14–169**: **156 / 156 VERIFIED**;
@@ -29,66 +27,63 @@ Durable source identity:
 - `காட்சி 1` through `காட்சி 47`: page-level source transcription complete;
 - scan **169 / printed page 160** closes the drama with `(முடிவுற்றது)`;
 - scan **170** is verified publisher catalogue / advertisement;
-- final-range page verification remains closed and authoritative at **30 / 30 VERIFIED, 0 unresolved** for scans 141–170.
+- final-range verification is closed at **30 / 30 VERIFIED, 0 unresolved** for scans 141–170.
 
-## Tamil scene assembly checkpoint — COMPLETE
-
-The user explicitly authorized assembly through the final `காட்சி 47`. Scene assembly derives only from verified page records; no page-level source gate was reopened.
+### Tamil scene assembly checkpoint — COMPLETE
 
 - `காட்சி 1` through `காட்சி 47`: **47 / 47 PASS / COMPLETE**;
 - assembled files: `works/manimagudam/scenes/01.md` through `47.md`;
-- per-scene fidelity reviews: `SCENE1_ASSEMBLY_FIDELITY_REVIEW.md` through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`;
-- all verified source-page portions represented;
-- shared physical pages containing multiple scenes are split only at source-visible scene headings;
-- only mechanical physical-page interruptions are joined;
-- source wording, punctuation, speaker-label variants, repetitions, ellipses, stage directions and source-specific forms are retained;
+- per-scene fidelity reviews through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`;
+- source wording, punctuation, speaker-label variants, repetitions, ellipses, stage directions and source-specific forms retained;
+- shared physical pages with multiple scenes split only at source-visible headings;
 - unresolved assembly discrepancies: **0**.
 
-### Final assembly batch — Scenes 28–47
+The final assembly batch completed Scenes 28–47. Important controlled joins include Scene 29's multi-page continuities, Scene 32 and 33 dialogue continuities, Scene 40 and 41 long speeches, Scene 42's three cross-page joins, Scene 43's long `அர:` continuities across scans 155–161, and Scene 46's opening stage-direction and later dramatic-speech continuities. Scans 162 and 169 contain multiple source-visible scene boundaries and were split only at those headings.
 
-The final batch completed all remaining scenes:
+Final `காட்சி 47` retains `(முடிவுற்றது)`. Scan 170 remains separate back matter.
 
-- Scene 28: scans **108–110**;
-- Scene 29: scans **110–117**;
-- Scene 30: scans **117–121**;
-- Scene 31: scans **121–122**;
-- Scene 32: scans **122–127**;
-- Scene 33: scans **127–131**;
-- Scene 34: scan **131**;
-- Scene 35: scans **131–132**;
-- Scene 36: scans **132–135**;
-- Scene 37: scans **135–136**;
-- Scene 38: scan **136**;
-- Scene 39: scans **136–137**;
-- Scene 40: scans **137–140**;
-- Scene 41: scans **141–144**;
-- Scene 42: scans **145–152**;
-- Scene 43: scans **152–162**;
-- Scene 44: scan **162**;
-- Scene 45: scan **162**;
-- Scene 46: scans **162–169**;
-- Scene 47: scan **169**.
+## Independent English translation — AUTHORIZED / IN PROGRESS
 
-Important assembly controls in the final batch include:
+The user explicitly authorized the next phase by instructing `proceed with next activity` after the Tamil scene assembly closed.
 
-- Scene 28: scan 108→109 stage-direction continuation;
-- Scene 29: four mechanical joins, including the scan 113→114 and 116→117 அல்லி continuities;
-- Scene 32: scan 122→123 அல்லி and scan 124→125 புதுமைப்பித்தன் joins;
-- Scene 33: scan 127→128 கலாராணி continuation;
-- Scene 40: scan 137→138 குருநாதர் continuation;
-- Scene 41: scan 143→144 குருநாதர் dying utterance;
-- Scene 42: scan 145→146 and 146→147 பொன்னழகன் plus scan 149→150 அல்லி;
-- Scene 43: five long-form `அர:` joins across scans 155→161, without inserting repeated labels absent from the source;
-- scans 162 and 169: multiple source-visible scene boundaries handled exactly;
-- Scene 46: opening stage-direction join plus later dramatic continuities across scans 163→164 and 166→169.
+Translation authority is the verified Tamil scene assembly. OCR, outside summaries and any published English are not drafting authorities. Published English, if later available, remains a separate secondary-witness layer to be opened only after the independent translation and Tamil→English review for the relevant scope are locked.
 
-Final `காட்சி 47` retains the source-visible literary closure `(முடிவுற்றது)`. Scan 170 remains separate back matter.
+### Completed English batch 1 — Scenes 1–5
+
+- `works/manimagudam/translations/en/01.md` — Scene 1 / scans 14–19 — **translation-reviewed / PASS**;
+- `02.md` — Scene 2 / scans 20–24 — **PASS**;
+- `03.md` — Scene 3 / scans 24–26 — **PASS**;
+- `04.md` — Scene 4 / scans 27–30 — **PASS**;
+- `05.md` — Scene 5 / scans 30–32 — **PASS**;
+- `translations/en/README.md` records authority, terminology and frontier;
+- `translations/en/TRANSLATION_REVIEW.md` records the Tamil→English review;
+- English dramatic progress: **5 / 47 scenes translated and reviewed**;
+- unresolved translation blocks through Scene 5: **0**;
+- secondary-English contamination: **0**.
+
+Recurring terminology controls established in batch 1:
+
+- `மக்கள் மன்றம்` → `People's Forum`;
+- `சீமான்கள் சபை` → `Assembly of Nobles`;
+- `மக்கள் தொண்டன்` → *People's Servant*;
+- `ஆட்சிப் பீடம்` → `seat of power` where abstract political authority is meant.
+
+Source-sensitive forms are not silently repaired. Examples already protected include `ஸ்ரீஜத் அரிஹரநாதன்`, `“கா” வன்னா விஷயம்`, and `ஆஷாடபூதிகள்`.
 
 ## Exact next activity
 
-**STOP. No Tamil scene assembly remains.**
+Continue the independent English translation with **Scenes 6–10 only**.
 
-Do not begin English translation automatically. Await an explicit user instruction authorizing the next phase or another requested activity. If English translation is later authorized, derive it from the verified Tamil assemblies and follow the repository's translation safeguards before writing.
+1. Fetch live `main` first.
+2. Read this handover, `NEXT_CHAT_PROMPT.md`, `STAGE_PLAY_PROCESSING_GUIDE.md`, `works/manimagudam/README.md`, `translations/en/README.md`, and the current `TRANSLATION_REVIEW.md`.
+3. Fetch complete verified Tamil assemblies `works/manimagudam/scenes/06.md` through `10.md`.
+4. Translate each scene independently into `works/manimagudam/translations/en/06.md` through `10.md` using the established schema and terminology controls.
+5. Preserve scene structure, speaker identity, stage directions, rhetoric, repetition, humour, ambiguity and historically specific terminology.
+6. Review every new English scene back against its verified Tamil assembly before marking `translation-reviewed` / PASS.
+7. Extend `translations/en/TRANSLATION_REVIEW.md` and `translations/en/README.md` to **10 / 47** only after the batch passes.
+8. Update tracking docs and stop at Scene 10 unless the user explicitly requests further continuation.
+
+Do **not** reopen the closed Tamil page or scene-assembly gates during ordinary translation work.
 
 ## Critical source-boundary safeguard
 
@@ -107,7 +102,8 @@ Do not silently merge these statements.
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- English translation: **not authorized / not started**.
+- Independent English translation: **IN PROGRESS — 5 / 47 translation-reviewed**.
+- Secondary-English witness comparison for `மணிமகுடம்`: **not started**.
 
 ## Closed `கலைஞரின் நான்மணி மாலை` state
 
@@ -126,8 +122,7 @@ Do not reopen closed work without explicit direction or new source evidence.
 - physical page boundaries remain preserved in page records;
 - every physical scan, including back matter, has a durable record;
 - scene assembly derives only from verified page records;
-- assembly may remove mechanical page breaks only when provenance is documented;
+- independent translation derives from verified Tamil scene assemblies;
 - provisional/uncommitted work is not durable verification;
-- independent translation derives from verified Tamil;
 - published English remains a secondary witness;
-- `அந்தணர்` is not automatically `Brahmin` in future translation work.
+- `அந்தணர்` is not automatically `Brahmin` without contextual justification.
