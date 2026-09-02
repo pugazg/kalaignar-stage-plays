@@ -30,45 +30,44 @@ Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
 - unresolved assembly discrepancies: **0**;
 - final dramatic scan 169 / printed page 160 ends `(முடிவுற்றது)`;
 - scan 170 is separate verified publisher back matter;
-- independent English translation: **IN PROGRESS — 5 / 47 scenes translated and reviewed**;
-- current English files: `works/manimagudam/translations/en/01.md` through `05.md`;
-- unresolved translation blocks through Scene 5: **0**;
+- independent English translation: **IN PROGRESS — 10 / 47 scenes translated and reviewed**;
+- current English files: `works/manimagudam/translations/en/01.md` through `10.md`;
+- unresolved translation blocks through Scene 10: **0**;
 - secondary-English contamination: **0**.
 
 Do not reopen scans 1–170 or completed Tamil scene assemblies without new source evidence or explicit user direction.
 
-## Completed English batch 1 — Scenes 1–5
+## Completed English batches
 
-The user explicitly authorized the English phase after Tamil assembly closed. The first bounded batch has been translated independently from the verified Tamil scene assemblies and Tamil→English reviewed.
+### Batch 1 — Scenes 1–5
 
-- Scene 1 — scans 14–19 — PASS;
-- Scene 2 — scans 20–24 — PASS;
-- Scene 3 — scans 24–26 — PASS;
-- Scene 4 — scans 27–30 — PASS;
-- Scene 5 — scans 30–32 — PASS.
+All five scenes are independently translated from the verified Tamil assemblies and Tamil→English reviewed: **PASS**.
 
-Translation controls established so far include:
+### Batch 2 — Scenes 6–10
 
-- `மக்கள் மன்றம்` → `People's Forum`;
-- `சீமான்கள் சபை` → `Assembly of Nobles`;
-- `மக்கள் தொண்டன்` → *People's Servant*;
-- `ஆட்சிப் பீடம்` → `seat of power` where the abstract institution is intended;
-- source-sensitive ambiguity is preserved rather than silently repaired;
-- no published English or secondary witness has been used in drafting/review.
+All five scenes are independently translated and reviewed: **PASS**.
+
+- Scene 6 — scans 32–39;
+- Scene 7 — scans 39–44;
+- Scene 8 — scans 44–49;
+- Scene 9 — scans 49–50;
+- Scene 10 — scans 50–55.
+
+New controlled forms through this batch include `Kodikkal Nagar`, source crore amounts, `magudi`, *ali*, `special authority`, visible `kushimikka vendum!`, and *Manimagudam* as the proposed newspaper title. Recurring `People's Forum`, `Assembly of Nobles` and *People's Servant* controls remain active.
 
 ## Exact next activity
 
-Translate and review **Scenes 6–10 only**.
+Translate and review **Scenes 11–15 only**.
 
 1. Fetch live `main` first.
-2. Fetch and read complete verified Tamil assemblies `works/manimagudam/scenes/06.md` through `10.md`.
-3. Create `works/manimagudam/translations/en/06.md` through `10.md` using the established English schema.
+2. Fetch and read complete verified Tamil assemblies `works/manimagudam/scenes/11.md` through `15.md`.
+3. Create `works/manimagudam/translations/en/11.md` through `15.md` using the established English schema.
 4. Derive every translation from the verified Tamil assembly, not OCR, outside summaries or secondary English.
 5. Preserve speaker identities, stage directions, scene structure, repetitions, humour, rhetoric, political meaning, lexical distinctions and source ambiguity.
 6. Review each new file back against its Tamil authority before marking `translation-reviewed` / PASS.
-7. Extend `translations/en/TRANSLATION_REVIEW.md` and `translations/en/README.md` to **10 / 47** only after all five pass.
+7. Extend `translations/en/TRANSLATION_REVIEW.md` and `translations/en/README.md` to **15 / 47** only after all five pass.
 8. Update root/work README and handover tracking.
-9. Stop at Scene 10 unless the user explicitly asks to continue further in the same activity.
+9. Stop at Scene 15 unless the user explicitly asks to continue further in the same activity.
 
 Standing safeguard: `அந்தணர்` is not automatically translated as `Brahmin` without contextual justification.
 
@@ -80,7 +79,7 @@ The raw PDF has **170 physical scans** even though a conversation preview expose
 
 - Tamil page-level archival transcription: **COMPLETE — 170 / 170**.
 - Tamil scene assembly: **COMPLETE — 47 / 47 PASS**.
-- Independent English translation: **IN PROGRESS — 5 / 47 translation-reviewed**.
+- Independent English translation: **IN PROGRESS — 10 / 47 translation-reviewed**.
 - Secondary-English witness comparison for `மணிமகுடம்`: **not started**.
 
 ## Provenance safeguard
