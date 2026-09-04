@@ -8,45 +8,44 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 
 | Work | Status |
 |---|---|
+| [காகிதப்பூ](works/kagithapoo/) | **ONBOARDED — Pongal Malar 1967 scans 91–131 registered; Tamil verification 0/41** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archive/assembly PASS; independent English PASS; 2009 One Act Plays witness N/A** |
 | [அனார்கலி](works/anarkali/) | **Tamil 9/9; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சாக்ரடீஸ்](works/socrates/) | **Tamil 17/17; 5/5 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil 10/10; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
-| [மணிமகுடம்](works/manimagudam/) | **Tamil archive 170/170 COMPLETE; scene assembly 47/47 PASS; independent English 47/47 COMPLETE** |
+| [மணிமகுடம்](works/manimagudam/) | **COMPLETE / CLOSED — Tamil 170/170; scenes 47/47; independent English 47/47; release READY/FINAL** |
 
-## மணிமகுடம் — archival / translation checkpoint
+## Active work — காகிதப்பூ
 
-Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
+Controlling source: `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`.
 
-- SHA-256: `a629509c3404fcc5c2844f5b693e72a41aca03ad2e2494588807af4ff8f16f3b`;
-- physical PDF scans: **170**;
-- page-level archive: **170 / 170 COMPLETE**;
-- durable page records: `works/manimagudam/pages/0001.md` through `0170.md`;
-- page-level scenes: `காட்சி 1` through `காட்சி 47` complete;
-- Tamil scene assembly: **47 / 47 PASS / COMPLETE**;
-- assembled files: `works/manimagudam/scenes/01.md` through `47.md`;
-- per-scene fidelity reviews through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`;
-- unresolved assembly discrepancies: **0**;
-- independent English translation: **47 / 47 scenes translated and Tamil→English reviewed / COMPLETE**;
-- English files: `works/manimagudam/translations/en/01.md` through `47.md`;
-- English unresolved blocks: **0**;
-- secondary-English contamination: **0**;
-- final dramatic scan 169 / printed page 160 ends `(முடிவுற்றது)`;
-- scan 170 is verified back matter.
+- full PDF: **131 physical scans**;
+- selected stage-play range: **91–131 inclusive = 41 scans**;
+- raw source SHA-256: `b0a6499ba072a7346f8c2544a8a61c2363d83a60cad5227482008043cd310ec1`;
+- scan 91: source-visible `காகிதப்பூ` title / staged graphic opener;
+- scan 92: `காட்சி 1` begins;
+- scan 131: `காட்சி 27` closes with `(முற்றும்)` and a cast/participants block follows;
+- page placeholders: `works/kagithapoo/pages/0091.md`–`0131.md`;
+- Tamil verified: **0 / 41**;
+- scene assembly: **not started**;
+- English translation: **not started**.
 
-Scene assembly derives only from verified page records. Independent English derives only from the verified Tamil scene assemblies. No published English or secondary witness controlled drafting; any later witness comparison must remain a separate post-translation layer.
+Initial structural intake also found a source-numbering anomaly: after `காட்சி 21`, scan 124 prints an unnumbered `காட்சி,`, while scan 125 later prints `காட்சி 24.`. Do not silently manufacture missing scene numerals.
 
-Completed English batches:
+Exact next activity: source-first transcription and verification of **scans 91–100**.
 
-- Scenes **1–5** — PASS;
-- Scenes **6–10** — PASS;
-- Scenes **11–20** — PASS;
-- Scenes **21–30** — PASS;
-- Scenes **31–40** — PASS;
-- Scenes **41–47** — PASS / final closure.
+## Closed மணிமகுடம் checkpoint
 
-There is no remaining independent-English scene drafting for `மணிமகுடம்`. Secondary-English witness comparison remains a separate, not-yet-started phase.
+`மணிமகுடம்` is formally closed for the defined source-first Tamil archive + independent-English scope:
+
+- Tamil physical archive: **170 / 170 COMPLETE**;
+- Tamil scene assembly: **47 / 47 PASS**;
+- independent English: **47 / 47 PASS**;
+- release readiness: **READY / FINAL**;
+- project completion: **COMPLETE / CLOSED**.
+
+See `works/manimagudam/RELEASE_READINESS.md` and `works/manimagudam/PROJECT_COMPLETION.md`. Do not reopen without new evidence or explicit revision scope.
 
 ## Closed `கலைஞரின் நான்மணி மாலை` checkpoint
 

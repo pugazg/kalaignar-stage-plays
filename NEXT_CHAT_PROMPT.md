@@ -1,164 +1,91 @@
-# Next Chat Prompt — Kalaignar Stage Plays / மணிமகுடம்
+# Next Chat Prompt — Kalaignar Stage Plays / காகிதப்பூ
 
-Continue work directly in `https://github.com/pugazg/kalaignar-stage-plays`, branch `main`, using the GitHub connector and working directly on `main`.
+Continue the **காகிதப்பூ** source-first archival project directly in:
+
+`pugazg/kalaignar-stage-plays`
+
+Branch: `main`
+
+Active work: `works/kagithapoo/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live GitHub `main` first and preserve any newer durable state. Do not reset, overwrite, repeat, or reopen completed source work merely because this prompt contains an older checkpoint.
+Fetch live GitHub `main` first. Preserve any newer durable state. Do not reset, repeat, overwrite, or reopen completed work because this prompt contains an older checkpoint.
+
+## Controlling source
+
+`TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`
+
+The source must be attached/resolved again before page-level visual work.
+
+Recorded raw identity:
+
+- SHA-256: `b0a6499ba072a7346f8c2544a8a61c2363d83a60cad5227482008043cd310ec1`;
+- size: **45,718,751 bytes**;
+- full PDF: **131 physical scans**;
+- work-scoped range: **91–131 inclusive = 41 scans**.
 
 ## Mandatory startup
 
-Before any future repository change involving `மணிமகுடம்`, read completely:
+Read completely before changing anything:
 
 1. `STAGE_PLAY_PROCESSING_GUIDE.md`;
 2. `HANDOVER.md`;
 3. this `NEXT_CHAT_PROMPT.md`;
-4. `works/manimagudam/README.md`;
-5. `works/manimagudam/RELEASE_READINESS.md`;
-6. `works/manimagudam/PROJECT_COMPLETION.md`;
-7. `works/manimagudam/indexes/page-map.md`;
-8. `works/manimagudam/translations/en/README.md`;
-9. `works/manimagudam/translations/en/TRANSLATION_REVIEW.md`.
+4. `works/kagithapoo/README.md`;
+5. `works/kagithapoo/SOURCE_INTAKE.md`;
+6. `works/kagithapoo/metadata/source.md`;
+7. `works/kagithapoo/indexes/page-map.md`;
+8. relevant page records for the active batch.
 
-Treat live `main`, the final release-readiness document, and the project-completion document as the controlling current-status surfaces. Historical batch/fidelity records remain provenance evidence for the checkpoints at which they were created; they do not override the final closed state.
+## Durable current state
 
-# மணிமகுடம் — FINAL PROJECT STATE
+- source intake: **COMPLETE**;
+- page placeholders: `works/kagithapoo/pages/0091.md`–`0131.md` = **41 / 41 represented**;
+- verified Tamil transcriptions: **0 / 41**;
+- scene assembly: **not started / not authorized**;
+- English translation: **not started / not authorized**.
 
-Controlling source: `TVA_BOK_0064143_மணி_மகுடம்.pdf`.
+Boundary observations already locked at intake:
 
-Recorded source identity:
+- scan 91: source-visible `காகிதப்பூ` title / staged photo-graphic opener;
+- scan 92: `காட்சி 1` begins;
+- scan 93: Scene 1 closes, source prints `காட்சிகள்: 2, 3, 4, 5.`, and `காட்சி 6` begins;
+- scan 130: `காட்சி 27` begins;
+- scan 131: dramatic text ends with `(முற்றும்)`; cast/participants box follows.
 
-- SHA-256: `a629509c3404fcc5c2844f5b693e72a41aca03ad2e2494588807af4ff8f16f3b`;
-- file size: **187,091,728 bytes**;
-- physical PDF scans: **170**;
-- visible sixth edition: **May 2010**;
-- visible price: **Rs.40.00**.
+### Do not normalize the scene-numbering gap
 
-## Completed source-first Tamil archive
-
-- front matter scans **1–13**: **13 / 13 VERIFIED**;
-- dramatic body scans **14–169**: **156 / 156 VERIFIED**;
-- back matter scan **170**: **1 / 1 VERIFIED**;
-- page-level Tamil archive: **170 / 170 COMPLETE**;
-- durable page files: `works/manimagudam/pages/0001.md` through `0170.md`;
-- `காட்சி 1` through `காட்சி 47`: page-level source transcription complete;
-- final dramatic scan **169 / printed page 160** ends `(முடிவுற்றது)`;
-- scan **170** is separate publisher catalogue / advertisement back matter;
-- scans **141–170** final verification: **30 / 30 VERIFIED, 0 unresolved**.
-
-The raw **170-scan** count is authoritative even though an earlier conversation/file preview exposed only 150 pages.
-
-## Completed Tamil scene assembly
-
-- Tamil scene assembly: **47 / 47 PASS / COMPLETE**;
-- files: `works/manimagudam/scenes/01.md` through `47.md`;
-- per-scene fidelity reviews through `SCENE47_ASSEMBLY_FIDELITY_REVIEW.md`;
-- unresolved assembly discrepancies: **0**.
-
-Do not silently normalize source wording, punctuation, speaker labels, repetitions, ellipses, stage directions, old/source forms, or scene boundaries.
-
-## Completed independent English translation
-
-- independent English translation: **47 / 47 COMPLETE / PASS**;
-- files: `works/manimagudam/translations/en/01.md` through `47.md`;
-- consolidated review: `works/manimagudam/translations/en/TRANSLATION_REVIEW.md` — **FINAL PASS**;
-- unresolved translation blocks: **0**;
-- secondary-English contamination during independent drafting/review: **0**.
-
-Completed batches:
-
-- Scenes **1–5** — PASS / locked;
-- Scenes **6–10** — PASS / locked;
-- Scenes **11–20** — PASS / locked;
-- Scenes **21–30** — PASS / locked;
-- Scenes **31–40** — PASS / locked;
-- Scenes **41–47** — PASS / locked.
-
-Translation authority is the verified Tamil scene assembly, not OCR, outside summaries, modern editions, or a published-English witness.
-
-The final Scene 47 English correctly treats `பாட்டு: ‘புதியதோர் உலகம்’ போல...` as a source-only song cue; lyrics absent from the controlling Tamil source were not imported or invented.
-
-## Release readiness — FINAL
-
-`works/manimagudam/RELEASE_READINESS.md` records:
-
-- **Release status: READY / FINAL** for the source-first Tamil archive + independent-English scope;
-- archival completeness: **PASS**;
-- Tamil scene fidelity: **PASS**;
-- independent-English fidelity: **PASS**;
-- active-documentation synchronization: **PASS**;
-- unresolved assembly discrepancies: **0**;
-- unresolved translation blocks: **0**.
-
-## Project completion — CLOSED
-
-`works/manimagudam/PROJECT_COMPLETION.md` formally records:
-
-- Tamil physical archive: **170 / 170 COMPLETE**;
-- Tamil dramatic scene assembly: **47 / 47 PASS**;
-- independent English translation: **47 / 47 PASS**;
-- active-documentation synchronization: **PASS**;
-- project result: **COMPLETE / CLOSED** for the defined source-first Tamil archive + independent-English scope.
-
-There is no remaining transcription, Tamil scene assembly, independent-English drafting/review, or active-documentation cleanup task for `மணிமகுடம்`.
-
-## Final documentation synchronization already completed
-
-The final cleanup has already corrected the previously known stale active status items:
-
-- `works/manimagudam/indexes/page-map.md` scan **151** now records Scene 42 as continuing;
-- scan **152** records the actual Scene 42 close and Scene 43 opening;
-- the page-map final checkpoint records **47 / 47** Tamil scene assembly and **47 / 47** independent-English completion;
-- `works/manimagudam/metadata/source.md` records exact front-matter transcription as complete in `pages/0001.md` through `0013.md`;
-- current active `மணிமகுடம்` status surfaces are synchronized to the final closed state.
-
-Historical verification/fidelity files may still contain checkpoint-era language such as “scene assembly not started” because that statement was true when that verification gate was created. Do not treat such historical phase notes as current status. Do not rewrite historical evidence solely to make it read like a current-status document; if reader-facing clarification is later desired, add a supersession notice rather than changing the historical result.
+After `காட்சி 21`, scan 124 prints a new heading as **`காட்சி,`** with no visible number. Scan 125 later prints **`காட்சி 24.`**. Do not invent `காட்சி 22` or `காட்சி 23`; preserve source evidence and document the anomaly.
 
 ## Exact next activity
 
-**There is no automatic next activity for `மணிமகுடம்`.**
+Process **scans 91–100** in one page-level source-first batch.
 
-If the user says only “continue”, “proceed”, or “next activity”:
+For each scan:
 
-1. fetch live `main`;
-2. confirm the closed state above;
-3. do **not** reopen transcription, scene assembly, English translation, review, or completed documentation merely to create more work;
-4. report that the project is **COMPLETE / CLOSED** unless the user has explicitly supplied a new source, new evidence, or a new scope.
+- inspect the source directly and at enlarged resolution;
+- transcribe all printed Tamil word-for-word;
+- preserve source punctuation, speaker labels, stage directions, repetitions and old/source forms;
+- describe photographs/illustrations archivally and transcribe printed captions verbatim;
+- keep library/damage/bleed-through marks separate from literary text;
+- update `pages/0091.md`–`0100.md` and `indexes/page-map.md`;
+- only mark a page `verified` after direct visual reconciliation.
 
-The only identified optional future phase is a **secondary-English witness comparison**. Begin it only if:
+After all ten pages pass, update the work README, root HANDOVER and this prompt and set the next batch to scans **101–110**. Stop there unless the user explicitly requests more.
 
-1. an appropriate published/secondary English witness is actually supplied or identified; and
-2. the user explicitly authorizes that separate provenance layer.
+Do **not** begin scene assembly or English translation.
 
-Do not reconstruct a secondary witness from memory or outside wording. Do not allow a secondary witness to overwrite the verified Tamil archive or the locked independent English translation.
+## User-supplied catalog context
 
-## Provenance safeguard
+- title: **காகிதப்பூ**;
+- author: **கலைஞர் மு. கருணாநிதி**;
+- publication: **முரசொலி-பொங்கல் மலர்**;
+- year/edition: **1967**;
+- description: `பேசப்படும் சோசலிசம் என்பது பளபளப்பிலே, பார்வையிலேதான் பாரிஜாதப்பூ என்றும், உண்மையில் அது ஒரு காகிதப்பூ என்றும் விளக்கும் நாடகம் இது.`
 
-Keep these performance-history layers separate unless another source resolves them:
+Keep that catalog description separate from verbatim scan transcription.
 
-- user-supplied catalog context: **1962 Madurai DMK conference** performance;
-- controlling source scan 4: **May 1956**, DMK second state conference, Tiruchirappalli, S. S. Rajendran troupe;
-- controlling source scan 5: **September 1963**, staging associated with the Murasoli drama troupe under Anna's leadership.
+## Closed-work safeguard
 
-## Standing translation safeguards
-
-Recurring controls include:
-
-- `மக்கள் மன்றம்` → `People's Forum`;
-- `சீமான்கள் சபை` → `Assembly of Nobles`;
-- newspaper `மக்கள் தொண்டன்` → *People's Servant*;
-- common-noun `மக்கள் தொண்டன்` → `servant of the people` where context requires;
-- `கொடிக்கால் நகரம்` → `Kodikkal Nagar`;
-- `ஐந்தாம்படை` → `fifth column`;
-- `மோகராக்கள்` → `mohars`.
-
-Standing safeguard: `அந்தணர்` is not automatically translated as `Brahmin` without contextual justification.
-
-## Closed `கலைஞரின் நான்மணி மாலை` safeguard
-
-- Tamil composite coverage: **54 / 54 PASS / COMPLETE**;
-- independent English translations: **4 / 4 COMPLETE**;
-- applicable 2009 witness comparisons: **3 / 3 PASS / COMPLETE**;
-- `பரதாயணம்` witness comparison: **NOT APPLICABLE**.
-
-Do not reopen closed work without explicit direction or new evidence.
+`மணிமகுடம்` remains **COMPLETE / CLOSED**: Tamil 170/170, Tamil scenes 47/47 PASS, independent English 47/47 PASS, release READY/FINAL. Do not reopen it while continuing `காகிதப்பூ`.
