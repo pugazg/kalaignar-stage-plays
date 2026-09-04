@@ -21,7 +21,7 @@ Before any source-dependent change, read completely:
 5. `works/kagithapoo/SOURCE_INTAKE.md`;
 6. `works/kagithapoo/metadata/source.md`;
 7. `works/kagithapoo/indexes/page-map.md`;
-8. relevant `works/kagithapoo/pages/*.md` files for the batch.
+8. relevant `works/kagithapoo/pages/*.md` files for the active batch.
 
 Re-resolve / attach the controlling PDF before page-level visual work.
 
@@ -54,24 +54,41 @@ Keep this catalog layer distinct from verbatim source transcription unless each 
 - source intake: **COMPLETE**;
 - work root: `works/kagithapoo/`;
 - page placeholders: `pages/0091.md` through `0131.md` = **41 / 41 represented**;
-- verified Tamil page transcriptions: **3 / 41** — scans **91–93**;
-- latest page commit: scan **93**;
-- active page-level remainder of first batch: **94–100**;
+- verified Tamil page transcriptions: **10 / 41** — scans **91–100**;
+- first page-level batch: **COMPLETE**;
+- next page-level batch: **101–110**;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
-### Durable page commits
+### Durable first-batch page commits
 
 - scan 91 — `a5a89c50e09c2c3f8e9d9176dc26b430ee71ef36` — `Transcribe and verify Kagithapoo scan 91`;
 - scan 92 — `60ec231bcc277e792df95c4230b4729e26b57096` — `Transcribe and verify Kagithapoo scan 92`;
-- scan 93 — `b0290ae07a8fd5d49f61f72e913e2fd31c0575c9` — `Transcribe and verify Kagithapoo scan 93`.
+- scan 93 — `b0290ae07a8fd5d49f61f72e913e2fd31c0575c9` — `Transcribe and verify Kagithapoo scan 93`;
+- scan 94 — `4c5b661dc592b01f50b99dd61954ad5d5aae2cb0` — `Transcribe and verify Kagithapoo scan 94`;
+- scan 95 — `14a57821c8b33390004ae2d13d9ad1f4bee26ab4` — `Transcribe and verify Kagithapoo scan 95`;
+- scan 96 — `8fc1e2e171afb1de29723b3066be925d35d342a0` — `Transcribe and verify Kagithapoo scan 96`;
+- scan 97 — `fa486ecbf0a4d5cd714b4585730de7ed07615cb8` — `Transcribe and verify Kagithapoo scan 97`;
+- scan 98 — `984f192a5c3f74229f49970d21a157730ccb8f40` — `Transcribe and verify Kagithapoo scan 98`;
+- scan 99 — `e58f5ad7df6f711246eb84d78e627c75fa3f8a74` — `Transcribe and verify Kagithapoo scan 99`;
+- scan 100 — `0cd7fa6a72abfaab108ac656a53e4b62be892056` — `Transcribe and verify Kagithapoo scan 100`.
 
-### Boundary facts
+Tracking checkpoint after completion of scans 91–100: `e344a8c3ea543ccce27c36e118ff64792cd0d2e4`.
+
+### First-batch source-sensitive notes
+
+- Scan 91 is the staged `காகிதப்பூ` title opener.
+- Scan 92 begins `காட்சி 1`.
+- Scan 93 closes Scene 1, preserves `காட்சிகள்: 2, 3, 4, 5.`, and begins `காட்சி: 6.`.
+- Scan 94's difficult narrow Scene-6 continuation required a fresh 600-dpi render before verification. Source forms including `சேலி`, `தணற்காடு`, and `இல்லே` are preserved without normalization; Scene 6 closes and `காட்சி 7.` begins on that scan.
+- Scans 95–97 continue Scene 7.
+- Scan 98 closes Scene 7 and begins `காட்சி 8.`.
+- Scans 99–100 continue Scene 8; scan-boundary joins were checked against adjacent scans.
+
+### Boundary facts for later work
 
 - scans 88–90 are preceding periodical material and outside the selected work scope;
-- scan 91 visibly introduces `காகிதப்பூ` with a full-page staged photograph / title graphic;
-- scan 92 begins `காட்சி 1`;
-- scan 93 closes Scene 1, preserves `காட்சிகள்: 2, 3, 4, 5.`, and begins `காட்சி: 6.`;
+- scan 130 begins `காட்சி 27`;
 - scan 131 closes `காட்சி 27` with `(முற்றும்)` and then carries a boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` block.
 
 ### Important scene-numbering anomaly
@@ -86,7 +103,7 @@ Do **not** silently label the unnumbered scene as 22 or 23 and do not create a m
 
 ## Exact next activity
 
-Continue with **scans 94–100** to finish the first page-level transcription/verification batch.
+Process **scans 101–110** as the second page-level transcription/verification batch.
 
 For each scan:
 
@@ -94,10 +111,11 @@ For each scan:
 2. transcribe printed Tamil word-for-word, including speaker labels, punctuation, stage directions, captions and visible source marks;
 3. preserve image/photograph content with concise archival description rather than invented textual content;
 4. distinguish printed text from stamps, damage, bleed-through or later marks;
-5. update the corresponding page record;
+5. update `pages/0101.md` through `0110.md`;
 6. mark `verified` only after direct visual comparison;
-7. commit completed pages durably rather than waiting for the whole batch;
-8. after scan 100 passes, synchronize page map, work README, this handover and next-chat prompt and set the next batch to **101–110**.
+7. commit completed pages or small completed groups durably instead of waiting for the whole batch;
+8. keep `indexes/page-map.md` synchronized as durable state advances;
+9. after scan 110 passes, synchronize work README, this handover and next-chat prompt and derive the following batch from live repository state.
 
 No scene assembly and no English translation during this phase.
 
