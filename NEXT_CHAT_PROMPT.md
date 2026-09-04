@@ -42,22 +42,36 @@ Read completely before changing anything:
 
 - source intake: **COMPLETE**;
 - page placeholders: `works/kagithapoo/pages/0091.md`–`0131.md` = **41 / 41 represented**;
-- verified Tamil transcriptions: **3 / 41** — scans **91–93**;
-- durable page commits:
-  - scan 91: `a5a89c50e09c2c3f8e9d9176dc26b430ee71ef36`;
-  - scan 92: `60ec231bcc277e792df95c4230b4729e26b57096`;
-  - scan 93: `b0290ae07a8fd5d49f61f72e913e2fd31c0575c9`;
-- active remainder of first batch: **94–100**;
+- verified Tamil transcriptions: **10 / 41** — scans **91–100**;
+- first page-level verification batch: **COMPLETE**;
+- next page-level batch: **101–110**;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
-Boundary observations already locked at intake:
+### First-batch durable page commits
 
-- scan 91: source-visible `காகிதப்பூ` title / staged photo-graphic opener;
+- 91: `a5a89c50e09c2c3f8e9d9176dc26b430ee71ef36`;
+- 92: `60ec231bcc277e792df95c4230b4729e26b57096`;
+- 93: `b0290ae07a8fd5d49f61f72e913e2fd31c0575c9`;
+- 94: `4c5b661dc592b01f50b99dd61954ad5d5aae2cb0`;
+- 95: `14a57821c8b33390004ae2d13d9ad1f4bee26ab4`;
+- 96: `8fc1e2e171afb1de29723b3066be925d35d342a0`;
+- 97: `fa486ecbf0a4d5cd714b4585730de7ed07615cb8`;
+- 98: `984f192a5c3f74229f49970d21a157730ccb8f40`;
+- 99: `e58f5ad7df6f711246eb84d78e627c75fa3f8a74`;
+- 100: `0cd7fa6a72abfaab108ac656a53e4b62be892056`.
+
+Tracking after completion of scans 91–100: `e344a8c3ea543ccce27c36e118ff64792cd0d2e4`.
+
+### Locked first-batch boundary/source facts
+
+- scan 91: source-visible `காகிதப்பூ` staged title opener;
 - scan 92: `காட்சி 1` begins;
 - scan 93: Scene 1 closes, source prints `காட்சிகள்: 2, 3, 4, 5.`, and `காட்சி: 6.` begins;
-- scan 130: `காட்சி 27` begins;
-- scan 131: dramatic text ends with `(முற்றும்)`; cast/participants box follows.
+- scan 94: difficult narrow Scene-6 continuation resolved with fresh 600-dpi inspection; source forms including `சேலி`, `தணற்காடு`, and `இல்லே` preserved; Scene 6 closes and `காட்சி 7.` begins;
+- scans 95–97: Scene 7 continuation;
+- scan 98: Scene 7 closes and `காட்சி 8.` begins;
+- scans 99–100: Scene 8 continuation with adjacent-scan boundary checks.
 
 ### Do not normalize the scene-numbering gap
 
@@ -65,7 +79,7 @@ After `காட்சி 21`, scan 124 prints a new heading as **`காட்�
 
 ## Exact next activity
 
-Continue **scans 94–100** to finish the first page-level source-first batch.
+Process **scans 101–110** in one page-level source-first batch.
 
 For each scan:
 
@@ -74,11 +88,21 @@ For each scan:
 - preserve source punctuation, speaker labels, stage directions, repetitions and old/source forms;
 - describe photographs/illustrations archivally and transcribe printed captions verbatim;
 - keep library/damage/bleed-through marks separate from literary text;
-- update the corresponding page file and `indexes/page-map.md`;
+- update `pages/0101.md`–`0110.md` and `indexes/page-map.md`;
 - only mark a page `verified` after direct visual reconciliation;
-- **commit each completed page or small completed group durably instead of waiting for all remaining scans**.
+- **commit each completed page or small completed group durably instead of waiting for the full batch**.
 
-After scan 100 passes, update the work README, root HANDOVER and this prompt and set the next batch to scans **101–110**. Stop there unless the user explicitly requests more.
+Known intake-level structure for the batch:
+
+- scan 101: `காட்சி 8` continuation;
+- scan 102: `காட்சி 8` / `காட்சி 9` / `காட்சி 10` transition sequence;
+- scans 103–104: `காட்சி 10`, with `காட்சி 11` beginning on 104;
+- scan 105: `காட்சி 11` closes and `காட்சி 12` begins;
+- scans 106–107: `காட்சி 12`, with `காட்சி 13` and `காட்சி 14` headings appearing on 107;
+- scans 108–109: `காட்சி 14`, with `காட்சி 15` beginning on 109;
+- scan 110: `காட்சி 15` closes and `காட்சி 16` begins.
+
+After scan 110 passes, update the work README, root HANDOVER and this prompt and derive the following batch from live repository state. Stop there unless the user explicitly requests more.
 
 Do **not** begin scene assembly or English translation.
 
