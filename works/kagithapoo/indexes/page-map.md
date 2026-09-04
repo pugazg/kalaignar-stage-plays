@@ -11,13 +11,13 @@ Rows marked `verified` have received full word-for-word visual transcription/rec
 | 91 | — | work opener | title-artwork / staged photograph | verified | Full title/callout transcription and archival image description verified directly from scan. |
 | 92 | — | காட்சி 1 | dramatic text + photograph | verified | `காட்சி 1` opening fully transcribed; physical continuation into scan 93 preserved. |
 | 93 | — | காட்சி 1 / காட்சிகள் 2–5 / காட்சி 6 | dramatic text + montage photograph | verified | Scene 1 closes; `காட்சிகள்: 2, 3, 4, 5.` and `காட்சி: 6.` fully reconciled; Scene 6 continues into scan 94. |
-| 94 | — | காட்சி 6 / காட்சி 7 | dramatic text + photograph | not-started | Scene 6 closes; Scene 7 begins. |
+| 94 | — | காட்சி 6 / காட்சி 7 | dramatic text + photograph | verified | Difficult narrow Scene-6 continuation resolved from fresh 600-dpi render; Scene 6 close, photograph/layout and `காட்சி 7.` opening fully reconciled. |
 | 95 | — | காட்சி 7 | dramatic text + photograph | verified | Scene 7 continuation fully reconciled, including காவேரி–மரகதம்–மாலா dialogue; physical continuation into scan 96 preserved. |
 | 96 | — | காட்சி 7 | dramatic text + portrait | verified | Scene 7 election dialogue fully reconciled; large staged portrait documented; physical continuation into scan 97 preserved. |
 | 97 | — | காட்சி 7 | dramatic text + photograph | verified | Wraparound Scene 7 dialogue fully reconciled; staged photographs/footer documented; physical continuation into scan 98 preserved. |
 | 98 | — | காட்சி 7 / காட்சி 8 | dramatic text + photograph | verified | Scene 7 close and `காட்சி 8.` opening fully reconciled; cross-page stage direction and narrow-column Scene 8 dialogue verified; continuation into scan 99 preserved. |
 | 99 | — | காட்சி 8 | dramatic text + photo montage | verified | Scene 8 wraparound dialogue and photo montage fully reconciled; scan-98 and scan-100 boundaries checked. |
-| 100 | — | காட்சி 8 | dramatic text + photograph | not-started | Continuation. |
+| 100 | — | காட்சி 8 | dramatic text + photograph | verified | Scene 8 continuation fully reconciled; scan-99 stage-direction join and scan-101 response boundary checked directly. |
 | 101 | — | காட்சி 8 | dramatic text | not-started | Continuation. |
 | 102 | — | காட்சி 8 / காட்சி 9 / காட்சி 10 | dramatic text + photograph | not-started | Short scene transitions visible; Scene 10 begins on same scan. |
 | 103 | — | காட்சி 10 | dramatic text | not-started | Continuation. |
@@ -53,8 +53,9 @@ Rows marked `verified` have received full word-for-word visual transcription/rec
 ## Current checkpoint
 
 - selected source pages represented: **41 / 41**;
-- verified page transcriptions: **8 / 41** — scans **91–93, 95–99**;
-- active remainder of first batch: **94, 100**;
+- verified page transcriptions: **10 / 41** — scans **91–100**;
+- first verification batch: **COMPLETE**;
+- next page-level batch: **101–110**;
 - scene assembly: **not started / not authorized**;
 - translation: **not started / not authorized**.
 
