@@ -4,7 +4,7 @@ Archive slug: `kagithapoo`.
 
 ## Current status
 
-**IN PROGRESS — page-level source-first transcription/verification underway.**
+**IN PROGRESS — first page-level source-first batch complete; next batch is scans 101–110.**
 
 Controlling source file:
 
@@ -17,8 +17,9 @@ Controlling source file:
 - durable page placeholders: `pages/0091.md` through `pages/0131.md`;
 - page map: `indexes/page-map.md`;
 - source intake: `SOURCE_INTAKE.md`;
-- Tamil transcription verified: **3 / 41** — scans **91–93**;
-- active remainder of first batch: **94–100**;
+- Tamil transcription verified: **10 / 41** — scans **91–100**;
+- first verification batch: **COMPLETE**;
+- next page-level batch: **101–110**;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
@@ -37,18 +38,23 @@ The paragraph above is preserved as **user-supplied catalog context**, not silen
 
 ## Verified page-level progress
 
+The first source-first batch, physical scans **91–100**, is fully transcribed and verified.
+
 - Scan **91**: full-page `காகிதப்பூ` staged title opener; political flower callouts and title directly verified.
-- Scan **92**: `காட்சி 1` opening fully transcribed and verified; physical continuation into scan 93 preserved.
-- Scan **93**: Scene 1 closure, `காட்சிகள்: 2, 3, 4, 5.` interlude note, and `காட்சி: 6.` opening fully transcribed and verified; physical continuation into scan 94 preserved.
+- Scan **92**: `காட்சி 1` opening fully transcribed; physical continuation into scan 93 preserved.
+- Scan **93**: Scene 1 closure, `காட்சிகள்: 2, 3, 4, 5.` interlude note, and `காட்சி: 6.` opening fully reconciled.
+- Scan **94**: difficult narrow Scene-6 continuation resolved from a fresh 600-dpi render; Scene 6 closes and source-visible `காட்சி 7.` begins. Source forms including `சேலி`, `தணற்காடு`, and `இல்லே` are preserved without normalization.
+- Scans **95–97**: Scene 7 continuation fully reconciled, including wraparound dialogue and staged-photo layouts.
+- Scan **98**: Scene 7 closes; `காட்சி 8.` begins; cross-page and narrow-column reading order verified.
+- Scans **99–100**: Scene 8 continuation fully reconciled, including scan-boundary joins and photograph/layout evidence.
 
 ## Source-derived intake findings
 
 - Scan **91** is the work opener: a full-page staged photograph / graphic composition with the large title `காகிதப்பூ` and flower-shaped political text callouts.
 - Scan **92** begins `காட்சி 1`.
-- Scan **93** closes Scene 1, prints `காட்சிகள்: 2, 3, 4, 5.` as a compressed montage/interlude note, and then begins `காட்சி 6`.
-- The play continues through the end of the PDF.
+- Scan **93** closes Scene 1, prints `காட்சிகள்: 2, 3, 4, 5.`, and then begins `காட்சி 6`.
 - Scan **130** begins `காட்சி 27`.
-- Scan **131** closes the dramatic text with the source-visible marker **`(முற்றும்)`**, followed on the same physical scan by a boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` cast/participants block.
+- Scan **131** closes the dramatic text with **`(முற்றும்)`**, followed on the same physical scan by a boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` cast/participants block.
 
 ### Scene-numbering anomaly requiring source-first handling
 
@@ -58,7 +64,7 @@ The initial visual structural survey found:
 - after its close, scan **124** prints a new heading simply as **`காட்சி,`** with no visible numeral;
 - scan **125** later prints **`காட்சி 24.`**.
 
-Therefore the repository must **not silently invent or normalize `காட்சி 22` / `காட்சி 23`** during transcription. The missing/unnumbered numbering must be preserved exactly and adjudicated only from source evidence.
+Therefore the repository must **not silently invent or normalize `காட்சி 22` / `காட்சி 23`**. Preserve the source-visible numbering gap exactly and adjudicate only from direct evidence.
 
 ## Source policy
 
@@ -73,13 +79,14 @@ Therefore the repository must **not silently invent or normalize `காட்�
 
 ## Exact next activity
 
-Continue the first verification/transcription batch with physical scans **94–100**:
+Process physical scans **101–110** as the second page-level source-first batch:
 
-1. read each controlling scan directly and at enlarged resolution;
+1. inspect each controlling scan directly and at enlarged resolution;
 2. fully transcribe all printed literary text, speaker labels, directions, captions and source-visible marks;
 3. preserve photographs/illustrations with concise archival descriptions;
-4. update `pages/0094.md`–`0100.md` to `verified` only after direct visual checking;
-5. update `indexes/page-map.md`, this README, root `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` as durable state advances;
-6. after scan 100 passes, set the next batch to **101–110** and stop unless the user explicitly requests more.
+4. update `pages/0101.md`–`0110.md` to `verified` only after direct visual checking;
+5. commit completed pages or small completed groups durably instead of waiting for the full batch;
+6. keep `indexes/page-map.md` synchronized as durable state advances;
+7. after scan 110 passes, update this README, root `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`, and set the next batch from the live repository state.
 
 Do **not** begin scene assembly or English translation during this page-level phase.
