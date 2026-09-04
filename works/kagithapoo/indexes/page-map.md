@@ -13,7 +13,7 @@ Rows marked `verified` have received full word-for-word visual transcription/rec
 | 93 | — | காட்சி 1 / காட்சிகள் 2–5 / காட்சி 6 | dramatic text + montage photograph | verified | Scene 1 closes; `காட்சிகள்: 2, 3, 4, 5.` and `காட்சி: 6.` fully reconciled; Scene 6 continues into scan 94. |
 | 94 | — | காட்சி 6 / காட்சி 7 | dramatic text + photograph | not-started | Scene 6 closes; Scene 7 begins. |
 | 95 | — | காட்சி 7 | dramatic text + photograph | verified | Scene 7 continuation fully reconciled, including காவேரி–மரகதம்–மாலா dialogue; physical continuation into scan 96 preserved. |
-| 96 | — | காட்சி 7 | dramatic text + portrait | not-started | Continuation with large halftone portrait. |
+| 96 | — | காட்சி 7 | dramatic text + portrait | verified | Scene 7 election dialogue fully reconciled; large staged portrait documented; physical continuation into scan 97 preserved. |
 | 97 | — | காட்சி 7 | dramatic text + photograph | not-started | Continuation. |
 | 98 | — | காட்சி 7 / காட்சி 8 | dramatic text + photograph | not-started | Scene 7 closes; Scene 8 begins. |
 | 99 | — | காட்சி 8 | dramatic text + photo montage | not-started | Continuation. |
@@ -53,8 +53,8 @@ Rows marked `verified` have received full word-for-word visual transcription/rec
 ## Current checkpoint
 
 - selected source pages represented: **41 / 41**;
-- verified page transcriptions: **4 / 41** — scans **91–93, 95**;
-- active remainder of first batch: **94, 96–100**;
+- verified page transcriptions: **5 / 41** — scans **91–93, 95–96**;
+- active remainder of first batch: **94, 97–100**;
 - scene assembly: **not started / not authorized**;
 - translation: **not started / not authorized**.
 
