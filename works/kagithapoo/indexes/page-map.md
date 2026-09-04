@@ -4,13 +4,13 @@ Controlling file: `TVA_PRL_0001638_முரசொலி_ பொங்க�
 
 The full periodical PDF contains **131 physical scans**. The user-selected `காகிதப்பூ` work scope is **scans 91–131 inclusive (41 scans)**. Printed pagination is not inferred.
 
-All rows below are **intake-level structural navigation**. `not-started` means the page has not yet received full word-for-word visual transcription/verification.
+Rows marked `verified` have received full word-for-word visual transcription/reconciliation against the controlling scan. `not-started` rows remain intake-level structural navigation.
 
-| Scan | Printed page | Section / provisional scene map | Page type | Status | Intake note |
+| Scan | Printed page | Section / provisional scene map | Page type | Status | Intake / verification note |
 |---:|---:|---|---|---|---|
-| 91 | — | work opener | title-artwork / staged photograph | not-started | Large source-visible `காகிதப்பூ` title with flower-shaped political callouts. |
-| 92 | — | காட்சி 1 | dramatic text + photograph | not-started | Source-visible `காட்சி 1` opening. |
-| 93 | — | காட்சி 1 / காட்சிகள் 2–5 / காட்சி 6 | dramatic text + montage photograph | not-started | Scene 1 closes; source prints `காட்சிகள்: 2, 3, 4, 5.`; Scene 6 begins. |
+| 91 | — | work opener | title-artwork / staged photograph | verified | Full title/callout transcription and archival image description verified directly from scan. |
+| 92 | — | காட்சி 1 | dramatic text + photograph | verified | `காட்சி 1` opening fully transcribed; physical continuation into scan 93 preserved. |
+| 93 | — | காட்சி 1 / காட்சிகள் 2–5 / காட்சி 6 | dramatic text + montage photograph | verified | Scene 1 closes; `காட்சிகள்: 2, 3, 4, 5.` and `காட்சி: 6.` fully reconciled; Scene 6 continues into scan 94. |
 | 94 | — | காட்சி 6 / காட்சி 7 | dramatic text + photograph | not-started | Scene 6 closes; Scene 7 begins. |
 | 95 | — | காட்சி 7 | dramatic text + photograph | not-started | Continuation. |
 | 96 | — | காட்சி 7 | dramatic text + portrait | not-started | Continuation with large halftone portrait. |
@@ -50,12 +50,12 @@ All rows below are **intake-level structural navigation**. `not-started` means t
 | 130 | — | காட்சி 26 / காட்சி 27 | dramatic text | not-started | Scene 27 begins on this scan. |
 | 131 | — | காட்சி 27 / closure | dramatic text + cast box | not-started | Scene 27 closes with `(முற்றும்)`; boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` block follows. |
 
-## Intake checkpoint
+## Current checkpoint
 
 - selected source pages represented: **41 / 41**;
-- verified page transcriptions: **0 / 41**;
-- current first batch: **91–100**;
+- verified page transcriptions: **3 / 41** — scans **91–93**;
+- active remainder of first batch: **94–100**;
 - scene assembly: **not started / not authorized**;
 - translation: **not started / not authorized**.
 
-The scene map above is provisional until each page is visually transcribed and verified. Source-visible numbering anomalies must remain exposed.
+The scene map remains provisional until each page is visually transcribed and verified. Source-visible numbering anomalies must remain exposed.

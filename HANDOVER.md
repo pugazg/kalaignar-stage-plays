@@ -49,21 +49,29 @@ The PDF itself remains external to the repository.
 
 Keep this catalog layer distinct from verbatim source transcription unless each detail is directly source-verified.
 
-## Durable onboarding state
+## Durable current state
 
 - source intake: **COMPLETE**;
 - work root: `works/kagithapoo/`;
 - page placeholders: `pages/0091.md` through `0131.md` = **41 / 41 represented**;
-- page map created;
-- verified Tamil page transcriptions: **0 / 41**;
+- verified Tamil page transcriptions: **3 / 41** — scans **91–93**;
+- latest page commit: scan **93**;
+- active page-level remainder of first batch: **94–100**;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
+
+### Durable page commits
+
+- scan 91 — `a5a89c50e09c2c3f8e9d9176dc26b430ee71ef36` — `Transcribe and verify Kagithapoo scan 91`;
+- scan 92 — `60ec231bcc277e792df95c4230b4729e26b57096` — `Transcribe and verify Kagithapoo scan 92`;
+- scan 93 — `b0290ae07a8fd5d49f61f72e913e2fd31c0575c9` — `Transcribe and verify Kagithapoo scan 93`.
 
 ### Boundary facts
 
 - scans 88–90 are preceding periodical material and outside the selected work scope;
 - scan 91 visibly introduces `காகிதப்பூ` with a full-page staged photograph / title graphic;
 - scan 92 begins `காட்சி 1`;
+- scan 93 closes Scene 1, preserves `காட்சிகள்: 2, 3, 4, 5.`, and begins `காட்சி: 6.`;
 - scan 131 closes `காட்சி 27` with `(முற்றும்)` and then carries a boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` block.
 
 ### Important scene-numbering anomaly
@@ -78,7 +86,7 @@ Do **not** silently label the unnumbered scene as 22 or 23 and do not create a m
 
 ## Exact next activity
 
-Process **scans 91–100 only** as the first page-level transcription/verification batch.
+Continue with **scans 94–100** to finish the first page-level transcription/verification batch.
 
 For each scan:
 
@@ -86,10 +94,10 @@ For each scan:
 2. transcribe printed Tamil word-for-word, including speaker labels, punctuation, stage directions, captions and visible source marks;
 3. preserve image/photograph content with concise archival description rather than invented textual content;
 4. distinguish printed text from stamps, damage, bleed-through or later marks;
-5. update `pages/0091.md`–`0100.md`;
+5. update the corresponding page record;
 6. mark `verified` only after direct visual comparison;
-7. update page map, work README, this handover and next-chat prompt;
-8. stop at scan 100 unless the user explicitly asks to continue farther.
+7. commit completed pages durably rather than waiting for the whole batch;
+8. after scan 100 passes, synchronize page map, work README, this handover and next-chat prompt and set the next batch to **101–110**.
 
 No scene assembly and no English translation during this phase.
 

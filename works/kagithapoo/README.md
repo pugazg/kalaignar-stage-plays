@@ -4,7 +4,7 @@ Archive slug: `kagithapoo`.
 
 ## Current status
 
-**ONBOARDED — source range registered; page-level transcription/verification not yet started.**
+**IN PROGRESS — page-level source-first transcription/verification underway.**
 
 Controlling source file:
 
@@ -17,7 +17,8 @@ Controlling source file:
 - durable page placeholders: `pages/0091.md` through `pages/0131.md`;
 - page map: `indexes/page-map.md`;
 - source intake: `SOURCE_INTAKE.md`;
-- Tamil transcription verified: **0 / 41** at onboarding;
+- Tamil transcription verified: **3 / 41** — scans **91–93**;
+- active remainder of first batch: **94–100**;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
@@ -33,6 +34,12 @@ Controlling source file:
 > பேசப்படும் சோசலிசம் என்பது பளபளப்பிலே, பார்வையிலேதான் பாரிஜாதப்பூ என்றும், உண்மையில் அது ஒரு காகிதப்பூ என்றும் விளக்கும் நாடகம் இது.
 
 The paragraph above is preserved as **user-supplied catalog context**, not silently converted into scan transcription.
+
+## Verified page-level progress
+
+- Scan **91**: full-page `காகிதப்பூ` staged title opener; political flower callouts and title directly verified.
+- Scan **92**: `காட்சி 1` opening fully transcribed and verified; physical continuation into scan 93 preserved.
+- Scan **93**: Scene 1 closure, `காட்சிகள்: 2, 3, 4, 5.` interlude note, and `காட்சி: 6.` opening fully transcribed and verified; physical continuation into scan 94 preserved.
 
 ## Source-derived intake findings
 
@@ -66,13 +73,13 @@ Therefore the repository must **not silently invent or normalize `காட்�
 
 ## Exact next activity
 
-Process **physical scans 91–100** as the first verification/transcription batch:
+Continue the first verification/transcription batch with physical scans **94–100**:
 
-1. read the controlling source directly;
-2. fully transcribe all printed literary text, speaker labels, directions, captions and source-visible marks for scans 91–100;
+1. read each controlling scan directly and at enlarged resolution;
+2. fully transcribe all printed literary text, speaker labels, directions, captions and source-visible marks;
 3. preserve photographs/illustrations with concise archival descriptions;
-4. update `pages/0091.md`–`0100.md` from `not-started` to `verified` only after direct visual checking;
-5. update `indexes/page-map.md`, this README, root `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
-6. stop at scan 100 unless the user explicitly requests a larger batch.
+4. update `pages/0094.md`–`0100.md` to `verified` only after direct visual checking;
+5. update `indexes/page-map.md`, this README, root `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` as durable state advances;
+6. after scan 100 passes, set the next batch to **101–110** and stop unless the user explicitly requests more.
 
 Do **not** begin scene assembly or English translation during this page-level phase.

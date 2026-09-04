@@ -42,7 +42,12 @@ Read completely before changing anything:
 
 - source intake: **COMPLETE**;
 - page placeholders: `works/kagithapoo/pages/0091.md`–`0131.md` = **41 / 41 represented**;
-- verified Tamil transcriptions: **0 / 41**;
+- verified Tamil transcriptions: **3 / 41** — scans **91–93**;
+- durable page commits:
+  - scan 91: `a5a89c50e09c2c3f8e9d9176dc26b430ee71ef36`;
+  - scan 92: `60ec231bcc277e792df95c4230b4729e26b57096`;
+  - scan 93: `b0290ae07a8fd5d49f61f72e913e2fd31c0575c9`;
+- active remainder of first batch: **94–100**;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
@@ -50,7 +55,7 @@ Boundary observations already locked at intake:
 
 - scan 91: source-visible `காகிதப்பூ` title / staged photo-graphic opener;
 - scan 92: `காட்சி 1` begins;
-- scan 93: Scene 1 closes, source prints `காட்சிகள்: 2, 3, 4, 5.`, and `காட்சி 6` begins;
+- scan 93: Scene 1 closes, source prints `காட்சிகள்: 2, 3, 4, 5.`, and `காட்சி: 6.` begins;
 - scan 130: `காட்சி 27` begins;
 - scan 131: dramatic text ends with `(முற்றும்)`; cast/participants box follows.
 
@@ -60,7 +65,7 @@ After `காட்சி 21`, scan 124 prints a new heading as **`காட்�
 
 ## Exact next activity
 
-Process **scans 91–100** in one page-level source-first batch.
+Continue **scans 94–100** to finish the first page-level source-first batch.
 
 For each scan:
 
@@ -69,10 +74,11 @@ For each scan:
 - preserve source punctuation, speaker labels, stage directions, repetitions and old/source forms;
 - describe photographs/illustrations archivally and transcribe printed captions verbatim;
 - keep library/damage/bleed-through marks separate from literary text;
-- update `pages/0091.md`–`0100.md` and `indexes/page-map.md`;
-- only mark a page `verified` after direct visual reconciliation.
+- update the corresponding page file and `indexes/page-map.md`;
+- only mark a page `verified` after direct visual reconciliation;
+- **commit each completed page or small completed group durably instead of waiting for all remaining scans**.
 
-After all ten pages pass, update the work README, root HANDOVER and this prompt and set the next batch to scans **101–110**. Stop there unless the user explicitly requests more.
+After scan 100 passes, update the work README, root HANDOVER and this prompt and set the next batch to scans **101–110**. Stop there unless the user explicitly requests more.
 
 Do **not** begin scene assembly or English translation.
 
