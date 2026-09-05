@@ -24,7 +24,7 @@ Read completely before any source-dependent change:
 8. `works/kagithapoo/indexes/page-map.md`;
 9. relevant `works/kagithapoo/pages/*.md` files.
 
-Re-resolve / attach both the controlling PDF and the user-supplied lexical witness before page-level work.
+Re-resolve / attach both the controlling PDF and the user-supplied lexical witness before any gap adjudication or source-dependent audit.
 
 ## Controlling structural source
 
@@ -42,7 +42,7 @@ User-supplied full-play transcription: `kaagidha_poo.md`.
 ## Locked dual-witness rule
 
 1. **Words / lexical forms come only from `kaagidha_poo.md`.**
-2. **PDF controls page/scene boundaries, paragraph and speaker structure, reading order, punctuation, brackets, headings/numbers, photographs and physical/layout evidence.**
+2. **PDF controls page/scene boundaries, paragraph and speaker structure, reading order, punctuation, brackets, headings/numbers, photographs, boxed features and physical/layout evidence.**
 3. MD words may be repositioned or respaced when PDF structure establishes placement.
 4. If PDF structure contains text for which MD supplies no lexical words, do not import those words from the PDF. Record a lexical-witness gap and use `needs-review` where appropriate.
 5. No OCR/common-spelling/semantic/assistant normalization may replace MD wording.
@@ -50,37 +50,35 @@ User-supplied full-play transcription: `kaagidha_poo.md`.
 ## Durable current state
 
 - source intake: **COMPLETE**;
-- page placeholders: **41 / 41 represented** (`0091.md`–`0131.md`);
-- retroactive MD lexical reconciliation of **91–101: COMPLETE AND APPLIED**;
-- detailed audit: `works/kagithapoo/MD_LEXICAL_RECONCILIATION_0091_0101.md`;
-- fully verified dual-witness pages: **30 / 41** — scans **91, 92, 94, 96, 99–124**;
-- `needs-review` because MD witness is incomplete: **93, 95, 97, 98**;
-- forward page processing completed through **scan 124**;
-- final unprocessed page batch: **125–131**;
+- page records: **41 / 41 processed** (`0091.md`–`0131.md`);
+- page-level dual-witness processing: **COMPLETE**;
+- fully verified dual-witness pages: **36 / 41** — scans **91, 92, 94, 96, 99–129, 131**;
+- `needs-review` because MD witness is incomplete: **93, 95, 97, 98, 130**;
+- unprocessed page records: **0**;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
-## Outstanding earlier lexical-witness gaps
+## Outstanding lexical-witness gaps
+
+No missing lexical text has been copied from the PDF into these positions.
 
 - **93** — PDF stage direction has additional words absent from MD;
 - **95** — MD omits one complete `காவேரி:` paragraph and the opening of the following `மரகதம்:` paragraph;
 - **97** — one PDF-structured parenthetical stage direction has no MD words at that location;
-- **98** — a PDF-printed personal-name caption is absent from MD.
+- **98** — a PDF-printed personal-name caption is absent from MD;
+- **130** — PDF structure contains two additional `குரல்:` turns after Kannan's long Scene-27 speech and one additional `கண்:` turn immediately before the gunshot. The MD supplies no separate lexical wording for those three occurrences. A global MD search did not identify displaced duplicate wording that could safely fill them.
 
-No missing lexical text has been copied from the PDF into those gaps. The user explicitly allowed forward processing to continue while they remain tracked.
+## Final page-batch state — scans 125–131
 
-## Durable structural progress through scan 124
-
-- 115 closes Scene 17 and begins Scene 18;
-- 116 closes Scene 18 and contains all of Scene 19;
-- 117–118 carry Scene 20;
-- 119 closes Scene 20 and begins `காட்சி 21.`;
-- 120–123 carry Scene 21's embedded political reading and language debate;
-- 124 closes Scene 21 and begins a new road scene under the source-visible heading **`காட்சி,`** with no numeral.
+- scan **125** closes the unnumbered road scene and begins source-visible `காட்சி 24.`;
+- scans **126–128** continue Scene 24; source-controlled physical word splits across 127→128 and 128→129 are recorded;
+- scan **129** closes Scene 24, contains complete `காட்சி 25`, and begins `காட்சி 26`;
+- scan **130** closes Scene 26, begins `காட்சி 27`, contains the separate boxed `கண்டுபிடியுங்கள்` feature, and is `needs-review` because of the three MD lexical gaps above;
+- scan **131** closes Scene 27 with `(முற்றும்)`, then carries the boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` block and publication/imprint material supplied by the MD.
 
 ## Scene-numbering anomaly safeguard
 
-This is now directly verified, not merely intake-level:
+Directly verified:
 
 - scan **124** prints only **`காட்சி,`** with no visible numeral;
 - scan **125** later prints **`காட்சி 24.`**.
@@ -89,18 +87,14 @@ Do **not** invent `காட்சி 22` or `காட்சி 23`.
 
 ## Exact next activity
 
-Process the **final page-level batch: scans 125–131**.
+Resolve / adjudicate the five lexical-witness gaps on scans **93, 95, 97, 98 and 130**.
 
-For each scan:
+Resolution may come only from:
 
-1. use only MD-supplied words;
-2. derive page/scene boundaries, reading order, punctuation, speaker/stage structure and visual evidence from the PDF;
-3. preserve the unnumbered scene continuation on scan 125 before the source-visible `காட்சி 24.`;
-4. preserve all source-visible later scene numbering exactly;
-5. on scan 131 preserve `(முற்றும்)` and the following boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` block according to the dual-witness rule;
-6. commit completed pages durably and synchronize page-map/README/HANDOVER/NEXT_CHAT_PROMPT after scan 131.
+- words supplied or explicitly authorized by the user under the active lexical-witness rule; or
+- explicit acceptance that a given omission should remain as a permanent documented gap.
 
-Do not begin scene assembly or English translation without separate authorization.
+After those five statuses are settled, run one final page-layer consistency audit across scans **91–131** and synchronize all tracking. Do **not** begin scene assembly or English translation without separate authorization.
 
 # CLOSED WORK SAFEGUARDS
 
