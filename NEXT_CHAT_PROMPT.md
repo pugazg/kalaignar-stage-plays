@@ -56,13 +56,15 @@ Completed / assembly-reviewed:
 - `scenes/09.md` — Scene 9, scan 102;
 - `scenes/10.md` — Scene 10, scans 102–104;
 - `scenes/11.md` — Scene 11, scans 104–105;
-- `scenes/12.md` — Scene 12, scans 105–107; physical `ஒப்ப—` / `டைக்கிறதா` split mechanically joined as `ஒப்படைக்கிறதா`.
+- `scenes/12.md` — Scene 12, scans 105–107; physical `ஒப்ப—` / `டைக்கிறதா` split mechanically joined as `ஒப்படைக்கிறதா`;
+- `scenes/13.md` — Scene 13, scan 107; complete single-scan scene closes at `(திரை விழுகிறது)`;
+- `scenes/14.md` — Scene 14, scans 107–109; physical `வெற்றிகளக் குவிக்கத்—` / `தான் போகிறார்கள் மக்கள்!...` split mechanically joined as `வெற்றிகளக் குவிக்கத்தான் போகிறார்கள் மக்கள்!...`.
 
 Tracking file: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 13** from verified scan **107**, then continue with Scene 14 unless the user requests a different batch size. Commit the scene file(s), then synchronize `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt.
+Assemble and page-record-check **Scene 15** from scans **109–110**, then continue with Scene 16 unless the user requests a different batch size. Commit the scene file(s), then synchronize `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt.
 
 English translation remains **not started / not authorized**.
 
