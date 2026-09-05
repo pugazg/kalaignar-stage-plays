@@ -33,9 +33,9 @@ The user previously authorized direct PDF lexical fallback only for the five adj
 
 ## Scene assembly
 
-The user explicitly authorized the next phase by instructing the project to proceed after page-layer closure.
+The user explicitly authorized this phase by instructing the project to proceed after page-layer closure.
 
-**SCENE ASSEMBLY IS NOW AUTHORIZED / IN PROGRESS.**
+**SCENE ASSEMBLY IS AUTHORIZED / IN PROGRESS.**
 
 Assembly rules:
 
@@ -50,13 +50,14 @@ Completed / assembly-reviewed:
 
 - `scenes/01.md` — Scene 1, scans 92–93;
 - `scenes/02-05.md` — source-compressed `காட்சிகள்: 2, 3, 4, 5.` representation from scan 93;
-- `scenes/06.md` — Scene 6, scans 93–94.
+- `scenes/06.md` — Scene 6, scans 93–94;
+- `scenes/07.md` — Scene 7, scans 94–98. Physical 96→97 and 97→98 continuations are mechanically joined; the verified PDF-fallback material from scans 95 and 97 is retained. The scan-98 caption is outside Scene 7 because it occurs after the `காட்சி 8.` transition.
 
 Tracking file: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 7** from scans **94–98**. Retain the already verified page-layer fallback wording on scans 95, 97 and 98 exactly. Commit `scenes/07.md`, then synchronize `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt.
+Assemble and page-record-check **Scene 8** from scans **98–102**. Retain `ஓ. எம். சுப்பிரமணியன்,` as a separate non-dialogue caption at the source-defined scan-98 position, and join only mechanical page/column breaks. Commit `scenes/08.md`, then synchronize `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt.
 
 English translation remains **not started / not authorized**.
 
