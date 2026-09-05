@@ -4,7 +4,7 @@ Archive slug: `kagithapoo`.
 
 ## Current status
 
-**IN PROGRESS — first page-level source-first batch complete; next batch is scans 101–110.**
+**IN PROGRESS — first page-level source-first batch complete; second batch active at scans 103–110.**
 
 Controlling source file:
 
@@ -17,9 +17,9 @@ Controlling source file:
 - durable page placeholders: `pages/0091.md` through `pages/0131.md`;
 - page map: `indexes/page-map.md`;
 - source intake: `SOURCE_INTAKE.md`;
-- Tamil transcription verified: **10 / 41** — scans **91–100**;
+- Tamil transcription verified: **12 / 41** — scans **91–102**;
 - first verification batch: **COMPLETE**;
-- next page-level batch: **101–110**;
+- active page-level batch remainder: **103–110**;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
@@ -36,6 +36,19 @@ Controlling source file:
 
 The paragraph above is preserved as **user-supplied catalog context**, not silently converted into scan transcription.
 
+## User-supplied lexical witness override
+
+Beginning with the still-unprocessed range from **scan 102 onward**, the user supplied a full-play Markdown transcription named `kaagidha_poo.md` and explicitly changed the active transcription method:
+
+- **wording / lexical tokens must come only from `kaagidha_poo.md`;**
+- the controlling PDF remains authoritative for **page and scene boundaries, reading order, paragraph/speaker grouping, punctuation, stage-direction punctuation/bracketing, headings/numbers, photographs, captions and other layout/physical evidence**;
+- the Markdown may contain run-together or displaced words: those supplied words may be repositioned / respaced only when the source scan establishes their correct placement;
+- the Markdown may omit a paragraph. If the PDF visibly contains literary text for which the Markdown supplies no words, **do not invent/import PDF-read words into the lexical layer**. Record the lexical-witness gap and leave the affected page `needs-review` until the user supplies/authorizes the missing wording;
+- no common-spelling, semantic, OCR or assistant-normalization substitution is allowed;
+- scans **91–101** remain the already-committed durable source-first layer and are **not automatically reopened** merely because the later lexical witness was supplied. A retroactive lexical audit requires an explicit user instruction.
+
+Scan **102** is the first page durably processed under this mixed-authority method.
+
 ## Verified page-level progress
 
 The first source-first batch, physical scans **91–100**, is fully transcribed and verified.
@@ -47,6 +60,8 @@ The first source-first batch, physical scans **91–100**, is fully transcribed 
 - Scans **95–97**: Scene 7 continuation fully reconciled, including wraparound dialogue and staged-photo layouts.
 - Scan **98**: Scene 7 closes; `காட்சி 8.` begins; cross-page and narrow-column reading order verified.
 - Scans **99–100**: Scene 8 continuation fully reconciled, including scan-boundary joins and photograph/layout evidence.
+- Scan **101**: Scene 8 continuation verified under the earlier direct-scan method.
+- Scan **102**: Scene 8 closes, `காட்சி 9` is fully contained, and `காட்சி 10` begins. Words follow `kaagidha_poo.md`; source structure/punctuation and the 102→103 boundary were visually reconciled.
 
 ## Source-derived intake findings
 
@@ -68,25 +83,28 @@ Therefore the repository must **not silently invent or normalize `காட்�
 
 ## Source policy
 
-`STAGE_PLAY_PROCESSING_GUIDE.md` controls this work.
+`STAGE_PLAY_PROCESSING_GUIDE.md` remains the permanent workflow, with the active-work lexical override above controlling the remaining `காகிதப்பூ` page transcriptions.
 
-- The supplied scan is the controlling authority.
-- No OCR/common-spelling/semantic normalization may silently replace source wording.
+- The supplied scan controls structure/physical evidence.
+- `kaagidha_poo.md` controls words for the remaining page-transcription phase.
+- No OCR/common-spelling/semantic normalization may silently replace supplied wording.
 - Physical magazine scan boundaries remain explicit.
-- Printed photographs/illustrations are described archivally; captions and visible printed text are transcribed verbatim when verified.
+- Printed photographs/illustrations are described archivally; captions and visible printed text are handled according to the source/witness rule above.
 - Scene assembly comes only after page-level verification.
 - English translation is a separate later phase.
 
 ## Exact next activity
 
-Process physical scans **101–110** as the second page-level source-first batch:
+Continue physical scans **103–110** as the remainder of the second page-level batch:
 
 1. inspect each controlling scan directly and at enlarged resolution;
-2. fully transcribe all printed literary text, speaker labels, directions, captions and source-visible marks;
-3. preserve photographs/illustrations with concise archival descriptions;
-4. update `pages/0101.md`–`0110.md` to `verified` only after direct visual checking;
-5. commit completed pages or small completed groups durably instead of waiting for the full batch;
-6. keep `indexes/page-map.md` synchronized as durable state advances;
-7. after scan 110 passes, update this README, root `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`, and set the next batch from the live repository state.
+2. locate the corresponding wording in user-supplied `kaagidha_poo.md`;
+3. use **only those supplied words** for literary transcription while deriving ordering, paragraph/speaker structure, punctuation, stage directions and page boundaries from the PDF;
+4. watch specifically for misplaced/run-together words and for source paragraphs absent from the Markdown;
+5. preserve photographs/illustrations with concise archival descriptions;
+6. update `pages/0103.md`–`0110.md` to `verified` only after the mixed-authority reconciliation passes; use `needs-review` for a genuine lexical-witness gap;
+7. commit completed pages or small completed groups durably instead of waiting for the full batch;
+8. keep `indexes/page-map.md` synchronized as durable state advances;
+9. after scan 110 passes, update this README, root `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`, and set the next batch from the live repository state.
 
 Do **not** begin scene assembly or English translation during this page-level phase.
