@@ -73,7 +73,9 @@ Committed assembly-reviewed files:
 - `works/kagithapoo/scenes/18.md` — Scene 18, scans 115–116;
 - `works/kagithapoo/scenes/19.md` — Scene 19, scan 116;
 - `works/kagithapoo/scenes/20.md` — Scene 20, scans 117–119;
-- `works/kagithapoo/scenes/21.md` — Scene 21, scans 119–124.
+- `works/kagithapoo/scenes/21.md` — Scene 21, scans 119–124;
+- `works/kagithapoo/scenes/unnumbered-between-21-and-24.md` — source-visible unnumbered `காட்சி,`, scans 124–125; no Scene 22/23 assigned;
+- `works/kagithapoo/scenes/24.md` — Scene 24, scans 125–129.
 
 Assembly notes:
 
@@ -87,7 +89,8 @@ Assembly notes:
 - Scene 19 is a complete single-scan scene;
 - Scene 20 joins the scan-118→119 sentence continuation `நீங்கள் சிந்திய ரத்தம் கூட—` / `உங்கள் மகன்...` mechanically and closes before Scene 21;
 - Scene 21 joins `நலத்—` / `திட்ட` as `நலத்திட்ட`, `ஆட்சி—` / `மொழிகளாகட்டும்` as `ஆட்சிமொழிகளாகட்டும்`, and joins the 123→124 sentence continuation without lexical normalization;
-- unusual verified page-record wording in Scene 21 remains unchanged rather than being modernized;
+- the post-Scene-21 unnumbered block preserves source heading `காட்சி,` exactly and does not assign or imply Scene 22/23;
+- Scene 24 joins `முடி` / `யாம` as `முடியாம` and `கொள்` / `ளுங்கள்` as `கொள்ளுங்கள்`; the repeated `திர:—` label at scan 127 and unusual verified wording remain unchanged;
 - no scene body has been reconstructed from material absent from the verified page layer.
 
 Tracking: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
@@ -104,7 +107,7 @@ English translation: **not started / not authorized**.
 
 ## Exact next activity
 
-Assemble and page-record-check the **unnumbered source `காட்சி,`** from verified scans **124–125**, preserving the heading exactly and assigning no Scene 22/23 number. Then continue with **Scene 24** unless the user specifies a different batch size. Update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT at the next substantial checkpoint.
+Assemble and page-record-check **Scene 25** from verified scan **129**, then continue with **Scene 26** from verified scans **129–130** unless the user specifies a different batch size. Update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT at the next substantial checkpoint.
 
 Do not begin English translation without separate authorization.
 
