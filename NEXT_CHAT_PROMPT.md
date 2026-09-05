@@ -20,7 +20,7 @@ Read before source-dependent work:
 8. relevant page records for the current batch
 9. the controlling PDF must be attached/resolved before page-level visual work
 
-The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is mandatory methodology. It is not a lexical first-pass witness.
+The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is mandatory methodology, not a lexical first-pass witness.
 
 ## Current source
 
@@ -38,48 +38,47 @@ Every scan must check:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Positive same-edition reference families currently established:
+Positive same-edition reference families:
 
 `லை / ளை / ணா / ணை / னா / னை / றா`.
 
-Authoritative historical-glyph corrections — do not restore superseded apparent-shape readings:
+Authoritative corrections — never restore superseded apparent-shape readings:
 
-- scan 15 `என்றுரே` → **`என்றாரே`**;
-- scan 15 `தானு` → **`தானா`**;
+- scan 15 `என்றுரே / தானு` → **`என்றாரே / தானா`**;
 - scan 20 `நன்றுக` → **`நன்றாக`**;
 - scan 21 `மகனு` → **`மகனா`**;
 - scan 28 `மால்தானே` → **`மாலைதானே`**.
 
-Use same-edition references only for character-identity comparison. Never use them or context to reconstruct physical paper loss or regularize source wording.
+Use same-edition references only for character identity. Do not reconstruct physical loss or regularize source wording.
 
-## Completed scans 1–35
+## Completed scans 1–40
 
-- Batch 1, scans 1–5: scan 2 verified; scans 1, 3, 4, 5 `needs-review`.
-- Batch 2, scans 6–10: scans 6 and 10 verified; scans 7, 8, 9 `needs-review`.
-- Batch 3, scans 11–15: all verified.
-- Batch 4, scans 16–20: all verified.
-- Batch 5, scans 21–25: all verified.
-- Batch 6, scans 26–30: all verified.
-- Batch 7, scans 31–35:
-  - `0031.md` / p.29 — **verified**; Gandhi ornate-prison introduction; `உடைதானா`, `விலைமதிக்க / மாலையை` checked;
-  - `0032.md` / p.30 — **verified**; garland rejection; repeated `மாலை`, `நன்றாகப்` checked;
-  - `0033.md` / p.31 — **verified**; priest/party allegory; `அரசனா / ஆண்டவனா`; final `கட்சித் தலைவர்கள் கடவுளை` physically continues;
-  - `0034.md` / p.32 — **verified**; scan-33 continuation; physical `சொல் / வொணா` and source `நாதி / யில்லை` retained;
-  - `0035.md` / p.33 — **needs-review**; full 13-family pass complete but one short cluster in `கொம்பு மாடெனக் … மட்டும்` remains unresolved. The apparent reading resembling `கொழுப்பேறி` is not canonical. Final `எங்குவேன்` continues to scan 36.
+- Batch 1, scans 1–5: scan 2 verified; 1, 3, 4, 5 `needs-review`.
+- Batch 2, scans 6–10: 6 and 10 verified; 7, 8, 9 `needs-review`.
+- Batches 3–6, scans 11–30: all verified.
+- Batch 7, scans 31–35: 31–34 verified; scan 35 `needs-review` for one unresolved cluster in `கொம்பு மாடெனக் … மட்டும்`.
+- Batch 8, scans 36–40:
+  - `0036.md` / p.34 — **needs-review**; full pass complete; two short descriptive clusters in the `ஹரிஜன நலம்` / `சவலைப் பிள்ளை` passage remain unresolved; opening physically continues scan-35 `எங்குவேன்`;
+  - `0037.md` / p.35 — **verified**; Gandhi rejects the garland; Srirangam/Ranganathar-fire report; `மாலையை` historical `லை`; source `ஓடிவந்துவிட்டானும் / போட்டானு?` retained;
+  - `0038.md` / p.36 — **verified**; Gandhi asks Eman to remove Desiyampillai; source `நாகத்திலும்` retained; buffalo-push close;
+  - `0039.md` / p.37 — **verified**; stair/place-name sequence `கோவை / ஆம்பூர் / குடந்தை / மதுரை / உடுமலை`; final `உடுமலைப் படியில்` continues physically;
+  - `0040.md` / p.38 — **verified**; `கோபிப்படி / பாசிப்படி / விருதுநகர் / திருச்சி / தஞ்சை`; dream ends with `உதய சூரியன்`; wife enters with morning coffee.
+
+Scans 36–40 do not securely resolve scan 35's review cluster.
 
 Current metrics:
 
-- canonical page transcriptions processed: **35 / 49**;
-- visually verified: **27 / 49** (`2, 6, 10–34`);
-- `needs-review`: **8 / 49** (`1, 3, 4, 5, 7, 8, 9, 35`);
-- historical-glyph passes: **35 / 49**;
-- unprocessed: **14 / 49**;
-- unresolved source/glyph clusters: **1** (scan 35);
+- canonical page transcriptions processed: **40 / 49**;
+- visually verified: **31 / 49** (`2, 6, 10–34, 37–40`);
+- `needs-review`: **9 / 49** (`1, 3, 4, 5, 7, 8, 9, 35, 36`);
+- historical-glyph passes: **40 / 49**;
+- unprocessed: **9 / 49**;
+- unresolved visual/source clusters: **3** (scan 35: 1; scan 36: 2);
 - English translation: **not authorized / not started**.
 
-## Exact next activity — scans 36–40
+## Exact next activity — scans 41–45
 
-Process scans **36, 37, 38, 39, 40** in order. These visibly correspond to printed pages **34–38**.
+Process scans **41, 42, 43, 44, 45** in order. They correspond to printed pages **39–43**.
 
 For each page:
 
@@ -91,11 +90,11 @@ For each page:
 6. use same-edition comparison for glyph identity only;
 7. do not infer missing wording, modern spelling or scene numbers;
 8. mark `verified` only when the full visual + glyph gate passes, otherwise `needs-review`;
-9. if a later page provides genuine same-edition evidence for scan 35's unresolved cluster, re-open `0035.md` explicitly and document the adjudication; do not silently repair it;
-10. update page-map, glyph audit, work README, root README, HANDOVER and this prompt after the batch.
+9. if genuine later evidence resolves scans 35 or 36, re-open those records explicitly and document the adjudication;
+10. update page-map, glyph audit, work/root READMEs, HANDOVER and this prompt after the batch.
 
 Do not begin scene assembly or English translation yet.
 
 ## Closed-work safeguards
 
-`காகிதப்பூ` remains COMPLETE / CLOSED: Tamil 41/41, source-representation scenes 23/23, English 23/23, final reviews PASS. `மணிமகுடம்` and the closed `கலைஞரின் நான்மணி மாலை` component works also remain closed unless explicitly reopened for new evidence or a separately authorized phase.
+`காகிதப்பூ` remains COMPLETE / CLOSED: Tamil 41/41, source-representation scenes 23/23, English 23/23, final reviews PASS. `மணிமகுடம்` and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened.
