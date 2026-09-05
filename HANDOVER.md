@@ -20,7 +20,7 @@ Read before any further work:
 6. `works/kagithapoo/SCENE_ASSEMBLY_FINAL_REVIEW.md`;
 7. `works/kagithapoo/TRANSLATION_PLAN.md`;
 8. `works/kagithapoo/translations/en/README.md`;
-9. completed English batch review records, currently `works/kagithapoo/translations/en/BATCH_01_REVIEW.md`;
+9. completed English batch review records: `BATCH_01_REVIEW.md` and `BATCH_02_REVIEW.md`;
 10. relevant closed Tamil `works/kagithapoo/scenes/*.md` artifacts for the current English batch;
 11. `works/kagithapoo/PAGE_LAYER_CONSISTENCY_AUDIT.md` and verified page records only if a source-level question arises.
 
@@ -86,7 +86,7 @@ Key mechanical joins already locked in the Tamil scene layer include:
 
 ## English translation phase
 
-**AUTHORIZED / IN PROGRESS — BATCH 1 COMPLETE / PASS / LOCKED.**
+**AUTHORIZED / IN PROGRESS — BATCHES 1–2 COMPLETE / PASS / LOCKED.**
 
 Immediate drafting authority is the closed verified Tamil scene layer under `works/kagithapoo/scenes/`.
 
@@ -102,11 +102,12 @@ Durable translation records:
 
 - `works/kagithapoo/TRANSLATION_PLAN.md` — artifact mapping, controls, batch plan and review gate;
 - `works/kagithapoo/translations/en/README.md` — live English-phase tracker;
-- `works/kagithapoo/translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**.
+- `works/kagithapoo/translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
+- `works/kagithapoo/translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED**.
 
 Expected English artifact set: **23**, mirroring the Tamil source representation exactly. No `22.md` or `23.md` is permitted.
 
-### Batch 1 — COMPLETE / PASS / LOCKED
+### Completed Batches 1–2
 
 Completed and Tamil→English reviewed:
 
@@ -114,37 +115,33 @@ Completed and Tamil→English reviewed:
 2. `translations/en/02-05.md` ← source-compressed `scenes/02-05.md`;
 3. `translations/en/06.md` ← `scenes/06.md`;
 4. `translations/en/07.md` ← `scenes/07.md`;
-5. `translations/en/08.md` ← `scenes/08.md`.
+5. `translations/en/08.md` ← `scenes/08.md`;
+6. `translations/en/09.md` ← `scenes/09.md`;
+7. `translations/en/10.md` ← `scenes/10.md`;
+8. `translations/en/11.md` ← `scenes/11.md`;
+9. `translations/en/12.md` ← `scenes/12.md`;
+10. `translations/en/13.md` ← `scenes/13.md`.
 
 Current English status:
 
 - expected artifacts: **23**;
-- present: **5 / 23**;
-- reviewed: **5 / 23**;
-- completed batches: **1 / 5**;
+- present: **10 / 23**;
+- reviewed: **10 / 23**;
+- completed batches: **2 / 5**;
 - unresolved blocking translation issues: **0**;
-- documented source-sensitive carryovers: **1** (`அந்சு ... சொம்பு வீரமாதம்` in Scene 6, transliterated rather than silently repaired);
 - secondary-English contamination: **0**.
 
-Stable terminology established through Batch 1 is recorded in `translations/en/README.md`, including `Dravida Munnetra Kazhagam`, `Congress`, `Hindi`, *Purananuru*, *tali*, `khadi`, `patron`, and `Noble Gandhi True Workers' Association` in matching contexts.
+Stable terminology and source-sensitive choices through Batch 2 are recorded in `translations/en/README.md` and the two batch-review files. Important retained source-sensitive forms include Scene 6 `அந்சு ... சொம்பு வீரமாதம்`, Scene 10 `பூச்ண`, Scene 12 `அங்கவனும்—பவனும்` / `புள்ள குட்டி`, and the documented anomalous Scene-12 `விந்து` repetition. None is a reopened Tamil correction.
 
-Batch-1 source-sensitive controls preserved include:
-
-- Scene 1 martial-poetic cadence and `parani` / `Maanava Mani` source terms;
-- no invented bodies for source-compressed Scenes 2–5;
-- Scene 6 ambiguous verified phrase retained as *Ansu* / *sombu veeramatham*;
-- Scene 7 widowhood imagery and unusual `mullai buds` image retained without silent normalization;
-- Scene 8 Dasavatharam/avatar joke, `காலணிகள்` / `காலனி`, `காக்கை வலிப்பு` wordplay, “Late Dasavatharam” joke, patronage satire and closing food joke preserved.
-
-## Exact next activity — English Batch 2
+## Exact next activity — English Batch 3
 
 Translate and Tamil→English review, in order:
 
-1. `scenes/09.md` → `translations/en/09.md`;
-2. `scenes/10.md` → `translations/en/10.md`;
-3. `scenes/11.md` → `translations/en/11.md`;
-4. `scenes/12.md` → `translations/en/12.md`;
-5. `scenes/13.md` → `translations/en/13.md`.
+1. `scenes/14.md` → `translations/en/14.md`;
+2. `scenes/15.md` → `translations/en/15.md`;
+3. `scenes/16.md` → `translations/en/16.md`;
+4. `scenes/17.md` → `translations/en/17.md`;
+5. `scenes/18.md` → `translations/en/18.md`.
 
 For each file, draft only from the closed Tamil scene artifact, then compare the full English artifact back against the Tamil scene before setting `translation-reviewed` / `passed`. Update the English tracker, work README, HANDOVER and NEXT_CHAT_PROMPT after the batch.
 
