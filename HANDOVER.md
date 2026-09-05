@@ -19,8 +19,9 @@ Read before further source-dependent work:
 5. `works/thiruvalar-desiyampillai/metadata/source.md`;
 6. `works/thiruvalar-desiyampillai/indexes/page-map.md`;
 7. `works/thiruvalar-desiyampillai/HISTORICAL_GLYPH_AUDIT.md`;
-8. relevant page records for the current batch;
-9. controlling PDF must be attached/resolved for page-level visual work.
+8. `works/thiruvalar-desiyampillai/PAGE_LAYER_COMPLETION_AUDIT.md`;
+9. relevant page records for the current structural/assembly task;
+10. controlling PDF must be attached/resolved for any new page-level visual adjudication.
 
 The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is mandatory methodology, not a lexical first-pass witness.
 
@@ -37,72 +38,86 @@ Controlling PDF: `TVA_BOK_0064118_திருவாளர்_தேசீயம
 
 ## Historical-glyph verification — mandatory
 
-Every page checks:
+Every page has now received the full check for:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Permanent rules: scan pixels control; read character identity rather than modern visual resemblance; encode proven identity in modern Unicode only; preserve source wording/punctuation otherwise; no global replacement or context-based modernization; use `needs-review` when evidence remains incomplete.
-
-Positive same-edition reference families:
+Positive same-edition families:
 
 `லை / ளை / ணா / ணை / னா / னை / றா`.
 
 Authoritative corrections that must not be reverted:
 
-- scan 15 `என்றுரே / தானு` → **`என்றாரே / தானா`**;
+- scan 15 `என்றுரே` → **`என்றாரே`**;
+- scan 15 `தானு` → **`தானா`**;
 - scan 20 `நன்றுக` → **`நன்றாக`**;
 - scan 21 `மகனு` → **`மகனா`**;
 - scan 28 `மால்தானே` → **`மாலைதானே`**;
-- scan 42 first-line old-type form → **`பொறாமை`** (`றா`);
-- scan 44 page-ending old-type form → **`ஆலை முதலாளி`** (`லை`).
+- scan 42 → **`பொறாமை`**;
+- scan 44 → **`ஆலை முதலாளி`**.
 
-## Current state after scans 1–45
+Final enlarged source rechecks also establish exact source forms:
 
-**PAGE LAYER IN PROGRESS.**
+- scan 46: **`நம்ப`**, `‘உதயசூரியனு’க் / குத்தானே`, **`தேசீயம் பிள்ளை`**;
+- scan 47: **`தேசீயம்பிள்ளை / தேசீயம் பிள்ளையின் / போட்டகோலம்`**;
+- scan 48: **`தேசீயம் பிள்ளையின்`**, physical **`மலை / யேறும்`**.
 
-- scans registered/page placeholders: **49 / 49**;
-- canonical transcriptions processed: **45 / 49**;
-- visually verified pages: **36 / 49** (`2, 6, 10–34, 37–45`);
+## Current page-layer state
+
+**SOURCE-PAGE PASS COMPLETE.**
+
+- scans/page records: **49 / 49**;
+- canonical source processing: **49 / 49**;
+- historical-glyph passes: **49 / 49**;
+- visually verified pages: **40 / 49** (`2, 6, 10–34, 37–49`);
 - `needs-review`: **9 / 49** (`1, 3, 4, 5, 7, 8, 9, 35, 36`);
-- historical-glyph passes complete: **45 / 49**;
-- unprocessed: **4 / 49**;
+- unprocessed: **0**;
 - unresolved visual/source clusters: **3** (scan 35: 1; scan 36: 2);
-- structural / scene inventory: **pending full source pass**;
+- structural / scene inventory: **next**;
+- scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-### Batch 9 controls — scans 41–45
+Durable completion audit: `works/thiruvalar-desiyampillai/PAGE_LAYER_COMPLETION_AUDIT.md`.
 
-All five are **VERIFIED**.
+Audit verdict: **coverage PASS, not 49/49 verified**. Structural/scene work is conditionally authorized from visually checked page records, but unresolved/lost text must remain explicit.
 
-- scan 41 / p.39 — post-dream domestic scene and election-result shock; `மாறியிருக்கிறது / அருந்தினார் / கூறினாள்` historical identities checked; physical splits retained;
-- scan 42 / p.40 — cost-of-living/tax argument; first-line apparent old-type form canonically `பொறாமை`; `அரையணா` checked; source `தீட்டி` retained; later ink near source-visible trailing `ஆள—` does not remove supported text;
-- scan 43 / p.41 — governor-expense/election-politics dialogue; source colloquialisms and `கல்யாணங் காட்சிக்கு` retained; later ink does not remove recoverable text;
-- scan 44 / p.42 — `தமிழ் வாழ்க` / obscenity-law argument; page-ending `ஆலை முதலாளி` decoded by historical `லை`; final `நிலப்பிரபு` remains physically open to scan 45;
-- scan 45 / p.43 — scan-44 continuation `ஜமீன்தார்`, election-spending and `உதயசூரியன்` dialogue; colloquial register and physical splits retained.
+### Review holds that must survive assembly
 
-Scans 41–45 do **not** genuinely resolve scans 35–36. Keep those three unresolved clusters explicit.
+Front matter only:
 
-Do not begin scene assembly or English translation during the page-layer phase.
+- scans `1, 3, 4, 5` — physical loss/abrasion.
 
-## Exact next activity — final source batch
+Dramatic body:
 
-Process **scans 46–49** source-first.
+- scans `7, 8, 9` — physical paper-loss gaps;
+- scan `35` — one unresolved source cluster in `கொம்பு மாடெனக் … மட்டும்`;
+- scan `36` — two unresolved descriptive clusters in the `ஹரிஜன நலம்` / `சவலைப் பிள்ளை` passage.
 
-- scans 46–48 correspond to printed pages **44–46**;
-- scan 48 is the source-visible final dramatic-body page;
-- scan 49 is the back-cover advertisement for `அல்லி விழி` and must be treated as back matter, not dramatic text.
+Do not use context, OCR, a modern edition, or lexical expectation to fill these gaps. Any derived scene touching scans `7, 8, 9, 35, 36` must preserve the explicit loss/review markers and must not claim `assembled_from_verified_pages: true`.
 
-For each:
-1. inspect full native/enlarged source pixels;
-2. transcribe only positively supported printed text;
-3. preserve speaker/stage/paragraph/page structure;
-4. run the full 13-family historical-glyph check;
-5. use same-edition comparison only for glyph identity;
-6. do not infer scene numbering or repair wording from context;
-7. mark `verified` only after the complete visual + glyph gate passes;
-8. re-adjudicate scans 35–36 only if genuine same-edition evidence appears, documenting it explicitly;
-9. synchronize page-map, glyph audit, work/root READMEs, HANDOVER and NEXT prompt;
-10. after scans 46–49 are processed, perform a **page-layer completion audit** before authorizing scene assembly.
+## Final Batch 10 — scans 46–49
+
+All four are **VERIFIED**.
+
+- scan 46 / p.44 — family/election-organizing argument; source colloquial/name forms rechecked at enlarged resolution;
+- scan 47 / p.45 — Desiyampillai/Kamala passage and centered source heading **`உதயசூரியன் கோலம்`**;
+- scan 48 / p.46 — final dramatic-body page; **no source-visible `முற்றும்` marker**;
+- scan 49 — separate back-cover advertisement for **`அல்லி விழி`**; not dramatic text.
+
+## Exact next activity — structural / scene inventory
+
+Before creating scene files, build a durable source-visible structural inventory across **scans 7–48**.
+
+1. inspect page records in source order;
+2. list every source-visible heading, speaker/stage transition and other structural boundary actually printed;
+3. do **not** manufacture `காட்சி` numbers or divisions from dramatic context;
+4. determine from source evidence how scan-47 centered **`உதயசூரியன் கோலம்`** relates to the surrounding text;
+5. record page spans/provenance for any defensible source-representation units;
+6. carry the five body review holds (`7, 8, 9, 35, 36`) explicitly;
+7. create a durable structural/scene inventory document first;
+8. only after that inventory is reviewed should `scenes/*.md` assembly begin.
+
+Do not begin English translation.
 
 # CLOSED WORK SAFEGUARDS
 
