@@ -4,7 +4,7 @@ Archive slug: `kagithapoo`.
 
 ## Current status
 
-**IN PROGRESS — scans 105–114 completed under the MD-words / PDF-structure rule; next batch 115–124.**
+**IN PROGRESS — scans 115–124 completed under the MD-words / PDF-structure rule; final page-level batch is 125–131.**
 
 Controlling structural source:
 
@@ -18,10 +18,10 @@ Lexical witness:
 - work-scoped source range: **91–131 inclusive = 41 scans**;
 - page placeholders: `pages/0091.md`–`0131.md` = **41 / 41 represented**;
 - retroactive MD lexical reconciliation: **scans 91–101 COMPLETE**;
-- scan 102: already completed under the same dual-witness method and preserved;
-- dual-witness fully verified pages: **20 / 41** — 91, 92, 94, 96, 99–114;
+- forward processing completed through scan **124**;
+- dual-witness fully verified pages: **30 / 41** — scans **91, 92, 94, 96, 99–124**;
 - lexical-gap `needs-review` pages: **93, 95, 97, 98**;
-- forward processing resumed by explicit user instruction; scans **103–114** are now complete while earlier gaps remain tracked;
+- remaining unprocessed pages: **125–131 = 7 pages**;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
@@ -39,30 +39,34 @@ For `காகிதப்பூ` page transcription:
 4. If the PDF contains a paragraph, stage direction or printed text for which the MD supplies no lexical words, do **not** silently import those words from the PDF. Record a lexical-witness gap and use `needs-review` where the gap affects completion.
 5. No OCR/common-spelling/semantic/assistant normalization may replace MD wording.
 
-This rule now applies retroactively to scans **91–101** as explicitly requested by the user, not only to later pages.
+## Outstanding earlier lexical gaps
 
-## Reconciliation result — scans 91–101
-
-All eleven page records were reworked against `kaagidha_poo.md` while retaining PDF-controlled structure and punctuation.
-
-Fully reconciled with no outstanding MD lexical gap:
-
-- **91** — title/callout words switched to MD lexical forms while preserving PDF callout placement;
-- **92** — Scene 1 lexical corrections applied; misplaced MD `ராசேந்திரன்` / `மாணவமணி` reordered to the PDF position;
-- **94** — difficult narrow-column Scene-6 wording replaced by the MD lexical witness, including `சீவி` and the `புறநானூற்றிலே படித்திருக்கிறோம்` sequence;
-- **96** — MD forms including `மானப்படை`, `மாணவர் உலகம்`, `இந்தி எதிர்ப்பின்`, `எழுதி வைத்துக் கொள்ளச்` applied;
-- **99** — MD wording applied and the omitted `கண்:— சர்க்கார்` turn restored at its PDF-defined position;
-- **100** — MD lexical forms applied while preserving source stage/speaker layout and scan boundaries;
-- **101** — MD lexical forms applied; the PDF three-speaker `மூவரும்` structure is retained.
-
-Pages requiring lexical-gap review:
+These remain deliberately unresolved and were not backfilled from the PDF:
 
 - **93** — PDF stage direction contains additional words absent from MD;
 - **95** — MD omits one complete `காவேரி:` paragraph and the opening of the following `மரகதம்:` paragraph;
 - **97** — one PDF-structured parenthetical stage direction lacks an MD lexical witness;
 - **98** — PDF contains a printed personal-name caption absent from MD.
 
-No missing words were copied from the PDF into those gap positions.
+The user subsequently instructed forward processing to continue while those gaps remain explicitly tracked.
+
+## Progress through scan 124
+
+- scans **102–104**: Scenes 8–11 transition block completed under the dual-witness rule;
+- scans **105–114**: Scenes 11–17 processed and verified;
+- scan **115**: Scene 17 closes; Scene 18 begins;
+- scan **116**: Scene 18 closes; Scene 19 is complete;
+- scans **117–118**: `காட்சி 20` processed;
+- scan **119**: Scene 20 closes and `காட்சி 21.` begins;
+- scans **120–123**: Scene-21 embedded political-text reading and language debate reconciled to PDF reading order;
+- scan **124**: Scene 21 closes and the next heading is source-visible only as **`காட்சி,`** with no numeral. The unnumbered road scene begins on the same physical scan.
+
+### Scene-numbering anomaly — locked safeguard
+
+Do **not** invent `காட்சி 22` or `காட்சி 23`.
+
+- scan **124** prints the next heading only as **`காட்சி,`**;
+- scan **125** later prints source-visible **`காட்சி 24.`**.
 
 ## User-supplied catalog metadata
 
@@ -77,27 +81,15 @@ Catalog description supplied by the user:
 
 This remains catalog context and is not a substitute for the MD lexical witness.
 
-## Structural source facts
-
-- scan 91 is the work opener;
-- scan 92 begins `காட்சி 1`;
-- scan 93 closes Scene 1, prints `காட்சிகள்: 2, 3, 4, 5.`, and begins `காட்சி: 6.`;
-- scan 98 closes Scene 7 and begins `காட்சி 8.`;
-- scan 102 closes Scene 8, contains Scene 9 and begins Scene 10;
-- scan 130 begins `காட்சி 27`;
-- scan 131 closes with `(முற்றும்)` and then carries the boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` block.
-
-### Scene-numbering anomaly
-
-After `காட்சி 21`, scan 124 prints a new heading only as **`காட்சி,`** with no visible numeral; scan 125 later prints **`காட்சி 24.`**. Do not invent `காட்சி 22` or `காட்சி 23`.
-
 ## Exact next activity
 
-Process physical scans **115–124** under the same dual-witness rule:
+Process the **final physical page batch: scans 125–131**.
 
 1. words only from `kaagidha_poo.md`;
-2. PDF controls page/scene boundaries, reading order, punctuation, speaker/stage structure and visual evidence;
-3. keep scans **93, 95, 97, 98** as explicit unresolved lexical-gap records;
-4. on scan **124**, preserve the source-visible heading **`காட்சி,`** exactly and do not invent 22/23.
+2. PDF controls page/scene boundaries, reading order, punctuation, speaker/stage structure, captions and visual evidence;
+3. scan 125 must continue the unnumbered `காட்சி,` scene from scan 124 and then preserve source-visible `காட்சி 24.`;
+4. preserve all later scene numbering exactly as printed;
+5. scan 131 must preserve `(முற்றும்)` and the following boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` block according to the active lexical-witness rule;
+6. keep scans **93, 95, 97, 98** as explicit unresolved lexical-gap records unless the user later supplies/authorizes missing words.
 
-Do **not** begin scene assembly or English translation.
+After scan 131, synchronize page-map/README/HANDOVER/NEXT_CHAT_PROMPT. Do **not** begin scene assembly or English translation unless separately authorized.
