@@ -19,7 +19,7 @@ Rows marked `verified` have received full word-for-word visual transcription/rec
 | 99 | — | காட்சி 8 | dramatic text + photo montage | verified | Scene 8 wraparound dialogue and photo montage fully reconciled; scan-98 and scan-100 boundaries checked. |
 | 100 | — | காட்சி 8 | dramatic text + photograph | verified | Scene 8 continuation fully reconciled; scan-99 stage-direction join and scan-101 response boundary checked directly. |
 | 101 | — | காட்சி 8 | dramatic text | verified | Scene 8 continuation fully reconciled; scan-100 boundary, two-column reading order, source speaker-label forms and terminal `(கண்ணன் போகிறான்)` checked directly. |
-| 102 | — | காட்சி 8 / காட்சி 9 / காட்சி 10 | dramatic text + photograph | not-started | Short scene transitions visible; Scene 10 begins on same scan. |
+| 102 | — | காட்சி 8 / காட்சி 9 / காட்சி 10 | dramatic text + photograph | verified | Scene 8 closes; all of Scene 9 and its `(திரை)` are reconciled; `காட்சி 10` begins on the same scan and continues into scan 103. Lexical words follow the user-supplied `kaagidha_poo.md`; source PDF controls structure and punctuation. |
 | 103 | — | காட்சி 10 | dramatic text | not-started | Continuation. |
 | 104 | — | காட்சி 10 / காட்சி 11 | dramatic text + photograph | not-started | Scene 10 closes; Scene 11 begins. |
 | 105 | — | காட்சி 11 / காட்சி 12 | dramatic text | not-started | Scene 11 closes; Scene 12 begins. |
@@ -53,9 +53,9 @@ Rows marked `verified` have received full word-for-word visual transcription/rec
 ## Current checkpoint
 
 - selected source pages represented: **41 / 41**;
-- verified page transcriptions: **11 / 41** — scans **91–101**;
+- verified page transcriptions: **12 / 41** — scans **91–102**;
 - first verification batch: **COMPLETE**;
-- active second page-level batch: **102–110**;
+- active second page-level batch: **103–110**;
 - scene assembly: **not started / not authorized**;
 - translation: **not started / not authorized**.
 
