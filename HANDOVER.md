@@ -16,18 +16,16 @@ Read before further work:
 2. this `HANDOVER.md`;
 3. `NEXT_CHAT_PROMPT.md`;
 4. `works/thiruvalar-desiyampillai/README.md`;
-5. `works/thiruvalar-desiyampillai/metadata/source.md`;
-6. `works/thiruvalar-desiyampillai/indexes/page-map.md`;
-7. `works/thiruvalar-desiyampillai/HISTORICAL_GLYPH_AUDIT.md`;
-8. `works/thiruvalar-desiyampillai/PAGE_LAYER_COMPLETION_AUDIT.md`;
-9. `works/thiruvalar-desiyampillai/STRUCTURAL_SCENE_INVENTORY.md`;
-10. `works/thiruvalar-desiyampillai/ASSEMBLY_REVIEW.md`;
-11. `works/thiruvalar-desiyampillai/TRANSLATION_PLAN.md`;
-12. `works/thiruvalar-desiyampillai/translations/en/README.md`;
-13. the Tamil SRU(s) for the current translation batch;
-14. controlling PDF/page records only if a genuine source adjudication is required.
+5. `works/thiruvalar-desiyampillai/PAGE_LAYER_COMPLETION_AUDIT.md`;
+6. `works/thiruvalar-desiyampillai/STRUCTURAL_SCENE_INVENTORY.md`;
+7. `works/thiruvalar-desiyampillai/ASSEMBLY_REVIEW.md`;
+8. `works/thiruvalar-desiyampillai/TRANSLATION_PLAN.md`;
+9. `works/thiruvalar-desiyampillai/translations/en/README.md`;
+10. completed batch review(s), currently `translations/en/BATCH_01_REVIEW.md`;
+11. the complete reviewed Tamil SRU for the current translation batch;
+12. page records / controlling PDF only when a genuine source adjudication is required.
 
-The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is mandatory methodology, not a lexical first-pass witness.
+The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` remains mandatory methodology for the closed Tamil source layer, not a lexical English witness.
 
 ## Source identity
 
@@ -38,69 +36,49 @@ Controlling PDF: `TVA_BOK_0064118_திருவாளர்_தேசீயம
 - physical scans: **49**;
 - source-visible second edition: **நவம்பர் 1965**;
 - publisher: **K. R. நாராயணன்**;
-- scans 1–6 front matter; scans 7–48 dramatic work; scans 8–48 visibly carry printed pp.6–46; scan 49 back-cover advertisement.
+- scans 1–6 front matter; scans 7–48 dramatic work; scan 49 back-cover advertisement.
 
-## Historical-glyph verification — COMPLETE
+## Tamil archival layer — CLOSED FOR CURRENT SOURCE EVIDENCE
 
-Every scan received the full 13-family check:
+Page/source state:
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-
-Positive same-edition families:
-
-`லை / ளை / ணா / ணை / னா / னை / றா`.
-
-Authoritative corrections that must not be reverted:
-
-- scan 15 `என்றுரே` → **`என்றாரே`**;
-- scan 15 `தானு` → **`தானா`**;
-- scan 20 `நன்றுக` → **`நன்றாக`**;
-- scan 21 `மகனு` → **`மகனா`**;
-- scan 28 `மால்தானே` → **`மாலைதானே`**;
-- scan 42 → **`பொறாமை`**;
-- scan 44 → **`ஆலை முதலாளி`**.
-
-Final enlarged source rechecks preserve exact source forms on scans 46–48, including scan-46 `நம்ப`, scan-46 `தேசீயம் பிள்ளை`, scan-47 `தேசீயம்பிள்ளை / தேசீயம் பிள்ளையின் / போட்டகோலம்`, and scan-48 physical `மலை / யேறும்`.
-
-## Page-layer state — COMPLETE / COVERAGE PASS
-
-- scans/page records: **49 / 49**;
-- canonical source processing: **49 / 49**;
+- source processing: **49 / 49**;
 - historical-glyph passes: **49 / 49**;
-- visually verified pages: **40 / 49** (`2, 6, 10–34, 37–49`);
+- visually verified pages: **40 / 49**;
 - `needs-review`: **9 / 49** (`1, 3, 4, 5, 7, 8, 9, 35, 36`);
-- unprocessed: **0**;
-- unresolved visual/source clusters: **3** (scan 35: 1; scan 36: 2).
+- unresolved visual/source clusters: **3**.
 
-Durable completion audit: `works/thiruvalar-desiyampillai/PAGE_LAYER_COMPLETION_AUDIT.md`.
+Authoritative glyph/source decisions that must not be reverted include:
 
-Audit verdict: **coverage PASS, not 49/49 verified**.
+- scan 15 `என்றுரே / தானு` → `என்றாரே / தானா`;
+- scan 20 `நன்றுக` → `நன்றாக`;
+- scan 21 `மகனு` → `மகனா`;
+- scan 28 `மால்தானே` → `மாலைதானே`;
+- scan 42 `பொறாமை`;
+- scan 44 `ஆலை முதலாளி`;
+- scan 46 colloquial `நம்ப`;
+- scan 47 `போட்டகோலம்`;
+- scan 48 physical `மலை / யேறும்` → assembled `மலையேறும்`.
 
 Review holds remain authoritative:
 
 - front matter `1, 3, 4, 5` — physical loss/abrasion;
-- body `7, 8, 9` — physical paper-loss gaps;
-- scan `35` — one unresolved cluster in `கொம்பு மாடெனக் … மட்டும்`;
-- scan `36` — two unresolved descriptive clusters in the `ஹரிஜன நலம்` / `சவலைப் பிள்ளை` passage.
+- body `7, 8, 9` — physical `[paper loss]` gaps;
+- scan `35` — one `[unresolved glyph cluster]`;
+- scan `36` — two `[unresolved descriptive cluster]` markers.
 
-Do not fill these from context, OCR, another edition or lexical expectation.
+Do not fill these from context, OCR, another edition, English translation, or lexical expectation.
 
-## Structural / scene inventory — COMPLETE / PASS
+## Structural / Tamil assembly state — COMPLETE / PASS
 
-Durable inventory: `works/thiruvalar-desiyampillai/STRUCTURAL_SCENE_INVENTORY.md`.
+`STRUCTURAL_SCENE_INVENTORY.md`: **PASS / REVIEWED**.
 
-- dramatic scans inventoried: **42 / 42** (`7–48`);
-- source-visible `காட்சி`, numbered scenes or acts: **0**;
+- source-visible numbered scenes/acts: **0**;
 - editorial SRUs: **7**;
-- shared-page boundaries anchored on scans **15, 20, 28, 40**;
-- scan-47 centered `உதயசூரியன் கோலம்`: internal descriptive/intertitle inside SRU-07;
-- scan-48 close: no printed `முற்றும்`.
+- scan-47 `உதயசூரியன் கோலம்`: internal descriptive/intertitle, not a source scene title;
+- scan 48: no source `முற்றும்`.
 
-The SRU labels are repository/editorial identifiers only, not source scene numbers.
-
-## Tamil source-representation assembly — COMPLETE / REVIEWED / PASS
-
-Durable review: `works/thiruvalar-desiyampillai/ASSEMBLY_REVIEW.md`.
+`ASSEMBLY_REVIEW.md`: **PASS / REVIEWED**.
 
 Seven Tamil SRUs are complete:
 
@@ -112,65 +90,71 @@ Seven Tamil SRUs are complete:
 6. `scenes/sru-06-domestic-election-argument.md`
 7. `scenes/sru-07-udayasuriyan-kolam-close.md`
 
-Review-hold propagation:
+The Tamil layer must not be changed because of English translation choices.
 
-- **SRU-01:** `assembled_from_verified_pages: false`; all seven scan 7–9 `[paper loss]` markers retained.
-- **SRU-04:** `assembled_from_verified_pages: false`; scan-35 `[unresolved glyph cluster]` and both scan-36 `[unresolved descriptive cluster]` markers retained; apparent `கொழுப்பேறி` remains non-canonical.
-- **SRU-02 / 03 / 05 / 06 / 07:** verified-source assembly.
+## English translation — AUTHORIZED / IN PROGRESS
 
-The Tamil archival layer is **assembly-complete / reviewed for current source evidence** and must not be changed by translation choices.
-
-## English translation plan — READY / REVIEWED
-
-Durable plan: `works/thiruvalar-desiyampillai/TRANSLATION_PLAN.md`.
+Translation plan: `works/thiruvalar-desiyampillai/TRANSLATION_PLAN.md`.
 
 Tracker: `works/thiruvalar-desiyampillai/translations/en/README.md`.
 
-**Translation body is NOT YET AUTHORIZED / NOT STARTED.**
+Immediate drafting authority: **reviewed Tamil SRUs only**. Do not draft from OCR, PDF text, another edition, web text, general knowledge, or a secondary English witness.
 
-Plan controls:
+Expected English artifacts: **7** across four batches.
 
-- immediate drafting authority: reviewed Tamil `scenes/sru-*.md` only;
-- no OCR/PDF/another edition/web/general-knowledge/secondary-English drafting;
-- expected English artifacts: **7**, with filenames mirroring the Tamil SRUs;
-- source has no numbered scenes/acts; English must not invent them;
-- SRU-01 must preserve all **7** exact `[paper loss]` markers;
-- SRU-04 must preserve **1** exact `[unresolved glyph cluster]` and **2** exact `[unresolved descriptive cluster]` markers;
-- no missing wording may be inferred around those markers;
-- preserve speaker-label variation, narrative prose, stage directions, repetitions, satire, political rhetoric, colloquial register, proper names and supported ambiguity;
-- scan-47 `உதயசூரியன் கோலம்` remains an internal descriptive/intertitle in the final English SRU;
-- scan 48 has no source `முற்றும்`; do not add `The End` or equivalent;
-- all first-pass English artifacts must use `secondary_english_witness_used: false`;
-- each artifact requires complete Tamil→English fidelity review before `translation_review: passed`;
-- each batch requires a durable `BATCH_0N_REVIEW.md`;
-- final closure requires `translations/en/TRANSLATION_REVIEW.md`.
+### Batch 01 — PASS / LOCKED
 
-Proposed batches:
+Durable review: `works/thiruvalar-desiyampillai/translations/en/BATCH_01_REVIEW.md`.
 
-1. **Batch 1:** SRU-01 + SRU-02
-2. **Batch 2:** SRU-03
-3. **Batch 3:** SRU-04
-4. **Batch 4:** SRU-05 + SRU-06 + SRU-07
+Completed and fully reviewed:
+
+- `translations/en/sru-01-yama-court.md`;
+- `translations/en/sru-02-guesthouse.md`.
+
+Batch 01 controls:
+
+- SRU-01 `[paper loss]` markers preserved: **7 / 7**;
+- source speaker-label variation kept traceable;
+- no source scene/act numbering invented;
+- no secondary-English witness used;
+- Tamil archival files modified by translation: **0**;
+- blocking translation issues: **0**.
+
+Important Batch-01 source-sensitive English decisions include:
+
+- `Thiruvalar` retained as title/honorific;
+- `Desiyam Pillai` / `Desiyampillai` source-form distinction kept traceable;
+- `OneRepresentative:` versus `One Representative:` preserves source label spacing variation;
+- *padai* / *bhasha*, `kedu`, `darshan`, `Udhagai Mandalam`, *Oppari*, *kollisatti*, Vadivazhagi-Vaikkarisi retained where smoothing would erase source register/wordplay;
+- Kallakudi / Thoothukudi / Salem / Valparai beverage sequence kept as source wordplay rather than expanded from outside history.
 
 Current English metrics:
 
 - expected artifacts: **7**;
-- present: **0 / 7**;
-- reviewed: **0 / 7**;
-- completed batches: **0 / 4**;
+- present: **2 / 7**;
+- reviewed: **2 / 7**;
+- completed batches: **1 / 4**;
 - secondary-English witness use: **0**;
-- Tamil archival layer modified by translation: **no**.
+- final `TRANSLATION_REVIEW.md`: **not started**.
 
-## Exact next activity — requires explicit authorization
+## Exact next activity — English Translation Batch 02
 
-Do not create English SRU body files until the user explicitly authorizes translation.
+Process only:
 
-After authorization, process **English Translation Batch 1**:
+`scenes/sru-03-eman-interview.md` → `translations/en/sru-03-eman-interview.md`
 
-- `scenes/sru-01-yama-court.md` → `translations/en/sru-01-yama-court.md`
-- `scenes/sru-02-guesthouse.md` → `translations/en/sru-02-guesthouse.md`
+Requirements:
 
-Translate only from the complete reviewed Tamil SRUs, perform full Tamil→English fidelity review for both, preserve all seven SRU-01 `[paper loss]` markers, and create `translations/en/BATCH_01_REVIEW.md` before calling the batch PASS / LOCKED.
+1. read the complete reviewed Tamil SRU;
+2. draft English only from that SRU;
+3. preserve speaker-label variation, tax/political satire, repetitions, wordplay, colloquial/source-period forms and structural order;
+4. do not use a secondary English witness;
+5. compare the complete English artifact back to the complete Tamil SRU;
+6. set `translation_review: "passed"` only after full fidelity review;
+7. create `translations/en/BATCH_02_REVIEW.md`;
+8. update translation tracker / plan / handover only after Batch 02 passes.
+
+Do not begin Batch 03 in the same step unless separately instructed after Batch 02 closure.
 
 # CLOSED WORK SAFEGUARDS
 
