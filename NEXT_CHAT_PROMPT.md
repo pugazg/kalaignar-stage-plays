@@ -40,16 +40,17 @@ Every scan must check:
 
 Current same-edition references:
 
-- `லை` from `கலைஞர்`, `தலையை`, `தலைமை`, `தலைகள்`, `தலைகுனிந்தவாறு`;
-- `ளை` from `பிள்ளை`, `உங்களை`, `காளைமாட்டு`, `விளையும்`, `கண்களை`;
-- `ணா` from `கருணாநிதி`, `கல்யாண`, `ராணுவத்`, `ஆகாஷவாணி`;
+- `லை` from `கலைஞர் / தலைகள் / மாலைதானே`;
+- `ளை` from `பிள்ளை / உங்களை / விளையும்`;
+- `ணா` from `கருணாநிதி / கல்யாண / ஆகாஷவாணி`;
 - `ணை` from scan-25 `சொரணை`;
-- `னை` from `அவனை`, `தண்டனை`;
-- `றா` from scan-11 `வண்ணமிருக்கிறார்களே`, reinforced by `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார் / பூசினாற்`; scan-20 apparent `நன்றுக` is canonically `நன்றாக` after glyph recheck.
+- `னா` from scans 26–27 `கெட்டிக்காரர்தானா / உடையவர்தானா / மானால்`, reinforced by scan-15 `தானா` and scan-21 `மகனா`;
+- `னை` from `அவனை / தண்டனை`;
+- `றா` from `வண்ணமிருக்கிறார்களே / பார்க்கிறார் / நன்றாக / என்றாரே`.
 
 Use them only for character-identity comparison. Never use them or context to reconstruct physical paper loss or regularize source wording.
 
-## Completed scans 1–25
+## Completed scans 1–30
 
 Batch 1:
 - `0001.md` — `needs-review`
@@ -70,27 +71,39 @@ Batch 3 — **all verified**:
 
 Batch 4 — **all verified**:
 - `0016.md` through `0020.md` / printed pp.14–18.
-- Important correction: scan 20's apparent old-type `நன்றுக` was rechecked under the mandatory glyph guide and canonically decoded as **`நன்றாக`** (`றா` identity). Do not restore the superseded apparent-shape reading.
+- Scan 20 apparent old-type `நன்றுக` is canonically **`நன்றாக`** (`றா`).
 
 Batch 5 — **all verified**:
-- `0021.md` / printed p.19 — interview continuation; `ஹியூம்`, source `மகனு`, and `கீரிப்பிள்ளை / தென்னம்பிள்ளை / அணில்பிள்ளை` wordplay retained;
-- `0022.md` / printed p.20 — source `செத்துவிட்டமா`; final `இந்த` physically continues to scan 23;
-- `0023.md` / printed p.21 — tax dialogue; physical splits `பூர் / வோத்திரத்தையும்`, `இந் / நாட்டு`, `சொல் / லும்` retained;
-- `0024.md` / printed p.22 — final `பூலோ` remains open to scan 25;
-- `0025.md` / printed p.23 — continuation/election/tax dialogue; source `பெறுதவர்களா?` retained; historical `ணை` established from `சொரணை`; physical `வரி / களை` retained.
+- `0021.md` through `0025.md` / printed pp.19–23.
+- `ணை` established from scan-25 `சொரணை`.
+
+Batch 6 — **all verified**:
+- `0026.md` / p.24 — repeated `னா` established in `கெட்டிக்காரர்தானா / உடையவர்தானா`; final `ஆளைப் பார்த்தே` continues to scan 27;
+- `0027.md` / p.25 — opening decoded as `மானால்`; scan26→27 boundary retained;
+- `0028.md` / p.26 — apparent `மால்தானே` decoded as `மாலைதானே`; Gandhi-request/travel passage verified;
+- `0029.md` / p.27 — flower-shop/spirit narrative and physical word splits verified;
+- `0030.md` / p.28 — Nandan entrance/embrace/fainting passage verified.
+
+Authoritative backward glyph corrections triggered by Batch 6:
+
+- scan 15 `என்றுரே` → **`என்றாரே`** (`றா`);
+- scan 15 `தானு` → **`தானா`** (`னா`);
+- scan 21 `மகனு` → **`மகனா`** (`னா`).
+
+Do not restore superseded apparent-shape readings.
 
 Current metrics:
 
-- canonical page transcriptions processed: **25 / 49**;
-- visually verified: **18 / 49**;
+- canonical page transcriptions processed: **30 / 49**;
+- visually verified: **23 / 49** (`2, 6, 10–30`);
 - `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
-- historical-glyph passes: **25 / 49**;
-- unprocessed: **24 / 49**;
+- historical-glyph passes: **30 / 49**;
+- unprocessed: **19 / 49**;
 - English translation: **not authorized / not started**.
 
-## Exact next activity — scans 26–30
+## Exact next activity — scans 31–35
 
-Process scans **26, 27, 28, 29, 30** in order. These visibly correspond to printed pages **24–28**.
+Process scans **31, 32, 33, 34, 35** in order. These visibly correspond to printed pages **29–33**.
 
 For each page:
 
