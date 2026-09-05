@@ -34,7 +34,7 @@ OneRepresentative: Point of order! Mr. Speaker! The work of taking lives belongs
 
 Everyone looks toward the Speaker's seat. Chitraputhiran announces that the Speaker will be late to the assembly that day, and the point of order is dropped. Yama's inquiry resumes.
 
-Yama: If anyone interrupts while I am speaking, I will give all of you life again and bring back feelings such as hunger, disease, hardship, and sorrow. I have been protecting all of you who have settled in Yamaloka by not driving you back again to the earthly world to suffer there. Shouldn't you at least obey me in return for that protection?
+Yama: If anyone interrupts while I am speaking, I will give all of you life again and bring back feelings such as hunger, disease, hardship, and sorrow. I have been protecting all of you who have settled in Yamaloka, keeping you from having to suffer again in the earthly world. Shouldn't you at least obey me in return for that protection?
 
 A Voice: Isn't being made to submit in this way dictatorship? Where is democra[paper loss] Where is democracy?
 
@@ -82,15 +82,15 @@ Desiyam Pillai: Oh-ho, so there is democratic rule here too?
 
 Yama: Almost exactly like your country.
 
-In your country the Speaker has to arrive at the appointed time. In our realm he may come even if he comes—or it does not matter if he does not. Apart from that, it is all the same kind of democracy! There is only one thing we have not learned from you: “tax.” That alone!
+In your country the Speaker has to arrive at the appointed time. In our realm, he may come if he likes—or if he does not, it does not matter. Apart from that, it is all the same kind of democracy! There is only one thing we have not learned from you: “tax.” That alone!
 
 Desiyam Pillai: I shall explain that tomorrow too.
 
 Yama: Glad to hear it! Guards! Arrest this living creature and place him under protection in our Pleasure Pavilion!
 
-Desiyam Pillai: Pleasure Pavilion? Then is it Udhagamandalam?
+Desiyam Pillai: Pleasure Pavilion? Then is it Udhagai Mandalam?
 
-Yama: Almost the same! In your Udhagamandalam a cold breeze blows! Here a fragrant corpse-breeze blows! Experience it and see! You will understand the difference between the two—hey! Take him away! I will see you tomorrow!
+Yama: Almost the same! In your Udhagai Mandalam a cold breeze blows! Here a fragrant corpse-breeze blows! Experience it and see! You will understand the difference between the two—hey! Take him away! I will see you tomorrow!
 
 (Desiyam Pillai is taken away. The Speaker arrives. The assembly is adjourned until the next morning.)
 
@@ -102,4 +102,4 @@ Yama: Almost the same! In your Udhagamandalam a cold breeze blows! Here a fragra
 - Underworld/funerary names and wordplay such as *Oppari*, *kollisatti*, and Vadivazhagi-Vaikkarisi are transliterated rather than silently replaced with explanatory prose.
 - The source explicitly glosses *padai* through *bhasha*; both terms are retained so the source's wordplay remains traceable.
 - `kedu` and `darshan` are retained where a single smooth English substitute would erase the source's register or joke.
-- `Udhagamandalam` is retained in the Pleasure Pavilion exchange because the source's sound/wordplay depends on the Tamil place-name form.
+- `Udhagai Mandalam` is retained in the Pleasure Pavilion exchange because the source's sound/wordplay depends on the Tamil place-name form.
