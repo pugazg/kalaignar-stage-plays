@@ -4,7 +4,7 @@ Archive slug: `thiruvalar-desiyampillai`.
 
 ## Current status
 
-**ONBOARDED — SOURCE REGISTERED / 49 SCANS. TAMIL TRANSCRIPTION 0 / 49. HISTORICAL-GLYPH VERIFICATION 0 / 49.**
+**PAGE LAYER IN PROGRESS — 5 / 49 TRANSCRIBED; 1 / 49 VERIFIED; 4 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 5 / 49.**
 
 Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீயம்பிள்ளை.pdf`.
 
@@ -28,64 +28,54 @@ This description is catalog context, not a substitute for source transcription.
 
 ## Source-visible intake
 
-Direct visual intake of the supplied scan establishes:
-
-- scan 1: colour front cover with the work title and author presentation;
-- scan 2: a pasted donor/gift slip (`பேராசிரியர். தி.வ. மெய்க்கண்டார் அவர்களின் அன்பளிப்பு`) — treat as later/library evidence, not authorial text;
-- scan 3: title page; publisher line `K. R. நாராயணன்`, address `131, பிராட்வே சென்னை—1.`; handwriting and physical loss are visible;
-- scan 4: **`இரண்டாம் பதிப்பு`**, **`நவம்பர் 1965`**; printer/imprint line `முத்தமிழ்ச் செல்வி அச்சகம், 1/65, பிராட்வே.`; central paper loss obscures some printed matter;
-- scans 5–6: publisher note headed `வணக்கம்.` and closing with `K. R. நாராயணன்`;
+- scan 1: colour front cover with title / author presentation;
+- scan 2: pasted donor/gift slip, directly verified as `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின் / அன்பளிப்பு`; this is later/library evidence, not authorial text;
+- scan 3: title page; publisher `K. R. நாராயணன்`, address `131, பிராட்வே சென்னை—1.`; author line is partly destroyed by paper loss;
+- scan 4: `இரண்டாம் பதிப்பு`, `நவம்பர் 1965`, printer/imprint `முத்தமிழ்ச் செல்வி அச்சகம், 1/65, பிராட்வே.`; central price/matter is physically damaged;
+- scans 5–6: publisher note headed `வணக்கம்.`;
 - scan 7: work title / dramatic body begins;
 - scans 8–48: body pages visibly numbered **6–46**;
 - scan 48: body closes on printed page 46;
 - scan 49: back-cover advertisement for `க. முத்துக்கண்ணன் எழுதிய “அல்லி விழி” (கவிதை)`, price `1-50`, prepared by `K. R. நாராயணன்`.
 
-No price for this play is recorded at intake because the relevant front-matter area is physically damaged/obscured.
-
-## Scan condition
-
-This source requires conservative source-pixel work:
-
-- image-only PDF; no reliable parsed Tamil text layer;
-- substantial paper loss / abrasion, especially in front matter;
-- stains, purple/blue ink marks and handwriting on several scans;
-- uneven print density and worn type;
-- historical Tamil typeforms are present/risk-bearing and must be checked at enlarged/native resolution;
-- non-authorial donor/library evidence must remain separate from printed literary text.
+No price for this play is supplied from scan 4 because the relevant line is physically lost; only the surviving `காசு` fragment is recorded.
 
 ## Historical Tamil glyph verification
 
-The user supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` specifically for this verification. It is a **methodological verification guide, not a lexical/first-pass transcription witness**.
+The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is mandatory methodology, not a lexical witness. Durable implementation: `HISTORICAL_GLYPH_AUDIT.md`.
 
-The durable work-level implementation is `HISTORICAL_GLYPH_AUDIT.md`.
-
-Every scan must be checked for the full known reform-sensitive set:
+Every scan checks:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Rules:
+Batch-1 same-edition reference forms are now established from the source itself:
 
-- read character identity, not modern visual resemblance;
-- source pixels are controlling authority;
-- decode proven historical glyph identity into normal modern Unicode;
-- preserve source spelling, grammar, vocabulary, punctuation and spacing otherwise;
-- compare same-edition forms when uncertain;
-- never use global replacement;
-- unresolved forms remain `needs-review` rather than guessed.
+- `லை` from `கலைஞர்`;
+- `ளை` from `பிள்ளை`;
+- `ணா` from `கருணாநிதி`.
 
-## Witness / transcription rule
+These references support later character-identity comparison only. They never authorize filling text lost behind paper damage.
 
-There is **no user-supplied lexical first-pass MD for this play at intake**. Therefore canonical transcription must be made directly from the scan images. The attached historical-glyph guide may guide character identification but may not supply missing words.
+## Batch 1 — scans 1–5
 
-## Work extent / page records
+Processed: **5 / 5**.
 
-- scans **1–6**: front matter;
-- scans **7–48**: play/body;
-- scan **49**: back-cover advertisement;
-- page placeholders: `pages/0001.md`–`pages/0049.md` — **49 / 49 created**;
-- canonical transcription: **0 / 49**;
-- visual verification: **0 / 49**;
-- historical-glyph audit: **0 / 49**;
+- scan 1 — `needs-review`: principal cover text complete; damaged tiny printed illustrator signature unresolved;
+- scan 2 — `verified`: donor/library slip fully recorded and separated from publication text;
+- scan 3 — `needs-review`: title/publisher/address survive, but author line is physically incomplete;
+- scan 4 — `needs-review`: edition/date/imprint survive, but central price/matter is lost;
+- scan 5 — `needs-review`: visible publisher-note text recorded; multiple physical losses remain unresolved.
+
+Historical-glyph pass: **5 / 5 COMPLETE**. No historical-glyph reading was guessed from expected modern Tamil.
+
+## Work progress
+
+- page placeholders: **49 / 49 created**;
+- canonical transcription processed: **5 / 49**;
+- visually verified: **1 / 49**;
+- `needs-review`: **4 / 49**;
+- historical-glyph passes: **5 / 49**;
+- unprocessed: **44 / 49**;
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
@@ -93,11 +83,4 @@ Do not infer scene numbering or other structural divisions from dramatic context
 
 ## Exact next activity
 
-Process **scans 1–5** source-first:
-
-1. transcribe all source-visible printed text and separately document handwriting/library/damage evidence;
-2. inspect each full scan at enlarged/native resolution;
-3. run the mandatory 13-family historical-glyph check;
-4. do not silently reconstruct text lost to physical damage;
-5. use `needs-review` wherever the source pixels do not positively support a reading;
-6. update `indexes/page-map.md` and `HISTORICAL_GLYPH_AUDIT.md` after the batch.
+Process **scans 6–10** source-first. Scan 6 continues the damaged publisher note; scan 7 begins the work body; scans 8–10 are printed pages 6–8. Apply the full historical-glyph pass and keep physical damage, handwriting and page/scene structure source-controlled.

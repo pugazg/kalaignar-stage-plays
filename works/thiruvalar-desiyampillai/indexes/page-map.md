@@ -2,15 +2,15 @@
 
 Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீயம்பிள்ளை.pdf`.
 
-All **49 physical scans** are registered at intake. No page has been called verified.
+All **49 physical scans** are registered. Page production has begun source-first; historical-glyph completion is tracked independently from whether physical damage permits a page to be called `verified`.
 
-| Scan | Printed page | Section | Page type | Status | Intake note |
+| Scan | Printed page | Section | Page type | Status | Intake / verification note |
 |---:|---:|---|---|---|---|
-| 1 | — | front matter | front cover | not-started | Colour cover; title/authorial cover text visible; transcription pending. |
-| 2 | — | front matter | donation/library slip | not-started | Pasted donor/gift slip; non-authorial/library evidence; transcription pending. |
-| 3 | — | front matter | title page | not-started | Printed title/author/publisher/address; handwriting and paper loss present. |
-| 4 | — | front matter | edition / imprint | not-started | Second-edition statement and November 1965 visible; central paper loss obscures some matter. |
-| 5 | — | front matter | publisher note | not-started | `வணக்கம்.` note begins; heavy paper loss affects text. |
+| 1 | — | front matter | front cover | needs-review | Principal cover text transcribed; `லை / ணா / ளை` identities checked; small printed lower-left artist signature remains damaged/unresolved. |
+| 2 | — | front matter | donation/library slip | verified | Pasted donor slip verified as `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின் / அன்பளிப்பு`; kept separate from authorial text. |
+| 3 | — | front matter | title page | needs-review | Title/publisher/address transcribed; author line survives only as `மு. கருண[paper loss]`; handwriting kept separate. |
+| 4 | — | front matter | edition / imprint | needs-review | `இரண்டாம் பதிப்பு`, `நவம்பர் 1965`, imprint verified; central price/matter line physically lost except surviving `காசு`. |
+| 5 | — | front matter | publisher note | needs-review | Visible `வணக்கம்.` note fragments transcribed; large physical losses deliberately not reconstructed; note continues to scan 6. |
 | 6 | — | front matter | publisher note | not-started | Publisher note closes with `K. R. நாராயணன்`; paper loss at lower left. |
 | 7 | — | body | work opener / dramatic text | not-started | Work title and dramatic body begin; next scan is visibly printed p.6. |
 | 8 | 6 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
@@ -56,16 +56,18 @@ All **49 physical scans** are registered at intake. No page has been called veri
 | 48 | 46 | body | dramatic text / close | not-started | Final body page; ink marks/paper wear present; transcription pending. |
 | 49 | — | back matter | back-cover advertisement | not-started | Advertisement for `அல்லி விழி`; extensive source wear/paper loss. |
 
-## Intake checkpoint
+## Current checkpoint
 
 - scans registered: **49 / 49**;
 - page placeholders: **49 / 49**;
-- canonical page transcriptions: **0 / 49**;
-- visually verified page records: **0 / 49**;
-- historical-glyph audit completed: **0 / 49**;
+- canonical page transcriptions processed: **5 / 49**;
+- visually verified page records: **1 / 49**;
+- `needs-review`: **4 / 49**;
+- historical-glyph passes complete: **5 / 49**;
+- unprocessed page records: **44 / 49**;
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
 Printed-page policy: scans **8–48** visibly carry printed pages **6–46**. Scan 7 is the body opener immediately before printed p.6, but its own numeral is not safely visible at intake, so no printed page number is inferred.
 
-Exact next activity: transcribe and visually verify **scans 1–5**, including the mandatory historical-glyph check defined in `../HISTORICAL_GLYPH_AUDIT.md`.
+Exact next activity: transcribe and historically verify **scans 6–10**. Keep scan 6 as publisher-note continuation, record only source-visible structure on scan 7, and do not infer any scene number or repair damaged text from context.
