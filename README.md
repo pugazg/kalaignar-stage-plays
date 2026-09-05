@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil 30/49 processed; 23 verified; 7 needs-review; historical-glyph pass 30/49** |
+| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil 35/49 processed; 27 verified; 8 needs-review; historical-glyph pass 35/49** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archive/assembly PASS; independent English PASS; 2009 One Act Plays witness N/A** |
@@ -22,7 +22,6 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீயம்பிள்ளை.pdf`.
 
 - SHA-256: `b336bbebb326803badecbaa93de4ca4d63d80f68137fe70673b07a884c4910eb`;
-- file size: **58,035,177 bytes**;
 - physical scans: **49**;
 - source-visible edition: **இரண்டாம் பதிப்பு — நவம்பர் 1965**;
 - publisher: **K. R. நாராயணன்**;
@@ -30,21 +29,20 @@ Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீய
 - scans 7–48: dramatic work;
 - scans 8–48 visibly carry printed pages **6–46**;
 - scan 49: back-cover advertisement;
-- page placeholders: **49 / 49**;
-- Tamil page records processed: **30 / 49**;
-- visually verified: **23 / 49**;
-- `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
-- historical-glyph passes: **30 / 49**;
+- Tamil page records processed: **35 / 49**;
+- visually verified: **27 / 49** (`2, 6, 10–34`);
+- `needs-review`: **8 / 49** (`1, 3, 4, 5, 7, 8, 9, 35`);
+- historical-glyph passes: **35 / 49**;
 - structural/scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
-The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is a methodological glyph-decoding guide, not a lexical transcription witness. Same-edition reference identities now include `லை`, `ளை`, `ணா`, `ணை`, `னா`, `னை`, and `றா`.
+The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is a methodological glyph-decoding guide, not a lexical transcription witness. Positive same-edition reference families now include `லை`, `ளை`, `ணா`, `ணை`, `னா`, `னை`, and `றா`.
 
-Scans **26–30 / printed pages 24–28** are fully verified. Batch-6 historical-glyph work established `னா` from repeated same-edition evidence (`கெட்டிக்காரர்தானா / உடையவர்தானா / மானால்`) and triggered source-pixel-backed backward corrections: scan 15 `என்றாரே / தானா`, scan 21 `மகனா`, and scan 28 `மாலைதானே`. These are glyph-identity corrections, not spelling modernization.
+Scans **31–34 / printed pages 29–32** are fully verified. Scan **35 / printed p.33** is otherwise transcribed and glyph-checked but remains `needs-review` because one short cluster in `கொம்பு மாடெனக் … மட்டும்` is not secure enough for canonical adoption. Its apparent reading is not silently guessed. The page-ending `எங்குவேன்` remains physically open to scan 36.
 
-Scan 20 remains canonically **`நன்றாக`** after the earlier old-type `றா` recheck. Physical loss remains controlling: missing characters are never reconstructed from context.
+Authoritative historical-glyph corrections remain `என்றாரே / தானா` (scan 15), `நன்றாக` (scan 20), `மகனா` (scan 21), and `மாலைதானே` (scan 28).
 
-**Exact next activity:** source-first transcription + historical-glyph verification of **scans 31–35** (printed pages **29–33**).
+**Exact next activity:** source-first transcription + historical-glyph verification of **scans 36–40** (printed pages **34–38**), while keeping scan 35's review hold open unless later same-edition evidence resolves it.
 
 ## Closed காகிதப்பூ checkpoint
 
