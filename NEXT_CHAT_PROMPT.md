@@ -17,7 +17,7 @@ Read before any further work:
 5. `works/kagithapoo/SCENE_ASSEMBLY_FINAL_REVIEW.md`
 6. `works/kagithapoo/TRANSLATION_PLAN.md`
 7. `works/kagithapoo/translations/en/README.md`
-8. completed batch review records, currently `works/kagithapoo/translations/en/BATCH_01_REVIEW.md`
+8. completed batch review records: `works/kagithapoo/translations/en/BATCH_01_REVIEW.md` and `BATCH_02_REVIEW.md`
 9. relevant closed Tamil `works/kagithapoo/scenes/*.md` files for the current English batch
 10. `works/kagithapoo/PAGE_LAYER_CONSISTENCY_AUDIT.md` and verified page records only if a source-level question arises
 
@@ -46,7 +46,7 @@ Permanent Tamil safeguards remain locked: verified wording is not silently norma
 
 ## English translation phase
 
-**AUTHORIZED / IN PROGRESS. BATCH 1 COMPLETE — PASS / LOCKED.**
+**AUTHORIZED / IN PROGRESS. BATCHES 1–2 COMPLETE — PASS / LOCKED.**
 
 Translation authority and controls are defined in `works/kagithapoo/TRANSLATION_PLAN.md`.
 
@@ -66,7 +66,7 @@ Permanent translation rules:
 
 Phase tracker: `works/kagithapoo/translations/en/README.md`.
 
-### Completed Batch 1
+### Completed Batches 1–2
 
 The following English artifacts are `translation-reviewed` / `passed`:
 
@@ -75,30 +75,37 @@ The following English artifacts are `translation-reviewed` / `passed`:
 3. `translations/en/06.md`
 4. `translations/en/07.md`
 5. `translations/en/08.md`
+6. `translations/en/09.md`
+7. `translations/en/10.md`
+8. `translations/en/11.md`
+9. `translations/en/12.md`
+10. `translations/en/13.md`
 
-Batch review: `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**.
+Batch reviews:
+
+- `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
+- `translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED**.
 
 Current English status:
 
 - expected artifacts: **23**;
-- present: **5 / 23**;
-- reviewed: **5 / 23**;
-- completed batches: **1 / 5**;
+- present: **10 / 23**;
+- reviewed: **10 / 23**;
+- completed batches: **2 / 5**;
 - unresolved blocking translation issues: **0**;
-- documented source-sensitive carryovers: **1** (`அந்சு ... சொம்பு வீரமாதம்` in Scene 6, retained by transliteration rather than silently repaired);
 - secondary-English contamination: **0**.
 
-Stable Batch-1 terminology and source-sensitive choices are recorded in `translations/en/README.md` and `BATCH_01_REVIEW.md`. Preserve those choices in matching contexts without forcing them onto a later passage where the Tamil clearly carries a different sense.
+Stable terminology and source-sensitive choices are recorded in `translations/en/README.md` and the batch-review records. Preserve those choices in matching contexts without forcing them onto a later passage where the Tamil clearly carries a different sense. Important documented carryovers now include Scene 6 `அந்சு ... சொம்பு வீரமாதம்`, Scene 10 `பூச்ண`, and Scene 12 `அங்கவனும்—பவனும்` / `புள்ள குட்டி`; the anomalous Scene-12 `விந்து` repetition is documented without altering the locked Tamil layer.
 
-## Exact next activity — English Batch 2
+## Exact next activity — English Batch 3
 
 Translate and Tamil→English review these five source-representation artifacts, in order:
 
-1. `works/kagithapoo/scenes/09.md` → `works/kagithapoo/translations/en/09.md`
-2. `works/kagithapoo/scenes/10.md` → `works/kagithapoo/translations/en/10.md`
-3. `works/kagithapoo/scenes/11.md` → `works/kagithapoo/translations/en/11.md`
-4. `works/kagithapoo/scenes/12.md` → `works/kagithapoo/translations/en/12.md`
-5. `works/kagithapoo/scenes/13.md` → `works/kagithapoo/translations/en/13.md`
+1. `works/kagithapoo/scenes/14.md` → `works/kagithapoo/translations/en/14.md`
+2. `works/kagithapoo/scenes/15.md` → `works/kagithapoo/translations/en/15.md`
+3. `works/kagithapoo/scenes/16.md` → `works/kagithapoo/translations/en/16.md`
+4. `works/kagithapoo/scenes/17.md` → `works/kagithapoo/translations/en/17.md`
+5. `works/kagithapoo/scenes/18.md` → `works/kagithapoo/translations/en/18.md`
 
 For each file:
 
@@ -108,6 +115,6 @@ For each file:
 - record only material source-sensitive choices in `## Translation notes`;
 - set `status: "translation-reviewed"` / `translation_review: "passed"` only after the Tamil→English fidelity review passes.
 
-After Batch 2 passes, update `translations/en/README.md`, work README, HANDOVER, this prompt, and add a durable Batch-2 review record.
+After Batch 3 passes, update `translations/en/README.md`, work README, HANDOVER, this prompt, and add a durable Batch-3 review record.
 
 Closed `மணிமகுடம்` and `கலைஞரின் நான்மணி மாலை` remain closed.
