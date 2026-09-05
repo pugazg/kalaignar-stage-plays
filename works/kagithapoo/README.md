@@ -21,7 +21,7 @@ Primary lexical witness:
 - `needs-review`: **0**;
 - unprocessed pages: **0**;
 - scene assembly: **AUTHORIZED / IN PROGRESS**;
-- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, and **Scenes 6–19**;
+- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, and **Scenes 6–21**;
 - English translation: **not started / not authorized**.
 
 ## Durable audits / assembly tracking
@@ -66,6 +66,8 @@ Primary lexical witness:
 - `scenes/17.md` — Scene 17, scans 114–115; Gandhi's speech is joined across the physical page boundary without normalization.
 - `scenes/18.md` — Scene 18, scans 115–116; the page-record speaker-label variation is preserved.
 - `scenes/19.md` — Scene 19, scan 116; complete single-scan scene preserved through `(திரை)`.
+- `scenes/20.md` — Scene 20, scans 117–119; the scan-118→119 sentence continuation is joined mechanically and the scene closes before `காட்சி 21.`.
+- `scenes/21.md` — Scene 21, scans 119–124; `நலத்—` / `திட்ட` is joined as `நலத்திட்ட`, `ஆட்சி—` / `மொழிகளாகட்டும்` as `ஆட்சிமொழிகளாகட்டும்`, and the 123→124 sentence continuation is joined without lexical normalization. Verified unusual wording remains unchanged.
 
 ## Structural safeguards
 
@@ -84,6 +86,6 @@ Primary lexical witness:
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 20** from verified scans **117–119**, then continue with Scene 21 unless the user specifies another batch size.
+Assemble and page-record-check the **unnumbered source `காட்சி,`** from verified scans **124–125**, preserving that heading exactly and assigning no Scene 22/23 number. Then continue with **Scene 24** unless the user specifies another batch size.
 
 Do **not** begin English translation until separately authorized.
