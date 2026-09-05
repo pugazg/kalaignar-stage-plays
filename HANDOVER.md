@@ -71,40 +71,43 @@ Permanent rules:
 
 Same-edition reference forms currently established:
 
-- `லை` — `கலைஞர்`, reinforced by `தலையை` / `தலைமை`;
-- `ளை` — `பிள்ளை`, reinforced by `உங்களை`;
+- `லை` — `கலைஞர்`, reinforced by `தலையை / தலைமை / தலைகள்`;
+- `ளை` — `பிள்ளை`, reinforced by `உங்களை / காளைமாட்டு / விளையும்`;
 - `ணா` — `கருணாநிதி`;
-- `னை` — `அவனை` on scan 8.
+- `னை` — `அவனை / தண்டனை`;
+- `றா` — `வண்ணமிருக்கிறார்களே`, reinforced by `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார்`.
 
-## Current state after scans 1–10
+## Current state after scans 1–15
 
 **PAGE LAYER IN PROGRESS.**
 
 - scans registered: **49 / 49**;
 - page placeholders: **49 / 49**;
-- canonical transcriptions processed: **10 / 49**;
-- visually verified pages: **3 / 49** (`2, 6, 10`);
+- canonical transcriptions processed: **15 / 49**;
+- visually verified pages: **8 / 49** (`2, 6, 10, 11, 12, 13, 14, 15`);
 - `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
-- historical-glyph passes complete: **10 / 49**;
-- unprocessed: **39 / 49**;
+- historical-glyph passes complete: **15 / 49**;
+- unprocessed: **34 / 49**;
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
-### Completed Batch 2 controls
+### Completed Batch 3 controls — scans 11–15
 
-- scan 6: publisher note closes; source line split `வெளியிடுகி / றேன்` preserved; **VERIFIED**;
-- scan 7: work opener; large source paper loss retained as `[paper loss]`; no page/scene number inferred; **NEEDS-REVIEW**;
-- scan 8 / printed p.6: central loss retained unresolved; `னை` reference established from `அவனை`; **NEEDS-REVIEW**;
-- scan 9 / printed p.7: speaker structure retained; lower-right loss cuts the first repeated `எங்கே ஜனநாயக…` line and is not repaired from the repetition below; **NEEDS-REVIEW**;
-- scan 10 / printed p.8: later ink mark crosses text but character identities remain readable; full dialogue/speaker layer **VERIFIED**.
+All five are **VERIFIED**.
 
-The unresolved Batch-2 areas are physical-damage issues, not historical-glyph ambiguities.
+- scan 11 / printed p.9: full economic/death-export debate verified; new same-edition `றா` reference established from `வண்ணமிருக்கிறார்களே`;
+- scan 12 / printed p.10: stage direction and `கதர் உருவம்` / `தேசீயம் பிள்ளை` speaker structure preserved; final utterance remains open into scan 13;
+- scan 13 / printed p.11: physical continuation retained without inventing a speaker label; `அய்யன்மீர்`, `ஓகோ`, `படுபாதாளச் சிறையில்` remain source-faithful;
+- scan 14 / printed p.12: `இரண்டுக்கு முள்ள` retained exactly rather than regularized; final `எமன்:` utterance remains open after source dash;
+- scan 15 / printed p.13: scan-14 continuation, stage direction and `ஸ்ரீ மயானம்` prose verified; historical `லை` in `தலைகள்` decoded; final `அதன்படி` remains open to scan 16.
+
+No scan 11–15 text is damage-limited. Existing `needs-review` pages remain scans `1, 3, 4, 5, 7, 8, 9`.
 
 Do not begin scene assembly or English translation during this page-layer phase.
 
 ## Exact next activity
 
-Process **scans 11–15** source-first, corresponding to printed pages **9–13**.
+Process **scans 16–20** source-first, corresponding to printed pages **14–18**.
 
 For each:
 1. inspect full native/enlarged source pixels;
@@ -113,7 +116,7 @@ For each:
 4. run the full 13-family historical-glyph check;
 5. use same-edition comparison only for glyph identity;
 6. do not infer scene numbering;
-7. do not repair physical loss from context;
+7. do not repair physical loss or unusual source wording from context;
 8. mark `verified` only after the complete visual + glyph gate passes;
 9. synchronize page-map, glyph audit, work README, root README, HANDOVER and NEXT prompt after the batch.
 
