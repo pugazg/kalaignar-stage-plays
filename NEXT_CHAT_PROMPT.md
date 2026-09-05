@@ -40,15 +40,15 @@ Every scan must check:
 
 Current same-edition references:
 
-- `லை` from `கலைஞர்`, `தலையை`, `தலைமை`, `தலைகள்`;
-- `ளை` from `பிள்ளை`, `உங்களை`, `காளைமாட்டு`, `விளையும்`;
-- `ணா` from `கருணாநிதி`;
+- `லை` from `கலைஞர்`, `தலையை`, `தலைமை`, `தலைகள்`, `தலைகுனிந்தவாறு`;
+- `ளை` from `பிள்ளை`, `உங்களை`, `காளைமாட்டு`, `விளையும்`, `கண்களை`;
+- `ணா` from `கருணாநிதி`, `கல்யாண`, `ராணுவத்`, `ஆகாஷவாணி`;
 - `னை` from `அவனை`, `தண்டனை`;
-- `றா` from scan-11 `வண்ணமிருக்கிறார்களே`, reinforced by `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார்`.
+- `றா` from scan-11 `வண்ணமிருக்கிறார்களே`, reinforced by `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார் / பூசினாற்`.
 
 Use them only for character-identity comparison. Never use them or context to reconstruct physical paper loss or regularize source wording.
 
-## Completed scans 1–15
+## Completed scans 1–20
 
 Batch 1:
 - `0001.md` — `needs-review`
@@ -65,24 +65,27 @@ Batch 2:
 - `0010.md` — `verified`
 
 Batch 3 — **all verified**:
-- `0011.md` / printed p.9 — full page verified; `றா` same-edition reference established;
-- `0012.md` / printed p.10 — stage direction and speaker structure verified; final utterance continues to scan 13;
-- `0013.md` / printed p.11 — physical continuation retained without invented speaker label; unusual source forms preserved;
-- `0014.md` / printed p.12 — `இரண்டுக்கு முள்ள` retained; final utterance continues to scan 15;
-- `0015.md` / printed p.13 — `தலைகள்`, `விளையும்`, `ஸ்ரீ மயானம்` verified; final `அதன்படி` continues to scan 16.
+- `0011.md` through `0015.md` / printed pp.9–13.
+
+Batch 4 — **all verified**:
+- `0016.md` / printed p.14 — final physical `வறுமை வய` left open at the scan boundary;
+- `0017.md` / printed p.15 — begins `வில் பொறுக்கப்பட்டவை!`; no silent scan16→17 repair;
+- `0018.md` / printed p.16 — `தூத்துக் குடிச்சாறு` and blood-drink/punishment sequence retained;
+- `0019.md` / printed p.17 — `ஆகாஷவாணி` song/embrace sequence and source physical word splits preserved;
+- `0020.md` / printed p.18 — source `நன்றுக`, `“வரி”` passage and beginning `எமன் :` interview verified; interview continues to scan 21.
 
 Current metrics:
 
-- canonical page transcriptions processed: **15 / 49**;
-- visually verified: **8 / 49**;
-- `needs-review`: **7 / 49**;
-- historical-glyph passes: **15 / 49**;
-- unprocessed: **34 / 49**;
+- canonical page transcriptions processed: **20 / 49**;
+- visually verified: **13 / 49**;
+- `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
+- historical-glyph passes: **20 / 49**;
+- unprocessed: **29 / 49**;
 - English translation: **not authorized / not started**.
 
-## Exact next activity — scans 16–20
+## Exact next activity — scans 21–25
 
-Process scans **16, 17, 18, 19, 20** in order. These visibly carry printed pages **14–18**.
+Process scans **21, 22, 23, 24, 25** in order. These visibly carry printed pages **19–23**.
 
 For each page:
 
@@ -100,4 +103,4 @@ Do not begin scene assembly or English translation yet.
 
 ## Closed-work safeguards
 
-`காகிதப்பூ` remains COMPLETE / CLOSED: Tamil 41/41, source-representation scenes 23/23, English 23/23, final reviews PASS. `மணிமகுடம்` and the closed `கலைஞரின் நான்மணி மாலை` component works remain closed unless explicitly reopened for new evidence or a separately authorized phase.
+`காகிதப்பூ` remains COMPLETE / CLOSED: Tamil 41/41, source-representation scenes 23/23, English 23/23, final reviews PASS. `மணிமகுடம்` and the closed `கலைஞரின் நான்மணி மாலை` component works also remain closed unless explicitly reopened for new evidence or a separately authorized phase.
