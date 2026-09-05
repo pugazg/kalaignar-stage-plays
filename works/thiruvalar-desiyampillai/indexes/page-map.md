@@ -66,11 +66,12 @@ All **49 physical scans** are registered and source-processed. Historical-glyph 
 - unresolved visual/source clusters: **3** (scan 35: 1; scan 36: 2);
 - unprocessed page records: **0 / 49**;
 - page-layer completion audit: `../PAGE_LAYER_COMPLETION_AUDIT.md`;
-- structural / scene inventory: **next**;
+- structural / scene inventory: **COMPLETE / REVIEWED — PASS; 7 editorial SRUs; no source scene numbers** (`../STRUCTURAL_SCENE_INVENTORY.md`);
+- scene assembly: **next**;
 - English translation: **not authorized / not started**.
 
 Printed-page policy: scans **8–48** visibly carry printed pages **6–46**. Scan 7 is the body opener immediately before printed p.6, but its own numeral is not safely visible, so no printed page number is inferred.
 
-The full source pass is complete, but the page layer is **not 49/49 verified** because the nine documented source-condition/review holds remain. Scene/structural work may use only the checked page records and must preserve every `[paper loss]` / unresolved marker rather than reconstructing text.
+The full source pass is complete, but the page layer is **not 49/49 verified** because the nine documented source-condition/review holds remain. Structural inventory confirms **seven editorial source-representation units (SRU-01–SRU-07)** and no source-visible `காட்சி`, act, or scene numbering. The centered scan-47 `உதயசூரியன் கோலம்` is classified as an internal descriptive/intertitle inside SRU-07, not a source scene title.
 
-Exact next activity: perform the **source-visible structural / scene inventory across scans 7–48**, recording only headings and boundaries actually supported by the page records/source. Do not infer scene numbers. Preserve the five body-page review holds (`7, 8, 9, 35, 36`) explicitly in any later assembly.
+Exact next activity: assemble the seven Tamil SRUs defined in `../STRUCTURAL_SCENE_INVENTORY.md` into descriptive `scenes/sru-*.md` files, preserving all `[paper loss]` / unresolved markers in SRU-01 and SRU-04, then perform a full assembly review before any English translation.
