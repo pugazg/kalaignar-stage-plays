@@ -2,13 +2,14 @@
 
 A source-first archival repository for stage plays and dramatic works written by **கலைஞர் மு. கருணாநிதி**.
 
-The controlling authority is the supplied scan. OCR/Gemini is a working comparison layer; old Tamil glyphs must not be silently normalized.
+The controlling authority is the supplied scan. OCR/Gemini may assist discovery or comparison but is never controlling authority. Historical Tamil glyphs must be decoded by character identity rather than visual resemblance, without silently modernizing source wording.
 
 ## Works
 
 | Work | Status |
 |---|---|
-| [காகிதப்பூ](works/kagithapoo/) | **ONBOARDED — Pongal Malar 1967 scans 91–131 registered; Tamil verification 0/41** |
+| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — ONBOARDED; 49 scans registered; Tamil 0/49; historical-glyph audit 0/49** |
+| [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archive/assembly PASS; independent English PASS; 2009 One Act Plays witness N/A** |
 | [அனார்கலி](works/anarkali/) | **Tamil 9/9; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
@@ -16,42 +17,49 @@ The controlling authority is the supplied scan. OCR/Gemini is a working comparis
 | [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil 10/10; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [மணிமகுடம்](works/manimagudam/) | **COMPLETE / CLOSED — Tamil 170/170; scenes 47/47; independent English 47/47; release READY/FINAL** |
 
-## Active work — காகிதப்பூ
+## Active work — திருவாளர் தேசீயம்பிள்ளை
 
-Controlling source: `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`.
+Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீயம்பிள்ளை.pdf`.
 
-- full PDF: **131 physical scans**;
-- selected stage-play range: **91–131 inclusive = 41 scans**;
-- raw source SHA-256: `b0a6499ba072a7346f8c2544a8a61c2363d83a60cad5227482008043cd310ec1`;
-- scan 91: source-visible `காகிதப்பூ` title / staged graphic opener;
-- scan 92: `காட்சி 1` begins;
-- scan 131: `காட்சி 27` closes with `(முற்றும்)` and a cast/participants block follows;
-- page placeholders: `works/kagithapoo/pages/0091.md`–`0131.md`;
-- Tamil verified: **0 / 41**;
-- scene assembly: **not started**;
-- English translation: **not started**.
+- SHA-256: `b336bbebb326803badecbaa93de4ca4d63d80f68137fe70673b07a884c4910eb`;
+- file size: **58,035,177 bytes**;
+- physical scans: **49**;
+- source-visible edition: **இரண்டாம் பதிப்பு — நவம்பர் 1965**;
+- publisher: **K. R. நாராயணன்**;
+- scan 3 address: **131, பிராட்வே சென்னை—1.**;
+- scan 4 printer/imprint: **முத்தமிழ்ச் செல்வி அச்சகம், 1/65, பிராட்வே.**;
+- scans 1–6: front matter;
+- scans 7–48: dramatic work;
+- scans 8–48 visibly carry printed pages **6–46**;
+- scan 49: back-cover advertisement;
+- page placeholders: `works/thiruvalar-desiyampillai/pages/0001.md`–`0049.md` — **49/49 created**;
+- Tamil transcription / verification: **0 / 49**;
+- historical-glyph audit: **0 / 49**;
+- structural/scene inventory: **pending full source pass**;
+- English translation: **not authorized / not started**.
 
-Initial structural intake also found a source-numbering anomaly: after `காட்சி 21`, scan 124 prints an unnumbered `காட்சி,`, while scan 125 later prints `காட்சி 24.`. Do not silently manufacture missing scene numerals.
+The user supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` for verification. For this work it is treated as a **methodological glyph-decoding guide, not a lexical transcription witness**. There is no user-supplied first-pass transcription at intake.
 
-Exact next activity: source-first transcription and verification of **scans 91–100**.
+The work-level implementation is `works/thiruvalar-desiyampillai/HISTORICAL_GLYPH_AUDIT.md`. Every scan must check:
 
-## Closed மணிமகுடம் checkpoint
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-`மணிமகுடம்` is formally closed for the defined source-first Tamil archive + independent-English scope:
+Do not reconstruct text hidden by physical paper loss, do not global-replace old forms, and do not infer scene numbering or modern spelling from context.
 
-- Tamil physical archive: **170 / 170 COMPLETE**;
-- Tamil scene assembly: **47 / 47 PASS**;
-- independent English: **47 / 47 PASS**;
-- release readiness: **READY / FINAL**;
-- project completion: **COMPLETE / CLOSED**.
+**Exact next activity:** source-first transcription + direct visual verification of **scans 1–5**, with the full historical-glyph pass and damage/library-mark separation.
 
-See `works/manimagudam/RELEASE_READINESS.md` and `works/manimagudam/PROJECT_COMPLETION.md`. Do not reopen without new evidence or explicit revision scope.
+## Closed காகிதப்பூ checkpoint
 
-## Closed `கலைஞரின் நான்மணி மாலை` checkpoint
+`காகிதப்பூ` is fully closed for the defined source-first Tamil archive and first source-faithful English translation/review scope:
 
-- Tamil composite coverage: **54/54 PASS / COMPLETE**;
-- independent English: **4/4 COMPLETE**;
-- applicable 2009 witness comparisons: **3/3 COMPLETE**;
-- `பரதாயணம்` 2009 comparison: **NOT APPLICABLE**.
+- Tamil physical page layer: **41 / 41 COMPLETE / PASS**;
+- Tamil source-representation scene layer: **23 / 23 COMPLETE / PASS**;
+- English source-representation layer: **23 / 23 COMPLETE / FINAL PASS**;
+- unresolved blocking translation issues: **0**;
+- secondary-English contamination: **0**.
 
-Do not reopen closed work without explicit direction or new source evidence.
+Do not reopen it merely because an older handoff or prompt contains a pre-closure checkpoint.
+
+## Other closed safeguards
+
+`மணிமகுடம்` remains complete/closed. `கலைஞரின் நான்மணி மாலை` component works remain closed unless explicitly reopened for new source evidence or a separately authorized phase.
