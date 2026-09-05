@@ -13,37 +13,37 @@ Under the current dual-witness rule, `verified` means the page has MD-controlled
 | 91 | — | work opener | title-artwork / staged photograph | verified | Reconciled to MD lexical witness; PDF controls flower-callout/title placement and punctuation. |
 | 92 | — | காட்சி 1 | dramatic text + photograph | verified | MD lexical forms reconciled; PDF order retains `மாணவமணி ராசேந்திரன்` and physical continuation into 93. |
 | 93 | — | காட்சி 1 / காட்சிகள் 2–5 / காட்சி 6 | dramatic text + montage photograph | needs-review | MD lexical reconciliation applied; PDF stage direction contains additional words absent from MD, recorded as a lexical-witness gap. |
-| 94 | — | காட்சி 6 / காட்சி 7 | dramatic text + photograph | verified | Narrow Scene-6 text re-reconciled using MD words (`சீவி`, `புறநானூற்றிலே படித்திருக்கிறோம்`, etc.); PDF controls narrow-column structure. |
+| 94 | — | காட்சி 6 / காட்சி 7 | dramatic text + photograph | verified | Narrow Scene-6 text re-reconciled using MD words; PDF controls narrow-column structure. |
 | 95 | — | காட்சி 7 | dramatic text + photograph | needs-review | MD reconciliation applied; one complete காவேரி paragraph and the opening of the following மரகதம் paragraph are absent from MD. |
-| 96 | — | காட்சி 7 | dramatic text + portrait | verified | MD lexical forms (`மானப்படை`, `மாணவர் உலகம்`, `இந்தி எதிர்ப்பின்`, `எழுதி வைத்துக் கொள்ளச்`) reconciled to PDF layout. |
-| 97 | — | காட்சி 7 | dramatic text + photograph | needs-review | MD reconciliation applied; one PDF-structured parenthetical stage direction has no MD lexical witness. |
-| 98 | — | காட்சி 7 / காட்சி 8 | dramatic text + photograph | needs-review | Dramatic text reconciled to MD; PDF contains a printed personal-name caption not present in MD, recorded as a lexical gap. |
-| 99 | — | காட்சி 8 | dramatic text + photo montage | verified | MD lexical reconciliation complete; missing `கண்:— சர்க்கார்` turn restored at PDF-defined position. |
-| 100 | — | காட்சி 8 | dramatic text + photograph | verified | MD lexical forms reconciled to PDF structure, punctuation and 99/101 scan boundaries. |
-| 101 | — | காட்சி 8 | dramatic text | verified | MD lexical reconciliation complete; PDF three-way `மூவரும்` structure retained while MD call words are assigned in source order. |
-| 102 | — | காட்சி 8 / காட்சி 9 / காட்சி 10 | dramatic text + photograph | verified | Scene 8 closes; all of Scene 9 and its `(திரை)` are reconciled; `காட்சி 10` begins on the same scan and continues into scan 103. MD controls words; PDF controls structure/punctuation. |
-| 103 | — | காட்சி 10 | dramatic text | verified | MD lexical witness reconciled to PDF-controlled two-column structure; காவேரி's long angry response begins and continues physically into scan 104. |
-| 104 | — | காட்சி 10 / காட்சி 11 | dramatic text + photograph | verified | Scene 10 closes and `காட்சி 11` begins; MD lexical words reconciled to PDF-controlled punctuation/layout; Scene 11 continues into scan 105. |
-| 105 | — | காட்சி 11 / காட்சி 12 | dramatic text | verified | Scene 11 closes; `காட்சி: 12.` begins; MD words reconciled to PDF structure; no new lexical gap. |
-| 106 | — | காட்சி 12 | dramatic text + photograph | verified | Scene 12 continuation reconciled; photograph and scan-106/107 mid-word boundary preserved. |
-| 107 | — | காட்சி 12 / காட்சி 13 / காட்சி 14 | dramatic text | verified | Scene 12 closes, Scene 13 is complete, and `காட்சி: 14` begins on the same scan. |
-| 108 | — | காட்சி 14 | dramatic text | verified | Scene 14 continuation reconciled; physical continuation into scan 109 preserved. |
-| 109 | — | காட்சி 14 / காட்சி 15 | dramatic text | verified | Scene 14 closes; `காட்சி 15` begins and continues into scan 110. |
-| 110 | — | காட்சி 15 / காட்சி 16 | dramatic text + photograph | verified | Scene 15 closes; `காட்சி 16` begins; photo/layout and boundary reconciled. |
-| 111 | — | காட்சி 16 | dramatic text | verified | Scene 16 continuation reconciled; sentence continues into scan 112. |
-| 112 | — | காட்சி 16 | dramatic text | verified | Scene 16 interview continuation reconciled; MD garbled tokens retained as lexical witness. |
+| 96 | — | காட்சி 7 | dramatic text + portrait | verified | MD lexical forms reconciled to PDF layout. |
+| 97 | — | காட்சி 7 | dramatic text + photograph | needs-review | One PDF-structured parenthetical stage direction has no MD lexical witness. |
+| 98 | — | காட்சி 7 / காட்சி 8 | dramatic text + photograph | needs-review | Dramatic text reconciled to MD; PDF contains a printed personal-name caption absent from MD. |
+| 99 | — | காட்சி 8 | dramatic text + photo montage | verified | MD lexical reconciliation complete; omitted Kannan turn restored at PDF-defined position. |
+| 100 | — | காட்சி 8 | dramatic text + photograph | verified | MD lexical forms reconciled to PDF structure, punctuation and boundaries. |
+| 101 | — | காட்சி 8 | dramatic text | verified | MD lexical reconciliation complete; PDF three-way speaker structure retained. |
+| 102 | — | காட்சி 8 / காட்சி 9 / காட்சி 10 | dramatic text + photograph | verified | Scene 8 closes; Scene 9 complete; Scene 10 begins. |
+| 103 | — | காட்சி 10 | dramatic text | verified | MD lexical witness reconciled to PDF-controlled two-column structure. |
+| 104 | — | காட்சி 10 / காட்சி 11 | dramatic text + photograph | verified | Scene 10 closes and Scene 11 begins. |
+| 105 | — | காட்சி 11 / காட்சி 12 | dramatic text | verified | Scene 11 closes; `காட்சி: 12.` begins. |
+| 106 | — | காட்சி 12 | dramatic text + photograph | verified | Scene 12 continuation reconciled; photograph and boundary preserved. |
+| 107 | — | காட்சி 12 / காட்சி 13 / காட்சி 14 | dramatic text | verified | Scene 12 closes, Scene 13 complete, Scene 14 begins. |
+| 108 | — | காட்சி 14 | dramatic text | verified | Scene 14 continuation reconciled. |
+| 109 | — | காட்சி 14 / காட்சி 15 | dramatic text | verified | Scene 14 closes; Scene 15 begins. |
+| 110 | — | காட்சி 15 / காட்சி 16 | dramatic text + photograph | verified | Scene 15 closes; Scene 16 begins; photo/layout reconciled. |
+| 111 | — | காட்சி 16 | dramatic text | verified | Scene 16 continuation reconciled. |
+| 112 | — | காட்சி 16 | dramatic text | verified | Scene 16 interview continuation reconciled; MD garbled tokens retained. |
 | 113 | — | காட்சி 16 | dramatic text | verified | Scene 16 continuation reconciled; sentence remains open into scan 114. |
-| 114 | — | காட்சி 16 / காட்சி 17 | dramatic text | verified | Scene 16 closes; `காட்சி 17` begins; Gandhi speech continues into scan 115. |
-| 115 | — | காட்சி 17 / காட்சி 18 | dramatic text | not-started | Scene 17 closes; Scene 18 begins. |
-| 116 | — | காட்சி 18 / காட்சி 19 | dramatic text + photograph | not-started | Scene 18 closes; Scene 19 appears. |
-| 117 | — | காட்சி 20 | dramatic text + photograph | not-started | Source-visible `காட்சி 20` opening. |
-| 118 | — | காட்சி 20 | dramatic text + graphic/photo | not-started | Continuation. |
-| 119 | — | காட்சி 21 | dramatic text | not-started | Source-visible `காட்சி 21` opening. |
-| 120 | — | காட்சி 21 | dramatic text + photograph/graphic | not-started | Continuation; embedded political-text passage requires careful layout reading. |
-| 121 | — | காட்சி 21 | dramatic / embedded-text continuation | not-started | Prose-like embedded passage remains inside the selected sequence; verify reading order visually. |
-| 122 | — | காட்சி 21 | dramatic text | not-started | Continuation. |
-| 123 | — | காட்சி 21 | dramatic text + graphic/photo | not-started | Continuation. |
-| 124 | — | காட்சி 21 / unnumbered `காட்சி,` | dramatic text | not-started | Scene 21 closes; next heading visibly lacks a numeral. Do not invent 22/23. |
+| 114 | — | காட்சி 16 / காட்சி 17 | dramatic text | verified | Scene 16 closes; Scene 17 begins. |
+| 115 | — | காட்சி 17 / காட்சி 18 | dramatic text | verified | Scene 17 closes; Scene 18 begins; MD words reconciled to PDF two-column boundary. |
+| 116 | — | காட்சி 18 / காட்சி 19 | dramatic text + photograph | verified | Scene 18 closes; Scene 19 is complete; staged photograph documented. |
+| 117 | — | காட்சி 20 | dramatic text + photograph | verified | Source-visible `காட்சி 20` opening and first debate block reconciled. |
+| 118 | — | காட்சி 20 | dramatic text + graphic/photo | verified | Scene 20 continuation reconciled; final காவேரி sentence continues physically into 119. |
+| 119 | — | காட்சி 20 / காட்சி 21 | dramatic text | verified | Scene 20 closes; `காட்சி 21.` begins; terminal Tirukkural question preserved. |
+| 120 | — | காட்சி 21 | dramatic text + photograph/graphic | verified | Dialogue transitions into embedded political-text reading; scan boundary splits `நலத்திட்ட`. |
+| 121 | — | காட்சி 21 | dramatic / embedded-text continuation | verified | Embedded political passage reconciled in PDF reading order. |
+| 122 | — | காட்சி 21 | dramatic text | verified | Embedded passage returns to dialogue; language debate continues; page boundary preserved. |
+| 123 | — | காட்சி 21 | dramatic text + graphic/photo | verified | Language debate and Kannan's political change reconciled; statement continues into 124. |
+| 124 | — | காட்சி 21 / unnumbered `காட்சி,` | dramatic text | verified | Scene 21 closes; next heading is preserved exactly as source-visible `காட்சி,` with no numeral; road scene begins. |
 | 125 | — | unnumbered `காட்சி,` / காட்சி 24 | dramatic text | not-started | Unnumbered scene closes; source-visible `காட்சி 24.` begins. |
 | 126 | — | காட்சி 24 | dramatic text + decorative border | not-started | Continuation. |
 | 127 | — | காட்சி 24 | dramatic text + decorative border | not-started | Continuation; small edge damage visible. |
@@ -56,12 +56,12 @@ Under the current dual-witness rule, `verified` means the page has MD-controlled
 
 - selected source pages represented: **41 / 41**;
 - MD lexical reconciliation of scans **91–101: COMPLETE**;
-- dual-witness fully verified pages: **20 / 41** — scans **91, 92, 94, 96, 99–114**;
+- dual-witness fully verified pages: **30 / 41** — scans **91, 92, 94, 96, 99–124**;
 - needs-review because MD lexical witness is incomplete: **4 pages** — scans **93, 95, 97, 98**;
-- scans **102–114** are durably completed under the MD-words / PDF-structure rule;
-- unresolved lexical-witness gaps remain on scans **93, 95, 97, 98**; the user subsequently instructed the workflow to proceed, so forward processing resumed while those gaps remain explicitly tracked;
-- next page-level batch: **115–124**;
+- forward page processing completed through scan **124**;
+- unresolved lexical-witness gaps remain on **93, 95, 97, 98** and were not backfilled from the PDF;
+- next and final page-level batch: **125–131**;
 - scene assembly: **not started / not authorized**;
 - translation: **not started / not authorized**.
 
-The detailed reconciliation record is `MD_LEXICAL_RECONCILIATION_0091_0101.md`. Source-visible scene-numbering anomalies must remain exposed.
+The detailed reconciliation record for scans 91–101 is `MD_LEXICAL_RECONCILIATION_0091_0101.md`. Source-visible scene-numbering anomalies remain exposed.
