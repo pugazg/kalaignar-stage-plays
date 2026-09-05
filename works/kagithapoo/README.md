@@ -21,7 +21,7 @@ Primary lexical witness:
 - `needs-review`: **0**;
 - unprocessed pages: **0**;
 - scene assembly: **AUTHORIZED / IN PROGRESS**;
-- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, **Scene 6**, **Scene 7**;
+- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, and **Scenes 6–12**;
 - English translation: **not started / not authorized**.
 
 ## Durable audits / assembly tracking
@@ -50,10 +50,15 @@ Primary lexical witness:
 
 ## Scene assembly completed so far
 
-- `scenes/01.md` — Scene 1 assembled from scans 92–93 and assembly-reviewed.
-- `scenes/02-05.md` — preserves the source's collective `காட்சிகள்: 2, 3, 4, 5.` block. The source does not print separate dialogue bodies for these four embedded scenes; nothing was invented.
-- `scenes/06.md` — Scene 6 assembled from scans 93–94 and assembly-reviewed.
-- `scenes/07.md` — Scene 7 assembled from scans 94–98 and assembly-reviewed. Physical continuations 96→97 and 97→98 were joined mechanically; the verified PDF-fallback material on scans 95 and 97 is retained. The scan-98 photograph caption remains outside Scene 7 because it belongs after the `காட்சி 8.` transition.
+- `scenes/01.md` — Scene 1, scans 92–93.
+- `scenes/02-05.md` — source-compressed `காட்சிகள்: 2, 3, 4, 5.` representation from scan 93; no missing dialogue invented.
+- `scenes/06.md` — Scene 6, scans 93–94.
+- `scenes/07.md` — Scene 7, scans 94–98.
+- `scenes/08.md` — Scene 8, scans 98–102; physical word/stage-direction continuations joined mechanically. The scan-98 `ஓ. எம். சுப்பிரமணியன்,` caption remains a separate page-level non-dramatic element.
+- `scenes/09.md` — Scene 9, scan 102.
+- `scenes/10.md` — Scene 10, scans 102–104.
+- `scenes/11.md` — Scene 11, scans 104–105; source speaker labels retained across the physical page boundary.
+- `scenes/12.md` — Scene 12, scans 105–107; `ஒப்ப—` / `டைக்கிறதா` mechanically joined to `ஒப்படைக்கிறதா`.
 
 ## Structural safeguards
 
@@ -72,6 +77,6 @@ Primary lexical witness:
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 8** from verified scans **98–102**. Keep the scan-98 caption `ஓ. எம். சுப்பிரமணியன்,` as a separate non-dialogue source element and preserve all physical page-boundary joins without lexical normalization.
+Assemble and page-record-check **Scene 13** from verified scan **107**, then continue with Scene 14 unless the user specifies another batch size.
 
 Do **not** begin English translation until separately authorized.
