@@ -1,8 +1,8 @@
 # திருவாளர் தேசீயம்பிள்ளை — English translation
 
-Status: **PLAN READY / REVIEWED — TRANSLATION NOT YET AUTHORIZED / NOT STARTED**
+Status: **AUTHORIZED / IN PROGRESS — BATCH 01 PASS / LOCKED; 2 / 7 SRUs TRANSLATED AND REVIEWED**
 
-This directory is reserved for the independent source-faithful English translation of the seven reviewed Tamil source-representation units (SRUs) of **திருவாளர் தேசீயம்பிள்ளை**.
+This directory is the independent source-faithful English translation layer for the seven reviewed Tamil source-representation units (SRUs) of **திருவாளர் தேசீயம்பிள்ளை**.
 
 Translation plan: `../../TRANSLATION_PLAN.md`.
 
@@ -10,7 +10,7 @@ Tamil assembly review: `../../ASSEMBLY_REVIEW.md` — **PASS / REVIEWED**.
 
 ## Translation authority
 
-If translation is explicitly authorized, immediate drafting authority is the reviewed Tamil SRU layer under `../../scenes/` only.
+Immediate drafting authority is the reviewed Tamil SRU layer under `../../scenes/` only.
 
 Do not draft from OCR, the controlling PDF, another edition, web text, general knowledge, summaries or a secondary/published English witness. Page records/PDF may be consulted only for a genuine source adjudication and must not bypass the closed Tamil assembly.
 
@@ -31,17 +31,28 @@ The source has no numbered scenes or acts. English filenames mirror the seven ed
 Current artifact status:
 
 - expected: **7**;
-- present: **0 / 7**;
-- reviewed: **0 / 7**;
-- translation batches complete: **0 / 4**;
+- present: **2 / 7**;
+- reviewed: **2 / 7**;
+- translation batches complete: **1 / 4**;
 - final translation review: **not started**;
 - secondary-English witness used: **no**.
 
+## Batch 01 — PASS / LOCKED
+
+Durable review: `BATCH_01_REVIEW.md` — **PASS / LOCKED**.
+
+Completed artifacts:
+
+- `sru-01-yama-court.md` — **translation-reviewed / passed**; all **7 / 7** `[paper loss]` markers retained;
+- `sru-02-guesthouse.md` — **translation-reviewed / passed**.
+
+Batch 01 review confirms complete Tamil→English comparison for both SRUs, source-order/boundary fidelity, no invented scene numbering, no secondary-English witness, and no translation-driven change to the Tamil layer.
+
 ## Source-loss / unresolved-marker controls
 
-These controls are mandatory when the relevant English artifacts are eventually created:
+Mandatory controls across the English phase:
 
-- SRU-01 must preserve all **7** exact `[paper loss]` markers;
+- SRU-01 preserves all **7** exact `[paper loss]` markers — **complete / reviewed**;
 - SRU-04 must preserve the exact scan-35 `[unresolved glyph cluster]` marker;
 - SRU-04 must preserve both exact scan-36 `[unresolved descriptive cluster]` markers;
 - no missing wording may be reconstructed from context, grammar, repetition, another edition or an English witness.
@@ -64,28 +75,19 @@ translation_review: "passed"
 secondary_english_witness_used: false
 ```
 
-During drafting/review it should remain `translation-draft` / `pending`.
-
 Each completed batch must have a durable `BATCH_0N_REVIEW.md` record. After all seven artifacts pass, create `TRANSLATION_REVIEW.md` for the final 7/7 review gate.
 
-## Proposed batches
+## Translation batches
 
-- **Batch 1:** SRU-01 + SRU-02
-- **Batch 2:** SRU-03
+- **Batch 1:** SRU-01 + SRU-02 — **PASS / LOCKED**
+- **Batch 2:** SRU-03 — **NEXT**
 - **Batch 3:** SRU-04
 - **Batch 4:** SRU-05 + SRU-06 + SRU-07
 
-## Authorization boundary
+## Exact next activity
 
-The plan/tracker infrastructure is complete, but English body translation is **not yet authorized**.
+Translate and fully review **Batch 02** from reviewed Tamil `../../scenes/sru-03-eman-interview.md` only:
 
-No English SRU body file has been created.
+- `../../scenes/sru-03-eman-interview.md` → `sru-03-eman-interview.md`
 
-## Exact next activity after explicit authorization
-
-Translate and fully review **Batch 1** from the reviewed Tamil SRUs only:
-
-- `../../scenes/sru-01-yama-court.md` → `sru-01-yama-court.md`
-- `../../scenes/sru-02-guesthouse.md` → `sru-02-guesthouse.md`
-
-Then create `BATCH_01_REVIEW.md` and update this tracker before proceeding to Batch 2.
+Then create `BATCH_02_REVIEW.md`, update this tracker, and only then proceed to Batch 03.
