@@ -1,73 +1,84 @@
 # காகிதப்பூ — Lexical-gap adjudication
 
-Status: **SOURCE INVESTIGATION COMPLETE — USER DISPOSITION STILL REQUIRED**
+Status: **RESOLVED — 5 / 5 GAPS CLOSED BY EXPLICIT USER-AUTHORIZED PDF LEXICAL FALLBACK**
 
-Controlling structural source: `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`
+Controlling source: `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`
 
-Lexical witness: user-supplied `kaagidha_poo.md`.
+Primary lexical witness: user-supplied `kaagidha_poo.md`.
 
-## Rule
+## Resolution authority
 
-- Lexical words may come only from `kaagidha_poo.md` unless the user explicitly authorizes another lexical source.
-- The PDF may establish structure, speaker/paragraph boundaries, punctuation, stage-direction placement, page boundaries, captions and other physical evidence.
-- Because the user warned that MD words or paragraphs may be misplaced, each open gap was checked against the full MD before being treated as a true omission.
-- PDF-only words are not copied into the transcription during this adjudication.
+The whole MD was first checked for misplaced wording. All five open positions were confirmed to be genuine MD omissions. The user then asked to check the PDF for those five pages and explicitly instructed **“update them”**, thereby authorizing direct PDF lexical completion for these five adjudicated gaps only.
 
-## Adjudication result
+The PDF remains the structural authority throughout; the MD remains the primary lexical witness outside these five resolved positions.
 
-All five currently open gaps are **confirmed genuine lexical-witness omissions under the active rule**. No safe displaced MD wording was found that resolves them.
+## Resolved gaps
 
-### Scan 93 — confirmed omission
+### Scan 93 — resolved
 
-The PDF-defined Scene-6 opening stage direction contains lexical material between the MD-supplied `மரகதமும்-` and `மாலாவும்` sequence. The MD contains the stage direction only in its shorter form and supplies no recoverable displaced wording for the source-only insertion.
+Source-defined Scene-6 stage direction:
 
-**Disposition:** remains `needs-review`.
+`[மரகதமும்-அவள் தோழி மாலாவும் நாடகம் முடிந்தபின் பேசிக் கொண்டு வருகிறார்கள்.]`
 
-### Scan 95 — confirmed omission
+Previously absent PDF lexical words restored: **`அவள் தோழி`**.
 
-The PDF structure shows:
+**Disposition:** `verified`.
 
-1. one complete `காவேரி:` paragraph after the MD-supplied `மரகதம்:` speech about the புகழ்க் கிரீடம்; and
-2. the opening portion of the following `மரகதம்:` paragraph before the MD resumes at `அழுது கொண்டிருக்கும்...`.
+### Scan 95 — resolved
 
-The full MD contains only the resumed `அழுது கொண்டிருக்கும்...` sequence attached to the earlier paragraph; no displaced paragraph elsewhere supplies the missing lexical material.
+The missing source paragraph was restored directly from the PDF:
 
-**Disposition:** remains `needs-review`.
+`காவேரி: மரகதம்! உன்னைப் போன்ற நல்ல உள்ளங்கள் வடிக்கின்ற அனுதாபக் கண்ணீர்; அடக்குமுறை வெறியர்களை அழிக்கின்ற கண்ணீராக மாறட்டும். நானிழந்த மஞ்சளும் குங்குமமும்... மமதை கொண்டலையும் தமிழ்ப் பகைவர்களின் நெஞ்சழுத்தத்தைச் சுட்டுப் பொசுக்கட்டும்......`
 
-### Scan 97 — confirmed omission
+The missing opening of the following `மரகதம்:` turn was also restored from the PDF through:
 
-The PDF places a parenthetical stage direction inside காவேரி's speech after `கண்ணனின் அப்பா`. The MD has only one occurrence of this surrounding passage and runs directly from `கண்ணனின் அப்பா` into `காந்திமகானின்...`, with no parenthetical wording available elsewhere to reposition.
+`மரகதம்: அம்மா!... அது நடந்தே தீரும்! அரசு அன்றுகொல்லும். தெய்வம் நின்று கொல்லும். தெய்வம் யாரம்மா?...தெய்வம்`
 
-**Disposition:** remains `needs-review`.
+The earlier MD wording then resumes at `அழுது கொண்டிருக்கும்...`.
 
-### Scan 98 — confirmed caption omission
+**Disposition:** `verified`.
 
-The PDF contains a printed personal-name caption above the staged photograph. The name is absent from the full MD. Because printed captions are part of page-level archival evidence, the missing caption cannot be silently supplied from the PDF under the active lexical rule.
+### Scan 97 — resolved
 
-**Disposition:** remains `needs-review` as a non-dialogue caption gap.
+The PDF-defined parenthetical direction after `கண்ணனின் அப்பா` is:
 
-### Scan 130 — confirmed three-turn omission
+`(படத்திடம் போய்)`
 
-The PDF-defined Scene-27 structure contains:
+**Disposition:** `verified`.
 
-- two additional `குரல்:` turns after Kannan's long speech and before the MD-supplied `குரல்: சாவுக்குத் தயாராகிக் கொள்!`; and
-- one additional `கண்:` turn after காவேரி calls to Kannan and before the gunshot.
+### Scan 98 — resolved
 
-The MD final-scene sequence jumps directly across both places. A full-MD check found no displaced duplicate sequence that can safely supply the two missing `குரல்:` turns.
+The printed personal-name caption above the photograph is:
 
-The MD does contain a later `கண்: அம்மா!...` after காவேரி falls. Direct PDF structure confirms that this later turn also exists at its post-fall position on scan 131, so it cannot be moved backward to fill the separate pre-gunshot `கண்:` turn on scan 130.
+`ஓ. எம். சுப்பிரமணியன்,`
 
-**Disposition:** remains `needs-review`.
+It is recorded separately from the dramatic reading order.
 
-## Outcome
+**Disposition:** `verified`.
+
+### Scan 130 — resolved
+
+After Kannan's long speech, the PDF supplies the two previously missing turns:
+
+`குரல்:— அப்படியா?...ஹ ஹ ஹ...!`
+
+`குரல்:— ஹ ஹ ஹ!...`
+
+Later, after `காவேரி:— கண்ணா! கண்ணா!` and before the gunshot, the PDF supplies the separate turn:
+
+`கண்:— அம்மா!...`
+
+The later MD `கண்: அம்மா!...` after காவேரி falls remains separately anchored on scan 131 and was not moved.
+
+**Disposition:** `verified`.
+
+## Final outcome
 
 - investigated gaps: **5 / 5**;
-- gaps recoverable from misplaced MD wording: **0 / 5**;
-- confirmed unresolved lexical-witness gaps: **5 / 5 — scans 93, 95, 97, 98, 130**;
-- PDF-only lexical backfill performed: **none**;
-- page statuses changed by this adjudication: **none**.
+- genuine MD omissions: **5 / 5**;
+- resolved by explicit user-authorized PDF lexical fallback: **5 / 5**;
+- open lexical gaps: **0**;
+- page statuses promoted to `verified`: **93, 95, 97, 98, 130**;
+- page-layer verified total: **41 / 41**.
 
-The five records cannot become fully dual-witness `verified` under the current lexical rule unless the user either:
-
-1. supplies / explicitly authorizes wording for the missing source-defined positions; or
-2. explicitly accepts the omissions as permanent documented gaps.
+No broader PDF lexical substitution is authorized by this record. The fallback applies only to the five adjudicated omissions above.
