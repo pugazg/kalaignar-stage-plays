@@ -1,6 +1,6 @@
 # காகிதப்பூ — English translation plan
 
-Status: **AUTHORIZED / BATCHES 1–3 COMPLETE — PASS / LOCKED**
+Status: **AUTHORIZED / BATCHES 1–4 COMPLETE — PASS / LOCKED**
 
 The Tamil archival layer is closed: page layer **41 / 41 verified**, scene assembly **COMPLETE / CLOSED**, final scene-assembly review **PASS**.
 
@@ -40,7 +40,7 @@ Proper names should normally be transliterated from the verified Tamil layer. Ou
 ## 4. Structural safeguards
 
 - `02-05.md` remains source-compressed; no dialogue/body may be invented.
-- `unnumbered-between-21-and-24.md` must preserve the source heading as unnumbered and must never assign or imply Scene 22 or Scene 23.
+- `unnumbered-between-21-and-24.md` preserves the source heading with no numeral and never assigns or implies Scene 22 or Scene 23.
 - `25.md` remains source-compressed campaign action only.
 - scan-130 boxed `கண்டுபிடியுங்கள்` and scan-131 cast/imprint material remain outside Scene 27's dramatic translation because they are outside the closed Tamil scene artifact.
 
@@ -48,7 +48,7 @@ Proper names should normally be transliterated from the verified Tamil layer. Ou
 
 Stable choices are established progressively from the verified scene context and recorded in `translations/en/README.md`. Do not force an uncertain term into a fixed English equivalent merely for consistency.
 
-Durable choices through Batch 3 are recorded in the English tracker and batch-review files.
+Durable choices through Batch 4 are recorded in the English tracker and batch-review files.
 
 ## 6. English scene-file format
 
@@ -87,9 +87,10 @@ Completed review records:
 
 - `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
 - `translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED**;
-- `translations/en/BATCH_03_REVIEW.md` — **PASS / LOCKED**.
+- `translations/en/BATCH_03_REVIEW.md` — **PASS / LOCKED**;
+- `translations/en/BATCH_04_REVIEW.md` — **PASS / LOCKED**.
 
-After all 23 English artifacts are complete, create `translations/en/TRANSLATION_REVIEW.md` for the final Tamil→English coverage/fidelity review.
+After all 23 English artifacts are complete, create `translations/en/TRANSLATION_REVIEW.md` for the final Tamil→English coverage/fidelity review. The English layer is not complete/closed until that final review passes.
 
 ## 8. Batch plan
 
@@ -105,27 +106,29 @@ After all 23 English artifacts are complete, create `translations/en/TRANSLATION
 
 `14.md`, `15.md`, `16.md`, `17.md`, `18.md`
 
-### Batch 4 — NEXT
+### Batch 4 — COMPLETE / PASS / LOCKED
 
 `19.md`, `20.md`, `21.md`, `unnumbered-between-21-and-24.md`, `24.md`
 
-Scene 21 is comparatively large; Batch 4 may be split operationally if needed, but artifact order and review controls remain unchanged.
+Batch-4 safeguards include preservation of the unnumbered post-21 source scene, no invented Scene 22/23, full Scene-21 political/language-policy coverage, and the Scene-24 Parijatha/paper-flower title metaphor.
 
-### Batch 5
+### Batch 5 — NEXT
 
 `25.md`, `26.md`, `27.md`
 
 ## Current English status
 
 - expected artifacts: **23**;
-- present: **15 / 23**;
-- reviewed: **15 / 23**;
-- completed batches: **3 / 5**;
+- present: **20 / 23**;
+- reviewed: **20 / 23**;
+- completed batches: **4 / 5**;
 - unresolved blocking translation issues: **0**;
 - secondary-English contamination: **0**.
 
 ## Exact next activity
 
-Translate and Tamil→English review **Batch 4** from the closed Tamil scene layer only:
+Translate and Tamil→English review **Batch 5** from the closed Tamil scene layer only:
 
-`19.md`, `20.md`, `21.md`, `unnumbered-between-21-and-24.md`, `24.md`.
+`25.md`, `26.md`, `27.md`.
+
+Then create and complete `translations/en/TRANSLATION_REVIEW.md` across all 23 English artifacts before declaring the English phase complete/closed.
