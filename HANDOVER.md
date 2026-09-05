@@ -64,12 +64,16 @@ Committed assembly-reviewed files:
 - `works/kagithapoo/scenes/09.md` — Scene 9, scan 102;
 - `works/kagithapoo/scenes/10.md` — Scene 10, scans 102–104;
 - `works/kagithapoo/scenes/11.md` — Scene 11, scans 104–105;
-- `works/kagithapoo/scenes/12.md` — Scene 12, scans 105–107.
+- `works/kagithapoo/scenes/12.md` — Scene 12, scans 105–107;
+- `works/kagithapoo/scenes/13.md` — Scene 13, scan 107;
+- `works/kagithapoo/scenes/14.md` — Scene 14, scans 107–109.
 
 Assembly notes:
 
 - the scan-98 printed caption `ஓ. எம். சுப்பிரமணியன்,` remains preserved as a separate non-dramatic page element and is not inserted into Scene 8 dialogue;
 - Scene 12 mechanically joins the source split `ஒப்ப—` / `டைக்கிறதா` as `ஒப்படைக்கிறதா`;
+- Scene 13 is a complete single-scan scene on scan 107 and closes at `(திரை விழுகிறது)`;
+- Scene 14 mechanically joins `வெற்றிகளக் குவிக்கத்—` / `தான் போகிறார்கள் மக்கள்!...` as `வெற்றிகளக் குவிக்கத்தான் போகிறார்கள் மக்கள்!...` and closes at `(திரை)` immediately before Scene 15;
 - no scene body has been reconstructed from material absent from the verified page layer.
 
 Tracking: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
@@ -86,7 +90,7 @@ English translation: **not started / not authorized**.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 13** from verified scan **107**. Continue with Scene 14 after that unless the user specifies a different batch size. Update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT at the next substantial checkpoint.
+Assemble and page-record-check **Scene 15** from verified scans **109–110**, then continue with Scene 16 unless the user specifies a different batch size. Update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT at the next substantial checkpoint.
 
 Do not begin English translation without separate authorization.
 
