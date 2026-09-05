@@ -17,10 +17,11 @@ Read before any further work:
 3. `NEXT_CHAT_PROMPT.md`;
 4. `works/kagithapoo/README.md`;
 5. `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`;
-6. `works/kagithapoo/LEXICAL_GAP_ADJUDICATION.md`;
-7. `works/kagithapoo/PAGE_LAYER_CONSISTENCY_AUDIT.md`;
-8. `works/kagithapoo/MD_LEXICAL_RECONCILIATION_0091_0101.md`;
-9. `works/kagithapoo/indexes/page-map.md` and relevant verified page records.
+6. `works/kagithapoo/SCENE_ASSEMBLY_FINAL_REVIEW.md`;
+7. `works/kagithapoo/LEXICAL_GAP_ADJUDICATION.md`;
+8. `works/kagithapoo/PAGE_LAYER_CONSISTENCY_AUDIT.md`;
+9. `works/kagithapoo/MD_LEXICAL_RECONCILIATION_0091_0101.md`;
+10. `works/kagithapoo/indexes/page-map.md` and relevant verified page records when source-level questions arise.
 
 ## Source identity
 
@@ -39,22 +40,27 @@ Primary lexical witness: `kaagidha_poo.md`.
 - PDF controls boundaries, reading order, scene/speaker/paragraph structure, punctuation, brackets, headings/numbers, photographs, captions, boxed features and physical evidence.
 - The user explicitly authorized direct PDF lexical fallback only for the five genuine MD omissions on scans **93, 95, 97, 98 and 130**; those gaps are closed in the verified page layer.
 - Scene assembly uses only verified page records. Mechanical page/column line breaks may be removed for readability, but wording, punctuation, speaker labels, stage directions and source scene numbering must not be editorially normalized.
-- The source-compressed `காட்சிகள்: 2, 3, 4, 5.` block must not be expanded into invented dialogue.
+- Source-compressed scene representations must not be expanded into invented dialogue.
 
-## Durable page-layer state
+## Durable Tamil archival state
 
-**PAGE LAYER COMPLETE / CLOSED.**
+**TAMIL ARCHIVAL LAYER COMPLETE / CLOSED.**
+
+Page layer:
 
 - processed: **41 / 41**;
 - verified: **41 / 41**;
 - `needs-review`: **0**;
 - final consistency audit: **PASS**.
 
-## Durable scene-assembly state
+Scene assembly:
 
-**SCENE ASSEMBLY AUTHORIZED / IN PROGRESS.**
+- status: **COMPLETE / CLOSED**;
+- expected source-representation artifacts: **23 / 23 present**;
+- unresolved assembly gaps: **0**;
+- final scene-assembly consistency review: **PASS** in `works/kagithapoo/SCENE_ASSEMBLY_FINAL_REVIEW.md`.
 
-Committed assembly-reviewed files:
+## Final scene assembly artifacts
 
 - `works/kagithapoo/scenes/01.md` — Scene 1, scans 92–93;
 - `works/kagithapoo/scenes/02-05.md` — source-compressed representation of `காட்சிகள்: 2, 3, 4, 5.` on scan 93;
@@ -77,9 +83,10 @@ Committed assembly-reviewed files:
 - `works/kagithapoo/scenes/unnumbered-between-21-and-24.md` — source unnumbered `காட்சி,`, scans 124–125;
 - `works/kagithapoo/scenes/24.md` — Scene 24, scans 125–129;
 - `works/kagithapoo/scenes/25.md` — Scene 25, scan 129;
-- `works/kagithapoo/scenes/26.md` — Scene 26, scans 129–130.
+- `works/kagithapoo/scenes/26.md` — Scene 26, scans 129–130;
+- `works/kagithapoo/scenes/27.md` — Scene 27, scans 130–131, closing at `(முற்றும்)`.
 
-Assembly notes:
+## Key assembly safeguards preserved
 
 - scan-98 caption `ஓ. எம். சுப்பிரமணியன்,` remains a separate non-dramatic page element;
 - Scene 12 joins `ஒப்ப—` / `டைக்கிறதா` as `ஒப்படைக்கிறதா`;
@@ -88,16 +95,14 @@ Assembly notes:
 - Scene 16 joins `இய—` / `லாது` as `இயலாது` and preserves the unusual verified scan-112 MD tokens exactly;
 - Scene 17 joins Gandhi's speech across scans 114→115 without normalization;
 - Scene 18 preserves the verified page-record speaker-label variation across scans 115→116;
-- Scene 19 is a complete single-scan scene;
-- Scene 20 joins the scan-118→119 sentence continuation `நீங்கள் சிந்திய ரத்தம் கூட—` / `உங்கள் மகன்...` mechanically and closes before Scene 21;
-- Scene 21 joins `நலத்—` / `திட்ட` as `நலத்திட்ட`, `ஆட்சி—` / `மொழிகளாகட்டும்` as `ஆட்சிமொழிகளாகட்டும்`, and joins the 123→124 sentence continuation without lexical normalization;
+- Scene 20 joins the scan-118→119 continuation mechanically;
+- Scene 21 joins `நலத்—` / `திட்ட` as `நலத்திட்ட`, `ஆட்சி—` / `மொழிகளாகட்டும்` as `ஆட்சிமொழிகளாகட்டும்`, and joins the 123→124 continuation without lexical normalization;
 - the post-Scene-21 source heading is preserved exactly as `காட்சி,`; no Scene 22/23 is assigned;
 - Scene 24 joins `முடி` / `யாம` as `முடியாம` and `கொள்` / `ளுங்கள்` as `கொள்ளுங்கள்`; repeated continuation label remains preserved;
 - Scene 25 remains source-compressed to its single bracketed campaign-action direction; no body was invented;
-- Scene 26 spans scans 129–130 with no lexical boundary join and preserves the verified unusual speaker-label sequence exactly;
+- Scene 26 preserves the verified unusual speaker-label sequence exactly;
+- Scene 27 retains the three already verified direct-PDF fallback turns from scan 130, keeps the boxed `கண்டுபிடியுங்கள்` outside dramatic reading order, excludes the scan-131 cast/imprint block, and closes at `(முற்றும்)`;
 - no scene body has been reconstructed from material absent from the verified page layer.
-
-Tracking: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
 
 English translation: **not started / not authorized**.
 
@@ -107,13 +112,13 @@ English translation: **not started / not authorized**.
 - scan 125: source-visible **`காட்சி 24.`**;
 - never invent Scenes 22/23;
 - scan 130 boxed `கண்டுபிடியுங்கள்` remains separate from dramatic reading order;
-- scan 131 closes with `(முற்றும்)` and then `நாடகத்தில்—பங்கேற்பவர்கள்!`.
+- scan 131 dramatic text closes with `(முற்றும்)`, followed by separate `நாடகத்தில்—பங்கேற்பவர்கள்!` cast/imprint material.
 
-## Exact next activity
+## Next phase
 
-Assemble and page-record-check **Scene 27** from verified scans **130–131**. Preserve the already verified three direct-PDF fallback turns on scan 130, keep the boxed `கண்டுபிடியுங்கள்` feature outside the dramatic scene flow, and close the scene with source `(முற்றும்)` on scan 131. Keep the following `நாடகத்தில்—பங்கேற்பவர்கள்!` cast block as separate page-level material. Then perform the final scene-assembly consistency/closure review and synchronize tracking/handover.
+There is **no pending Tamil page-level or scene-assembly work** for `காகிதப்பூ`.
 
-Do not begin English translation without separate authorization.
+Do not begin English translation without separate user authorization. If translation is later authorized, first define/update the translation plan from the closed Tamil scene layer rather than OCR, MD first-pass or a modern edition.
 
 # CLOSED WORK SAFEGUARDS
 
