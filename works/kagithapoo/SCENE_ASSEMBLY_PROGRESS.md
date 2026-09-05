@@ -36,9 +36,9 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 | 19 | 116 | assembly-reviewed | `scenes/19.md` |
 | 20 | 117–119 | assembly-reviewed | `scenes/20.md` |
 | 21 | 119–124 | assembly-reviewed | `scenes/21.md` |
-| unnumbered source `காட்சி,` | 124–125 | next; do not assign 22/23 | — |
-| 24 | 125–129 | pending | — |
-| 25 | 129 | pending | — |
+| unnumbered source `காட்சி,` | 124–125 | assembly-reviewed; no 22/23 assigned | `scenes/unnumbered-between-21-and-24.md` |
+| 24 | 125–129 | assembly-reviewed | `scenes/24.md` |
+| 25 | 129 | next | — |
 | 26 | 129–130 | pending | — |
 | 27 | 130–131 | pending | — |
 
@@ -62,7 +62,9 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 - `scenes/19.md` preserves the complete single-scan Scene 19 on scan 116 and closes at `(திரை)`.
 - `scenes/20.md` assembles verified scans 117–119; the scan-118→119 sentence continuation `நீங்கள் சிந்திய ரத்தம் கூட—` / `உங்கள் மகன்...` is joined mechanically, and Scene 20 closes at `(திரை)` before Scene 21.
 - `scenes/21.md` assembles verified scans 119–124. The physical word splits `நலத்—` / `திட்ட` and `ஆட்சி—` / `மொழிகளாகட்டும்` are mechanically joined as `நலத்திட்ட` and `ஆட்சிமொழிகளாகட்டும்`; the scan-123→124 sentence continuation is joined without lexical normalization. Unusual verified page-record wording remains unchanged. Scene 21 closes at `(திரை)` immediately before the unnumbered source heading `காட்சி,`.
+- `scenes/unnumbered-between-21-and-24.md` assembles verified scans 124–125 and preserves the source heading exactly as `காட்சி,`. No Scene 22 or Scene 23 number is assigned or implied. The physical page boundary falls between complete turns, and the block closes at `(திரை)` immediately before `காட்சி 24.`.
+- `scenes/24.md` assembles verified scans 125–129. The physical splits `முடி` / `யாம` and `கொள்` / `ளுங்கள்` are mechanically joined as `முடியாம` and `கொள்ளுங்கள்`; the repeated `திர:—` label at scan 127 is preserved, and unusual verified page-record wording remains unchanged. Scene 24 closes immediately before `காட்சி 25`.
 
 ## Exact next activity
 
-Assemble and page-record-check the **unnumbered source `காட்சி,`** from verified scans **124–125**, preserving the heading exactly and assigning no Scene 22/23 number. Then continue with **Scene 24** unless the user specifies a different batch size. Do not begin English translation.
+Assemble and page-record-check **Scene 25** from verified scan **129**, then continue with **Scene 26** from scans **129–130** unless the user specifies a different batch size. Do not begin English translation.
