@@ -40,7 +40,7 @@ The user explicitly required retroactive MD reconciliation of scans **91–101**
 - page placeholders: **41 / 41**;
 - scans 91–101 MD reconciliation: **COMPLETE**;
 - scan 102: preserved as already completed under the same dual-witness rule;
-- fully verified pages: **91, 92, 94, 96, 99, 100, 101, 102**;
+- fully verified pages: **91, 92, 94, 96, 99–114**;
 - `needs-review` lexical-gap pages: **93, 95, 97, 98**;
 - detailed audit: `works/kagithapoo/MD_LEXICAL_RECONCILIATION_0091_0101.md`;
 - scene assembly: not started / not authorized;
@@ -57,9 +57,9 @@ No PDF-derived words have been inserted into those gaps.
 
 ## Exact next activity
 
-**Do not start scan 103 yet.**
+Process **scans 115–124**. Use words only from `kaagidha_poo.md`; use the PDF only for structure, punctuation, reading order, scene/page boundaries, stage directions and visual evidence. Keep scans **93, 95, 97, 98** as unresolved lexical-gap records unless the user later supplies/authorizes missing words. On scan **124**, preserve the source heading `காட்சி,` exactly; do not invent scene 22/23.
 
-Resolve or explicitly accept the lexical-witness gaps on **93, 95, 97 and 98** first. Use only user-supplied/authorized words for any missing lexical content. Once those four statuses are settled, synchronize tracking documents and then resume new-page processing at **scan 103**.
+Do not begin scene assembly or English translation.
 
 ## Structural safeguards
 
