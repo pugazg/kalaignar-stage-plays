@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — page source pass 49/49; historical-glyph pass 49/49; 40 verified; 9 needs-review; structural/scene inventory next** |
+| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — page source pass 49/49; historical-glyph pass 49/49; 40 verified; 9 needs-review; structural inventory PASS (7 SRUs); Tamil scene assembly next** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archive/assembly PASS; independent English PASS; 2009 One Act Plays witness N/A** |
@@ -34,17 +34,17 @@ Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீய
 - visually verified: **40 / 49** (`2, 6, 10–34, 37–49`);
 - `needs-review`: **9 / 49** (`1, 3, 4, 5, 7, 8, 9, 35, 36`);
 - unresolved visual/source clusters: **3**;
-- structural/scene inventory: **next**;
-- scene assembly: **not started**;
+- structural/scene inventory: **COMPLETE / PASS — 7 editorial SRUs**;
+- scene assembly: **next**;
 - English translation: **not authorized / not started**.
 
 The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is methodological, not a lexical witness. Positive same-edition reference families include `லை`, `ளை`, `ணா`, `ணை`, `னா`, `னை`, and `றா`.
 
-The final source batch **46–49** is complete and all four scans are verified. Enlarged source rechecks preserve scan-46 `நம்ப` and `தேசீயம் பிள்ளை`, scan-47 `தேசீயம்பிள்ளை / தேசீயம் பிள்ளையின் / போட்டகோலம்`, and scan-48 `தேசீயம் பிள்ளையின்` plus physical `மலை / யேறும்`. Scan 48 has no source-visible `முற்றும்`; scan 49 is the separate `அல்லி விழி` back-cover advertisement.
-
 The durable `works/thiruvalar-desiyampillai/PAGE_LAYER_COMPLETION_AUDIT.md` records **coverage PASS** but not 49/49 verification. The remaining review holds are explicit source limitations; body holds are scans `7, 8, 9, 35, 36`.
 
-**Exact next activity:** build a source-visible **structural / scene inventory across scans 7–48** before creating scene files. Do not infer scene numbers, and preserve every body loss/unresolved marker.
+The durable `works/thiruvalar-desiyampillai/STRUCTURAL_SCENE_INVENTORY.md` records **PASS / REVIEWED**. No source-visible `காட்சி`, act, or scene numbering appears in scans 7–48. Seven editorial source-representation units were defined only to preserve source order and defensible printed transitions. The centered scan-47 `உதயசூரியன் கோலம்` is an internal descriptive/intertitle in the final unit, not a source scene title. Scan 48 has no `முற்றும்` marker.
+
+**Exact next activity:** assemble those seven Tamil SRUs into descriptive `scenes/sru-*.md` files, preserving review markers in SRU-01 and SRU-04, then perform a full Tamil assembly review. Do not begin English translation yet.
 
 ## Closed காகிதப்பூ checkpoint
 
