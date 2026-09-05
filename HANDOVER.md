@@ -74,8 +74,10 @@ Committed assembly-reviewed files:
 - `works/kagithapoo/scenes/19.md` — Scene 19, scan 116;
 - `works/kagithapoo/scenes/20.md` — Scene 20, scans 117–119;
 - `works/kagithapoo/scenes/21.md` — Scene 21, scans 119–124;
-- `works/kagithapoo/scenes/unnumbered-between-21-and-24.md` — source-visible unnumbered `காட்சி,`, scans 124–125; no Scene 22/23 assigned;
-- `works/kagithapoo/scenes/24.md` — Scene 24, scans 125–129.
+- `works/kagithapoo/scenes/unnumbered-between-21-and-24.md` — source unnumbered `காட்சி,`, scans 124–125;
+- `works/kagithapoo/scenes/24.md` — Scene 24, scans 125–129;
+- `works/kagithapoo/scenes/25.md` — Scene 25, scan 129;
+- `works/kagithapoo/scenes/26.md` — Scene 26, scans 129–130.
 
 Assembly notes:
 
@@ -89,8 +91,10 @@ Assembly notes:
 - Scene 19 is a complete single-scan scene;
 - Scene 20 joins the scan-118→119 sentence continuation `நீங்கள் சிந்திய ரத்தம் கூட—` / `உங்கள் மகன்...` mechanically and closes before Scene 21;
 - Scene 21 joins `நலத்—` / `திட்ட` as `நலத்திட்ட`, `ஆட்சி—` / `மொழிகளாகட்டும்` as `ஆட்சிமொழிகளாகட்டும்`, and joins the 123→124 sentence continuation without lexical normalization;
-- the post-Scene-21 unnumbered block preserves source heading `காட்சி,` exactly and does not assign or imply Scene 22/23;
-- Scene 24 joins `முடி` / `யாம` as `முடியாம` and `கொள்` / `ளுங்கள்` as `கொள்ளுங்கள்`; the repeated `திர:—` label at scan 127 and unusual verified wording remain unchanged;
+- the post-Scene-21 source heading is preserved exactly as `காட்சி,`; no Scene 22/23 is assigned;
+- Scene 24 joins `முடி` / `யாம` as `முடியாம` and `கொள்` / `ளுங்கள்` as `கொள்ளுங்கள்`; repeated continuation label remains preserved;
+- Scene 25 remains source-compressed to its single bracketed campaign-action direction; no body was invented;
+- Scene 26 spans scans 129–130 with no lexical boundary join and preserves the verified unusual speaker-label sequence exactly;
 - no scene body has been reconstructed from material absent from the verified page layer.
 
 Tracking: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
@@ -107,7 +111,7 @@ English translation: **not started / not authorized**.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 25** from verified scan **129**, then continue with **Scene 26** from verified scans **129–130** unless the user specifies a different batch size. Update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT at the next substantial checkpoint.
+Assemble and page-record-check **Scene 27** from verified scans **130–131**. Preserve the already verified three direct-PDF fallback turns on scan 130, keep the boxed `கண்டுபிடியுங்கள்` feature outside the dramatic scene flow, and close the scene with source `(முற்றும்)` on scan 131. Keep the following `நாடகத்தில்—பங்கேற்பவர்கள்!` cast block as separate page-level material. Then perform the final scene-assembly consistency/closure review and synchronize tracking/handover.
 
 Do not begin English translation without separate authorization.
 
