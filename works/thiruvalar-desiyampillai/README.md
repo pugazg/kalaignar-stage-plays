@@ -4,7 +4,7 @@ Archive slug: `thiruvalar-desiyampillai`.
 
 ## Current status
 
-**TAMIL ARCHIVAL LAYER ASSEMBLY-COMPLETE / REVIEWED — PAGE SOURCE PASS 49 / 49; HISTORICAL-GLYPH PASS 49 / 49; 40 / 49 VERIFIED; 9 NEEDS-REVIEW; STRUCTURAL INVENTORY PASS; 7 / 7 EDITORIAL SRUs ASSEMBLED; ASSEMBLY REVIEW PASS. ENGLISH NOT STARTED.**
+**TAMIL ARCHIVAL LAYER ASSEMBLY-COMPLETE / REVIEWED — PAGE SOURCE PASS 49 / 49; HISTORICAL-GLYPH PASS 49 / 49; 40 / 49 VERIFIED; 9 NEEDS-REVIEW; STRUCTURAL INVENTORY PASS; 7 / 7 EDITORIAL SRUs ASSEMBLED; ASSEMBLY REVIEW PASS. ENGLISH PLAN READY / REVIEWED; TRANSLATION NOT YET AUTHORIZED / NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீயம்பிள்ளை.pdf`.
 
@@ -108,7 +108,43 @@ Assembly review confirms:
 - scan 49 included in dramatic assembly: **no**;
 - invented `முற்றும்`: **no**.
 
-The Tamil archival layer is therefore **assembly-complete / reviewed for the current source evidence**. This does not convert the nine source-level `needs-review` pages into verified pages; those limitations remain explicit.
+The Tamil archival layer is **assembly-complete / reviewed for the current source evidence**. This does not convert the nine source-level `needs-review` pages into verified pages.
+
+## English translation plan
+
+Durable plan: `TRANSLATION_PLAN.md` — **PLAN READY / REVIEWED**.
+
+Tracker: `translations/en/README.md`.
+
+The plan establishes:
+
+- immediate drafting authority: reviewed Tamil `scenes/sru-*.md` only;
+- expected English artifacts: **7**, mirroring the seven SRU filenames without implying source scene numbering;
+- `[paper loss]` remains exact and explicit in SRU-01;
+- `[unresolved glyph cluster]` and both `[unresolved descriptive cluster]` markers remain exact and unresolved in SRU-04;
+- speaker-label variation, narrative prose, stage directions, satire, political rhetoric, colloquial register, repetitions and supported ambiguity must be preserved;
+- `உதயசூரியன் கோலம்` remains an internal descriptive/intertitle in the final English SRU;
+- no invented `The End` / `முற்றும்` equivalent;
+- `secondary_english_witness_used: false` for the independent first-pass English layer;
+- every artifact requires full Tamil→English fidelity review;
+- final English closure requires `translations/en/TRANSLATION_REVIEW.md`.
+
+Proposed batches:
+
+1. **Batch 1:** SRU-01 + SRU-02
+2. **Batch 2:** SRU-03
+3. **Batch 3:** SRU-04
+4. **Batch 4:** SRU-05 + SRU-06 + SRU-07
+
+Current English status:
+
+- plan: **READY / REVIEWED**;
+- translation authorization: **not yet granted**;
+- expected artifacts: **7**;
+- present: **0 / 7**;
+- reviewed: **0 / 7**;
+- batches complete: **0 / 4**;
+- secondary-English witness used: **no**.
 
 ## Work progress
 
@@ -118,8 +154,14 @@ The Tamil archival layer is therefore **assembly-complete / reviewed for the cur
 - `needs-review`: **9 / 49**;
 - structural inventory: **COMPLETE / PASS — 7 SRUs**;
 - Tamil source-representation assembly: **7 / 7 COMPLETE / REVIEWED — PASS**;
-- English translation: **not authorized / not started**.
+- English translation plan/tracker: **COMPLETE / REVIEWED**;
+- English translation body: **not authorized / not started**.
 
 ## Exact next activity
 
-Create and review a source-faithful **English translation plan** based only on the seven reviewed Tamil SRUs. The plan must explicitly define how `[paper loss]`, `[unresolved glyph cluster]`, and `[unresolved descriptive cluster]` are represented in English, preserve the source's lack of numbered scenes, and keep translation strictly separate from the closed Tamil archival layer. Do **not** begin translation until that plan is explicitly authorized.
+Await explicit authorization for English body translation. After authorization, process **English Translation Batch 1** from the reviewed Tamil SRUs only:
+
+- `scenes/sru-01-yama-court.md` → `translations/en/sru-01-yama-court.md`
+- `scenes/sru-02-guesthouse.md` → `translations/en/sru-02-guesthouse.md`
+
+Then perform the complete Tamil→English fidelity review for both and create `translations/en/BATCH_01_REVIEW.md` before marking Batch 1 PASS / LOCKED.
