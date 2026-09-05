@@ -21,8 +21,8 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 | 1 | 92–93 | assembly-reviewed | `scenes/01.md` |
 | `காட்சிகள்: 2, 3, 4, 5.` | 93 | assembly-reviewed; source-compressed representation only | `scenes/02-05.md` |
 | 6 | 93–94 | assembly-reviewed | `scenes/06.md` |
-| 7 | 94–98 | next | — |
-| 8 | 98–102 | pending | — |
+| 7 | 94–98 | assembly-reviewed | `scenes/07.md` |
+| 8 | 98–102 | next | — |
 | 9 | 102 | pending | — |
 | 10 | 102–104 | pending | — |
 | 11 | 104–105 | pending | — |
@@ -42,12 +42,13 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 | 26 | 129–130 | pending | — |
 | 27 | 130–131 | pending | — |
 
-## Completed first assembly batch
+## Completed assembly
 
 - `scenes/01.md` joins the verified scan-92/93 Scene-1 continuation and closes at `(திரை)`.
 - `scenes/02-05.md` preserves exactly the source's collective `காட்சிகள்: 2, 3, 4, 5.` representation; no unprinted dialogue was invented.
 - `scenes/06.md` joins the verified scan-93/94 continuation and closes at `(திரை)`.
+- `scenes/07.md` assembles verified scans 94–98, joins the 96→97 and 97→98 physical continuations, and retains the already verified user-authorized PDF fallback material from scans 95 and 97. The scan-98 photograph caption belongs after the `காட்சி 8.` boundary and is not included in Scene 7.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 7** from scans **94–98**, including the user-authorized PDF fallback material already incorporated in verified pages 95, 97 and 98. Do not begin English translation.
+Assemble and page-record-check **Scene 8** from scans **98–102**, retaining the verified scan-98 caption as a separate non-dialogue source element and preserving all physical page-boundary joins without lexical normalization. Do not begin English translation.
