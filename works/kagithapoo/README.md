@@ -4,7 +4,7 @@ Archive slug: `kagithapoo`.
 
 ## Current status
 
-**PAGE LAYER COMPLETE / CLOSED — 41 / 41 scans verified. SCENE ASSEMBLY AUTHORIZED / IN PROGRESS.**
+**TAMIL ARCHIVAL LAYER COMPLETE / CLOSED. PAGE LAYER 41 / 41 VERIFIED. SCENE ASSEMBLY COMPLETE / CLOSED — FINAL REVIEW PASS.**
 
 Controlling PDF:
 
@@ -20,25 +20,27 @@ Primary lexical witness:
 - verified: **41 / 41**;
 - `needs-review`: **0**;
 - unprocessed pages: **0**;
-- scene assembly: **AUTHORIZED / IN PROGRESS**;
-- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, **Scenes 6–21**, unnumbered source **`காட்சி,`**, and **Scenes 24–26**;
+- scene assembly: **COMPLETE / CLOSED**;
+- scene assembly artifacts: **23 / 23 expected source-representation artifacts present**;
+- final scene-assembly consistency review: **PASS**;
 - English translation: **not started / not authorized**.
 
-## Durable audits / assembly tracking
+## Durable audits / assembly records
 
 - `MD_LEXICAL_RECONCILIATION_0091_0101.md` — historical MD reconciliation record for scans 91–101, with postscript recording later PDF-authorized closure of the four early gaps.
 - `LEXICAL_GAP_ADJUDICATION.md` — investigation and final resolution of the five genuine MD omissions.
 - `PAGE_LAYER_CONSISTENCY_AUDIT.md` — final 91–131 page-layer audit: **PASS**.
-- `SCENE_ASSEMBLY_PROGRESS.md` — current scene inventory, source spans and assembly checkpoint.
+- `SCENE_ASSEMBLY_PROGRESS.md` — final scene inventory and closed assembly checkpoint.
+- `SCENE_ASSEMBLY_FINAL_REVIEW.md` — final scene-assembly consistency/closure review: **PASS**.
 
-## Witness policy at closure / assembly
+## Witness policy at closure
 
 1. `kaagidha_poo.md` remains the **primary lexical witness**.
 2. The PDF controls page/scene boundaries, reading order, punctuation, speaker/paragraph/stage structure, headings/numbers, photographs, captions, boxed features and other physical evidence.
 3. MD wording may be repositioned/respaced only when PDF structure proves placement.
 4. After full-MD adjudication confirmed five genuine omissions, the user explicitly authorized the controlling PDF as a **lexical fallback only for those five resolved gaps** on scans **93, 95, 97, 98 and 130**.
-5. Scene files are assembled only from verified page records. Mechanical physical-page line breaks may be removed, but wording and source structure must not be silently normalized.
-6. No inferred wording or invented scene numbering is permitted.
+5. Scene files were assembled only from verified page records. Mechanical physical-page line breaks were removed only when the join was positively established; wording and source structure were not silently normalized.
+6. No inferred wording or invented scene numbering was introduced.
 
 ## Former lexical gaps — all resolved
 
@@ -48,7 +50,7 @@ Primary lexical witness:
 - **98** — restored the printed photograph caption `ஓ. எம். சுப்பிரமணியன்,` separately from dramatic reading order.
 - **130** — restored two missing `குரல்:` turns plus the separate pre-gunshot `கண்:— அம்மா!...` turn.
 
-## Scene assembly completed so far
+## Final scene assembly
 
 - `scenes/01.md` — Scene 1, scans 92–93.
 - `scenes/02-05.md` — source-compressed `காட்சிகள்: 2, 3, 4, 5.` representation from scan 93; no missing dialogue invented.
@@ -72,14 +74,15 @@ Primary lexical witness:
 - `scenes/24.md` — Scene 24, scans 125–129; `முடி` / `யாம` mechanically joined as `முடியாம`, and `கொள்` / `ளுங்கள்` as `கொள்ளுங்கள்`; repeated verified continuation label retained.
 - `scenes/25.md` — Scene 25, scan 129; source-compressed bracketed campaign action preserved without invented dialogue.
 - `scenes/26.md` — Scene 26, scans 129–130; no lexical join required at the page boundary; unusual verified speaker-label sequence retained exactly.
+- `scenes/27.md` — Scene 27, scans 130–131; preserves the three already verified scan-130 direct-PDF fallback turns, keeps the scan-130 `கண்டுபிடியுங்கள்` box and scan-131 cast block outside dramatic reading order, and closes exactly at `(முற்றும்)`.
 
-## Structural safeguards
+## Structural safeguards preserved
 
 - scan **124** prints the post-Scene-21 heading only as **`காட்சி,`**;
 - scan **125** prints **`காட்சி 24.`**;
-- do **not** invent `காட்சி 22` or `காட்சி 23`;
-- scan **130** keeps the boxed `கண்டுபிடியுங்கள்` feature separate from dramatic reading order;
-- scan **131** closes with `(முற்றும்)` and then the boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` material.
+- no `காட்சி 22` or `காட்சி 23` was invented;
+- scan **130** boxed `கண்டுபிடியுங்கள்` remains separate from dramatic reading order;
+- scan **131** dramatic text closes with `(முற்றும்)` and the following `நாடகத்தில்—பங்கேற்பவர்கள்!` cast block remains separate page-level material.
 
 ## User-supplied catalog metadata
 
@@ -88,8 +91,8 @@ Primary lexical witness:
 - வெளியீடு: **முரசொலி-பொங்கல் மலர்**
 - பதிப்பு / ஆண்டு: **1967**
 
-## Exact next activity
+## Next phase
 
-Assemble and page-record-check **Scene 27** from verified scans **130–131**. Keep scan-130 boxed `கண்டுபிடியுங்கள்` separate from dramatic reading order, retain the already verified three PDF-fallback turns on scan 130, and close the dramatic scene at source `(முற்றும்)` on scan 131. The following `நாடகத்தில்—பங்கேற்பவர்கள்!` cast block remains separate page-level material. Then perform the final scene-assembly consistency/closure review.
+No further Tamil page-level transcription, verification or scene assembly remains pending.
 
-Do **not** begin English translation until separately authorized.
+English translation remains **not started / not authorized**. Do not begin it until the user explicitly authorizes the translation phase.
