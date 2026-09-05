@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 needs-review; structural inventory PASS; 7/7 SRUs assembled/reviewed PASS; English plan READY/REVIEWED; translation not yet authorized** |
+| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 needs-review; structural inventory PASS; 7/7 Tamil SRUs assembled/reviewed PASS; English Batch 01 PASS/LOCKED; 2/7 English SRUs reviewed** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archive/assembly PASS; independent English PASS; 2009 One Act Plays witness N/A** |
@@ -32,19 +32,24 @@ Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீய
 - unresolved visual/source clusters: **3**;
 - structural/scene inventory: **COMPLETE / PASS — 7 editorial SRUs**;
 - Tamil source-representation assembly: **7 / 7 COMPLETE / REVIEWED — PASS**;
-- English translation plan/tracker: **READY / REVIEWED**;
-- English artifacts present/reviewed: **0 / 7 / 0 / 7**;
-- English translation authorization: **not yet granted**.
+- English translation: **AUTHORIZED / IN PROGRESS**;
+- English artifacts present/reviewed: **2 / 7**;
+- completed English batches: **1 / 4**.
 
 The durable `works/thiruvalar-desiyampillai/PAGE_LAYER_COMPLETION_AUDIT.md` records **coverage PASS** but not 49/49 verification. Source limitations remain explicit: front-matter holds `1, 3, 4, 5`; body paper-loss holds `7, 8, 9`; unresolved body clusters on `35, 36`.
 
 The durable `works/thiruvalar-desiyampillai/STRUCTURAL_SCENE_INVENTORY.md` records **PASS / REVIEWED**. The source has no numbered scenes or acts. Seven editorial SRUs preserve source order and defensible printed transitions only.
 
-The durable `works/thiruvalar-desiyampillai/ASSEMBLY_REVIEW.md` records **PASS / REVIEWED**. All seven SRUs are present; all 42 dramatic scans are represented; SRU-01 preserves every `[paper loss]`; SRU-04 preserves all three unresolved markers; scan-47 `உதயசூரியன் கோலம்` remains internal; scan 48 has no invented `முற்றும்`.
+The durable `works/thiruvalar-desiyampillai/ASSEMBLY_REVIEW.md` records **PASS / REVIEWED**. All seven Tamil SRUs are present; all 42 dramatic scans are represented; SRU-01 preserves every `[paper loss]`; SRU-04 preserves all three unresolved markers; scan-47 `உதயசூரியன் கோலம்` remains internal; scan 48 has no invented `முற்றும்`.
 
-The new durable `works/thiruvalar-desiyampillai/TRANSLATION_PLAN.md` is **PLAN READY / REVIEWED** and `translations/en/README.md` tracks the future independent English layer. It requires seven English SRUs, four review batches, exact propagation of all loss/unresolved markers, no invented scene numbering or `The End`, and `secondary_english_witness_used: false`.
+`works/thiruvalar-desiyampillai/TRANSLATION_PLAN.md` is **AUTHORIZED / IN PROGRESS**. Batch 01 is durably reviewed in `translations/en/BATCH_01_REVIEW.md`:
 
-**Exact next activity:** await explicit authorization for English translation. After authorization, translate and fully review Batch 1: SRU-01 + SRU-02, then create `translations/en/BATCH_01_REVIEW.md`.
+- `sru-01-yama-court.md` — reviewed; **7 / 7** `[paper loss]` markers retained;
+- `sru-02-guesthouse.md` — reviewed;
+- secondary-English witness use: **0**;
+- Tamil archival changes caused by translation: **0**.
+
+**Exact next activity:** process English Translation Batch 02 — translate and fully review Tamil `scenes/sru-03-eman-interview.md`, create `translations/en/sru-03-eman-interview.md`, then create `translations/en/BATCH_02_REVIEW.md` before advancing.
 
 ## Closed காகிதப்பூ checkpoint
 
