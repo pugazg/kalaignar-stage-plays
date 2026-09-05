@@ -38,72 +38,48 @@ Every scan must check:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Current same-edition references:
+Positive same-edition reference families currently established:
 
-- `லை` from `கலைஞர் / தலைகள் / மாலைதானே`;
-- `ளை` from `பிள்ளை / உங்களை / விளையும்`;
-- `ணா` from `கருணாநிதி / கல்யாண / ஆகாஷவாணி`;
-- `ணை` from scan-25 `சொரணை`;
-- `னா` from scans 26–27 `கெட்டிக்காரர்தானா / உடையவர்தானா / மானால்`, reinforced by scan-15 `தானா` and scan-21 `மகனா`;
-- `னை` from `அவனை / தண்டனை`;
-- `றா` from `வண்ணமிருக்கிறார்களே / பார்க்கிறார் / நன்றாக / என்றாரே`.
+`லை / ளை / ணா / ணை / னா / னை / றா`.
 
-Use them only for character-identity comparison. Never use them or context to reconstruct physical paper loss or regularize source wording.
+Authoritative historical-glyph corrections — do not restore superseded apparent-shape readings:
 
-## Completed scans 1–30
+- scan 15 `என்றுரே` → **`என்றாரே`**;
+- scan 15 `தானு` → **`தானா`**;
+- scan 20 `நன்றுக` → **`நன்றாக`**;
+- scan 21 `மகனு` → **`மகனா`**;
+- scan 28 `மால்தானே` → **`மாலைதானே`**.
 
-Batch 1:
-- `0001.md` — `needs-review`
-- `0002.md` — `verified`
-- `0003.md` — `needs-review`
-- `0004.md` — `needs-review`
-- `0005.md` — `needs-review`
+Use same-edition references only for character-identity comparison. Never use them or context to reconstruct physical paper loss or regularize source wording.
 
-Batch 2:
-- `0006.md` — `verified`
-- `0007.md` — `needs-review`
-- `0008.md` — `needs-review`
-- `0009.md` — `needs-review`
-- `0010.md` — `verified`
+## Completed scans 1–35
 
-Batch 3 — **all verified**:
-- `0011.md` through `0015.md` / printed pp.9–13.
-
-Batch 4 — **all verified**:
-- `0016.md` through `0020.md` / printed pp.14–18.
-- Scan 20 apparent old-type `நன்றுக` is canonically **`நன்றாக`** (`றா`).
-
-Batch 5 — **all verified**:
-- `0021.md` through `0025.md` / printed pp.19–23.
-- `ணை` established from scan-25 `சொரணை`.
-
-Batch 6 — **all verified**:
-- `0026.md` / p.24 — repeated `னா` established in `கெட்டிக்காரர்தானா / உடையவர்தானா`; final `ஆளைப் பார்த்தே` continues to scan 27;
-- `0027.md` / p.25 — opening decoded as `மானால்`; scan26→27 boundary retained;
-- `0028.md` / p.26 — apparent `மால்தானே` decoded as `மாலைதானே`; Gandhi-request/travel passage verified;
-- `0029.md` / p.27 — flower-shop/spirit narrative and physical word splits verified;
-- `0030.md` / p.28 — Nandan entrance/embrace/fainting passage verified.
-
-Authoritative backward glyph corrections triggered by Batch 6:
-
-- scan 15 `என்றுரே` → **`என்றாரே`** (`றா`);
-- scan 15 `தானு` → **`தானா`** (`னா`);
-- scan 21 `மகனு` → **`மகனா`** (`னா`).
-
-Do not restore superseded apparent-shape readings.
+- Batch 1, scans 1–5: scan 2 verified; scans 1, 3, 4, 5 `needs-review`.
+- Batch 2, scans 6–10: scans 6 and 10 verified; scans 7, 8, 9 `needs-review`.
+- Batch 3, scans 11–15: all verified.
+- Batch 4, scans 16–20: all verified.
+- Batch 5, scans 21–25: all verified.
+- Batch 6, scans 26–30: all verified.
+- Batch 7, scans 31–35:
+  - `0031.md` / p.29 — **verified**; Gandhi ornate-prison introduction; `உடைதானா`, `விலைமதிக்க / மாலையை` checked;
+  - `0032.md` / p.30 — **verified**; garland rejection; repeated `மாலை`, `நன்றாகப்` checked;
+  - `0033.md` / p.31 — **verified**; priest/party allegory; `அரசனா / ஆண்டவனா`; final `கட்சித் தலைவர்கள் கடவுளை` physically continues;
+  - `0034.md` / p.32 — **verified**; scan-33 continuation; physical `சொல் / வொணா` and source `நாதி / யில்லை` retained;
+  - `0035.md` / p.33 — **needs-review**; full 13-family pass complete but one short cluster in `கொம்பு மாடெனக் … மட்டும்` remains unresolved. The apparent reading resembling `கொழுப்பேறி` is not canonical. Final `எங்குவேன்` continues to scan 36.
 
 Current metrics:
 
-- canonical page transcriptions processed: **30 / 49**;
-- visually verified: **23 / 49** (`2, 6, 10–30`);
-- `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
-- historical-glyph passes: **30 / 49**;
-- unprocessed: **19 / 49**;
+- canonical page transcriptions processed: **35 / 49**;
+- visually verified: **27 / 49** (`2, 6, 10–34`);
+- `needs-review`: **8 / 49** (`1, 3, 4, 5, 7, 8, 9, 35`);
+- historical-glyph passes: **35 / 49**;
+- unprocessed: **14 / 49**;
+- unresolved source/glyph clusters: **1** (scan 35);
 - English translation: **not authorized / not started**.
 
-## Exact next activity — scans 31–35
+## Exact next activity — scans 36–40
 
-Process scans **31, 32, 33, 34, 35** in order. These visibly correspond to printed pages **29–33**.
+Process scans **36, 37, 38, 39, 40** in order. These visibly correspond to printed pages **34–38**.
 
 For each page:
 
@@ -115,7 +91,8 @@ For each page:
 6. use same-edition comparison for glyph identity only;
 7. do not infer missing wording, modern spelling or scene numbers;
 8. mark `verified` only when the full visual + glyph gate passes, otherwise `needs-review`;
-9. update page-map, glyph audit, work README, root README, HANDOVER and this prompt after the batch.
+9. if a later page provides genuine same-edition evidence for scan 35's unresolved cluster, re-open `0035.md` explicitly and document the adjudication; do not silently repair it;
+10. update page-map, glyph audit, work README, root README, HANDOVER and this prompt after the batch.
 
 Do not begin scene assembly or English translation yet.
 
