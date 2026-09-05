@@ -1,6 +1,6 @@
 # Next Chat Prompt — Kalaignar Stage Plays / காகிதப்பூ
 
-Continue the **காகிதப்பூ** source-first archival project directly in:
+Continue the **காகிதப்பூ** archival project directly in:
 
 `pugazg/kalaignar-stage-plays`
 
@@ -12,13 +12,19 @@ Active work: `works/kagithapoo/`
 
 Fetch live GitHub `main` first. Preserve any newer durable state. Do not reset, repeat, overwrite, or reopen completed work because this prompt contains an older checkpoint.
 
-## Controlling source
+## Required attached sources
+
+Controlling PDF:
 
 `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`
 
-The source must be attached/resolved again before page-level visual work.
+User-supplied lexical witness:
 
-Recorded raw identity:
+`kaagidha_poo.md`
+
+Both must be attached/resolved again before page-level work on the remaining pages.
+
+Recorded PDF raw identity:
 
 - SHA-256: `b0a6499ba072a7346f8c2544a8a61c2363d83a60cad5227482008043cd310ec1`;
 - size: **45,718,751 bytes**;
@@ -38,32 +44,37 @@ Read completely before changing anything:
 7. `works/kagithapoo/indexes/page-map.md`;
 8. relevant page records for the active batch.
 
+## ACTIVE USER OVERRIDE — WORDS FROM MARKDOWN, STRUCTURE FROM PDF
+
+For unprocessed `காகிதப்பூ` pages from **scan 102 onward**, use this exact authority split:
+
+- **literary words / lexical tokens: `kaagidha_poo.md` only**;
+- **PDF:** physical page boundary, scene boundary/number, reading order, paragraph/speaker grouping, punctuation, stage-direction punctuation/bracketing, headings, layout, photograph/caption/source-mark evidence;
+- Markdown words may be run together or misplaced; reposition / respace only supplied words according to PDF structure;
+- the Markdown may omit paragraphs. If a source paragraph has no words in the Markdown, do **not** transcribe new lexical words from the PDF. Mark the page `needs-review` and record the lexical-witness gap;
+- do not substitute common spelling, OCR output, semantic expectation or assistant corrections for a Markdown word;
+- scans **91–101** remain the already-committed verified layer and are not automatically reopened. Retroactive lexical auditing requires explicit user authorization.
+
+Scan **102** is the first durable page processed under this rule.
+
 ## Durable current state
 
 - source intake: **COMPLETE**;
 - page placeholders: `works/kagithapoo/pages/0091.md`–`0131.md` = **41 / 41 represented**;
-- verified Tamil transcriptions: **10 / 41** — scans **91–100**;
+- verified Tamil transcriptions: **12 / 41** — scans **91–102**;
 - first page-level verification batch: **COMPLETE**;
-- next page-level batch: **101–110**;
+- active second-batch remainder: **103–110**;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
-### First-batch durable page commits
+### Recent durable commits
 
-- 91: `a5a89c50e09c2c3f8e9d9176dc26b430ee71ef36`;
-- 92: `60ec231bcc277e792df95c4230b4729e26b57096`;
-- 93: `b0290ae07a8fd5d49f61f72e913e2fd31c0575c9`;
-- 94: `4c5b661dc592b01f50b99dd61954ad5d5aae2cb0`;
-- 95: `14a57821c8b33390004ae2d13d9ad1f4bee26ab4`;
-- 96: `8fc1e2e171afb1de29723b3066be925d35d342a0`;
-- 97: `fa486ecbf0a4d5cd714b4585730de7ed07615cb8`;
-- 98: `984f192a5c3f74229f49970d21a157730ccb8f40`;
-- 99: `e58f5ad7df6f711246eb84d78e627c75fa3f8a74`;
-- 100: `0cd7fa6a72abfaab108ac656a53e4b62be892056`.
+- scan 101 page: `c5b1fc262624daa411b02e7580ab280ee283dc04`;
+- scan 101 page-map tracking: `4f2242cce5a152a17e909a975bfd84ea0a756771`;
+- scan 102 page under lexical-witness rule: `986287cc9ac9497a7806baf17301c87405a6f3c5`;
+- scan 102 page-map tracking: `9d79c268be97063d8df1ea6feec453462c45cc99`.
 
-Tracking after completion of scans 91–100: `e344a8c3ea543ccce27c36e118ff64792cd0d2e4`.
-
-### Locked first-batch boundary/source facts
+### Locked boundary/source facts through scan 102
 
 - scan 91: source-visible `காகிதப்பூ` staged title opener;
 - scan 92: `காட்சி 1` begins;
@@ -71,7 +82,8 @@ Tracking after completion of scans 91–100: `e344a8c3ea543ccce27c36e118ff64792c
 - scan 94: difficult narrow Scene-6 continuation resolved with fresh 600-dpi inspection; source forms including `சேலி`, `தணற்காடு`, and `இல்லே` preserved; Scene 6 closes and `காட்சி 7.` begins;
 - scans 95–97: Scene 7 continuation;
 - scan 98: Scene 7 closes and `காட்சி 8.` begins;
-- scans 99–100: Scene 8 continuation with adjacent-scan boundary checks.
+- scans 99–101: Scene 8 continuation;
+- scan 102: Scene 8 closes, Scene 9 is fully contained and closes, then Scene 10 begins and continues into scan 103.
 
 ### Do not normalize the scene-numbering gap
 
@@ -79,23 +91,24 @@ After `காட்சி 21`, scan 124 prints a new heading as **`காட்�
 
 ## Exact next activity
 
-Process **scans 101–110** in one page-level source-first batch.
+Process **scans 103–110** as the remainder of the second page-level batch.
 
 For each scan:
 
-- inspect the source directly and at enlarged resolution;
-- transcribe all printed Tamil word-for-word;
-- preserve source punctuation, speaker labels, stage directions, repetitions and old/source forms;
-- describe photographs/illustrations archivally and transcribe printed captions verbatim;
+- inspect the PDF directly and at enlarged resolution;
+- locate the corresponding wording in `kaagidha_poo.md`;
+- use only Markdown-supplied words for literary text;
+- use PDF evidence for reading order, scene/page boundary, paragraph and speaker grouping, punctuation and stage-direction formatting;
+- detect run-together/misplaced Markdown words and reposition them only from source layout evidence;
+- detect any source paragraph missing from the Markdown and use `needs-review` rather than filling it from the PDF;
+- describe photographs/illustrations archivally and transcribe printed captions according to the source/witness authority split;
 - keep library/damage/bleed-through marks separate from literary text;
-- update `pages/0101.md`–`0110.md` and `indexes/page-map.md`;
-- only mark a page `verified` after direct visual reconciliation;
+- update `pages/0103.md`–`0110.md` and `indexes/page-map.md`;
+- only mark a page `verified` after the mixed-authority reconciliation passes;
 - **commit each completed page or small completed group durably instead of waiting for the full batch**.
 
-Known intake-level structure for the batch:
+Known intake-level structure for the remainder:
 
-- scan 101: `காட்சி 8` continuation;
-- scan 102: `காட்சி 8` / `காட்சி 9` / `காட்சி 10` transition sequence;
 - scans 103–104: `காட்சி 10`, with `காட்சி 11` beginning on 104;
 - scan 105: `காட்சி 11` closes and `காட்சி 12` begins;
 - scans 106–107: `காட்சி 12`, with `காட்சி 13` and `காட்சி 14` headings appearing on 107;
@@ -114,7 +127,7 @@ Do **not** begin scene assembly or English translation.
 - year/edition: **1967**;
 - description: `பேசப்படும் சோசலிசம் என்பது பளபளப்பிலே, பார்வையிலேதான் பாரிஜாதப்பூ என்றும், உண்மையில் அது ஒரு காகிதப்பூ என்றும் விளக்கும் நாடகம் இது.`
 
-Keep that catalog description separate from verbatim scan transcription.
+Keep that catalog description separate from the archival transcription.
 
 ## Closed-work safeguard
 
