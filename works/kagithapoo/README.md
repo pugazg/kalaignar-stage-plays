@@ -4,7 +4,7 @@ Archive slug: `kagithapoo`.
 
 ## Current status
 
-**TAMIL ARCHIVAL LAYER COMPLETE / CLOSED. PAGE LAYER 41 / 41 VERIFIED. SCENE ASSEMBLY COMPLETE / CLOSED — FINAL REVIEW PASS. ENGLISH TRANSLATION IN PROGRESS — BATCH 1 PASS / LOCKED.**
+**TAMIL ARCHIVAL LAYER COMPLETE / CLOSED. PAGE LAYER 41 / 41 VERIFIED. SCENE ASSEMBLY COMPLETE / CLOSED — FINAL REVIEW PASS. ENGLISH TRANSLATION IN PROGRESS — BATCHES 1–2 PASS / LOCKED.**
 
 Controlling PDF:
 
@@ -23,8 +23,8 @@ Primary lexical witness:
 - scene assembly: **COMPLETE / CLOSED**;
 - scene assembly artifacts: **23 / 23 expected source-representation artifacts present**;
 - final scene-assembly consistency review: **PASS**;
-- English translation: **5 / 23 artifacts complete and reviewed**;
-- English Batch 1: **PASS / LOCKED**;
+- English translation: **10 / 23 artifacts complete and reviewed**;
+- English Batches 1–2: **PASS / LOCKED**;
 - unresolved blocking English translation issues: **0**.
 
 ## Durable audits / assembly / translation records
@@ -34,9 +34,10 @@ Primary lexical witness:
 - `PAGE_LAYER_CONSISTENCY_AUDIT.md` — final 91–131 page-layer audit: **PASS**.
 - `SCENE_ASSEMBLY_PROGRESS.md` — final scene inventory and closed assembly checkpoint.
 - `SCENE_ASSEMBLY_FINAL_REVIEW.md` — final scene-assembly consistency/closure review: **PASS**.
-- `TRANSLATION_PLAN.md` — authorized English-translation controls, artifact mapping, review gates and batch plan; Batch 1 now complete.
+- `TRANSLATION_PLAN.md` — authorized English-translation controls, artifact mapping, review gates and batch plan; Batches 1–2 now complete.
 - `translations/en/README.md` — English-phase tracker; drafting authority is the closed Tamil scene layer.
-- `translations/en/BATCH_01_REVIEW.md` — Tamil→English coverage/fidelity review for the first five source-representation artifacts: **PASS / LOCKED**.
+- `translations/en/BATCH_01_REVIEW.md` — Tamil→English coverage/fidelity review for Batch 1: **PASS / LOCKED**.
+- `translations/en/BATCH_02_REVIEW.md` — Tamil→English coverage/fidelity review for Batch 2: **PASS / LOCKED**.
 
 ## Witness policy at closure
 
@@ -102,19 +103,27 @@ Completed and reviewed:
 - `translations/en/02-05.md` — source-compressed Scenes 2–5;
 - `translations/en/06.md` — Scene 6;
 - `translations/en/07.md` — Scene 7;
-- `translations/en/08.md` — Scene 8.
+- `translations/en/08.md` — Scene 8;
+- `translations/en/09.md` — Scene 9;
+- `translations/en/10.md` — Scene 10;
+- `translations/en/11.md` — Scene 11;
+- `translations/en/12.md` — Scene 12;
+- `translations/en/13.md` — Scene 13.
 
-Batch 1 review: `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**.
+Batch reviews:
+
+- `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
+- `translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED**.
 
 Current English totals:
 
-- present: **5 / 23**;
-- reviewed: **5 / 23**;
-- completed batches: **1 / 5**;
+- present: **10 / 23**;
+- reviewed: **10 / 23**;
+- completed batches: **2 / 5**;
 - unresolved blocking translation issues: **0**;
 - secondary-English contamination: **0**.
 
-Stable Batch-1 terminology and source-sensitive controls are recorded in `translations/en/README.md`. The verified but semantically insecure Scene-6 phrase `அந்சு ... சொம்பு வீரமாதம்` remains a documented transliterated carryover rather than a silently repaired reading.
+Stable terminology and source-sensitive controls through Batch 2 are recorded in `translations/en/README.md`. In particular, the locked semantically insecure forms `அந்சு ... சொம்பு வீரமாதம்`, `பூச்ண`, `அங்கவனும்—பவனும்` and colloquial `புள்ள குட்டி` remain documented carryovers rather than silently repaired readings; the Scene-12 anomalous `விந்து` repetition is documented without altering the Tamil layer.
 
 No secondary English witness is authorized for drafting or silent correction.
 
@@ -127,12 +136,12 @@ No secondary English witness is authorized for drafting or silent correction.
 
 ## Exact next activity
 
-Translate and Tamil→English review **Batch 2** from the closed Tamil scene layer only:
+Translate and Tamil→English review **Batch 3** from the closed Tamil scene layer only:
 
-- `scenes/09.md` → `translations/en/09.md`;
-- `scenes/10.md` → `translations/en/10.md`;
-- `scenes/11.md` → `translations/en/11.md`;
-- `scenes/12.md` → `translations/en/12.md`;
-- `scenes/13.md` → `translations/en/13.md`.
+- `scenes/14.md` → `translations/en/14.md`;
+- `scenes/15.md` → `translations/en/15.md`;
+- `scenes/16.md` → `translations/en/16.md`;
+- `scenes/17.md` → `translations/en/17.md`;
+- `scenes/18.md` → `translations/en/18.md`.
 
 Do not use OCR, `kaagidha_poo.md`, the PDF, a modern edition or a secondary English text as the drafting authority.
