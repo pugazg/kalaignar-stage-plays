@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீயம்பிள்ளை.pdf`.
 
-All **49 physical scans** are registered. Page production has begun source-first; historical-glyph completion is tracked independently from whether physical damage permits a page to be called `verified`.
+All **49 physical scans** are registered. Page production is source-first; historical-glyph completion is tracked independently from whether physical damage permits a page to be called `verified`.
 
 | Scan | Printed page | Section | Page type | Status | Intake / verification note |
 |---:|---:|---|---|---|---|
@@ -11,11 +11,11 @@ All **49 physical scans** are registered. Page production has begun source-first
 | 3 | — | front matter | title page | needs-review | Title/publisher/address transcribed; author line survives only as `மு. கருண[paper loss]`; handwriting kept separate. |
 | 4 | — | front matter | edition / imprint | needs-review | `இரண்டாம் பதிப்பு`, `நவம்பர் 1965`, imprint verified; central price/matter line physically lost except surviving `காசு`. |
 | 5 | — | front matter | publisher note | needs-review | Visible `வணக்கம்.` note fragments transcribed; large physical losses deliberately not reconstructed; note continues to scan 6. |
-| 6 | — | front matter | publisher note | not-started | Publisher note closes with `K. R. நாராயணன்`; paper loss at lower left. |
-| 7 | — | body | work opener / dramatic text | not-started | Work title and dramatic body begin; next scan is visibly printed p.6. |
-| 8 | 6 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 9 | 7 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 10 | 8 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
+| 6 | — | front matter | publisher note | verified | Publisher-note close fully transcribed; physical line split `வெளியிடுகி / றேன்` preserved; lower-left abrasion does not remove printed letters; glyph pass complete. |
+| 7 | — | body | work opener / dramatic text | needs-review | Source-visible title/body transcribed with explicit `[paper loss]`; no printed page or scene number inferred; `ளை / லை` checked. |
+| 8 | 6 | body | dramatic text | needs-review | Printed p.6; scan-7 continuation plus body text transcribed; broad central paper loss retained as unresolved; `லை / னை` checked. |
+| 9 | 7 | body | dramatic text | needs-review | Printed p.7; speaker structure transcribed; lower-right loss removes end of first repeated `எங்கே ஜனநாயக…` line; `ளை` checked. |
+| 10 | 8 | body | dramatic text | verified | Printed p.8; full dialogue/speaker structure verified; later ink mark does not obscure text; `லை / ளை` checked. |
 | 11 | 9 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
 | 12 | 10 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
 | 13 | 11 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
@@ -60,14 +60,14 @@ All **49 physical scans** are registered. Page production has begun source-first
 
 - scans registered: **49 / 49**;
 - page placeholders: **49 / 49**;
-- canonical page transcriptions processed: **5 / 49**;
-- visually verified page records: **1 / 49**;
-- `needs-review`: **4 / 49**;
-- historical-glyph passes complete: **5 / 49**;
-- unprocessed page records: **44 / 49**;
+- canonical page transcriptions processed: **10 / 49**;
+- visually verified page records: **3 / 49** (`2, 6, 10`);
+- `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
+- historical-glyph passes complete: **10 / 49**;
+- unprocessed page records: **39 / 49**;
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
-Printed-page policy: scans **8–48** visibly carry printed pages **6–46**. Scan 7 is the body opener immediately before printed p.6, but its own numeral is not safely visible at intake, so no printed page number is inferred.
+Printed-page policy: scans **8–48** visibly carry printed pages **6–46**. Scan 7 is the body opener immediately before printed p.6, but its own numeral is not safely visible, so no printed page number is inferred.
 
-Exact next activity: transcribe and historically verify **scans 6–10**. Keep scan 6 as publisher-note continuation, record only source-visible structure on scan 7, and do not infer any scene number or repair damaged text from context.
+Exact next activity: transcribe and historically verify **scans 11–15** (printed pages **9–13**) without inferring scene numbering or repairing damaged text from context.
