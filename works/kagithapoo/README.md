@@ -21,7 +21,7 @@ Primary lexical witness:
 - `needs-review`: **0**;
 - unprocessed pages: **0**;
 - scene assembly: **AUTHORIZED / IN PROGRESS**;
-- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, and **Scenes 6–21**;
+- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, **Scenes 6–21**, the unnumbered source **`காட்சி,`** block, and **Scene 24**;
 - English translation: **not started / not authorized**.
 
 ## Durable audits / assembly tracking
@@ -68,6 +68,8 @@ Primary lexical witness:
 - `scenes/19.md` — Scene 19, scan 116; complete single-scan scene preserved through `(திரை)`.
 - `scenes/20.md` — Scene 20, scans 117–119; the scan-118→119 sentence continuation is joined mechanically and the scene closes before `காட்சி 21.`.
 - `scenes/21.md` — Scene 21, scans 119–124; `நலத்—` / `திட்ட` is joined as `நலத்திட்ட`, `ஆட்சி—` / `மொழிகளாகட்டும்` as `ஆட்சிமொழிகளாகட்டும்`, and the 123→124 sentence continuation is joined without lexical normalization. Verified unusual wording remains unchanged.
+- `scenes/unnumbered-between-21-and-24.md` — scans 124–125; the source heading **`காட்சி,`** is preserved exactly, no Scene 22/23 number is assigned, and the block closes at `(திரை)` immediately before Scene 24.
+- `scenes/24.md` — Scene 24, scans 125–129; `முடி` / `யாம` is mechanically joined as `முடியாம`, `கொள்` / `ளுங்கள்` as `கொள்ளுங்கள்`, and the repeated scan-127 `திர:—` label plus unusual verified wording are preserved.
 
 ## Structural safeguards
 
@@ -86,6 +88,6 @@ Primary lexical witness:
 
 ## Exact next activity
 
-Assemble and page-record-check the **unnumbered source `காட்சி,`** from verified scans **124–125**, preserving that heading exactly and assigning no Scene 22/23 number. Then continue with **Scene 24** unless the user specifies another batch size.
+Assemble and page-record-check **Scene 25** from verified scan **129**, then continue with **Scene 26** from scans **129–130** unless the user specifies another batch size.
 
 Do **not** begin English translation until separately authorized.
