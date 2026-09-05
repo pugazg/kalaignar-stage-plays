@@ -4,50 +4,48 @@ Archive slug: `kagithapoo`.
 
 ## Current status
 
-**PAGE LAYER COMPLETE WITH FIVE DOCUMENTED LEXICAL-WITNESS EXCEPTIONS.**
+**PAGE LAYER COMPLETE / CLOSED — 41 / 41 scans verified.**
 
-Controlling structural source:
+Controlling PDF:
 
 `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`
 
-Lexical witness:
+Primary lexical witness:
 
 `kaagidha_poo.md`
 
 - full PDF: **131 physical scans**;
 - selected work range: **91–131 inclusive = 41 scans**;
 - page records processed: **41 / 41**;
-- fully dual-witness verified: **36 / 41** — scans **91, 92, 94, 96, 99–129, 131**;
-- `needs-review`: **93, 95, 97, 98, 130**;
+- verified: **41 / 41**;
+- `needs-review`: **0**;
 - unprocessed pages: **0**;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
 ## Durable audits
 
-- `MD_LEXICAL_RECONCILIATION_0091_0101.md` — historical reconciliation record for scans 91–101.
-- `LEXICAL_GAP_ADJUDICATION.md` — full-MD adjudication of the five remaining gaps.
-- `PAGE_LAYER_CONSISTENCY_AUDIT.md` — final 91–131 page-layer audit; **PASS WITH FIVE OPEN LEXICAL-WITNESS EXCEPTIONS**.
+- `MD_LEXICAL_RECONCILIATION_0091_0101.md` — historical MD reconciliation record for scans 91–101, with postscript recording later PDF-authorized closure of the four early gaps.
+- `LEXICAL_GAP_ADJUDICATION.md` — investigation and final resolution of the five genuine MD omissions.
+- `PAGE_LAYER_CONSISTENCY_AUDIT.md` — final 91–131 page-layer audit: **PASS**.
 
-## Locked dual-witness rule
+## Witness policy at closure
 
-1. **Words / lexical forms come only from the user-supplied `kaagidha_poo.md`.**
-2. **The PDF controls physical page boundaries, scene/paragraph/speaker structure, reading order, punctuation, brackets, headings/numbers, photographs, captions, boxed features and other physical/layout evidence.**
-3. MD words may be repositioned or respaced when PDF structure establishes their correct placement.
-4. PDF-only words must not be silently imported. If the MD supplies no lexical wording for a PDF-defined text position, record a lexical-witness gap.
-5. No OCR/common-spelling/semantic/assistant normalization may replace MD wording.
+1. `kaagidha_poo.md` remains the **primary lexical witness**.
+2. The PDF controls page/scene boundaries, reading order, punctuation, speaker/paragraph/stage structure, headings/numbers, photographs, captions, boxed features and other physical evidence.
+3. MD wording may be repositioned/respaced only when PDF structure proves placement.
+4. After full-MD adjudication confirmed five genuine omissions, the user explicitly authorized the controlling PDF as a **lexical fallback only for those five resolved gaps** on scans **93, 95, 97, 98 and 130**.
+5. No silent normalization, inferred wording or invented scene numbering is permitted.
 
-## Gap-adjudication result
+## Former lexical gaps — all resolved
 
-The full MD was rechecked specifically for displaced wording because the user warned that words/paragraphs may be misplaced. None of the five open gaps can be safely recovered from elsewhere in the MD.
+- **93** — restored PDF wording `அவள் தோழி` inside the Scene-6 opening stage direction.
+- **95** — restored the complete missing `காவேரி:` paragraph and the opening of the following `மரகதம்:` paragraph directly from the PDF.
+- **97** — restored source parenthetical `(படத்திடம் போய்)`.
+- **98** — restored the printed photograph caption `ஓ. எம். சுப்பிரமணியன்,` separately from dramatic reading order.
+- **130** — restored two missing `குரல்:` turns plus the separate pre-gunshot `கண்:— அம்மா!...` turn.
 
-- **93** — source-defined Scene-6 stage direction contains lexical material not supplied by MD;
-- **95** — one complete `காவேரி:` paragraph and the opening of the following `மரகதம்:` paragraph are absent from MD;
-- **97** — one source-defined parenthetical stage direction inside காவேரி's speech is absent from MD;
-- **98** — a printed personal-name photograph caption is absent from MD;
-- **130** — two source-defined `குரல்:` turns and one separate pre-gunshot `கண்:` turn are absent from MD. The later MD `கண்: அம்மா!...` is source-present on scan 131 after காவேரி falls and therefore cannot be moved to fill the scan-130 gap.
-
-No PDF-only lexical backfill was performed.
+All five were inserted only after the user's explicit instruction to update them from the PDF.
 
 ## Structural safeguards
 
@@ -66,11 +64,6 @@ No PDF-only lexical backfill was performed.
 
 ## Exact next activity
 
-There is no further autonomous page-level transcription work under the current witness rule.
+No further page-level transcription or verification remains.
 
-The next step requires a user decision for scans **93, 95, 97, 98, 130**:
-
-1. supply / explicitly authorize lexical wording for the missing source-defined positions; **or**
-2. explicitly accept those omissions as permanent documented gaps.
-
-Do **not** begin scene assembly or English translation unless separately authorized.
+**Do not begin scene assembly or English translation unless separately authorized by the user.**
