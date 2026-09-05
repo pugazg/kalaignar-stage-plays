@@ -34,9 +34,9 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 | 17 | 114–115 | assembly-reviewed | `scenes/17.md` |
 | 18 | 115–116 | assembly-reviewed | `scenes/18.md` |
 | 19 | 116 | assembly-reviewed | `scenes/19.md` |
-| 20 | 117–119 | next | — |
-| 21 | 119–124 | pending | — |
-| unnumbered source `காட்சி,` | 124–125 | pending; do not assign 22/23 | — |
+| 20 | 117–119 | assembly-reviewed | `scenes/20.md` |
+| 21 | 119–124 | assembly-reviewed | `scenes/21.md` |
+| unnumbered source `காட்சி,` | 124–125 | next; do not assign 22/23 | — |
 | 24 | 125–129 | pending | — |
 | 25 | 129 | pending | — |
 | 26 | 129–130 | pending | — |
@@ -60,7 +60,9 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 - `scenes/17.md` assembles scans 114–115; Gandhi's long speech is joined across the physical page boundary and the scene closes at `(திரை)` before Scene 18.
 - `scenes/18.md` assembles scans 115–116; the physical continuation is joined while preserving the page-record speaker-label variation, including `திர:—` on scan 116.
 - `scenes/19.md` preserves the complete single-scan Scene 19 on scan 116 and closes at `(திரை)`.
+- `scenes/20.md` assembles verified scans 117–119; the scan-118→119 sentence continuation `நீங்கள் சிந்திய ரத்தம் கூட—` / `உங்கள் மகன்...` is joined mechanically, and Scene 20 closes at `(திரை)` before Scene 21.
+- `scenes/21.md` assembles verified scans 119–124. The physical word splits `நலத்—` / `திட்ட` and `ஆட்சி—` / `மொழிகளாகட்டும்` are mechanically joined as `நலத்திட்ட` and `ஆட்சிமொழிகளாகட்டும்`; the scan-123→124 sentence continuation is joined without lexical normalization. Unusual verified page-record wording remains unchanged. Scene 21 closes at `(திரை)` immediately before the unnumbered source heading `காட்சி,`.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 20** from verified scans **117–119**, then continue with Scene 21 unless the user specifies a different batch size. Do not begin English translation.
+Assemble and page-record-check the **unnumbered source `காட்சி,`** from verified scans **124–125**, preserving the heading exactly and assigning no Scene 22/23 number. Then continue with **Scene 24** unless the user specifies a different batch size. Do not begin English translation.
