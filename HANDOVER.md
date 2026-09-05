@@ -56,57 +56,48 @@ Permanent rules:
 - physical paper loss cannot be repaired by glyph inference;
 - use `needs-review` when source support is incomplete.
 
-Same-edition reference families now established:
+Positive same-edition reference families now established:
 
-- `லை` — `கலைஞர் / தலைகள் / மாலைதானே`;
-- `ளை` — `பிள்ளை / உங்களை / விளையும்`;
-- `ணா` — `கருணாநிதி / கல்யாண / ஆகாஷவாணி`;
-- `ணை` — `சொரணை`;
-- `னா` — `கெட்டிக்காரர்தானா / உடையவர்தானா / மானால்`, with backward confirmation in `தானா / மகனா`;
-- `னை` — `அவனை / தண்டனை`;
-- `றா` — `வண்ணமிருக்கிறார்களே / பார்க்கிறார் / நன்றாக / என்றாரே`.
+`லை / ளை / ணா / ணை / னா / னை / றா`.
 
-## Current state after scans 1–30
+Authoritative historical-glyph corrections that must not be reverted:
+
+- scan 15 `என்றுரே` → **`என்றாரே`** (`றா`);
+- scan 15 `தானு` → **`தானா`** (`னா`);
+- scan 20 `நன்றுக` → **`நன்றாக`** (`றா`);
+- scan 21 `மகனு` → **`மகனா`** (`னா`);
+- scan 28 `மால்தானே` → **`மாலைதானே`** (`லை`).
+
+## Current state after scans 1–35
 
 **PAGE LAYER IN PROGRESS.**
 
 - scans registered: **49 / 49**;
 - page placeholders: **49 / 49**;
-- canonical transcriptions processed: **30 / 49**;
-- visually verified pages: **23 / 49** (`2, 6, 10–30`);
-- `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
-- historical-glyph passes complete: **30 / 49**;
-- unprocessed: **19 / 49**;
+- canonical transcriptions processed: **35 / 49**;
+- visually verified pages: **27 / 49** (`2, 6, 10–34`);
+- `needs-review`: **8 / 49** (`1, 3, 4, 5, 7, 8, 9, 35`);
+- historical-glyph passes complete: **35 / 49**;
+- unprocessed: **14 / 49**;
+- unresolved source/glyph clusters: **1** (scan 35);
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
-### Completed Batch 6 controls — scans 26–30
+### Completed Batch 7 controls — scans 31–35
 
-All five are **VERIFIED**.
+- scan 31 / printed p.29 — **VERIFIED**: Gandhi's ornate-prison introduction and first exchange; `உடைதானா` reinforces `னா`; `விலைமதிக்க / மாலையை` reinforce `லை`;
+- scan 32 / p.30 — **VERIFIED**: garland-rejection passage; repeated `மாலை` and `நன்றாகப்` checked by established historical identities;
+- scan 33 / p.31 — **VERIFIED**: priest/party allegory; `அரசனா / ஆண்டவனா` reinforce `னா`; final `கட்சித் தலைவர்கள் கடவுளை` stays physically open into scan 34;
+- scan 34 / p.32 — **VERIFIED**: scan-33 continuation and Gandhi critique; physical `சொல் / வொணா` and source `நாதி / யில்லை` retained;
+- scan 35 / p.33 — **NEEDS REVIEW**: page otherwise fully transcribed and 13-family checked, but one short cluster in `கொம்பு மாடெனக் … மட்டும்` remains visually insecure. The apparent reading resembling `கொழுப்பேறி` is not canonical. Final `எங்குவேன்` remains open to scan 36.
 
-- scan 26 / printed p.24: `ஐந்தாண்டுத் திட்டம்` interview verified; `னா` established from `கெட்டிக்காரர்தானா / உடையவர்தானா`; final `ஆளைப் பார்த்தே` remains physically open into scan 27;
-- scan 27 / p.25: opening old-type form decoded as `மானால்`; scan26→27 physical boundary preserved;
-- scan 28 / p.26: Gandhi-request/travel sequence verified; apparent `மால்தானே` decoded as `மாலைதானே` (`லை`); source `என் / னோடு` split retained;
-- scan 29 / p.27: flower-shop/spirit narrative verified; physical splits `மந்திரி / கள்`, `படிக்கட்டு / கள்`, `நவரத் / தினங்கள்` preserved;
-- scan 30 / p.28: Nandan entrance, embrace and fainting sequence verified; full 13-family pass complete; physical splits retained.
-
-### Backward historical-glyph corrections now authoritative
-
-Batch-6 same-edition evidence required three durable rechecks:
-
-- scan 15 `என்றுரே` → **`என்றாரே`** (`றா`);
-- scan 15 `தானு` → **`தானா`** (`னா`);
-- scan 21 `மகனு` → **`மகனா`** (`னா`).
-
-Scan 20 remains canonically **`நன்றாக`** after its earlier `றா` recheck. Do not restore superseded apparent-shape readings.
-
-No scan 10–30 text is damage-limited. Existing `needs-review` pages remain scans `1, 3, 4, 5, 7, 8, 9`.
+Existing damage-driven review holds remain scans `1, 3, 4, 5, 7, 8, 9`. Scan 35 is a distinct unresolved visual/glyph-cluster hold.
 
 Do not begin scene assembly or English translation during this page-layer phase.
 
 ## Exact next activity
 
-Process **scans 31–35** source-first, corresponding to printed pages **29–33**.
+Process **scans 36–40** source-first, corresponding to printed pages **34–38**.
 
 For each:
 1. inspect full native/enlarged source pixels;
@@ -117,7 +108,8 @@ For each:
 6. do not infer scene numbering;
 7. do not repair physical loss or unusual source wording from context;
 8. mark `verified` only after the complete visual + glyph gate passes;
-9. synchronize page-map, glyph audit, work README, root README, HANDOVER and NEXT prompt after the batch.
+9. if scans 36–40 contain genuine same-edition evidence for scan 35's unresolved cluster, re-adjudicate scan 35 explicitly rather than silently changing it;
+10. synchronize page-map, glyph audit, work README, root README, HANDOVER and NEXT prompt after the batch.
 
 # CLOSED WORK SAFEGUARDS
 
