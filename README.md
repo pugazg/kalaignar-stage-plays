@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil 40/49 processed; 31 verified; 9 needs-review; historical-glyph pass 40/49** |
+| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil 45/49 processed; 36 verified; 9 needs-review; historical-glyph pass 45/49** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archive/assembly PASS; independent English PASS; 2009 One Act Plays witness N/A** |
@@ -29,21 +29,23 @@ Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீய
 - scans 7–48: dramatic work;
 - scans 8–48 visibly carry printed pages **6–46**;
 - scan 49: back-cover advertisement;
-- Tamil page records processed: **40 / 49**;
-- visually verified: **31 / 49** (`2, 6, 10–34, 37–40`);
+- Tamil page records processed: **45 / 49**;
+- visually verified: **36 / 49** (`2, 6, 10–34, 37–45`);
 - `needs-review`: **9 / 49** (`1, 3, 4, 5, 7, 8, 9, 35, 36`);
-- historical-glyph passes: **40 / 49**;
+- historical-glyph passes: **45 / 49**;
 - unresolved visual/source clusters: **3**;
 - structural/scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
 The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is methodological, not a lexical witness. Positive same-edition reference families include `லை`, `ளை`, `ணா`, `ணை`, `னா`, `னை`, and `றா`.
 
-Batch 8, scans **36–40 / printed pp.34–38**, is complete: scan 36 remains `needs-review` for two short descriptive clusters; scans **37–40 are verified**. The sequence includes Gandhi's rejection of Desiyampillai, the Srirangam/Ranganathar-fire report, the stair/place-name fall (`கோவை / ஆம்பூர் / குடந்தை / மதுரை / உடுமலை / கோபிப்படி / பாசிப்படி / விருதுநகர் / திருச்சி / தஞ்சை`), and the source-visible wake-from-dream `உதய சூரியன்` passage.
+Batch 9, scans **41–45 / printed pp.39–43**, is complete and **all five pages are verified**. It covers the post-dream election-result argument, cost-of-living/tax debate, household political awakening, the `தமிழ் வாழ்க` / obscenity-law dispute, election spending and the `உதயசூரியன்` exchange. Source colloquialisms remain unnormalized.
 
-Scan 35's pre-existing unresolved cluster remains open; scans 36–40 did not provide secure evidence to clear it. Authoritative glyph corrections remain `என்றாரே / தானா` (scan 15), `நன்றாக` (scan 20), `மகனா` (scan 21), and `மாலைதானே` (scan 28).
+New explicit historical-glyph adjudications from this batch are scan 42 **`பொறாமை`** (`றா`) and scan 44 **`ஆலை முதலாளி`** (`லை`). Scans 41–45 do not securely resolve the three pre-existing clusters on scans 35–36.
 
-**Exact next activity:** source-first transcription + historical-glyph verification of **scans 41–45** (printed pages **39–43**), while keeping scans 35–36 review holds open unless later same-edition evidence genuinely resolves them.
+Authoritative earlier corrections remain `என்றாரே / தானா` (scan 15), `நன்றாக` (scan 20), `மகனா` (scan 21), and `மாலைதானே` (scan 28).
+
+**Exact next activity:** process the **final source batch, scans 46–49** — scans 46–48 are printed pages 44–46 and scan 49 is the back-cover `அல்லி விழி` advertisement. After that, perform a page-layer completion audit before scene assembly.
 
 ## Closed காகிதப்பூ checkpoint
 
