@@ -1,14 +1,14 @@
 # திருவாளர் தேசீயம்பிள்ளை — English translation plan
 
-Status: **PLAN READY / REVIEWED — TRANSLATION NOT YET AUTHORIZED / NOT STARTED**
+Status: **AUTHORIZED / IN PROGRESS — BATCH 01 PASS / LOCKED; 2 / 7 ENGLISH SRUs REVIEWED**
 
-The Tamil archival layer is closed for the current source evidence: source-page coverage **49 / 49**, historical-glyph pass **49 / 49**, structural inventory **PASS**, Tamil source-representation assembly **7 / 7 SRUs**, and `ASSEMBLY_REVIEW.md` **PASS / REVIEWED**.
+The Tamil archival layer remains closed for the current source evidence: source-page coverage **49 / 49**, historical-glyph pass **49 / 49**, structural inventory **PASS**, Tamil source-representation assembly **7 / 7 SRUs**, and `ASSEMBLY_REVIEW.md` **PASS / REVIEWED**.
 
-This document defines the next English phase without reopening or modifying that Tamil layer.
+English translation is now explicitly authorized. Translation must remain independent of and must never reopen or modify that Tamil archival layer.
 
 ## 1. Translation authority
 
-Immediate drafting authority, if and when English translation is explicitly authorized, is **only** the seven reviewed Tamil SRUs under `scenes/`:
+Immediate drafting authority is **only** the seven reviewed Tamil SRUs under `scenes/`:
 
 1. `scenes/sru-01-yama-court.md`
 2. `scenes/sru-02-guesthouse.md`
@@ -28,7 +28,7 @@ Translation choices must never be back-propagated into the Tamil archival files.
 
 The source has **no numbered scenes or acts**. `SRU-01` through `SRU-07` are repository/editorial source-representation identifiers only.
 
-The English layer must therefore mirror the Tamil SRU filenames rather than manufacture numbered source scenes:
+The English layer mirrors the Tamil SRU filenames rather than manufacturing numbered source scenes:
 
 - `translations/en/sru-01-yama-court.md`
 - `translations/en/sru-02-guesthouse.md`
@@ -71,7 +71,7 @@ The exact marker **`[paper loss]`** must remain visible in the English artifact 
 - Do not infer the missing word from grammar, repetition, context or another edition.
 - Do not use the intact repetition on scan 9 to complete the damaged first occurrence.
 
-SRU-01 must therefore preserve all **7** page-layer `[paper loss]` locations.
+SRU-01 therefore preserves all **7** page-layer `[paper loss]` locations. Batch 01 review confirms **7 / 7 retained**.
 
 ### `[unresolved glyph cluster]`
 
@@ -111,7 +111,7 @@ Where a term has no clean English equivalent, transliteration plus a concise tra
 
 ## 7. Translation file metadata
 
-Each English SRU should use metadata along these lines:
+Each English SRU uses metadata such as:
 
 ```yaml
 ---
@@ -132,7 +132,7 @@ After full Tamil→English fidelity review of that artifact, change only the Eng
 - `status: "translation-reviewed"`
 - `translation_review: "passed"`
 
-For SRU-01 and SRU-04, source-loss/unresolved provenance should also be described in translation notes. Do not imply those Tamil source areas are fully verified.
+For SRU-01 and SRU-04, source-loss/unresolved provenance must also be described in translation notes. Do not imply those Tamil source areas are fully verified.
 
 ## 8. Translation notes
 
@@ -164,18 +164,25 @@ Before an English artifact can be marked reviewed/passed:
 
 A completed batch must receive its own durable `BATCH_0N_REVIEW.md` record before it is called locked.
 
-## 10. Proposed translation batching
+## 10. Translation batching and progress
 
-The seven SRUs vary substantially in length. Use four review batches so the two large/high-risk units receive dedicated attention:
+The seven SRUs are divided into four review batches so the two large/high-risk units receive dedicated attention.
 
-### Batch 1
+### Batch 1 — **PASS / LOCKED**
 
-- `sru-01-yama-court.md`
-- `sru-02-guesthouse.md`
+- `sru-01-yama-court.md` — translated and reviewed;
+- `sru-02-guesthouse.md` — translated and reviewed.
 
-Special control: SRU-01's seven `[paper loss]` markers must remain explicit.
+Durable review: `translations/en/BATCH_01_REVIEW.md`.
 
-### Batch 2
+Controls passed:
+
+- SRU-01 `[paper loss]`: **7 / 7 retained**;
+- artifacts reviewed: **2 / 2**;
+- secondary-English witness use: **0**;
+- blocking translation issues: **0**.
+
+### Batch 2 — **NEXT**
 
 - `sru-03-eman-interview.md`
 
@@ -195,7 +202,7 @@ Dedicated batch because it is the longest unit and contains all three unresolved
 
 Special controls: preserve the stair/place-name wordplay, domestic colloquial/political register, internal `உதயசூரியன் கோலம்` intertitle, and the source close without an invented `The End`.
 
-Expected completed batches: **4**.
+Expected completed batches: **4**; completed: **1 / 4**.
 
 ## 11. Final English review gate
 
@@ -217,28 +224,28 @@ Only after that final review may the English first-pass translation layer be cal
 
 ## 12. Secondary English witnesses
 
-This first source-faithful English phase must use **no secondary English witness**.
+This first source-faithful English phase uses **no secondary English witness**.
 
 If a published or other English translation is later supplied, comparison with it must be a separately authorized phase after this independent English layer is closed. That later comparison must not retroactively contaminate the first-pass English wording.
 
-## 13. Current authorization boundary
+## 13. Current phase state
 
-**Plan creation/review is complete. English translation body drafting is NOT YET AUTHORIZED and has NOT STARTED.**
+English translation was explicitly authorized by the user's instruction to proceed with the planned next activity.
 
 Current English status:
 
 - expected artifacts: **7**;
-- present: **0 / 7**;
-- reviewed: **0 / 7**;
-- completed batches: **0 / 4**;
+- present: **2 / 7**;
+- reviewed: **2 / 7**;
+- completed batches: **1 / 4**;
+- Batch 01: **PASS / LOCKED**;
 - secondary-English witness use: **0**;
 - Tamil archival layer modified by translation: **no**.
 
-## Exact next activity after explicit authorization
+## Exact next activity
 
-Begin **English Translation Batch 1** from the reviewed Tamil SRUs only:
+Begin **English Translation Batch 02** from the reviewed Tamil SRU only:
 
-- `scenes/sru-01-yama-court.md` → `translations/en/sru-01-yama-court.md`
-- `scenes/sru-02-guesthouse.md` → `translations/en/sru-02-guesthouse.md`
+- `scenes/sru-03-eman-interview.md` → `translations/en/sru-03-eman-interview.md`
 
-Perform the complete Tamil→English fidelity review for both artifacts and create `translations/en/BATCH_01_REVIEW.md` before marking Batch 1 PASS / LOCKED.
+Perform the complete Tamil→English fidelity review for the artifact and create `translations/en/BATCH_02_REVIEW.md` before marking Batch 02 PASS / LOCKED.
