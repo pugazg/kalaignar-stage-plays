@@ -4,7 +4,7 @@ Archive slug: `thiruvalar-desiyampillai`.
 
 ## Current status
 
-**PAGE SOURCE PASS COMPLETE — 49 / 49 PROCESSED; 40 / 49 VERIFIED; 9 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 49 / 49. STRUCTURAL / SCENE INVENTORY PASS — 7 EDITORIAL SRUs. TAMIL SCENE ASSEMBLY NEXT.**
+**TAMIL ARCHIVAL LAYER ASSEMBLY-COMPLETE / REVIEWED — PAGE SOURCE PASS 49 / 49; HISTORICAL-GLYPH PASS 49 / 49; 40 / 49 VERIFIED; 9 NEEDS-REVIEW; STRUCTURAL INVENTORY PASS; 7 / 7 EDITORIAL SRUs ASSEMBLED; ASSEMBLY REVIEW PASS. ENGLISH NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீயம்பிள்ளை.pdf`.
 
@@ -56,25 +56,11 @@ Authoritative source-pixel corrections include:
 - scan 42 → **`பொறாமை`**;
 - scan 44 → **`ஆலை முதலாளி`**.
 
-Final-source enlarged rechecks also preserve scan-46 `நம்ப`, scan-46/47/48 `தேசீயம்` forms, scan-47 `போட்டகோலம்`, and scan-48 physical `மலை / யேறும்`.
-
-These are character-identity/source-form decisions, not spelling modernization.
-
-## Completed page batches
-
-- **Batch 1 — scans 1–5:** scan 2 verified; 1, 3, 4, 5 damage-limited.
-- **Batch 2 — scans 6–10:** 6 and 10 verified; 7, 8, 9 damage-limited.
-- **Batches 3–6 — scans 11–30:** all verified.
-- **Batch 7 — scans 31–35:** 31–34 verified; scan 35 has one unresolved visual/source cluster.
-- **Batch 8 — scans 36–40:** scan 36 `needs-review`; 37–40 verified.
-- **Batch 9 — scans 41–45:** all verified.
-- **Batch 10 — scans 46–49:** all four verified.
+Final-source enlarged rechecks preserve scan-46 `நம்ப`, scan-46/47/48 `தேசீயம்` forms, scan-47 `போட்டகோலம்`, and scan-48 physical `மலை / யேறும்`.
 
 ## Page-layer completion audit
 
 Durable audit: `PAGE_LAYER_COMPLETION_AUDIT.md`.
-
-Audit verdict:
 
 - source-page coverage: **PASS — 49 / 49**;
 - historical-glyph coverage: **PASS — 49 / 49**;
@@ -87,29 +73,42 @@ Front-matter holds `1, 3, 4, 5` are physical-source limitations. Body holds `7, 
 
 ## Structural / scene inventory
 
-Durable inventory: `STRUCTURAL_SCENE_INVENTORY.md`.
-
-Inventory verdict: **PASS / REVIEWED**.
+Durable inventory: `STRUCTURAL_SCENE_INVENTORY.md` — **PASS / REVIEWED**.
 
 - dramatic scans inventoried: **42 / 42** (`7–48`);
-- source-visible `காட்சி` / numbered scenes: **0**;
+- source-visible `காட்சி` / numbered scenes / acts: **0**;
 - editorial source-representation units: **7**;
-- shared-page structural boundaries explicitly anchored: scans **15, 20, 28, 40**;
-- body review holds propagated: **7, 8, 9, 35, 36**;
-- scan-47 centered `உதயசூரியன் கோலம்`: **internal descriptive/intertitle inside SRU-07**, not a source scene title;
+- shared-page boundaries: scans **15, 20, 28, 40**;
+- scan-47 `உதயசூரியன் கோலம்`: internal descriptive/intertitle inside SRU-07, not a source scene title;
 - scan-48 dramatic close: no `முற்றும்` invented.
 
-The seven editorial SRUs are:
+## Tamil source-representation assembly
 
-1. **SRU-01 — Yama court / Desiyampillai entrance** — scans 7–15 (first portion of 15); contains paper-loss holds 7–9.
-2. **SRU-02 — Guesthouse / military-commandant hospitality** — scan 15 after adjournment through scan 20 before interview announcement.
-3. **SRU-03 — Eman–Desiyampillai interview** — scan 20 interview announcement through first portion of scan 28.
-4. **SRU-04 — Journey, Nandan and Gandhi / `சொர்க்கச் சிறை`** — scan 28 travel prose through scan 38; contains unresolved holds 35–36.
-5. **SRU-05 — Stair-fall and dream exit** — scans 39–40 before wife's entrance.
-6. **SRU-06 — Waking domestic election argument** — scan 40 wife's entrance through scan 46.
-7. **SRU-07 — Front yard, Kamala, `உதயசூரியன் கோலம்`, close** — scans 47–48.
+Durable review: `ASSEMBLY_REVIEW.md` — **PASS / REVIEWED**.
 
-These are repository/editorial source-representation identifiers only. They are **not source scene numbers**.
+The seven editorial SRUs are complete:
+
+1. `scenes/sru-01-yama-court.md` — scans 7–15; `assembled_from_verified_pages: false`; preserves all scan 7–9 `[paper loss]` markers.
+2. `scenes/sru-02-guesthouse.md` — scan 15 post-adjournment through scan 20 pre-interview; verified-source assembly.
+3. `scenes/sru-03-eman-interview.md` — scan 20 interview announcement through scan 28 pre-travel; verified-source assembly.
+4. `scenes/sru-04-gandhi-journey.md` — scan 28 travel through scan 38; `assembled_from_verified_pages: false`; preserves scan 35–36 unresolved markers.
+5. `scenes/sru-05-stairfall-dream-exit.md` — scans 39–40 before wife's entrance; verified-source assembly.
+6. `scenes/sru-06-domestic-election-argument.md` — scan 40 wife's entrance through scan 46; verified-source assembly; scan-46 `நம்ப` and `தேசீயம் பிள்ளை` retained.
+7. `scenes/sru-07-udayasuriyan-kolam-close.md` — scans 47–48; verified-source assembly; `உதயசூரியன் கோலம்` retained internally and no `முற்றும்` added.
+
+The SRU numbers are repository/editorial identifiers only. They are **not source scene numbers**.
+
+Assembly review confirms:
+
+- SRUs present: **7 / 7**;
+- dramatic scans accounted for: **42 / 42**;
+- shared-page boundaries checked: **4 / 4**;
+- body review-hold scans propagated: **5 / 5** (`7, 8, 9, 35, 36`);
+- source scene/act numbers invented: **0**;
+- scan 49 included in dramatic assembly: **no**;
+- invented `முற்றும்`: **no**.
+
+The Tamil archival layer is therefore **assembly-complete / reviewed for the current source evidence**. This does not convert the nine source-level `needs-review` pages into verified pages; those limitations remain explicit.
 
 ## Work progress
 
@@ -117,20 +116,10 @@ These are repository/editorial source-representation identifiers only. They are 
 - historical-glyph passes: **49 / 49 complete**;
 - visually verified: **40 / 49**;
 - `needs-review`: **9 / 49**;
-- structural / scene inventory: **COMPLETE / PASS — 7 SRUs**;
-- scene assembly: **not started — next**;
+- structural inventory: **COMPLETE / PASS — 7 SRUs**;
+- Tamil source-representation assembly: **7 / 7 COMPLETE / REVIEWED — PASS**;
 - English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Assemble the seven Tamil source-representation units defined in `STRUCTURAL_SCENE_INVENTORY.md` using descriptive filenames:
-
-- `scenes/sru-01-yama-court.md`
-- `scenes/sru-02-guesthouse.md`
-- `scenes/sru-03-eman-interview.md`
-- `scenes/sru-04-gandhi-journey.md`
-- `scenes/sru-05-stairfall-dream-exit.md`
-- `scenes/sru-06-domestic-election-argument.md`
-- `scenes/sru-07-udayasuriyan-kolam-close.md`
-
-Assemble only from page records. Preserve `[paper loss]` in SRU-01 and all unresolved markers in SRU-04. Preserve `உதயசூரியன் கோலம்` as an internal standalone source line in SRU-07. Do not invent source scene numbers or `முற்றும்`. After all seven files are assembled, perform a full Tamil assembly review before any English translation.
+Create and review a source-faithful **English translation plan** based only on the seven reviewed Tamil SRUs. The plan must explicitly define how `[paper loss]`, `[unresolved glyph cluster]`, and `[unresolved descriptive cluster]` are represented in English, preserve the source's lack of numbered scenes, and keep translation strictly separate from the closed Tamil archival layer. Do **not** begin translation until that plan is explicitly authorized.
