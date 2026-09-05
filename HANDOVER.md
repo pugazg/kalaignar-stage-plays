@@ -71,7 +71,9 @@ Committed assembly-reviewed files:
 - `works/kagithapoo/scenes/16.md` — Scene 16, scans 110–114;
 - `works/kagithapoo/scenes/17.md` — Scene 17, scans 114–115;
 - `works/kagithapoo/scenes/18.md` — Scene 18, scans 115–116;
-- `works/kagithapoo/scenes/19.md` — Scene 19, scan 116.
+- `works/kagithapoo/scenes/19.md` — Scene 19, scan 116;
+- `works/kagithapoo/scenes/20.md` — Scene 20, scans 117–119;
+- `works/kagithapoo/scenes/21.md` — Scene 21, scans 119–124.
 
 Assembly notes:
 
@@ -83,6 +85,9 @@ Assembly notes:
 - Scene 17 joins Gandhi's speech across scans 114→115 without normalization;
 - Scene 18 preserves the verified page-record speaker-label variation across scans 115→116;
 - Scene 19 is a complete single-scan scene;
+- Scene 20 joins the scan-118→119 sentence continuation `நீங்கள் சிந்திய ரத்தம் கூட—` / `உங்கள் மகன்...` mechanically and closes before Scene 21;
+- Scene 21 joins `நலத்—` / `திட்ட` as `நலத்திட்ட`, `ஆட்சி—` / `மொழிகளாகட்டும்` as `ஆட்சிமொழிகளாகட்டும்`, and joins the 123→124 sentence continuation without lexical normalization;
+- unusual verified page-record wording in Scene 21 remains unchanged rather than being modernized;
 - no scene body has been reconstructed from material absent from the verified page layer.
 
 Tracking: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
@@ -99,7 +104,7 @@ English translation: **not started / not authorized**.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 20** from verified scans **117–119**, then continue with Scene 21 unless the user specifies a different batch size. Update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT at the next substantial checkpoint.
+Assemble and page-record-check the **unnumbered source `காட்சி,`** from verified scans **124–125**, preserving the heading exactly and assigning no Scene 22/23 number. Then continue with **Scene 24** unless the user specifies a different batch size. Update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT at the next substantial checkpoint.
 
 Do not begin English translation without separate authorization.
 
