@@ -4,7 +4,7 @@ Archive slug: `thiruvalar-desiyampillai`.
 
 ## Current status
 
-**TAMIL ARCHIVAL LAYER ASSEMBLY-COMPLETE / REVIEWED — PAGE SOURCE PASS 49 / 49; HISTORICAL-GLYPH PASS 49 / 49; 40 / 49 VERIFIED; 9 NEEDS-REVIEW; STRUCTURAL INVENTORY PASS; 7 / 7 EDITORIAL SRUs ASSEMBLED; ASSEMBLY REVIEW PASS. ENGLISH PLAN READY / REVIEWED; TRANSLATION NOT YET AUTHORIZED / NOT STARTED.**
+**TAMIL ARCHIVAL LAYER ASSEMBLY-COMPLETE / REVIEWED. ENGLISH TRANSLATION AUTHORIZED / IN PROGRESS — BATCH 01 PASS / LOCKED; 2 / 7 SRUs TRANSLATED AND REVIEWED.**
 
 Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீயம்பிள்ளை.pdf`.
 
@@ -88,63 +88,50 @@ Durable review: `ASSEMBLY_REVIEW.md` — **PASS / REVIEWED**.
 
 The seven editorial SRUs are complete:
 
-1. `scenes/sru-01-yama-court.md` — scans 7–15; `assembled_from_verified_pages: false`; preserves all scan 7–9 `[paper loss]` markers.
-2. `scenes/sru-02-guesthouse.md` — scan 15 post-adjournment through scan 20 pre-interview; verified-source assembly.
-3. `scenes/sru-03-eman-interview.md` — scan 20 interview announcement through scan 28 pre-travel; verified-source assembly.
-4. `scenes/sru-04-gandhi-journey.md` — scan 28 travel through scan 38; `assembled_from_verified_pages: false`; preserves scan 35–36 unresolved markers.
-5. `scenes/sru-05-stairfall-dream-exit.md` — scans 39–40 before wife's entrance; verified-source assembly.
-6. `scenes/sru-06-domestic-election-argument.md` — scan 40 wife's entrance through scan 46; verified-source assembly; scan-46 `நம்ப` and `தேசீயம் பிள்ளை` retained.
-7. `scenes/sru-07-udayasuriyan-kolam-close.md` — scans 47–48; verified-source assembly; `உதயசூரியன் கோலம்` retained internally and no `முற்றும்` added.
+1. `scenes/sru-01-yama-court.md`
+2. `scenes/sru-02-guesthouse.md`
+3. `scenes/sru-03-eman-interview.md`
+4. `scenes/sru-04-gandhi-journey.md`
+5. `scenes/sru-05-stairfall-dream-exit.md`
+6. `scenes/sru-06-domestic-election-argument.md`
+7. `scenes/sru-07-udayasuriyan-kolam-close.md`
 
-The SRU numbers are repository/editorial identifiers only. They are **not source scene numbers**.
+Assembly review confirms **7 / 7 SRUs**, **42 / 42 dramatic scans represented**, **4 / 4 shared-page boundaries checked**, all body review-hold markers propagated, zero invented source scene/act numbers, scan 49 excluded, and no invented `முற்றும்`.
 
-Assembly review confirms:
+The Tamil archival layer is **assembly-complete / reviewed for current source evidence**. Translation choices must not modify it.
 
-- SRUs present: **7 / 7**;
-- dramatic scans accounted for: **42 / 42**;
-- shared-page boundaries checked: **4 / 4**;
-- body review-hold scans propagated: **5 / 5** (`7, 8, 9, 35, 36`);
-- source scene/act numbers invented: **0**;
-- scan 49 included in dramatic assembly: **no**;
-- invented `முற்றும்`: **no**.
+## English translation
 
-The Tamil archival layer is **assembly-complete / reviewed for the current source evidence**. This does not convert the nine source-level `needs-review` pages into verified pages.
+Translation plan: `TRANSLATION_PLAN.md` — **AUTHORIZED / IN PROGRESS**.
 
-## English translation plan
+English tracker: `translations/en/README.md`.
 
-Durable plan: `TRANSLATION_PLAN.md` — **PLAN READY / REVIEWED**.
+Expected English artifacts: **7** across four batches.
 
-Tracker: `translations/en/README.md`.
+### Batch 01 — PASS / LOCKED
 
-The plan establishes:
+Durable review: `translations/en/BATCH_01_REVIEW.md`.
 
-- immediate drafting authority: reviewed Tamil `scenes/sru-*.md` only;
-- expected English artifacts: **7**, mirroring the seven SRU filenames without implying source scene numbering;
-- `[paper loss]` remains exact and explicit in SRU-01;
-- `[unresolved glyph cluster]` and both `[unresolved descriptive cluster]` markers remain exact and unresolved in SRU-04;
-- speaker-label variation, narrative prose, stage directions, satire, political rhetoric, colloquial register, repetitions and supported ambiguity must be preserved;
-- `உதயசூரியன் கோலம்` remains an internal descriptive/intertitle in the final English SRU;
-- no invented `The End` / `முற்றும்` equivalent;
-- `secondary_english_witness_used: false` for the independent first-pass English layer;
-- every artifact requires full Tamil→English fidelity review;
-- final English closure requires `translations/en/TRANSLATION_REVIEW.md`.
+Completed / reviewed:
 
-Proposed batches:
+- `translations/en/sru-01-yama-court.md` — retains all **7 / 7** `[paper loss]` markers;
+- `translations/en/sru-02-guesthouse.md`.
 
-1. **Batch 1:** SRU-01 + SRU-02
-2. **Batch 2:** SRU-03
-3. **Batch 3:** SRU-04
-4. **Batch 4:** SRU-05 + SRU-06 + SRU-07
+Batch 01 status:
 
-Current English status:
+- artifacts present/reviewed: **2 / 2**;
+- source-loss markers required/preserved: **7 / 7**;
+- secondary-English witness use: **0**;
+- blocking translation issues: **0**;
+- Tamil archival files modified by translation: **no**.
 
-- plan: **READY / REVIEWED**;
-- translation authorization: **not yet granted**;
-- expected artifacts: **7**;
-- present: **0 / 7**;
-- reviewed: **0 / 7**;
-- batches complete: **0 / 4**;
-- secondary-English witness used: **no**.
+Overall English progress:
+
+- expected: **7**;
+- present: **2 / 7**;
+- reviewed: **2 / 7**;
+- completed batches: **1 / 4**;
+- final `TRANSLATION_REVIEW.md`: **not started**.
 
 ## Work progress
 
@@ -154,14 +141,8 @@ Current English status:
 - `needs-review`: **9 / 49**;
 - structural inventory: **COMPLETE / PASS — 7 SRUs**;
 - Tamil source-representation assembly: **7 / 7 COMPLETE / REVIEWED — PASS**;
-- English translation plan/tracker: **COMPLETE / REVIEWED**;
-- English translation body: **not authorized / not started**.
+- English translation: **2 / 7 reviewed; Batch 01 PASS / LOCKED**.
 
 ## Exact next activity
 
-Await explicit authorization for English body translation. After authorization, process **English Translation Batch 1** from the reviewed Tamil SRUs only:
-
-- `scenes/sru-01-yama-court.md` → `translations/en/sru-01-yama-court.md`
-- `scenes/sru-02-guesthouse.md` → `translations/en/sru-02-guesthouse.md`
-
-Then perform the complete Tamil→English fidelity review for both and create `translations/en/BATCH_01_REVIEW.md` before marking Batch 1 PASS / LOCKED.
+Proceed with **English Translation Batch 02** using only reviewed Tamil `scenes/sru-03-eman-interview.md` as immediate drafting authority. Create `translations/en/sru-03-eman-interview.md`, perform a complete Tamil→English fidelity review, and create `translations/en/BATCH_02_REVIEW.md` before marking Batch 02 PASS / LOCKED.
