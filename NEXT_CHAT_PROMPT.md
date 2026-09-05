@@ -17,7 +17,7 @@ Read before further work:
 5. `works/kagithapoo/SCENE_ASSEMBLY_FINAL_REVIEW.md`
 6. `works/kagithapoo/TRANSLATION_PLAN.md`
 7. `works/kagithapoo/translations/en/README.md`
-8. completed batch reviews `BATCH_01_REVIEW.md`, `BATCH_02_REVIEW.md`, `BATCH_03_REVIEW.md`
+8. completed batch reviews `BATCH_01_REVIEW.md` through `BATCH_04_REVIEW.md`
 9. relevant closed Tamil `works/kagithapoo/scenes/*.md` files for the current English batch
 10. verified page records / controlling PDF only if a genuine source-level question arises
 
@@ -46,7 +46,7 @@ Permanent Tamil safeguards remain locked: verified wording is not silently norma
 
 ## English translation phase
 
-**AUTHORIZED / IN PROGRESS. BATCHES 1–3 COMPLETE — PASS / LOCKED.**
+**AUTHORIZED / IN PROGRESS. BATCHES 1–4 COMPLETE — PASS / LOCKED.**
 
 Translation authority and controls are defined in `works/kagithapoo/TRANSLATION_PLAN.md`.
 
@@ -64,47 +64,46 @@ Permanent translation rules:
 - `unnumbered-between-21-and-24.md` remains explicitly unnumbered;
 - `25.md` remains source-compressed action only.
 
-### Completed Batches 1–3
+### Completed Batches 1–4
 
-English artifacts `01.md`, `02-05.md`, and `06.md` through `18.md` are all `translation-reviewed` / `passed`.
+English artifacts `01.md`, `02-05.md`, `06.md` through `21.md`, `unnumbered-between-21-and-24.md`, and `24.md` are all `translation-reviewed` / `passed`.
 
 Batch reviews:
 
 - `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
 - `translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED**;
-- `translations/en/BATCH_03_REVIEW.md` — **PASS / LOCKED**.
+- `translations/en/BATCH_03_REVIEW.md` — **PASS / LOCKED**;
+- `translations/en/BATCH_04_REVIEW.md` — **PASS / LOCKED**.
 
 Current English status:
 
 - expected artifacts: **23**;
-- present: **15 / 23**;
-- reviewed: **15 / 23**;
-- completed batches: **3 / 5**;
+- present: **20 / 23**;
+- reviewed: **20 / 23**;
+- completed batches: **4 / 5**;
 - unresolved blocking translation issues: **0**;
 - secondary-English contamination: **0**.
 
-Stable terminology and source-sensitive choices are recorded in `translations/en/README.md` and the batch-review records. Batch-3 additions include the Scene-16 anomalous tokens / `Desiyam Pillai` / grammatical and colour-pun carryovers, Scene-17 `Navakali` and insecure animal-metaphor forms, and Scene-18 *paayigaiyoda* / *poorna kumbam*. Preserve these without silently normalizing the Tamil layer.
+Important Batch-4 controls: preserve Scene-21's full Congress critique and language-policy debate without external reconciliation; retain the source's 14/16 language-count inconsistency and `இந்தி / மந்தி` wordplay; keep the post-21 scene explicitly unnumbered; preserve its `அமுல் / Amul` wordplay; preserve Scene-24's Parijatha/paper-flower title metaphor and documented source-sensitive locked forms.
 
-## Exact next activity — English Batch 4
+## Exact next activity — English Batch 5
 
-Translate and Tamil→English review these five source-representation artifacts, in order:
+Translate and Tamil→English review these three source-representation artifacts, in order:
 
-1. `works/kagithapoo/scenes/19.md` → `works/kagithapoo/translations/en/19.md`
-2. `works/kagithapoo/scenes/20.md` → `works/kagithapoo/translations/en/20.md`
-3. `works/kagithapoo/scenes/21.md` → `works/kagithapoo/translations/en/21.md`
-4. `works/kagithapoo/scenes/unnumbered-between-21-and-24.md` → `works/kagithapoo/translations/en/unnumbered-between-21-and-24.md`
-5. `works/kagithapoo/scenes/24.md` → `works/kagithapoo/translations/en/24.md`
+1. `works/kagithapoo/scenes/25.md` → `works/kagithapoo/translations/en/25.md`
+2. `works/kagithapoo/scenes/26.md` → `works/kagithapoo/translations/en/26.md`
+3. `works/kagithapoo/scenes/27.md` → `works/kagithapoo/translations/en/27.md`
 
 For each file:
 
 - preserve source provenance in front matter;
-- draft from the entire closed Tamil scene artifact;
+- draft from the entire closed Tamil scene artifact only;
 - compare the finished English artifact back against the full Tamil scene for coverage, speaker turns, stage directions, repetitions, scene structure and rhetorical force;
 - record only material source-sensitive choices in `## Translation notes`;
-- set `translation-reviewed` / `passed` only after fidelity review passes.
+- set `translation-reviewed` / `passed` only after fidelity review passes;
+- Scene 25 must remain source-compressed action only;
+- Scene 27 must retain the three already-verified scan-130 fallback turns present in the closed Tamil scene, exclude the boxed `கண்டுபிடியுங்கள்`, exclude the scan-131 cast/imprint block, and close at the translated equivalent of source `(முற்றும்)`.
 
-Scene 21 is comparatively large; it may be split operationally if necessary, but Batch 4 remains a five-artifact review gate.
-
-After Batch 4 passes, update `translations/en/README.md`, work README, HANDOVER, this prompt, translation plan and add `BATCH_04_REVIEW.md`.
+After Batch 5 passes, add `BATCH_05_REVIEW.md`, update the trackers/handover, then create `translations/en/TRANSLATION_REVIEW.md` and perform the final full Tamil→English review across all **23 / 23** artifacts. Only after that final review passes may the English translation layer be marked complete/closed.
 
 Closed `மணிமகுடம்` and `கலைஞரின் நான்மணி மாலை` remain closed.
