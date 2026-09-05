@@ -14,51 +14,50 @@ Read before any further work:
 2. `HANDOVER.md`
 3. this `NEXT_CHAT_PROMPT.md`
 4. `works/kagithapoo/README.md`
-5. `works/kagithapoo/LEXICAL_GAP_ADJUDICATION.md`
+5. `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`
 6. `works/kagithapoo/PAGE_LAYER_CONSISTENCY_AUDIT.md`
-7. `works/kagithapoo/MD_LEXICAL_RECONCILIATION_0091_0101.md`
-8. `works/kagithapoo/indexes/page-map.md`
+7. `works/kagithapoo/indexes/page-map.md`
+8. relevant verified `works/kagithapoo/pages/*.md` records
+9. existing `works/kagithapoo/scenes/*.md` files
 
 Sources:
 
 - controlling PDF: `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`
 - primary lexical witness: `kaagidha_poo.md`
 
-## Witness policy at page-layer closure
+## Durable page-layer state
 
-- MD remains the primary lexical witness.
-- PDF controls structure, punctuation, page/scene boundaries, reading order, speaker/stage grouping, headings, photographs, captions and boxed features.
-- After full-MD adjudication confirmed five genuine omissions, the user explicitly authorized direct PDF lexical fallback for **scans 93, 95, 97, 98 and 130 only**.
-- Do not generalize that authorization into silent PDF substitution or normalization elsewhere.
+**PAGE LAYER COMPLETE / CLOSED — 41 / 41 VERIFIED.**
 
-## Durable state
+The user previously authorized direct PDF lexical fallback only for the five adjudicated MD omissions on scans 93, 95, 97, 98 and 130. Those are already resolved in the verified page records. Do not generalize that fallback elsewhere.
 
-**PAGE LAYER COMPLETE / CLOSED.**
+## Scene assembly
 
-- processed: **41 / 41**;
-- verified: **41 / 41**;
-- `needs-review`: **0**;
-- unprocessed: **0**;
-- final page-layer consistency audit: **PASS**;
-- scene assembly: **not started / not authorized**;
-- translation: **not started / not authorized**.
+The user explicitly authorized the next phase by instructing the project to proceed after page-layer closure.
 
-## Former gaps — resolved
+**SCENE ASSEMBLY IS NOW AUTHORIZED / IN PROGRESS.**
 
-- 93 — `அவள் தோழி` restored from PDF;
-- 95 — missing காவேரி paragraph and மரகதம் opening restored from PDF;
-- 97 — `(படத்திடம் போய்)` restored from PDF;
-- 98 — `ஓ. எம். சுப்பிரமணியன்,` caption restored from PDF;
-- 130 — two missing `குரல்:` turns plus pre-gunshot `கண்:— அம்மா!...` restored from PDF.
+Assembly rules:
 
-## Structural safeguard
+- assemble only from verified page records;
+- mechanical page/column line breaks may be removed;
+- do not silently normalize lexical wording, punctuation, speaker labels, stage directions or scene numbering;
+- preserve page provenance in scene front matter;
+- do not invent bodies for the source-compressed scenes 2–5;
+- preserve scan 124 `காட்சி,` exactly and never invent Scenes 22/23.
 
-Scan 124 prints `காட்சி,` with no numeral; scan 125 prints `காட்சி 24.`. Never invent Scenes 22/23.
+Completed / assembly-reviewed:
+
+- `scenes/01.md` — Scene 1, scans 92–93;
+- `scenes/02-05.md` — source-compressed `காட்சிகள்: 2, 3, 4, 5.` representation from scan 93;
+- `scenes/06.md` — Scene 6, scans 93–94.
+
+Tracking file: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
 
 ## Exact next activity
 
-There is no remaining page-level work.
+Assemble and page-record-check **Scene 7** from scans **94–98**. Retain the already verified page-layer fallback wording on scans 95, 97 and 98 exactly. Commit `scenes/07.md`, then synchronize `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt.
 
-**Wait for explicit user authorization before beginning scene assembly or English translation.**
+English translation remains **not started / not authorized**.
 
 Closed `மணிமகுடம்` and `கலைஞரின் நான்மணி மாலை` remain closed.
