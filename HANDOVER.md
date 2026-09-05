@@ -21,8 +21,9 @@ Read before further work:
 7. `works/thiruvalar-desiyampillai/HISTORICAL_GLYPH_AUDIT.md`;
 8. `works/thiruvalar-desiyampillai/PAGE_LAYER_COMPLETION_AUDIT.md`;
 9. `works/thiruvalar-desiyampillai/STRUCTURAL_SCENE_INVENTORY.md`;
-10. relevant page records for the SRU currently being assembled;
-11. controlling PDF only when a new page-level visual adjudication is required.
+10. `works/thiruvalar-desiyampillai/ASSEMBLY_REVIEW.md`;
+11. all seven `works/thiruvalar-desiyampillai/scenes/sru-*.md` files before any translation planning;
+12. controlling PDF only when a new page-level visual adjudication is required.
 
 The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is mandatory methodology, not a lexical first-pass witness.
 
@@ -37,9 +38,9 @@ Controlling PDF: `TVA_BOK_0064118_திருவாளர்_தேசீயம
 - publisher: **K. R. நாராயணன்**;
 - scans 1–6 front matter; scans 7–48 dramatic work; scans 8–48 visibly carry printed pp.6–46; scan 49 back-cover advertisement.
 
-## Historical-glyph verification — complete
+## Historical-glyph verification — COMPLETE
 
-Every page received the full check for:
+Every scan received the full 13-family check:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
@@ -57,11 +58,9 @@ Authoritative corrections that must not be reverted:
 - scan 42 → **`பொறாமை`**;
 - scan 44 → **`ஆலை முதலாளி`**.
 
-Final enlarged source rechecks preserve exact source forms on scans 46–48, including scan-46 `நம்ப`, scan-47 `போட்டகோலம்`, and scan-48 physical `மலை / யேறும்`.
+Final enlarged source rechecks preserve exact source forms on scans 46–48, including scan-46 `நம்ப`, scan-46 `தேசீயம் பிள்ளை`, scan-47 `தேசீயம்பிள்ளை / தேசீயம் பிள்ளையின் / போட்டகோலம்`, and scan-48 physical `மலை / யேறும்`.
 
-## Page-layer state
-
-**SOURCE-PAGE PASS COMPLETE.**
+## Page-layer state — COMPLETE / COVERAGE PASS
 
 - scans/page records: **49 / 49**;
 - canonical source processing: **49 / 49**;
@@ -73,9 +72,9 @@ Final enlarged source rechecks preserve exact source forms on scans 46–48, inc
 
 Durable completion audit: `works/thiruvalar-desiyampillai/PAGE_LAYER_COMPLETION_AUDIT.md`.
 
-Audit verdict: **coverage PASS, not 49/49 verified**. Structural/assembly work is allowed only if source-loss/review markers remain explicit.
+Audit verdict: **coverage PASS, not 49/49 verified**.
 
-### Review holds that must survive assembly
+### Review holds that remain authoritative
 
 Front matter only:
 - scans `1, 3, 4, 5` — physical loss/abrasion.
@@ -100,50 +99,74 @@ Key result:
 - scan-47 centered `உதயசூரியன் கோலம்`: **internal descriptive/intertitle inside SRU-07**, not a source scene title;
 - scan-48 close: no printed `முற்றும்` marker.
 
-The seven SRUs are editorial repository units only — **not source scene numbers**:
+The SRU labels are repository/editorial identifiers only — **not source scene numbers**.
 
-1. **SRU-01 — Yama court / Desiyampillai entrance** — scans 7–15 first portion; contains review holds 7–9.
-2. **SRU-02 — Guesthouse / military-commandant hospitality** — scan 15 after adjournment through scan 20 before interview announcement.
-3. **SRU-03 — Eman–Desiyampillai interview** — scan 20 interview announcement through first portion of scan 28.
-4. **SRU-04 — Journey, Nandan and Gandhi / `சொர்க்கச் சிறை`** — scan 28 travel prose through scan 38; contains review holds 35–36.
-5. **SRU-05 — Stair-fall and dream exit** — scans 39–40 before wife's entrance.
-6. **SRU-06 — Waking domestic election argument** — scan 40 wife's entrance through scan 46.
-7. **SRU-07 — Front yard, Kamala, `உதயசூரியன் கோலம்`, close** — scans 47–48.
+## Tamil source-representation assembly — COMPLETE / REVIEWED / PASS
 
-### Shared-page controls
+Durable review: `works/thiruvalar-desiyampillai/ASSEMBLY_REVIEW.md`.
 
-- scan 15: SRU-01 ends at the parenthetical court adjournment; SRU-02 starts `எமதர்ம ராஜனின் மாளிகையிலுள்ள விருந்து விடுதியில்...`;
-- scan 20: SRU-02 ends after the commandant leaves; SRU-03 starts `எமன், தேசீயம்பிள்ளை பேட்டி துவங்குகிறது.`;
-- scan 28: SRU-03 ends after `தேசீ : மாலைதானே...வாங்கிக் கொள்ளலாம்...`; SRU-04 starts `இருவரும் எழுந்து காந்தியைக் காணப் பயணம் படுகிறார்கள்.`;
-- scan 40: SRU-05 ends after the wake-from-dream prose through `சுற்றும் முற்றும் பார்த்தார்.`; SRU-06 starts `அவரது மனைவி காலைக் காப்பியுடன் எதிரே வந்து நின்றாள்.`.
+Seven files are complete:
 
-## Exact next activity — Tamil source-representation assembly
+1. `scenes/sru-01-yama-court.md`
+2. `scenes/sru-02-guesthouse.md`
+3. `scenes/sru-03-eman-interview.md`
+4. `scenes/sru-04-gandhi-journey.md`
+5. `scenes/sru-05-stairfall-dream-exit.md`
+6. `scenes/sru-06-domestic-election-argument.md`
+7. `scenes/sru-07-udayasuriyan-kolam-close.md`
 
-Create exactly these seven descriptive files in source order:
+Assembly review checks:
 
-1. `works/thiruvalar-desiyampillai/scenes/sru-01-yama-court.md`
-2. `works/thiruvalar-desiyampillai/scenes/sru-02-guesthouse.md`
-3. `works/thiruvalar-desiyampillai/scenes/sru-03-eman-interview.md`
-4. `works/thiruvalar-desiyampillai/scenes/sru-04-gandhi-journey.md`
-5. `works/thiruvalar-desiyampillai/scenes/sru-05-stairfall-dream-exit.md`
-6. `works/thiruvalar-desiyampillai/scenes/sru-06-domestic-election-argument.md`
-7. `works/thiruvalar-desiyampillai/scenes/sru-07-udayasuriyan-kolam-close.md`
+- SRUs present: **7 / 7**;
+- dramatic source scans represented: **42 / 42**;
+- shared-page boundaries checked: **4 / 4** (`15, 20, 28, 40`);
+- source scene numbers invented: **0**;
+- source act numbers invented: **0**;
+- scan 49 included in dramatic assembly: **no**;
+- invented `முற்றும்`: **no**;
+- scan-47 `உதயசூரியன் கோலம்`: preserved internally in SRU-07.
 
-Assembly rules:
+### Review-hold propagation
 
-- assemble only from `pages/0007.md`–`0048.md`;
-- scan 49 is back matter and must not enter scenes;
-- front matter 1–6 remains outside scene assembly;
-- use `source_scene_number: null`; do not imply the SRU sequence is source numbering;
-- preserve all source wording, speaker labels, parentheticals, prose, punctuation and unusual forms;
-- join only mechanical page/line breaks that are positively continuous;
-- SRU-01 must preserve every `[paper loss]` marker and use `assembled_from_verified_pages: false`;
-- SRU-04 must preserve scan-35 `[unresolved glyph cluster]` and both scan-36 `[unresolved descriptive cluster]` markers and use `assembled_from_verified_pages: false`;
-- SRU-02, 03, 05, 06, 07 may use `assembled_from_verified_pages: true` after clean assembly;
-- preserve scan-47 `உதயசூரியன் கோலம்` as a standalone internal source line within SRU-07;
-- do not add `காட்சி`, numbered scenes, curtain directions, or `முற்றும்`.
+SRU-01:
+- `assembled_from_verified_pages: false`;
+- preserves all scan 7–9 `[paper loss]` markers;
+- the damaged scan-9 `எங்கே ஜனநாயக[paper loss]` is not repaired from the repeated intact line.
 
-After all seven SRUs are assembled, create a durable full Tamil assembly review and compare every unit back to the contributing page records before any English translation.
+SRU-04:
+- `assembled_from_verified_pages: false`;
+- preserves scan-35 `[unresolved glyph cluster]`;
+- preserves both scan-36 `[unresolved descriptive cluster]` markers;
+- apparent `கொழுப்பேறி` is not promoted into canonical text.
+
+SRU-02, SRU-03, SRU-05, SRU-06 and SRU-07:
+- assembled from verified contributing source text;
+- `assembled_from_verified_pages: true`.
+
+Important source-form controls carried into assembly include `என்றாரே`, `தானா`, `நன்றாக`, `மகனா`, `மாலைதானே`, `பொறாமை`, `ஆலை முதலாளி`, scan-46 `நம்ப`, scan-46 `தேசீயம் பிள்ளை`, scan-47 `தேசீயம்பிள்ளை / தேசீயம் பிள்ளையின்`, and scan-48 `மலையேறும்` from physical `மலை / யேறும்`.
+
+The Tamil archival layer is now **assembly-complete / reviewed for the current source evidence**. The nine underlying page-level `needs-review` records remain source-condition limitations and are not silently upgraded.
+
+## English translation state
+
+**NOT AUTHORIZED / NOT STARTED.**
+
+Do not draft English directly from page OCR, the PDF, another edition, web text, or general knowledge. If English is later authorized, immediate drafting authority must be the reviewed seven Tamil SRUs. Translation must never retroactively alter the Tamil source layer.
+
+## Exact next activity — English translation plan only
+
+Create a durable source-faithful translation plan, but **do not begin translation until the plan is explicitly authorized**.
+
+The plan must specify:
+
+- seven English artifacts mirroring the seven reviewed Tamil SRUs, without inventing numbered source scenes;
+- immediate drafting authority: reviewed Tamil `scenes/sru-*.md` only;
+- how `[paper loss]`, `[unresolved glyph cluster]`, and `[unresolved descriptive cluster]` are represented in English without guessing;
+- preservation of speaker-label variation, narrative prose, stage directions, political satire/rhetoric, colloquial register, repetitions and source ambiguity;
+- preservation of `உதயசூரியன் கோலம்` as an internal descriptive/intertitle in the final English SRU;
+- no invented `முற்றும்` / “The End” marker;
+- review procedure comparing each English artifact back to its complete Tamil SRU;
+- translation batch/order proposal and a final full translation-review gate.
 
 # CLOSED WORK SAFEGUARDS
 
