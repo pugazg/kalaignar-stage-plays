@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — திருவாளர் தேசீயம்பிள்ளை
 
-Status: **IN PROGRESS — 10 / 49 SCANS COMPLETE**
+Status: **IN PROGRESS — 15 / 49 SCANS COMPLETE**
 
 This work-level audit implements the user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` for the 1965 second-edition scan of **திருவாளர் தேசீயம்பிள்ளை**.
 
@@ -57,21 +57,49 @@ Full-page visual + 13-family passes are complete for scans **6–10**.
 | 9 | `உங்களை` | `ளை` | identity positively supported; lower-right missing ending is physical loss |
 | 10 | `தலையை`, `உங்களை` | `லை`, `ளை` | identities positively supported despite later ink mark; page verified |
 
-### Additional same-edition reference established
+### Additional same-edition reference established in Batch 2
 
 - `னை`: clear in `அவனை` on scan 8.
 
-The reusable same-edition comparison set now includes at least `லை / ளை / ணா / னை`. These references are used only when the same historical family is genuinely uncertain on later source pixels.
+## Batch 3 — scans 11–15
 
-### Batch-2 damage boundary
+Full-page visual + 13-family passes are complete for scans **11–15**. All five scans pass the complete visual gate; no paper loss removes literary text in this batch.
 
-Unresolved material is damage-driven rather than historical-glyph uncertainty:
+| Scan | Representative source form(s) | Family evidence | Result |
+|---:|---|---|---|
+| 11 | `சொந்தக்காரர்களை`, `வண்ணமிருக்கிறார்களே` | `ளை`, `றா` | both identities positively supported; `றா` added to same-edition reference set |
+| 12 | `தேசீயம்பிள்ளை`, `உன்னை`, `இருக்கிறாய்` | `ளை`, `னை`, `றா` | identities agree with established same-edition forms; page verified |
+| 13 | `காளைமாட்டு`, `தண்டனை`, `இருக்கிறார்` | `ளை`, `னை`, `றா` | identities positively supported; unusual source wording retained |
+| 14 | `தண்டனை`, `பரவாயில்லை` | `னை`, `லை` | identities positively supported; source spacing `இரண்டுக்கு முள்ள` not normalized |
+| 15 | `தலைகள்`, `விளையும்`, `பார்க்கிறார்` | `லை`, `ளை`, `றா` | historical `லை` in `தலைகள்` positively decoded; page verified |
 
-- scan 7: irregular paper loss cuts through the opener/title-body region;
-- scan 8: broad central paper loss removes portions of several lines;
-- scan 9: lower-right paper loss removes the ending of the first repeated `எங்கே ஜனநாயக…` line.
+### Additional same-edition reference established in Batch 3
 
-Scans 6 and 10 pass the full visual + historical-glyph gate. The later ink mark on scan 10 does not obscure underlying character identity.
+- `றா`: clear in scan-11 `வண்ணமிருக்கிறார்களே`, reinforced by later `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார்` forms.
+
+The reusable same-edition comparison set now includes at least:
+
+`லை / ளை / ணா / னை / றா`.
+
+These references are used only when the same historical family is genuinely uncertain on later source pixels. They do not authorize lexical modernization or reconstruction.
+
+### Batch-3 source-form safeguards
+
+The following forms were retained exactly because scan pixels support them and semantic expectation is not an editing authority:
+
+- scan 13: `அய்யன்மீர்`, `ஓகோ`, `படுபாதாளச் சிறையில்`;
+- scan 14: `இரண்டுக்கு முள்ள`;
+- scan 15: `என்றுரே`, `தானு`.
+
+No global historical-glyph replacement was performed.
+
+## Damage boundary through scan 15
+
+Current `needs-review` pages remain damage-driven rather than unresolved historical-glyph identities:
+
+- scans 1, 3, 4, 5, 7, 8 and 9.
+
+Scans 11–15 add no new damage-limited page record.
 
 ## Mandatory page procedure
 
@@ -91,13 +119,13 @@ For each remaining scan:
 ## Current progress
 
 - scans in work: **49**;
-- full historical-glyph passes complete: **10 / 49**;
-- scans with documented historical-glyph corrections from an earlier reading: **0** — no lexical first-pass witness exists;
-- representative historical-family identities positively recorded: **`லை`, `ளை`, `ணா`, `னை`**;
+- full historical-glyph passes complete: **15 / 49**;
+- scans with documented historical-glyph corrections from an earlier lexical reading: **0** — no lexical first-pass witness exists;
+- representative historical-family identities positively recorded: **`லை`, `ளை`, `ணா`, `னை`, `றா`**;
 - unresolved historical-glyph clusters: **0 currently recorded**;
 - damage-limited page records: **7** (`1, 3, 4, 5, 7, 8, 9`);
-- visually verified pages: **3** (`2, 6, 10`).
+- visually verified pages: **8** (`2, 6, 10, 11, 12, 13, 14, 15`).
 
 ## Exact next activity
 
-Run the full source-pixel + historical-glyph verification for **scans 11–15** while creating their canonical transcriptions. Continue to use same-edition references only for character-identity comparison; never for reconstructing physically absent wording.
+Run the full source-pixel + historical-glyph verification for **scans 16–20** (printed pages **14–18**) while creating their canonical transcriptions. Continue to use same-edition references only for character-identity comparison; never for reconstructing physically absent wording.
