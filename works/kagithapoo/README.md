@@ -21,7 +21,7 @@ Primary lexical witness:
 - `needs-review`: **0**;
 - unprocessed pages: **0**;
 - scene assembly: **AUTHORIZED / IN PROGRESS**;
-- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, and **Scenes 6–14**;
+- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, and **Scenes 6–19**;
 - English translation: **not started / not authorized**.
 
 ## Durable audits / assembly tracking
@@ -61,6 +61,11 @@ Primary lexical witness:
 - `scenes/12.md` — Scene 12, scans 105–107; `ஒப்ப—` / `டைக்கிறதா` mechanically joined to `ஒப்படைக்கிறதா`.
 - `scenes/13.md` — Scene 13, scan 107; complete single-scan scene preserved through `(திரை விழுகிறது)`.
 - `scenes/14.md` — Scene 14, scans 107–109; `வெற்றிகளக் குவிக்கத்—` / `தான் போகிறார்கள் மக்கள்!...` mechanically joined to `வெற்றிகளக் குவிக்கத்தான் போகிறார்கள் மக்கள்!...`.
+- `scenes/15.md` — Scene 15, scans 109–110; `வார்த்தை—` / `யைச்` mechanically joined to `வார்த்தையைச்`.
+- `scenes/16.md` — Scene 16, scans 110–114; `இய—` / `லாது` mechanically joined to `இயலாது`; unusual verified MD tokens on scan 112 remain unchanged.
+- `scenes/17.md` — Scene 17, scans 114–115; Gandhi's speech is joined across the physical page boundary without normalization.
+- `scenes/18.md` — Scene 18, scans 115–116; the page-record speaker-label variation is preserved.
+- `scenes/19.md` — Scene 19, scan 116; complete single-scan scene preserved through `(திரை)`.
 
 ## Structural safeguards
 
@@ -79,6 +84,6 @@ Primary lexical witness:
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 15** from verified scans **109–110**, then continue with Scene 16 unless the user specifies another batch size.
+Assemble and page-record-check **Scene 20** from verified scans **117–119**, then continue with Scene 21 unless the user specifies another batch size.
 
 Do **not** begin English translation until separately authorized.
