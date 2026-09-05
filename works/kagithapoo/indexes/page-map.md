@@ -24,16 +24,16 @@ Under the current dual-witness rule, `verified` means the page has MD-controlled
 | 102 | — | காட்சி 8 / காட்சி 9 / காட்சி 10 | dramatic text + photograph | verified | Scene 8 closes; all of Scene 9 and its `(திரை)` are reconciled; `காட்சி 10` begins on the same scan and continues into scan 103. MD controls words; PDF controls structure/punctuation. |
 | 103 | — | காட்சி 10 | dramatic text | verified | MD lexical witness reconciled to PDF-controlled two-column structure; காவேரி's long angry response begins and continues physically into scan 104. |
 | 104 | — | காட்சி 10 / காட்சி 11 | dramatic text + photograph | verified | Scene 10 closes and `காட்சி 11` begins; MD lexical words reconciled to PDF-controlled punctuation/layout; Scene 11 continues into scan 105. |
-| 105 | — | காட்சி 11 / காட்சி 12 | dramatic text | not-started | Scene 11 closes; Scene 12 begins. |
-| 106 | — | காட்சி 12 | dramatic text + photograph | not-started | Continuation. |
-| 107 | — | காட்சி 12 / காட்சி 13 / காட்சி 14 | dramatic text | not-started | Scene 12 closes; Scene 13 and Scene 14 headings visible. |
-| 108 | — | காட்சி 14 | dramatic text | not-started | Continuation. |
-| 109 | — | காட்சி 14 / காட்சி 15 | dramatic text | not-started | Scene 14 closes; Scene 15 begins. |
-| 110 | — | காட்சி 15 / காட்சி 16 | dramatic text + photograph | not-started | Scene 15 closes; Scene 16 begins. |
-| 111 | — | காட்சி 16 | dramatic text | not-started | Continuation. |
-| 112 | — | காட்சி 16 | dramatic text | not-started | Continuation. |
-| 113 | — | காட்சி 16 | dramatic text | not-started | Continuation. |
-| 114 | — | காட்சி 16 / காட்சி 17 | dramatic text | not-started | Scene 16 closes; Scene 17 begins. |
+| 105 | — | காட்சி 11 / காட்சி 12 | dramatic text | verified | Scene 11 closes; `காட்சி: 12.` begins; MD words reconciled to PDF structure; no new lexical gap. |
+| 106 | — | காட்சி 12 | dramatic text + photograph | verified | Scene 12 continuation reconciled; photograph and scan-106/107 mid-word boundary preserved. |
+| 107 | — | காட்சி 12 / காட்சி 13 / காட்சி 14 | dramatic text | verified | Scene 12 closes, Scene 13 is complete, and `காட்சி: 14` begins on the same scan. |
+| 108 | — | காட்சி 14 | dramatic text | verified | Scene 14 continuation reconciled; physical continuation into scan 109 preserved. |
+| 109 | — | காட்சி 14 / காட்சி 15 | dramatic text | verified | Scene 14 closes; `காட்சி 15` begins and continues into scan 110. |
+| 110 | — | காட்சி 15 / காட்சி 16 | dramatic text + photograph | verified | Scene 15 closes; `காட்சி 16` begins; photo/layout and boundary reconciled. |
+| 111 | — | காட்சி 16 | dramatic text | verified | Scene 16 continuation reconciled; sentence continues into scan 112. |
+| 112 | — | காட்சி 16 | dramatic text | verified | Scene 16 interview continuation reconciled; MD garbled tokens retained as lexical witness. |
+| 113 | — | காட்சி 16 | dramatic text | verified | Scene 16 continuation reconciled; sentence remains open into scan 114. |
+| 114 | — | காட்சி 16 / காட்சி 17 | dramatic text | verified | Scene 16 closes; `காட்சி 17` begins; Gandhi speech continues into scan 115. |
 | 115 | — | காட்சி 17 / காட்சி 18 | dramatic text | not-started | Scene 17 closes; Scene 18 begins. |
 | 116 | — | காட்சி 18 / காட்சி 19 | dramatic text + photograph | not-started | Scene 18 closes; Scene 19 appears. |
 | 117 | — | காட்சி 20 | dramatic text + photograph | not-started | Source-visible `காட்சி 20` opening. |
@@ -56,10 +56,11 @@ Under the current dual-witness rule, `verified` means the page has MD-controlled
 
 - selected source pages represented: **41 / 41**;
 - MD lexical reconciliation of scans **91–101: COMPLETE**;
-- dual-witness fully verified pages: **10 / 41** — scans **91, 92, 94, 96, 99, 100, 101, 102, 103, 104**;
+- dual-witness fully verified pages: **20 / 41** — scans **91, 92, 94, 96, 99–114**;
 - needs-review because MD lexical witness is incomplete: **4 pages** — scans **93, 95, 97, 98**;
-- scans 102–104 are durably completed under the MD-words / PDF-structure rule;
+- scans **102–114** are durably completed under the MD-words / PDF-structure rule;
 - unresolved lexical-witness gaps remain on scans **93, 95, 97, 98**; the user subsequently instructed the workflow to proceed, so forward processing resumed while those gaps remain explicitly tracked;
+- next page-level batch: **115–124**;
 - scene assembly: **not started / not authorized**;
 - translation: **not started / not authorized**.
 
