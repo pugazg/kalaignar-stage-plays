@@ -21,11 +21,11 @@ All **49 physical scans** are registered. Page production is source-first; histo
 | 13 | 11 | body | dramatic text | verified | Scan-12 utterance continuation preserved without invented speaker label; `காளைமாட்டு`, `படுபாதாளச் சிறையில்`, `தண்டனை` verified. |
 | 14 | 12 | body | dramatic text | verified | Full dialogue verified; source form `இரண்டுக்கு முள்ள` retained; final `எமன்:` utterance continues after dash into scan 15. |
 | 15 | 13 | body | dramatic text | verified | Scan-14 continuation, stage direction and `ஸ்ரீ மயானம்` prose verified; historical `லை` in `தலைகள்` decoded; final `அதன்படி` continues to scan 16. |
-| 16 | 14 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 17 | 15 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 18 | 16 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 19 | 17 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 20 | 18 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
+| 16 | 14 | body | dramatic text | verified | Full page verified; `தலைகள் / கல்யாண` glyph identities checked; source closes physically at open fragment `வறுமை வய` into scan 17. |
+| 17 | 15 | body | dramatic text | verified | Full page verified; begins source-visibly `வில் பொறுக்கப்பட்டவை!`; child-mark/research and women-with-cups sequence retained; scan16→17 wording is not editorially repaired; `லை / ளை` checked. |
+| 18 | 16 | body | dramatic text | verified | Full page verified; blood-drink sequence and punishment passage; source `தூத்துக் குடிச்சாறு` retained; `னை / லை / ளை` checked. |
+| 19 | 17 | body | dramatic text | verified | Full page verified; `ஆகாஷவாணி` entrance/song and embrace sequence; `ணா / றா / ளை` checked; source physical line splits retained. |
+| 20 | 18 | body | dramatic text | verified | Full page verified; source `நன்றுக`, `“வரி”` discussion, and start of `எமன் :` interview retained; `ணா / ளை / லை` checked; interview continues to scan 21. |
 | 21 | 19 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
 | 22 | 20 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
 | 23 | 21 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
@@ -60,14 +60,14 @@ All **49 physical scans** are registered. Page production is source-first; histo
 
 - scans registered: **49 / 49**;
 - page placeholders: **49 / 49**;
-- canonical page transcriptions processed: **15 / 49**;
-- visually verified page records: **8 / 49** (`2, 6, 10, 11, 12, 13, 14, 15`);
+- canonical page transcriptions processed: **20 / 49**;
+- visually verified page records: **13 / 49** (`2, 6, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20`);
 - `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
-- historical-glyph passes complete: **15 / 49**;
-- unprocessed page records: **34 / 49**;
+- historical-glyph passes complete: **20 / 49**;
+- unprocessed page records: **29 / 49**;
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
 Printed-page policy: scans **8–48** visibly carry printed pages **6–46**. Scan 7 is the body opener immediately before printed p.6, but its own numeral is not safely visible, so no printed page number is inferred.
 
-Exact next activity: transcribe and historically verify **scans 16–20** (printed pages **14–18**) without inferring scene numbering or repairing source text from context.
+Exact next activity: transcribe and historically verify **scans 21–25** (printed pages **19–23**) without inferring scene numbering or repairing source text from context.
