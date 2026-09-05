@@ -1,8 +1,10 @@
 # காகிதப்பூ — Scene assembly progress
 
-Status: **IN PROGRESS**
+Status: **COMPLETE / CLOSED — FINAL REVIEW PASS**
 
 Scene assembly was explicitly authorized by the user's instruction to proceed after the page layer had closed at **41 / 41 verified**.
+
+Final closure record: `SCENE_ASSEMBLY_FINAL_REVIEW.md` — **PASS**.
 
 ## Assembly rules
 
@@ -14,7 +16,7 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 6. Preserve the numbering anomaly: scan 124 has only `காட்சி,`; scan 125 later has `காட்சி 24.`. Never invent Scenes 22/23.
 7. Translation remains a later separate phase.
 
-## Scene inventory / source spans
+## Final scene inventory / source spans
 
 | Scene / source block | Scan span | Assembly status | File |
 |---|---:|---|---|
@@ -40,9 +42,9 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 | 24 | 125–129 | assembly-reviewed | `scenes/24.md` |
 | 25 | 129 | assembly-reviewed; source-compressed action only | `scenes/25.md` |
 | 26 | 129–130 | assembly-reviewed | `scenes/26.md` |
-| 27 | 130–131 | next | — |
+| 27 | 130–131 | assembly-reviewed; closes at `(முற்றும்)` | `scenes/27.md` |
 
-## Completed assembly
+## Completed assembly notes
 
 - `scenes/01.md` joins the verified scan-92/93 Scene-1 continuation and closes at `(திரை)`.
 - `scenes/02-05.md` preserves exactly the source's collective `காட்சிகள்: 2, 3, 4, 5.` representation; no unprinted dialogue was invented.
@@ -66,7 +68,17 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 - `scenes/24.md` assembles verified scans 125–129; physical splits `முடி` / `யாம` and `கொள்` / `ளுங்கள்` are mechanically joined as `முடியாம` and `கொள்ளுங்கள்`. The repeated `திர:—` continuation label remains source-faithful.
 - `scenes/25.md` preserves the complete source-compressed Scene 25 on scan 129 exactly as the bracketed campaign-action direction; no dialogue or body is invented.
 - `scenes/26.md` assembles verified scans 129–130. The physical boundary falls between complete turns, so no lexical join is made; unusual verified speaker labels are preserved exactly. Scene 26 closes before `காட்சி 27`.
+- `scenes/27.md` assembles verified scans 130–131, preserves all three previously authorized scan-130 PDF-fallback turns, excludes the boxed `கண்டுபிடியுங்கள்` feature and scan-131 cast block from dramatic reading order, and closes exactly at `(முற்றும்)`.
 
-## Exact next activity
+## Final result
 
-Assemble and page-record-check **Scene 27** from verified scans **130–131**. Keep the scan-130 boxed `கண்டுபிடியுங்கள்` feature separate from dramatic reading order, preserve the already verified three PDF-fallback turns on scan 130, and close the dramatic scene with source `(முற்றும்)` on scan 131. The following `நாடகத்தில்—பங்கேற்பவர்கள்!` cast block remains separate page-level non-dramatic material. After Scene 27, perform the final scene-assembly consistency/closure review. Do not begin English translation.
+**SCENE ASSEMBLY COMPLETE / CLOSED.**
+
+- assembly artifacts: **23 / 23 expected source-representation artifacts present**;
+- unresolved assembly gaps: **0**;
+- invented Scene 22/23 numbering: **0**;
+- invented source-compressed dialogue: **0**;
+- final consistency review: **PASS**;
+- English translation: **not started / not authorized**.
+
+No further Tamil page-level or scene-assembly activity is pending. Any English translation phase requires separate user authorization.
