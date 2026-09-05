@@ -23,7 +23,7 @@ Before any source-dependent change, read completely:
 7. `works/kagithapoo/indexes/page-map.md`;
 8. relevant `works/kagithapoo/pages/*.md` files for the active batch.
 
-Re-resolve / attach the controlling PDF before page-level visual work.
+Re-resolve / attach both the controlling PDF and the user-supplied lexical witness before page-level work on the remaining pages.
 
 ## Controlling source
 
@@ -49,18 +49,33 @@ The PDF itself remains external to the repository.
 
 Keep this catalog layer distinct from verbatim source transcription unless each detail is directly source-verified.
 
+## Active lexical-witness override — IMPORTANT
+
+The user supplied a full-play Markdown transcription named `kaagidha_poo.md` and explicitly changed the transcription method for the remaining unprocessed pages.
+
+Effective from **scan 102 onward**:
+
+1. **Literary words / lexical tokens must come only from `kaagidha_poo.md`.**
+2. The PDF remains authoritative for **physical page boundaries, scene boundaries/numbers, reading order, paragraph/speaker grouping, punctuation, stage-direction punctuation/bracketing, layout, photographs, captions and other source marks**.
+3. The Markdown may contain run-together or misplaced words. Reposition / respace only the words it supplies, and only when PDF structure establishes the correction.
+4. The Markdown may omit a paragraph. If PDF text has no lexical counterpart in the Markdown, do **not** read/import new literary words from the PDF to fill it. Record a lexical-witness gap and mark the page `needs-review` until the user supplies/authorizes the missing words.
+5. No common-spelling, semantic, OCR or assistant normalization may substitute another word for the Markdown token.
+6. Scans **91–101** are existing durable verified pages produced under the earlier source-first method. Do not reopen them automatically; a retroactive lexical audit requires explicit user instruction.
+
+Scan **102** is the first page committed under this mixed-authority method.
+
 ## Durable current state
 
 - source intake: **COMPLETE**;
 - work root: `works/kagithapoo/`;
 - page placeholders: `pages/0091.md` through `0131.md` = **41 / 41 represented**;
-- verified Tamil page transcriptions: **10 / 41** — scans **91–100**;
+- verified Tamil page transcriptions: **12 / 41** — scans **91–102**;
 - first page-level batch: **COMPLETE**;
-- next page-level batch: **101–110**;
+- active second-batch remainder: **103–110**;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
-### Durable first-batch page commits
+### Durable page commits through scan 102
 
 - scan 91 — `a5a89c50e09c2c3f8e9d9176dc26b430ee71ef36` — `Transcribe and verify Kagithapoo scan 91`;
 - scan 92 — `60ec231bcc277e792df95c4230b4729e26b57096` — `Transcribe and verify Kagithapoo scan 92`;
@@ -71,11 +86,17 @@ Keep this catalog layer distinct from verbatim source transcription unless each 
 - scan 97 — `fa486ecbf0a4d5cd714b4585730de7ed07615cb8` — `Transcribe and verify Kagithapoo scan 97`;
 - scan 98 — `984f192a5c3f74229f49970d21a157730ccb8f40` — `Transcribe and verify Kagithapoo scan 98`;
 - scan 99 — `e58f5ad7df6f711246eb84d78e627c75fa3f8a74` — `Transcribe and verify Kagithapoo scan 99`;
-- scan 100 — `0cd7fa6a72abfaab108ac656a53e4b62be892056` — `Transcribe and verify Kagithapoo scan 100`.
+- scan 100 — `0cd7fa6a72abfaab108ac656a53e4b62be892056` — `Transcribe and verify Kagithapoo scan 100`;
+- scan 101 — `c5b1fc262624daa411b02e7580ab280ee283dc04` — `Transcribe and verify Kagithapoo scan 101`;
+- scan 102 — `986287cc9ac9497a7806baf17301c87405a6f3c5` — `Transcribe Kagithapoo scan 102 with lexical witness`.
 
-Tracking checkpoint after completion of scans 91–100: `e344a8c3ea543ccce27c36e118ff64792cd0d2e4`.
+Tracking checkpoints:
 
-### First-batch source-sensitive notes
+- scans 91–100 complete — `e344a8c3ea543ccce27c36e118ff64792cd0d2e4`;
+- scan 101 tracked — `4f2242cce5a152a17e909a975bfd84ea0a756771`;
+- scan 102 tracked — `9d79c268be97063d8df1ea6feec453462c45cc99`.
+
+### Source-sensitive notes through scan 102
 
 - Scan 91 is the staged `காகிதப்பூ` title opener.
 - Scan 92 begins `காட்சி 1`.
@@ -83,7 +104,9 @@ Tracking checkpoint after completion of scans 91–100: `e344a8c3ea543ccce27c36e
 - Scan 94's difficult narrow Scene-6 continuation required a fresh 600-dpi render before verification. Source forms including `சேலி`, `தணற்காடு`, and `இல்லே` are preserved without normalization; Scene 6 closes and `காட்சி 7.` begins on that scan.
 - Scans 95–97 continue Scene 7.
 - Scan 98 closes Scene 7 and begins `காட்சி 8.`.
-- Scans 99–100 continue Scene 8; scan-boundary joins were checked against adjacent scans.
+- Scans 99–101 continue Scene 8.
+- Scan 102 closes Scene 8, carries all of Scene 9, closes it with `(திரை)`, and begins Scene 10. The Scene-10 dialogue continues on scan 103.
+- No lexical-witness gap was found on scan 102; run-together Markdown words were respaced/repositioned only according to the PDF layout.
 
 ### Boundary facts for later work
 
@@ -103,31 +126,35 @@ Do **not** silently label the unnumbered scene as 22 or 23 and do not create a m
 
 ## Exact next activity
 
-Process **scans 101–110** as the second page-level transcription/verification batch.
+Process **scans 103–110** as the remainder of the second page-level transcription/verification batch.
 
 For each scan:
 
-1. inspect the native scan and enlarged render directly;
-2. transcribe printed Tamil word-for-word, including speaker labels, punctuation, stage directions, captions and visible source marks;
-3. preserve image/photograph content with concise archival description rather than invented textual content;
-4. distinguish printed text from stamps, damage, bleed-through or later marks;
-5. update `pages/0101.md` through `0110.md`;
-6. mark `verified` only after direct visual comparison;
-7. commit completed pages or small completed groups durably instead of waiting for the whole batch;
-8. keep `indexes/page-map.md` synchronized as durable state advances;
-9. after scan 110 passes, synchronize work README, this handover and next-chat prompt and derive the following batch from live repository state.
+1. inspect the controlling PDF directly and at enlarged resolution;
+2. locate the corresponding wording in `kaagidha_poo.md`;
+3. use only Markdown-supplied words while taking reading order, page/scene boundaries, paragraph/speaker structure, punctuation and stage-direction formatting from the PDF;
+4. specifically detect misplaced/run-together words and missing Markdown paragraphs;
+5. if a source paragraph has no words in the Markdown, record the gap and use `needs-review` rather than supplying words from the PDF;
+6. preserve image/photograph content with concise archival description rather than invented textual content;
+7. distinguish printed text from stamps, damage, bleed-through or later marks;
+8. update `pages/0103.md` through `0110.md`;
+9. mark `verified` only after the mixed-authority reconciliation passes;
+10. commit completed pages or small completed groups durably instead of waiting for the whole batch;
+11. keep `indexes/page-map.md` synchronized as durable state advances;
+12. after scan 110 passes, synchronize work README, this handover and next-chat prompt and derive the following batch from live repository state.
 
 No scene assembly and no English translation during this phase.
 
 ## Source-sensitive safeguards
 
-- controlling scan wins over OCR, expected spelling or semantic guesswork;
-- no silent spelling, punctuation, speaker-label, stage-direction or old-glyph normalization;
+- for remaining pages, Markdown words control the lexical layer and PDF controls structure/punctuation/physical evidence;
+- no assistant spelling substitution or semantic normalization;
 - mixed-column reading order must be visually established;
 - photographs/graphics are archival objects, not OCR prose;
 - physical scan boundaries remain explicit;
 - printed pagination is recorded only when visibly supported;
-- source-visible scene numbering must not be repaired editorially.
+- source-visible scene numbering must not be repaired editorially;
+- lexical-witness gaps are exposed, never silently filled from the scan.
 
 # CLOSED WORK — மணிமகுடம்
 
