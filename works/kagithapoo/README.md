@@ -4,7 +4,7 @@ Archive slug: `kagithapoo`.
 
 ## Current status
 
-**IN PROGRESS — scans 91–101 retroactively reconciled to the user-supplied MD lexical witness; four lexical gaps require review before any scan 103+ work.**
+**IN PROGRESS — scans 105–114 completed under the MD-words / PDF-structure rule; next batch 115–124.**
 
 Controlling structural source:
 
@@ -19,9 +19,9 @@ Lexical witness:
 - page placeholders: `pages/0091.md`–`0131.md` = **41 / 41 represented**;
 - retroactive MD lexical reconciliation: **scans 91–101 COMPLETE**;
 - scan 102: already completed under the same dual-witness method and preserved;
-- dual-witness fully verified pages: **8 / 41** — 91, 92, 94, 96, 99, 100, 101, 102;
+- dual-witness fully verified pages: **20 / 41** — 91, 92, 94, 96, 99–114;
 - lexical-gap `needs-review` pages: **93, 95, 97, 98**;
-- next new scan work: **BLOCKED before 103** until those four gaps are resolved or explicitly accepted;
+- forward processing resumed by explicit user instruction; scans **103–114** are now complete while earlier gaps remain tracked;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
@@ -93,10 +93,11 @@ After `காட்சி 21`, scan 124 prints a new heading only as **`கா�
 
 ## Exact next activity
 
-Before scan 103:
+Process physical scans **115–124** under the same dual-witness rule:
 
-1. resolve or explicitly accept the MD lexical gaps recorded on scans **93, 95, 97 and 98**;
-2. update those page statuses and `indexes/page-map.md` accordingly;
-3. only then resume the new-page batch at **scan 103** using the same MD-words / PDF-structure rule.
+1. words only from `kaagidha_poo.md`;
+2. PDF controls page/scene boundaries, reading order, punctuation, speaker/stage structure and visual evidence;
+3. keep scans **93, 95, 97, 98** as explicit unresolved lexical-gap records;
+4. on scan **124**, preserve the source-visible heading **`காட்சி,`** exactly and do not invent 22/23.
 
 Do **not** begin scene assembly or English translation.
