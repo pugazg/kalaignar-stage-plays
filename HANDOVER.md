@@ -66,14 +66,23 @@ Committed assembly-reviewed files:
 - `works/kagithapoo/scenes/11.md` — Scene 11, scans 104–105;
 - `works/kagithapoo/scenes/12.md` — Scene 12, scans 105–107;
 - `works/kagithapoo/scenes/13.md` — Scene 13, scan 107;
-- `works/kagithapoo/scenes/14.md` — Scene 14, scans 107–109.
+- `works/kagithapoo/scenes/14.md` — Scene 14, scans 107–109;
+- `works/kagithapoo/scenes/15.md` — Scene 15, scans 109–110;
+- `works/kagithapoo/scenes/16.md` — Scene 16, scans 110–114;
+- `works/kagithapoo/scenes/17.md` — Scene 17, scans 114–115;
+- `works/kagithapoo/scenes/18.md` — Scene 18, scans 115–116;
+- `works/kagithapoo/scenes/19.md` — Scene 19, scan 116.
 
 Assembly notes:
 
-- the scan-98 printed caption `ஓ. எம். சுப்பிரமணியன்,` remains preserved as a separate non-dramatic page element and is not inserted into Scene 8 dialogue;
-- Scene 12 mechanically joins the source split `ஒப்ப—` / `டைக்கிறதா` as `ஒப்படைக்கிறதா`;
-- Scene 13 is a complete single-scan scene on scan 107 and closes at `(திரை விழுகிறது)`;
-- Scene 14 mechanically joins `வெற்றிகளக் குவிக்கத்—` / `தான் போகிறார்கள் மக்கள்!...` as `வெற்றிகளக் குவிக்கத்தான் போகிறார்கள் மக்கள்!...` and closes at `(திரை)` immediately before Scene 15;
+- scan-98 caption `ஓ. எம். சுப்பிரமணியன்,` remains a separate non-dramatic page element;
+- Scene 12 joins `ஒப்ப—` / `டைக்கிறதா` as `ஒப்படைக்கிறதா`;
+- Scene 14 joins `வெற்றிகளக் குவிக்கத்—` / `தான் போகிறார்கள் மக்கள்!...` as `வெற்றிகளக் குவிக்கத்தான் போகிறார்கள் மக்கள்!...`;
+- Scene 15 joins `வார்த்தை—` / `யைச்` as `வார்த்தையைச்`;
+- Scene 16 joins `இய—` / `லாது` as `இயலாது` and preserves the unusual verified scan-112 MD tokens exactly;
+- Scene 17 joins Gandhi's speech across scans 114→115 without normalization;
+- Scene 18 preserves the verified page-record speaker-label variation across scans 115→116;
+- Scene 19 is a complete single-scan scene;
 - no scene body has been reconstructed from material absent from the verified page layer.
 
 Tracking: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
@@ -90,7 +99,7 @@ English translation: **not started / not authorized**.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 15** from verified scans **109–110**, then continue with Scene 16 unless the user specifies a different batch size. Update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT at the next substantial checkpoint.
+Assemble and page-record-check **Scene 20** from verified scans **117–119**, then continue with Scene 21 unless the user specifies a different batch size. Update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT at the next substantial checkpoint.
 
 Do not begin English translation without separate authorization.
 
