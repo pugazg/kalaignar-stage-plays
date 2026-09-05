@@ -4,7 +4,7 @@ Archive slug: `thiruvalar-desiyampillai`.
 
 ## Current status
 
-**PAGE LAYER IN PROGRESS — 15 / 49 TRANSCRIBED; 8 / 49 VERIFIED; 7 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 15 / 49.**
+**PAGE LAYER IN PROGRESS — 20 / 49 TRANSCRIBED; 13 / 49 VERIFIED; 7 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 20 / 49.**
 
 Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீயம்பிள்ளை.pdf`.
 
@@ -47,13 +47,13 @@ Every scan checks:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Same-edition character-identity references now established:
+Same-edition character-identity references currently established:
 
-- `லை` — `கலைஞர்`, reinforced by `தலையை`, `தலைமை`, `தலைகள்`;
-- `ளை` — `பிள்ளை`, `உங்களை`, `காளைமாட்டு`, `விளையும்`;
-- `ணா` — `கருணாநிதி`;
+- `லை` — `கலைஞர்`, reinforced by `தலையை`, `தலைமை`, `தலைகள்`, `தலைகுனிந்தவாறு`;
+- `ளை` — `பிள்ளை`, `உங்களை`, `காளைமாட்டு`, `விளையும்`, `கண்களை`;
+- `ணா` — `கருணாநிதி`, reinforced by `கல்யாண`, `ராணுவத்`, `ஆகாஷவாணி`;
 - `னை` — `அவனை`, `தண்டனை`;
-- `றா` — scan-11 `வண்ணமிருக்கிறார்களே`, reinforced by `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார்`.
+- `றா` — scan-11 `வண்ணமிருக்கிறார்களே`, reinforced by `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார் / பூசினாற்`.
 
 These references support glyph comparison only. They do not authorize reconstruction of physically absent wording or modernization of source forms.
 
@@ -73,11 +73,11 @@ Historical-glyph pass: **5 / 5 COMPLETE**.
 
 Processed: **5 / 5**.
 
-- scan 6 — `verified`: publisher-note close fully readable; physical line split `வெளியிடுகி / றேன்` preserved;
-- scan 7 — `needs-review`: work opener/body transcribed, but large paper loss removes several text clusters; no printed page or scene number inferred;
-- scan 8 / printed p.6 — `needs-review`: continuation and dramatic prose transcribed; broad central paper loss remains explicit;
-- scan 9 / printed p.7 — `needs-review`: speaker structure transcribed; lower-right loss removes the end of the first repeated `எங்கே ஜனநாயக…` line;
-- scan 10 / printed p.8 — `verified`: full dramatic text and speaker labels pass direct visual + historical-glyph review; later ink does not obscure character identity.
+- scan 6 — `verified`;
+- scan 7 — `needs-review`;
+- scan 8 / printed p.6 — `needs-review`;
+- scan 9 / printed p.7 — `needs-review`;
+- scan 10 / printed p.8 — `verified`.
 
 Historical-glyph pass: **5 / 5 COMPLETE**.
 
@@ -85,22 +85,30 @@ Historical-glyph pass: **5 / 5 COMPLETE**.
 
 Processed: **5 / 5 — ALL VERIFIED**.
 
-- scan 11 / printed p.9 — `verified`: full economic/death-export debate transcribed; same-edition `றா` evidence established from `வண்ணமிருக்கிறார்களே`;
-- scan 12 / printed p.10 — `verified`: `கதர் உருவம்` entry, stage direction and `தேசீயம் பிள்ளை` speaker structure preserved; final utterance remains physically open to scan 13;
-- scan 13 / printed p.11 — `verified`: scan-12 continuation preserved without invented speaker label; source forms `அய்யன்மீர்`, `ஓகோ`, `படுபாதாளச் சிறையில்` retained;
-- scan 14 / printed p.12 — `verified`: complete dialogue checked; source form `இரண்டுக்கு முள்ள` retained; final `எமன்:` utterance continues to scan 15;
-- scan 15 / printed p.13 — `verified`: continuation/stage direction/prose verified; historical `லை` in `தலைகள்` decoded; `ஸ்ரீ மயானம்` introduction and final `அதன்படி` continuation preserved.
+Source-sensitive forms remain source-faithful, including `அய்யன்மீர்`, `ஓகோ`, `படுபாதாளச் சிறையில்`, `இரண்டுக்கு முள்ள`, `என்றுரே`, and `தானு`.
 
-Historical-glyph pass: **5 / 5 COMPLETE**. No new damage-limited page was introduced in this batch.
+Historical-glyph pass: **5 / 5 COMPLETE**.
+
+## Batch 4 — scans 16–20
+
+Processed: **5 / 5 — ALL VERIFIED**.
+
+- scan 16 / printed p.14 — dialogue/narration verified; historical `லை / ணா` identities checked; final physical fragment `வறுமை வய` remains open to scan 17;
+- scan 17 / printed p.15 — source begins `வில் பொறுக்கப்பட்டவை!`; child-mark/research and women-with-cups sequence verified; the scan16→17 wording is not silently repaired;
+- scan 18 / printed p.16 — blood-drink sequence and punishment passage verified; source `தூத்துக் குடிச்சாறு` retained;
+- scan 19 / printed p.17 — `ஆகாஷவாணி` entrance/song and embrace sequence verified; physical word splits preserved;
+- scan 20 / printed p.18 — source `நன்றுக`, `“வரி”` discussion and start of the `எமன் :` interview verified; interview continues to scan 21.
+
+Historical-glyph pass: **5 / 5 COMPLETE**. No new damage-limited page was introduced.
 
 ## Work progress
 
 - page placeholders: **49 / 49 created**;
-- canonical transcription processed: **15 / 49**;
-- visually verified: **8 / 49** (`2, 6, 10, 11, 12, 13, 14, 15`);
+- canonical transcription processed: **20 / 49**;
+- visually verified: **13 / 49** (`2, 6, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20`);
 - `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
-- historical-glyph passes: **15 / 49**;
-- unprocessed: **34 / 49**;
+- historical-glyph passes: **20 / 49**;
+- unprocessed: **29 / 49**;
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
@@ -108,4 +116,4 @@ Do not infer scene numbering or other structural divisions from dramatic context
 
 ## Exact next activity
 
-Process **scans 16–20** source-first (printed pages **14–18**). Apply the full historical-glyph pass, preserve source speaker/stage/page structure, and keep physical loss or later markings separate from canonical literary text.
+Process **scans 21–25** source-first (printed pages **19–23**). Apply the full historical-glyph pass, preserve source speaker/stage/page structure, and keep physical loss or later markings separate from canonical literary text.
