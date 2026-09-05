@@ -71,43 +71,43 @@ Permanent rules:
 
 Same-edition reference forms currently established:
 
-- `லை` — `கலைஞர்`, reinforced by `தலையை / தலைமை / தலைகள்`;
-- `ளை` — `பிள்ளை`, reinforced by `உங்களை / காளைமாட்டு / விளையும்`;
-- `ணா` — `கருணாநிதி`;
+- `லை` — `கலைஞர்`, reinforced by `தலையை / தலைமை / தலைகள் / தலைகுனிந்தவாறு`;
+- `ளை` — `பிள்ளை`, reinforced by `உங்களை / காளைமாட்டு / விளையும் / கண்களை`;
+- `ணா` — `கருணாநிதி`, reinforced by `கல்யாண / ராணுவத் / ஆகாஷவாணி`;
 - `னை` — `அவனை / தண்டனை`;
-- `றா` — `வண்ணமிருக்கிறார்களே`, reinforced by `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார்`.
+- `றா` — `வண்ணமிருக்கிறார்களே`, reinforced by `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார் / பூசினாற்`.
 
-## Current state after scans 1–15
+## Current state after scans 1–20
 
 **PAGE LAYER IN PROGRESS.**
 
 - scans registered: **49 / 49**;
 - page placeholders: **49 / 49**;
-- canonical transcriptions processed: **15 / 49**;
-- visually verified pages: **8 / 49** (`2, 6, 10, 11, 12, 13, 14, 15`);
+- canonical transcriptions processed: **20 / 49**;
+- visually verified pages: **13 / 49** (`2, 6, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20`);
 - `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
-- historical-glyph passes complete: **15 / 49**;
-- unprocessed: **34 / 49**;
+- historical-glyph passes complete: **20 / 49**;
+- unprocessed: **29 / 49**;
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
-### Completed Batch 3 controls — scans 11–15
+### Completed Batch 4 controls — scans 16–20
 
 All five are **VERIFIED**.
 
-- scan 11 / printed p.9: full economic/death-export debate verified; new same-edition `றா` reference established from `வண்ணமிருக்கிறார்களே`;
-- scan 12 / printed p.10: stage direction and `கதர் உருவம்` / `தேசீயம் பிள்ளை` speaker structure preserved; final utterance remains open into scan 13;
-- scan 13 / printed p.11: physical continuation retained without inventing a speaker label; `அய்யன்மீர்`, `ஓகோ`, `படுபாதாளச் சிறையில்` remain source-faithful;
-- scan 14 / printed p.12: `இரண்டுக்கு முள்ள` retained exactly rather than regularized; final `எமன்:` utterance remains open after source dash;
-- scan 15 / printed p.13: scan-14 continuation, stage direction and `ஸ்ரீ மயானம்` prose verified; historical `லை` in `தலைகள்` decoded; final `அதன்படி` remains open to scan 16.
+- scan 16 / printed p.14: dialogue and narration verified; final physical fragment `வறுமை வய` stays open at the page boundary;
+- scan 17 / printed p.15: begins source-visibly `வில் பொறுக்கப்பட்டவை!`; the scan16→17 boundary is preserved rather than silently repaired; child-mark/research and women-with-cups sequence verified;
+- scan 18 / printed p.16: blood-drink and punishment passage verified; source `தூத்துக் குடிச்சாறு` retained;
+- scan 19 / printed p.17: `ஆகாஷவாணி` entrance/song and embrace sequence verified; source physical word splits retained;
+- scan 20 / printed p.18: source `நன்றுக` and `“வரி”` discussion retained; `எமன் :` interview begins and continues to scan 21.
 
-No scan 11–15 text is damage-limited. Existing `needs-review` pages remain scans `1, 3, 4, 5, 7, 8, 9`.
+No scan 16–20 text is damage-limited. Existing `needs-review` pages remain scans `1, 3, 4, 5, 7, 8, 9`.
 
 Do not begin scene assembly or English translation during this page-layer phase.
 
 ## Exact next activity
 
-Process **scans 16–20** source-first, corresponding to printed pages **14–18**.
+Process **scans 21–25** source-first, corresponding to printed pages **19–23**.
 
 For each:
 1. inspect full native/enlarged source pixels;
