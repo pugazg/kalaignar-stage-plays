@@ -6,46 +6,46 @@ All **49 physical scans** are registered. Page production is source-first; histo
 
 | Scan | Printed page | Section | Page type | Status | Intake / verification note |
 |---:|---:|---|---|---|---|
-| 1 | — | front matter | front cover | needs-review | Principal cover text transcribed; `லை / ணா / ளை` identities checked; small printed lower-left artist signature remains damaged/unresolved. |
-| 2 | — | front matter | donation/library slip | verified | Pasted donor slip verified as `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின் / அன்பளிப்பு`; kept separate from authorial text. |
-| 3 | — | front matter | title page | needs-review | Title/publisher/address transcribed; author line survives only as `மு. கருண[paper loss]`; handwriting kept separate. |
-| 4 | — | front matter | edition / imprint | needs-review | `இரண்டாம் பதிப்பு`, `நவம்பர் 1965`, imprint verified; central price/matter line physically lost except surviving `காசு`. |
-| 5 | — | front matter | publisher note | needs-review | Visible `வணக்கம்.` note fragments transcribed; large physical losses deliberately not reconstructed; note continues to scan 6. |
-| 6 | — | front matter | publisher note | verified | Publisher-note close fully transcribed; physical line split `வெளியிடுகி / றேன்` preserved; lower-left abrasion does not remove printed letters; glyph pass complete. |
-| 7 | — | body | work opener / dramatic text | needs-review | Source-visible title/body transcribed with explicit `[paper loss]`; no printed page or scene number inferred; `ளை / லை` checked. |
-| 8 | 6 | body | dramatic text | needs-review | Printed p.6; scan-7 continuation plus body text transcribed; broad central paper loss retained as unresolved; `லை / னை` checked. |
-| 9 | 7 | body | dramatic text | needs-review | Printed p.7; speaker structure transcribed; lower-right loss removes end of first repeated `எங்கே ஜனநாயக…` line; `ளை` checked. |
-| 10 | 8 | body | dramatic text | verified | Full dialogue/speaker structure verified; later ink mark does not obscure text; `லை / ளை` checked. |
-| 11 | 9 | body | dramatic text | verified | Economic/death-export debate verified; clear same-edition `றா` evidence recorded. |
-| 12 | 10 | body | dramatic text | verified | `கதர் உருவம்` / `தேசீயம் பிள்ளை` entry and stage direction preserved; final utterance continues to scan 13. |
-| 13 | 11 | body | dramatic text | verified | Scan-12 continuation preserved without invented speaker label; `காளைமாட்டு`, `படுபாதாளச் சிறையில்`, `தண்டனை` verified. |
-| 14 | 12 | body | dramatic text | verified | Full dialogue verified; source form `இரண்டுக்கு முள்ள` retained; final utterance continues to scan 15. |
-| 15 | 13 | body | dramatic text | verified | Post-pass old-type `என்றுரே / தானு` corrected by character identity to `என்றாரே / தானா`; final `அதன்படி` continues to scan 16. |
-| 16 | 14 | body | dramatic text | verified | Full page verified; final physical fragment `வறுமை வய` remains open to scan 17. |
-| 17 | 15 | body | dramatic text | verified | Begins source-visibly `வில் பொறுக்கப்பட்டவை!`; scan16→17 wording is not editorially repaired. |
-| 18 | 16 | body | dramatic text | verified | Blood-drink/punishment passage verified; source `தூத்துக் குடிச்சாறு` retained. |
-| 19 | 17 | body | dramatic text | verified | `ஆகாஷவாணி` sequence verified; historical-family identities and physical word splits preserved. |
-| 20 | 18 | body | dramatic text | verified | Apparent old-type `நன்றுக` decoded as historical `றா` identity `நன்றாக`; `“வரி”` discussion and `எமன் :` interview start retained. |
-| 21 | 19 | body | dramatic text | verified | Interview continuation verified; old-type `மகனு` decoded canonically as `மகனா` (`னா`); `கீரிப்பிள்ளை / தென்னம்பிள்ளை / அணில்பிள்ளை` wordplay retained. |
-| 22 | 20 | body | dramatic text | verified | Parrot/rationality dialogue verified; source `செத்துவிட்டமா` retained; final `இந்த` remains open to scan 23. |
-| 23 | 21 | body | dramatic text | verified | Scan-22 continuation and tax dialogue verified; physical word splits retained. |
-| 24 | 22 | body | dramatic text | verified | Tax/punishment dialogue verified; final `பூலோ` remains open to scan 25. |
-| 25 | 23 | body | dramatic text | verified | Election/tax dialogue verified; source `பெறுதவர்களா` retained; historical `ணை` in `சொரணை` established. |
-| 26 | 24 | body | dramatic text | verified | `ஐந்தாண்டுத் திட்டம்` interview verified; repeated old-type forms decode as `தானா`; final `ஆளைப் பார்த்தே` continues to scan 27. |
-| 27 | 25 | body | dramatic text | verified | Opening decoded as `மானால்` (`னா`); scan26→27 physical boundary preserved. |
-| 28 | 26 | body | dramatic text | verified | Gandhi-request/travel sequence verified; apparent `மால்தானே` decoded as `மாலைதானே`; no scene heading inferred. |
-| 29 | 27 | body | dramatic text | verified | Flower-shop/spirit narrative verified; physical word splits retained; page closes with `“நந்தா! நந்தா!!”`. |
-| 30 | 28 | body | dramatic text | verified | Nandan entrance/embrace/fainting sequence verified; full 13-family pass complete; physical word splits retained. |
-| 31 | 29 | body | dramatic text | verified | Entry into Gandhi's ornate prison and first exchange verified; historical `னா` in `உடைதானா`, `லை` in `விலைமதிக்க / மாலையை`, and repeated `றா` forms checked. |
-| 32 | 30 | body | dramatic text | verified | Gandhi rejects the garland; `மாலை` family forms and historical `றா` in `நன்றாகப்` verified; source line splits retained. |
-| 33 | 31 | body | dramatic text | verified | Priest/party allegory verified; old-type `னா` decoded in `அரசனா / ஆண்டவனா`; final `கட்சித் தலைவர்கள் கடவுளை` remains open to scan 34. |
-| 34 | 32 | body | dramatic text | verified | Scan-33 continuation and Gandhi's critique verified; `சொல் / வொணா`, source `நாதி / யில்லை`, and physical line splits retained. |
-| 35 | 33 | body | dramatic text | needs-review | Page otherwise transcribed and full 13-family pass complete; one short cluster in `கொம்பு மாடெனக் … மட்டும்` remains unresolved after enlargement; final `எங்குவேன்` continues to scan 36. |
-| 36 | 34 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 37 | 35 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 38 | 36 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 39 | 37 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 40 | 38 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
+| 1 | — | front matter | front cover | needs-review | Principal cover text transcribed; damaged lower-left artist signature unresolved. |
+| 2 | — | front matter | donation/library slip | verified | Donor slip verified and separated from authorial text. |
+| 3 | — | front matter | title page | needs-review | Author line physically incomplete. |
+| 4 | — | front matter | edition / imprint | needs-review | Edition/date/imprint survive; central matter physically lost. |
+| 5 | — | front matter | publisher note | needs-review | Visible fragments transcribed; physical losses not reconstructed. |
+| 6 | — | front matter | publisher note | verified | Publisher-note close verified; glyph pass complete. |
+| 7 | — | body | work opener / dramatic text | needs-review | Source-visible body opener transcribed with paper loss. |
+| 8 | 6 | body | dramatic text | needs-review | Broad central paper loss remains unresolved. |
+| 9 | 7 | body | dramatic text | needs-review | Lower-right loss removes part of repeated line. |
+| 10 | 8 | body | dramatic text | verified | Full dialogue/speaker structure verified. |
+| 11 | 9 | body | dramatic text | verified | Full page verified; same-edition `றா` evidence recorded. |
+| 12 | 10 | body | dramatic text | verified | Entry/stage direction verified; continuation to scan 13 preserved. |
+| 13 | 11 | body | dramatic text | verified | Continuation and punishment dialogue verified. |
+| 14 | 12 | body | dramatic text | verified | Full dialogue verified; page-end continuation preserved. |
+| 15 | 13 | body | dramatic text | verified | Canonical glyph rechecks `என்றாரே / தானா`; continuation to scan 16 preserved. |
+| 16 | 14 | body | dramatic text | verified | Full page verified; final fragment remains open to scan 17. |
+| 17 | 15 | body | dramatic text | verified | Scan16→17 physical boundary preserved without repair. |
+| 18 | 16 | body | dramatic text | verified | Blood-drink/punishment passage verified. |
+| 19 | 17 | body | dramatic text | verified | `ஆகாஷவாணி` sequence and historical families verified. |
+| 20 | 18 | body | dramatic text | verified | Old-type apparent `நன்றுக` decoded as canonical `நன்றாக`. |
+| 21 | 19 | body | dramatic text | verified | Old-type apparent `மகனு` decoded as canonical `மகனா`; wordplay retained. |
+| 22 | 20 | body | dramatic text | verified | Parrot/rationality dialogue verified; page-end continuation preserved. |
+| 23 | 21 | body | dramatic text | verified | Tax dialogue and physical splits verified. |
+| 24 | 22 | body | dramatic text | verified | Tax/punishment dialogue verified; continuation to scan 25 preserved. |
+| 25 | 23 | body | dramatic text | verified | Election/tax dialogue verified; `ணை` established from `சொரணை`. |
+| 26 | 24 | body | dramatic text | verified | `ஐந்தாண்டுத் திட்டம்` interview verified; repeated historical `னா`. |
+| 27 | 25 | body | dramatic text | verified | Opening decoded as `மானால்`; boundary preserved. |
+| 28 | 26 | body | dramatic text | verified | Gandhi-request/travel sequence; `மாலைதானே` glyph correction. |
+| 29 | 27 | body | dramatic text | verified | Flower-shop/spirit narrative verified. |
+| 30 | 28 | body | dramatic text | verified | Nandan entrance/embrace/fainting sequence verified. |
+| 31 | 29 | body | dramatic text | verified | Gandhi ornate-prison introduction verified; `உடைதானா / மாலையை` checked. |
+| 32 | 30 | body | dramatic text | verified | Garland-rejection passage verified. |
+| 33 | 31 | body | dramatic text | verified | Priest/party allegory verified; page-end continuation preserved. |
+| 34 | 32 | body | dramatic text | verified | Scan-33 continuation and Gandhi critique verified. |
+| 35 | 33 | body | dramatic text | needs-review | One short cluster in `கொம்பு மாடெனக் … மட்டும்` remains unresolved; final `எங்குவேன்` continues to scan 36. |
+| 36 | 34 | body | dramatic text | needs-review | Page transcribed and full 13-family pass complete; two short descriptive clusters in the `ஹரிஜன நலம்` / `சவலைப் பிள்ளை` imagery remain visually insecure; scan-35 `எங்குவேன்` continues physically into opening `இப்போது`. |
+| 37 | 35 | body | dramatic text | verified | Gandhi rejects Desiyampillai's garland and learns of the Srirangam/Ranganathar fire; source colloquialisms `ஓடிவந்துவிட்டானும் / போட்டானு?` retained; `மாலையை` historical `லை` decoded. |
+| 38 | 36 | body | dramatic text | verified | Gandhi refuses Desiyampillai and asks Eman to take him away; source `நாகத்திலும்` retained; page closes with buffalo push. |
+| 39 | 37 | body | dramatic text | verified | Stair-fall place-name sequence `கோவை / ஆம்பூர் / குடந்தை / மதுரை / உடுமலை` verified; final `உடுமலைப் படியில்` remains open to scan 40. |
+| 40 | 38 | body | dramatic text | verified | Stair-fall sequence continues through `கோபிப்படி / பாசிப்படி / விருதுநகர் / திருச்சி / தஞ்சை`; dream breaks with source-visible `உதய சூரியன்`; wife appears with morning coffee. |
 | 41 | 39 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
 | 42 | 40 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
 | 43 | 41 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
@@ -60,14 +60,15 @@ All **49 physical scans** are registered. Page production is source-first; histo
 
 - scans registered: **49 / 49**;
 - page placeholders: **49 / 49**;
-- canonical page transcriptions processed: **35 / 49**;
-- visually verified page records: **27 / 49** (`2, 6, 10–34`);
-- `needs-review`: **8 / 49** (`1, 3, 4, 5, 7, 8, 9, 35`);
-- historical-glyph passes complete: **35 / 49**;
-- unprocessed page records: **14 / 49**;
+- canonical page transcriptions processed: **40 / 49**;
+- visually verified page records: **31 / 49** (`2, 6, 10–34, 37–40`);
+- `needs-review`: **9 / 49** (`1, 3, 4, 5, 7, 8, 9, 35, 36`);
+- historical-glyph passes complete: **40 / 49**;
+- unresolved visual/source clusters: **3** (scan 35: 1; scan 36: 2);
+- unprocessed page records: **9 / 49**;
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
 Printed-page policy: scans **8–48** visibly carry printed pages **6–46**. Scan 7 is the body opener immediately before printed p.6, but its own numeral is not safely visible, so no printed page number is inferred.
 
-Exact next activity: transcribe and historically verify **scans 36–40** (printed pages **34–38**) without inferring scene numbering or repairing source text from context. Keep scan 35's single unresolved cluster open for later same-edition adjudication.
+Exact next activity: transcribe and historically verify **scans 41–45** (printed pages **39–43**) without inferring scene numbering or repairing source text from context. Keep scans 35 and 36 review holds open unless later same-edition evidence genuinely resolves them.
