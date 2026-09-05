@@ -6,126 +6,140 @@ Repository: `pugazg/kalaignar-stage-plays`, branch `main`.
 
 Always fetch live `main` first and preserve newer durable state. Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
-# CLOSED WORK — காகிதப்பூ
+# ACTIVE WORK — திருவாளர் தேசீயம்பிள்ளை
 
-The source-first Tamil archival layer and the first source-faithful English translation/review layer for **காகிதப்பூ** are both complete and closed.
+## Mandatory startup
+
+Read before further source-dependent work:
+
+1. `STAGE_PLAY_PROCESSING_GUIDE.md`;
+2. this `HANDOVER.md`;
+3. `NEXT_CHAT_PROMPT.md`;
+4. `works/thiruvalar-desiyampillai/README.md`;
+5. `works/thiruvalar-desiyampillai/metadata/source.md`;
+6. `works/thiruvalar-desiyampillai/indexes/page-map.md`;
+7. `works/thiruvalar-desiyampillai/HISTORICAL_GLYPH_AUDIT.md`;
+8. the relevant `works/thiruvalar-desiyampillai/pages/*.md` records for the current batch;
+9. the controlling PDF must be attached/resolved for direct page-level visual work.
+
+The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` has been adopted into the work-level glyph audit. It is a **methodological verification guide**, not a lexical first-pass witness.
 
 ## Source identity
 
-Controlling PDF: `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`
+Controlling PDF: `TVA_BOK_0064118_திருவாளர்_தேசீயம்பிள்ளை.pdf`
 
-- SHA-256: `b0a6499ba072a7346f8c2544a8a61c2363d83a60cad5227482008043cd310ec1`;
-- size: **45,718,751 bytes**;
-- full PDF: **131 scans**;
-- selected work range: **91–131 = 41 scans**.
+- SHA-256: `b336bbebb326803badecbaa93de4ca4d63d80f68137fe70673b07a884c4910eb`;
+- size: **58,035,177 bytes**;
+- physical scans: **49**;
+- source-visible second edition: **நவம்பர் 1965**;
+- publisher: **K. R. நாராயணன்**;
+- title-page address: **131, பிராட்வே சென்னை—1.**;
+- printer/imprint: **முத்தமிழ்ச் செல்வி அச்சகம், 1/65, பிராட்வே.**
 
-Primary lexical witness for the closed Tamil archival layer: `kaagidha_poo.md`.
+User-supplied catalog metadata:
 
-## Durable Tamil archival state
+- title: **திருவாளர் தேசீயம்பிள்ளை**;
+- author: **கலைஞர் மு. கருணாநிதி**;
+- publisher: **K. R. நாராயணன்**;
+- edition: **இரண்டாம் பதிப்பு, 1965**.
 
-**TAMIL ARCHIVAL LAYER COMPLETE / CLOSED.**
+User-supplied description:
 
-- page layer: **41 / 41 verified**;
-- `needs-review`: **0**;
-- final page-layer consistency audit: **PASS**;
-- scene assembly: **23 / 23 expected source-representation artifacts**;
-- unresolved assembly gaps: **0**;
-- final scene-assembly review: **PASS**.
+> இளைஞர்களிடையே தமிழ் உணர்வும், உதயசூரியனின் தாக்கம் விரைந்து எழுவதையும் உணர்த்தும் நாடகம் இது. சமூகச் சீர்திருத்தம் தொடங்கப்பட வேண்டிய இடமே முதலில் அறியாமை படைத்த பெண்களிடம்தான் என்பதை எடுத்துச் சொல்வதாக அமைந்துள்ளது.
 
-Final Tamil source-representation sequence:
+This is catalog context only and never substitutes for source transcription.
 
-- Scene 1;
-- source-compressed Scenes 2–5;
-- Scenes 6–21;
-- source-visible unnumbered `காட்சி,` between 21 and 24;
-- Scenes 24–27.
+## Physical structure registered at intake
 
-There is no Scene 22/23 artifact because the source does not print those scene numbers.
+- scan 1: colour front cover;
+- scan 2: pasted donor/gift slip (`பேராசிரியர். தி.வ. மெய்க்கண்டார் அவர்களின் அன்பளிப்பு`) — keep separate as later/library evidence;
+- scan 3: title page;
+- scan 4: second-edition / printing / imprint page;
+- scans 5–6: publisher note `வணக்கம்.`;
+- scans 7–48: dramatic work;
+- scans 8–48 visibly carry printed pages **6–46**;
+- scan 49: back-cover advertisement for `அல்லி விழி`.
 
-### Permanent Tamil safeguards
+Do not infer a printed page number for scan 7 merely from sequence.
 
-- PDF lexical fallback remains limited to the five previously user-authorized MD omissions on scans **93, 95, 97, 98 and 130**.
-- Scene assembly uses only verified page records; only mechanical page/column joins were made.
-- Source wording, punctuation, speaker labels, stage directions and numbering were not silently normalized.
-- Source-compressed bodies were not invented.
-- scan 124 heading remains exactly `காட்சி,`; scan 125 resumes at `காட்சி 24.`.
-- Scene 25 remains source-compressed action only.
-- Scene 27 retains the three verified scan-130 fallback turns, excludes boxed `கண்டுபிடியுங்கள்`, excludes scan-131 cast/imprint material and closes exactly at `(முற்றும்)`.
+## Scan condition
 
-Durable Tamil closure records include:
+The source is image-only and materially damaged:
 
-- `works/kagithapoo/PAGE_LAYER_CONSISTENCY_AUDIT.md` — **PASS**;
-- `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`;
-- `works/kagithapoo/SCENE_ASSEMBLY_FINAL_REVIEW.md` — **PASS**.
+- substantial paper loss / white abrasion, especially in front matter;
+- stains, handwriting and later ink marks;
+- worn/uneven print;
+- late-page purple/blue ink contamination and edge damage;
+- historical Tamil typeforms / look-alike glyph risk;
+- non-authorial library/donation material that must remain separate from literary text.
 
-## Durable English translation state
+Do not reconstruct text that is physically missing behind damage.
 
-**ENGLISH TRANSLATION LAYER COMPLETE / CLOSED — FINAL REVIEW PASS.**
+## Historical-glyph verification — mandatory
 
-Immediate drafting authority was the closed verified Tamil scene layer under `works/kagithapoo/scenes/`.
+Every page must apply the user-supplied historical-glyph methodology now durable in `works/thiruvalar-desiyampillai/HISTORICAL_GLYPH_AUDIT.md`.
 
-Permanent translation controls followed throughout:
+Minimum families checked on every scan:
 
-- no drafting from OCR, `kaagidha_poo.md`, PDF-as-substitute authority, modern editions, web text, outside summaries or secondary English witnesses;
-- preserve dramatic structure, source compression, speaker identity, stage directions, repetition, political rhetoric, language-policy argument, satire, jokes, slogans, colloquial register, wordplay and supported ambiguity;
-- semantically insecure forms are documented rather than silently repaired;
-- translation choices never back-propagate into the locked Tamil layer.
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-### Final English artifact set
+Permanent rules:
 
-- `translations/en/01.md`;
-- `translations/en/02-05.md`;
-- `translations/en/06.md` through `translations/en/21.md`;
-- `translations/en/unnumbered-between-21-and-24.md`;
-- `translations/en/24.md`;
-- `translations/en/25.md`;
-- `translations/en/26.md`;
-- `translations/en/27.md`.
+- read character identity, not modern visual resemblance;
+- controlling authority is the scan pixel evidence;
+- encode proven old-glyph identity in modern Unicode only;
+- preserve source spelling/grammar/vocabulary/punctuation otherwise;
+- compare same-edition evidence if uncertain;
+- no global replacement;
+- no context-based modernization;
+- if uncertainty remains, use `needs-review`;
+- keep historical-glyph corrections separate from ordinary transcription corrections.
 
-Expected / present / reviewed: **23 / 23 / 23**.
+There is **no user-supplied lexical first-pass MD** for this play at intake. Do not invent one, and do not treat the glyph guide as missing-word authority.
 
-No English `22.md` or `23.md` exists or is implied.
+## Current state
 
-### English review closure
+**SOURCE INTAKE COMPLETE / PRODUCTION NOT STARTED.**
 
-- `works/kagithapoo/translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
-- `BATCH_02_REVIEW.md` — **PASS / LOCKED**;
-- `BATCH_03_REVIEW.md` — **PASS / LOCKED**;
-- `BATCH_04_REVIEW.md` — **PASS / LOCKED**;
-- `BATCH_05_REVIEW.md` — **PASS / LOCKED**;
-- `works/kagithapoo/translations/en/TRANSLATION_REVIEW.md` — **FINAL PASS / CLOSED**.
+- scans registered: **49 / 49**;
+- page placeholders: **49 / 49 created** (`0001.md`–`0049.md`);
+- canonical transcriptions: **0 / 49**;
+- visually verified pages: **0 / 49**;
+- historical-glyph passes complete: **0 / 49**;
+- structural / scene inventory: **pending full source pass**;
+- English translation: **not authorized / not started**.
 
-Final English metrics:
+No page is verified merely because its metadata was visually inspected during onboarding.
 
-- expected artifacts: **23**;
-- present: **23 / 23**;
-- reviewed: **23 / 23**;
-- completed batches: **5 / 5**;
-- unresolved blocking translation issues: **0**;
-- invented Scene 22/23 artifacts: **0**;
-- secondary-English contamination: **0**;
-- final Tamil→English review: **PASS**.
+## Exact next activity
 
-Important source-sensitive carryovers and terminology controls are recorded in `works/kagithapoo/translations/en/README.md` and `TRANSLATION_REVIEW.md`.
+Process **scans 1–5** source-first.
 
-## Final Scene-27 controls
+For each scan:
 
-The English Scene 27:
+1. inspect the complete native/enlarged scan;
+2. transcribe only positively visible printed text;
+3. separate printed text from handwriting, donor/library marks and damage;
+4. run the full 13-family historical-glyph check;
+5. use same-edition comparisons where useful;
+6. do not reconstruct physically lost wording;
+7. leave unsupported clusters `needs-review`;
+8. update `indexes/page-map.md` and `HISTORICAL_GLYPH_AUDIT.md` after the batch.
 
-- includes the three already-verified scan-130 fallback turns contained in the closed Tamil scene;
-- excludes scan-130 `கண்டுபிடியுங்கள்`;
-- excludes scan-131 cast/imprint material;
-- preserves the full threat / battlefield declaration / Kaveri death / Kannan lament-and-vow sequence;
-- closes at `(The End)`, representing source `(முற்றும்)`.
+Do not begin scene assembly or English translation during this page-layer phase.
 
-## Phase boundary / next activity
+# CLOSED WORK SAFEGUARDS
 
-There is **no pending Tamil transcription, Tamil verification, scene assembly, English first-pass translation or Tamil→English fidelity-review work for காகிதப்பூ**.
+## காகிதப்பூ
 
-Do not reopen these closed layers merely because a copied prompt records an older checkpoint.
+Fully closed for the current source-first bilingual scope:
 
-A later secondary-English comparison, publication-style edit, literary polish, annotation pass, performance adaptation or edition preparation is a **new phase** and requires explicit user authorization. Such a phase must preserve the closed source-faithful Tamil and English layers rather than overwrite them.
+- Tamil page layer **41/41 PASS**;
+- Tamil source-representation artifacts **23/23 PASS**;
+- English source-representation artifacts **23/23 FINAL PASS**;
+- no Scene 22/23 was invented;
+- secondary-English contamination **0**.
 
-# OTHER CLOSED WORK SAFEGUARDS
+Do not reopen it because of an older checkpoint.
 
-`மணிமகுடம்` remains complete/closed. `கலைஞரின் நான்மணி மாலை` remains closed. Do not reopen any closed work without an explicit source-based reason or user authorization.
+`மணிமகுடம்` remains complete/closed. `கலைஞரின் நான்மணி மாலை` component works remain closed unless explicitly reopened for new source evidence or a separately authorized phase.
