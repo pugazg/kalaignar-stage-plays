@@ -27,9 +27,9 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 | 10 | 102–104 | assembly-reviewed | `scenes/10.md` |
 | 11 | 104–105 | assembly-reviewed | `scenes/11.md` |
 | 12 | 105–107 | assembly-reviewed | `scenes/12.md` |
-| 13 | 107 | next | — |
-| 14 | 107–109 | pending | — |
-| 15 | 109–110 | pending | — |
+| 13 | 107 | assembly-reviewed | `scenes/13.md` |
+| 14 | 107–109 | assembly-reviewed | `scenes/14.md` |
+| 15 | 109–110 | next | — |
 | 16 | 110–114 | pending | — |
 | 17 | 114–115 | pending | — |
 | 18 | 115–116 | pending | — |
@@ -53,7 +53,9 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 - `scenes/10.md` assembles scans 102–104 and closes at the source `(திரை)` immediately before Scene 11.
 - `scenes/11.md` assembles scans 104–105 and retains the repeated `முரு:—` speaker label at the physical 105 continuation rather than silently merging it away.
 - `scenes/12.md` assembles scans 105–107; the physical `ஒப்ப—` / `டைக்கிறதா` split is mechanically joined as `ஒப்படைக்கிறதா` and the scene closes at `(திரை)` before Scene 13.
+- `scenes/13.md` preserves the complete single-scan Scene 13 on scan 107 and closes at `(திரை விழுகிறது)` before `காட்சி: 14`.
+- `scenes/14.md` assembles scans 107–109; the physical `வெற்றிகளக் குவிக்கத்—` / `தான் போகிறார்கள் மக்கள்!...` boundary is mechanically joined as `வெற்றிகளக் குவிக்கத்தான் போகிறார்கள் மக்கள்!...`, and Scene 14 closes at `(திரை)` before Scene 15.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 13** from verified scan **107**, then continue with Scene 14 unless the user specifies a different batch size. Do not begin English translation.
+Assemble and page-record-check **Scene 15** from verified scans **109–110**, then continue with Scene 16 unless the user specifies a different batch size. Do not begin English translation.
