@@ -4,7 +4,7 @@ Archive slug: `thiruvalar-desiyampillai`.
 
 ## Current status
 
-**PAGE LAYER IN PROGRESS — 30 / 49 TRANSCRIBED; 23 / 49 VERIFIED; 7 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 30 / 49.**
+**PAGE LAYER IN PROGRESS — 35 / 49 TRANSCRIBED; 27 / 49 VERIFIED; 8 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 35 / 49.**
 
 Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீயம்பிள்ளை.pdf`.
 
@@ -29,12 +29,12 @@ This description is catalog context, not a substitute for source transcription.
 ## Source-visible structure
 
 - scan 1: colour front cover;
-- scan 2: pasted donor/gift slip, verified as `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின் / அன்பளிப்பு`;
-- scan 3: title page; publisher `K. R. நாராயணன்`, address `131, பிராட்வே சென்னை—1.`;
-- scan 4: `இரண்டாம் பதிப்பு`, `நவம்பர் 1965`, printer/imprint `முத்தமிழ்ச் செல்வி அச்சகம், 1/65, பிராட்வே.`;
-- scans 5–6: publisher note headed `வணக்கம்.`;
-- scan 7: work title / dramatic body begins;
-- scans 8–48: body pages visibly numbered **6–46**;
+- scan 2: pasted donor/gift slip;
+- scan 3: title page;
+- scan 4: edition/imprint page — `இரண்டாம் பதிப்பு`, `நவம்பர் 1965`;
+- scans 5–6: publisher note `வணக்கம்.`;
+- scan 7: dramatic body begins;
+- scans 8–48 visibly carry printed pages **6–46**;
 - scan 49: back-cover advertisement for `அல்லி விழி`.
 
 Physical paper loss, stains, handwriting and later ink remain source-condition evidence and are never silently repaired into literary text.
@@ -47,44 +47,48 @@ Every scan checks:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Same-edition character-identity references now positively established include:
+Current positive same-edition reference families:
 
-- `லை` — `கலைஞர்`, `தலைகள்`, `மாலைதானே`;
-- `ளை` — `பிள்ளை`, `உங்களை`, `விளையும்`;
-- `ணா` — `கருணாநிதி`, `கல்யாண`, `ஆகாஷவாணி`;
-- `ணை` — scan-25 `சொரணை`;
-- `னா` — scans 26–27 `கெட்டிக்காரர்தானா / உடையவர்தானா / மானால்`, with backward confirmation in scan-15 `தானா` and scan-21 `மகனா`;
-- `னை` — `அவனை`, `தண்டனை`;
-- `றா` — `வண்ணமிருக்கிறார்களே`, `பார்க்கிறார்`, scan-20 `நன்றாக`, scan-15 `என்றாரே`.
+`லை / ளை / ணா / ணை / னா / னை / றா`.
 
-These references support glyph comparison only. They do not authorize reconstruction of physically absent wording or modernization of source forms.
+Important authoritative glyph corrections remain:
+
+- scan 15 `என்றுரே / தானு` → **`என்றாரே / தானா`**;
+- scan 20 `நன்றுக` → **`நன்றாக`**;
+- scan 21 `மகனு` → **`மகனா`**;
+- scan 28 `மால்தானே` → **`மாலைதானே`**.
+
+These are source-pixel character-identity corrections, not spelling modernization.
 
 ## Completed page batches
 
-- **Batch 1 — scans 1–5:** scan 2 verified; scans 1, 3, 4, 5 damage-limited.
-- **Batch 2 — scans 6–10:** scans 6 and 10 verified; scans 7, 8, 9 damage-limited.
-- **Batch 3 — scans 11–15:** **all verified**.
-- **Batch 4 — scans 16–20:** **all verified**; scan 20 old-type apparent `நன்றுக` canonically decoded as `நன்றாக` (`றா`).
-- **Batch 5 — scans 21–25:** **all verified**; `ணை` established from `சொரணை`.
-- **Batch 6 — scans 26–30:** **all verified**; `னா` established from scans 26–27; scan-15 `என்றுரே / தானு` superseded by `என்றாரே / தானா`, and scan-21 `மகனு` superseded by `மகனா`; scan 28 apparent `மால்தானே` decoded as `மாலைதானே`.
+- **Batch 1 — scans 1–5:** scan 2 verified; 1, 3, 4, 5 damage-limited.
+- **Batch 2 — scans 6–10:** scans 6 and 10 verified; 7, 8, 9 damage-limited.
+- **Batch 3 — scans 11–15:** all verified.
+- **Batch 4 — scans 16–20:** all verified.
+- **Batch 5 — scans 21–25:** all verified; `ணை` established from `சொரணை`.
+- **Batch 6 — scans 26–30:** all verified; `னா` established and backward glyph rechecks completed.
+- **Batch 7 — scans 31–35:** scans **31–34 verified**; scan **35 needs-review** because one short cluster remains visually unresolved.
 
-### Batch-6 source controls
+### Batch-7 controls
 
-- scan 26 ends physically at `ஆளைப் பார்த்தே`; scan 27 begins `மானால்`; no page-record joining;
-- scan 26 preserves repeated `தானா` historical-`னா` identities;
-- scan 28 retains source physical `என் / னோடு` and does not invent a scene heading;
-- scan 29 preserves physical splits `மந்திரி / கள்`, `படிக்கட்டு / கள்`, `நவரத் / தினங்கள்`;
-- scan 30 preserves physical splits including `கவர்ச்சியு / மான`, `அறி / முகப்படுத்திவைத்தான்`, `வாலிப / னய்யா`, and `கொடுத் / தான்`;
-- no new damage-limited page was introduced in scans 26–30.
+- scan 31 / p.29 — Gandhi's ornate-prison introduction verified; `உடைதானா` reinforces `னா`; `விலைமதிக்க / மாலையை` reinforce `லை`;
+- scan 32 / p.30 — garland-rejection passage verified; repeated `மாலை` and `நன்றாகப்` decoded by established identities;
+- scan 33 / p.31 — priest/party allegory verified; `அரசனா / ஆண்டவனா` reinforce `னா`; final `கட்சித் தலைவர்கள் கடவுளை` stays open to scan 34;
+- scan 34 / p.32 — scan-33 continuation and Gandhi critique verified; source physical `சொல் / வொணா` and `நாதி / யில்லை` retained;
+- scan 35 / p.33 — otherwise fully transcribed and 13-family checked, but the phrase `கொம்பு மாடெனக் … மட்டும்` contains one unresolved cluster; the page stays `needs-review`; final `எங்குவேன்` continues to scan 36.
+
+The apparent reading of the scan-35 unresolved cluster resembles `கொழுப்பேறி`, but it is **not** adopted canonically without stronger same-edition evidence.
 
 ## Work progress
 
 - page placeholders: **49 / 49 created**;
-- canonical transcription processed: **30 / 49**;
-- visually verified: **23 / 49** (`2, 6, 10–30`);
-- `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
-- historical-glyph passes: **30 / 49**;
-- unprocessed: **19 / 49**;
+- canonical transcription processed: **35 / 49**;
+- visually verified: **27 / 49** (`2, 6, 10–34`);
+- `needs-review`: **8 / 49** (`1, 3, 4, 5, 7, 8, 9, 35`);
+- historical-glyph passes: **35 / 49**;
+- unprocessed: **14 / 49**;
+- unresolved source/glyph clusters: **1** (scan 35);
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
@@ -92,4 +96,4 @@ Do not infer scene numbering or other structural divisions from dramatic context
 
 ## Exact next activity
 
-Process **scans 31–35** source-first (printed pages **29–33**). Apply the full historical-glyph pass, preserve source speaker/stage/page structure, and keep physical loss or later markings separate from canonical literary text.
+Process **scans 36–40** source-first (printed pages **34–38**). Apply the full historical-glyph pass, preserve source speaker/stage/page structure, keep physical loss or later markings separate from canonical literary text, and leave scan 35's unresolved cluster open unless later same-edition evidence genuinely resolves it.
