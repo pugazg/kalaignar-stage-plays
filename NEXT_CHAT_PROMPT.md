@@ -43,7 +43,7 @@ Assembly rules:
 - mechanical page/column line breaks may be removed;
 - do not silently normalize lexical wording, punctuation, speaker labels, stage directions or scene numbering;
 - preserve page provenance in scene front matter;
-- do not invent bodies for the source-compressed scenes 2–5;
+- do not invent bodies for source-compressed scenes;
 - preserve scan 124 `காட்சி,` exactly and never invent Scenes 22/23.
 
 Completed / assembly-reviewed:
@@ -65,15 +65,26 @@ Completed / assembly-reviewed:
 - `scenes/18.md` — Scene 18, scans 115–116; verified speaker-label variation preserved;
 - `scenes/19.md` — Scene 19, scan 116;
 - `scenes/20.md` — Scene 20, scans 117–119; scan-118→119 sentence continuation joined mechanically;
-- `scenes/21.md` — Scene 21, scans 119–124; `நலத்—` / `திட்ட` joined as `நலத்திட்ட`, `ஆட்சி—` / `மொழிகளாகட்டும்` joined as `ஆட்சிமொழிகளாகட்டும்`, and the scan-123→124 sentence continuation joined without lexical normalization. Unusual verified wording remains unchanged;
-- `scenes/unnumbered-between-21-and-24.md` — unnumbered source `காட்சி,`, scans 124–125; the heading is preserved exactly and no Scene 22/23 number is assigned or implied;
-- `scenes/24.md` — Scene 24, scans 125–129; `முடி` / `யாம` is mechanically joined as `முடியாம`, `கொள்` / `ளுங்கள்` as `கொள்ளுங்கள்`; repeated `திர:—` at scan 127 and unusual verified wording remain unchanged.
+- `scenes/21.md` — Scene 21, scans 119–124; `நலத்—` / `திட்ட` joined as `நலத்திட்ட`, `ஆட்சி—` / `மொழிகளாகட்டும்` joined as `ஆட்சிமொழிகளாகட்டும்`, and the scan-123→124 continuation joined without lexical normalization;
+- `scenes/unnumbered-between-21-and-24.md` — scans 124–125; source heading remains exactly `காட்சி,`, with no Scene 22/23 assignment;
+- `scenes/24.md` — Scene 24, scans 125–129; `முடி` / `யாம` joined as `முடியாம`, `கொள்` / `ளுங்கள்` joined as `கொள்ளுங்கள்`, source continuation label retained;
+- `scenes/25.md` — Scene 25, scan 129; source-compressed bracketed campaign action only, no invented body;
+- `scenes/26.md` — Scene 26, scans 129–130; no lexical boundary join required, unusual verified speaker-label sequence retained exactly.
 
 Tracking file: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 25** from verified scan **129**, then continue with **Scene 26** from verified scans **129–130** unless the user requests a different batch size. Commit scene file(s), then synchronize `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt.
+Assemble and page-record-check **Scene 27** from verified scans **130–131**.
+
+Requirements:
+
+- preserve the already verified three direct-PDF fallback turns on scan 130;
+- keep the scan-130 boxed `கண்டுபிடியுங்கள்` feature separate from dramatic reading order;
+- preserve all verified speaker labels, punctuation and stage directions exactly;
+- close the dramatic scene with source `(முற்றும்)` on scan 131;
+- keep the following `நாடகத்தில்—பங்கேற்பவர்கள்!` cast block separate from the dramatic scene file;
+- after Scene 27, perform the final scene-assembly consistency/closure review and synchronize `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt.
 
 English translation remains **not started / not authorized**.
 
