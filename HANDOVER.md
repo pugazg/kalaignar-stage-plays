@@ -16,12 +16,11 @@ Read before any further work:
 2. this `HANDOVER.md`;
 3. `NEXT_CHAT_PROMPT.md`;
 4. `works/kagithapoo/README.md`;
-5. `works/kagithapoo/LEXICAL_GAP_ADJUDICATION.md`;
-6. `works/kagithapoo/PAGE_LAYER_CONSISTENCY_AUDIT.md`;
-7. `works/kagithapoo/MD_LEXICAL_RECONCILIATION_0091_0101.md`;
-8. `works/kagithapoo/SOURCE_INTAKE.md`;
-9. `works/kagithapoo/metadata/source.md`;
-10. `works/kagithapoo/indexes/page-map.md` and page records as needed.
+5. `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`;
+6. `works/kagithapoo/LEXICAL_GAP_ADJUDICATION.md`;
+7. `works/kagithapoo/PAGE_LAYER_CONSISTENCY_AUDIT.md`;
+8. `works/kagithapoo/MD_LEXICAL_RECONCILIATION_0091_0101.md`;
+9. `works/kagithapoo/indexes/page-map.md` and relevant verified page records.
 
 ## Source identity
 
@@ -34,13 +33,13 @@ Controlling PDF: `TVA_PRL_0001638_முரசொலி_ பொங்க�
 
 Primary lexical witness: `kaagidha_poo.md`.
 
-## Witness policy at closure
+## Witness / assembly policy
 
 - MD is the primary lexical witness.
 - PDF controls boundaries, reading order, scene/speaker/paragraph structure, punctuation, brackets, headings/numbers, photographs, captions, boxed features and physical evidence.
-- MD wording may be repositioned/respaced only where PDF structure proves placement.
-- The user explicitly authorized direct PDF lexical fallback for the five genuine MD omissions on scans **93, 95, 97, 98 and 130** after those omissions were adjudicated against the full MD.
-- That fallback does not authorize broader silent PDF substitution or normalization.
+- The user explicitly authorized direct PDF lexical fallback only for the five genuine MD omissions on scans **93, 95, 97, 98 and 130**; those gaps are closed in the verified page layer.
+- Scene assembly uses only verified page records. Mechanical page/column line breaks may be removed for readability, but wording, punctuation, speaker labels, stage directions and source scene numbering must not be editorially normalized.
+- The source-compressed `காட்சிகள்: 2, 3, 4, 5.` block must not be expanded into invented dialogue.
 
 ## Durable page-layer state
 
@@ -49,18 +48,21 @@ Primary lexical witness: `kaagidha_poo.md`.
 - processed: **41 / 41**;
 - verified: **41 / 41**;
 - `needs-review`: **0**;
-- unprocessed: **0**;
-- final consistency audit: **PASS**;
-- scene assembly: **not started / not authorized**;
-- English translation: **not started / not authorized**.
+- final consistency audit: **PASS**.
 
-## Resolved former gaps
+## Durable scene-assembly state
 
-- **93** — `அவள் தோழி` restored in the Scene-6 stage direction from the PDF.
-- **95** — missing complete காவேரி paragraph and opening of the following மரகதம் paragraph restored from the PDF.
-- **97** — `(படத்திடம் போய்)` restored from the PDF.
-- **98** — photograph caption `ஓ. எம். சுப்பிரமணியன்,` restored separately from dramatic reading order.
-- **130** — `குரல்:— அப்படியா?...ஹ ஹ ஹ...!`, `குரல்:— ஹ ஹ ஹ!...`, and the separate pre-gunshot `கண்:— அம்மா!...` restored from the PDF.
+**SCENE ASSEMBLY AUTHORIZED / IN PROGRESS.**
+
+Committed assembly-reviewed files:
+
+- `works/kagithapoo/scenes/01.md` — Scene 1, scans 92–93;
+- `works/kagithapoo/scenes/02-05.md` — source-compressed representation of `காட்சிகள்: 2, 3, 4, 5.` on scan 93; no unprinted dialogue invented;
+- `works/kagithapoo/scenes/06.md` — Scene 6, scans 93–94.
+
+Tracking: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
+
+English translation: **not started / not authorized**.
 
 ## Structural safeguards
 
@@ -72,9 +74,9 @@ Primary lexical witness: `kaagidha_poo.md`.
 
 ## Exact next activity
 
-There is no remaining page-level transcription or verification activity.
+Assemble and page-record-check **Scene 7** from verified scans **94–98**. Preserve the already verified PDF-fallback wording on scans 95, 97 and 98 exactly as it exists in the page records. Then update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT.
 
-**Do not begin scene assembly or English translation unless the user separately authorizes it.**
+Do not begin English translation without separate authorization.
 
 # CLOSED WORK SAFEGUARDS
 
