@@ -18,10 +18,13 @@ Read before any further work:
 4. `works/kagithapoo/README.md`;
 5. `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`;
 6. `works/kagithapoo/SCENE_ASSEMBLY_FINAL_REVIEW.md`;
-7. `works/kagithapoo/LEXICAL_GAP_ADJUDICATION.md`;
-8. `works/kagithapoo/PAGE_LAYER_CONSISTENCY_AUDIT.md`;
-9. `works/kagithapoo/MD_LEXICAL_RECONCILIATION_0091_0101.md`;
-10. `works/kagithapoo/indexes/page-map.md` and relevant verified page records when source-level questions arise.
+7. `works/kagithapoo/TRANSLATION_PLAN.md`;
+8. `works/kagithapoo/translations/en/README.md`;
+9. `works/kagithapoo/LEXICAL_GAP_ADJUDICATION.md`;
+10. `works/kagithapoo/PAGE_LAYER_CONSISTENCY_AUDIT.md`;
+11. `works/kagithapoo/MD_LEXICAL_RECONCILIATION_0091_0101.md`;
+12. relevant closed Tamil `works/kagithapoo/scenes/*.md` artifacts for the current English batch;
+13. `works/kagithapoo/indexes/page-map.md` and relevant verified page records only if a source-level question arises.
 
 ## Source identity
 
@@ -32,11 +35,11 @@ Controlling PDF: `TVA_PRL_0001638_முரசொலி_ பொங்க�
 - full PDF: **131 scans**;
 - selected work range: **91–131 = 41 scans**.
 
-Primary lexical witness: `kaagidha_poo.md`.
+Primary lexical witness for the closed Tamil archival layer: `kaagidha_poo.md`.
 
 ## Witness / assembly policy
 
-- MD is the primary lexical witness.
+- MD is the primary lexical witness for the closed Tamil layer.
 - PDF controls boundaries, reading order, scene/speaker/paragraph structure, punctuation, brackets, headings/numbers, photographs, captions, boxed features and physical evidence.
 - The user explicitly authorized direct PDF lexical fallback only for the five genuine MD omissions on scans **93, 95, 97, 98 and 130**; those gaps are closed in the verified page layer.
 - Scene assembly uses only verified page records. Mechanical page/column line breaks may be removed for readability, but wording, punctuation, speaker labels, stage directions and source scene numbering must not be editorially normalized.
@@ -104,7 +107,34 @@ Scene assembly:
 - Scene 27 retains the three already verified direct-PDF fallback turns from scan 130, keeps the boxed `கண்டுபிடியுங்கள்` outside dramatic reading order, excludes the scan-131 cast/imprint block, and closes at `(முற்றும்)`;
 - no scene body has been reconstructed from material absent from the verified page layer.
 
-English translation: **not started / not authorized**.
+## English translation phase
+
+**AUTHORIZED / PLAN ESTABLISHED — DRAFTING NOT YET STARTED.**
+
+The user's instruction to proceed after Tamil closure authorizes the separate English-translation phase.
+
+Permanent translation controls:
+
+- immediate drafting authority is the closed verified Tamil scene layer under `works/kagithapoo/scenes/`;
+- do not draft from OCR, `kaagidha_poo.md`, the PDF, a modern edition, web text, outside summaries or a secondary English witness;
+- source-level questions may consult verified page records / controlling PDF only as adjudication support, without silently reopening the Tamil layer;
+- English translation must preserve dramatic structure, speaker identity, stage directions, repetitions, political rhetoric, satire, jokes, slogans, colloquial register, wordplay and supported ambiguity;
+- translation choices must never be back-propagated into the locked Tamil archival text;
+- no secondary English witness is authorized for drafting or silent correction.
+
+Durable translation records:
+
+- `works/kagithapoo/TRANSLATION_PLAN.md` — artifact mapping, controls, batch plan and review gate;
+- `works/kagithapoo/translations/en/README.md` — phase tracker.
+
+Expected English artifact set: **23**, mirroring the Tamil source representation exactly. No `22.md` or `23.md` is permitted. `02-05.md`, the unnumbered block between 21 and 24, and source-compressed Scene 25 remain structurally compressed/unumbered as applicable.
+
+Current English status:
+
+- expected artifacts: **23**;
+- present: **0 / 23**;
+- reviewed: **0 / 23**;
+- secondary-English contamination: **0**.
 
 ## Structural safeguards
 
@@ -114,11 +144,17 @@ English translation: **not started / not authorized**.
 - scan 130 boxed `கண்டுபிடியுங்கள்` remains separate from dramatic reading order;
 - scan 131 dramatic text closes with `(முற்றும்)`, followed by separate `நாடகத்தில்—பங்கேற்பவர்கள்!` cast/imprint material.
 
-## Next phase
+## Exact next activity
 
-There is **no pending Tamil page-level or scene-assembly work** for `காகிதப்பூ`.
+Translate and Tamil→English review **Batch 1** from the closed Tamil scene layer only:
 
-Do not begin English translation without separate user authorization. If translation is later authorized, first define/update the translation plan from the closed Tamil scene layer rather than OCR, MD first-pass or a modern edition.
+1. `scenes/01.md` → `translations/en/01.md`;
+2. `scenes/02-05.md` → `translations/en/02-05.md`;
+3. `scenes/06.md` → `translations/en/06.md`;
+4. `scenes/07.md` → `translations/en/07.md`;
+5. `scenes/08.md` → `translations/en/08.md`.
+
+Update `translations/en/README.md`, work README, HANDOVER and NEXT_CHAT_PROMPT after the batch. Do not use OCR, the MD first-pass, PDF, modern edition or secondary English text as drafting authority.
 
 # CLOSED WORK SAFEGUARDS
 
