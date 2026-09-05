@@ -1,6 +1,6 @@
 # காகிதப்பூ — English translation
 
-Status: **AUTHORIZED / BATCHES 1–2 COMPLETE — PASS / LOCKED**
+Status: **AUTHORIZED / BATCHES 1–3 COMPLETE — PASS / LOCKED**
 
 This directory is the independent English-translation layer for the closed verified Tamil scene assemblies of **`காகிதப்பூ`**.
 
@@ -36,80 +36,65 @@ No `22.md` or `23.md` is permitted. The source-visible unnumbered block must rem
 - Tamil page archive: **41 / 41 COMPLETE / CLOSED**;
 - Tamil scene assembly: **23 / 23 expected artifacts COMPLETE / CLOSED / PASS**;
 - English translation: **IN PROGRESS**;
-- translation plan: **ESTABLISHED**;
-- English scene artifacts present: **10 / 23**;
-- English scene artifacts reviewed: **10 / 23**;
-- completed batches: **Batch 1 and Batch 2 — PASS / LOCKED**;
+- English scene artifacts present: **15 / 23**;
+- English scene artifacts reviewed: **15 / 23**;
+- completed batches: **Batches 1–3 — PASS / LOCKED**;
 - unresolved blocking translation issues: **0**;
 - secondary English witness used: **no**.
 
 ## Completed English artifacts
 
-- `01.md` — Scene 1 — **translation-reviewed / PASS**;
-- `02-05.md` — source-compressed Scenes 2–5 — **translation-reviewed / PASS**;
-- `06.md` — Scene 6 — **translation-reviewed / PASS**;
-- `07.md` — Scene 7 — **translation-reviewed / PASS**;
-- `08.md` — Scene 8 — **translation-reviewed / PASS**;
-- `09.md` — Scene 9 — **translation-reviewed / PASS**;
-- `10.md` — Scene 10 — **translation-reviewed / PASS**;
-- `11.md` — Scene 11 — **translation-reviewed / PASS**;
-- `12.md` — Scene 12 — **translation-reviewed / PASS**;
-- `13.md` — Scene 13 — **translation-reviewed / PASS**.
+- `01.md`, `02-05.md`, `06.md`–`18.md` — **translation-reviewed / PASS**.
 
 Batch reviews:
 
 - `BATCH_01_REVIEW.md` — **PASS / LOCKED**;
-- `BATCH_02_REVIEW.md` — **PASS / LOCKED**.
+- `BATCH_02_REVIEW.md` — **PASS / LOCKED**;
+- `BATCH_03_REVIEW.md` — **PASS / LOCKED**.
 
-## Translation controls
-
-The English preserves dramatic structure, speaker identity, stage directions, repetition, colloquial register, political rhetoric, satire, jokes, slogans, wordplay and source-specific ambiguity.
-
-Translation choices must never silently alter the Tamil archival layer. Where the closed Tamil wording is semantically insecure, retain the best supported source-sensitive rendering and document it rather than silently repairing it.
-
-## Stable terminology established through Batch 2
+## Stable terminology / controls through Batch 3
 
 - `திராவிட முன்னேற்றக் கழகம்` → `Dravida Munnetra Kazhagam`;
-- `தி.மு.க.` → `DMK` where the source uses the abbreviation;
+- `தி.மு.க.` → `DMK` in matching abbreviated contexts;
 - `காங்கிரஸ்` → `Congress`;
 - `இந்தி` → `Hindi`;
-- `தமிழ்த் தியாகிகள் தினம்` → `Tamil Martyrs' Day`;
 - `புறநானூறு` → *Purananuru*;
 - `தாலி` → *tali* / *thaali* in source-sensitive marital imagery;
 - `கதர்` → `khadi`;
 - `போஷகர்` → `patron`;
 - `உத்தமர் காந்தி உண்மை ஊழியர் சங்கம்` → `Noble Gandhi True Workers' Association`;
-- `அமிர்த யோகம்` → `Amirtha Yogam` where retained as a culturally specific auspicious expression.
+- `அமிர்த யோகம்` → `Amirtha Yogam` where the source uses the auspicious expression;
+- `உல்லாச மண்டபம்` → `Pleasure Pavilion` in the Yamaloka sequence;
+- `ஹரிஜன நலம்` → `Harijan Welfare`, preserving the historical source terminology.
 
-These choices are durable for matching contexts but must not override a later scene where the source clearly uses a different sense.
+Translation choices must never silently alter the Tamil archival layer. Where the closed Tamil wording is semantically insecure, retain the best supported source-sensitive rendering and document it rather than silently repairing it.
 
-## Source-sensitive controls through Batch 2
+Important documented carryovers now include:
 
-- Scene 1 preserves martial-poetic cadence and retains `parani` / `Maanava Mani` where flattening them would import unsupported interpretation.
-- `02-05.md` remains strictly source-compressed; no missing dialogue or synopsis was invented.
-- Scene 6 retains *Ansu* / *sombu veeramatham* for the verified but semantically insecure `அந்சு ... சொம்பு வீரமாதம்` phrase.
-- Scene 7 preserves the widowhood imagery, the unusual `mullai buds` image and the Ayarpadi-Kannan comparison without outside explanation in the dramatic body.
-- Scene 8 preserves the Dasavatharam/avatars joke, `காலணிகள்` / `காலனி` misunderstanding, `காக்கை வலிப்பு` wordplay, “Late Dasavatharam” joke and the closing political satire.
-- Scene 9 keeps `அவள் வீட்டிலே` as `at her house` without importing an identity not supplied by the scene.
-- Scene 10 carries locked `பூச்ண` as *poosna* and preserves the compressed prison/Kailasam rhyme instead of silently repairing either.
-- Scene 11 preserves the `கதர்` / `கதறிக்கிட்டு` sound-play through a brief *khadi* / *kathar* carryover.
-- Scene 12 retains source-sensitive *angavanum—pavanum* and *pulla-kutti*; the anomalous `விந்து` repetition is documented rather than treated as a Tamil-layer correction.
-- Scene 13 preserves the festival-to-grief `பொங்கல்` image and the bitter `Vande Mataram / Jai Hind` placement inside Murugan's breakdown.
+- Scene 6: `அந்சு ... சொம்பு வீரமாதம்` → *Ansu / sombu veeramatham*;
+- Scene 10: `பூச்ண` → *poosna*;
+- Scene 12: `அங்கவனும்—பவனும்` / `புள்ள குட்டி`, plus anomalous `விந்து` repetition;
+- Scene 14: irregular locked office-title forms are translated only at their transparent semantic level and documented;
+- Scene 16: `)4( الم الم اهم`, `U! U! U!`, `اهم اهم اهم`, `தேசீயம்பிள்ளை`, `ஐந்து / ஐந்துகள்`, `உயர்திணை / அக்றிணை`, `பஞ்ச வர்ணம் / பஞ்சம்`, anomalous `தே:` and `தேவாங்கு` are preserved/documented rather than normalized;
+- Scene 17: `நவகாளி` remains `Navakali`; insecure animal-metaphor forms remain transliterated;
+- Scene 18: `பாயிகையோட` remains *paayigaiyoda* and `பூரண கும்பம்` remains *poorna kumbam*.
 
 ## Batch plan
 
 - Batch 1: `01.md`, `02-05.md`, `06.md`, `07.md`, `08.md` — **PASS / LOCKED**.
 - Batch 2: `09.md`–`13.md` — **PASS / LOCKED**.
-- Batch 3: `14.md`–`18.md` — **NEXT**.
-- Batch 4: `19.md`, `20.md`, `21.md`, `unnumbered-between-21-and-24.md`, `24.md`.
+- Batch 3: `14.md`–`18.md` — **PASS / LOCKED**.
+- Batch 4: `19.md`, `20.md`, `21.md`, `unnumbered-between-21-and-24.md`, `24.md` — **NEXT**.
 - Batch 5: `25.md`, `26.md`, `27.md`.
 
-After each batch, perform a Tamil→English coverage/fidelity review before marking the English files `translation-reviewed` / `passed`.
+After each batch, perform a Tamil→English coverage/fidelity review before marking files `translation-reviewed` / `passed`.
 
 A final `TRANSLATION_REVIEW.md` will be created after all 23 artifacts are complete.
 
 ## Exact next activity
 
-Translate and review **Batch 3** from the closed Tamil scene layer only:
+Translate and review **Batch 4** from the closed Tamil scene layer only:
 
-`14.md`, `15.md`, `16.md`, `17.md`, `18.md`.
+`19.md`, `20.md`, `21.md`, `unnumbered-between-21-and-24.md`, `24.md`.
+
+Scene 21 is comparatively large and may be split operationally if necessary, but artifact order and review controls must remain unchanged.
