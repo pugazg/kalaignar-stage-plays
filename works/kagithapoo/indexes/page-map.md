@@ -44,24 +44,24 @@ Under the current dual-witness rule, `verified` means the page has MD-controlled
 | 122 | — | காட்சி 21 | dramatic text | verified | Embedded passage returns to dialogue; language debate continues; page boundary preserved. |
 | 123 | — | காட்சி 21 | dramatic text + graphic/photo | verified | Language debate and Kannan's political change reconciled; statement continues into 124. |
 | 124 | — | காட்சி 21 / unnumbered `காட்சி,` | dramatic text | verified | Scene 21 closes; next heading is preserved exactly as source-visible `காட்சி,` with no numeral; road scene begins. |
-| 125 | — | unnumbered `காட்சி,` / காட்சி 24 | dramatic text | not-started | Unnumbered scene closes; source-visible `காட்சி 24.` begins. |
-| 126 | — | காட்சி 24 | dramatic text + decorative border | not-started | Continuation. |
-| 127 | — | காட்சி 24 | dramatic text + decorative border | not-started | Continuation; small edge damage visible. |
-| 128 | — | காட்சி 24 | dramatic text + decorative border | not-started | Continuation. |
-| 129 | — | காட்சி 24 / காட்சி 25 / காட்சி 26 | dramatic text | not-started | Scene 24 closes; Scenes 25 and 26 appear on same scan. |
-| 130 | — | காட்சி 26 / காட்சி 27 | dramatic text | not-started | Scene 27 begins on this scan. |
-| 131 | — | காட்சி 27 / closure | dramatic text + cast box | not-started | Scene 27 closes with `(முற்றும்)`; boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` block follows. |
+| 125 | — | unnumbered `காட்சி,` / காட்சி 24 | dramatic text | verified | Unnumbered road scene closes; source-visible `காட்சி 24.` and its opening stage direction begin on the same scan. |
+| 126 | — | காட்சி 24 | dramatic text + decorative border | verified | Scene-24 opening speeches reconciled; final Tiraviyam paragraph continues into scan 127. |
+| 127 | — | காட்சி 24 | dramatic text + decorative border | verified | Continuation reconciled; small edge damage distinguished from text; `முடியாம` splits across 127→128. |
+| 128 | — | காட்சி 24 | dramatic text + decorative border | verified | Flower entrance and Kannan's `பாரிஜாதப்பூ` speech reconciled; `கொள்ளுங்கள்` splits across 128→129. |
+| 129 | — | காட்சி 24 / காட்சி 25 / காட்சி 26 | dramatic text | verified | Scene 24 closes; Scene 25 interlude complete; Scene 26 begins and continues into scan 130. |
+| 130 | — | காட்சி 26 / காட்சி 27 | dramatic text + boxed feature | needs-review | Scene 26 closes and Scene 27 begins; MD lacks two source-structured `குரல்:` turns plus one additional `கண்:` turn; boxed `கண்டுபிடியுங்கள்` feature is represented separately. |
+| 131 | — | காட்சி 27 / closure | dramatic text + cast box | verified | Scene 27 closes with `(முற்றும்)`; boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` block and supplied imprint words are reconciled. |
 
 ## Current checkpoint
 
 - selected source pages represented: **41 / 41**;
-- MD lexical reconciliation of scans **91–101: COMPLETE**;
-- dual-witness fully verified pages: **30 / 41** — scans **91, 92, 94, 96, 99–124**;
-- needs-review because MD lexical witness is incomplete: **4 pages** — scans **93, 95, 97, 98**;
-- forward page processing completed through scan **124**;
-- unresolved lexical-witness gaps remain on **93, 95, 97, 98** and were not backfilled from the PDF;
-- next and final page-level batch: **125–131**;
+- page-level dual-witness processing: **41 / 41 COMPLETE**;
+- fully verified dual-witness pages: **36 / 41** — scans **91, 92, 94, 96, 99–129, 131**;
+- `needs-review` because the MD lexical witness is incomplete: **5 pages** — scans **93, 95, 97, 98, 130**;
+- no unprocessed page placeholders remain;
+- unresolved lexical-witness gaps were not backfilled from the PDF;
+- source-visible scene-numbering anomaly remains preserved: scan 124 `காட்சி,` → scan 125 `காட்சி 24.`;
 - scene assembly: **not started / not authorized**;
 - translation: **not started / not authorized**.
 
-The detailed reconciliation record for scans 91–101 is `MD_LEXICAL_RECONCILIATION_0091_0101.md`. Source-visible scene-numbering anomalies remain exposed.
+The detailed reconciliation record for scans 91–101 is `MD_LEXICAL_RECONCILIATION_0091_0101.md`. The next archival activity is lexical-gap resolution / adjudication for scans **93, 95, 97, 98 and 130**, followed by a final page-layer consistency audit. Do not begin scene assembly without authorization.
