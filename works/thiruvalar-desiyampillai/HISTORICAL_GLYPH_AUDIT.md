@@ -73,15 +73,6 @@ Final-source enlarged rechecks also preserve exact source forms on scans 46–48
 - **Batch 9 — scans 41–45:** all verified; `பொறாமை` and `ஆலை முதலாளி` explicitly adjudicated.
 - **Batch 10 — scans 46–49:** **all four verified**; final body and back-cover source pass complete.
 
-## Batch 10 — scans 46–49
-
-| Scan | Representative evidence | Result |
-|---:|---|---|
-| 46 | `நம்ப`, `பிள்ளையாண்டான்`, `‘உதயசூரியனு’க் / குத்தானே`, `கலைத் / திருப்பார்களே`, `தேசீயம் பிள்ளை` | **verified** — enlarged recheck preserves source colloquial/name forms and established `லை / ளை / னை` identities |
-| 47 | `மாலைப்`, `தேசீயம்பிள்ளை`, `தேசீயம் பிள்ளையின்`, `போட்டகோலம்`, centered `உதயசூரியன் கோலம்` | **verified** — source wording/spacing and historical families checked without normalization |
-| 48 | `மலை / யேறும்`, `தேசீயம் பிள்ளையின்`, `மனைவி` | **verified** — final dramatic-body text; historical `லை` identity confirmed; no source-visible `முற்றும்` marker |
-| 49 | `க. முத்துக்கண்ணன்`, `“அல்லி விழி”`, `(கவிதை)`, `1-50`, `K. R. நாராயணன்` | **verified** — back-cover advertisement fully readable despite extensive cover wear; full 13-family pass complete |
-
 ## Remaining review holds
 
 The full 49-scan glyph pass does **not** convert unsupported source areas into verified text.
@@ -104,8 +95,17 @@ Later scans 37–49 do not provide genuine same-edition evidence strong enough t
 - unresolved visual/source clusters: **3**;
 - unprocessed scans: **0 / 49**.
 
-The source/glyph pass is therefore **complete**, while full-page verification remains transparently limited by source condition. See `PAGE_LAYER_COMPLETION_AUDIT.md` for the completion verdict and scene-assembly gate.
+The source/glyph pass is **complete**, while full-page verification remains transparently limited by source condition. See `PAGE_LAYER_COMPLETION_AUDIT.md` for the completion verdict and `STRUCTURAL_SCENE_INVENTORY.md` for the reviewed seven-unit assembly map.
+
+## Post-glyph structural checkpoint
+
+`STRUCTURAL_SCENE_INVENTORY.md` is now **PASS / REVIEWED**:
+
+- source-visible numbered scenes/acts: **0**;
+- editorial SRUs: **7**;
+- body review holds `7, 8, 9, 35, 36` are explicitly propagated;
+- scan-47 `உதயசூரியன் கோலம்` is an internal descriptive/intertitle, not a source scene title.
 
 ## Exact next activity
 
-Perform the **source-visible structural / scene inventory across scans 7–48**. Use page records and source-visible headings only; do not invent scene numbering or repair the five body review holds (`7, 8, 9, 35, 36`).
+Proceed to Tamil source-representation assembly of the seven SRUs defined in `STRUCTURAL_SCENE_INVENTORY.md`. Preserve every loss/unresolved marker, do not invent source scene numbers, and complete a full assembly review before any English translation.
