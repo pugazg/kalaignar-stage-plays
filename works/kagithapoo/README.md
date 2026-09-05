@@ -4,7 +4,7 @@ Archive slug: `kagithapoo`.
 
 ## Current status
 
-**TAMIL ARCHIVAL LAYER COMPLETE / CLOSED. PAGE LAYER 41 / 41 VERIFIED. SCENE ASSEMBLY COMPLETE / CLOSED — FINAL REVIEW PASS. ENGLISH TRANSLATION IN PROGRESS — BATCHES 1–3 PASS / LOCKED.**
+**TAMIL ARCHIVAL LAYER COMPLETE / CLOSED. PAGE LAYER 41 / 41 VERIFIED. SCENE ASSEMBLY COMPLETE / CLOSED — FINAL REVIEW PASS. ENGLISH TRANSLATION IN PROGRESS — BATCHES 1–4 PASS / LOCKED.**
 
 Controlling PDF: `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`
 
@@ -16,8 +16,8 @@ Primary lexical witness for the closed Tamil layer: `kaagidha_poo.md`.
 - `needs-review`: **0**;
 - scene assembly artifacts: **23 / 23 expected source-representation artifacts present**;
 - final scene-assembly consistency review: **PASS**;
-- English translation artifacts present / reviewed: **15 / 23**;
-- English Batches 1–3: **PASS / LOCKED**;
+- English translation artifacts present / reviewed: **20 / 23**;
+- English Batches 1–4: **PASS / LOCKED**;
 - unresolved blocking English translation issues: **0**;
 - secondary-English contamination: **0**.
 
@@ -33,6 +33,7 @@ Primary lexical witness for the closed Tamil layer: `kaagidha_poo.md`.
 - `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**
 - `translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED**
 - `translations/en/BATCH_03_REVIEW.md` — **PASS / LOCKED**
+- `translations/en/BATCH_04_REVIEW.md` — **PASS / LOCKED**
 
 ## Closed Tamil safeguards
 
@@ -63,17 +64,26 @@ Completed and Tamil→English reviewed:
 
 - `translations/en/01.md`;
 - `translations/en/02-05.md`;
-- `translations/en/06.md` through `translations/en/18.md`.
+- `translations/en/06.md` through `translations/en/21.md`;
+- `translations/en/unnumbered-between-21-and-24.md`;
+- `translations/en/24.md`.
 
-Batch 3 specifically completed and locked:
+### Batch 4 — PASS / LOCKED
 
-- `translations/en/14.md` — Kali/election dream setup;
-- `translations/en/15.md` — Yama-durbar tax satire;
-- `translations/en/16.md` — Pleasure Pavilion / tax / Five-Year Plan satire;
-- `translations/en/17.md` — Gandhi confrontation;
-- `translations/en/18.md` — nightmare awakening / praise-lullaby close.
+- `19.md` — Yama/voter electoral inversion;
+- `20.md` — Kaveri/Kannan Congress-Hindi argument;
+- `21.md` — book-reading, Congress critique, language-policy debate and Kannan's political turn;
+- `unnumbered-between-21-and-24.md` — source heading preserved without numeral; no Scene 22/23 invented;
+- `24.md` — Congress Democratic Socialist Conference, Parijatha/paper-flower reversal and final slogan.
 
-Source-sensitive Batch-3 controls are documented in `translations/en/BATCH_03_REVIEW.md`, including the Scene-16 anomalous tokens and speaker label, Scene-17 `Navakali` and insecure animal-metaphor forms, and Scene-18 *paayigaiyoda* / *poorna kumbam*.
+Source-sensitive Batch-4 controls are documented in `translations/en/BATCH_04_REVIEW.md`. Important preserved items include Scene-21 `மரககம்`, the source's 14/16 language-count inconsistency and `இந்தி / மந்தி` wordplay; the unnumbered scene's `அமுல் / Amul` wordplay; and Scene-24 `சாதனுடைய`, `வாய்க்கரிசி`, `பாராரூமன் றத்தில்`, `வெள்ளரட்டை`, the wealthy-name sequence and the syntactically insecure Marx/S. K. Patil line.
+
+English totals:
+
+- expected artifacts: **23**;
+- present / reviewed: **20 / 23**;
+- completed batches: **4 / 5**;
+- unresolved blocking issues: **0**.
 
 ## User-supplied catalog metadata
 
@@ -84,12 +94,10 @@ Source-sensitive Batch-3 controls are documented in `translations/en/BATCH_03_RE
 
 ## Exact next activity
 
-Translate and Tamil→English review **Batch 4** from the closed Tamil scene layer only:
+Translate and Tamil→English review **Batch 5** from the closed Tamil scene layer only:
 
-- `scenes/19.md` → `translations/en/19.md`;
-- `scenes/20.md` → `translations/en/20.md`;
-- `scenes/21.md` → `translations/en/21.md`;
-- `scenes/unnumbered-between-21-and-24.md` → `translations/en/unnumbered-between-21-and-24.md`;
-- `scenes/24.md` → `translations/en/24.md`.
+- `scenes/25.md` → `translations/en/25.md`;
+- `scenes/26.md` → `translations/en/26.md`;
+- `scenes/27.md` → `translations/en/27.md`.
 
-Scene 21 is comparatively large; it may be split operationally if necessary, but the five-artifact Batch-4 review gate remains unchanged.
+After Batch 5 passes, create and complete `translations/en/TRANSLATION_REVIEW.md` across all **23 / 23** English artifacts. Do not declare the English layer complete/closed before that final review passes.
