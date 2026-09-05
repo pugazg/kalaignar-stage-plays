@@ -57,11 +57,20 @@ Primary lexical witness: `kaagidha_poo.md`.
 Committed assembly-reviewed files:
 
 - `works/kagithapoo/scenes/01.md` — Scene 1, scans 92–93;
-- `works/kagithapoo/scenes/02-05.md` — source-compressed representation of `காட்சிகள்: 2, 3, 4, 5.` on scan 93; no unprinted dialogue invented;
+- `works/kagithapoo/scenes/02-05.md` — source-compressed representation of `காட்சிகள்: 2, 3, 4, 5.` on scan 93;
 - `works/kagithapoo/scenes/06.md` — Scene 6, scans 93–94;
-- `works/kagithapoo/scenes/07.md` — Scene 7, scans 94–98; verified 96→97 and 97→98 continuations joined mechanically; verified PDF-fallback wording from scans 95 and 97 retained.
+- `works/kagithapoo/scenes/07.md` — Scene 7, scans 94–98;
+- `works/kagithapoo/scenes/08.md` — Scene 8, scans 98–102;
+- `works/kagithapoo/scenes/09.md` — Scene 9, scan 102;
+- `works/kagithapoo/scenes/10.md` — Scene 10, scans 102–104;
+- `works/kagithapoo/scenes/11.md` — Scene 11, scans 104–105;
+- `works/kagithapoo/scenes/12.md` — Scene 12, scans 105–107.
 
-The scan-98 printed photograph caption `ஓ. எம். சுப்பிரமணியன்,` belongs after the `காட்சி 8.` boundary and is therefore not included in Scene 7.
+Assembly notes:
+
+- the scan-98 printed caption `ஓ. எம். சுப்பிரமணியன்,` remains preserved as a separate non-dramatic page element and is not inserted into Scene 8 dialogue;
+- Scene 12 mechanically joins the source split `ஒப்ப—` / `டைக்கிறதா` as `ஒப்படைக்கிறதா`;
+- no scene body has been reconstructed from material absent from the verified page layer.
 
 Tracking: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
 
@@ -77,7 +86,7 @@ English translation: **not started / not authorized**.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 8** from verified scans **98–102**. Preserve the scan-98 photograph caption as a separate non-dialogue source element and join only mechanical physical-page breaks. Then update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT.
+Assemble and page-record-check **Scene 13** from verified scan **107**. Continue with Scene 14 after that unless the user specifies a different batch size. Update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT at the next substantial checkpoint.
 
 Do not begin English translation without separate authorization.
 
