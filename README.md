@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil 10/49 processed; 3 verified; 7 needs-review; historical-glyph pass 10/49** |
+| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil 15/49 processed; 8 verified; 7 needs-review; historical-glyph pass 15/49** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archive/assembly PASS; independent English PASS; 2009 One Act Plays witness N/A** |
@@ -31,18 +31,20 @@ Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீய
 - scans 8–48 visibly carry printed pages **6–46**;
 - scan 49: back-cover advertisement;
 - page placeholders: **49 / 49**;
-- Tamil page records processed: **10 / 49**;
-- visually verified: **3 / 49**;
+- Tamil page records processed: **15 / 49**;
+- visually verified: **8 / 49**;
 - `needs-review`: **7 / 49**;
-- historical-glyph passes: **10 / 49**;
+- historical-glyph passes: **15 / 49**;
 - structural/scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
-The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is a methodological glyph-decoding guide, not a lexical transcription witness. Same-edition reference identities currently include `லை`, `ளை`, `ணா`, and `னை`.
+The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is a methodological glyph-decoding guide, not a lexical transcription witness. Same-edition reference identities currently include `லை`, `ளை`, `ணா`, `னை`, and `றா`.
+
+Scans 11–15 / printed pages 9–13 are all fully verified. Source-sensitive forms such as `அய்யன்மீர்`, `படுபாதாளச் சிறையில்`, `இரண்டுக்கு முள்ள`, `என்றுரே`, and `தானு` remain source-faithful rather than silently modernized.
 
 Physical loss remains controlling: missing characters are not reconstructed even when nearby wording or repetition appears to make the intended word obvious.
 
-**Exact next activity:** source-first transcription + historical-glyph verification of **scans 11–15** (printed pages **9–13**).
+**Exact next activity:** source-first transcription + historical-glyph verification of **scans 16–20** (printed pages **14–18**).
 
 ## Closed காகிதப்பூ checkpoint
 
