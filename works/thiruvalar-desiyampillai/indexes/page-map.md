@@ -16,11 +16,11 @@ All **49 physical scans** are registered. Page production is source-first; histo
 | 8 | 6 | body | dramatic text | needs-review | Printed p.6; scan-7 continuation plus body text transcribed; broad central paper loss retained as unresolved; `லை / னை` checked. |
 | 9 | 7 | body | dramatic text | needs-review | Printed p.7; speaker structure transcribed; lower-right loss removes end of first repeated `எங்கே ஜனநாயக…` line; `ளை` checked. |
 | 10 | 8 | body | dramatic text | verified | Printed p.8; full dialogue/speaker structure verified; later ink mark does not obscure text; `லை / ளை` checked. |
-| 11 | 9 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 12 | 10 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 13 | 11 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 14 | 12 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 15 | 13 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
+| 11 | 9 | body | dramatic text | verified | Full page verified; economic/death-export debate; `ளை` and clear same-edition `றா` evidence recorded. |
+| 12 | 10 | body | dramatic text | verified | Full page verified; `கதர் உருவம்` / `தேசீயம் பிள்ளை` entry and stage direction preserved; final utterance continues to scan 13. |
+| 13 | 11 | body | dramatic text | verified | Scan-12 utterance continuation preserved without invented speaker label; `காளைமாட்டு`, `படுபாதாளச் சிறையில்`, `தண்டனை` verified. |
+| 14 | 12 | body | dramatic text | verified | Full dialogue verified; source form `இரண்டுக்கு முள்ள` retained; final `எமன்:` utterance continues after dash into scan 15. |
+| 15 | 13 | body | dramatic text | verified | Scan-14 continuation, stage direction and `ஸ்ரீ மயானம்` prose verified; historical `லை` in `தலைகள்` decoded; final `அதன்படி` continues to scan 16. |
 | 16 | 14 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
 | 17 | 15 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
 | 18 | 16 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
@@ -60,14 +60,14 @@ All **49 physical scans** are registered. Page production is source-first; histo
 
 - scans registered: **49 / 49**;
 - page placeholders: **49 / 49**;
-- canonical page transcriptions processed: **10 / 49**;
-- visually verified page records: **3 / 49** (`2, 6, 10`);
+- canonical page transcriptions processed: **15 / 49**;
+- visually verified page records: **8 / 49** (`2, 6, 10, 11, 12, 13, 14, 15`);
 - `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
-- historical-glyph passes complete: **10 / 49**;
-- unprocessed page records: **39 / 49**;
+- historical-glyph passes complete: **15 / 49**;
+- unprocessed page records: **34 / 49**;
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
 Printed-page policy: scans **8–48** visibly carry printed pages **6–46**. Scan 7 is the body opener immediately before printed p.6, but its own numeral is not safely visible, so no printed page number is inferred.
 
-Exact next activity: transcribe and historically verify **scans 11–15** (printed pages **9–13**) without inferring scene numbering or repairing damaged text from context.
+Exact next activity: transcribe and historically verify **scans 16–20** (printed pages **14–18**) without inferring scene numbering or repairing source text from context.
