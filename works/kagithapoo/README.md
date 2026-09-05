@@ -4,7 +4,7 @@ Archive slug: `kagithapoo`.
 
 ## Current status
 
-**TAMIL ARCHIVAL LAYER COMPLETE / CLOSED. PAGE LAYER 41 / 41 VERIFIED. SCENE ASSEMBLY COMPLETE / CLOSED — FINAL REVIEW PASS. ENGLISH TRANSLATION IN PROGRESS — BATCHES 1–4 PASS / LOCKED.**
+**TAMIL ARCHIVAL LAYER COMPLETE / CLOSED. PAGE LAYER 41 / 41 VERIFIED. SCENE ASSEMBLY 23 / 23 COMPLETE / CLOSED — FINAL REVIEW PASS. ENGLISH TRANSLATION 23 / 23 COMPLETE / CLOSED — FINAL REVIEW PASS.**
 
 Controlling PDF: `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`
 
@@ -14,26 +14,34 @@ Primary lexical witness for the closed Tamil layer: `kaagidha_poo.md`.
 - selected work range: **91–131 inclusive = 41 scans**;
 - page records processed / verified: **41 / 41**;
 - `needs-review`: **0**;
-- scene assembly artifacts: **23 / 23 expected source-representation artifacts present**;
-- final scene-assembly consistency review: **PASS**;
-- English translation artifacts present / reviewed: **20 / 23**;
-- English Batches 1–4: **PASS / LOCKED**;
-- unresolved blocking English translation issues: **0**;
+- Tamil scene assembly artifacts: **23 / 23**;
+- final scene-assembly review: **PASS**;
+- English source-representation artifacts: **23 / 23 present and reviewed**;
+- English translation batches: **5 / 5 PASS / LOCKED**;
+- final English translation review: **PASS**;
+- unresolved blocking translation issues: **0**;
 - secondary-English contamination: **0**.
 
 ## Durable records
+
+Tamil archival closure:
 
 - `MD_LEXICAL_RECONCILIATION_0091_0101.md`
 - `LEXICAL_GAP_ADJUDICATION.md`
 - `PAGE_LAYER_CONSISTENCY_AUDIT.md` — **PASS**
 - `SCENE_ASSEMBLY_PROGRESS.md`
 - `SCENE_ASSEMBLY_FINAL_REVIEW.md` — **PASS**
-- `TRANSLATION_PLAN.md`
-- `translations/en/README.md`
+
+English translation closure:
+
+- `TRANSLATION_PLAN.md` — **COMPLETE / CLOSED**
+- `translations/en/README.md` — closed English tracker
 - `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**
 - `translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED**
 - `translations/en/BATCH_03_REVIEW.md` — **PASS / LOCKED**
 - `translations/en/BATCH_04_REVIEW.md` — **PASS / LOCKED**
+- `translations/en/BATCH_05_REVIEW.md` — **PASS / LOCKED**
+- `translations/en/TRANSLATION_REVIEW.md` — **FINAL PASS / CLOSED**
 
 ## Closed Tamil safeguards
 
@@ -44,9 +52,9 @@ Primary lexical witness for the closed Tamil layer: `kaagidha_poo.md`.
 5. No inferred wording or invented scene numbering was introduced.
 6. scan 124 prints only `காட்சி,`; scan 125 resumes at `காட்சி 24.`; no Scene 22 or 23 was invented.
 7. Scene 25 remains source-compressed campaign action only.
-8. Scene 27 excludes the scan-130 boxed `கண்டுபிடியுங்கள்` and the scan-131 cast/imprint block and closes exactly at `(முற்றும்)`.
+8. Scene 27 excludes the scan-130 boxed `கண்டுபிடியுங்கள்` and scan-131 cast/imprint material and closes exactly at `(முற்றும்)`.
 
-## Final Tamil scene representation
+## Final Tamil source representation
 
 - Scene 1;
 - source-compressed Scenes 2–5;
@@ -56,34 +64,42 @@ Primary lexical witness for the closed Tamil layer: `kaagidha_poo.md`.
 
 Expected / present Tamil source-representation artifacts: **23 / 23**.
 
-## English translation phase
+## Final English source representation
 
-Immediate drafting authority is the closed verified `scenes/*.md` layer. Do not draft from OCR, `kaagidha_poo.md`, the PDF, a modern edition or a secondary English witness.
-
-Completed and Tamil→English reviewed:
+The English layer mirrors the closed Tamil structure exactly:
 
 - `translations/en/01.md`;
 - `translations/en/02-05.md`;
 - `translations/en/06.md` through `translations/en/21.md`;
 - `translations/en/unnumbered-between-21-and-24.md`;
-- `translations/en/24.md`.
+- `translations/en/24.md`;
+- `translations/en/25.md`;
+- `translations/en/26.md`;
+- `translations/en/27.md`.
 
-### Batch 4 — PASS / LOCKED
+Expected / present / reviewed English artifacts: **23 / 23 / 23**.
 
-- `19.md` — Yama/voter electoral inversion;
-- `20.md` — Kaveri/Kannan Congress-Hindi argument;
-- `21.md` — book-reading, Congress critique, language-policy debate and Kannan's political turn;
-- `unnumbered-between-21-and-24.md` — source heading preserved without numeral; no Scene 22/23 invented;
-- `24.md` — Congress Democratic Socialist Conference, Parijatha/paper-flower reversal and final slogan.
+No English `22.md` or `23.md` exists or is implied.
 
-Source-sensitive Batch-4 controls are documented in `translations/en/BATCH_04_REVIEW.md`. Important preserved items include Scene-21 `மரககம்`, the source's 14/16 language-count inconsistency and `இந்தி / மந்தி` wordplay; the unnumbered scene's `அமுல் / Amul` wordplay; and Scene-24 `சாதனுடைய`, `வாய்க்கரிசி`, `பாராரூமன் றத்தில்`, `வெள்ளரட்டை`, the wealthy-name sequence and the syntactically insecure Marx/S. K. Patil line.
+## English translation authority / fidelity policy
 
-English totals:
+The completed English layer was drafted only from the closed verified Tamil `scenes/*.md` artifacts.
 
-- expected artifacts: **23**;
-- present / reviewed: **20 / 23**;
-- completed batches: **4 / 5**;
-- unresolved blocking issues: **0**.
+It was not drafted from OCR, `kaagidha_poo.md`, the controlling PDF as a substitute authority, a modern edition or a secondary English witness.
+
+The English preserves dramatic structure, speaker labels, stage directions, repetitions, political/language-policy rhetoric, satire, jokes, source compression and supported ambiguity. Source-sensitive malformed or semantically insecure forms are documented rather than silently repaired.
+
+Important carryovers are catalogued in `translations/en/README.md` and `translations/en/TRANSLATION_REVIEW.md`.
+
+## Final Scene-27 English closure
+
+`translations/en/27.md`:
+
+- represents the three already-verified scan-130 fallback turns contained in the locked Tamil scene;
+- excludes scan-130 `கண்டுபிடியுங்கள்`;
+- excludes scan-131 cast/imprint material;
+- preserves the threat, battlefield declaration, Kaveri's intervention/death, Kannan's *Purananuru* / blood / rising-sun lament and blood-*tilak* vow;
+- closes at `(The End)`, representing source `(முற்றும்)`.
 
 ## User-supplied catalog metadata
 
@@ -92,12 +108,10 @@ English totals:
 - வெளியீடு: **முரசொலி-பொங்கல் மலர்**
 - பதிப்பு / ஆண்டு: **1967**
 
-## Exact next activity
+## Phase boundary
 
-Translate and Tamil→English review **Batch 5** from the closed Tamil scene layer only:
+The source-first Tamil archival work and first source-faithful English translation/review work for **காகிதப்பூ** are both **COMPLETE / CLOSED**.
 
-- `scenes/25.md` → `translations/en/25.md`;
-- `scenes/26.md` → `translations/en/26.md`;
-- `scenes/27.md` → `translations/en/27.md`.
+No further Tamil transcription, verification, scene assembly or English first-pass/fidelity-review activity is pending.
 
-After Batch 5 passes, create and complete `translations/en/TRANSLATION_REVIEW.md` across all **23 / 23** English artifacts. Do not declare the English layer complete/closed before that final review passes.
+Any later secondary-English comparison, publication-style editing, literary polishing, annotations, performance adaptation or edition preparation is a separate phase and requires explicit user authorization. Do not silently alter the closed Tamil or English layers.
