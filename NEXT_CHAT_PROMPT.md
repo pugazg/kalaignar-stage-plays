@@ -65,13 +65,15 @@ Completed / assembly-reviewed:
 - `scenes/18.md` — Scene 18, scans 115–116; verified speaker-label variation preserved;
 - `scenes/19.md` — Scene 19, scan 116;
 - `scenes/20.md` — Scene 20, scans 117–119; scan-118→119 sentence continuation joined mechanically;
-- `scenes/21.md` — Scene 21, scans 119–124; `நலத்—` / `திட்ட` joined as `நலத்திட்ட`, `ஆட்சி—` / `மொழிகளாகட்டும்` joined as `ஆட்சிமொழிகளாகட்டும்`, and the scan-123→124 sentence continuation joined without lexical normalization. Unusual verified wording remains unchanged.
+- `scenes/21.md` — Scene 21, scans 119–124; `நலத்—` / `திட்ட` joined as `நலத்திட்ட`, `ஆட்சி—` / `மொழிகளாகட்டும்` joined as `ஆட்சிமொழிகளாகட்டும்`, and the scan-123→124 sentence continuation joined without lexical normalization. Unusual verified wording remains unchanged;
+- `scenes/unnumbered-between-21-and-24.md` — unnumbered source `காட்சி,`, scans 124–125; the heading is preserved exactly and no Scene 22/23 number is assigned or implied;
+- `scenes/24.md` — Scene 24, scans 125–129; `முடி` / `யாம` is mechanically joined as `முடியாம`, `கொள்` / `ளுங்கள்` as `கொள்ளுங்கள்`; repeated `திர:—` at scan 127 and unusual verified wording remain unchanged.
 
 Tracking file: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
 
 ## Exact next activity
 
-Assemble and page-record-check the **unnumbered source `காட்சி,`** from verified scans **124–125**, preserving the heading exactly and assigning no Scene 22/23 number. Then continue with **Scene 24** unless the user requests a different batch size. Commit scene file(s), then synchronize `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt.
+Assemble and page-record-check **Scene 25** from verified scan **129**, then continue with **Scene 26** from verified scans **129–130** unless the user requests a different batch size. Commit scene file(s), then synchronize `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt.
 
 English translation remains **not started / not authorized**.
 
