@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil 25/49 processed; 18 verified; 7 needs-review; historical-glyph pass 25/49** |
+| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil 30/49 processed; 23 verified; 7 needs-review; historical-glyph pass 30/49** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archive/assembly PASS; independent English PASS; 2009 One Act Plays witness N/A** |
@@ -31,22 +31,20 @@ Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீய
 - scans 8–48 visibly carry printed pages **6–46**;
 - scan 49: back-cover advertisement;
 - page placeholders: **49 / 49**;
-- Tamil page records processed: **25 / 49**;
-- visually verified: **18 / 49**;
-- `needs-review`: **7 / 49**;
-- historical-glyph passes: **25 / 49**;
+- Tamil page records processed: **30 / 49**;
+- visually verified: **23 / 49**;
+- `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
+- historical-glyph passes: **30 / 49**;
 - structural/scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
-The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is a methodological glyph-decoding guide, not a lexical transcription witness. Same-edition reference identities now include `லை`, `ளை`, `ணா`, `ணை`, `னை`, and `றா`.
+The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is a methodological glyph-decoding guide, not a lexical transcription witness. Same-edition reference identities now include `லை`, `ளை`, `ணா`, `ணை`, `னா`, `னை`, and `றா`.
 
-Scans **21–25 / printed pages 19–23** are all fully verified. Important source controls include the interview wordplay on scan 21, source `செத்துவிட்டமா` on scan 22, physical page/word boundaries through scans 22–25, source `பெறுதவர்களா?` on scan 25, and newly established historical `ணை` from `சொரணை`.
+Scans **26–30 / printed pages 24–28** are fully verified. Batch-6 historical-glyph work established `னா` from repeated same-edition evidence (`கெட்டிக்காரர்தானா / உடையவர்தானா / மானால்`) and triggered source-pixel-backed backward corrections: scan 15 `என்றாரே / தானா`, scan 21 `மகனா`, and scan 28 `மாலைதானே`. These are glyph-identity corrections, not spelling modernization.
 
-A prior scan-20 ordinary-zoom reading has also been corrected under the mandatory glyph methodology: apparent `நன்றுக` is historical `றா` and is canonically encoded as **`நன்றாக`**. This is glyph decoding, not spelling modernization.
+Scan 20 remains canonically **`நன்றாக`** after the earlier old-type `றா` recheck. Physical loss remains controlling: missing characters are never reconstructed from context.
 
-Physical loss remains controlling: missing characters are not reconstructed even when nearby wording or repetition appears to make the intended word obvious.
-
-**Exact next activity:** source-first transcription + historical-glyph verification of **scans 26–30** (printed pages **24–28**).
+**Exact next activity:** source-first transcription + historical-glyph verification of **scans 31–35** (printed pages **29–33**).
 
 ## Closed காகிதப்பூ checkpoint
 
