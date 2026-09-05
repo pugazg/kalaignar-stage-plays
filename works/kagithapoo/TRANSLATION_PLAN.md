@@ -1,10 +1,10 @@
 # காகிதப்பூ — English translation plan
 
-Status: **AUTHORIZED / PLAN ESTABLISHED — DRAFTING NOT YET STARTED**
+Status: **AUTHORIZED / BATCH 1 COMPLETE — PASS / LOCKED**
 
 The Tamil archival layer is already closed: page layer **41 / 41 verified**, scene assembly **COMPLETE / CLOSED**, and final scene-assembly review **PASS**.
 
-The user's instruction to proceed after Tamil closure authorizes initiation of the separate English-translation phase. This document establishes the translation controls before any English scene drafting begins.
+The user's instruction to proceed after Tamil closure authorizes the separate English-translation phase. This document defines the translation controls for all English batches.
 
 ## 1. Translation authority
 
@@ -90,6 +90,8 @@ Terms likely to require consistent treatment include:
 
 Do not pre-lock an uncertain equivalent merely for consistency. Context and source rhetoric control the choice.
 
+Batch-1 durable choices are recorded in `translations/en/README.md` and may be reused only in matching contexts.
+
 ## 6. English scene-file format
 
 Recommended front matter for a normal numbered scene:
@@ -130,11 +132,13 @@ For each batch:
 5. set each reviewed file to `translation-reviewed` / `passed` only after the fidelity review;
 6. update `translations/en/README.md` with the durable batch result.
 
+Batch-review records may be added under `translations/en/` to preserve the review result. Batch 1 is recorded in `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**.
+
 After all 23 English artifacts are complete, create `translations/en/TRANSLATION_REVIEW.md` for the final Tamil→English coverage/fidelity review.
 
 ## 8. Batch plan
 
-### Batch 1
+### Batch 1 — COMPLETE / PASS / LOCKED
 
 - `01.md`
 - `02-05.md`
@@ -142,7 +146,7 @@ After all 23 English artifacts are complete, create `translations/en/TRANSLATION
 - `07.md`
 - `08.md`
 
-### Batch 2
+### Batch 2 — NEXT
 
 - `09.md`
 - `10.md`
@@ -182,10 +186,19 @@ Scene 21 is comparatively large; Batch 4 may be split operationally if needed, b
 - No secondary English witness is authorized for drafting or silent correction.
 - The scan-130 `கண்டுபிடியுங்கள்` box and scan-131 cast/imprint material remain outside Scene 27's dramatic translation because they are outside the closed Tamil scene artifact.
 
+## Current English status
+
+- expected artifacts: **23**;
+- present: **5 / 23**;
+- reviewed: **5 / 23**;
+- completed batches: **1 / 5**;
+- unresolved blocking translation issues: **0**;
+- secondary-English contamination: **0**.
+
 ## Exact next activity
 
-Translate and Tamil→English review **Batch 1** from the closed Tamil scene layer only:
+Translate and Tamil→English review **Batch 2** from the closed Tamil scene layer only:
 
-`01.md`, `02-05.md`, `06.md`, `07.md`, `08.md`.
+`09.md`, `10.md`, `11.md`, `12.md`, `13.md`.
 
 Do not use OCR, the MD first pass, the PDF, a modern edition or a secondary English text as the drafting authority.
