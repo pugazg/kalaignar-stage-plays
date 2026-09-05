@@ -38,9 +38,9 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 | 21 | 119–124 | assembly-reviewed | `scenes/21.md` |
 | unnumbered source `காட்சி,` | 124–125 | assembly-reviewed; no 22/23 assigned | `scenes/unnumbered-between-21-and-24.md` |
 | 24 | 125–129 | assembly-reviewed | `scenes/24.md` |
-| 25 | 129 | next | — |
-| 26 | 129–130 | pending | — |
-| 27 | 130–131 | pending | — |
+| 25 | 129 | assembly-reviewed; source-compressed action only | `scenes/25.md` |
+| 26 | 129–130 | assembly-reviewed | `scenes/26.md` |
+| 27 | 130–131 | next | — |
 
 ## Completed assembly
 
@@ -56,15 +56,17 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 - `scenes/13.md` preserves the complete single-scan Scene 13 on scan 107 and closes at `(திரை விழுகிறது)` before `காட்சி: 14`.
 - `scenes/14.md` assembles scans 107–109; the physical `வெற்றிகளக் குவிக்கத்—` / `தான் போகிறார்கள் மக்கள்!...` boundary is mechanically joined as `வெற்றிகளக் குவிக்கத்தான் போகிறார்கள் மக்கள்!...`, and Scene 14 closes at `(திரை)` before Scene 15.
 - `scenes/15.md` assembles scans 109–110; the physical `வார்த்தை—` / `யைச்` boundary is mechanically joined as `வார்த்தையைச்`, and Scene 15 closes at `(திரை)` before Scene 16.
-- `scenes/16.md` assembles scans 110–114; the physical `இய—` / `லாது` boundary is mechanically joined as `இயலாது`. The unusual verified MD tokens on scan 112 are preserved exactly, and the scan-113/114 sentence continuation is joined without normalization.
+- `scenes/16.md` assembles scans 110–114; the physical `இய—` / `லாது` boundary is mechanically joined to `இயலாது`. The unusual verified MD tokens on scan 112 are preserved exactly, and the scan-113/114 sentence continuation is joined without normalization.
 - `scenes/17.md` assembles scans 114–115; Gandhi's long speech is joined across the physical page boundary and the scene closes at `(திரை)` before Scene 18.
 - `scenes/18.md` assembles scans 115–116; the physical continuation is joined while preserving the page-record speaker-label variation, including `திர:—` on scan 116.
 - `scenes/19.md` preserves the complete single-scan Scene 19 on scan 116 and closes at `(திரை)`.
 - `scenes/20.md` assembles verified scans 117–119; the scan-118→119 sentence continuation `நீங்கள் சிந்திய ரத்தம் கூட—` / `உங்கள் மகன்...` is joined mechanically, and Scene 20 closes at `(திரை)` before Scene 21.
 - `scenes/21.md` assembles verified scans 119–124. The physical word splits `நலத்—` / `திட்ட` and `ஆட்சி—` / `மொழிகளாகட்டும்` are mechanically joined as `நலத்திட்ட` and `ஆட்சிமொழிகளாகட்டும்`; the scan-123→124 sentence continuation is joined without lexical normalization. Unusual verified page-record wording remains unchanged. Scene 21 closes at `(திரை)` immediately before the unnumbered source heading `காட்சி,`.
-- `scenes/unnumbered-between-21-and-24.md` assembles verified scans 124–125 and preserves the source heading exactly as `காட்சி,`. No Scene 22 or Scene 23 number is assigned or implied. The physical page boundary falls between complete turns, and the block closes at `(திரை)` immediately before `காட்சி 24.`.
-- `scenes/24.md` assembles verified scans 125–129. The physical splits `முடி` / `யாம` and `கொள்` / `ளுங்கள்` are mechanically joined as `முடியாம` and `கொள்ளுங்கள்`; the repeated `திர:—` label at scan 127 is preserved, and unusual verified page-record wording remains unchanged. Scene 24 closes immediately before `காட்சி 25`.
+- `scenes/unnumbered-between-21-and-24.md` assembles verified scans 124–125 and preserves the heading exactly as `காட்சி,`; no Scene 22 or Scene 23 number is assigned or implied.
+- `scenes/24.md` assembles verified scans 125–129; physical splits `முடி` / `யாம` and `கொள்` / `ளுங்கள்` are mechanically joined as `முடியாம` and `கொள்ளுங்கள்`. The repeated `திர:—` continuation label remains source-faithful.
+- `scenes/25.md` preserves the complete source-compressed Scene 25 on scan 129 exactly as the bracketed campaign-action direction; no dialogue or body is invented.
+- `scenes/26.md` assembles verified scans 129–130. The physical boundary falls between complete turns, so no lexical join is made; unusual verified speaker labels are preserved exactly. Scene 26 closes before `காட்சி 27`.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 25** from verified scan **129**, then continue with **Scene 26** from scans **129–130** unless the user specifies a different batch size. Do not begin English translation.
+Assemble and page-record-check **Scene 27** from verified scans **130–131**. Keep the scan-130 boxed `கண்டுபிடியுங்கள்` feature separate from dramatic reading order, preserve the already verified three PDF-fallback turns on scan 130, and close the dramatic scene with source `(முற்றும்)` on scan 131. The following `நாடகத்தில்—பங்கேற்பவர்கள்!` cast block remains separate page-level non-dramatic material. After Scene 27, perform the final scene-assembly consistency/closure review. Do not begin English translation.
