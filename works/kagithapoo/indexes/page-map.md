@@ -1,25 +1,27 @@
 # Page Map — காகிதப்பூ
 
-Controlling file: `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`.
+Controlling structural source: `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`.
+
+Lexical witness: user-supplied `kaagidha_poo.md`.
 
 The full periodical PDF contains **131 physical scans**. The user-selected `காகிதப்பூ` work scope is **scans 91–131 inclusive (41 scans)**. Printed pagination is not inferred.
 
-Rows marked `verified` have received full word-for-word visual transcription/reconciliation against the controlling scan. `not-started` rows remain intake-level structural navigation.
+Under the current dual-witness rule, `verified` means the page has MD-controlled lexical words reconciled to PDF-controlled structure/punctuation with no unresolved MD lexical gap. `needs-review` means the PDF structure exposes text for which the MD does not supply a complete lexical witness.
 
 | Scan | Printed page | Section / provisional scene map | Page type | Status | Intake / verification note |
 |---:|---:|---|---|---|---|
-| 91 | — | work opener | title-artwork / staged photograph | verified | Full title/callout transcription and archival image description verified directly from scan. |
-| 92 | — | காட்சி 1 | dramatic text + photograph | verified | `காட்சி 1` opening fully transcribed; physical continuation into scan 93 preserved. |
-| 93 | — | காட்சி 1 / காட்சிகள் 2–5 / காட்சி 6 | dramatic text + montage photograph | verified | Scene 1 closes; `காட்சிகள்: 2, 3, 4, 5.` and `காட்சி: 6.` fully reconciled; Scene 6 continues into scan 94. |
-| 94 | — | காட்சி 6 / காட்சி 7 | dramatic text + photograph | verified | Difficult narrow Scene-6 continuation resolved from fresh 600-dpi render; Scene 6 close, photograph/layout and `காட்சி 7.` opening fully reconciled. |
-| 95 | — | காட்சி 7 | dramatic text + photograph | verified | Scene 7 continuation fully reconciled, including காவேரி–மரகதம்–மாலா dialogue; physical continuation into scan 96 preserved. |
-| 96 | — | காட்சி 7 | dramatic text + portrait | verified | Scene 7 election dialogue fully reconciled; large staged portrait documented; physical continuation into scan 97 preserved. |
-| 97 | — | காட்சி 7 | dramatic text + photograph | verified | Wraparound Scene 7 dialogue fully reconciled; staged photographs/footer documented; physical continuation into scan 98 preserved. |
-| 98 | — | காட்சி 7 / காட்சி 8 | dramatic text + photograph | verified | Scene 7 close and `காட்சி 8.` opening fully reconciled; cross-page stage direction and narrow-column Scene 8 dialogue verified; continuation into scan 99 preserved. |
-| 99 | — | காட்சி 8 | dramatic text + photo montage | verified | Scene 8 wraparound dialogue and photo montage fully reconciled; scan-98 and scan-100 boundaries checked. |
-| 100 | — | காட்சி 8 | dramatic text + photograph | verified | Scene 8 continuation fully reconciled; scan-99 stage-direction join and scan-101 response boundary checked directly. |
-| 101 | — | காட்சி 8 | dramatic text | verified | Scene 8 continuation fully reconciled; scan-100 boundary, two-column reading order, source speaker-label forms and terminal `(கண்ணன் போகிறான்)` checked directly. |
-| 102 | — | காட்சி 8 / காட்சி 9 / காட்சி 10 | dramatic text + photograph | verified | Scene 8 closes; all of Scene 9 and its `(திரை)` are reconciled; `காட்சி 10` begins on the same scan and continues into scan 103. Lexical words follow the user-supplied `kaagidha_poo.md`; source PDF controls structure and punctuation. |
+| 91 | — | work opener | title-artwork / staged photograph | verified | Reconciled to MD lexical witness; PDF controls flower-callout/title placement and punctuation. |
+| 92 | — | காட்சி 1 | dramatic text + photograph | verified | MD lexical forms reconciled; PDF order retains `மாணவமணி ராசேந்திரன்` and physical continuation into 93. |
+| 93 | — | காட்சி 1 / காட்சிகள் 2–5 / காட்சி 6 | dramatic text + montage photograph | needs-review | MD lexical reconciliation applied; PDF stage direction contains additional words absent from MD, recorded as a lexical-witness gap. |
+| 94 | — | காட்சி 6 / காட்சி 7 | dramatic text + photograph | verified | Narrow Scene-6 text re-reconciled using MD words (`சீவி`, `புறநானூற்றிலே படித்திருக்கிறோம்`, etc.); PDF controls narrow-column structure. |
+| 95 | — | காட்சி 7 | dramatic text + photograph | needs-review | MD reconciliation applied; one complete காவேரி paragraph and the opening of the following மரகதம் paragraph are absent from MD. |
+| 96 | — | காட்சி 7 | dramatic text + portrait | verified | MD lexical forms (`மானப்படை`, `மாணவர் உலகம்`, `இந்தி எதிர்ப்பின்`, `எழுதி வைத்துக் கொள்ளச்`) reconciled to PDF layout. |
+| 97 | — | காட்சி 7 | dramatic text + photograph | needs-review | MD reconciliation applied; one PDF-structured parenthetical stage direction has no MD lexical witness. |
+| 98 | — | காட்சி 7 / காட்சி 8 | dramatic text + photograph | needs-review | Dramatic text reconciled to MD; PDF contains a printed personal-name caption not present in MD, recorded as a lexical gap. |
+| 99 | — | காட்சி 8 | dramatic text + photo montage | verified | MD lexical reconciliation complete; missing `கண்:— சர்க்கார்` turn restored at PDF-defined position. |
+| 100 | — | காட்சி 8 | dramatic text + photograph | verified | MD lexical forms reconciled to PDF structure, punctuation and 99/101 scan boundaries. |
+| 101 | — | காட்சி 8 | dramatic text | verified | MD lexical reconciliation complete; PDF three-way `மூவரும்` structure retained while MD call words are assigned in source order. |
+| 102 | — | காட்சி 8 / காட்சி 9 / காட்சி 10 | dramatic text + photograph | verified | Scene 8 closes; all of Scene 9 and its `(திரை)` are reconciled; `காட்சி 10` begins on the same scan and continues into scan 103. MD controls words; PDF controls structure/punctuation. |
 | 103 | — | காட்சி 10 | dramatic text | not-started | Continuation. |
 | 104 | — | காட்சி 10 / காட்சி 11 | dramatic text + photograph | not-started | Scene 10 closes; Scene 11 begins. |
 | 105 | — | காட்சி 11 / காட்சி 12 | dramatic text | not-started | Scene 11 closes; Scene 12 begins. |
@@ -53,10 +55,12 @@ Rows marked `verified` have received full word-for-word visual transcription/rec
 ## Current checkpoint
 
 - selected source pages represented: **41 / 41**;
-- verified page transcriptions: **12 / 41** — scans **91–102**;
-- first verification batch: **COMPLETE**;
-- active second page-level batch: **103–110**;
+- MD lexical reconciliation of scans **91–101: COMPLETE**;
+- dual-witness fully verified pages: **8 / 41** — scans **91, 92, 94, 96, 99, 100, 101, 102**;
+- needs-review because MD lexical witness is incomplete: **4 pages** — scans **93, 95, 97, 98**;
+- scan 102 remains durably completed from before this reconciliation request and is preserved;
+- **do not proceed to scan 103+ until the four 91–101 lexical gaps are resolved or explicitly accepted**;
 - scene assembly: **not started / not authorized**;
 - translation: **not started / not authorized**.
 
-The scene map remains provisional until each page is visually transcribed and verified. Source-visible numbering anomalies must remain exposed.
+The detailed reconciliation record is `MD_LEXICAL_RECONCILIATION_0091_0101.md`. Source-visible scene-numbering anomalies must remain exposed.
