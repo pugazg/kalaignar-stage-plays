@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — திருவாளர் தேசீயம்பிள்ளை
 
-Status: **IN PROGRESS — 30 / 49 SCANS COMPLETE**
+Status: **IN PROGRESS — 35 / 49 SCANS COMPLETE**
 
 This work-level audit implements the user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` for the 1965 second-edition scan of **திருவாளர் தேசீயம்பிள்ளை**.
 
@@ -25,101 +25,80 @@ Every scan, including front matter and advertisements, explicitly considers:
 
 This is a minimum known reference set, not a claim that every historical Tamil typeface has only these ambiguities.
 
-## Batch 1 — scans 1–5
+## Established same-edition reference set
 
-Full-page visual + 13-family passes complete.
-
-- `லை / ளை / ணா` same-edition identities established from cover/front-matter forms;
-- scan 2 verified;
-- scans 1, 3, 4, 5 remain `needs-review` because of physical damage, not unresolved glyph identity.
-
-## Batch 2 — scans 6–10
-
-Full-page visual + 13-family passes complete.
-
-- `னை` established from scan-8 `அவனை`;
-- scans 6 and 10 verified;
-- scans 7, 8, 9 remain damage-limited.
-
-## Batch 3 — scans 11–15
-
-Full-page visual + 13-family passes complete. **All five scans verified.**
-
-- `றா` established from scan-11 `வண்ணமிருக்கிறார்களே`, reinforced by `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார்`;
-- scan-15 `லை` in `தலைகள்` and `ளை` in `விளையும்` positively decoded;
-- later Batch-6 same-edition comparison required a post-pass correction on scan 15: apparent ordinary-zoom `என்றுரே / தானு` are historical `றா / னா` identities and are canonically encoded as **`என்றாரே / தானா`**.
-
-## Batch 4 — scans 16–20
-
-Full-page visual + 13-family passes complete. **All five scans verified.**
-
-- scan 16→17 physical boundary `வறுமை வய` / `வில் பொறுக்கப்பட்டவை!` remains unedited at page-record level;
-- scan 18 retains source `தூத்துக் குடிச்சாறு`;
-- scan 19 preserves physical word splits;
-- scan 20 apparent old-type `நன்றுக` was rechecked under the mandatory glyph guide and same-edition `றா` evidence and is canonically **`நன்றாக`**.
-
-### Scan-20 correction rule
-
-The historical-glyph guide explicitly documents this failure mode: an apparent old-type shape such as `நன்றுக` can encode `நன்றாக`. The canonical correction is therefore character-identity decoding, not spelling modernization.
-
-## Batch 5 — scans 21–25
-
-Full-page visual + 13-family passes complete. **All five scans verified.**
-
-- scan 21 interview/wordplay sequence retained;
-- scan 22→23 and scan 24→25 physical continuations remain separated in page records;
-- scan 25 source `பெறுதவர்களா?` retained without semantic regularization;
-- historical `ணை` positively established from scan-25 `சொரணை`;
-- later Batch-6 comparison rechecked scan-21 apparent `மகனு` and established the historical `னா` identity; canonical scan-21 form is now **`மகனா`**.
-
-## Batch 6 — scans 26–30
-
-Full-page visual + 13-family passes complete. **All five scans verified. No new damage-limited page was introduced.**
-
-| Scan | Representative source form(s) | Family evidence | Result |
-|---:|---|---|---|
-| 26 | `கெட்டிக்காரர்தானா`, `உடையவர்தானா`, `தேசீயம் பிள்ளை` | `னா`, `ளை`, `றா` | repeated clear `னா` identity established; final `ஆளைப் பார்த்தே` remains open to scan 27 |
-| 27 | opening `மானால்`, `இளைத்துப்`, `இல்லை` | `னா`, `ளை`, `லை` | opening apparent old-type form decoded as `மானால்`; scan26→27 physical boundary preserved |
-| 28 | `மாலைதானே`, `தேசீயம் பிள்ளை` | `லை`, `ளை` | apparent `மால்தானே` corrected by historical `லை` identity to `மாலைதானே` |
-| 29 | `பைசாக்களை`, `பிள்ளை`, `மாலை`, `மல்லிகை` | `ளை`, `லை` | identities supported; no new family required |
-| 30 | repeated `தேசீயம் பிள்ளை` plus full candidate set | `ளை` + full set | Nandan entrance/embrace/fainting page fully verified; no additional glyph correction required |
-
-### `னா` same-edition reference established in Batch 6
-
-Clear repeated evidence on scans 26–27 establishes the historical `னா` family for this edition. That evidence also supports two backward corrections where earlier ordinary-zoom readings had been retained too literally:
-
-- scan 15: `தானு` → **`தானா`**;
-- scan 21: `மகனு` → **`மகனா`**.
-
-The scan-15 `என்றுரே` → **`என்றாரே`** correction is the corresponding `றா` identity recheck.
-
-These are all character-identity corrections under the supplied historical-glyph methodology. They are not semantic, grammatical or spelling modernization.
-
-## Current same-edition comparison set
-
-At least the following families now have positive same-edition evidence:
+Positive same-edition evidence currently supports:
 
 `லை / ளை / ணா / ணை / னா / னை / றா`.
 
 Representative anchors:
 
-- `லை`: `கலைஞர்`, `தலைகள்`, `மாலைதானே`;
+- `லை`: `கலைஞர்`, `தலைகள்`, `மாலைதானே`, scan-31 `விலைமதிக்க / மாலையை`, scan-32 repeated `மாலை`;
 - `ளை`: `பிள்ளை`, `உங்களை`, `விளையும்`;
-- `ணா`: `கருணாநிதி`, `கல்யாண`, `ஆகாஷவாணி`;
-- `ணை`: `சொரணை`;
-- `னா`: `கெட்டிக்காரர்தானா`, `உடையவர்தானா`, `மானால்`, with backward confirmation in `தானா / மகனா`;
+- `ணா`: `கருணாநிதி`, `கல்யாண`, `ஆகாஷவாணி`, scan-34 physical `சொல் / வொணா`;
+- `ணை`: scan-25 `சொரணை`;
+- `னா`: `கெட்டிக்காரர்தானா`, `உடையவர்தானா`, `மானால்`, scan-15 `தானா`, scan-21 `மகனா`, scan-31 `உடைதானா`, scan-33 `அரசனா / ஆண்டவனா`;
 - `னை`: `அவனை`, `தண்டனை`;
-- `றா`: `வண்ணமிருக்கிறார்களே`, `பார்க்கிறார்`, `நன்றாக`, `என்றாரே`.
+- `றா`: `வண்ணமிருக்கிறார்களே`, `பார்க்கிறார்`, scan-20 `நன்றாக`, scan-15 `என்றாரே`, scan-32 `நன்றாகப்`.
 
-These references are used only for character-identity comparison. They never authorize reconstruction of physically absent text or global replacement.
+These references are used only for character-identity comparison. They never authorize reconstruction of physically absent text, lexical normalization, or global replacement.
 
-## Damage boundary through scan 30
+## Completed batches
 
-Current `needs-review` pages remain damage-driven:
+### Batch 1 — scans 1–5
 
-- scans **1, 3, 4, 5, 7, 8, 9**.
+Full 13-family passes complete. Scan 2 verified; scans 1, 3, 4, 5 remain damage-limited.
 
-Scans 10–30 add no new damage-limited page record.
+### Batch 2 — scans 6–10
+
+Full passes complete. `னை` established from scan-8 `அவனை`; scans 6 and 10 verified; scans 7–9 remain damage-limited.
+
+### Batch 3 — scans 11–15
+
+All five verified. `றா` established from scan-11 and later comparison corrected scan-15 apparent `என்றுரே / தானு` to canonical **`என்றாரே / தானா`**.
+
+### Batch 4 — scans 16–20
+
+All five verified. Scan 20 apparent old-type `நன்றுக` is canonically **`நன்றாக`** after character-identity adjudication. The scan16→17 physical boundary remains unedited at page-record level.
+
+### Batch 5 — scans 21–25
+
+All five verified. `ணை` established from scan-25 `சொரணை`; later Batch-6 comparison corrected scan-21 apparent `மகனு` to canonical **`மகனா`**.
+
+### Batch 6 — scans 26–30
+
+All five verified. Repeated scan-26/27 evidence established `னா`; scan 28 apparent `மால்தானே` was decoded canonically as **`மாலைதானே`**. No damage-limited page was introduced.
+
+### Batch 7 — scans 31–35
+
+Full source-pixel + 13-family passes completed for all five scans.
+
+| Scan | Representative source form(s) | Family evidence | Result |
+|---:|---|---|---|
+| 31 | `உடைதானா`, `விலைமதிக்க`, `மாலையை`, `தேசீயம் பிள்ளை` | `னா / லை / ளை / றா` | **verified**; Gandhi's ornate-prison introduction and first exchange fully supported |
+| 32 | repeated `மாலை`, `நன்றாகப்`, `தேசீயம் பிள்ளை` | `லை / றா / ளை` | **verified**; garland-rejection passage fully supported |
+| 33 | `அரசனா`, `ஆண்டவனா`, `சிலைகள் / சிலைப்பற்றுகூடக்` | `னா / லை` | **verified**; priest/party allegory fully supported; final phrase continues to scan 34 |
+| 34 | repeated verbal `றா` forms, physical `சொல் / வொணா` | `றா / ணா / ளை` | **verified**; scan-33 continuation and Gandhi critique fully supported |
+| 35 | known families across page; one ambiguous non-secure cluster | full 13-family set checked | **needs-review**; one short cluster in `கொம்பு மாடெனக் … மட்டும்` remains unresolved |
+
+### Scan-35 review hold
+
+Scan 35 is not damage-limited in the same sense as the earlier torn pages. Most of the page is clearly readable and the mandatory 13-family inspection is complete. However, one short lexical/glyph cluster in the phrase:
+
+`கொம்பு மாடெனக் … மட்டும் / வளர்த்து ஒன்றிரண்டு முட்டிக்கொண்டு`
+
+remains visually insecure after enlarged inspection. Its ordinary appearance resembles `கொழுப்பேறி`, but that reading is **not** adopted canonically because the pixels do not support it strongly enough. `pages/0035.md` therefore records `[unresolved glyph cluster]` and remains `needs-review` pending same-edition evidence.
+
+The page-ending `எங்குவேன்` remains physically open to scan 36 and must not be completed from context.
+
+## Review/damage boundary through scan 35
+
+`needs-review` pages:
+
+- physical-damage holds: **1, 3, 4, 5, 7, 8, 9**;
+- unresolved visual/glyph-cluster hold: **35**.
+
+No other scan through 35 is currently unresolved.
 
 ## Mandatory page procedure
 
@@ -139,12 +118,12 @@ For each remaining scan:
 ## Current progress
 
 - scans in work: **49**;
-- full historical-glyph passes complete: **30 / 49**;
-- representative positively established families: **`லை`, `ளை`, `ணா`, `ணை`, `னா`, `னை`, `றா`**;
-- unresolved historical-glyph clusters: **0 currently recorded**;
-- damage-limited page records: **7** (`1, 3, 4, 5, 7, 8, 9`);
-- visually verified pages: **23** (`2, 6, 10–30`).
+- full historical-glyph passes complete: **35 / 49**;
+- visually verified pages: **27 / 49** (`2, 6, 10–34`);
+- `needs-review`: **8 / 49** (`1, 3, 4, 5, 7, 8, 9, 35`);
+- unresolved source/glyph clusters currently recorded: **1** (scan 35);
+- unprocessed scans: **14 / 49**.
 
 ## Exact next activity
 
-Run the full source-pixel + historical-glyph verification for **scans 31–35** (printed pages **29–33**) while creating their canonical transcriptions. Continue to use same-edition references only for character-identity comparison; never for reconstructing physically absent wording.
+Run the full source-pixel + historical-glyph verification for **scans 36–40** (printed pages **34–38**) while creating their canonical transcriptions. Keep scan 35's unresolved cluster open and use any later same-edition evidence only if it genuinely clarifies that cluster.
