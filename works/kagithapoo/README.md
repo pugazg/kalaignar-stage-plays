@@ -21,7 +21,7 @@ Primary lexical witness:
 - `needs-review`: **0**;
 - unprocessed pages: **0**;
 - scene assembly: **AUTHORIZED / IN PROGRESS**;
-- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, **Scenes 6–21**, the unnumbered source **`காட்சி,`** block, and **Scene 24**;
+- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, **Scenes 6–21**, unnumbered source **`காட்சி,`**, and **Scenes 24–26**;
 - English translation: **not started / not authorized**.
 
 ## Durable audits / assembly tracking
@@ -43,7 +43,7 @@ Primary lexical witness:
 ## Former lexical gaps — all resolved
 
 - **93** — restored PDF wording `அவள் தோழி` inside the Scene-6 opening stage direction.
-- **95** — restored the complete missing `காவேரி:` paragraph and the opening of the following `மரகதம்:` paragraph directly from the PDF.
+- **95** — restored the complete missing காவேரி paragraph and the opening of the following மரகதம் paragraph directly from the PDF.
 - **97** — restored source parenthetical `(படத்திடம் போய்)`.
 - **98** — restored the printed photograph caption `ஓ. எம். சுப்பிரமணியன்,` separately from dramatic reading order.
 - **130** — restored two missing `குரல்:` turns plus the separate pre-gunshot `கண்:— அம்மா!...` turn.
@@ -68,8 +68,10 @@ Primary lexical witness:
 - `scenes/19.md` — Scene 19, scan 116; complete single-scan scene preserved through `(திரை)`.
 - `scenes/20.md` — Scene 20, scans 117–119; the scan-118→119 sentence continuation is joined mechanically and the scene closes before `காட்சி 21.`.
 - `scenes/21.md` — Scene 21, scans 119–124; `நலத்—` / `திட்ட` is joined as `நலத்திட்ட`, `ஆட்சி—` / `மொழிகளாகட்டும்` as `ஆட்சிமொழிகளாகட்டும்`, and the 123→124 sentence continuation is joined without lexical normalization. Verified unusual wording remains unchanged.
-- `scenes/unnumbered-between-21-and-24.md` — scans 124–125; the source heading **`காட்சி,`** is preserved exactly, no Scene 22/23 number is assigned, and the block closes at `(திரை)` immediately before Scene 24.
-- `scenes/24.md` — Scene 24, scans 125–129; `முடி` / `யாம` is mechanically joined as `முடியாம`, `கொள்` / `ளுங்கள்` as `கொள்ளுங்கள்`, and the repeated scan-127 `திர:—` label plus unusual verified wording are preserved.
+- `scenes/unnumbered-between-21-and-24.md` — verified scans 124–125; preserves source heading exactly as `காட்சி,`; no Scene 22/23 numbering assigned.
+- `scenes/24.md` — Scene 24, scans 125–129; `முடி` / `யாம` mechanically joined as `முடியாம`, and `கொள்` / `ளுங்கள்` as `கொள்ளுங்கள்`; repeated verified continuation label retained.
+- `scenes/25.md` — Scene 25, scan 129; source-compressed bracketed campaign action preserved without invented dialogue.
+- `scenes/26.md` — Scene 26, scans 129–130; no lexical join required at the page boundary; unusual verified speaker-label sequence retained exactly.
 
 ## Structural safeguards
 
@@ -88,6 +90,6 @@ Primary lexical witness:
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 25** from verified scan **129**, then continue with **Scene 26** from scans **129–130** unless the user specifies another batch size.
+Assemble and page-record-check **Scene 27** from verified scans **130–131**. Keep scan-130 boxed `கண்டுபிடியுங்கள்` separate from dramatic reading order, retain the already verified three PDF-fallback turns on scan 130, and close the dramatic scene at source `(முற்றும்)` on scan 131. The following `நாடகத்தில்—பங்கேற்பவர்கள்!` cast block remains separate page-level material. Then perform the final scene-assembly consistency/closure review.
 
 Do **not** begin English translation until separately authorized.
