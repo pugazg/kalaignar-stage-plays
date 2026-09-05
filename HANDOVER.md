@@ -36,20 +36,7 @@ Controlling PDF: `TVA_BOK_0064118_திருவாளர்_தேசீயம
 - title-page address: **131, பிராட்வே சென்னை—1.**;
 - printer/imprint: **முத்தமிழ்ச் செல்வி அச்சகம், 1/65, பிராட்வே.**
 
-User-supplied catalog metadata and description remain contextual only; source pixels control transcription.
-
-## Registered physical structure
-
-- scan 1: colour front cover;
-- scan 2: pasted donor/library slip, verified as `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின் / அன்பளிப்பு`;
-- scan 3: title page;
-- scan 4: edition/imprint page;
-- scans 5–6: publisher note `வணக்கம்.`;
-- scans 7–48: dramatic work;
-- scans 8–48 visibly carry printed pages **6–46**;
-- scan 49: back-cover advertisement.
-
-Do not infer a printed page number for scan 7 merely from sequence.
+Registered structure: scans 1–6 front matter; scans 7–48 dramatic work; scans 8–48 visibly carry printed pp.6–46; scan 49 back-cover advertisement. Do not infer a printed page number for scan 7.
 
 ## Historical-glyph verification — mandatory
 
@@ -69,50 +56,57 @@ Permanent rules:
 - physical paper loss cannot be repaired by glyph inference;
 - use `needs-review` when source support is incomplete.
 
-Same-edition reference forms currently established:
+Same-edition reference families now established:
 
-- `லை` — `கலைஞர்`, reinforced by `தலையை / தலைமை / தலைகள் / தலைகுனிந்தவாறு`;
-- `ளை` — `பிள்ளை`, reinforced by `உங்களை / காளைமாட்டு / விளையும் / கண்களை`;
-- `ணா` — `கருணாநிதி`, reinforced by `கல்யாண / ராணுவத் / ஆகாஷவாணி`;
-- `ணை` — scan-25 `சொரணை`;
+- `லை` — `கலைஞர் / தலைகள் / மாலைதானே`;
+- `ளை` — `பிள்ளை / உங்களை / விளையும்`;
+- `ணா` — `கருணாநிதி / கல்யாண / ஆகாஷவாணி`;
+- `ணை` — `சொரணை`;
+- `னா` — `கெட்டிக்காரர்தானா / உடையவர்தானா / மானால்`, with backward confirmation in `தானா / மகனா`;
 - `னை` — `அவனை / தண்டனை`;
-- `றா` — `வண்ணமிருக்கிறார்களே`, reinforced by `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார் / பூசினாற்`; scan-20 apparent `நன்றுக` is canonically `நன்றாக` after glyph recheck.
+- `றா` — `வண்ணமிருக்கிறார்களே / பார்க்கிறார் / நன்றாக / என்றாரே`.
 
-## Current state after scans 1–25
+## Current state after scans 1–30
 
 **PAGE LAYER IN PROGRESS.**
 
 - scans registered: **49 / 49**;
 - page placeholders: **49 / 49**;
-- canonical transcriptions processed: **25 / 49**;
-- visually verified pages: **18 / 49** (`2, 6, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25`);
+- canonical transcriptions processed: **30 / 49**;
+- visually verified pages: **23 / 49** (`2, 6, 10–30`);
 - `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
-- historical-glyph passes complete: **25 / 49**;
-- unprocessed: **24 / 49**;
+- historical-glyph passes complete: **30 / 49**;
+- unprocessed: **19 / 49**;
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
-### Completed Batch 5 controls — scans 21–25
+### Completed Batch 6 controls — scans 26–30
 
 All five are **VERIFIED**.
 
-- scan 21 / printed p.19: `எமன் :` interview continuation; `ஹியூம்`, source `மகனு`, and `கீரிப்பிள்ளை / தென்னம்பிள்ளை / அணில்பிள்ளை` wordplay retained;
-- scan 22 / printed p.20: parrot/rationality dialogue verified; source `செத்துவிட்டமா` retained; final `இந்த` remains physically open into scan 23;
-- scan 23 / printed p.21: scan-22 continuation and tax dialogue verified; physical splits `பூர் / வோத்திரத்தையும்`, `இந் / நாட்டு`, `சொல் / லும்` preserved;
-- scan 24 / printed p.22: tax-on-decaying-goods/corpses/punishment dialogue verified; final `பூலோ` remains open into scan 25;
-- scan 25 / printed p.23: scan-24 continuation and election/independents/tax dialogue verified; source `பெறுதவர்களா?` retained; historical `ணை` established from `சொரணை`; physical `அல் / லது` and `வரி / களை` retained.
+- scan 26 / printed p.24: `ஐந்தாண்டுத் திட்டம்` interview verified; `னா` established from `கெட்டிக்காரர்தானா / உடையவர்தானா`; final `ஆளைப் பார்த்தே` remains physically open into scan 27;
+- scan 27 / p.25: opening old-type form decoded as `மானால்`; scan26→27 physical boundary preserved;
+- scan 28 / p.26: Gandhi-request/travel sequence verified; apparent `மால்தானே` decoded as `மாலைதானே` (`லை`); source `என் / னோடு` split retained;
+- scan 29 / p.27: flower-shop/spirit narrative verified; physical splits `மந்திரி / கள்`, `படிக்கட்டு / கள்`, `நவரத் / தினங்கள்` preserved;
+- scan 30 / p.28: Nandan entrance, embrace and fainting sequence verified; full 13-family pass complete; physical splits retained.
 
-### Scan-20 glyph correction carried forward
+### Backward historical-glyph corrections now authoritative
 
-The earlier apparent reading `நன்றுக` is superseded. Under the attached historical-glyph guide and same-edition `றா` evidence, the character identity is **`நன்றாக`**. `pages/0020.md`, page-map, work README, root README, glyph audit, this handover and next-chat prompt must all preserve that corrected canonical form.
+Batch-6 same-edition evidence required three durable rechecks:
 
-No scan 11–25 text is damage-limited. Existing `needs-review` pages remain scans `1, 3, 4, 5, 7, 8, 9`.
+- scan 15 `என்றுரே` → **`என்றாரே`** (`றா`);
+- scan 15 `தானு` → **`தானா`** (`னா`);
+- scan 21 `மகனு` → **`மகனா`** (`னா`).
+
+Scan 20 remains canonically **`நன்றாக`** after its earlier `றா` recheck. Do not restore superseded apparent-shape readings.
+
+No scan 10–30 text is damage-limited. Existing `needs-review` pages remain scans `1, 3, 4, 5, 7, 8, 9`.
 
 Do not begin scene assembly or English translation during this page-layer phase.
 
 ## Exact next activity
 
-Process **scans 26–30** source-first, corresponding to printed pages **24–28**.
+Process **scans 31–35** source-first, corresponding to printed pages **29–33**.
 
 For each:
 1. inspect full native/enlarged source pixels;
