@@ -52,37 +52,45 @@ Authoritative corrections that must not be reverted:
 - scan 15 `என்றுரே / தானு` → **`என்றாரே / தானா`**;
 - scan 20 `நன்றுக` → **`நன்றாக`**;
 - scan 21 `மகனு` → **`மகனா`**;
-- scan 28 `மால்தானே` → **`மாலைதானே`**.
+- scan 28 `மால்தானே` → **`மாலைதானே`**;
+- scan 42 first-line old-type form → **`பொறாமை`** (`றா`);
+- scan 44 page-ending old-type form → **`ஆலை முதலாளி`** (`லை`).
 
-## Current state after scans 1–40
+## Current state after scans 1–45
 
 **PAGE LAYER IN PROGRESS.**
 
 - scans registered/page placeholders: **49 / 49**;
-- canonical transcriptions processed: **40 / 49**;
-- visually verified pages: **31 / 49** (`2, 6, 10–34, 37–40`);
+- canonical transcriptions processed: **45 / 49**;
+- visually verified pages: **36 / 49** (`2, 6, 10–34, 37–45`);
 - `needs-review`: **9 / 49** (`1, 3, 4, 5, 7, 8, 9, 35, 36`);
-- historical-glyph passes complete: **40 / 49**;
-- unprocessed: **9 / 49**;
+- historical-glyph passes complete: **45 / 49**;
+- unprocessed: **4 / 49**;
 - unresolved visual/source clusters: **3** (scan 35: 1; scan 36: 2);
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
-### Batch 8 controls — scans 36–40
+### Batch 9 controls — scans 41–45
 
-- scan 36 / p.34 — **NEEDS REVIEW**: scan-35 `எங்குவேன்` continues physically into `இப்போது`; `ஹரிஜன நலம்` / `சவலைப் பிள்ளை` passage transcribed; two short descriptive clusters remain visually insecure;
-- scan 37 / p.35 — **VERIFIED**: Gandhi rejects the garland and hears of the Srirangam/Ranganathar fire; `மாலையை` historical `லை` decoded; source `ஓடிவந்துவிட்டானும் / போட்டானு?` retained;
-- scan 38 / p.36 — **VERIFIED**: Gandhi rejects Desiyampillai and asks Eman to remove him; source `நாகத்திலும்` retained; page closes with buffalo push;
-- scan 39 / p.37 — **VERIFIED**: stair/place-name sequence `கோவை / ஆம்பூர் / குடந்தை / மதுரை / உடுமலை`; final `உடுமலைப் படியில்` remains physically open to scan 40;
-- scan 40 / p.38 — **VERIFIED**: continuation `கோபிப்படி / பாசிப்படி / விருதுநகர் / திருச்சி / தஞ்சை`; dream ends with source-visible `உதய சூரியன்`; wife appears with morning coffee.
+All five are **VERIFIED**.
 
-Scans 36–40 do not securely resolve scan 35's existing cluster. Keep scan 35 and scan 36 review holds explicit.
+- scan 41 / p.39 — post-dream domestic scene and election-result shock; `மாறியிருக்கிறது / அருந்தினார் / கூறினாள்` historical identities checked; physical splits retained;
+- scan 42 / p.40 — cost-of-living/tax argument; first-line apparent old-type form canonically `பொறாமை`; `அரையணா` checked; source `தீட்டி` retained; later ink near source-visible trailing `ஆள—` does not remove supported text;
+- scan 43 / p.41 — governor-expense/election-politics dialogue; source colloquialisms and `கல்யாணங் காட்சிக்கு` retained; later ink does not remove recoverable text;
+- scan 44 / p.42 — `தமிழ் வாழ்க` / obscenity-law argument; page-ending `ஆலை முதலாளி` decoded by historical `லை`; final `நிலப்பிரபு` remains physically open to scan 45;
+- scan 45 / p.43 — scan-44 continuation `ஜமீன்தார்`, election-spending and `உதயசூரியன்` dialogue; colloquial register and physical splits retained.
+
+Scans 41–45 do **not** genuinely resolve scans 35–36. Keep those three unresolved clusters explicit.
 
 Do not begin scene assembly or English translation during the page-layer phase.
 
-## Exact next activity
+## Exact next activity — final source batch
 
-Process **scans 41–45** source-first, corresponding to printed pages **39–43**.
+Process **scans 46–49** source-first.
+
+- scans 46–48 correspond to printed pages **44–46**;
+- scan 48 is the source-visible final dramatic-body page;
+- scan 49 is the back-cover advertisement for `அல்லி விழி` and must be treated as back matter, not dramatic text.
 
 For each:
 1. inspect full native/enlarged source pixels;
@@ -92,8 +100,9 @@ For each:
 5. use same-edition comparison only for glyph identity;
 6. do not infer scene numbering or repair wording from context;
 7. mark `verified` only after the complete visual + glyph gate passes;
-8. use any genuine later evidence to re-adjudicate scans 35–36 only explicitly;
-9. synchronize page-map, glyph audit, work/root READMEs, HANDOVER and NEXT prompt after the batch.
+8. re-adjudicate scans 35–36 only if genuine same-edition evidence appears, documenting it explicitly;
+9. synchronize page-map, glyph audit, work/root READMEs, HANDOVER and NEXT prompt;
+10. after scans 46–49 are processed, perform a **page-layer completion audit** before authorizing scene assembly.
 
 # CLOSED WORK SAFEGUARDS
 
