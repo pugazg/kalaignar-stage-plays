@@ -30,8 +30,6 @@ Re-resolve / attach both the controlling PDF and the user-supplied lexical witne
 
 `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`
 
-Raw identity:
-
 - SHA-256: `b0a6499ba072a7346f8c2544a8a61c2363d83a60cad5227482008043cd310ec1`;
 - size: **45,718,751 bytes**;
 - full PDF: **131 physical scans**;
@@ -39,67 +37,70 @@ Raw identity:
 
 ## Lexical witness
 
-User-supplied full-play transcription:
-
-`kaagidha_poo.md`
+User-supplied full-play transcription: `kaagidha_poo.md`.
 
 ## Locked dual-witness rule
 
 1. **Words / lexical forms come only from `kaagidha_poo.md`.**
 2. **PDF controls page/scene boundaries, paragraph and speaker structure, reading order, punctuation, brackets, headings/numbers, photographs and physical/layout evidence.**
 3. MD words may be repositioned or respaced when PDF structure establishes placement.
-4. If PDF structure contains a paragraph/stage direction/printed text for which MD supplies no lexical words, do not import those words from the PDF. Record a lexical-witness gap and use `needs-review` where the gap blocks completeness.
+4. If PDF structure contains text for which MD supplies no lexical words, do not import those words from the PDF. Record a lexical-witness gap and use `needs-review` where appropriate.
 5. No OCR/common-spelling/semantic/assistant normalization may replace MD wording.
-
-The user explicitly ordered this rule to be applied retroactively to **scans 91–101** before further new-page work.
 
 ## Durable current state
 
 - source intake: **COMPLETE**;
-- page placeholders: `works/kagithapoo/pages/0091.md`–`0131.md` = **41 / 41 represented**;
+- page placeholders: **41 / 41 represented** (`0091.md`–`0131.md`);
 - retroactive MD lexical reconciliation of **91–101: COMPLETE AND APPLIED**;
 - detailed audit: `works/kagithapoo/MD_LEXICAL_RECONCILIATION_0091_0101.md`;
-- scan 102: already completed under the same dual-witness method and preserved;
-- fully verified dual-witness pages: **20 / 41** — scans **91, 92, 94, 96, 99–114**;
+- fully verified dual-witness pages: **30 / 41** — scans **91, 92, 94, 96, 99–124**;
 - `needs-review` because MD witness is incomplete: **93, 95, 97, 98**;
-- forward processing resumed by explicit user instruction; scans **103–114** are complete;
+- forward page processing completed through **scan 124**;
+- final unprocessed page batch: **125–131**;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
-## Retroactive reconciliation outcome — scans 91–101
-
-Reconciled and fully verified under the new rule:
-
-- **91** — MD title/callout lexical forms applied; PDF controls callout placement;
-- **92** — Scene-1 wording corrected to MD; misplaced MD `ராசேந்திரன்` / `மாணவமணி` reordered to PDF structure;
-- **94** — difficult narrow Scene-6 wording replaced by MD lexical sequence, including `சீவி` and `புறநானூற்றிலே படித்திருக்கிறோம்`;
-- **96** — MD forms including `மானப்படை`, `மாணவர் உலகம்`, `இந்தி எதிர்ப்பின்`, `எழுதி வைத்துக் கொள்ளச்` applied;
-- **99** — MD wording applied and omitted `கண்:— சர்க்கார்` turn restored;
-- **100** — MD wording applied with PDF stage/speaker structure and scan boundaries preserved;
-- **101** — MD wording applied; PDF's three-way `மூவரும்` structure retained.
-
-Outstanding lexical-witness gaps:
+## Outstanding earlier lexical-witness gaps
 
 - **93** — PDF stage direction has additional words absent from MD;
 - **95** — MD omits one complete `காவேரி:` paragraph and the opening of the following `மரகதம்:` paragraph;
 - **97** — one PDF-structured parenthetical stage direction has no MD words at that location;
 - **98** — a PDF-printed personal-name caption is absent from MD.
 
-No missing lexical text has been copied from the PDF into those gaps.
+No missing lexical text has been copied from the PDF into those gaps. The user explicitly allowed forward processing to continue while they remain tracked.
 
-## Existing scan 102
+## Durable structural progress through scan 124
 
-Scan 102 was completed before the retroactive 91–101 request. Preserve it. It closes Scene 8, contains Scene 9, closes with `(திரை)`, and begins Scene 10. Its words follow the MD; PDF controls its structure/punctuation.
-
-## Exact next activity
-
-Process **scans 115–124** using the locked dual-witness rule. Preserve scans **93, 95, 97 and 98** as unresolved lexical-gap records; do not backfill their missing words from the PDF. On scan **124**, preserve the source-visible post-Scene-21 heading exactly as `காட்சி,` with no invented numeral.
-
-No scene assembly and no English translation.
+- 115 closes Scene 17 and begins Scene 18;
+- 116 closes Scene 18 and contains all of Scene 19;
+- 117–118 carry Scene 20;
+- 119 closes Scene 20 and begins `காட்சி 21.`;
+- 120–123 carry Scene 21's embedded political reading and language debate;
+- 124 closes Scene 21 and begins a new road scene under the source-visible heading **`காட்சி,`** with no numeral.
 
 ## Scene-numbering anomaly safeguard
 
-After `காட்சி 21`, scan 124 prints a new heading only as `காட்சி,` with no numeral. Scan 125 later prints `காட்சி 24.`. Do not invent `காட்சி 22` or `காட்சி 23`.
+This is now directly verified, not merely intake-level:
+
+- scan **124** prints only **`காட்சி,`** with no visible numeral;
+- scan **125** later prints **`காட்சி 24.`**.
+
+Do **not** invent `காட்சி 22` or `காட்சி 23`.
+
+## Exact next activity
+
+Process the **final page-level batch: scans 125–131**.
+
+For each scan:
+
+1. use only MD-supplied words;
+2. derive page/scene boundaries, reading order, punctuation, speaker/stage structure and visual evidence from the PDF;
+3. preserve the unnumbered scene continuation on scan 125 before the source-visible `காட்சி 24.`;
+4. preserve all source-visible later scene numbering exactly;
+5. on scan 131 preserve `(முற்றும்)` and the following boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` block according to the dual-witness rule;
+6. commit completed pages durably and synchronize page-map/README/HANDOVER/NEXT_CHAT_PROMPT after scan 131.
+
+Do not begin scene assembly or English translation without separate authorization.
 
 # CLOSED WORK SAFEGUARDS
 
