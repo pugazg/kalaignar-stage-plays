@@ -60,9 +60,9 @@ The user explicitly ordered this rule to be applied retroactively to **scans 91�
 - retroactive MD lexical reconciliation of **91–101: COMPLETE AND APPLIED**;
 - detailed audit: `works/kagithapoo/MD_LEXICAL_RECONCILIATION_0091_0101.md`;
 - scan 102: already completed under the same dual-witness method and preserved;
-- fully verified dual-witness pages: **8 / 41** — scans **91, 92, 94, 96, 99, 100, 101, 102**;
+- fully verified dual-witness pages: **20 / 41** — scans **91, 92, 94, 96, 99–114**;
 - `needs-review` because MD witness is incomplete: **93, 95, 97, 98**;
-- next new scan 103 is **BLOCKED** until those four gaps are resolved or explicitly accepted by the user;
+- forward processing resumed by explicit user instruction; scans **103–114** are complete;
 - scene assembly: **not started / not authorized**;
 - English translation: **not started / not authorized**.
 
@@ -93,14 +93,9 @@ Scan 102 was completed before the retroactive 91–101 request. Preserve it. It 
 
 ## Exact next activity
 
-Do **not** proceed to scan 103 yet.
+Process **scans 115–124** using the locked dual-witness rule. Preserve scans **93, 95, 97 and 98** as unresolved lexical-gap records; do not backfill their missing words from the PDF. On scan **124**, preserve the source-visible post-Scene-21 heading exactly as `காட்சி,` with no invented numeral.
 
-First resolve the four lexical gaps on scans **93, 95, 97 and 98**. Resolution must come from:
-
-- words supplied/authorized by the user, or
-- explicit user acceptance that the MD omission should remain represented as a gap.
-
-After those four statuses are settled, synchronize `indexes/page-map.md`, README, this handover and `NEXT_CHAT_PROMPT.md`; only then resume at scan **103** with the same MD-words / PDF-structure rule.
+No scene assembly and no English translation.
 
 ## Scene-numbering anomaly safeguard
 
