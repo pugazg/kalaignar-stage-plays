@@ -1,23 +1,28 @@
 # Page Map — காகிதப்பூ
 
-Controlling structural source: `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`.
+Controlling source: `TVA_PRL_0001638_முரசொலி_ பொங்கல் மலர்_ 1967.pdf`.
 
-Lexical witness: user-supplied `kaagidha_poo.md`.
+Primary lexical witness: user-supplied `kaagidha_poo.md`.
 
 The full periodical PDF contains **131 physical scans**. The user-selected `காகிதப்பூ` work scope is **scans 91–131 inclusive (41 scans)**. Printed pagination is not inferred.
 
-Under the current dual-witness rule, `verified` means the page has MD-controlled lexical words reconciled to PDF-controlled structure/punctuation with no unresolved MD lexical gap. `needs-review` means PDF structure exposes text for which MD does not supply a complete lexical witness.
+## Witness rule at page-layer closure
+
+- MD remains the primary lexical witness.
+- PDF controls physical page/scene boundaries, reading order, punctuation, speaker/paragraph/stage structure, headings, photographs, captions, boxed features and other physical evidence.
+- After the five genuine MD omissions were identified, the user explicitly authorized direct PDF lexical completion for **scans 93, 95, 97, 98 and 130 only**.
+- No silent normalization or inferred scene numbering is permitted.
 
 | Scan | Printed page | Section / provisional scene map | Page type | Status | Intake / verification note |
 |---:|---:|---|---|---|---|
 | 91 | — | work opener | title-artwork / staged photograph | verified | Reconciled to MD lexical witness; PDF controls flower-callout/title placement and punctuation. |
 | 92 | — | காட்சி 1 | dramatic text + photograph | verified | MD lexical forms reconciled; PDF order retains physical continuation into 93. |
-| 93 | — | காட்சி 1 / காட்சிகள் 2–5 / காட்சி 6 | dramatic text + montage photograph | needs-review | Adjudicated genuine gap: source-defined Scene-6 stage direction contains lexical material absent from MD. |
+| 93 | — | காட்சி 1 / காட்சிகள் 2–5 / காட்சி 6 | dramatic text + montage photograph | verified | Former MD gap resolved from user-authorized PDF lexical fallback: Scene-6 direction now includes `அவள் தோழி`. |
 | 94 | — | காட்சி 6 / காட்சி 7 | dramatic text + photograph | verified | Narrow Scene-6 text reconciled using MD words; PDF controls narrow-column structure. |
-| 95 | — | காட்சி 7 | dramatic text + photograph | needs-review | Adjudicated genuine gap: one complete `காவேரி:` paragraph plus opening of following `மரகதம்:` paragraph absent from MD. |
+| 95 | — | காட்சி 7 | dramatic text + photograph | verified | Former MD omissions resolved from user-authorized PDF: complete காவேரி paragraph and opening of following மரகதம் paragraph restored. |
 | 96 | — | காட்சி 7 | dramatic text + portrait | verified | MD lexical forms reconciled to PDF layout. |
-| 97 | — | காட்சி 7 | dramatic text + photograph | needs-review | Adjudicated genuine gap: one source-defined parenthetical stage direction absent from MD. |
-| 98 | — | காட்சி 7 / காட்சி 8 | dramatic text + photograph | needs-review | Adjudicated genuine gap: printed personal-name photograph caption absent from MD. |
+| 97 | — | காட்சி 7 | dramatic text + photograph | verified | Former MD gap resolved from user-authorized PDF: `(படத்திடம் போய்)` restored. |
+| 98 | — | காட்சி 7 / காட்சி 8 | dramatic text + photograph | verified | Former MD caption gap resolved from user-authorized PDF: `ஓ. எம். சுப்பிரமணியன்,` recorded separately from dramatic text. |
 | 99 | — | காட்சி 8 | dramatic text + photo montage | verified | MD lexical reconciliation complete; omitted Kannan turn restored at PDF-defined position. |
 | 100 | — | காட்சி 8 | dramatic text + photograph | verified | MD lexical forms reconciled to PDF structure, punctuation and boundaries. |
 | 101 | — | காட்சி 8 | dramatic text | verified | MD lexical reconciliation complete; PDF speaker structure retained. |
@@ -49,18 +54,18 @@ Under the current dual-witness rule, `verified` means the page has MD-controlled
 | 127 | — | காட்சி 24 | dramatic text + decorative border | verified | Continuation reconciled; edge damage distinguished from printed text. |
 | 128 | — | காட்சி 24 | dramatic text + decorative border | verified | Flower entrance and Kannan's `பாரிஜாதப்பூ` speech reconciled. |
 | 129 | — | காட்சி 24 / காட்சி 25 / காட்சி 26 | dramatic text | verified | Scene 24 closes; Scene 25 complete; Scene 26 begins. |
-| 130 | — | காட்சி 26 / காட்சி 27 | dramatic text + boxed feature | needs-review | Adjudicated genuine gap: two source-defined `குரல்:` turns plus one separate pre-gunshot `கண்:` turn absent from MD; boxed `கண்டுபிடியுங்கள்` kept separate. |
+| 130 | — | காட்சி 26 / காட்சி 27 | dramatic text + boxed feature | verified | Former MD gaps resolved from user-authorized PDF: two `குரல்:` turns and separate pre-gunshot `கண்:— அம்மா!...` restored; boxed `கண்டுபிடியுங்கள்` remains separate. |
 | 131 | — | காட்சி 27 / closure | dramatic text + cast box | verified | Scene 27 closes with `(முற்றும்)`; boxed `நாடகத்தில்—பங்கேற்பவர்கள்!` and supplied imprint words reconciled. |
 
 ## Final checkpoint
 
 - selected source pages represented: **41 / 41**;
-- page-level dual-witness processing: **41 / 41 COMPLETE**;
-- fully verified pages: **36 / 41** — scans **91, 92, 94, 96, 99–129, 131**;
-- adjudicated `needs-review` pages: **5 / 41** — scans **93, 95, 97, 98, 130**;
-- gaps recoverable from displaced MD wording: **0 / 5**;
+- page-level processing: **41 / 41 COMPLETE**;
+- fully verified pages: **41 / 41**;
+- `needs-review`: **0**;
 - unprocessed page records: **0**;
-- final page-layer consistency audit: **PASS WITH FIVE OPEN LEXICAL-WITNESS EXCEPTIONS**;
+- former genuine MD lexical gaps: **5 / 5 RESOLVED BY EXPLICIT USER-AUTHORIZED PDF LEXICAL FALLBACK**;
+- final page-layer consistency audit: **PASS**;
 - source-visible numbering anomaly preserved: scan 124 `காட்சி,` → scan 125 `காட்சி 24.`;
 - scene assembly: **not started / not authorized**;
 - translation: **not started / not authorized**.
@@ -71,4 +76,4 @@ Durable audit records:
 - `LEXICAL_GAP_ADJUDICATION.md`;
 - `PAGE_LAYER_CONSISTENCY_AUDIT.md`.
 
-No further autonomous page-level transcription can close the five exceptions under the current witness rule. The next step requires an explicit user decision to supply/authorize missing lexical wording or accept the gaps permanently. Do not begin scene assembly without authorization.
+The physical page layer is now closed at **41 / 41 verified**. Do not begin scene assembly or English translation without separate authorization.
