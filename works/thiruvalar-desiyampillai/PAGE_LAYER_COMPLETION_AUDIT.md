@@ -55,7 +55,7 @@ All four final scans pass the page-level gate:
 
 ## Historical-glyph closure
 
-The mandatory 13-family check has now been completed for every scan:
+The mandatory 13-family check has been completed for every scan:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
@@ -86,12 +86,24 @@ No global replacement was used. These corrections decode source character identi
 
 No scene numbering is inferred from dramatic context.
 
+## Post-audit structural checkpoint
+
+The required source-visible structural inventory has now been completed and reviewed in `STRUCTURAL_SCENE_INVENTORY.md`.
+
+Inventory result:
+
+- source-visible `காட்சி` / numbered scenes / acts: **0**;
+- editorial source-representation units: **7**;
+- shared-page boundaries anchored: scans **15, 20, 28, 40**;
+- body holds `7, 8, 9, 35, 36` propagated explicitly;
+- scan-47 `உதயசூரியன் கோலம்` classified as an internal descriptive/intertitle inside the final SRU, not as a source scene title.
+
 ## Audit conclusion
 
 The archival page pass is **coverage-complete** and historically glyph-checked. It is not described as fully verified because nine transparent review holds remain. This is a source-condition limitation, not permission to guess missing wording.
 
-Under `STAGE_PLAY_PROCESSING_GUIDE.md`, scene files may be assembled from visually checked page records. Therefore structural/scene inventory may proceed, but body holds on scans **7, 8, 9, 35, 36** must remain explicit in any derived assembly.
+The structural inventory is now **PASS / REVIEWED**, so Tamil source-representation assembly may proceed using its seven SRUs and exact shared-page anchors.
 
 ## Exact next activity
 
-Create a **source-visible structural / scene inventory for scans 7–48** before creating scene files. Record only headings/boundaries supported by the page records or controlling scan; do not manufacture scene numbers. Determine how the centered scan-47 `உதயசூரியன் கோலம்` heading relates to the surrounding dramatic text from source evidence alone, and carry all five body review holds forward explicitly.
+Assemble the seven Tamil SRUs defined in `STRUCTURAL_SCENE_INVENTORY.md` into the recommended descriptive `scenes/sru-*.md` files. Preserve all review/loss markers in SRU-01 and SRU-04, preserve scan-47 `உதயசூரியன் கோலம்` inside SRU-07, and perform a full assembly review before any English translation.
