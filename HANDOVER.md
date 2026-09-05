@@ -19,7 +19,7 @@ Read before further work:
 5. `works/kagithapoo/SCENE_ASSEMBLY_FINAL_REVIEW.md`;
 6. `works/kagithapoo/TRANSLATION_PLAN.md`;
 7. `works/kagithapoo/translations/en/README.md`;
-8. completed English batch reviews `BATCH_01_REVIEW.md`, `BATCH_02_REVIEW.md`, `BATCH_03_REVIEW.md`;
+8. completed English batch reviews `BATCH_01_REVIEW.md` through `BATCH_04_REVIEW.md`;
 9. relevant closed Tamil `works/kagithapoo/scenes/*.md` artifacts for the current English batch;
 10. verified page records / controlling PDF only if a genuine source-level question arises.
 
@@ -63,7 +63,7 @@ There is no Scene 22/23 artifact because the source does not print those numbers
 
 ## English translation phase
 
-**AUTHORIZED / IN PROGRESS — BATCHES 1–3 COMPLETE / PASS / LOCKED.**
+**AUTHORIZED / IN PROGRESS — BATCHES 1–4 COMPLETE / PASS / LOCKED.**
 
 Immediate drafting authority is the closed verified Tamil scene layer under `works/kagithapoo/scenes/`.
 
@@ -81,40 +81,39 @@ Durable translation records:
 - `works/kagithapoo/translations/en/README.md`;
 - `BATCH_01_REVIEW.md` — **PASS / LOCKED**;
 - `BATCH_02_REVIEW.md` — **PASS / LOCKED**;
-- `BATCH_03_REVIEW.md` — **PASS / LOCKED**.
+- `BATCH_03_REVIEW.md` — **PASS / LOCKED**;
+- `BATCH_04_REVIEW.md` — **PASS / LOCKED**.
 
 ### Completed English artifacts
 
-`translations/en/01.md`, `02-05.md`, and `06.md` through `18.md` are all **translation-reviewed / passed**.
+`translations/en/01.md`, `02-05.md`, `06.md` through `21.md`, `unnumbered-between-21-and-24.md`, and `24.md` are all **translation-reviewed / passed**.
 
 Current English status:
 
 - expected artifacts: **23**;
-- present: **15 / 23**;
-- reviewed: **15 / 23**;
-- completed batches: **3 / 5**;
+- present: **20 / 23**;
+- reviewed: **20 / 23**;
+- completed batches: **4 / 5**;
 - unresolved blocking translation issues: **0**;
 - secondary-English contamination: **0**.
 
-Batch-3 source-sensitive controls include:
+### Batch-4 source-sensitive controls
 
-- Scene 14 irregular locked office-title forms documented without Tamil correction;
-- Scene 15 `Udhagai Mandalam` / cold-wind vs corpse-wind wordplay preserved;
-- Scene 16 exact anomalous tokens `)4( الم الم اهم`, `U! U! U!`, `اهم اهم اهم`; `Desiyam Pillai`, *ainthu/ainthus*, *uyarthinai/ahrinai*, *pancha-varnam/panjam*, anomalous `The.:`, and *devangu* retained/documented;
-- Scene 17 `Navakali` and insecure animal-metaphor forms retained without outside normalization;
-- Scene 18 *paayigaiyoda*, *poorna kumbam*, and later abbreviated speaker-label variation preserved.
+- Scene 19 preserves the Yama/voter inversion and elevated mock invocation.
+- Scene 20 preserves the full chain of Congress/Hindi analogies and the final father's-blood appeal.
+- Scene 21 preserves the long Congress critique in full, the 14-language / 16-language source inconsistency, irregular `மரககம்`, and `இந்தி / மந்தி` wordplay.
+- `unnumbered-between-21-and-24.md` remains explicitly unnumbered; no Scene 22/23 is introduced; `அமுல் / Amul` wordplay is preserved.
+- Scene 24 preserves the Parijatha/paper-flower title metaphor and documents locked `சாதனுடைய`, the wealthy-name sequence, `வாய்க்கரிசி`, `பாராரூமன் றத்தில்`, `வெள்ளரட்டை`, and the syntactically insecure Marx/S. K. Patil line rather than silently normalizing them.
 
-## Exact next activity — English Batch 4
+## Exact next activity — English Batch 5
 
 Translate and Tamil→English review, in order:
 
-1. `scenes/19.md` → `translations/en/19.md`;
-2. `scenes/20.md` → `translations/en/20.md`;
-3. `scenes/21.md` → `translations/en/21.md`;
-4. `scenes/unnumbered-between-21-and-24.md` → `translations/en/unnumbered-between-21-and-24.md`;
-5. `scenes/24.md` → `translations/en/24.md`.
+1. `scenes/25.md` → `translations/en/25.md`;
+2. `scenes/26.md` → `translations/en/26.md`;
+3. `scenes/27.md` → `translations/en/27.md`.
 
-Scene 21 is comparatively large and may be split operationally if necessary, but Batch 4 remains a five-artifact fidelity-review gate.
+After Batch 5 passes, create `works/kagithapoo/translations/en/TRANSLATION_REVIEW.md` and perform the final full Tamil→English coverage/fidelity review across all **23 / 23** English artifacts. Do not declare the English layer complete/closed until that final review passes.
 
 # CLOSED WORK SAFEGUARDS
 
