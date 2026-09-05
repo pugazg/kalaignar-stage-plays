@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — திருவாளர் தேசீயம்பிள்ளை
 
-Status: **IN PROGRESS — 45 / 49 SCANS COMPLETE**
+Status: **SOURCE PASS COMPLETE — 49 / 49 SCANS CHECKED**
 
 This work-level audit implements the user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` for the 1965 second-edition scan of **திருவாளர் தேசீயம்பிள்ளை**.
 
@@ -19,111 +19,93 @@ A historical-glyph correction decodes character identity into modern Unicode. It
 
 ## Mandatory 13-family check
 
-Every scan explicitly considers:
+Every scan has now been checked for:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
 ## Established same-edition reference set
 
-Positive same-edition evidence currently supports:
+Positive same-edition evidence supports:
 
 `லை / ளை / ணா / ணை / னா / னை / றா`.
 
 Representative anchors include:
 
-- `லை`: `கலைஞர்`, `தலைகள்`, `மாலைதானே`, `விலைமதிக்க`, `மாலையை`, scan-37 `மாலையை`, scan-39/40 `உடுமலைப் / காலை`, scan-44 `ஆலை முதலாளி`;
-- `ளை`: `பிள்ளை`, `உங்களை`, `விளையும்`, scan-38 `கால்களைப்`, scan-40 `கண்களைத்`;
-- `ணா`: `கருணாநிதி`, `கல்யாண`, `ஆகாஷவாணி`, physical `சொல் / வொணா`, scan-42 `அரையணா`;
+- `லை`: `கலைஞர்`, `தலைகள்`, `மாலைதானே`, `விலைமதிக்க`, `மாலையை`, `உடுமலைப்`, `காலை`, `ஆலை முதலாளி`, scan-48 physical `மலை / யேறும்`;
+- `ளை`: `பிள்ளை`, `உங்களை`, `விளையும்`, `கால்களைப்`, `கண்களைத்`;
+- `ணா`: `கருணாநிதி`, `கல்யாண`, `ஆகாஷவாணி`, physical `சொல் / வொணா`, `அரையணா`;
 - `ணை`: scan-25 `சொரணை`;
-- `னா`: `கெட்டிக்காரர்தானா`, `உடையவர்தானா`, `மானால்`, `தானா`, `மகனா`, `உடைதானா`, `அரசனா / ஆண்டவனா`, scan-41 `அருந்தினார் / கூறினாள்`;
-- `னை`: `அவனை`, `தண்டனை`, scan-45 `என்னை`;
-- `றா`: `வண்ணமிருக்கிறார்களே`, `பார்க்கிறார்`, `நன்றாக`, `என்றாரே`, scan-41 `மாறியிருக்கிறது`, scan-42 `பொறாமை`, scan-45 `மாறிப்போச்சு`.
+- `னா`: `கெட்டிக்காரர்தானா`, `உடையவர்தானா`, `மானால்`, `தானா`, `மகனா`, `உடைதானா`, `அரசனா / ஆண்டவனா`;
+- `னை`: `அவனை`, `தண்டனை`, `என்னை`;
+- `றா`: `வண்ணமிருக்கிறார்களே`, `பார்க்கிறார்`, `நன்றாக`, `என்றாரே`, `மாறியிருக்கிறது`, `பொறாமை`, `மாறிப்போச்சு`.
 
 These references are used only for character-identity comparison. They never authorize reconstruction of physically absent text, lexical normalization, or global replacement.
 
-## Authoritative backward glyph corrections
+## Authoritative character-identity corrections
 
-The following source-pixel rechecks remain canonical:
+The following source-pixel rechecks are canonical and must not be reverted:
 
 - scan 15 `என்றுரே` → **`என்றாரே`** (`றா`);
 - scan 15 `தானு` → **`தானா`** (`னா`);
 - scan 20 `நன்றுக` → **`நன்றாக`** (`றா`);
 - scan 21 `மகனு` → **`மகனா`** (`னா`);
-- scan 28 `மால்தானே` → **`மாலைதானே`** (`லை`).
+- scan 28 `மால்தானே` → **`மாலைதானே`** (`லை`);
+- scan 42 first-line old-type form → **`பொறாமை`** (`றா`);
+- scan 44 page-ending old-type form → **`ஆலை முதலாளி`** (`லை`).
+
+Final-source enlarged rechecks also preserve exact source forms on scans 46–48:
+
+- scan 46 **`நம்ப`**, not normalized to `நம்ம`;
+- scan 46 **`தேசீயம் பிள்ளை`**;
+- scan 47 **`தேசீயம்பிள்ளை / தேசீயம் பிள்ளையின் / போட்டகோலம்`**;
+- scan 48 **`தேசீயம் பிள்ளையின்`** and physical **`மலை / யேறும்`**.
 
 ## Completed batches
 
 - **Batch 1 — scans 1–5:** full passes complete; scan 2 verified; 1, 3, 4, 5 damage-limited.
 - **Batch 2 — scans 6–10:** full passes complete; 6 and 10 verified; 7–9 damage-limited; `னை` established.
-- **Batch 3 — scans 11–15:** all verified; `றா` established; later backward glyph correction on scan 15.
+- **Batch 3 — scans 11–15:** all verified; `றா` established; later scan-15 recheck.
 - **Batch 4 — scans 16–20:** all verified; scan 20 `நன்றாக` adjudication.
 - **Batch 5 — scans 21–25:** all verified; `ணை` established from `சொரணை`.
 - **Batch 6 — scans 26–30:** all verified; `னா` established; scan 28 `மாலைதானே` correction.
-- **Batch 7 — scans 31–35:** 31–34 verified; scan 35 has one unresolved visual/glyph cluster.
-- **Batch 8 — scans 36–40:** scan 36 has two unresolved clusters; scans 37–40 verified.
+- **Batch 7 — scans 31–35:** 31–34 verified; scan 35 has one unresolved visual/source cluster.
+- **Batch 8 — scans 36–40:** scan 36 has two unresolved clusters; 37–40 verified.
+- **Batch 9 — scans 41–45:** all verified; `பொறாமை` and `ஆலை முதலாளி` explicitly adjudicated.
+- **Batch 10 — scans 46–49:** **all four verified**; final body and back-cover source pass complete.
 
-## Batch 9 — scans 41–45
-
-Full source-pixel + 13-family passes completed for all five scans. **All five are verified.**
+## Batch 10 — scans 46–49
 
 | Scan | Representative evidence | Result |
 |---:|---|---|
-| 41 | `மாறியிருக்கிறது`, `அருந்தினார்`, `கூறினாள்`, `பிள்ளையார்` | **verified** — `றா / னா / ளை` identities agree with established same-edition anchors; election-result shock/domestic dialogue fully supported |
-| 42 | first-line old-type `பொறாமை`, `அரையணா`, repeated `விலை` | **verified** — `பொறாமை` decoded by historical `றா`; `ணா / லை` supported; source `தீட்டி` retained; later ink near `ஆள—` does not remove supported text |
-| 43 | colloquial election dialogue; `கல்யாணங் காட்சிக்கு`; repeated verbal endings | **verified** — established families checked; no new correction; source colloquialisms preserved |
-| 44 | `தமிழ் வாழ்க`, `ஆலை முதலாளி`, repeated argument forms | **verified** — old-type `லை` in `ஆலை` decoded from same-edition evidence; later pale ink does not remove literary text |
-| 45 | `மாறிப்போச்சு`, `என்னை`, `உதயசூரியனுக்குத்தானே` | **verified** — established `றா / னை / னா` candidates checked; election/slogan dialogue fully supported |
+| 46 | `நம்ப`, `பிள்ளையாண்டான்`, `‘உதயசூரியனு’க் / குத்தானே`, `கலைத் / திருப்பார்களே`, `தேசீயம் பிள்ளை` | **verified** — enlarged recheck preserves source colloquial/name forms and established `லை / ளை / னை` identities |
+| 47 | `மாலைப்`, `தேசீயம்பிள்ளை`, `தேசீயம் பிள்ளையின்`, `போட்டகோலம்`, centered `உதயசூரியன் கோலம்` | **verified** — source wording/spacing and historical families checked without normalization |
+| 48 | `மலை / யேறும்`, `தேசீயம் பிள்ளையின்`, `மனைவி` | **verified** — final dramatic-body text; historical `லை` identity confirmed; no source-visible `முற்றும்` marker |
+| 49 | `க. முத்துக்கண்ணன்`, `“அல்லி விழி”`, `(கவிதை)`, `1-50`, `K. R. நாராயணன்` | **verified** — back-cover advertisement fully readable despite extensive cover wear; full 13-family pass complete |
 
-### New Batch-9 character-identity adjudications
+## Remaining review holds
 
-Two page-level readings are worth carrying forward explicitly:
-
-- scan 42 first-line apparent old-type `பொறுமை`-like shape is canonically **`பொறாமை`**, supported by the established `றா` identity and the complete glyph cluster;
-- scan 44 page-ending old-type form is canonically **`ஆலை முதலாளி`**, supported by the established `லை` identity.
-
-These are historical character-identity decodings, not semantic modernization.
-
-### Earlier review holds remain open
-
-Scans 41–45 provide no genuine same-edition evidence strong enough to resolve the existing three clusters:
-
-- scan 35: one cluster in `கொம்பு மாடெனக் … மட்டும்`;
-- scan 36: two short descriptive clusters in the `ஹரிஜன நலம்` / `சவலைப் பிள்ளை` passage.
-
-The apparent scan-35 `கொழுப்பேறி` reading remains non-canonical.
-
-## Review / damage boundary through scan 45
+The full 49-scan glyph pass does **not** convert unsupported source areas into verified text.
 
 `needs-review` pages remain:
 
 - physical-damage holds: **1, 3, 4, 5, 7, 8, 9**;
-- unresolved visual/glyph-cluster holds: **35, 36**.
+- unresolved visual/source-cluster holds: **35, 36**.
 
 Current unresolved visual/source clusters: **3** total — scan 35: 1; scan 36: 2.
 
-## Mandatory page procedure
+Later scans 37–49 do not provide genuine same-edition evidence strong enough to clear those three clusters. The apparent scan-35 `கொழுப்பேறி` reading remains non-canonical.
 
-For each remaining scan:
-
-1. inspect the whole page first for typeface, ink, damage and repeated glyph behaviour;
-2. inspect difficult clusters at enlarged/native resolution;
-3. check the full 13-family set;
-4. compare same-edition occurrences only for character identity;
-5. separate glyph identity from lexical expectation;
-6. encode only positively established historical identity in modern Unicode;
-7. preserve source spelling, grammar, vocabulary, punctuation and period spacing otherwise;
-8. if uncertainty remains, use `needs-review`; do not guess;
-9. never perform a global replacement.
-
-## Current progress
+## Final progress
 
 - scans in work: **49**;
-- full historical-glyph passes complete: **45 / 49**;
-- visually verified pages: **36 / 49** (`2, 6, 10–34, 37–45`);
+- full historical-glyph passes complete: **49 / 49**;
+- visually verified pages: **40 / 49** (`2, 6, 10–34, 37–49`);
 - `needs-review`: **9 / 49** (`1, 3, 4, 5, 7, 8, 9, 35, 36`);
 - unresolved visual/source clusters: **3**;
-- unprocessed scans: **4 / 49**.
+- unprocessed scans: **0 / 49**.
+
+The source/glyph pass is therefore **complete**, while full-page verification remains transparently limited by source condition. See `PAGE_LAYER_COMPLETION_AUDIT.md` for the completion verdict and scene-assembly gate.
 
 ## Exact next activity
 
-Process the **final source batch, scans 46–49**. Scans 46–48 are printed pp.44–46; scan 49 is the back-cover `அல்லி விழி` advertisement. Complete the full source-pixel + 13-family pass for all four, keep scans 35–36 explicit unless genuine evidence resolves them, then perform a page-layer completion audit before any scene assembly.
+Perform the **source-visible structural / scene inventory across scans 7–48**. Use page records and source-visible headings only; do not invent scene numbering or repair the five body review holds (`7, 8, 9, 35, 36`).
