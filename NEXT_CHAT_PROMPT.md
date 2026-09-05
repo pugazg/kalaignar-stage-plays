@@ -63,13 +63,15 @@ Completed / assembly-reviewed:
 - `scenes/16.md` — Scene 16, scans 110–114; `இய—` / `லாது` joined as `இயலாது`; unusual verified scan-112 MD tokens preserved exactly;
 - `scenes/17.md` — Scene 17, scans 114–115;
 - `scenes/18.md` — Scene 18, scans 115–116; verified speaker-label variation preserved;
-- `scenes/19.md` — Scene 19, scan 116.
+- `scenes/19.md` — Scene 19, scan 116;
+- `scenes/20.md` — Scene 20, scans 117–119; scan-118→119 sentence continuation joined mechanically;
+- `scenes/21.md` — Scene 21, scans 119–124; `நலத்—` / `திட்ட` joined as `நலத்திட்ட`, `ஆட்சி—` / `மொழிகளாகட்டும்` joined as `ஆட்சிமொழிகளாகட்டும்`, and the scan-123→124 sentence continuation joined without lexical normalization. Unusual verified wording remains unchanged.
 
 Tracking file: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 20** from scans **117–119**, then continue with Scene 21 unless the user requests a different batch size. Commit scene file(s), then synchronize `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt.
+Assemble and page-record-check the **unnumbered source `காட்சி,`** from verified scans **124–125**, preserving the heading exactly and assigning no Scene 22/23 number. Then continue with **Scene 24** unless the user requests a different batch size. Commit scene file(s), then synchronize `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt.
 
 English translation remains **not started / not authorized**.
 
