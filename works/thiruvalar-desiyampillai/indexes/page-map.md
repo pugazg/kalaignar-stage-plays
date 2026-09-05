@@ -20,22 +20,22 @@ All **49 physical scans** are registered. Page production is source-first; histo
 | 12 | 10 | body | dramatic text | verified | Full page verified; `கதர் உருவம்` / `தேசீயம் பிள்ளை` entry and stage direction preserved; final utterance continues to scan 13. |
 | 13 | 11 | body | dramatic text | verified | Scan-12 utterance continuation preserved without invented speaker label; `காளைமாட்டு`, `படுபாதாளச் சிறையில்`, `தண்டனை` verified. |
 | 14 | 12 | body | dramatic text | verified | Full dialogue verified; source form `இரண்டுக்கு முள்ள` retained; final `எமன்:` utterance continues after dash into scan 15. |
-| 15 | 13 | body | dramatic text | verified | Scan-14 continuation, stage direction and `ஸ்ரீ மயானம்` prose verified; historical `லை` in `தலைகள்` decoded; final `அதன்படி` continues to scan 16. |
+| 15 | 13 | body | dramatic text | verified | Scan-14 continuation, stage direction and `ஸ்ரீ மயானம்` prose verified; post-pass old-type `என்றுரே / தானு` corrected by character identity to `என்றாரே / தானா`; final `அதன்படி` continues to scan 16. |
 | 16 | 14 | body | dramatic text | verified | Full page verified; `தலைகள் / கல்யாண` glyph identities checked; source closes physically at open fragment `வறுமை வய` into scan 17. |
 | 17 | 15 | body | dramatic text | verified | Full page verified; begins source-visibly `வில் பொறுக்கப்பட்டவை!`; child-mark/research and women-with-cups sequence retained; scan16→17 wording is not editorially repaired; `லை / ளை` checked. |
 | 18 | 16 | body | dramatic text | verified | Full page verified; blood-drink sequence and punishment passage; source `தூத்துக் குடிச்சாறு` retained; `னை / லை / ளை` checked. |
 | 19 | 17 | body | dramatic text | verified | Full page verified; `ஆகாஷவாணி` entrance/song and embrace sequence; `ணா / றா / ளை` checked; source physical line splits retained. |
 | 20 | 18 | body | dramatic text | verified | Full page verified; apparent old-type `நன்றுக` rechecked and decoded as historical `றா` identity `நன்றாக`; `“வரி”` discussion and start of `எமன் :` interview retained; interview continues to scan 21. |
-| 21 | 19 | body | dramatic text | verified | Interview continuation verified; `ஹியூம்`, source `மகனு`, and `கீரிப்பிள்ளை / தென்னம்பிள்ளை / அணில்பிள்ளை` wordplay retained; repeated `ளை` checked. |
+| 21 | 19 | body | dramatic text | verified | Interview continuation verified; `ஹியூம்`; old-type `மகனு` decoded canonically as `மகனா` (`னா`); `கீரிப்பிள்ளை / தென்னம்பிள்ளை / அணில்பிள்ளை` wordplay retained. |
 | 22 | 20 | body | dramatic text | verified | `பிள்ளை`/parrot/rationality dialogue verified; source `செத்துவிட்டமா` retained; final `இந்த` remains open to scan 23; `ளை / லை` checked. |
 | 23 | 21 | body | dramatic text | verified | Scan-22 continuation and tax dialogue verified; physical splits `பூர் / வோத்திரத்தையும்`, `இந் / நாட்டு`, `சொல் / லும்` retained; `றா / லை` checked. |
 | 24 | 22 | body | dramatic text | verified | Tax-on-decaying-goods/corpses/punishment dialogue verified; final `பூலோ` remains open to scan 25; `னை` and other candidate families checked. |
 | 25 | 23 | body | dramatic text | verified | Scan-24 continuation and election/independents/tax dialogue verified; source `பெறுதவர்களா` retained; historical `ணை` in `சொரணை` established; final physical `வரி / களை` split retained. |
-| 26 | 24 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 27 | 25 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 28 | 26 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 29 | 27 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 30 | 28 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
+| 26 | 24 | body | dramatic text | verified | `ஐந்தாண்டுத் திட்டம்` interview verified; repeated old-type `தானு` shapes decode as `தானா` in `கெட்டிக்காரர்தானா / உடையவர்தானா`; final `ஆளைப் பார்த்தே` continues to scan 27. |
+| 27 | 25 | body | dramatic text | verified | Opening old-type appearance decoded as `மானால்` (`னா`); `ஊழல்` / ஐந்தாண்டுத் திட்ட dialogue verified; scan26→27 boundary preserved physically. |
+| 28 | 26 | body | dramatic text | verified | Gandhi-request and travel-to-flower-shops sequence verified; apparent `மால்தானே` decoded as historical `லை` identity `மாலைதானே`; no scene heading inferred. |
+| 29 | 27 | body | dramatic text | verified | Flower-shop/spirits narrative verified; physical splits `மந்திரி / கள்`, `படிக்கட்டு / கள்`, `நவரத் / தினங்கள்` retained; page closes with `“நந்தா! நந்தா!!”`. |
+| 30 | 28 | body | dramatic text | verified | Nandan entrance/embrace/fainting sequence verified; full 13-family pass complete; physical splits including `கவர்ச்சியு / மான`, `அறி / முகப்படுத்திவைத்தான்`, `வாலிப / னய்யா`, `கொடுத் / தான்` retained. |
 | 31 | 29 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
 | 32 | 30 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
 | 33 | 31 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
@@ -60,14 +60,14 @@ All **49 physical scans** are registered. Page production is source-first; histo
 
 - scans registered: **49 / 49**;
 - page placeholders: **49 / 49**;
-- canonical page transcriptions processed: **25 / 49**;
-- visually verified page records: **18 / 49** (`2, 6, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25`);
+- canonical page transcriptions processed: **30 / 49**;
+- visually verified page records: **23 / 49** (`2, 6, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30`);
 - `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
-- historical-glyph passes complete: **25 / 49**;
-- unprocessed page records: **24 / 49**;
+- historical-glyph passes complete: **30 / 49**;
+- unprocessed page records: **19 / 49**;
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
 Printed-page policy: scans **8–48** visibly carry printed pages **6–46**. Scan 7 is the body opener immediately before printed p.6, but its own numeral is not safely visible, so no printed page number is inferred.
 
-Exact next activity: transcribe and historically verify **scans 26–30** (printed pages **24–28**) without inferring scene numbering or repairing source text from context.
+Exact next activity: transcribe and historically verify **scans 31–35** (printed pages **29–33**) without inferring scene numbering or repairing source text from context.
