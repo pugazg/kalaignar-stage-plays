@@ -73,7 +73,7 @@ source_filename: "TVA_BOK_0064118_திருவாளர்_தேசீயம
 
 என்னது? என்னது?
 
-ஆமாம்-நம்ம பிள்ளையாண்டான், ‘உதயசூரியனு’க் குத்தானே வேலை செய்கிறான்.
+ஆமாம்-நம்ப பிள்ளையாண்டான், ‘உதயசூரியனு’க் குத்தானே வேலை செய்கிறான்.
 
 அய்யய்யோ! குடும்பமே என்னை எதிர்க்கிறதா! நேற்று நடத்திய ஒரு கூட்டத்திலே அந்தப் பயல்கள் இதுபோல பல குடும்பங்களைக் கலைத்திருப்பார்களே—சரி, சரி! இப்போதே போய் இன்று காங்கிரஸ் கூட்டத்துக்கு ஏற்பாடு செய்கிறேன்!
 
@@ -81,7 +81,7 @@ source_filename: "TVA_BOK_0064118_திருவாளர்_தேசீயம
 
 பேசுவதா! பேச்சு எதற்காக! அந்தத் தி. மு. க பசங்களை மனமாறத் திட்டித் தீர்த்தால் போதும்! இரண்டு பேச்சாளர்! நாலு குண்டர்கள்! இன்றைக்குப் பார்த்து விடுகிறேன் ஒரு கை!
 
-—என்றவாறு, தேசியம் பிள்ளை பரபரப்பாக எழுந்து வெளியே புறப்பட்டார். அவரது மனைவி, கணவனின் ஆத்திரத்தைப் பார்த்துக் கேலியாகச் சிரித்துக் கொண்டாள்.
+—என்றவாறு, தேசீயம் பிள்ளை பரபரப்பாக எழுந்து வெளியே புறப்பட்டார். அவரது மனைவி, கணவனின் ஆத்திரத்தைப் பார்த்துக் கேலியாகச் சிரித்துக் கொண்டாள்.
 
 ## Assembly provenance
 
@@ -89,5 +89,5 @@ source_filename: "TVA_BOK_0064118_திருவாளர்_தேசீயம
 - source has no scene number; `SRU-06` is an editorial repository identifier only;
 - all contributing source text is from verified page material;
 - scan 44→45 continuation `நிலப்பிரபு / ஜமீன்தார்-இப்படி...` is joined mechanically;
-- scan-46 source colloquial/name forms including `நம்ப`, `‘உதயசூரியனு’க் / குத்தானே`, and `தேசீயம் பிள்ளை`-family usage are preserved as supported by the page layer;
+- scan-46 enlarged source recheck controls `நம்ப`, `‘உதயசூரியனு’க் / குத்தானே`, and `தேசீயம் பிள்ளை`; these exact source forms are preserved;
 - wording, punctuation, political slogans and colloquial register were not normalized.
