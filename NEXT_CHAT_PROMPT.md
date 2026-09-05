@@ -43,12 +43,13 @@ Current same-edition references:
 - `லை` from `கலைஞர்`, `தலையை`, `தலைமை`, `தலைகள்`, `தலைகுனிந்தவாறு`;
 - `ளை` from `பிள்ளை`, `உங்களை`, `காளைமாட்டு`, `விளையும்`, `கண்களை`;
 - `ணா` from `கருணாநிதி`, `கல்யாண`, `ராணுவத்`, `ஆகாஷவாணி`;
+- `ணை` from scan-25 `சொரணை`;
 - `னை` from `அவனை`, `தண்டனை`;
-- `றா` from scan-11 `வண்ணமிருக்கிறார்களே`, reinforced by `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார் / பூசினாற்`.
+- `றா` from scan-11 `வண்ணமிருக்கிறார்களே`, reinforced by `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார் / பூசினாற்`; scan-20 apparent `நன்றுக` is canonically `நன்றாக` after glyph recheck.
 
 Use them only for character-identity comparison. Never use them or context to reconstruct physical paper loss or regularize source wording.
 
-## Completed scans 1–20
+## Completed scans 1–25
 
 Batch 1:
 - `0001.md` — `needs-review`
@@ -68,24 +69,28 @@ Batch 3 — **all verified**:
 - `0011.md` through `0015.md` / printed pp.9–13.
 
 Batch 4 — **all verified**:
-- `0016.md` / printed p.14 — final physical `வறுமை வய` left open at the scan boundary;
-- `0017.md` / printed p.15 — begins `வில் பொறுக்கப்பட்டவை!`; no silent scan16→17 repair;
-- `0018.md` / printed p.16 — `தூத்துக் குடிச்சாறு` and blood-drink/punishment sequence retained;
-- `0019.md` / printed p.17 — `ஆகாஷவாணி` song/embrace sequence and source physical word splits preserved;
-- `0020.md` / printed p.18 — source `நன்றுக`, `“வரி”` passage and beginning `எமன் :` interview verified; interview continues to scan 21.
+- `0016.md` through `0020.md` / printed pp.14–18.
+- Important correction: scan 20's apparent old-type `நன்றுக` was rechecked under the mandatory glyph guide and canonically decoded as **`நன்றாக`** (`றா` identity). Do not restore the superseded apparent-shape reading.
+
+Batch 5 — **all verified**:
+- `0021.md` / printed p.19 — interview continuation; `ஹியூம்`, source `மகனு`, and `கீரிப்பிள்ளை / தென்னம்பிள்ளை / அணில்பிள்ளை` wordplay retained;
+- `0022.md` / printed p.20 — source `செத்துவிட்டமா`; final `இந்த` physically continues to scan 23;
+- `0023.md` / printed p.21 — tax dialogue; physical splits `பூர் / வோத்திரத்தையும்`, `இந் / நாட்டு`, `சொல் / லும்` retained;
+- `0024.md` / printed p.22 — final `பூலோ` remains open to scan 25;
+- `0025.md` / printed p.23 — continuation/election/tax dialogue; source `பெறுதவர்களா?` retained; historical `ணை` established from `சொரணை`; physical `வரி / களை` retained.
 
 Current metrics:
 
-- canonical page transcriptions processed: **20 / 49**;
-- visually verified: **13 / 49**;
+- canonical page transcriptions processed: **25 / 49**;
+- visually verified: **18 / 49**;
 - `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
-- historical-glyph passes: **20 / 49**;
-- unprocessed: **29 / 49**;
+- historical-glyph passes: **25 / 49**;
+- unprocessed: **24 / 49**;
 - English translation: **not authorized / not started**.
 
-## Exact next activity — scans 21–25
+## Exact next activity — scans 26–30
 
-Process scans **21, 22, 23, 24, 25** in order. These visibly carry printed pages **19–23**.
+Process scans **26, 27, 28, 29, 30** in order. These visibly correspond to printed pages **24–28**.
 
 For each page:
 
