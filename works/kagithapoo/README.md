@@ -4,7 +4,7 @@ Archive slug: `kagithapoo`.
 
 ## Current status
 
-**PAGE LAYER COMPLETE / CLOSED — 41 / 41 scans verified.**
+**PAGE LAYER COMPLETE / CLOSED — 41 / 41 scans verified. SCENE ASSEMBLY AUTHORIZED / IN PROGRESS.**
 
 Controlling PDF:
 
@@ -20,22 +20,25 @@ Primary lexical witness:
 - verified: **41 / 41**;
 - `needs-review`: **0**;
 - unprocessed pages: **0**;
-- scene assembly: **not started / not authorized**;
+- scene assembly: **AUTHORIZED / IN PROGRESS**;
+- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, and **Scene 6**;
 - English translation: **not started / not authorized**.
 
-## Durable audits
+## Durable audits / assembly tracking
 
 - `MD_LEXICAL_RECONCILIATION_0091_0101.md` — historical MD reconciliation record for scans 91–101, with postscript recording later PDF-authorized closure of the four early gaps.
 - `LEXICAL_GAP_ADJUDICATION.md` — investigation and final resolution of the five genuine MD omissions.
 - `PAGE_LAYER_CONSISTENCY_AUDIT.md` — final 91–131 page-layer audit: **PASS**.
+- `SCENE_ASSEMBLY_PROGRESS.md` — current scene inventory, source spans and assembly checkpoint.
 
-## Witness policy at closure
+## Witness policy at closure / assembly
 
 1. `kaagidha_poo.md` remains the **primary lexical witness**.
 2. The PDF controls page/scene boundaries, reading order, punctuation, speaker/paragraph/stage structure, headings/numbers, photographs, captions, boxed features and other physical evidence.
 3. MD wording may be repositioned/respaced only when PDF structure proves placement.
 4. After full-MD adjudication confirmed five genuine omissions, the user explicitly authorized the controlling PDF as a **lexical fallback only for those five resolved gaps** on scans **93, 95, 97, 98 and 130**.
-5. No silent normalization, inferred wording or invented scene numbering is permitted.
+5. Scene files are assembled only from verified page records. Mechanical physical-page line breaks may be removed, but wording and source structure must not be silently normalized.
+6. No inferred wording or invented scene numbering is permitted.
 
 ## Former lexical gaps — all resolved
 
@@ -45,7 +48,11 @@ Primary lexical witness:
 - **98** — restored the printed photograph caption `ஓ. எம். சுப்பிரமணியன்,` separately from dramatic reading order.
 - **130** — restored two missing `குரல்:` turns plus the separate pre-gunshot `கண்:— அம்மா!...` turn.
 
-All five were inserted only after the user's explicit instruction to update them from the PDF.
+## First scene-assembly batch
+
+- `scenes/01.md` — Scene 1 assembled from scans 92–93 and assembly-reviewed.
+- `scenes/02-05.md` — preserves the source's collective `காட்சிகள்: 2, 3, 4, 5.` block. The source does not print separate dialogue bodies for these four embedded scenes; nothing was invented.
+- `scenes/06.md` — Scene 6 assembled from scans 93–94 and assembly-reviewed.
 
 ## Structural safeguards
 
@@ -64,6 +71,6 @@ All five were inserted only after the user's explicit instruction to update them
 
 ## Exact next activity
 
-No further page-level transcription or verification remains.
+Assemble and page-record-check **Scene 7** from verified scans **94–98**, retaining the PDF-authorized fallback material already durably present in pages 95, 97 and 98.
 
-**Do not begin scene assembly or English translation unless separately authorized by the user.**
+Do **not** begin English translation until separately authorized.
