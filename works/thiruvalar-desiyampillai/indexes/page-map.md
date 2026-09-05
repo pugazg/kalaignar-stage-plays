@@ -42,15 +42,15 @@ All **49 physical scans** are registered. Page production is source-first; histo
 | 34 | 32 | body | dramatic text | verified | Scan-33 continuation and Gandhi critique verified. |
 | 35 | 33 | body | dramatic text | needs-review | One short cluster in `கொம்பு மாடெனக் … மட்டும்` remains unresolved; final `எங்குவேன்` continues to scan 36. |
 | 36 | 34 | body | dramatic text | needs-review | Page transcribed and full 13-family pass complete; two short descriptive clusters in the `ஹரிஜன நலம்` / `சவலைப் பிள்ளை` imagery remain visually insecure; scan-35 `எங்குவேன்` continues physically into opening `இப்போது`. |
-| 37 | 35 | body | dramatic text | verified | Gandhi rejects Desiyampillai's garland and learns of the Srirangam/Ranganathar fire; source colloquialisms `ஓடிவந்துவிட்டானும் / போட்டானு?` retained; `மாலையை` historical `லை` decoded. |
+| 37 | 35 | body | dramatic text | verified | Gandhi rejects Desiyampillai's garland and learns of the Srirangam/Ranganathar fire; source colloquialisms retained; `மாலையை` historical `லை` decoded. |
 | 38 | 36 | body | dramatic text | verified | Gandhi refuses Desiyampillai and asks Eman to take him away; source `நாகத்திலும்` retained; page closes with buffalo push. |
 | 39 | 37 | body | dramatic text | verified | Stair-fall place-name sequence `கோவை / ஆம்பூர் / குடந்தை / மதுரை / உடுமலை` verified; final `உடுமலைப் படியில்` remains open to scan 40. |
 | 40 | 38 | body | dramatic text | verified | Stair-fall sequence continues through `கோபிப்படி / பாசிப்படி / விருதுநகர் / திருச்சி / தஞ்சை`; dream breaks with source-visible `உதய சூரியன்`; wife appears with morning coffee. |
-| 41 | 39 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 42 | 40 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 43 | 41 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 44 | 42 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
-| 45 | 43 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
+| 41 | 39 | body | dramatic text | verified | Post-dream domestic scene and election-result shock verified; historical `றா / னா` in `மாறியிருக்கிறது / அருந்தினார் / கூறினாள்` decoded; source physical splits retained. |
+| 42 | 40 | body | dramatic text | verified | Cost-of-living/tax argument verified; first-line old-type form decoded canonically as `பொறாமை` (`றா`); `அரையணா` and source `தீட்டி` retained; later ink near trailing `ஆள—` does not remove supported text. |
+| 43 | 41 | body | dramatic text | verified | Governor-expense/election-politics dialogue verified; colloquial forms and source `கல்யாணங் காட்சிக்கு` retained; later ink stroke does not remove recoverable text. |
+| 44 | 42 | body | dramatic text | verified | `தமிழ் வாழ்க` / obscenity-law argument verified; historical `லை` in page-ending `ஆலை முதலாளி` decoded; final `நிலப்பிரபு` continues to scan 45. |
+| 45 | 43 | body | dramatic text | verified | Scan-44 continuation through `ஜமீன்தார்`; election-spending and `உதயசூரியன்` dialogue verified; colloquial register and physical splits retained. |
 | 46 | 44 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
 | 47 | 45 | body | dramatic text | not-started | Historical-glyph + full visual transcription pending. |
 | 48 | 46 | body | dramatic text / close | not-started | Final body page; ink marks/paper wear present; transcription pending. |
@@ -60,15 +60,15 @@ All **49 physical scans** are registered. Page production is source-first; histo
 
 - scans registered: **49 / 49**;
 - page placeholders: **49 / 49**;
-- canonical page transcriptions processed: **40 / 49**;
-- visually verified page records: **31 / 49** (`2, 6, 10–34, 37–40`);
+- canonical page transcriptions processed: **45 / 49**;
+- visually verified page records: **36 / 49** (`2, 6, 10–34, 37–45`);
 - `needs-review`: **9 / 49** (`1, 3, 4, 5, 7, 8, 9, 35, 36`);
-- historical-glyph passes complete: **40 / 49**;
+- historical-glyph passes complete: **45 / 49**;
 - unresolved visual/source clusters: **3** (scan 35: 1; scan 36: 2);
-- unprocessed page records: **9 / 49**;
+- unprocessed page records: **4 / 49**;
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
 Printed-page policy: scans **8–48** visibly carry printed pages **6–46**. Scan 7 is the body opener immediately before printed p.6, but its own numeral is not safely visible, so no printed page number is inferred.
 
-Exact next activity: transcribe and historically verify **scans 41–45** (printed pages **39–43**) without inferring scene numbering or repairing source text from context. Keep scans 35 and 36 review holds open unless later same-edition evidence genuinely resolves them.
+Exact next activity: process the **final source batch, scans 46–49** — scans 46–48 are printed pages **44–46** and scan 49 is the back-cover `அல்லி விழி` advertisement. Apply the same source-first + full historical-glyph gate, keep scans 35–36 review holds open unless genuine same-edition evidence resolves them, and do not begin scene assembly before the full page layer is audited.
