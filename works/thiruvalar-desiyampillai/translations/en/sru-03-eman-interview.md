@@ -5,8 +5,8 @@ editorial_label: "Eman–Desiyampillai interview"
 work: "thiruvalar-desiyampillai"
 source_sru: "../../scenes/sru-03-eman-interview.md"
 source_scan_pages: [20, 21, 22, 23, 24, 25, 26, 27, 28]
-status: "translation-draft"
-translation_review: "pending"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
 ---
@@ -15,7 +15,7 @@ The interview between Yama and Desiyampillai begins.
 
 Yama : What is your father's name?
 
-Desiyam Pillai : Don't you know? The famous English gentleman Hume is my father!
+Desiyam Pillai : Don't you know? The famous English lord Hume is my father!
 
 Yama : You are an Englishman's son? Then how did you get the name Desiyam Pillai?
 
@@ -91,7 +91,7 @@ Desi : I am, of course! Haven't I myself come here now?
 
 Yama : On what things in particular can a tax be imposed?
 
-Desi : Taxing things that decay is the finest policy!
+Desi : Taxing things that decay is the best thing to do!
 
 Yama : What things decay in our country? (thinking) Oh! Corpses! Corpses! We can tax them!
 
@@ -131,9 +131,9 @@ Desi : He is certainly a great magician! His name alone sounds frightening, but 
 
 He never eats anything by the thousands or the hundreds. Everything he stuffs into his stomach is counted only in crores. Since he is the court magician in our realm, the contagious disease called corruption spreads everywhere; apart from that, there is no benefit at all. I strongly recommend that you kindly bring him here!
 
-Yama : A man afflicted with the disease of corruption? Good heavens, how did I not know this until now! Rather than reduce congestion through taxes, we could reduce the population by a considerable amount through the disease of corruption...! Excellent! Excellent! I shall send someone for him tomorrow itself!
+Yama : A man afflicted with the disease of corruption? Good heavens, how did I not know this until now! Rather than reduce congestion through taxes, we could reduce crowding by a considerable amount through the disease of corruption...! Excellent! Excellent! I shall send someone for him tomorrow itself!
 
-Desi : Do send someone! Even if one of them comes, there are children lined up in his family to look after the town otherwise. There are plenty of second, third, and so on—little Five-Year-Plan magicians!
+Desi : Do send someone! Even if he comes, there are children lined up in his family to look after things back home. There are plenty of second, third, and so on—little Five-Year-Plan magicians!
 
 Yama : Let today's interview come to a pleasant end—if you have any needs, you may tell me.
 
@@ -149,7 +149,7 @@ Desi : A garland, right...we can buy one...
 
 ## Translation notes
 
-- Drafted only from the reviewed Tamil SRU; no OCR, PDF substitute, later edition, web text, or secondary English witness was used.
+- Drafted and reviewed only against the complete reviewed Tamil SRU; no OCR, PDF substitute, later edition, web text, or secondary English witness was used.
 - The repeated *pillai* sequence is central wordplay. `keeripillai`, `thennampillai`, `anilpillai`, and `kilippillai` are therefore transliterated in the relevant setup lines rather than flattened into unrelated English nouns; where the source immediately supplies the referent, the English follows it.
 - *uyarthinai* / *ahrinai* are retained because the joke depends on Tamil grammatical classification; the surrounding English supplies the source's rational/non-rational contrast without replacing the terms.
 - *pancha-varnam* / *pancham* is retained to preserve the sound-based five-colours/famine joke.
@@ -157,6 +157,7 @@ Desi : A garland, right...we can buy one...
 - The Kumbakonam reference is retained without explanatory reconstruction because the SRU itself gives no further gloss.
 - The proverbial impossible objects—fig flowers, horses' horns, and roosters' eggs—are translated literally so the tax-exemption joke remains visible.
 - The Five-Year Plan is translated as a personified “great magician” throughout. *devangu* is retained as the source comparison rather than replaced with an uncertain animal identification.
+- The assembled Tamil contains the source-supported but syntactically unusual continuation `ஆளைப் பார்த்தே மானால்`; the English renders only the transparent dramatic sense of that clause and does not use it to revise the Tamil archival layer.
 - `crores` is retained as the source scale term.
 - `Nagaloka`, `Yamaloka`, and `Heaven` preserve the source's mythological/political register.
 - The source's closing `மாலைதானே...வாங்கிக் கொள்ளலாம்...` is rendered conservatively as “A garland, right...we can buy one...” and remains the final line of this SRU; the following travel prose belongs to SRU-04.
