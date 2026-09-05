@@ -18,8 +18,9 @@ Read before further work:
 6. `works/thiruvalar-desiyampillai/indexes/page-map.md`
 7. `works/thiruvalar-desiyampillai/HISTORICAL_GLYPH_AUDIT.md`
 8. `works/thiruvalar-desiyampillai/PAGE_LAYER_COMPLETION_AUDIT.md`
-9. page records `works/thiruvalar-desiyampillai/pages/0007.md` through `0048.md` for structural inventory
-10. controlling PDF only when a new page-level visual adjudication is required
+9. `works/thiruvalar-desiyampillai/STRUCTURAL_SCENE_INVENTORY.md`
+10. relevant page records for each SRU being assembled
+11. controlling PDF only if a new page-level visual adjudication is required
 
 The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` remains mandatory methodology, not a lexical first-pass witness.
 
@@ -42,14 +43,11 @@ The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` remains mandat
 - visually verified: **40 / 49** (`2, 6, 10–34, 37–49`);
 - `needs-review`: **9 / 49** (`1, 3, 4, 5, 7, 8, 9, 35, 36`);
 - unprocessed: **0**;
-- unresolved visual/source clusters: **3** (scan 35: 1; scan 36: 2);
-- structural / scene inventory: **not started — exact next activity**;
-- scene assembly: **not started**;
-- English translation: **not authorized / not started**.
+- unresolved visual/source clusters: **3** (scan 35: 1; scan 36: 2).
 
 Completion audit: `works/thiruvalar-desiyampillai/PAGE_LAYER_COMPLETION_AUDIT.md`.
 
-Audit verdict: **coverage PASS but not 49/49 verified**. Scene/structural work may proceed from the visually checked records only if all loss/unresolved markers are carried forward without repair.
+Audit verdict: **coverage PASS but not 49/49 verified**. Scene/assembly work may proceed only if every loss/unresolved marker is preserved.
 
 ## Historical Tamil glyph checkpoint
 
@@ -69,45 +67,65 @@ Authoritative source-pixel decisions — do not revert:
 - scan 28 `மால்தானே` → `மாலைதானே`;
 - scan 42 → `பொறாமை`;
 - scan 44 → `ஆலை முதலாளி`;
-- scan 46 source colloquial **`நம்ப`**, not `நம்ம`;
-- scans 46–48 source work/name spelling **`தேசீயம்`**;
-- scan 47 source **`போட்டகோலம்`**;
-- scan 48 physical **`மலை / யேறும்`**.
+- scan 46 source colloquial `நம்ப`, not `நம்ம`;
+- scans 46–48 source work/name spelling `தேசீயம்`;
+- scan 47 source `போட்டகோலம்`;
+- scan 48 physical `மலை / யேறும்`.
 
-## Final source batch — complete
+## Structural / scene inventory checkpoint
 
-- `0046.md` / p.44 — **verified**;
-- `0047.md` / p.45 — **verified**, including centered source-visible heading `உதயசூரியன் கோலம்`;
-- `0048.md` / p.46 — **verified**, final dramatic-body page; no source-visible `முற்றும்` marker;
-- `0049.md` / back cover — **verified**, separate `அல்லி விழி` advertisement.
+`works/thiruvalar-desiyampillai/STRUCTURAL_SCENE_INVENTORY.md` is **PASS / REVIEWED**.
+
+Findings:
+
+- dramatic scans inventoried: **42 / 42** (`7–48`);
+- source-visible `காட்சி`, numbered scenes, or acts: **0**;
+- editorial source-representation units: **7**;
+- shared-page boundaries explicitly anchored on scans **15, 20, 28, 40**;
+- scan-47 centered `உதயசூரியன் கோலம்` is an **internal descriptive/intertitle in SRU-07**, not a source scene title;
+- scan-48 has no printed `முற்றும்` marker.
+
+The SRU numbers are repository/editorial identifiers only. They must never be described as source scene numbers.
 
 ## Review holds that must remain explicit
 
 Front matter:
-- `1, 3, 4, 5` — physical loss/abrasion.
+- `1, 3, 4, 5` — physical loss/abrasion; not part of scenes.
 
 Dramatic body:
 - `7, 8, 9` — physical paper-loss gaps;
-- `35` — one unresolved cluster in `கொம்பு மாடெனக் … மட்டும்`;
-- `36` — two unresolved clusters in the `ஹரிஜன நலம்` / `சவலைப் பிள்ளை` passage.
+- `35` — one `[unresolved glyph cluster]` in `கொம்பு மாடெனக் … மட்டும்`;
+- `36` — two `[unresolved descriptive cluster]` markers in the `ஹரிஜன நலம்` / `சவலைப் பிள்ளை` passage.
 
-Do not reconstruct any of these from context, OCR, lexical expectation, or another edition. Any eventual scene including body holds `7, 8, 9, 35, 36` must preserve explicit loss/unresolved markers and cannot claim all contributing pages are verified.
+Do not reconstruct any of these from context, OCR, lexical expectation, or another edition.
 
-## Exact next activity — source-visible structural / scene inventory
+## Exact next activity — Tamil scene/source-representation assembly
 
-Do **not** create scene files immediately. First create a durable structural inventory across scans **7–48**.
+Create these seven files in source order:
 
-1. read the page records in source order;
-2. identify every source-visible `காட்சி`, number, centered heading, stage/prose transition, or other printed structural marker;
-3. do not infer scene numbers from plot/context;
-4. determine the source-supported role of scan-47 centered **`உதயசூரியன் கோலம்`**;
-5. record defensible page spans / structural units with provenance;
-6. explicitly flag units touching scans `7, 8, 9, 35, 36` as containing unresolved/lost source text;
-7. create a durable inventory document (recommended `STRUCTURAL_SCENE_INVENTORY.md`);
-8. update page/work tracking and handover with the inventory result;
-9. only then decide the exact `scenes/*.md` assembly mapping.
+1. `works/thiruvalar-desiyampillai/scenes/sru-01-yama-court.md`
+2. `works/thiruvalar-desiyampillai/scenes/sru-02-guesthouse.md`
+3. `works/thiruvalar-desiyampillai/scenes/sru-03-eman-interview.md`
+4. `works/thiruvalar-desiyampillai/scenes/sru-04-gandhi-journey.md`
+5. `works/thiruvalar-desiyampillai/scenes/sru-05-stairfall-dream-exit.md`
+6. `works/thiruvalar-desiyampillai/scenes/sru-06-domestic-election-argument.md`
+7. `works/thiruvalar-desiyampillai/scenes/sru-07-udayasuriyan-kolam-close.md`
 
-Do not begin English translation.
+Assembly controls:
+
+- assemble only from `pages/0007.md` through `pages/0048.md`;
+- use `source_scene_number: null` and an explicit `structural_unit: "SRU-0N"` field;
+- do not use `scene: N` in a way that implies source numbering;
+- join only proven mechanical page/line breaks;
+- do not normalize vocabulary, colloquial speech, speaker labels, punctuation, political slogans, or historical-glyph decisions;
+- SRU-01 must preserve every `[paper loss]` marker and set `assembled_from_verified_pages: false`;
+- SRU-04 must preserve scan-35 `[unresolved glyph cluster]` and both scan-36 `[unresolved descriptive cluster]` markers and set `assembled_from_verified_pages: false`;
+- SRU-02, SRU-03, SRU-05, SRU-06, SRU-07 may set `assembled_from_verified_pages: true` after clean assembly;
+- preserve scan-47 `உதயசூரியன் கோலம்` as a standalone internal source line inside SRU-07;
+- do not add source `காட்சி` numbers, act divisions, curtain directions, or `முற்றும்`;
+- use the exact shared-page anchors from `STRUCTURAL_SCENE_INVENTORY.md` at scans 15, 20, 28 and 40 so no text is duplicated or omitted.
+
+After creating all seven files, perform a **full Tamil assembly review** against the page records. Only after that review passes may the Tamil assembly layer be called complete. Do not begin English translation yet.
 
 ## Closed-work safeguards
 
