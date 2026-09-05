@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil 5/49 processed; 1 verified; 4 needs-review; historical-glyph pass 5/49** |
+| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil 10/49 processed; 3 verified; 7 needs-review; historical-glyph pass 10/49** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archive/assembly PASS; independent English PASS; 2009 One Act Plays witness N/A** |
@@ -31,18 +31,18 @@ Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீய
 - scans 8–48 visibly carry printed pages **6–46**;
 - scan 49: back-cover advertisement;
 - page placeholders: **49 / 49**;
-- Tamil page records processed: **5 / 49**;
-- visually verified: **1 / 49**;
-- `needs-review`: **4 / 49**;
-- historical-glyph passes: **5 / 49**;
+- Tamil page records processed: **10 / 49**;
+- visually verified: **3 / 49**;
+- `needs-review`: **7 / 49**;
+- historical-glyph passes: **10 / 49**;
 - structural/scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
-The user supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` for verification. It is a methodological glyph-decoding guide, not a lexical transcription witness. Same-edition reference identities established in Batch 1 include `லை` (`கலைஞர்`), `ளை` (`பிள்ளை`) and `ணா` (`கருணாநிதி`).
+The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is a methodological glyph-decoding guide, not a lexical transcription witness. Same-edition reference identities currently include `லை`, `ளை`, `ணா`, and `னை`.
 
-Physical loss remains controlling: missing author/price/publisher-note matter is not reconstructed even when context appears obvious.
+Physical loss remains controlling: missing characters are not reconstructed even when nearby wording or repetition appears to make the intended word obvious.
 
-**Exact next activity:** source-first transcription + historical-glyph verification of **scans 6–10**.
+**Exact next activity:** source-first transcription + historical-glyph verification of **scans 11–15** (printed pages **9–13**).
 
 ## Closed காகிதப்பூ checkpoint
 
