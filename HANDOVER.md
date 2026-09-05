@@ -58,7 +58,10 @@ Committed assembly-reviewed files:
 
 - `works/kagithapoo/scenes/01.md` — Scene 1, scans 92–93;
 - `works/kagithapoo/scenes/02-05.md` — source-compressed representation of `காட்சிகள்: 2, 3, 4, 5.` on scan 93; no unprinted dialogue invented;
-- `works/kagithapoo/scenes/06.md` — Scene 6, scans 93–94.
+- `works/kagithapoo/scenes/06.md` — Scene 6, scans 93–94;
+- `works/kagithapoo/scenes/07.md` — Scene 7, scans 94–98; verified 96→97 and 97→98 continuations joined mechanically; verified PDF-fallback wording from scans 95 and 97 retained.
+
+The scan-98 printed photograph caption `ஓ. எம். சுப்பிரமணியன்,` belongs after the `காட்சி 8.` boundary and is therefore not included in Scene 7.
 
 Tracking: `works/kagithapoo/SCENE_ASSEMBLY_PROGRESS.md`.
 
@@ -74,7 +77,7 @@ English translation: **not started / not authorized**.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 7** from verified scans **94–98**. Preserve the already verified PDF-fallback wording on scans 95, 97 and 98 exactly as it exists in the page records. Then update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT.
+Assemble and page-record-check **Scene 8** from verified scans **98–102**. Preserve the scan-98 photograph caption as a separate non-dialogue source element and join only mechanical physical-page breaks. Then update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and NEXT_CHAT_PROMPT.
 
 Do not begin English translation without separate authorization.
 
