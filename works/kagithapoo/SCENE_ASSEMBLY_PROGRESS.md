@@ -29,12 +29,12 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 | 12 | 105–107 | assembly-reviewed | `scenes/12.md` |
 | 13 | 107 | assembly-reviewed | `scenes/13.md` |
 | 14 | 107–109 | assembly-reviewed | `scenes/14.md` |
-| 15 | 109–110 | next | — |
-| 16 | 110–114 | pending | — |
-| 17 | 114–115 | pending | — |
-| 18 | 115–116 | pending | — |
-| 19 | 116 | pending | — |
-| 20 | 117–119 | pending | — |
+| 15 | 109–110 | assembly-reviewed | `scenes/15.md` |
+| 16 | 110–114 | assembly-reviewed | `scenes/16.md` |
+| 17 | 114–115 | assembly-reviewed | `scenes/17.md` |
+| 18 | 115–116 | assembly-reviewed | `scenes/18.md` |
+| 19 | 116 | assembly-reviewed | `scenes/19.md` |
+| 20 | 117–119 | next | — |
 | 21 | 119–124 | pending | — |
 | unnumbered source `காட்சி,` | 124–125 | pending; do not assign 22/23 | — |
 | 24 | 125–129 | pending | — |
@@ -55,7 +55,12 @@ Scene assembly was explicitly authorized by the user's instruction to proceed af
 - `scenes/12.md` assembles scans 105–107; the physical `ஒப்ப—` / `டைக்கிறதா` split is mechanically joined as `ஒப்படைக்கிறதா` and the scene closes at `(திரை)` before Scene 13.
 - `scenes/13.md` preserves the complete single-scan Scene 13 on scan 107 and closes at `(திரை விழுகிறது)` before `காட்சி: 14`.
 - `scenes/14.md` assembles scans 107–109; the physical `வெற்றிகளக் குவிக்கத்—` / `தான் போகிறார்கள் மக்கள்!...` boundary is mechanically joined as `வெற்றிகளக் குவிக்கத்தான் போகிறார்கள் மக்கள்!...`, and Scene 14 closes at `(திரை)` before Scene 15.
+- `scenes/15.md` assembles scans 109–110; the physical `வார்த்தை—` / `யைச்` boundary is mechanically joined as `வார்த்தையைச்`, and Scene 15 closes at `(திரை)` before Scene 16.
+- `scenes/16.md` assembles scans 110–114; the physical `இய—` / `லாது` boundary is mechanically joined as `இயலாது`. The unusual verified MD tokens on scan 112 are preserved exactly, and the scan-113/114 sentence continuation is joined without normalization.
+- `scenes/17.md` assembles scans 114–115; Gandhi's long speech is joined across the physical page boundary and the scene closes at `(திரை)` before Scene 18.
+- `scenes/18.md` assembles scans 115–116; the physical continuation is joined while preserving the page-record speaker-label variation, including `திர:—` on scan 116.
+- `scenes/19.md` preserves the complete single-scan Scene 19 on scan 116 and closes at `(திரை)`.
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 15** from verified scans **109–110**, then continue with Scene 16 unless the user specifies a different batch size. Do not begin English translation.
+Assemble and page-record-check **Scene 20** from verified scans **117–119**, then continue with Scene 21 unless the user specifies a different batch size. Do not begin English translation.
