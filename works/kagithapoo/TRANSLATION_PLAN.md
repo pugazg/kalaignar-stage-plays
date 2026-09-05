@@ -1,6 +1,6 @@
 # காகிதப்பூ — English translation plan
 
-Status: **AUTHORIZED / BATCH 1 COMPLETE — PASS / LOCKED**
+Status: **AUTHORIZED / BATCHES 1–2 COMPLETE — PASS / LOCKED**
 
 The Tamil archival layer is already closed: page layer **41 / 41 verified**, scene assembly **COMPLETE / CLOSED**, and final scene-assembly review **PASS**.
 
@@ -90,7 +90,7 @@ Terms likely to require consistent treatment include:
 
 Do not pre-lock an uncertain equivalent merely for consistency. Context and source rhetoric control the choice.
 
-Batch-1 durable choices are recorded in `translations/en/README.md` and may be reused only in matching contexts.
+Durable choices established through Batches 1–2 are recorded in `translations/en/README.md` and may be reused only in matching contexts.
 
 ## 6. English scene-file format
 
@@ -132,7 +132,10 @@ For each batch:
 5. set each reviewed file to `translation-reviewed` / `passed` only after the fidelity review;
 6. update `translations/en/README.md` with the durable batch result.
 
-Batch-review records may be added under `translations/en/` to preserve the review result. Batch 1 is recorded in `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**.
+Batch-review records preserve the durable review result:
+
+- `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
+- `translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED**.
 
 After all 23 English artifacts are complete, create `translations/en/TRANSLATION_REVIEW.md` for the final Tamil→English coverage/fidelity review.
 
@@ -146,7 +149,7 @@ After all 23 English artifacts are complete, create `translations/en/TRANSLATION
 - `07.md`
 - `08.md`
 
-### Batch 2 — NEXT
+### Batch 2 — COMPLETE / PASS / LOCKED
 
 - `09.md`
 - `10.md`
@@ -154,7 +157,7 @@ After all 23 English artifacts are complete, create `translations/en/TRANSLATION
 - `12.md`
 - `13.md`
 
-### Batch 3
+### Batch 3 — NEXT
 
 - `14.md`
 - `15.md`
@@ -189,16 +192,16 @@ Scene 21 is comparatively large; Batch 4 may be split operationally if needed, b
 ## Current English status
 
 - expected artifacts: **23**;
-- present: **5 / 23**;
-- reviewed: **5 / 23**;
-- completed batches: **1 / 5**;
+- present: **10 / 23**;
+- reviewed: **10 / 23**;
+- completed batches: **2 / 5**;
 - unresolved blocking translation issues: **0**;
 - secondary-English contamination: **0**.
 
 ## Exact next activity
 
-Translate and Tamil→English review **Batch 2** from the closed Tamil scene layer only:
+Translate and Tamil→English review **Batch 3** from the closed Tamil scene layer only:
 
-`09.md`, `10.md`, `11.md`, `12.md`, `13.md`.
+`14.md`, `15.md`, `16.md`, `17.md`, `18.md`.
 
 Do not use OCR, the MD first pass, the PDF, a modern edition or a secondary English text as the drafting authority.
