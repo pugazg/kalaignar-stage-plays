@@ -23,7 +23,7 @@ Under the current dual-witness rule, `verified` means the page has MD-controlled
 | 101 | — | காட்சி 8 | dramatic text | verified | MD lexical reconciliation complete; PDF three-way `மூவரும்` structure retained while MD call words are assigned in source order. |
 | 102 | — | காட்சி 8 / காட்சி 9 / காட்சி 10 | dramatic text + photograph | verified | Scene 8 closes; all of Scene 9 and its `(திரை)` are reconciled; `காட்சி 10` begins on the same scan and continues into scan 103. MD controls words; PDF controls structure/punctuation. |
 | 103 | — | காட்சி 10 | dramatic text | verified | MD lexical witness reconciled to PDF-controlled two-column structure; காவேரி's long angry response begins and continues physically into scan 104. |
-| 104 | — | காட்சி 10 / காட்சி 11 | dramatic text + photograph | not-started | Scene 10 closes; Scene 11 begins. |
+| 104 | — | காட்சி 10 / காட்சி 11 | dramatic text + photograph | verified | Scene 10 closes and `காட்சி 11` begins; MD lexical words reconciled to PDF-controlled punctuation/layout; Scene 11 continues into scan 105. |
 | 105 | — | காட்சி 11 / காட்சி 12 | dramatic text | not-started | Scene 11 closes; Scene 12 begins. |
 | 106 | — | காட்சி 12 | dramatic text + photograph | not-started | Continuation. |
 | 107 | — | காட்சி 12 / காட்சி 13 / காட்சி 14 | dramatic text | not-started | Scene 12 closes; Scene 13 and Scene 14 headings visible. |
@@ -56,9 +56,9 @@ Under the current dual-witness rule, `verified` means the page has MD-controlled
 
 - selected source pages represented: **41 / 41**;
 - MD lexical reconciliation of scans **91–101: COMPLETE**;
-- dual-witness fully verified pages: **9 / 41** — scans **91, 92, 94, 96, 99, 100, 101, 102, 103**;
+- dual-witness fully verified pages: **10 / 41** — scans **91, 92, 94, 96, 99, 100, 101, 102, 103, 104**;
 - needs-review because MD lexical witness is incomplete: **4 pages** — scans **93, 95, 97, 98**;
-- scans 102–103 are durably completed under the MD-words / PDF-structure rule;
+- scans 102–104 are durably completed under the MD-words / PDF-structure rule;
 - unresolved lexical-witness gaps remain on scans **93, 95, 97, 98**; the user subsequently instructed the workflow to proceed, so forward processing resumed while those gaps remain explicitly tracked;
 - scene assembly: **not started / not authorized**;
 - translation: **not started / not authorized**.
