@@ -38,47 +38,55 @@ Every scan must check:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Batch-1 same-edition references are now available:
+Current same-edition references:
 
-- `லை` from `கலைஞர்`;
-- `ளை` from `பிள்ளை`;
-- `ணா` from `கருணாநிதி`.
+- `லை` from `கலைஞர்`, `தலையை`, `தலைமை`;
+- `ளை` from `பிள்ளை`, `உங்களை`;
+- `ணா` from `கருணாநிதி`;
+- `னை` from `அவனை`.
 
-Use them only to compare character identity. Do not use them or context to reconstruct physical paper loss.
+Use them only for character-identity comparison. Never use them or context to reconstruct physical paper loss.
 
-## Completed scans 1–5
+## Completed scans 1–10
 
-- `0001.md` — `needs-review`: principal cover text complete; damaged small printed artist signature unresolved;
-- `0002.md` — `verified`: donor slip `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின் / அன்பளிப்பு` fully recorded as non-authorial material;
-- `0003.md` — `needs-review`: title/publisher/address recorded; damaged author line left incomplete;
-- `0004.md` — `needs-review`: edition/date/imprint recorded; damaged central price/matter not reconstructed;
-- `0005.md` — `needs-review`: surviving publisher-note text recorded; damaged fragments unresolved.
+Batch 1:
+- `0001.md` — `needs-review`
+- `0002.md` — `verified`
+- `0003.md` — `needs-review`
+- `0004.md` — `needs-review`
+- `0005.md` — `needs-review`
+
+Batch 2:
+- `0006.md` — `verified`: publisher-note close; source line split retained
+- `0007.md` — `needs-review`: work opener; paper loss retained; no page/scene number inferred
+- `0008.md` — `needs-review`: printed p.6; central paper loss retained
+- `0009.md` — `needs-review`: printed p.7; lower-right loss affects first repeated `எங்கே ஜனநாயக…`
+- `0010.md` — `verified`: printed p.8; full speaker/dialogue text passes visual + glyph gate
 
 Current metrics:
 
-- canonical page transcriptions processed: **5 / 49**;
-- visually verified: **1 / 49**;
-- `needs-review`: **4 / 49**;
-- historical-glyph passes: **5 / 49**;
+- canonical page transcriptions processed: **10 / 49**;
+- visually verified: **3 / 49**;
+- `needs-review`: **7 / 49**;
+- historical-glyph passes: **10 / 49**;
+- unprocessed: **39 / 49**;
 - English translation: **not authorized / not started**.
 
-## Exact next activity — scans 6–10
+## Exact next activity — scans 11–15
 
-Process scans **6, 7, 8, 9, 10** in order.
+Process scans **11, 12, 13, 14, 15** in order. These visibly carry printed pages **9–13**.
 
 For each page:
 
 1. inspect complete source pixels and enlarge difficult regions;
 2. transcribe only positively supported printed text;
-3. keep damage/handwriting/library marks separate;
-4. complete the full 13-family historical-glyph check;
-5. use same-edition comparison for glyph identity only;
-6. do not infer missing wording, modern spelling or scene numbers;
-7. preserve page/paragraph/speaker/stage structure exactly as source-visible;
+3. preserve exact speaker labels, punctuation, stage/prose structure and physical page boundaries;
+4. keep damage/handwriting/library marks separate;
+5. complete the full 13-family historical-glyph check;
+6. use same-edition comparison for glyph identity only;
+7. do not infer missing wording, modern spelling or scene numbers;
 8. mark `verified` only when the full visual + glyph gate passes, otherwise `needs-review`;
-9. update page-map, glyph audit, work README, HANDOVER and this prompt after the batch.
-
-Scan 6 continues the publisher note. Scan 7 begins the dramatic work but has no safely established printed page number at intake. Scans 8–10 visibly carry printed pages **6–8**.
+9. update page-map, glyph audit, work README, root README, HANDOVER and this prompt after the batch.
 
 Do not begin scene assembly or English translation yet.
 
