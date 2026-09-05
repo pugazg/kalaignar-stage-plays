@@ -21,7 +21,7 @@ Primary lexical witness:
 - `needs-review`: **0**;
 - unprocessed pages: **0**;
 - scene assembly: **AUTHORIZED / IN PROGRESS**;
-- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, and **Scenes 6–12**;
+- assembly-reviewed: **Scene 1**, source-compressed **Scenes 2–5**, and **Scenes 6–14**;
 - English translation: **not started / not authorized**.
 
 ## Durable audits / assembly tracking
@@ -59,6 +59,8 @@ Primary lexical witness:
 - `scenes/10.md` — Scene 10, scans 102–104.
 - `scenes/11.md` — Scene 11, scans 104–105; source speaker labels retained across the physical page boundary.
 - `scenes/12.md` — Scene 12, scans 105–107; `ஒப்ப—` / `டைக்கிறதா` mechanically joined to `ஒப்படைக்கிறதா`.
+- `scenes/13.md` — Scene 13, scan 107; complete single-scan scene preserved through `(திரை விழுகிறது)`.
+- `scenes/14.md` — Scene 14, scans 107–109; `வெற்றிகளக் குவிக்கத்—` / `தான் போகிறார்கள் மக்கள்!...` mechanically joined to `வெற்றிகளக் குவிக்கத்தான் போகிறார்கள் மக்கள்!...`.
 
 ## Structural safeguards
 
@@ -77,6 +79,6 @@ Primary lexical witness:
 
 ## Exact next activity
 
-Assemble and page-record-check **Scene 13** from verified scan **107**, then continue with Scene 14 unless the user specifies another batch size.
+Assemble and page-record-check **Scene 15** from verified scans **109–110**, then continue with Scene 16 unless the user specifies another batch size.
 
 Do **not** begin English translation until separately authorized.
