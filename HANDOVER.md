@@ -36,7 +36,7 @@ Controlling PDF: `TVA_BOK_0064118_திருவாளர்_தேசீயம
 - title-page address: **131, பிராட்வே சென்னை—1.**;
 - printer/imprint: **முத்தமிழ்ச் செல்வி அச்சகம், 1/65, பிராட்வே.**
 
-User-supplied catalog metadata and description remain contextual only; the scan controls transcription.
+User-supplied catalog metadata and description remain contextual only; source pixels control transcription.
 
 ## Registered physical structure
 
@@ -69,37 +69,53 @@ Permanent rules:
 - physical paper loss cannot be repaired by glyph inference;
 - use `needs-review` when source support is incomplete.
 
-Batch-1 same-edition reference forms now established:
+Same-edition reference forms currently established:
 
-- `லை` — `கலைஞர்`;
-- `ளை` — `பிள்ளை`;
-- `ணா` — `கருணாநிதி`.
+- `லை` — `கலைஞர்`, reinforced by `தலையை` / `தலைமை`;
+- `ளை` — `பிள்ளை`, reinforced by `உங்களை`;
+- `ணா` — `கருணாநிதி`;
+- `னை` — `அவனை` on scan 8.
 
-## Current state after scans 1–5
+## Current state after scans 1–10
 
 **PAGE LAYER IN PROGRESS.**
 
 - scans registered: **49 / 49**;
 - page placeholders: **49 / 49**;
-- canonical transcriptions processed: **5 / 49**;
-- visually verified pages: **1 / 49** (`scan 2`);
-- `needs-review`: **4 / 49** (`1, 3, 4, 5`);
-- historical-glyph passes complete: **5 / 49**;
+- canonical transcriptions processed: **10 / 49**;
+- visually verified pages: **3 / 49** (`2, 6, 10`);
+- `needs-review`: **7 / 49** (`1, 3, 4, 5, 7, 8, 9`);
+- historical-glyph passes complete: **10 / 49**;
+- unprocessed: **39 / 49**;
 - structural / scene inventory: **pending full source pass**;
 - English translation: **not authorized / not started**.
 
-Batch-1 unresolved areas are damage-driven, not guessed glyph readings:
+### Completed Batch 2 controls
 
-- scan 1 small illustrator/artist signature;
-- scan 3 author line after `மு. கருண…`;
-- scan 4 central price/matter line;
-- scan 5 multiple publisher-note fragments.
+- scan 6: publisher note closes; source line split `வெளியிடுகி / றேன்` preserved; **VERIFIED**;
+- scan 7: work opener; large source paper loss retained as `[paper loss]`; no page/scene number inferred; **NEEDS-REVIEW**;
+- scan 8 / printed p.6: central loss retained unresolved; `னை` reference established from `அவனை`; **NEEDS-REVIEW**;
+- scan 9 / printed p.7: speaker structure retained; lower-right loss cuts the first repeated `எங்கே ஜனநாயக…` line and is not repaired from the repetition below; **NEEDS-REVIEW**;
+- scan 10 / printed p.8: later ink mark crosses text but character identities remain readable; full dialogue/speaker layer **VERIFIED**.
+
+The unresolved Batch-2 areas are physical-damage issues, not historical-glyph ambiguities.
 
 Do not begin scene assembly or English translation during this page-layer phase.
 
 ## Exact next activity
 
-Process **scans 6–10** source-first. Scan 6 completes the publisher note, scan 7 begins the dramatic body, and scans 8–10 carry printed pages 6–8. Run the full historical-glyph pass on each page and record only source-visible headings/speaker structure; do not infer scene numbering or restore damaged text from context.
+Process **scans 11–15** source-first, corresponding to printed pages **9–13**.
+
+For each:
+1. inspect full native/enlarged source pixels;
+2. transcribe only positively supported printed text;
+3. preserve speaker/stage/paragraph/page structure;
+4. run the full 13-family historical-glyph check;
+5. use same-edition comparison only for glyph identity;
+6. do not infer scene numbering;
+7. do not repair physical loss from context;
+8. mark `verified` only after the complete visual + glyph gate passes;
+9. synchronize page-map, glyph audit, work README, root README, HANDOVER and NEXT prompt after the batch.
 
 # CLOSED WORK SAFEGUARDS
 
