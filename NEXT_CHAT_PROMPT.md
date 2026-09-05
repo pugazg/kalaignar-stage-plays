@@ -40,14 +40,15 @@ Every scan must check:
 
 Current same-edition references:
 
-- `லை` from `கலைஞர்`, `தலையை`, `தலைமை`;
-- `ளை` from `பிள்ளை`, `உங்களை`;
+- `லை` from `கலைஞர்`, `தலையை`, `தலைமை`, `தலைகள்`;
+- `ளை` from `பிள்ளை`, `உங்களை`, `காளைமாட்டு`, `விளையும்`;
 - `ணா` from `கருணாநிதி`;
-- `னை` from `அவனை`.
+- `னை` from `அவனை`, `தண்டனை`;
+- `றா` from scan-11 `வண்ணமிருக்கிறார்களே`, reinforced by `இருக்கிறாய் / இருக்கிறார் / பார்க்கிறார்`.
 
-Use them only for character-identity comparison. Never use them or context to reconstruct physical paper loss.
+Use them only for character-identity comparison. Never use them or context to reconstruct physical paper loss or regularize source wording.
 
-## Completed scans 1–10
+## Completed scans 1–15
 
 Batch 1:
 - `0001.md` — `needs-review`
@@ -57,24 +58,31 @@ Batch 1:
 - `0005.md` — `needs-review`
 
 Batch 2:
-- `0006.md` — `verified`: publisher-note close; source line split retained
-- `0007.md` — `needs-review`: work opener; paper loss retained; no page/scene number inferred
-- `0008.md` — `needs-review`: printed p.6; central paper loss retained
-- `0009.md` — `needs-review`: printed p.7; lower-right loss affects first repeated `எங்கே ஜனநாயக…`
-- `0010.md` — `verified`: printed p.8; full speaker/dialogue text passes visual + glyph gate
+- `0006.md` — `verified`
+- `0007.md` — `needs-review`
+- `0008.md` — `needs-review`
+- `0009.md` — `needs-review`
+- `0010.md` — `verified`
+
+Batch 3 — **all verified**:
+- `0011.md` / printed p.9 — full page verified; `றா` same-edition reference established;
+- `0012.md` / printed p.10 — stage direction and speaker structure verified; final utterance continues to scan 13;
+- `0013.md` / printed p.11 — physical continuation retained without invented speaker label; unusual source forms preserved;
+- `0014.md` / printed p.12 — `இரண்டுக்கு முள்ள` retained; final utterance continues to scan 15;
+- `0015.md` / printed p.13 — `தலைகள்`, `விளையும்`, `ஸ்ரீ மயானம்` verified; final `அதன்படி` continues to scan 16.
 
 Current metrics:
 
-- canonical page transcriptions processed: **10 / 49**;
-- visually verified: **3 / 49**;
+- canonical page transcriptions processed: **15 / 49**;
+- visually verified: **8 / 49**;
 - `needs-review`: **7 / 49**;
-- historical-glyph passes: **10 / 49**;
-- unprocessed: **39 / 49**;
+- historical-glyph passes: **15 / 49**;
+- unprocessed: **34 / 49**;
 - English translation: **not authorized / not started**.
 
-## Exact next activity — scans 11–15
+## Exact next activity — scans 16–20
 
-Process scans **11, 12, 13, 14, 15** in order. These visibly carry printed pages **9–13**.
+Process scans **16, 17, 18, 19, 20** in order. These visibly carry printed pages **14–18**.
 
 For each page:
 
