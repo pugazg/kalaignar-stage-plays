@@ -17,7 +17,7 @@ Read before any source-dependent change:
 5. `works/ore-mutham/metadata/source.md`
 6. `works/ore-mutham/indexes/page-map.md`
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`
-8. existing page records `works/ore-mutham/pages/0001.md`–`0020.md` as needed
+8. existing page records `works/ore-mutham/pages/0001.md`–`0025.md` as needed
 9. controlling PDF `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 
 ## Source checkpoint
@@ -25,108 +25,90 @@ Read before any source-dependent change:
 - filename: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 - file size: **224,884,964 bytes**
 - physical scans: **131**
-- SHA-256: **PENDING exact byte-level computation — never guess**
+- SHA-256: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**
 - source PDF committed to repository: **no**
 
-Source-visible identity / anchors:
+Source-visible anchors now include:
 
-- scan 1: `ஒரே முத்தம்` cover;
-- scan 3: title page with `சரித்திரக் கற்பனை நாடகம்.`, author and `ஐந்தாம் பதிப்பு.`;
-- scan 4: edition history through fifth edition **December 1964**, publisher `தென்றல் நூற்பதிப்புக் கழகம்.`, printer `செந்தமிழ் அச்சகம்`, price `விலை ரூபா 2-00.`;
-- scan 6: complete `முன்னுரை`, dated `சென்னை, 25-5-1950`, signed `மு. கருணாநிதி.`; source directly states Sri Lankan historical-fragment basis and first staging by `தேவி நாடக சபை`;
-- scan 7: `நாடக உறுப்பினர்` cast list;
 - scan 8 / p.6: `காட்சி 1.`;
 - scan 9 / p.7: `காட்சி 2.`;
 - scan 11 / p.9: `காட்சி 3.`;
-- scan 15 / p.13: `காட்சி 4.` transition; exact location line remains held;
-- scan 19 / p.17: `காட்சி 5.` transition; exact location line remains held;
-- scan 130: printed p.128 and final dramatic page;
-- scan 131: back-cover publisher advertisement.
-
-## User catalog context
-
-- title: **ஒரே முத்தம்**
-- author: **கலைஞர் மு. கருணாநிதி**
-- publisher: **தென்றல் நூற்பதிப்புக் கழகம்**
-- edition/year: **ஐந்தாம் பதிப்பு, 1964**
-- context: historical drama based on a small Sri Lankan historical fragment; staged by Devi Nataka Sabha; also addresses caste abolition.
-
-Scan 6 independently supports the historical-fragment basis and first staging by `தேவி நாடக சபை`. The caste-abolition thematic note remains catalog context until source-processed dramatic text supports it.
+- scan 15 / p.13: `காட்சி 4.`; exact location remains held;
+- scan 19 / p.17: `காட்சி 5.`; exact location remains held;
+- scan 21 / p.19: `காட்சி 6.` — `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.`;
+- scan 24 / p.22: `காட்சி 7.` — `இடம்: இமயாவின் மது மண்டபம்`;
+- scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
+- scan 130: printed p.128 / final dramatic page;
+- scan 131: back-cover advertisement.
 
 ## Work extent / pagination
 
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic body;
 - scan **131**: back-cover advertisement;
-- confirmed printed numerals through scan 20: **pp.6–18**;
-- later scan→printed-page mapping remains provisional until each page numeral is directly verified.
+- directly confirmed printed numerals through scan 25: **pp.6–23**;
+- later mapping remains provisional until each numeral is visually confirmed.
 
 ## Mandatory historical-glyph methodology
 
-Source pixels control. Read character identity, not modern resemblance.
-
-Full family check on every processed scan:
+Source pixels control. Full family check on every processed scan:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-No global replacement. No spelling, grammar, punctuation, speaker-label or scene-heading normalization. No context-based repair. Build same-edition references only from positively verified source pixels. If unresolved, keep `needs-review` / explicit unresolved markers.
+No global replacement. No spelling, grammar, punctuation, speaker-label or scene-heading normalization. No context-based repair.
 
-Current secure reference bank:
+Current secure reference bank remains:
 
-- `லை`: scan 3 `கலைஞர்`; scan 4 `விலை`; scan 6 `சிதறலை`, `கூறுவதற்கில்லை`;
-- `ணா`: scans 3 and 6 `கருணாநிதி`;
-- `னை`: scan 3 `விற்பனை`, `சென்னை`; scan 4 `சென்னை`; scan 6 `சென்னை`;
-- `றா`: scan 6 `காரணமாகும்`.
+- `லை`: scans 3, 4, 6;
+- `ணா`: scans 3, 6;
+- `னை`: scans 3, 4, 6;
+- `றா`: scan 6.
 
-## Processed checkpoint — scans 1–20
+Candidate forms on scans 21–25 are not promoted until those whole-page gates close.
+
+## Processed checkpoint — scans 1–25
 
 Verified: `2, 3, 4, 6`.
 
-Needs-review: `1, 5, 7–20`.
+Needs-review: `1, 5, 7–25`.
 
-Important structural anchors:
+New durable batch:
 
-- `காட்சி 1.` — scan 8 / p.6;
-- `காட்சி 2.` — scan 9 / p.7;
-- `காட்சி 3.` — scan 11 / p.9;
-- `காட்சி 4.` — scan 15 / p.13;
-- `காட்சி 5.` — scan 19 / p.17.
-
-Exact location lines for `காட்சி 4.` and `காட்சி 5.` remain held for enlarged review; do not infer them.
-
-Do not silently complete any held passage from plot continuity, OCR-like expectation, modern spelling, another edition, or web text.
+- scans 21–25 / printed pp.19–23 registered;
+- `காட்சி 6.` and `காட்சி 7.` source anchors established;
+- explicit unresolved clusters retained on scans 21, 22 and 24;
+- scans 23 and 25 have full visible dialogue transcribed but remain under final punctuation/glyph review.
 
 ## Current metrics
 
 - physical scans registered: **131 / 131**
-- checksum: **pending**
-- page records: **20 / 131**
-- source scans processed: **20 / 131**
-- visually verified: **4 / 131** (`2, 3, 4, 6`)
-- `needs-review`: **16 / 131** (`1, 5, 7–20`)
-- historical-glyph passes: **4 / 131** (`2, 3, 4, 6`)
+- checksum: **recorded**
+- page records: **25 / 131**
+- source scans processed: **25 / 131**
+- visually verified: **4 / 131**
+- `needs-review`: **21 / 131**
+- historical-glyph passes: **4 / 131**
 - structural inventory: **not started**
 - scene assembly: **not started**
 - English translation: **not authorized / not started**
 
 ## Exact next activity
 
-Process **scans 21–25** source-first.
+Process **scans 26–30** source-first.
 
-1. create `pages/0021.md` through `pages/0025.md`;
+1. create `pages/0026.md` through `pages/0030.md`;
 2. inspect direct source pixels / enlarged source as required;
-3. transcribe dramatic text without normalization;
+3. transcribe without normalization;
 4. preserve exact source scene headings, stage directions and speaker labels;
-5. directly confirm printed page numerals on all five scans;
-6. run the complete 13-family historical-glyph gate on each scan;
+5. directly confirm printed page numerals;
+6. run the complete 13-family historical-glyph gate;
 7. mark `verified` only if full visual + glyph gate passes; otherwise use `needs-review`;
-8. preserve existing holds (`1, 5, 7–20`) unless stronger source pixels genuinely resolve them;
-9. compute and record the exact PDF SHA-256 when byte-level hashing becomes available; do not invent it;
-10. synchronize `metadata/source.md`, `indexes/page-map.md`, `HISTORICAL_GLYPH_AUDIT.md`, work/root README, `HANDOVER.md`, and this prompt;
-11. fetch final live `main` SHA.
+8. preserve all existing holds unless stronger source pixels genuinely resolve them;
+9. synchronize metadata, page map, glyph audit, work/root README, `HANDOVER.md`, and this prompt;
+10. fetch final live `main` SHA.
 
 Do not begin structural assembly or English translation.
 
 ## Closed-work safeguard — திருவாளர் தேசீயம்பிள்ளை
 
-It remains **COMPLETE / CLOSED** and its nine source-condition holds are not to be reopened without new source evidence.
+It remains **COMPLETE / CLOSED** and its source-condition holds are not to be reopened without new source evidence.
