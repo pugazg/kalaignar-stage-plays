@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — 131 PHYSICAL SCANS REGISTERED; SOURCE PROCESSING 70 / 131; 4 VERIFIED; 66 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 4 / 131; CHECKSUM RECORDED; STRUCTURE/ASSEMBLY NOT STARTED.**
+**ACTIVE — 131 PHYSICAL SCANS REGISTERED; SOURCE PROCESSING 95 / 131; 4 VERIFIED; 91 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 4 / 131; CHECKSUM RECORDED; STRUCTURE/ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -22,11 +22,11 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
 Catalog context does not substitute for source transcription. Scan 6 independently supports the Sri Lankan historical-fragment basis and first staging by `தேவி நாடக சபை`.
 
-The dramatic body directly supports an anti-caste theme: scan 25 / p.23 shows caste division being proposed as a governing tactic, while scan 31 / p.29 contains an extended condemnation of caste-based degradation / untouchability.
+The dramatic body directly supports an anti-caste theme: scan 25 / p.23 shows caste division being proposed as a governing tactic, scan 31 / p.29 contains an extended condemnation of caste-based degradation / untouchability, and scan 75 / p.73 directly prints a discriminatory caste-law claim within the drama.
 
 ## Source-visible structure
 
-Direct scene anchors now reach `காட்சி 18.`:
+Direct scene anchors now reach `காட்சி 24.`:
 
 - scan 8 / p.6 — `காட்சி 1.`;
 - scan 9 / p.7 — `காட்சி 2.`;
@@ -45,18 +45,37 @@ Direct scene anchors now reach `காட்சி 18.`:
 - scan 53 / p.51 — `காட்சி 15.` / `இடம்: விபீஷணன் மண்டபம்.`;
 - scan 59 / p.57 — `காட்சி 16.` / `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`;
 - scan 64 / p.62 — `காட்சி 17.` / `இடம்:- விசாரண மண்டபம்`;
-- scan 68 / p.66 — `காட்சி 18.` / `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.`.
+- scan 68 / p.66 — `காட்சி 18.` / `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.`;
+- scan 72 / p.70 — `காட்சி 19.` / `இடம்:- வசந்த மண்டபம்.`;
+- scan 75 / p.73 — `காட்சி 20.` / `இடம்:- மலையன் வீடு.`;
+- scan 80 / p.78 — `காட்சி 21.` / `இடம்:- விபீஷணன் மாளிகை.`;
+- scan 85 / p.83 — `காட்சி 22.` / `இடம்: பொன்னியின் குடிசை.`;
+- scan 87 / p.85 — `காட்சி 23.` / `இடம்:- விபீஷணன் மாளிகை.`;
+- scan 94 / p.92 — `காட்சி 24.` / `இடம்:- தெருவில்.`.
 
-Printed numerals are directly confirmed through scan 70: **pp.6–68**.
+Printed numerals are directly confirmed through scan 95: **pp.6–93**.
 
-## Batch 66–70
+## Recent source batches
 
-- scan 66 continues `காட்சி 17.` through the treason accusation, documentary-evidence listing and the empty-box reveal;
-- scan 67 sentences `இமயா`, clears `விபீஷணர்`, appoints him royal representative, and ends mid-speech;
-- scan 68 preserves the physical `இமயா` / `வோடு` boundary, closes scene 17 and opens `காட்சி 18.` at `விசாரண மண்டபத்துக்கு வெளியே.`; one acclamation word remains source-held;
-- scan 69 continues scene 18 with the missing-letter / `விபீஷணன்` danger / next-day travel discussion and retains two dense source holds;
-- scan 70 continues the `குமரி` / `புத்த` journey-and-companionship exchange; source `ஆலகாலமா?` is preserved as printed;
-- all five pages remain `needs-review`;
+### Scans 71–85
+
+- scene anchors 19–22 were established;
+- scan 75 directly preserves the discriminatory caste-law dialogue;
+- scan 79→80 physical continuation was preserved;
+- explicit source holds on scans 74, 77, 78 and 82 remain open;
+- no open historical-glyph candidate was promoted.
+
+### Scans 86–95
+
+- scan 86 continues scene 22 through `மலை` / `குமரி` dialogue about `பொன்னி`, caste difference and marriage;
+- scan 87 closes scene 22 and opens `காட்சி 23.` at `விபீஷணன் மாளிகை.`;
+- scans 88–93 carry scene 23 through the ambush, restraint of `புத்த`, arrival/restraint of `பொன்னி`, and the forced letter to `யாளித்துறை`;
+- scans 88–90 retain explicit source holds rather than guessed readings;
+- scan 93→94 physically continues the courier instruction;
+- scan 94 closes scene 23 and opens `காட்சி 24.` at `தெருவில்.`;
+- scan 94→95 physically continues `குமரி`'s internal monologue;
+- scan 95 ends with `குமரி` choosing the route toward `விபீஷணர் மாளிகை` and resolving to act through `சித்ரா`;
+- all ten pages remain `needs-review`;
 - no open historical-glyph candidate was promoted.
 
 ## Historical-glyph policy
@@ -78,18 +97,22 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 - source scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **70 / 131**;
-- source scans processed: **70 / 131**;
+- page records created: **95 / 131**;
+- source scans processed: **95 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **66 / 131** (`1, 5, 7–70`);
+- `needs-review`: **91 / 131** (`1, 5, 7–95`);
 - historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **18**;
+- source-visible scene anchors: **24**;
 - structural/scene inventory: **not started**;
 - Tamil source-representation assembly: **not started**;
 - English translation: **not authorized / not started**.
 
+## Batch-size directive
+
+The remaining source pass proceeds in **10-scan iterations** unless the final remainder is smaller or the user changes the instruction.
+
 ## Exact next activity
 
-Process **scans 71–75** source-first. Directly confirm printed numerals, preserve exact scene/stage/speaker forms, and run the complete 13-family historical-glyph gate. Keep all existing holds open unless stronger source pixels genuinely resolve them.
+Process **scans 96–105** source-first. Directly confirm all printed numerals, preserve exact scene/stage/speaker forms, and run the complete 13-family historical-glyph gate. Keep all existing holds open unless stronger source pixels genuinely resolve them.
 
 Do not begin scene assembly or English translation during the page-source pass.
