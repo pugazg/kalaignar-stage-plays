@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — 131 PHYSICAL SCANS REGISTERED; SOURCE PROCESSING 40 / 131; 4 VERIFIED; 36 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 4 / 131; CHECKSUM RECORDED; STRUCTURE/ASSEMBLY NOT STARTED.**
+**ACTIVE — 131 PHYSICAL SCANS REGISTERED; SOURCE PROCESSING 45 / 131; 4 VERIFIED; 41 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 4 / 131; CHECKSUM RECORDED; STRUCTURE/ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -41,6 +41,7 @@ The dramatic body directly supports an anti-caste theme in two ways: scan 25 / p
 - scan 27 / p.25: `காட்சி 8.` — `இடம்:- முல்லைக்காட்டுப் பகுதி.`;
 - scan 32 / p.30: `காட்சி 9.` — `இடம்:- விபீஷணன் அறை`;
 - scan 37 / p.35: `காட்சி 10.` — `இடம்: பவளமலைச் சாரல்`;
+- scan 41 / p.39: `காட்சி 11.` — `இடம்: விபீஷணன் தனியறை`;
 - scan 130: printed p.128, final dramatic page;
 - scan 131: back-cover publisher advertisement.
 
@@ -49,10 +50,10 @@ The dramatic body directly supports an anti-caste theme in two ways: scan 25 / p
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic work;
 - scan **131**: back-cover advertisement;
-- printed numerals directly confirmed through scan 40: **pp.6–38**;
+- printed numerals directly confirmed through scan 45: **pp.6–43**;
 - later mapping remains provisional until directly checked.
 
-## Processed pages — scans 1–40
+## Processed pages — scans 1–45
 
 Verified:
 
@@ -60,16 +61,16 @@ Verified:
 
 Needs-review:
 
-- `0001.md`, `0005.md`, `0007.md`–`0040.md`.
+- `0001.md`, `0005.md`, `0007.md`–`0045.md`.
 
-Batch 36–40 notes:
+Batch 41–45 notes:
 
-- scans 36–40 directly confirm pp.34–38;
-- scan 36 continues `காட்சி 9.` through Kumari's escape / Chitra substitution stage sequence;
-- scan 37 closes `காட்சி 9.` and opens `காட்சி 10.` at `பவளமலைச் சாரல்`;
-- scan 38 records the burned-village / unpaid-tax report and arrest discussion;
-- scan 39 returns Kumari with documentary evidence and preserves the physical sentence break into scan 40;
-- scan 40 continues the evidence reading, includes the private `காவிகள்` exchange, and ends with a source-visible arrest / anti-treason directive;
+- scans 41–45 directly confirm pp.39–43;
+- scan 41 opens `காட்சி 11.` at `விபீஷணன் தனியறை`;
+- scans 41–45 continue an extended `சித்ரா` / `விபீஷ` confrontation;
+- scan 43 introduces two abbreviated `கா` speakers and retains one small bold parenthetical exact-word hold;
+- scan 44 retains one lexical hold in the final speech and provides open-page `லை` / `ளை` comparison material;
+- scan 45 retains one source cluster immediately before `பலிபீடம்` rather than completing it from context;
 - all five pages remain open for final punctuation / historical-glyph adjudication; no open-page candidate was promoted.
 
 ## Historical-glyph policy
@@ -85,7 +86,7 @@ Current positively verified reference bank remains:
 - `னை` — scans 3–4 `விற்பனை / சென்னை`, scan 6 `சென்னை`;
 - `றா` — scan 6 `காரணமாகும்`.
 
-Open scans 36–40 provide additional comparison material (`மின்னலை`, `கணையாழி`, `காலையில்` / `அலைந்தோம்`), but open-page evidence is not promoted into the secure bank.
+Open scans 36–45 provide additional comparison material (`மின்னலை`, `கணையாழி`, `காலையில்` / `அலைந்தோம்`, `தலையை`, `மஞ்சளைக்`, `அவளைத்`), but open-page evidence is not promoted into the secure bank.
 
 No global replacement, spelling modernization, semantic repair or plot-based completion is allowed.
 
@@ -93,18 +94,18 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 - source scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **40 / 131**;
-- source scans processed: **40 / 131**;
+- page records created: **45 / 131**;
+- source scans processed: **45 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **36 / 131** (`1, 5, 7–40`);
+- `needs-review`: **41 / 131** (`1, 5, 7–45`);
 - historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **10** (`காட்சி 1.`–`காட்சி 10.`);
+- source-visible scene anchors: **11** (`காட்சி 1.`–`காட்சி 11.`);
 - structural/scene inventory: **not started**;
 - Tamil source-representation assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Process **scans 41–45** source-first. Directly confirm printed numerals, preserve source scene/stage/speaker forms, and run the complete 13-family historical-glyph gate. Keep all existing holds open unless stronger source pixels genuinely resolve them.
+Process **scans 46–50** source-first. Directly confirm printed numerals, preserve source scene/stage/speaker forms, and run the complete 13-family historical-glyph gate. Keep all existing holds open unless stronger source pixels genuinely resolve them.
 
 Do not begin scene assembly or English translation during the page-source pass.

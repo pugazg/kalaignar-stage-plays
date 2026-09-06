@@ -17,7 +17,7 @@ Read before any source-dependent change:
 5. `works/ore-mutham/metadata/source.md`
 6. `works/ore-mutham/indexes/page-map.md`
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`
-8. existing page records `works/ore-mutham/pages/0001.md`–`0040.md` as needed
+8. existing page records `works/ore-mutham/pages/0001.md`–`0045.md` as needed
 9. controlling PDF `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 
 ## Source checkpoint
@@ -40,9 +40,11 @@ Source-visible anchors now include:
 - scan 27 / p.25: `காட்சி 8.` — `இடம்:- முல்லைக்காட்டுப் பகுதி.`;
 - scan 32 / p.30: `காட்சி 9.` — `இடம்:- விபீஷணன் அறை`;
 - scan 37 / p.35: `காட்சி 10.` — `இடம்: பவளமலைச் சாரல்`;
+- scan 41 / p.39: `காட்சி 11.` — `இடம்: விபீஷணன் தனியறை`;
 - scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
 - scan 31 / p.29: direct anti-caste / anti-untouchability dramatic-text argument;
 - scans 38–40: village-burning report, documentary evidence, private `காவிகள்` exchange, and arrest / anti-treason directive;
+- scans 41–45: extended `சித்ரா` / `விபீஷ` confrontation with explicit source holds retained where exact pixels remain insecure;
 - scan 130: printed p.128 / final dramatic page;
 - scan 131: back-cover advertisement.
 
@@ -51,7 +53,7 @@ Source-visible anchors now include:
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic body;
 - scan **131**: back-cover advertisement;
-- directly confirmed printed numerals through scan 40: **pp.6–38**;
+- directly confirmed printed numerals through scan 45: **pp.6–43**;
 - later mapping remains provisional until each numeral is visually confirmed.
 
 ## Mandatory historical-glyph methodology
@@ -71,21 +73,20 @@ Current secure reference bank remains:
 
 Candidate forms on open pages are not promoted until their whole-page gates close.
 
-## Processed checkpoint — scans 1–40
+## Processed checkpoint — scans 1–45
 
 Verified: `2, 3, 4, 6`.
 
-Needs-review: `1, 5, 7–40`.
+Needs-review: `1, 5, 7–45`.
 
 New durable batch:
 
-- scans 36–40 / printed pp.34–38 registered;
-- scan 36 continues `காட்சி 9.` through the Kumari escape / Chitra substitution sequence;
-- scan 37 closes `காட்சி 9.` and opens `காட்சி 10.` at `பவளமலைச் சாரல்`;
-- scan 38 records the burned-village / unpaid-tax report and arrest discussion;
-- scan 39 returns Kumari with documentary evidence; its final sentence physically continues into scan 40;
-- scan 40 continues the evidence, contains the private `காவிகள்` exchange and ends with an arrest / anti-treason directive;
-- source form `நாசகாலர்கள்` is preserved without normalization;
+- scans 41–45 / printed pp.39–43 registered;
+- scan 41 opens `காட்சி 11.` at `விபீஷணன் தனியறை`;
+- scans 41–45 continue the `சித்ரா` / `விபீஷ` confrontation;
+- scan 43 introduces two abbreviated `கா` speakers and retains one small bold parenthetical exact-word hold;
+- scan 44 retains one final lexical hold and open-page `லை` / `ளை` comparison material;
+- scan 45 retains one source cluster immediately before `பலிபீடம்` rather than supplying a context-based completion;
 - all five pages retain open punctuation / historical-glyph gates; no open-page candidate was promoted;
 - no structural assembly or English translation started.
 
@@ -93,21 +94,21 @@ New durable batch:
 
 - physical scans registered: **131 / 131**
 - checksum: **recorded**
-- page records: **40 / 131**
-- source scans processed: **40 / 131**
+- page records: **45 / 131**
+- source scans processed: **45 / 131**
 - visually verified: **4 / 131**
-- `needs-review`: **36 / 131**
+- `needs-review`: **41 / 131**
 - historical-glyph passes: **4 / 131**
-- source-visible scene anchors: **10**
+- source-visible scene anchors: **11**
 - structural inventory: **not started**
 - scene assembly: **not started**
 - English translation: **not authorized / not started**
 
 ## Exact next activity
 
-Process **scans 41–45** source-first.
+Process **scans 46–50** source-first.
 
-1. create `pages/0041.md` through `pages/0045.md`;
+1. create `pages/0046.md` through `pages/0050.md`;
 2. inspect direct source pixels / enlarged source as required;
 3. transcribe without normalization;
 4. preserve exact source scene headings, stage directions and speaker labels;

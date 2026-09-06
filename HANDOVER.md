@@ -21,7 +21,7 @@ Read before further source-dependent work:
 5. `works/ore-mutham/metadata/source.md`;
 6. `works/ore-mutham/indexes/page-map.md`;
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`;
-8. existing `works/ore-mutham/pages/0001.md`–`0040.md` as relevant;
+8. existing `works/ore-mutham/pages/0001.md`–`0045.md` as relevant;
 9. the supplied controlling PDF.
 
 ## Source identity
@@ -49,9 +49,11 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 - scan 27 / p.25: `காட்சி 8.` — `இடம்:- முல்லைக்காட்டுப் பகுதி.`;
 - scan 32 / p.30: `காட்சி 9.` — `இடம்:- விபீஷணன் அறை`;
 - scan 37 / p.35: `காட்சி 10.` — `இடம்: பவளமலைச் சாரல்`;
+- scan 41 / p.39: `காட்சி 11.` — `இடம்: விபீஷணன் தனியறை`;
 - scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
 - scan 31 / p.29: extended source dialogue explicitly condemns caste-based degradation / untouchability;
 - scans 38–40: village-burning report, documentary evidence, private `காவிகள்` exchange, and arrest / anti-treason directive;
+- scans 41–45: extended `சித்ரா` / `விபீஷ` confrontation; explicit source holds retained where pixels remain insecure;
 - scan 130: printed p.128, final dramatic page;
 - scan 131: back-cover advertisement.
 
@@ -60,7 +62,7 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic work;
 - scan **131**: back matter;
-- directly confirmed printed numerals through scan 40: **pp.6–38**;
+- directly confirmed printed numerals through scan 45: **pp.6–43**;
 - later mapping remains provisional until direct inspection.
 
 ## Historical Tamil glyph gate
@@ -87,7 +89,7 @@ Secure reference bank remains limited to positively verified pages:
 
 Open pages contain additional candidate family occurrences; none is promoted while its whole-page gate remains open.
 
-## Processed checkpoint — scans 1–40
+## Processed checkpoint — scans 1–45
 
 Verified:
 
@@ -95,17 +97,16 @@ Verified:
 
 Needs-review:
 
-- `0001.md`, `0005.md`, `0007.md`–`0040.md`.
+- `0001.md`, `0005.md`, `0007.md`–`0045.md`.
 
-Batch 36–40 was source-processed with:
+Batch 41–45 was source-processed with:
 
-- printed pp.34–38 directly confirmed;
-- scan 36 continuing `காட்சி 9.` through Kumari's escape / Chitra substitution sequence;
-- scan 37 closing `காட்சி 9.` and opening `காட்சி 10.` at `பவளமலைச் சாரல்`;
-- scan 38 recording the burned-village / unpaid-tax report and arrest discussion;
-- scan 39 returning Kumari with documentary evidence and retaining the physical sentence boundary into scan 40;
-- scan 40 continuing that evidence, including the private `காவிகள்` exchange and arrest / anti-treason directive;
-- source-visible `நாசகாலர்கள்` preserved without normalization;
+- printed pp.39–43 directly confirmed;
+- scan 41 opening `காட்சி 11.` at `விபீஷணன் தனியறை`;
+- scans 41–45 continuing the `சித்ரா` / `விபீஷ` confrontation;
+- scan 43 adding two abbreviated `கா` speakers and retaining one small bold parenthetical exact-word hold;
+- scan 44 retaining one final lexical hold and providing open-page `லை` / `ளை` comparison material;
+- scan 45 retaining one source cluster immediately before `பலிபீடம்` rather than completing it from context;
 - all five pages retaining open punctuation / historical-glyph gates; no new page promoted to `verified`;
 - no scene assembly or translation.
 
@@ -113,21 +114,21 @@ Batch 36–40 was source-processed with:
 
 - source scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **40 / 131**;
-- source scans processed: **40 / 131**;
+- page records created: **45 / 131**;
+- source scans processed: **45 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **36 / 131** (`1, 5, 7–40`);
+- `needs-review`: **41 / 131** (`1, 5, 7–45`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **10**;
+- source-visible scene anchors: **11**;
 - structural/scene inventory: **not started**;
 - Tamil assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Process scans **41–45** source-first:
+Process scans **46–50** source-first:
 
-1. create `pages/0041.md` through `0045.md`;
+1. create `pages/0046.md` through `0050.md`;
 2. directly inspect/transcribe source-visible text without normalization;
 3. confirm each printed page numeral;
 4. preserve exact scene/stage/speaker forms;
