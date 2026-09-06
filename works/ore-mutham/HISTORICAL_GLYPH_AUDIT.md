@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN FOR CLOSURE — 26 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 105 RETAIN OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN FOR CLOSURE — 33 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 98 RETAIN OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -30,7 +30,9 @@ A family may be absent on a page; every page still receives the complete inspect
 - scan 5: `கலைஞர்`;
 - scan 6: `சிதறலை`, `கூறுவதற்கில்லை`;
 - scan 37: `பவளமலைச்`;
-- scan 40: `காலையில்`, `அலைந்தோம்`.
+- scan 40: `காலையில்`, `அலைந்தோம்`;
+- scan 56: `தொலைக்கிறாள்`;
+- scan 58: `தலைக்கேறி`.
 
 ### `ணா`
 - scans 3, 5 and 6: `கருணாநிதி`.
@@ -38,20 +40,30 @@ A family may be absent on a page; every page still receives the complete inspect
 ### `ணை`
 - scan 7: `துணைவி`;
 - scan 24: `கண்ணை`;
-- scan 37: `கணையாழி`.
+- scan 37: `கணையாழி`;
+- scan 59: `விசாரணைமண்டபத்தில்`.
 
 ### `ளை`
-- scan 24: `வளையிலேயே`.
+- scan 24: `வளையிலேயே`;
+- scan 57: `அவளை`.
 
 ### `னை`
 - scan 3: `விற்பனை`, `சென்னை`;
 - scan 4: `சென்னை`;
-- scan 6: `சென்னை`.
+- scan 6: `சென்னை`;
+- scan 53: `மனைவி`;
+- scan 54: `அவனைச்`.
 
 ### `றா`
-- scan 6: `காரணமாகும்`.
+- scan 6: `காரணமாகும்`;
+- scan 55: `தோற்றால்`;
+- scan 56: `தொலைக்கிறாள்`;
+- scan 57: `தருகிறாள்`, `உபசரிக்கிறாள்`.
 
-No positive reference is yet promoted for `ணொ / ணோ / றொ / றோ / னா / னொ / னோ`.
+### `னொ`
+- scan 56: `இன்னொன்று` — first secure positive same-edition witness for this family.
+
+No positive reference is yet promoted for `ணொ / ணோ / றொ / றோ / னா / னோ`.
 
 ## Closure audit — scans 1–10
 
@@ -114,16 +126,33 @@ All ten scans were re-inspected directly from the supplied source. **No page is 
 
 No open page in scans 41–50 contributes a new secure reference form.
 
+## Closure audit — scans 51–60
+
+All ten scans were re-inspected directly from the supplied source. **Seven pages newly close PASS / verified: scans 53–59.**
+
+- scan 51 / p.49: `காட்சி 13.` / `இடம்: தெருவில்.` and the street dialogue are secure, but the long pre-scene bold parenthetical remains exact-word held; whole-page gate stays open;
+- scan 52 / p.50: `காட்சி 14.` / `இடம்: புத்தன் முகாம்` are secure, but both the comic/song parenthetical and the long dawn-stage parenthetical retain exact-word holds; whole-page gate stays open;
+- scan 53 / p.51: scene-14 close / `காட்சி 15.` opener and complete page **PASS / verified**; `மனைவி` adds secure `னை` evidence;
+- scan 54 / p.52: complete dialogue **PASS / verified**; source form `வளவு` retained; `அவனைச்` adds secure `னை` evidence;
+- scan 55 / p.53: complete page **PASS / verified**; physical scan-55→56 sentence boundary preserved; `தோற்றால்` adds secure `றா` evidence;
+- scan 56 / p.54: scan-55 continuation, `“இமயா பராக்”`, stage direction and printed speaker-label variation (`இமய`, `இமா`, `விபீஷ -`) **PASS / verified**; `இன்னொன்று` becomes the first secure `னொ` witness;
+- scan 57 / p.55: entrance/arrest setup and full page **PASS / verified**; `அவளை` adds secure `ளை` evidence;
+- scan 58 / p.56: dense arrest/accusation dialogue and full page **PASS / verified**; source forms such as `மட்டுந்தான்` and `ஊராள` remain unnormalized;
+- scan 59 / p.57: scene-15 close / `காட்சி 16.` transition, location and full page **PASS / verified**; `விசாரணைமண்டபத்தில்` adds secure `ணை` evidence;
+- scan 60 / p.58: dialogue and the later `புதர்` action block are secure, but one small lexical cluster in the opening bold parenthetical remains character-insecure; whole-page gate stays open.
+
+No wording was supplied from plot continuity, a later edition, OCR expectation or modern spelling. Open scans 51, 52 and 60 contribute no new secure bank forms.
+
 ## Current metrics
 
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **50 / 131** (`1–50`);
-- full historical-glyph passes: **26 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`);
-- visually verified: **26 / 131**;
-- `needs-review`: **105 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`);
+- closure-audited: **60 / 131** (`1–60`);
+- full historical-glyph passes: **33 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`);
+- visually verified: **33 / 131**;
+- `needs-review`: **98 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–131`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Run the next closure batch over **scans 51–60**. Revisit explicit holds only with stronger source pixels/enlargements and close the full 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
+Run the next closure batch over **scans 61–70**. Revisit explicit holds only with stronger source pixels/renderings and close the full 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
