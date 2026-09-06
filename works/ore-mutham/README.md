@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; CLOSURE AUDIT COMPLETE FOR SCANS 1–50; 26 VERIFIED; 105 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 26 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
+**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; CLOSURE AUDIT COMPLETE FOR SCANS 1–60; 33 VERIFIED; 98 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 33 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -30,14 +30,19 @@ Scan 6 independently supports the Sri Lankan historical-fragment basis and first
 
 Do not renumber the supplementary scenes as main-play scenes 31–33.
 
-## Closure audit checkpoint — scans 1–50
+## Closure audit checkpoint — scans 1–60
 
 - scan 1 remains `needs-review`: title secure; small stylized cover lettering / tiny artist mark unresolved;
 - scans **2–20** are verified;
 - verified pages added in scans 21–30: **22, 24, 25, 26**;
 - verified pages added in scans 31–40: **33, 37, 40**;
-- **no page in scans 41–50 is newly promoted**: all ten retain at least one character-level, punctuation, stage-direction, or dense historical-type hold;
-- scan 49 has one durable source correction: `மலரைச் சாப்பாற்றினாய்` → **`மலரைக் காப்பாற்றினாய்`**;
+- **no page in scans 41–50 was promoted**: all ten retain at least one character-level, punctuation, stage-direction, or dense historical-type hold;
+- scans **53–59** are newly **verified** in the scans 51–60 batch;
+- scans **51, 52 and 60** remain `needs-review` because explicit bold-parenthetical lexical holds remain;
+- scan 55→56 physical continuation is directly closed and preserved without silent joining;
+- scan 56 preserves source-visible speaker-label variation `இமய` / `இமா` / `விபீஷ -` and supplies the first secure `னொ` witness `இன்னொன்று`;
+- scan 59 verifies `காட்சி 15.` close / `காட்சி 16.` opener and `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`;
+- scan 49 retains the durable source correction `மலரைச் சாப்பாற்றினாய்` → **`மலரைக் காப்பாற்றினாய்`**;
 - scan 46 securely preserves `காட்சி 12.` / `இடம்: ஆற்றோரம்` while its whole-page gate remains open;
 - scan 50 securely preserves the `வெளியில்` / `உள்ளே` alternation and voice/vision line-breaking while its whole-page gate remains open.
 
@@ -62,12 +67,13 @@ Mandatory family set:
 
 Current secure reference bank includes:
 
-- `லை` — scans 3, 4, 5, 6, 37, 40;
+- `லை` — scans 3, 4, 5, 6, 37, 40, 56, 58;
 - `ணா` — scans 3, 5, 6;
-- `ணை` — scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`;
-- `ளை` — scan 24 `வளையிலேயே`;
-- `னை` — scans 3, 4, 6;
-- `றா` — scan 6.
+- `ணை` — scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`, scan 59 `விசாரணைமண்டபத்தில்`;
+- `ளை` — scan 24 `வளையிலேயே`, scan 57 `அவளை`;
+- `னை` — scans 3, 4, 6; scan 53 `மனைவி`; scan 54 `அவனைச்`;
+- `றா` — scan 6 `காரணமாகும்`, scan 55 `தோற்றால்`, scan 56 `தொலைக்கிறாள்`, scan 57 `தருகிறாள்` / `உபசரிக்கிறாள்`;
+- `னொ` — scan 56 `இன்னொன்று` — first secure positive same-edition witness.
 
 No global replacement, spelling modernization, semantic repair or plot-based completion is allowed.
 
@@ -75,10 +81,10 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **50 / 131** (`1–50`);
-- visually verified: **26 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`);
-- `needs-review`: **105 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`);
-- historical-glyph passes: **26 / 131**;
+- closure-audited: **60 / 131** (`1–60`);
+- visually verified: **33 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`);
+- `needs-review`: **98 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–131`);
+- historical-glyph passes: **33 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - formal structural inventory: **not started**;
@@ -87,4 +93,4 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 ## Exact next activity
 
-Run the next **source-pass closure batch over scans 51–60**. Resolve only from stronger source pixels/enlargements and run the complete 13-family historical-glyph gate on each scan. Do not begin scene assembly or English translation.
+Run the next **source-pass closure batch over scans 61–70**. Resolve only from stronger source pixels/renderings and run the complete 13-family historical-glyph gate on each scan. Do not begin scene assembly or English translation.
