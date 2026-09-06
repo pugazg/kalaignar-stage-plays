@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 needs-review; structural inventory PASS; 7/7 Tamil SRUs assembled/reviewed PASS; English Batch 01 PASS/LOCKED; 2/7 English SRUs reviewed** |
+| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 needs-review; structural inventory PASS; 7/7 Tamil SRUs assembled/reviewed PASS; English Batches 01–02 PASS/LOCKED; 3/7 English SRUs reviewed** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archive/assembly PASS; independent English PASS; 2009 One Act Plays witness N/A** |
@@ -33,23 +33,21 @@ Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீய
 - structural/scene inventory: **COMPLETE / PASS — 7 editorial SRUs**;
 - Tamil source-representation assembly: **7 / 7 COMPLETE / REVIEWED — PASS**;
 - English translation: **AUTHORIZED / IN PROGRESS**;
-- English artifacts present/reviewed: **2 / 7**;
-- completed English batches: **1 / 4**.
+- English artifacts present/reviewed: **3 / 7**;
+- completed English batches: **2 / 4**.
 
-The durable `works/thiruvalar-desiyampillai/PAGE_LAYER_COMPLETION_AUDIT.md` records **coverage PASS** but not 49/49 verification. Source limitations remain explicit: front-matter holds `1, 3, 4, 5`; body paper-loss holds `7, 8, 9`; unresolved body clusters on `35, 36`.
+The durable page-layer, structural-inventory and Tamil-assembly audits remain authoritative. The source has no numbered scenes or acts; the nine page-level review holds remain explicit and are not changed by translation.
 
-The durable `works/thiruvalar-desiyampillai/STRUCTURAL_SCENE_INVENTORY.md` records **PASS / REVIEWED**. The source has no numbered scenes or acts. Seven editorial SRUs preserve source order and defensible printed transitions only.
+`works/thiruvalar-desiyampillai/TRANSLATION_PLAN.md` is **AUTHORIZED / IN PROGRESS**.
 
-The durable `works/thiruvalar-desiyampillai/ASSEMBLY_REVIEW.md` records **PASS / REVIEWED**. All seven Tamil SRUs are present; all 42 dramatic scans are represented; SRU-01 preserves every `[paper loss]`; SRU-04 preserves all three unresolved markers; scan-47 `உதயசூரியன் கோலம்` remains internal; scan 48 has no invented `முற்றும்`.
-
-`works/thiruvalar-desiyampillai/TRANSLATION_PLAN.md` is **AUTHORIZED / IN PROGRESS**. Batch 01 is durably reviewed in `translations/en/BATCH_01_REVIEW.md`:
-
-- `sru-01-yama-court.md` — reviewed; **7 / 7** `[paper loss]` markers retained;
-- `sru-02-guesthouse.md` — reviewed;
-- secondary-English witness use: **0**;
+- Batch 01: `sru-01-yama-court.md` + `sru-02-guesthouse.md` — **PASS / LOCKED**;
+- Batch 02: `sru-03-eman-interview.md` — **PASS / LOCKED**;
+- SRU-01 preserves **7 / 7** `[paper loss]` markers;
+- SRU-03 preserves the repeated `pillai` wordplay, `uyarthinai / ahrinai`, `pancha-varnam / pancham`, and tax/election/Five-Year-Plan satire without a secondary English witness;
+- secondary-English witness use across completed English artifacts: **0**;
 - Tamil archival changes caused by translation: **0**.
 
-**Exact next activity:** process English Translation Batch 02 — translate and fully review Tamil `scenes/sru-03-eman-interview.md`, create `translations/en/sru-03-eman-interview.md`, then create `translations/en/BATCH_02_REVIEW.md` before advancing.
+**Exact next activity:** process English Translation Batch 03 — translate and fully review Tamil `scenes/sru-04-gandhi-journey.md`, preserving exactly **1** `[unresolved glyph cluster]` and **2** `[unresolved descriptive cluster]` markers, then create `translations/en/BATCH_03_REVIEW.md` before advancing.
 
 ## Closed காகிதப்பூ checkpoint
 
