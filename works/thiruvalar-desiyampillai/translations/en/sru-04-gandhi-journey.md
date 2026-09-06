@@ -5,8 +5,8 @@ editorial_label: "Journey, Nandan and Gandhi / Sorgach Chirai"
 work: "thiruvalar-desiyampillai"
 source_sru: "../../scenes/sru-04-gandhi-journey.md"
 source_scan_pages: [28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
-status: "translation-draft"
-translation_review: "pending"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
 unresolved_glyph_markers_retained: 1
@@ -19,7 +19,7 @@ The two of them rise and set out to see Gandhi. Along the way there are many flo
 
 Yama tells Desiyam Pillai this as though it were the most ordinary matter. Desiyam Pillai scoops out and holds forward one hundred naya paise. Someone takes them. The coins disappear. A rose garland is placed in Desiyam Pillai's hand.
 
-He receives it respectfully and begins walking behind Yama. The soft fragrance of jasmine, mullai and other flowers spreads richly through the air. The scent of incense fills the heart with delight. Gold-plated steps glitter brilliantly; diamonds set here and there shower light. Yama stops beside a great door inlaid with the nine gems and calls, “Nanda! Nanda!!”
+He receives it respectfully and begins walking behind Yama. The soft fragrance of jasmine, mullai and other flowers wafts “kama kama” through the air. The scent of incense fills the heart with delight. Gold-plated steps glitter brilliantly; diamonds set here and there shower light. Yama stops beside a great door inlaid with the nine gems and calls, “Nanda! Nanda!!”
 
 A young man with a dark complexion, a sturdy body, and an attractive appearance comes and stands beside Yama.
 
@@ -35,7 +35,7 @@ Then Nandan brings him water. Saying, “In danger there is no sin,” Desiyam P
 
 After obtaining an entry permit from Nandan, Desiyam Pillai and Yama enter the prison called Heaven to see Gandhi.
 
-Rows upon rows of lamps are burning. Sweet music spreads everywhere. Dancing women are performing here and there. A splendid pavilion overflowing with beauty enough to dazzle the eye! In its centre, a priceless throne of the nine gems! A maharaja is seated upon it. Gems flash so brightly that one might wonder whether this is the maharaja's clothing or whether he has wrapped himself in the stars of the sky. Desiyam Pillai looks closely. He realizes that the great man who had been praised as a naked mendicant, embodiment of non-violence, partner of the poor, friend of the worker, and example of simple living is now sitting there in delight, clothed in gold, gems and glittering diamonds.
+Rows upon rows of lamps are burning. Sweet music spreads everywhere. Dancing women are performing here and there. A splendid pavilion overflowing with beauty enough to dazzle the eye! In its centre, a priceless throne of the nine gems! A maharaja is seated upon it. Gems flash so brightly that one might wonder whether this is the maharaja's clothing or whether he has wrapped himself in the stars of the sky. Desiyam Pillai looks closely. He realizes that the great *Poppanthar* who had been praised as a naked mendicant, embodiment of non-violence, partner of the poor, friend of the worker, and example of simple living is now sitting there in delight, clothed in gold, gems and glittering diamonds.
 
 “Ayya! What is this spectacle?”
 
@@ -61,7 +61,7 @@ Desiyam Pillai moves to place the garland in his hand around Gandhi's neck.
 
 “What are you saying, Mahatma?”
 
-“In temples, a priest acts as though he has extraordinary devotion to the idols of the gods. Even if the priest has no devotion to the god represented by those idols, he does not even have attachment to the idol itself! People imagine that the priest has enormous reverence for the idol. So they give respect to the priest too. That great sinner will cover a fired brick with a wet cloth and pretend to offer piping-hot ‘Pongal naivedyam.’ ‘Ah! What devotion this priest has!’ the devotees will stand open-mouthed. In this way the priest goes on deceiving the devotees. As long as the devotees remain deceived, it is a festival for the priest! All that remains for the god is the brick-offering! And in the town the priest wins the title of a virtuous man! There are some parties in the earthly world just like this, appa. Party leaders see their god only in a brick...... the priests live in delight...... In that category, the first-class party is Congress! The first-class priest is you! The first-class party-dupe's god is me!”
+“In temples, a priest acts as though he has extraordinary devotion to the idols of the gods. Even if the priest has no devotion to the god represented by those idols, he does not even have attachment to the idol itself! People imagine that the priest has enormous reverence for the idol. So they give respect to the priest too. That great sinner will cover a fired brick with a wet cloth and pretend to offer piping-hot ‘Pongal naivedyam.’ ‘Ah! What devotion this priest has!’ the devotees will stand open-mouthed. In this way the priest goes on deceiving the devotees. As long as the devotees remain deceived, it is a festival for the priest! All that remains for the god is the brick-offering! And in the town the priest wins the title of a virtuous man! There are some parties in the earthly world just like this, appa. Party leaders see their god only in a brick...... the priests live in delight...... In that category, the first-class party is Congress! The first-class priest is you! The first-class party-dupe; the god—me!”
 
 Gandhi's eyes fill with tears. Desiyam Pillai struggles, unable to reply. Yama strokes the buffalo.
 
@@ -79,7 +79,7 @@ Gandhi begins speaking in a trembling, tear-choked voice.
 
 “I used to grieve that even tiny living creatures should not die from contact with my footwear. Now, I hear, each of you wears those very sandals in turn and uses them to suppress, trample and crush thousands of people!
 
-“You ruined all these possessions. You destroyed my home too. Let them go; let everything go. Have you at least properly protected the treasure that is my beloved child, ‘Harijan Welfare,’ which was like my nose and like my heart? Does not my dear child now look like a ‘savalai pillai’? A nose running with mucus, a [unresolved descriptive cluster] mouth, a protruding belly, bent legs and arms, breath dragging as though [unresolved descriptive cluster]—is it not in just such a state, staggering and stumbling, that they have left the jewel I brought forth destitute in the middle of the street, beside the drain, on a mound of dust! Could you not have protected at least that one treasure? I hear that, in the name of protecting it, you put on an outward show and appointed an ‘old ayah’ for the great institution. Those old women, they say, look like ‘Poothaki,’ who came to kill Kannan. My child, they say, suffers with no one to support it!
+“You ruined all these possessions. You destroyed my home too. Let them go; let everything go. Have you at least properly protected the treasure that is my beloved child, ‘Harijan Welfare,’ which was like my nose and like my heart? Does not my dear child now look like a ‘savalai pillai’? A nose running with mucus, a [unresolved descriptive cluster] mouth, a protruding belly, bent legs and arms, breath dragging as though [unresolved descriptive cluster]—is it not in just such a state, staggering and stumbling, that they have left the jewel I brought forth destitute in the middle of the street, beside the drain, on a mound of dust! Could you not have protected at least that one treasure? I hear that, merely as an outward show of protecting it, you have appointed an ‘old ayah’ for the great man. Those old women, they say, look like ‘Poothaki,’ who came to kill Kannan. My child, they say, suffers with no one to support it!
 
 “In this condition, have you come to put a garland on me with your dirt-stained hands?
 
@@ -93,7 +93,7 @@ Yama cries out, “Ah!”
 
 “What? What?” Gandhi asks.
 
-“Here—this Desiyam Pillai set Swami Ranganatha on fire at Srirangam and then ran here!” Yama shouts.
+“Here—this Desiyam Pillai, it seems, set Swami Ranganatha on fire at Srirangam and then ran here!” Yama shouts.
 
 “Ah! He set Ranganatha on fire? Tell me in detail! Tell me in detail!” Gandhi asks in agitation.
 
@@ -111,12 +111,16 @@ Yama says, “Mm, walk! Walk!” The buffalo gives Desiyam Pillai a butt in the 
 
 ## Translation notes
 
-- Drafted only from the reviewed Tamil SRU; no OCR/PDF substitute, later edition, web text, general-knowledge reconstruction, or secondary English witness was used.
+- Drafted and reviewed only from the complete reviewed Tamil SRU; no OCR/PDF substitute, later edition, web text, general-knowledge reconstruction, or secondary English witness was used.
 - The exact source-provenance markers are retained in place: **1** `[unresolved glyph cluster]` and **2** `[unresolved descriptive cluster]`. No wording is supplied inside or around them to resolve the missing Tamil.
 - `Sorgach Chirai` in the editorial label refers to the source phrase `சொர்க்கச் சிறை`; in the body the source's satirical prison-name is rendered as `the prison called Heaven` / `Heaven`.
+- The source's `கம கம` fragrance sound-expression is retained as `kama kama` rather than silently dropped.
 - Nandan's fire/caste passage is translated directly without supplying outside legend or commentary.
+- The source form `போப்பந்தர்` is retained as *Poppanthar* rather than silently corrected or replaced from general knowledge.
 - `naya paise`, `mullai`, `naivedyam`, `appa`, `ayya`, `crores`, `Navakali`, `Harijan Welfare`, `savalai pillai`, `Poothaki`, `Kannan`, and `nagam` are retained where replacing them with a confident modern gloss would alter the historical/source register or resolve ambiguity the Tamil SRU leaves open.
+- The compressed source clause `முதல்தரமான கட்சி ஏமாளி; கடவுள், நான்!` is kept deliberately compressed in English rather than expanded into a more certain relationship than the Tamil supports.
 - The source-period term `Harijan Welfare` is retained as historical wording; the translation does not substitute a present-day term.
+- The phrase `மகானத்துக்கு ஓர் “ஆயாக் கிழவி”` is rendered conservatively as `an “old ayah” for the great man`; no external identification or institutional gloss is supplied.
 - The party/priest/idol analogy, Congress satire, military/assassination passage, and later political allegory are translated without ideological softening or external explanatory expansion.
 - The phrase containing `எங்குவேன்` in the footwear passage is semantically unusual in the locked Tamil SRU; the English is deliberately conservative and does not alter the Tamil source reading.
 - `கோட்டான்` is retained as *kottaan* because an exact intended English referent is not securely established by the reviewed SRU alone.
