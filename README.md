@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — 131 scans registered; source processing 115/131; verified 4; needs-review 111; historical-glyph pass 4/131; checksum recorded; structure/assembly not started; English not authorized** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — RAW SOURCE PASS COMPLETE: 131/131 processed; verified 4; needs-review 127; historical-glyph pass 4/131; main play 30 source-visible scenes + separate 3-scene `நகைச் சுவைப் பகுதி`; closure audit next; assembly/English not started** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -25,44 +25,42 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 - file size: **224,884,964 bytes**;
 - physical scans: **131**;
 - SHA-256: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**;
-- scans **1–7**: front matter;
-- scans **8–130**: dramatic body;
-- scan **131**: back-cover publisher advertisement;
-- printed pages directly confirmed through scan 115: **pp.6–113**;
-- source-visible scene anchors currently reach **`காட்சி 29.`**;
-- scan 130 is printed p.128 and the final dramatic page.
+- printed pages directly confirmed throughout **pp.6–128**;
+- scans **8–118 / pp.6–116**: main play `ஒரே முத்தம்`, **30 source-visible scenes**;
+- scan **117 / p.115** opens `காட்சி 30.` / `இடம்:- குமரியின் படுக்கை.`;
+- scan **118 / p.116** closes the main play and prints a closing verse;
+- scans **119–130 / pp.117–128**: separately headed **`நகைச் சுவைப் பகுதி.`**, with its own **3 scenes**;
+- scan **131**: back-cover publisher advertisement.
 
-Processed scans 1–115:
+Processed scans 1–131:
 
 - **verified:** `2, 3, 4, 6`;
-- **needs-review:** `1, 5, 7–115`;
+- **needs-review:** `1, 5, 7–131`;
 - full historical-glyph passes: `2, 3, 4, 6`;
-- scan 6 verifies the author foreword, including the Sri Lankan historical-fragment basis and first staging by `தேவி நாடக சபை`;
 - scan 25 directly prints caste division as a governing tactic;
-- scan 31 contains direct anti-caste / anti-untouchability dramatic dialogue;
-- scan 75 directly preserves discriminatory caste-law dialogue;
-- scan 106 opens `காட்சி 28.` at `தூக்குமேடை.`;
-- scan 112 opens `காட்சி 29.` at `அரண்மனை நந்தவனம்.`;
-- scan 115 directly develops a law/custom argument using `கலப்புமணம்`;
-- scans 106–115 preserve execution-platform, forged-letter-reversal and marriage/social-law material source-first, with explicit holds where exact wording remains uncertain;
-- exact location lines for scenes 4 and 5 remain held.
+- scan 31 contains direct anti-caste / anti-untouchability dialogue;
+- scan 75 preserves discriminatory caste-law dialogue;
+- scan 115 directly uses `கலப்புமணம்` in the law/custom debate;
+- scan 118 is the main-play endpoint; scan 119 begins the distinct supplementary comedy section;
+- exact location lines for main-play scenes 4 and 5 remain held.
 
 Current metrics:
 
 - source scans registered: **131 / 131**;
-- page/source processing: **115 / 131**;
-- visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **111 / 131** (`1, 5, 7–115`);
-- historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **29**;
+- page/source processing: **131 / 131 — COMPLETE**;
+- visually verified: **4 / 131**;
+- `needs-review`: **127 / 131**;
+- historical-glyph passes: **4 / 131**;
+- main-play source-visible scenes: **30**;
+- supplementary-comedy source-visible scenes: **3**;
 - checksum: **recorded**;
-- structural inventory: **not started**;
+- formal structural inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 The supplied scan is controlling authority. No held text is repaired from plot continuity, OCR expectation, another edition, or modern spelling.
 
-The active source pass uses **10-scan iterations**. **Exact next activity:** process source scans **116–125** with direct visual fidelity, printed-page confirmation and the full 13-family historical-glyph gate.
+**Exact next activity:** source-pass closure audit of the 127 `needs-review` page records. Do not begin scene assembly or English translation during that closure phase.
 
 ## Closed work safeguards
 
