@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 needs-review; structural inventory PASS; 7/7 Tamil SRUs assembled/reviewed PASS; English Batches 01–03 PASS/LOCKED; 4/7 English SRUs reviewed** |
+| [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **ACTIVE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 needs-review; structural inventory PASS; 7/7 Tamil SRUs assembled/reviewed PASS; English 7/7 individually reviewed; 4/4 batches PASS/LOCKED; final English review pending** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
 | [பரதாயணம்](works/bharathayanam/) | **Tamil archive/assembly PASS; independent English PASS; 2009 One Act Plays witness N/A** |
@@ -28,25 +28,28 @@ Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீய
 - Tamil page records/source processing: **49 / 49 complete**;
 - historical-glyph passes: **49 / 49 complete**;
 - visually verified: **40 / 49**;
-- `needs-review`: **9 / 49**;
+- `needs-review`: **9 / 49** (`1, 3, 4, 5, 7, 8, 9, 35, 36`);
 - unresolved visual/source clusters: **3**;
 - structural/scene inventory: **COMPLETE / PASS — 7 editorial SRUs**;
 - Tamil source-representation assembly: **7 / 7 COMPLETE / REVIEWED — PASS**;
-- English translation: **AUTHORIZED / IN PROGRESS**;
-- English artifacts present/reviewed: **4 / 7**;
-- completed English batches: **3 / 4**.
+- English artifacts present/reviewed: **7 / 7**;
+- completed English batches: **4 / 4 PASS / LOCKED**;
+- final English `TRANSLATION_REVIEW.md`: **pending**.
 
-The durable Tamil page-layer, structural-inventory and assembly audits remain authoritative. The source has no numbered scenes or acts; the nine page-level review holds remain explicit and are not changed by translation.
+The durable page-layer, structural-inventory and Tamil-assembly audits remain authoritative. The source has no numbered scenes or acts; the nine page-level review holds remain explicit and are not changed by translation.
 
-`works/thiruvalar-desiyampillai/TRANSLATION_PLAN.md` is **AUTHORIZED / IN PROGRESS**.
+English batch controls now complete:
 
 - Batch 01: `sru-01-yama-court.md` + `sru-02-guesthouse.md` — **PASS / LOCKED**; SRU-01 `[paper loss]` **7 / 7 retained**;
 - Batch 02: `sru-03-eman-interview.md` — **PASS / LOCKED**;
-- Batch 03: `sru-04-gandhi-journey.md` — **PASS / LOCKED**; scan-35 `[unresolved glyph cluster]` **1 / 1 retained** and scan-36 `[unresolved descriptive cluster]` **2 / 2 retained**;
-- secondary-English witness use across completed English artifacts: **0**;
+- Batch 03: `sru-04-gandhi-journey.md` — **PASS / LOCKED**; `[unresolved glyph cluster]` **1 / 1** and `[unresolved descriptive cluster]` **2 / 2 retained**;
+- Batch 04: `sru-05-stairfall-dream-exit.md` + `sru-06-domestic-election-argument.md` + `sru-07-udayasuriyan-kolam-close.md` — **PASS / LOCKED**;
+- `உதயசூரியன் கோலம்` remains internal in SRU-07 as `Rising Sun Kolam`;
+- invented `The End`: **0**;
+- secondary-English witness use: **0**;
 - Tamil archival changes caused by translation: **0**.
 
-**Exact next activity:** process English Translation Batch 04 — translate and fully review Tamil SRUs 05–07, preserving the stair/place-name wordplay, domestic colloquial/political register, internal `உதயசூரியன் கோலம்` intertitle, and the source close without an invented `The End`; then create `translations/en/BATCH_04_REVIEW.md`.
+**Exact next activity:** perform the final **7 / 7 English translation closure gate** and create `works/thiruvalar-desiyampillai/translations/en/TRANSLATION_REVIEW.md`. Do not mark the English first-pass layer COMPLETE / CLOSED until that final review passes.
 
 ## Closed காகிதப்பூ checkpoint
 
