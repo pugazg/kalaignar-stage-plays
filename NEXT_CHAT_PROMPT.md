@@ -32,28 +32,38 @@ Read before source-dependent change:
 
 All **131 / 131** scans are directly source-processed and represented by `pages/0001.md`–`0131.md`. Main play scans 8–118 / pp.6–116 have 30 source-visible scenes; scans 119–130 / pp.117–128 are the separate 3-scene `நகைச் சுவைப் பகுதி.`; scan 131 is back-cover advertising.
 
-## Closure audit checkpoint — scans 1–20 COMPLETE
+## Closure audit checkpoint — scans 1–30 COMPLETE
 
-- verified: **19 / 131** — scans `2–20`;
-- `needs-review`: **112 / 131** — scan `1` and scans `21–131`;
-- historical-glyph passes: **19 / 131**;
-- closure-audited: **20 / 131**.
+- verified: **23 / 131** — scans `2–20`, `22`, `24–26`;
+- `needs-review`: **108 / 131** — scans `1`, `21`, `23`, `27–131`;
+- historical-glyph passes: **23 / 131**;
+- closure-audited: **30 / 131**.
 
-Scan 1 remains open because its small stylized vertical cover lettering and tiny artist/signature mark are not character-secure.
+Important source findings in scans 21–30:
 
-Important source corrections/resolutions from scans 11–20:
+- scan 21 / p.19: second stage direction resolves as `துவங்குகிறான்`; opening bold direction remains held;
+- scan 22 / p.20: held comparison resolves as `புயலைப்போல` — verified;
+- scan 23 / p.21: opening lexical item remains unresolved; do not restore provisional `ஏமைகள்` as verified text;
+- scan 24 / p.22: held parenthetical resolves as `(2-வது காவியைக் காட்டி)` — verified; secure `ளை` reference `வளையிலேயே` and `ணை` reference `கண்ணை`;
+- scan 25 / p.23: complete page verified; direct dramatic line `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.` remains source evidence;
+- scan 26 / p.24: complete page verified; source punctuation is `கனவு! கனவு!`;
+- scan 27 / p.25: several small bold stage-direction holds remain;
+- scan 28 / p.26: one dialogue phrase remains held;
+- scan 29 / p.27: one `புத்த` lexical clause remains held;
+- scan 30 / p.28: one small parenthetical action direction remains held.
 
-- scan 11 / p.9: `காட்சி 3.` location is **`இடம்:- மாளிகையில் ஒருபுறம்.`**; the older provisional `மலர்நகரில் ஒரு புறம்.` reading was incorrect and must not be restored;
-- scan 15 / p.13: **`காட்சி 4.` — `இடம்:- இமயாவின் மாளிகை`**;
-- scan 19 / p.17: **`காட்சி 5.` — `இடம்:- முல்லைக்காட்டு நகரத்தெரு`**;
-- scans 11–20 are fully transcribed and historical-glyph closed from enlarged pixels;
-- physical page continuations are retained source-first.
+Earlier corrections remain authoritative and must not be reverted:
+
+- scan 11: `இடம்:- மாளிகையில் ஒருபுறம்.`;
+- scan 15: `இடம்:- இமயாவின் மாளிகை`;
+- scan 19: `இடம்:- முல்லைக்காட்டு நகரத்தெரு`.
 
 ## Current secure historical-glyph bank
 
 - `லை`: scans 3, 4, 5, 6;
 - `ணா`: scans 3, 5, 6;
-- `ணை`: scan 7 `துணைவி`;
+- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`;
+- `ளை`: scan 24 `வளையிலேயே`;
 - `னை`: scans 3, 4, 6;
 - `றா`: scan 6.
 
@@ -63,11 +73,11 @@ Full mandatory family gate on every closure-reviewed scan:
 
 No global replacement. No spelling, grammar, punctuation, speaker-label or scene-heading normalization. No context-based/plot-based repair.
 
-## Exact next activity — SOURCE-PASS CLOSURE AUDIT, scans 21–30
+## Exact next activity — SOURCE-PASS CLOSURE AUDIT, scans 31–40
 
 Do **not** begin formal scene assembly or English translation.
 
-Process scans **21–30** as the next closure batch:
+Process scans **31–40** as the next closure batch:
 
 1. inspect each page directly from source pixels/enlarged crops;
 2. revisit every explicit `source-held` / `needs-review` item;
