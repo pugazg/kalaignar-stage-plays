@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — 131 PHYSICAL SCANS REGISTERED; SOURCE PROCESSING 60 / 131; 4 VERIFIED; 56 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 4 / 131; CHECKSUM RECORDED; STRUCTURE/ASSEMBLY NOT STARTED.**
+**ACTIVE — 131 PHYSICAL SCANS REGISTERED; SOURCE PROCESSING 65 / 131; 4 VERIFIED; 61 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 4 / 131; CHECKSUM RECORDED; STRUCTURE/ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -26,7 +26,7 @@ The dramatic body directly supports an anti-caste theme: scan 25 / p.23 shows ca
 
 ## Source-visible structure
 
-Direct scene anchors now reach `காட்சி 16.`:
+Direct scene anchors now reach `காட்சி 17.`:
 
 - scan 8 / p.6 — `காட்சி 1.`;
 - scan 9 / p.7 — `காட்சி 2.`;
@@ -43,17 +43,19 @@ Direct scene anchors now reach `காட்சி 16.`:
 - scan 51 / p.49 — `காட்சி 13.` / `இடம்: தெருவில்.`;
 - scan 52 / p.50 — `காட்சி 14.` / `இடம்: புத்தன் முகாம்`;
 - scan 53 / p.51 — `காட்சி 15.` / `இடம்: விபீஷணன் மண்டபம்.`;
-- scan 59 / p.57 — `காட்சி 16.` / `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`.
+- scan 59 / p.57 — `காட்சி 16.` / `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`;
+- scan 64 / p.62 — `காட்சி 17.` / `இடம்:- விசாரண மண்டபம்`.
 
-Printed numerals are directly confirmed through scan 60: **pp.6–58**.
+Printed numerals are directly confirmed through scan 65: **pp.6–63**.
 
-## Batch 56–60
+## Batch 61–65
 
-- scan 56 directly resolves the physical sentence continued from scan 55 and continues scene 15 through the `இமயா பராக்` transition;
-- scan 57 brings `புத்த`, வீரர்கள் and `குமரி` into scene 15 and develops the invitation-to-arrest setup;
-- scan 58 records the arrest/accusation exchange between `புத்த`, `விபீஷ` and `இமய`;
-- scan 59 closes scene 15 and opens `காட்சி 16.` at `பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`;
-- scan 60 continues the `பொன்னி` / `புத்த` encounter and retains one small opening parenthetical lexical cluster as an explicit source hold;
+- scans 61–63 continue `காட்சி 16.` through the mock-spear exchange, separation/memory dialogue and `கணையாழி` pledge;
+- scan 61 retains one opening interrogative word and one small bracketed cue as explicit source holds;
+- scan 62 preserves the source alternation of `பொ:-` / `பொன்:-` rather than normalizing speaker labels;
+- scan 63 ends with a physical `அல்` split which continues as `லது` at the top of scan 64;
+- scan 64 closes scene 16 and securely opens `காட்சி 17.` at `விசாரண மண்டபம்`;
+- scans 64–65 begin the `விபீஷ` / `இமயா` trial-interrogation sequence;
 - all five pages remain `needs-review`;
 - no open historical-glyph candidate was promoted.
 
@@ -76,18 +78,18 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 - source scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **60 / 131**;
-- source scans processed: **60 / 131**;
+- page records created: **65 / 131**;
+- source scans processed: **65 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **56 / 131** (`1, 5, 7–60`);
+- `needs-review`: **61 / 131** (`1, 5, 7–65`);
 - historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **16**;
+- source-visible scene anchors: **17**;
 - structural/scene inventory: **not started**;
 - Tamil source-representation assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Process **scans 61–65** source-first. Directly confirm printed numerals, preserve exact scene/stage/speaker forms, and run the complete 13-family historical-glyph gate. Keep all existing holds open unless stronger source pixels genuinely resolve them.
+Process **scans 66–70** source-first. Directly confirm printed numerals, preserve exact scene/stage/speaker forms, and run the complete 13-family historical-glyph gate. Keep all existing holds open unless stronger source pixels genuinely resolve them.
 
 Do not begin scene assembly or English translation during the page-source pass.
