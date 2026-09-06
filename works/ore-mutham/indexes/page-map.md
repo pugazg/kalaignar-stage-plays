@@ -15,12 +15,19 @@ All **131 physical scans** are registered and source-processed. The individual `
 | 7 | — | cast list | verified | Entire cast inventory and `நகைச்சுவைப் பகுதி.` cast closed row-by-row; secure `ணை` witness `துணைவி`. |
 | 8 | 6 | `காட்சி 1.` | verified | Complete scene opener, procession, dialogue and historical-glyph gate closed. |
 | 9–10 | 7–8 | `காட்சி 1.` close / `காட்சி 2.` | verified | Complete page text closed; scan 10→11 physical `சொல்` / `ளார்.` continuation preserved. |
-| 11–14 | 9–12 | `காட்சி 3.` | verified | Full closure complete. Scan 11 location corrected from provisional reading to `இடம்:- மாளிகையில் ஒருபுறம்.`; scan 11→12 and scan 12→13 physical continuations preserved. |
-| 15–18 | 13–16 | `காட்சி 4.` | verified | Full closure complete. Scan 15 directly resolves `இடம்:- இமயாவின் மாளிகை`; scan 15→16 physical continuation preserved. |
-| 19–20 | 17–18 | `காட்சி 5.` | verified | Full closure complete. Scan 19 directly resolves `இடம்:- முல்லைக்காட்டு நகரத்தெரு`; scene-5 opening and scan-20 long dramatic passage closed. |
-| 21–23 | 19–21 | `காட்சி 6.` | needs-review | Scan 21: `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.` |
-| 24–26 | 22–24 | `காட்சி 7.` | needs-review | Scan 24: `இடம்: இமயாவின் மது மண்டபம்`. |
-| 27–31 | 25–29 | `காட்சி 8.` | needs-review | Scan 27: `இடம்:- முல்லைக்காட்டுப் பகுதி.`; scan 31 directly supports anti-caste / anti-untouchability argument. |
+| 11–14 | 9–12 | `காட்சி 3.` | verified | Full closure complete. Scan 11 location corrected to `இடம்:- மாளிகையில் ஒருபுறம்.`; physical continuations preserved. |
+| 15–18 | 13–16 | `காட்சி 4.` | verified | Full closure complete. Scan 15 directly resolves `இடம்:- இமயாவின் மாளிகை`. |
+| 19–20 | 17–18 | `காட்சி 5.` | verified | Full closure complete. Scan 19 directly resolves `இடம்:- முல்லைக்காட்டு நகரத்தெரு`. |
+| 21 | 19 | `காட்சி 6.` | needs-review | `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.`; `துவங்குகிறான்` stage-direction hold resolved, but opening bold direction remains held. |
+| 22 | 20 | `காட்சி 6.` | verified | Held comparison resolved as `புயலைப்போல`; whole-page visual + glyph gate PASS. |
+| 23 | 21 | `காட்சி 6.` | needs-review | Opening lexical item remains character-uncertain; earlier provisional `ஏமைகள்` is not retained as verified text. |
+| 24 | 22 | `காட்சி 6.` close / `காட்சி 7.` | verified | Parenthetical resolved as `(2-வது காவியைக் காட்டி)`; `இடம்: இமயாவின் மது மண்டபம்`; secure `ளை` witness `வளையிலேயே`. |
+| 25–26 | 23–24 | `காட்சி 7.` | verified | Complete dialogue closed; scan 25 caste-division line remains direct dramatic evidence; scan 26 source punctuation `கனவு! கனவு!` closed. |
+| 27 | 25 | `காட்சி 7.` close / `காட்சி 8.` | needs-review | `இடம்:- முல்லைக்காட்டுப் பகுதி.` secure; several small bold stage directions remain exact-word holds. |
+| 28 | 26 | `காட்சி 8.` | needs-review | One `1-வது கா` dialogue phrase remains held after enlarged closure review. |
+| 29 | 27 | `காட்சி 8.` | needs-review | One `புத்த` lexical clause remains held; `விபீஷணா?` is secure but page gate stays open. |
+| 30 | 28 | `காட்சி 8.` | needs-review | Surrounding dialogue rechecked; one small parenthetical action direction remains held. |
+| 31 | 29 | `காட்சி 8.` | needs-review | Directly supports anti-caste / anti-untouchability argument; closure audit not yet run. |
 | 32–36 | 30–34 | `காட்சி 9.` | needs-review | Scan 32: `இடம்:- விபீஷணன் அறை`. |
 | 37–40 | 35–38 | `காட்சி 10.` | needs-review | Scan 37: `இடம்: பவளமலைச் சாரல்`; scan 39→40 physical continuation preserved. |
 | 41–45 | 39–43 | `காட்சி 11.` | needs-review | Scan 41: `இடம்: விபீஷணன் தனியறை`; lexical/stage holds remain open. |
@@ -28,7 +35,7 @@ All **131 physical scans** are registered and source-processed. The individual `
 | 51 | 49 | `காட்சி 13.` | needs-review | `இடம்: தெருவில்.` |
 | 52 | 50 | `காட்சி 14.` | needs-review | `இடம்: புத்தன் முகாம்`; dense parentheticals remain open. |
 | 53–58 | 51–56 | `காட்சி 15.` | needs-review | Scan 53: `இடம்: விபீஷணன் மண்டபம்.`; scan 55→56 continuation directly resolved. |
-| 59–63 | 57–61 | `காட்சி 16.` | needs-review | Scan 59 location: `பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`; scan 63→64 physical `அல்` / `லது` split preserved. |
+| 59–63 | 57–61 | `காட்சி 16.` | needs-review | Scan 59: `பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`; scan 63→64 physical `அல்` / `லது` split preserved. |
 | 64–67 | 62–65 | `காட்சி 17.` | needs-review | Scan 64: `இடம்:- விசாரண மண்டபம்`; trial/interrogation sequence. |
 | 68–71 | 66–69 | `காட்சி 18.` | needs-review | Scan 68: `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.`; scan 67→68 `இமயா` / `வோடு` split preserved. |
 | 72–74 | 70–72 | `காட்சி 19.` | needs-review | Scan 72: `இடம்:- வசந்த மண்டபம்.`; scan 74 retains dense source holds. |
@@ -54,24 +61,28 @@ All **131 physical scans** are registered and source-processed. The individual `
 - checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
-- closure-audited: **scans 1–20**;
-- visually verified: **19 / 131** (`2–20`, except scan `1`);
-- `needs-review`: **112 / 131** (`1, 21–131`);
-- completed historical-glyph passes: **19 / 131** (`2–20`, except scan `1`);
+- closure-audited: **scans 1–30**;
+- visually verified: **23 / 131** (`2–20`, `22`, `24–26`);
+- `needs-review`: **108 / 131** (`1`, `21`, `23`, `27–131`);
+- completed historical-glyph passes: **23 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary comedy source-visible anchors: **3**;
 - formal structural/scene inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-## Closure audit checkpoint — scans 11–20
+## Closure audit checkpoint — scans 21–30
 
-- scans 11–20 all close **PASS / verified** from enlarged source pixels;
-- scan 11 corrects the earlier provisional `காட்சி 3.` location to `இடம்:- மாளிகையில் ஒருபுறம்.`;
-- scan 15 resolves `காட்சி 4.` location as `இடம்:- இமயாவின் மாளிகை`;
-- scan 19 resolves `காட்சி 5.` location as `இடம்:- முல்லைக்காட்டு நகரத்தெரு`;
-- page-boundary continuations and source forms were preserved without normalization.
+- scan 21: second stage direction resolves `துவங்குகிறான்`; opening bold direction remains held;
+- scan 22: `புயலைப்போல` directly resolved — **PASS / verified**;
+- scan 23: opening lexical item remains held; no contextual replacement;
+- scan 24: `(2-வது காவியைக் காட்டி)` directly resolved — **PASS / verified**; secure new `ளை` witness `வளையிலேயே`;
+- scans 25–26: complete page text/glyph gates close — **PASS / verified**;
+- scan 27: multiple small bold stage directions remain held;
+- scan 28: one dialogue phrase remains held;
+- scan 29: one `புத்த` lexical clause remains held;
+- scan 30: one small parenthetical action direction remains held.
 
 ## Exact next activity
 
-Continue the **source-pass closure audit with scans 21–30**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
+Continue the **source-pass closure audit with scans 31–40**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
