@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — RAW SOURCE PASS COMPLETE: 131/131 processed; closure-audited 1–40; verified 26; needs-review 105; historical-glyph pass 26/131; main play 30 scenes + separate 3-scene `நகைச் சுவைப் பகுதி`; assembly/English not started** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — RAW SOURCE PASS COMPLETE: 131/131 processed; closure-audited 1–50; verified 26; needs-review 105; historical-glyph pass 26/131; main play 30 scenes + separate 3-scene `நகைச் சுவைப் பகுதி`; assembly/English not started** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -30,31 +30,25 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 - scans **119–130 / pp.117–128**: separately headed **`நகைச் சுவைப் பகுதி.`**, with its own **3 scenes**;
 - scan **131**: back-cover publisher advertisement.
 
-Closure audit now completed for scans **1–40**:
+Closure audit now completed for scans **1–50**:
 
 - **verified:** `2–20`, `22`, `24–26`, `33`, `37`, `40`;
 - **needs-review:** `1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`;
 - historical-glyph passes: **26 / 131**;
-- scan 21 resolves `துவங்குகிறான்` but retains an opening stage-direction hold;
-- scan 22 resolves `புயலைப்போல` and is verified;
-- scan 23 retains its first lexical item as an explicit hold;
-- scan 24 resolves `(2-வது காவியைக் காட்டி)` and supplies secure `ளை` witness `வளையிலேயே`;
-- scans 25–26 are verified; scan 26 closes `கனவு! கனவு!` as source punctuation;
-- scans 27–30 remain open with explicit exact-word holds;
-- scans 31–40 were closure-audited; scans **33, 37 and 40** are newly verified;
-- scan 37 securely closes `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்`;
-- scan 40 securely preserves the source form `நாசகாலர்கள்`;
-- scans 31–32, 34–36 and 38–39 retain explicit character-level holds.
+- scans 41–50 were all re-inspected, but none was promoted because each retains at least one explicit character-level, punctuation, stage-direction, or dense historical-type hold;
+- scan 49 has a durable source correction: `மலரைச் சாப்பாற்றினாய்` → **`மலரைக் காப்பாற்றினாய்`**;
+- scan 46 securely preserves `காட்சி 12.` / `இடம்: ஆற்றோரம்` while remaining open;
+- scan 50 securely preserves the `வெளியில்` / `உள்ளே` alternation and source line-breaking while remaining open.
 
 Important direct thematic evidence remains durable: scan 25 caste-division governing tactic; scan 31 anti-caste / anti-untouchability dialogue; scan 75 discriminatory caste-law dialogue; scan 115 `கலப்புமணம்` law/custom debate.
 
 Current metrics:
 
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
-- closure-audited: **40 / 131**;
+- closure-audited: **50 / 131**;
 - visually verified: **26 / 131**;
 - `needs-review`: **105 / 131**;
-- historical-glyph passes: **23 / 131**;
+- historical-glyph passes: **26 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - checksum: **recorded**;
@@ -62,7 +56,7 @@ Current metrics:
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-**Exact next activity:** source-pass closure audit of **scans 41–50**. Do not begin scene assembly or English translation during closure.
+**Exact next activity:** source-pass closure audit of **scans 51–60**. Do not begin scene assembly or English translation during closure.
 
 ## Closed work safeguards
 
