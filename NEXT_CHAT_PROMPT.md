@@ -32,12 +32,12 @@ Read before source-dependent change:
 
 All **131 / 131** scans are directly source-processed and represented by `pages/0001.md`–`0131.md`. Main play scans 8–118 / pp.6–116 have 30 source-visible scenes; scans 119–130 / pp.117–128 are the separate 3-scene `நகைச் சுவைப் பகுதி.`; scan 131 is back-cover advertising.
 
-## Closure audit checkpoint — scans 1–30 COMPLETE
+## Closure audit checkpoint — scans 1–40 COMPLETE
 
-- verified: **23 / 131** — scans `2–20`, `22`, `24–26`;
-- `needs-review`: **108 / 131** — scans `1`, `21`, `23`, `27–131`;
-- historical-glyph passes: **23 / 131**;
-- closure-audited: **30 / 131**.
+- verified: **26 / 131** — scans `2–20`, `22`, `24–26`, `33`, `37`, `40`;
+- `needs-review`: **105 / 131** — scans `1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`;
+- historical-glyph passes: **26 / 131**;
+- closure-audited: **40 / 131**.
 
 Important source findings in scans 21–30:
 
@@ -50,7 +50,14 @@ Important source findings in scans 21–30:
 - scan 27 / p.25: several small bold stage-direction holds remain;
 - scan 28 / p.26: one dialogue phrase remains held;
 - scan 29 / p.27: one `புத்த` lexical clause remains held;
-- scan 30 / p.28: one small parenthetical action direction remains held.
+- scan 30 / p.28: one small parenthetical action direction remains held;
+- scan 31 / p.29: anti-caste dialogue remains source-secure, but dense character/spacing clusters keep the page open;
+- scan 32 / p.30: `காட்சி 9.` / `இடம்:- விபீஷணன் அறை` secure; one small stage/lexical cluster remains held;
+- scan 33 / p.31: complete page verified;
+- scans 34–36: colloquial/dense/stage-direction holds remain;
+- scan 37 / p.35: `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்` verified; secure `ணை` witness `கணையாழி`;
+- scans 38–39: explicit character-level holds remain; scan 39→40 continuation preserved;
+- scan 40 / p.38: complete page verified; source form `நாசகாலர்கள்` retained.
 
 Earlier corrections remain authoritative and must not be reverted:
 
@@ -60,9 +67,9 @@ Earlier corrections remain authoritative and must not be reverted:
 
 ## Current secure historical-glyph bank
 
-- `லை`: scans 3, 4, 5, 6;
+- `லை`: scans 3, 4, 5, 6, 37, 40;
 - `ணா`: scans 3, 5, 6;
-- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`;
+- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`;
 - `ளை`: scan 24 `வளையிலேயே`;
 - `னை`: scans 3, 4, 6;
 - `றா`: scan 6.
@@ -73,11 +80,11 @@ Full mandatory family gate on every closure-reviewed scan:
 
 No global replacement. No spelling, grammar, punctuation, speaker-label or scene-heading normalization. No context-based/plot-based repair.
 
-## Exact next activity — SOURCE-PASS CLOSURE AUDIT, scans 31–40
+## Exact next activity — SOURCE-PASS CLOSURE AUDIT, scans 41–50
 
 Do **not** begin formal scene assembly or English translation.
 
-Process scans **31–40** as the next closure batch:
+Process scans **41–50** as the next closure batch:
 
 1. inspect each page directly from source pixels/enlarged crops;
 2. revisit every explicit `source-held` / `needs-review` item;
