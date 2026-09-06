@@ -1,6 +1,6 @@
 # திருவாளர் தேசீயம்பிள்ளை — English translation
 
-Status: **AUTHORIZED / IN PROGRESS — BATCH 01 PASS / LOCKED; 2 / 7 SRUs TRANSLATED AND REVIEWED**
+Status: **AUTHORIZED / IN PROGRESS — BATCHES 01–02 PASS / LOCKED; 3 / 7 SRUs TRANSLATED AND REVIEWED**
 
 This directory is the independent source-faithful English translation layer for the seven reviewed Tamil source-representation units (SRUs) of **திருவாளர் தேசீயம்பிள்ளை**.
 
@@ -31,9 +31,9 @@ The source has no numbered scenes or acts. English filenames mirror the seven ed
 Current artifact status:
 
 - expected: **7**;
-- present: **2 / 7**;
-- reviewed: **2 / 7**;
-- translation batches complete: **1 / 4**;
+- present: **3 / 7**;
+- reviewed: **3 / 7**;
+- translation batches complete: **2 / 4**;
 - final translation review: **not started**;
 - secondary-English witness used: **no**.
 
@@ -46,7 +46,15 @@ Completed artifacts:
 - `sru-01-yama-court.md` — **translation-reviewed / passed**; all **7 / 7** `[paper loss]` markers retained;
 - `sru-02-guesthouse.md` — **translation-reviewed / passed**.
 
-Batch 01 review confirms complete Tamil→English comparison for both SRUs, source-order/boundary fidelity, no invented scene numbering, no secondary-English witness, and no translation-driven change to the Tamil layer.
+## Batch 02 — PASS / LOCKED
+
+Durable review: `BATCH_02_REVIEW.md` — **PASS / LOCKED**.
+
+Completed artifact:
+
+- `sru-03-eman-interview.md` — **translation-reviewed / passed**.
+
+Batch 02 review confirms complete Tamil→English comparison of the full interview unit, preservation of speaker-label variation, the repeated `pillai` wordplay, `uyarthinai / ahrinai`, tax/Congress/election/Five-Year-Plan satire, the exact SRU boundary, no invented source structure, no secondary-English witness, and no translation-driven change to the Tamil layer.
 
 ## Source-loss / unresolved-marker controls
 
@@ -80,14 +88,14 @@ Each completed batch must have a durable `BATCH_0N_REVIEW.md` record. After all 
 ## Translation batches
 
 - **Batch 1:** SRU-01 + SRU-02 — **PASS / LOCKED**
-- **Batch 2:** SRU-03 — **NEXT**
-- **Batch 3:** SRU-04
+- **Batch 2:** SRU-03 — **PASS / LOCKED**
+- **Batch 3:** SRU-04 — **NEXT**
 - **Batch 4:** SRU-05 + SRU-06 + SRU-07
 
 ## Exact next activity
 
-Translate and fully review **Batch 02** from reviewed Tamil `../../scenes/sru-03-eman-interview.md` only:
+Translate and fully review **Batch 03** from reviewed Tamil `../../scenes/sru-04-gandhi-journey.md` only:
 
-- `../../scenes/sru-03-eman-interview.md` → `sru-03-eman-interview.md`
+- `../../scenes/sru-04-gandhi-journey.md` → `sru-04-gandhi-journey.md`
 
-Then create `BATCH_02_REVIEW.md`, update this tracker, and only then proceed to Batch 03.
+Preserve exactly **1** `[unresolved glyph cluster]` and **2** `[unresolved descriptive cluster]` markers in their corresponding locations. Then create `BATCH_03_REVIEW.md`, update this tracker, and only then proceed to Batch 04.
