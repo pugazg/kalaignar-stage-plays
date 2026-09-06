@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — 131 scans registered; source processing 25/131; verified 4; needs-review 21; historical-glyph pass 4/131; checksum recorded; structure/assembly not started; English not authorized** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — 131 scans registered; source processing 30/131; verified 4; needs-review 26; historical-glyph pass 4/131; checksum recorded; structure/assembly not started; English not authorized** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -28,27 +28,28 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic body;
 - scan **131**: back-cover publisher advertisement;
-- printed pages directly confirmed through scan 25: **pp.6–23**;
-- source-visible scene anchors currently reach `காட்சி 7.`;
+- printed pages directly confirmed through scan 30: **pp.6–28**;
+- source-visible scene anchors currently reach `காட்சி 8.`;
 - scan 130 is printed p.128 and the final dramatic page.
 
-Processed scans 1–25:
+Processed scans 1–30:
 
 - **verified:** `2, 3, 4, 6`;
-- **needs-review:** `1, 5, 7–25`;
+- **needs-review:** `1, 5, 7–30`;
 - full historical-glyph passes: `2, 3, 4, 6`;
 - scan 6 verifies the author foreword, including the Sri Lankan historical-fragment basis and first staging by `தேவி நாடக சபை`;
 - scan 21 directly opens `காட்சி 6.` at `முல்லைக்காட்டில் ஒரு வீடு.`;
 - scan 24 directly opens `காட்சி 7.` at `இமயாவின் மது மண்டபம்`;
 - scan 25 directly prints `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
+- scan 27 directly opens `காட்சி 8.` at `முல்லைக்காட்டுப் பகுதி.`;
 - exact location lines for scenes 4 and 5 remain held.
 
 Current metrics:
 
 - source scans registered: **131 / 131**;
-- page/source processing: **25 / 131**;
+- page/source processing: **30 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **21 / 131** (`1, 5, 7–25`);
+- `needs-review`: **26 / 131** (`1, 5, 7–30`);
 - historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - checksum: **recorded**;
 - structural inventory: **not started**;
@@ -57,7 +58,7 @@ Current metrics:
 
 The supplied scan is controlling authority. No held text is repaired from plot continuity, OCR expectation, another edition, or modern spelling.
 
-**Exact next activity:** process source scans **26–30** with direct visual fidelity, printed-page confirmation and the full 13-family historical-glyph gate.
+**Exact next activity:** process source scans **31–35** with direct visual fidelity, printed-page confirmation and the full 13-family historical-glyph gate.
 
 ## Closed work safeguards
 
