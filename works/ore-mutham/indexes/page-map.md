@@ -57,10 +57,13 @@ All **131 physical scans** are registered and source-processed. The individual `
 | 68 | 66 | `காட்சி 17.` close / `காட்சி 18.` | verified | Held acclamation resolves as `வாழ்க இந்நாட்டு வளம்!`; `காட்சி 18.` / `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.` PASS. |
 | 69 | 67 | `காட்சி 18.` | needs-review | Two dense source holds remain: one place-name cluster before `சிம்மாசனத்தில்` and one later consequence clause. |
 | 70 | 68 | `காட்சி 18.` | verified | Complete `குமரி` / `புத்த` journey dialogue and source form `ஆலகாலமா?` PASS. |
-| 71 | 69 | `காட்சி 18.` | needs-review | Raw source pass complete; closure audit not yet run. |
-| 72–74 | 70–72 | `காட்சி 19.` | needs-review | Scan 72: `இடம்:- வசந்த மண்டபம்.`; scan 74 retains dense source holds. |
-| 75–79 | 73–77 | `காட்சி 20.` | needs-review | Scan 75: `இடம்:- மலையன் வீடு.` and discriminatory caste-law dialogue; scan 79→80 continuation preserved. |
-| 80–84 | 78–82 | `காட்சி 21.` | needs-review | Scan 80: `இடம்:- விபீஷணன் மாளிகை.` |
+| 71 | 69 | `காட்சி 18.` | verified | Complete dialogue and 13-family gate PASS; secure `பெண்ணை` (`ணை`), `மனக்கோட்டைகளை` (`ளை`), `வழியில்லை` (`லை`). |
+| 72 | 70 | `காட்சி 18.` close / `காட்சி 19.` | needs-review | `இடம்:- வசந்த மண்டபம்.` secure; one dense lexical/place-name cluster in the opening `விபீஷ` speech remains exact-character held. |
+| 73–74 | 71–72 | `காட்சி 19.` | needs-review | Scan 73 retains two dense bold directions/colloquial holds; scan 74 retains two explicit dense lexical clusters including a caste-description cluster. |
+| 75–76 | 73–74 | `காட்சி 19.` close / `காட்சி 20.` | verified | Scan 75: `இடம்:- மலையன் வீடு.` and discriminatory caste-law line PASS; scan 76 complete `பொன்` / `மலை` dialogue PASS with source form `அசத்தியம்` retained. |
+| 77–79 | 75–77 | `காட்சி 20.` | needs-review | Scan 77 top-line ending + two bold parentheticals held; scan 78 one lexical cluster held; scan 79 dense final-speech type remains open while scan 79→80 continuation is secure. |
+| 80 | 78 | `காட்சி 20.` close / `காட்சி 21.` | verified | Scan-79 continuation, blackout transition, `இடம்:- விபீஷணன் மாளிகை.` and opening caste-law interrogation PASS. |
+| 81–84 | 79–82 | `காட்சி 21.` | needs-review | Raw source pass complete; closure audit not yet run. |
 | 85–86 | 83–84 | `காட்சி 22.` | needs-review | Scan 85: `இடம்: பொன்னியின் குடிசை.` |
 | 87–93 | 85–91 | `காட்சி 23.` | needs-review | Scan 87: `இடம்:- விபீஷணன் மாளிகை.`; ambush/restraint/forced-letter sequence. |
 | 94–95 | 92–93 | `காட்சி 24.` | needs-review | Scan 94: `இடம்:- தெருவில்.`; internal monologue continues into scan 95. |
@@ -81,10 +84,10 @@ All **131 physical scans** are registered and source-processed. The individual `
 - checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
-- closure-audited: **scans 1–70**;
-- visually verified: **39 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70`);
-- `needs-review`: **92 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `71–131`);
-- completed historical-glyph passes: **39 / 131**;
+- closure-audited: **scans 1–80**;
+- visually verified: **43 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80`);
+- `needs-review`: **88 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `81–131`);
+- completed historical-glyph passes: **43 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary comedy source-visible anchors: **3**;
 - formal structural/scene inventory: **not started**;
@@ -139,9 +142,24 @@ All **131 physical scans** are registered and source-processed. The individual `
 - scan 67 corrects `வெம்பொடு` → `வேம்பொடு` and closes the sentencing/appointment page;
 - scan 68 resolves the prior hold as `வாழ்க இந்நாட்டு வளம்!` and verifies `காட்சி 18.` / `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.`;
 - scan 69 retains two dense source holds and no contextual completion;
-- scan 70 closes the full dialogue and preserves source form `ஆலகாலமா?`;
+- scan 70 closes the full dialogue and preserves source form `ஆலகாலமா?`.
+
+## Closure audit checkpoint — scans 71–80
+
+- all ten scans were directly re-inspected source-first;
+- scans **71, 75, 76 and 80** close **PASS / verified** — **4 new verified pages**;
+- scan 71 closes the complete journey/permission dialogue and adds secure `ணை` / `ளை` / `லை` witnesses;
+- scan 72 remains open on one dense lexical/place-name cluster while `காட்சி 19.` / `இடம்:- வசந்த மண்டபம்.` remain secure;
+- scan 73 retains two dense bold stage-direction blocks and colloquial character holds;
+- scan 74 retains two dense lexical holds, including one caste-description cluster;
+- scan 75 verifies `காட்சி 20.` / `இடம்:- மலையன் வீடு.` and preserves the discriminatory caste-law statement verbatim;
+- scan 76 closes the full `பொன்` / `மலை` dialogue and source form `அசத்தியம்`;
+- scan 77 retains the opening-line ending and two dense bold parentheticals;
+- scan 78 retains one early lexical cluster;
+- scan 79 preserves the physical continuation into scan 80 but remains open on dense final-speech historical type/spacing;
+- scan 80 closes the continuation, blackout transition, `காட்சி 21.` / `இடம்:- விபீஷணன் மாளிகை.` and opening interrogation;
 - no global replacement, modern spelling repair or plot-based completion was used.
 
 ## Exact next activity
 
-Continue the **source-pass closure audit with scans 71–80**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
+Continue the **source-pass closure audit with scans 81–90**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
