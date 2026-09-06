@@ -17,7 +17,7 @@ Read before any source-dependent change:
 5. `works/ore-mutham/metadata/source.md`
 6. `works/ore-mutham/indexes/page-map.md`
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`
-8. existing page records `works/ore-mutham/pages/0001.md`–`0060.md` as needed
+8. existing page records `works/ore-mutham/pages/0001.md`–`0065.md` as needed
 9. controlling PDF `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 
 ## Source checkpoint
@@ -46,9 +46,11 @@ Source-visible anchors now reach:
 - scan 52 / p.50: `காட்சி 14.` — `இடம்: புத்தன் முகாம்`;
 - scan 53 / p.51: `காட்சி 15.` — `இடம்: விபீஷணன் மண்டபம்.`;
 - scan 59 / p.57: `காட்சி 16.` — `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`;
+- scan 64 / p.62: `காட்சி 17.` — `இடம்:- விசாரண மண்டபம்`;
 - scan 25 / p.23: caste-division governing-tactic line;
 - scan 31 / p.29: direct anti-caste / anti-untouchability dramatic argument;
-- scan 55→56: the physical sentence boundary is directly resolved from scan 56 pixels;
+- scan 55→56: physical sentence boundary directly resolved from scan 56 pixels;
+- scan 63→64: source word physically split as `அல்` / `லது`; preserve the boundary;
 - scan 130: printed p.128 / final dramatic page;
 - scan 131: back-cover advertisement.
 
@@ -57,7 +59,7 @@ Source-visible anchors now reach:
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic body;
 - scan **131**: back-cover advertisement;
-- directly confirmed printed numerals through scan 60: **pp.6–58**;
+- directly confirmed printed numerals through scan 65: **pp.6–63**;
 - later mapping remains provisional until each numeral is visually confirmed.
 
 ## Mandatory historical-glyph methodology
@@ -77,20 +79,21 @@ Current secure reference bank remains:
 
 Candidate forms on open pages are not promoted until their whole-page gates close.
 
-## Processed checkpoint — scans 1–60
+## Processed checkpoint — scans 1–65
 
 Verified: `2, 3, 4, 6`.
 
-Needs-review: `1, 5, 7–60`.
+Needs-review: `1, 5, 7–65`.
 
 New durable batch:
 
-- scans 56–60 / printed pp.54–58 registered;
-- scan 56 directly resolves scan 55's physical continuation, then continues scene 15 through the `இமயா பராக்` transition;
-- scan 57 brings `புத்த`, வீரர்கள் and `குமரி` into scene 15 and develops the invitation-to-arrest setup;
-- scan 58 records the arrest / accusation exchange;
-- scan 59 closes scene 15 and opens `காட்சி 16.` at `பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`;
-- scan 60 continues the `பொன்னி` / `புத்த` encounter and retains one small opening parenthetical lexical cluster rather than completing it from context;
+- scans 61–65 / printed pp.59–63 registered;
+- scans 61–63 continue `காட்சி 16.` through the mock-spear exchange, separation/memory dialogue and `கணையாழி` pledge;
+- scan 61 retains one opening interrogative word and one small bracketed cue as explicit source holds;
+- scan 62 preserves source `பொ:-` / `பொன்:-` speaker-label variation;
+- scan 63 ends at physical `அல்` and scan 64 continues with `லது`; do not normalize the cross-page source boundary;
+- scan 64 closes scene 16 and opens `காட்சி 17.` at `விசாரண மண்டபம்`;
+- scans 64–65 begin the `விபீஷ` / `இமயா` trial/interrogation sequence;
 - all five pages retain open punctuation / historical-glyph gates; no open-page candidate was promoted;
 - no structural assembly or English translation started.
 
@@ -98,21 +101,21 @@ New durable batch:
 
 - physical scans registered: **131 / 131**
 - checksum: **recorded**
-- page records: **60 / 131**
-- source scans processed: **60 / 131**
+- page records: **65 / 131**
+- source scans processed: **65 / 131**
 - visually verified: **4 / 131**
-- `needs-review`: **56 / 131**
+- `needs-review`: **61 / 131**
 - historical-glyph passes: **4 / 131**
-- source-visible scene anchors: **16**
+- source-visible scene anchors: **17**
 - structural inventory: **not started**
 - scene assembly: **not started**
 - English translation: **not authorized / not started**
 
 ## Exact next activity
 
-Process **scans 61–65** source-first.
+Process **scans 66–70** source-first.
 
-1. create `pages/0061.md` through `pages/0065.md`;
+1. create `pages/0066.md` through `pages/0070.md`;
 2. inspect direct source pixels / enlarged source as required;
 3. transcribe without normalization;
 4. preserve exact source scene headings, stage directions and speaker labels;
