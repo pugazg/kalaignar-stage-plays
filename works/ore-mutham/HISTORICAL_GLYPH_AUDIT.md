@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN FOR CLOSURE — 9 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 122 RETAIN OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN FOR CLOSURE — 19 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 112 RETAIN OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -48,36 +48,35 @@ No positive reference is yet promoted for `ணொ / ணோ / ளை / றொ / �
 
 ## Closure audit — scans 1–10
 
-The first closure batch was reviewed against enlarged source pixels.
+- scan 1 remains `needs-review` because small stylized cover lettering / tiny artist mark are not character-secure;
+- scans 2–10 except scan 1 are PASS / verified;
+- scan 5 full `பதிப்புரை.`, scan 7 full cast list, scans 8–10 complete dramatic pages are closed;
+- scan 10→11 physical `சொல்` / `ளார்.` split is preserved.
 
-- scan 1: remains `needs-review`; title is secure, but small stylized cover-device lettering and the tiny artist/signature mark are not character-secure;
-- scans 2–4 and 6: prior PASS retained;
-- scan 5: **PASS** — complete `பதிப்புரை.` closed line-by-line; source forms such as `இஃதொன்று`, `இந்தநூல்`, `அவர்கட்கு` preserved;
-- scan 7: **PASS** — complete cast inventory and supplementary-comedy cast closed row-by-row; supplies secure `ணை` witness `துணைவி`;
-- scan 8 / p.6: **PASS** — full `காட்சி 1.` opener, stage directions and dialogue closed;
-- scan 9 / p.7: **PASS** — scene-1 close / `காட்சி 2.` opener and final collective gift direction closed from enlarged pixels;
-- scan 10 / p.8: **PASS** — complete scene-2 continuation closed; physical scan-10→11 `சொல்` / `ளார்.` word split directly confirmed and preserved.
+## Closure audit — scans 11–20
 
-No candidate was promoted from scan 1 because its whole-page gate remains open.
+All ten scans were re-inspected against enlarged source pixels and are now **PASS / verified**.
 
-## Raw source-pass summary
+- scan 11 / p.9: prior provisional scene-3 location corrected to `இடம்:- மாளிகையில் ஒருபுறம்.`; complete scene-2 close / scene-3 opener closed;
+- scans 12–14 / pp.10–12: complete `காட்சி 3.` dialogue closed;
+- scan 15 / p.13: `காட்சி 4.` location directly resolved as `இடம்:- இமயாவின் மாளிகை`;
+- scans 16–18 / pp.14–16: complete `காட்சி 4.` dialogue/stage directions closed;
+- scan 19 / p.17: `காட்சி 5.` location directly resolved as `இடம்:- முல்லைக்காட்டு நகரத்தெரு`;
+- scan 20 / p.18: complete scene-5 dramatic/`பாக` passage and nested stage direction closed;
+- scan 11→12, scan 12→13 and scan 15→16 physical continuations are preserved source-first.
 
-- all 131 scans have page records and were source-processed;
-- main play: scans 8–118 / pp.6–116, 30 source-visible scenes;
-- supplementary `நகைச் சுவைப் பகுதி.`: scans 119–130 / pp.117–128, its own 3-scene numbering;
-- scan 131: publisher advertisement;
-- all previously recorded page-boundary continuations and explicit holds after scan 10 remain durable until their own closure batches.
+No global normalization was used. No candidate from still-open pages 21–131 enters the secure reference bank.
 
 ## Current metrics
 
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **10 / 131** (`1–10`);
-- full historical-glyph passes: **9 / 131** (`2–10`, except `1`);
-- visually verified: **9 / 131**;
-- `needs-review`: **122 / 131** (`1, 11–131`);
+- closure-audited: **20 / 131** (`1–20`);
+- full historical-glyph passes: **19 / 131** (`2–20`, except `1`);
+- visually verified: **19 / 131**;
+- `needs-review`: **112 / 131** (`1, 21–131`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Run the next closure batch over **scans 11–20**. Revisit explicit holds only with stronger source pixels/enlargements and close the full 13-family gate page by page. The exact location lines for `காட்சி 4.` on scan 15 and `காட்சி 5.` on scan 19 are priority source problems and must not be inferred. Do not begin scene assembly or English translation during this closure phase.
+Run the next closure batch over **scans 21–30**. Revisit explicit holds only with stronger source pixels/enlargements and close the full 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
