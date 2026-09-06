@@ -34,7 +34,7 @@ User-supplied catalog metadata remains: title **ஒரே முத்தம்*
 
 The supplementary scenes must not be silently renumbered as main-play scenes 31–33.
 
-## Closure-audit corrections / resolutions through scan 50
+## Closure-audit corrections / resolutions through scan 60
 
 Earlier closed corrections remain authoritative:
 
@@ -42,7 +42,7 @@ Earlier closed corrections remain authoritative:
 - scan 15 / p.13: `காட்சி 4.` location resolved as **`இடம்:- இமயாவின் மாளிகை`**;
 - scan 19 / p.17: `காட்சி 5.` location resolved as **`இடம்:- முல்லைக்காட்டு நகரத்தெரு`**.
 
-New closure findings from scans 21–30:
+Closure findings from scans 21–30:
 
 - scan 21 / p.19: one stage-direction hold resolves as `துவங்குகிறான்`, but the opening bold direction remains open;
 - scan 22 / p.20: comparison word resolves as `புயலைப்போல` — page verified;
@@ -51,7 +51,7 @@ New closure findings from scans 21–30:
 - scans 25–26 / pp.23–24: complete page text/glyph gates verified; scan 26 punctuation is source-closed as `கனவு! கனவு!`;
 - scans 27–30 retain explicit exact-word holds and remain `needs-review`.
 
-New closure findings from scans 31–40:
+Closure findings from scans 31–40:
 
 - scan 31 / p.29: anti-caste / anti-untouchability dialogue rechecked; dense character/spacing clusters keep the page open;
 - scan 32 / p.30: `காட்சி 9.` / `இடம்:- விபீஷணன் அறை` secure; one small stage/lexical cluster remains held;
@@ -61,7 +61,7 @@ New closure findings from scans 31–40:
 - scans 38–39: explicit character-level holds remain; scan 39→40 physical continuation preserved;
 - scan 40 / p.38: complete page **verified**; source form `நாசகாலர்கள்` retained.
 
-New closure findings from scans 41–50:
+Closure findings from scans 41–50:
 
 - scans 41–42: scene-11 structure rechecked; dense historical-type/punctuation holds remain;
 - scan 43: one small bold parenthetical remains exact-word unresolved;
@@ -73,7 +73,21 @@ New closure findings from scans 41–50:
 - scan 49: direct source review corrects **`மலரைச் சாப்பாற்றினாய்` to `மலரைக் காப்பாற்றினாய்`**; whole-page gate remains open;
 - scan 50: inside/outside alternation and voice/vision line-breaking are secure; dense inset type remains open.
 
-No page in scans 41–50 is newly promoted to `verified`.
+No page in scans 41–50 was promoted to `verified`.
+
+Closure findings from scans 51–60:
+
+- scan 51 / p.49: `காட்சி 13.` / `இடம்: தெருவில்.` and street dialogue are secure; the long bold parenthetical immediately before the scene remains exact-word held;
+- scan 52 / p.50: `காட்சி 14.` / `இடம்: புத்தன் முகாம்` are secure; the comic/song parenthetical and long dawn-stage parenthetical retain exact-word holds;
+- scans **53–59 / pp.51–57** are newly **verified** after complete visual + 13-family closure;
+- scan 53: `காட்சி 15.` / `இடம்: விபீஷணன் மண்டபம்.` source-closed;
+- scan 55→56: physical continuation is directly closed and preserved at the page boundary rather than silently joined;
+- scan 56: printed label variation `இமய`, `இமா`, `விபீஷ -` remains intact; `இன்னொன்று` supplies the first secure `னொ` witness;
+- scan 57: `அவளை` supplies secure `ளை` evidence;
+- scan 59: `காட்சி 15.` closes and `காட்சி 16.` opens at `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`; `விசாரணைமண்டபத்தில்` supplies secure `ணை` evidence;
+- scan 60 / p.58: dialogue and the later `புதர்` action block are secure, but one small lexical cluster in the opening bold parenthetical remains held.
+
+Scans 51, 52 and 60 therefore remain `needs-review`. No wording was repaired from plot continuity, OCR expectation, another edition or modern spelling.
 
 ## Direct thematic evidence already established
 
@@ -96,12 +110,13 @@ Mandatory family set:
 
 Secure same-edition reference bank now includes:
 
-- `லை`: scans 3, 4, 5, 6, 37, 40;
+- `லை`: scans 3, 4, 5, 6, 37, 40, 56, 58;
 - `ணா`: scans 3, 5, 6;
-- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`;
-- `ளை`: scan 24 `வளையிலேயே`;
-- `னை`: scans 3, 4, 6;
-- `றா`: scan 6.
+- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`, scan 59 `விசாரணைமண்டபத்தில்`;
+- `ளை`: scan 24 `வளையிலேயே`, scan 57 `அவளை`;
+- `னை`: scans 3, 4, 6; scan 53 `மனைவி`; scan 54 `அவனைச்`;
+- `றா`: scan 6 `காரணமாகும்`, scan 55 `தோற்றால்`, scan 56 `தொலைக்கிறாள்`, scan 57 `தருகிறாள்` / `உபசரிக்கிறாள்`;
+- `னொ`: scan 56 `இன்னொன்று` — first secure positive witness.
 
 No open-page candidate is promoted until its whole-page visual + 13-family gate closes.
 
@@ -111,10 +126,10 @@ No open-page candidate is promoted until its whole-page visual + 13-family gate 
 - source checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **scans 1–50**;
-- visually verified: **26 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`);
-- `needs-review`: **105 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`);
-- completed historical-glyph passes: **26 / 131**;
+- closure-audited: **scans 1–60**;
+- visually verified: **33 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`);
+- `needs-review`: **98 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–131`);
+- completed historical-glyph passes: **33 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary-comedy source-visible scene anchors: **3**;
 - formal structural inventory: **not started**;
@@ -123,4 +138,4 @@ No open-page candidate is promoted until its whole-page visual + 13-family gate 
 
 ## Exact next source activity
 
-Continue the **source-pass closure audit with scans 51–60** using stronger source pixels/enlargements only. Formal scene assembly and English translation remain out of scope.
+Continue the **source-pass closure audit with scans 61–70** using stronger source pixels/renderings only. Formal scene assembly and English translation remain out of scope.
