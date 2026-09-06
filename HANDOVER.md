@@ -43,13 +43,13 @@ Publication structure:
 - supplementary **`நகைச் சுவைப் பகுதி.`**: scans **119–130 / pp.117–128**, with its own **3-scene numbering**;
 - do not silently renumber those supplementary scenes as main-play scenes 31–33.
 
-## Closure-audit checkpoint — scans 1–40 complete
+## Closure-audit checkpoint — scans 1–50 complete
 
 ### Verified
 
 Scans **2–20, 22, 24–26, 33, 37, 40** are verified and have closed full 13-family historical-glyph gates: **26 / 131** total.
 
-### Still open within scans 1–40
+### Still open within scans 1–50
 
 - scan 1: small stylized cover lettering / tiny artist mark;
 - scan 21: opening bold stage direction; its second-stage-direction hold is now resolved as `துவங்குகிறான்`;
@@ -61,9 +61,18 @@ Scans **2–20, 22, 24–26, 33, 37, 40** are verified and have closed full 13-f
 - scan 31: dense character/spacing clusters in the long anti-caste dialogue;
 - scan 32: one small scene-close stage/lexical cluster;
 - scans 34–36: colloquial/dense/stage-direction clusters;
-- scans 38–39: unusual/dense character-level forms; scan 39→40 boundary remains explicit.
+- scans 38–39: unusual/dense character-level forms; scan 39→40 boundary remains explicit;
+- scans 41–42: dense historical-type wording / punctuation holds;
+- scan 43: one small bold parenthetical plus opening action-type sensitivity;
+- scan 44: one final-speech lexical cluster;
+- scan 45: one cluster immediately before `பலிபீடம்` plus source-sensitive `குத்திருப்பு`;
+- scan 46: one wording/punctuation cluster despite secure `காட்சி 12.` / `இடம்: ஆற்றோரம்`;
+- scan 47: one historical-type-sensitive lodging word;
+- scan 48: two small stage-direction clusters;
+- scan 49: page-level gate still open after a source correction;
+- scan 50: dense inset historical type / punctuation still open.
 
-### Important new closures through scans 31–40
+### Important closures / corrections through scans 41–50
 
 - scan 22 / p.20: `புயலைப்போல` directly resolved — PASS;
 - scan 24 / p.22: `(2-வது காவியைக் காட்டி)` directly resolved — PASS; supplies secure `ணை` witness `கண்ணை` and first secure `ளை` witness `வளையிலேயே`;
@@ -71,7 +80,9 @@ Scans **2–20, 22, 24–26, 33, 37, 40** are verified and have closed full 13-f
 - scan 26 / p.24: complete dialogue/glyph gate PASS; source punctuation is `கனவு! கனவு!`;
 - scan 33 / p.31: complete scene-9 page PASS;
 - scan 37 / p.35: scene-9 close / `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்` PASS; secure `ணை` witness `கணையாழி`;
-- scan 40 / p.38: complete page PASS; source form `நாசகாலர்கள்` retained without normalization.
+- scan 40 / p.38: complete page PASS; source form `நாசகாலர்கள்` retained without normalization;
+- scans 41–50: closure-reviewed, but no new whole-page PASS;
+- scan 49 / p.47: durable source correction **`மலரைச் சாப்பாற்றினாய்` → `மலரைக் காப்பாற்றினாய்`**.
 
 Earlier source corrections remain authoritative:
 
@@ -93,7 +104,7 @@ No open page may contribute new reference forms until its complete visual + 13-f
 ## Current metrics
 
 - source scans registered/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **40 / 131** (`1–40`);
+- closure-audited: **50 / 131** (`1–50`);
 - visually verified: **26 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`);
 - `needs-review`: **105 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`);
 - completed historical-glyph passes: **26 / 131**;
@@ -103,11 +114,11 @@ No open page may contribute new reference forms until its complete visual + 13-f
 - Tamil scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-## Exact next activity — closure scans 41–50
+## Exact next activity — closure scans 51–60
 
 Do **not** begin scene assembly or English translation.
 
-Review scans **41–50** source-first with enlarged pixels as needed:
+Review scans **51–60** source-first with enlarged pixels as needed:
 
 1. revisit every `needs-review` / `source-held` item on those scans;
 2. preserve exact source wording, punctuation, speaker labels, stage directions and physical page boundaries;
