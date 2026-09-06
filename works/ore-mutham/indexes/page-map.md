@@ -31,7 +31,12 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 | 23 | 21 | body | `காட்சி 6.` continuation | needs-review | Full visible dialogue transcribed; final punctuation/glyph gate open. |
 | 24 | 22 | body | `காட்சி 6.` close / `காட்சி 7.` opener | needs-review | `காட்சி 7.` / `இடம்: இமயாவின் மது மண்டபம்` secure; one parenthetical noun held. |
 | 25 | 23 | body | `காட்சி 7.` continuation | needs-review | Full visible dialogue transcribed; caste-division line directly source-supported. |
-| 26–130 | 24–128* | body | dramatic text | not-started | Sequential mapping remains provisional; scan 125 = p.123 and scan 130 = p.128 are visible anchors. |
+| 26 | 24 | body | `காட்சி 7.` continuation | needs-review | Complete visible dialogue transcribed; final punctuation/glyph gate open. |
+| 27 | 25 | body | `காட்சி 7.` close / `காட்சி 8.` opener | needs-review | `காட்சி 8.` / `இடம்:- முல்லைக்காட்டுப் பகுதி.` secure; small bold stage directions remain exact-word holds. |
+| 28 | 26 | body | `காட்சி 8.` continuation | needs-review | Complete visible dialogue and readable stage directions transcribed; final punctuation/glyph gate open. |
+| 29 | 27 | body | `காட்சி 8.` continuation | needs-review | Conflict/stage structure and dialogue transcribed; `விபீஷணா?` checked as `ணா`; whole-page gate remains open. |
+| 30 | 28 | body | `காட்சி 8.` continuation | needs-review | Visible dialogue transcribed; one parenthetical action direction held; source dialect preserved. |
+| 31–130 | 29–128* | body | dramatic text | not-started | Sequential mapping remains provisional; scan 125 = p.123 and scan 130 = p.128 are visible anchors. |
 | 131 | — | back matter | back-cover advertisement | not-started | Publisher book-list advertisement. |
 
 `*` Printed-page policy: arithmetic mapping never makes a page verified. Each numeral must be visually confirmed.
@@ -40,10 +45,10 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 
 - physical scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **25 / 131**;
-- source scans processed: **25 / 131**;
+- page records created: **30 / 131**;
+- source scans processed: **30 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **21 / 131** (`1, 5, 7–25`);
+- `needs-review`: **26 / 131** (`1, 5, 7–30`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - structural/scene inventory: **not started**;
 - scene assembly: **not started**;
@@ -57,8 +62,9 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 - scan 15 / p.13: `காட்சி 4.`;
 - scan 19 / p.17: `காட்சி 5.`;
 - scan 21 / p.19: `காட்சி 6.` — `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.`;
-- scan 24 / p.22: `காட்சி 7.` — `இடம்: இமயாவின் மது மண்டபம்`.
+- scan 24 / p.22: `காட்சி 7.` — `இடம்: இமயாவின் மது மண்டபம்`;
+- scan 27 / p.25: `காட்சி 8.` — `இடம்:- முல்லைக்காட்டுப் பகுதி.`.
 
 ## Exact next activity
 
-Process **scans 26–30** source-first. Confirm printed numerals directly, preserve source-visible scene/stage/speaker structure, and run the complete 13-family historical-glyph gate on each.
+Process **scans 31–35** source-first. Confirm printed numerals directly, preserve source-visible scene/stage/speaker structure, and run the complete 13-family historical-glyph gate on each.
