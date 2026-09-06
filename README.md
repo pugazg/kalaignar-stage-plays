@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — RAW SOURCE PASS COMPLETE: 131/131 processed; closure-audited 1–50; verified 26; needs-review 105; historical-glyph pass 26/131; main play 30 scenes + separate 3-scene `நகைச் சுவைப் பகுதி`; assembly/English not started** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — RAW SOURCE PASS COMPLETE: 131/131 processed; closure-audited 1–60; verified 33; needs-review 98; historical-glyph pass 33/131; main play 30 scenes + separate 3-scene `நகைச் சுவைப் பகுதி`; assembly/English not started** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -30,13 +30,18 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 - scans **119–130 / pp.117–128**: separately headed **`நகைச் சுவைப் பகுதி.`**, with its own **3 scenes**;
 - scan **131**: back-cover publisher advertisement.
 
-Closure audit now completed for scans **1–50**:
+Closure audit now completed for scans **1–60**:
 
-- **verified:** `2–20`, `22`, `24–26`, `33`, `37`, `40`;
-- **needs-review:** `1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`;
-- historical-glyph passes: **26 / 131**;
+- **verified:** `2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`;
+- **needs-review:** `1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–131`;
+- historical-glyph passes: **33 / 131**;
 - scans 41–50 were all re-inspected, but none was promoted because each retains at least one explicit character-level, punctuation, stage-direction, or dense historical-type hold;
-- scan 49 has a durable source correction: `மலரைச் சாப்பாற்றினாய்` → **`மலரைக் காப்பாற்றினாய்`**;
+- scans **53–59** are newly verified from the 51–60 closure batch;
+- scans **51, 52 and 60** remain open because source-visible bold-parenthetical text still contains exact-word holds;
+- scan 55→56 physical continuation is closed and preserved across the page boundary;
+- scan 56 preserves `இமய` / `இமா` / `விபீஷ -` speaker-label variation and supplies the first secure `னொ` witness `இன்னொன்று`;
+- scan 59 verifies the `காட்சி 15.` → `காட்சி 16.` transition and `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`;
+- scan 49 has the durable source correction `மலரைச் சாப்பாற்றினாய்` → **`மலரைக் காப்பாற்றினாய்`**;
 - scan 46 securely preserves `காட்சி 12.` / `இடம்: ஆற்றோரம்` while remaining open;
 - scan 50 securely preserves the `வெளியில்` / `உள்ளே` alternation and source line-breaking while remaining open.
 
@@ -45,10 +50,10 @@ Important direct thematic evidence remains durable: scan 25 caste-division gover
 Current metrics:
 
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
-- closure-audited: **50 / 131**;
-- visually verified: **26 / 131**;
-- `needs-review`: **105 / 131**;
-- historical-glyph passes: **26 / 131**;
+- closure-audited: **60 / 131**;
+- visually verified: **33 / 131**;
+- `needs-review`: **98 / 131**;
+- historical-glyph passes: **33 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - checksum: **recorded**;
@@ -56,7 +61,7 @@ Current metrics:
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-**Exact next activity:** source-pass closure audit of **scans 51–60**. Do not begin scene assembly or English translation during closure.
+**Exact next activity:** source-pass closure audit of **scans 61–70**. Do not begin scene assembly or English translation during closure.
 
 ## Closed work safeguards
 
