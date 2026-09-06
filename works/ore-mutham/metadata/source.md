@@ -24,7 +24,10 @@ All page/source work continues against the exact supplied PDF. The missing check
 - scan 7: `ஒரே முத்தம் — நாடக உறுப்பினர்` cast list; row-level details remain under enlarged review;
 - scan 8: printed p.6, **`காட்சி 1.`**, **`இடம்:- இன்பபுரித் தெரு`**;
 - scan 9: printed p.7, source transition to **`காட்சி 2.`**, **`இடம்:- விழா மண்டபம்`**;
-- scan 10: printed p.8, continuation of `காட்சி 2.`.
+- scan 10: printed p.8, continuation of `காட்சி 2.`;
+- scan 11: printed p.9, source transition to **`காட்சி 3.`**, **`இடம்:- மலர்நகரில் ஒரு புறம்.`**;
+- scans 12–14: printed pp.10–12, continuation of `காட்சி 3.`;
+- scan 15: printed p.13, source transition to **`காட்சி 4.`**; exact location line remains under enlarged review.
 
 ### Source-visible work description / performance statement
 
@@ -51,26 +54,24 @@ Raw physical scan numbers control archival provenance.
 
 - scans **1–7** are front matter;
 - scan **8** begins the dramatic body with source-visible **`காட்சி 1.`** and printed page **6**;
-- scan **9** visibly carries printed page **7**;
-- scan **10** visibly carries printed page **8**;
+- scans **8–15** now directly confirm printed pp.**6–13**;
 - scans **8–130** contain the dramatic work;
 - scan **125** visibly carries printed page **123**;
 - scan **130** visibly carries printed page **128** and is the final dramatic page;
 - scan **131** is a back-cover publisher advertisement / book list.
 
-The sequential mapping scans 8–130 → printed pp.6–128 remains provisional until each numeral is visually confirmed.
+The sequential mapping scans 8–130 → printed pp.6–128 remains provisional beyond the directly checked pages.
 
-## Work extent
+## Structural intake observations
 
-- scan 1: front cover;
-- scan 2: donor/library slip;
-- scan 3: title page;
-- scan 4: edition / publication / imprint page;
-- scan 5: publisher note (`பதிப்புரை`);
-- scan 6: author foreword (`முன்னுரை`);
-- scan 7: cast list (`நாடக உறுப்பினர்`);
-- scans 8–130: dramatic body;
-- scan 131: back-cover advertisement.
+Source-visible scene headings now directly anchored during page processing:
+
+- scan 8 / p.6 — `காட்சி 1.`;
+- scan 9 / p.7 — `காட்சி 2.`;
+- scan 11 / p.9 — `காட்சி 3.`;
+- scan 15 / p.13 — `காட்சி 4.`.
+
+A definitive scene inventory/count remains deferred until the page layer is processed source-first.
 
 ## Scan condition / anomalies
 
@@ -79,7 +80,7 @@ The sequential mapping scans 8–130 → printed pp.6–128 remains provisional 
 - scan 1 has small stylized vertical cover lettering and a tiny signature that remain insecure at the current accessible render;
 - scan 2 contains a pasted donor/library label separated from publication text;
 - scan 5 contains dense small type requiring enlarged source-pixel review before its full body can be canonical;
-- scan 7 cast rows and scans 8–10 dramatic body contain dense/small type that remain under explicit enlarged-pixel review;
+- scan 7 and dramatic scans 8–15 contain dense/small type that remain under explicit enlarged-pixel review where full lexical reading is insecure;
 - handwritten/library marks on later pages must not be merged into literary text;
 - historical Tamil glyph shapes are present and can resemble modern characters incorrectly;
 - the back cover is an advertisement, not dramatic text.
@@ -107,16 +108,16 @@ These examples are comparison references only, not global replacement rules.
 
 - source registration: **131 / 131 scans**;
 - source checksum: **pending exact byte-level computation**;
-- page records created: **10 / 131** (`0001.md`–`0010.md`);
-- source scans processed: **10 / 131**;
+- page records created: **15 / 131** (`0001.md`–`0015.md`);
+- source scans processed: **15 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **6 / 131** (`1, 5, 7, 8, 9, 10`);
+- `needs-review`: **11 / 131** (`1, 5, 7–15`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- open text/glyph holds: **6 pages** (`1, 5, 7–10`);
+- open text/glyph holds: **11 pages** (`1, 5, 7–15`);
 - structural inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next source activity
 
-Continue with **scans 11–15** source-first while preserving the six explicit holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly. Compute and record the exact PDF SHA-256 as soon as a byte-level hashing runtime is available; do not invent it. Reopen existing holds only when enlarged source pixels genuinely resolve their text.
+Continue with **scans 16–20** source-first while preserving the eleven explicit holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly. Compute and record the exact PDF SHA-256 as soon as a byte-level hashing runtime is available; do not invent it. Reopen existing holds only when enlarged source pixels genuinely resolve their text.
