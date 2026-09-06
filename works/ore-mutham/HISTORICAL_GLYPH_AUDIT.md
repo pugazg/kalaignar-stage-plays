@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN — 3 / 131 SCANS PASSED; 2 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN — 4 / 131 SCANS PASSED; 6 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -34,22 +34,29 @@ Root authority: `../../STAGE_PLAY_PROCESSING_GUIDE.md`.
 ### `லை`
 
 - scan 3: `கலைஞர்`;
-- scan 4: `விலை`.
+- scan 4: `விலை`;
+- scan 6: `சிதறலை`, `கூறுவதற்கில்லை`.
 
 ### `ணா`
 
-- scan 3: `கருணாநிதி`.
+- scan 3: `கருணாநிதி`;
+- scan 6: `கருணாநிதி`.
 
 ### `னை`
 
 - scan 3: `விற்பனை`, `சென்னை`;
-- scan 4: `சென்னை`.
+- scan 4: `சென்னை`;
+- scan 6: `சென்னை`.
+
+### `றா`
+
+- scan 6: `காரணமாகும்`.
 
 These are local comparison witnesses only. They do not authorize global replacements later in the book.
 
 No positive reference is yet promoted for:
 
-`ணை / ணொ / ணோ / ளை / றா / றொ / றோ / னா / னொ / னோ`.
+`ணை / ணொ / ணோ / ளை / றொ / றோ / னா / னொ / னோ`.
 
 ## Batch 1 — scans 1–5
 
@@ -60,17 +67,27 @@ No positive reference is yet promoted for:
 | 3 | processed | PASS | Title page fully checked; first secure `லை / ணா / னை` reference examples established. |
 | 4 | processed | PASS | Edition/publication/imprint page fully checked; secure `லை / னை` recurrences. |
 | 5 | processed | open | Heading/closing signature secure, but dense publisher-note body requires enlarged line-by-line review before its full glyph gate can pass. |
-| 6–131 | not started | not started | unopened / next source batch begins at scan 6. |
+
+## Batch 2 — scans 6–10
+
+| Scan | Visual/source processing | 13-family gate | Status / note |
+|---:|---|---|---|
+| 6 | processed | PASS | Full `முன்னுரை` checked; secure `லை / ணா / னை / றா` examples recorded. |
+| 7 | processed | open | Cast-list structure and secure anchors recorded; small row text not yet adjudicated character-by-character. |
+| 8 | processed | open | Printed p.6 and `காட்சி 1.` / location / crowd-cries secure; dense stage direction and dialogue remain unresolved. |
+| 9 | processed | open | Printed p.7 and source `காட்சி 2.` transition secure; dense dialogue remains unresolved. |
+| 10 | processed | open | Printed p.8 and `காட்சி 2.` continuation secure; dense dialogue remains unresolved. |
+| 11–131 | not started | not started | unopened / next source batch begins at scan 11. |
 
 ## Current metrics
 
 - physical scans: **131**;
-- source-processed: **5 / 131**;
-- full historical-glyph passes: **3 / 131** (`2, 3, 4`);
-- visually verified: **3 / 131** (`2, 3, 4`);
-- processed `needs-review`: **2 / 131** (`1, 5`);
-- unresolved page-level text/glyph holds: **2 pages**.
+- source-processed: **10 / 131**;
+- full historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
+- visually verified: **4 / 131** (`2, 3, 4, 6`);
+- processed `needs-review`: **6 / 131** (`1, 5, 7, 8, 9, 10`);
+- unresolved/open full-page text-glyph gates: **6 pages**.
 
 ## Exact next activity
 
-Process scans **6–10** directly from source pixels and add new same-edition reference examples only where visually secure. Preserve scans 1 and 5 as open holds unless enlarged source evidence genuinely resolves them. Do not infer modern spellings.
+Process scans **11–15** directly from source pixels and add same-edition reference examples only where visually secure. Preserve scans `1, 5, 7–10` as open holds unless enlarged source evidence genuinely resolves them. Do not infer modern spellings or use scene continuity to repair uncertain text.
