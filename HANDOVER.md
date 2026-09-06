@@ -21,7 +21,7 @@ Read before further source-dependent work:
 5. `works/ore-mutham/metadata/source.md`;
 6. `works/ore-mutham/indexes/page-map.md`;
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`;
-8. existing `works/ore-mutham/pages/0001.md`–`0015.md` as relevant;
+8. existing `works/ore-mutham/pages/0001.md`–`0020.md` as relevant;
 9. the supplied controlling PDF.
 
 ## Source identity
@@ -36,14 +36,15 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 Source-visible identity / anchors:
 
 - scan 1: `ஒரே முத்தம்` cover;
-- scan 3: `தென்றல் வெளியீடு. 3.`, `ஒரே முத்தம்`, `சரித்திரக் கற்பனை நாடகம்.`, author `கலைஞர், மு. கருணாநிதி எம். எல். ஏ.`, `ஐந்தாம் பதிப்பு.`;
+- scan 3: title page with `சரித்திரக் கற்பனை நாடகம்.`, author and `ஐந்தாம் பதிப்பு.`;
 - scan 4: edition history reaches fifth edition **December 1964**, publisher `தென்றல் நூற்பதிப்புக் கழகம்.`, printer `செந்தமிழ் அச்சகம்`, price `விலை ரூபா 2-00.`;
 - scan 6: complete `முன்னுரை`, dated `சென்னை, 25-5-1950`, signed `மு. கருணாநிதி.`; source directly states Sri Lankan historical-fragment basis and first staging by `தேவி நாடக சபை`;
 - scan 7: `நாடக உறுப்பினர்` cast list;
-- scan 8 / p.6: `காட்சி 1.`, `இடம்:- இன்பபுரித் தெரு`;
-- scan 9 / p.7: `காட்சி 2.`, `இடம்:- விழா மண்டபம்`;
-- scan 11 / p.9: `காட்சி 3.`, `இடம்:- மலர்நகரில் ஒரு புறம்.`;
-- scan 15 / p.13: source transition to `காட்சி 4.`; exact location line remains held;
+- scan 8 / p.6: `காட்சி 1.`;
+- scan 9 / p.7: `காட்சி 2.`;
+- scan 11 / p.9: `காட்சி 3.`;
+- scan 15 / p.13: `காட்சி 4.` transition; exact location line held;
+- scan 19 / p.17: `காட்சி 5.` transition; exact location line held;
 - scan 130: printed p.128, final dramatic page;
 - scan 131: back-cover publisher advertisement.
 
@@ -54,7 +55,7 @@ User catalog context remains distinct from transcription authority. The Sri Lank
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic work;
 - scan **131**: back-cover advertisement;
-- printed numerals directly confirmed through scan 15: **pp.6–13**;
+- printed numerals directly confirmed through scan 20: **pp.6–18**;
 - later scan→printed-page mapping remains provisional until directly checked.
 
 ## Historical Tamil glyph gate
@@ -82,7 +83,7 @@ Current secure reference bank:
 
 No global replacement is authorized from these examples.
 
-## Processed checkpoint — scans 1–15
+## Processed checkpoint — scans 1–20
 
 Verified:
 
@@ -95,7 +96,9 @@ Needs-review:
 - `0007.md` — cast-list row details;
 - `0008.md`–`0010.md` — secure pp.6–8 / scenes 1–2 anchors, dense dialogue held;
 - `0011.md`–`0014.md` — secure pp.9–12 / scene-3 structure, dense dialogue held;
-- `0015.md` — secure p.13 / `காட்சி 4.` transition, exact location/dialogue held.
+- `0015.md`–`0018.md` — secure pp.13–16 / scene-4 structure, exact location/body held;
+- `0019.md` — secure p.17 / `காட்சி 5.` transition, exact location/body held;
+- `0020.md` — secure p.18 / scene-5 continuation, dense body held.
 
 Do not silently fill any held passage from plot continuity, OCR-like expectation, modern spelling, another edition, or general knowledge.
 
@@ -103,34 +106,31 @@ Do not silently fill any held passage from plot continuity, OCR-like expectation
 
 - source scans registered: **131 / 131**;
 - checksum: **pending**;
-- page records created: **15 / 131**;
-- source scans processed: **15 / 131**;
+- page records created: **20 / 131**;
+- source scans processed: **20 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **11 / 131** (`1, 5, 7–15`);
+- `needs-review`: **16 / 131** (`1, 5, 7–20`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
+- source-visible scene anchors established: **5** (`காட்சி 1.`–`காட்சி 5.`);
 - structural/scene inventory: **not started**;
 - Tamil assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Process scans **16–20** source-first:
+Process scans **21–25** source-first:
 
-1. create `pages/0016.md` through `0020.md`;
+1. create `pages/0021.md` through `0025.md`;
 2. directly inspect and transcribe source-visible text without normalization;
 3. confirm each printed page numeral rather than inferring it;
 4. preserve exact source `காட்சி`, stage-direction and speaker-label forms;
 5. perform the complete 13-family historical-glyph gate on every scan;
 6. mark `verified` only if full visual + glyph review passes; otherwise retain explicit `needs-review`;
-7. keep existing holds (`1, 5, 7–15`) open unless stronger enlarged pixels genuinely resolve them;
+7. keep existing holds (`1, 5, 7–20`) open unless stronger enlarged pixels genuinely resolve them;
 8. compute the exact PDF SHA-256 only when byte-level hashing becomes available; never infer it;
 9. synchronize metadata, page map, glyph audit, work/root README, this handover and `NEXT_CHAT_PROMPT.md`;
 10. do not begin structural assembly or English translation.
 
 # CLOSED WORK SAFEGUARDS
 
-## திருவாளர் தேசீயம்பிள்ளை
-
-Remains **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**: Tamil source processing 49/49, historical-glyph passes 49/49, 7/7 Tamil SRUs assembled/reviewed, independent English 7/7 reviewed, 4/4 English batches PASS/LOCKED, final `TRANSLATION_REVIEW.md` PASS. Its nine Tamil source-condition holds remain closed unless new source evidence is supplied.
-
-`காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` component works remain closed unless explicitly reopened.
+`திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened with new source evidence or a separately authorized phase.
