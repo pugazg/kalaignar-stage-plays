@@ -98,12 +98,27 @@ All ten scans were closure-reviewed against the supplied source pixels.
 - scans 38–39 / pp.36–37: unusual/dense source forms remain character-level holds; scan 39→40 physical boundary preserved;
 - scan 40 / p.38: complete continuation/private-`காவிகள்`/closing sequence and glyph gate **PASS / verified**; source form `நாசகாலர்கள்` retained without normalization.
 
+## Closure audit — scans 41–50
+
+All ten scans were re-inspected directly from the supplied source. **No page is newly promoted in this batch** because each retains at least one character-level, punctuation, stage-direction, or dense historical-type hold.
+
+- scans 41–42 / pp.39–40: scene-11 heading/location and dialogue structure are secure, but dense historical-type wording and punctuation remain below whole-page PASS threshold;
+- scan 43 / p.41: the small bold parenthetical remains exact-word unresolved; the opening finger-search action is also historical-type sensitive;
+- scan 44 / p.42: one lexical cluster in the final `விபீஷ` speech remains held;
+- scan 45 / p.43: the cluster immediately before `பலிபீடம்` remains held; source-sensitive `குத்திருப்பு` is not modernized;
+- scan 46 / p.44: `காட்சி 12.` / `இடம்: ஆற்றோரம்` are secure, but one wording/punctuation cluster in the first half remains open;
+- scan 47 / p.45: the lodging word after `எங்கள்` remains unresolved because the historical vowel form is not character-secure;
+- scan 48 / p.46: two small bold stage-direction clusters remain held;
+- scan 49 / p.47: direct source review corrects the earlier erroneous quote **`மலரைச் சாப்பாற்றினாய்` → `மலரைக் காப்பாற்றினாய்`**; full page-level glyph/punctuation gate remains open;
+- scan 50 / p.48: `வெளியில்` / `உள்ளே` alternation and voice/vision line-breaking are secure, but dense inset type remains under the whole-page gate.
+
+No open page in scans 41–50 contributes a new secure reference form.
 
 ## Current metrics
 
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **40 / 131** (`1–40`);
+- closure-audited: **50 / 131** (`1–50`);
 - full historical-glyph passes: **26 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`);
 - visually verified: **26 / 131**;
 - `needs-review`: **105 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`);
@@ -111,4 +126,4 @@ All ten scans were closure-reviewed against the supplied source pixels.
 
 ## Exact next activity
 
-Run the next closure batch over **scans 41–50**. Revisit explicit holds only with stronger source pixels/enlargements and close the full 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
+Run the next closure batch over **scans 51–60**. Revisit explicit holds only with stronger source pixels/enlargements and close the full 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
