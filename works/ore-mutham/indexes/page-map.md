@@ -41,7 +41,12 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 | 33 | 31 | body | `காட்சி 9.` continuation | needs-review | Visible dialogue and stage actions substantially transcribed; final punctuation/glyph gate open. |
 | 34 | 32 | body | `காட்சி 9.` continuation | needs-review | Visible dialogue substantially transcribed; colloquial/historical-vowel clusters remain under second pass. |
 | 35 | 33 | body | `காட்சி 9.` continuation | needs-review | Visible dialogue substantially transcribed; dense prose/dialogue and historical-vowel clusters remain under second pass. |
-| 36–130 | 34–128* | body | dramatic text | not-started | Sequential mapping remains provisional; scan 125 = p.123 and scan 130 = p.128 are visible anchors. |
+| 36 | 34 | body | `காட்சி 9.` continuation | needs-review | Kumari escape / Chitra substitution sequence substantially transcribed; punctuation and glyph gate open. |
+| 37 | 35 | body | `காட்சி 9.` close / `காட்சி 10.` opener | needs-review | `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்` directly source-secure; final small-type/glyph pass open. |
+| 38 | 36 | body | `காட்சி 10.` continuation | needs-review | Burned-village / unpaid-tax report and arrest discussion transcribed; final punctuation/glyph gate open. |
+| 39 | 37 | body | `காட்சி 10.` continuation | needs-review | Kumari returns with documentary evidence; final sentence physically continues onto scan 40. |
+| 40 | 38 | body | `காட்சி 10.` continuation | needs-review | Cross-page evidence continues; private `காவிகள்` exchange and arrest/anti-treason directive transcribed; source form `நாசகாலர்கள்` preserved. |
+| 41–130 | 39–128* | body | dramatic text | not-started | Sequential mapping remains provisional; scan 125 = p.123 and scan 130 = p.128 are visible anchors. |
 | 131 | — | back matter | back-cover advertisement | not-started | Publisher book-list advertisement. |
 
 `*` Printed-page policy: arithmetic mapping never makes a page verified. Each numeral must be visually confirmed.
@@ -50,10 +55,10 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 
 - physical scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **35 / 131**;
-- source scans processed: **35 / 131**;
+- page records created: **40 / 131**;
+- source scans processed: **40 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **31 / 131** (`1, 5, 7–35`);
+- `needs-review`: **36 / 131** (`1, 5, 7–40`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - structural/scene inventory: **not started**;
 - scene assembly: **not started**;
@@ -69,8 +74,9 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 - scan 21 / p.19: `காட்சி 6.` — `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.`;
 - scan 24 / p.22: `காட்சி 7.` — `இடம்: இமயாவின் மது மண்டபம்`;
 - scan 27 / p.25: `காட்சி 8.` — `இடம்:- முல்லைக்காட்டுப் பகுதி.`;
-- scan 32 / p.30: `காட்சி 9.` — `இடம்:- விபீஷணன் அறை`.
+- scan 32 / p.30: `காட்சி 9.` — `இடம்:- விபீஷணன் அறை`;
+- scan 37 / p.35: `காட்சி 10.` — `இடம்: பவளமலைச் சாரல்`.
 
 ## Exact next activity
 
-Process **scans 36–40** source-first. Confirm printed numerals directly, preserve source-visible scene/stage/speaker structure, and run the complete 13-family historical-glyph gate on each.
+Process **scans 41–45** source-first. Confirm printed numerals directly, preserve source-visible scene/stage/speaker structure, and run the complete 13-family historical-glyph gate on each.

@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN — 4 / 131 SCANS PASSED; 31 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN — 4 / 131 SCANS PASSED; 36 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -84,17 +84,27 @@ No positive reference is yet promoted for:
 | 34 | 32 | processed | open | Scene-9 dialogue substantially transcribed; multiple colloquial/historical-vowel clusters remain under second pass. |
 | 35 | 33 | processed | open | Scene-9 dialogue substantially transcribed; dense prose/dialogue and historical-vowel clusters remain under second pass. |
 
+## Batch 8 — scans 36–40
+
+| Scan | Printed page | Visual/source processing | 13-family gate | Status / note |
+|---:|---:|---|---|---|
+| 36 | 34 | processed | open | Scene-9 Kumari escape / Chitra substitution sequence substantially transcribed. `மின்னலை` is a useful open-page `லை` comparison; colloquial and dense stage-direction forms remain under second pass. |
+| 37 | 35 | processed | open | Scene 9 closes and `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்` is source-secure; small-type directions and historical-vowel forms remain under second pass. |
+| 38 | 36 | processed | open | Burned-village / unpaid-tax report and arrest discussion transcribed; punctuation and historical-vowel adjudication remain open. |
+| 39 | 37 | processed | open | Kumari returns with documentary evidence; `கணையாழி` provides open-page comparison material; final sentence crosses physically into scan 40. |
+| 40 | 38 | processed | open | Cross-page evidence continues; private `காவிகள்` exchange and arrest/anti-treason directive transcribed. `காலையில்` / `அலைந்தோம்` provide open-page comparison material; source `நாசகாலர்கள்` preserved. |
+
 Candidate occurrences from an open page do **not** enter the secure reference bank until the whole-page gate is closed.
 
 ## Current metrics
 
 - physical scans: **131**;
-- source-processed: **35 / 131**;
+- source-processed: **40 / 131**;
 - full historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- processed `needs-review`: **31 / 131** (`1, 5, 7–35`);
+- processed `needs-review`: **36 / 131** (`1, 5, 7–40`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Process scans **36–40** directly from source pixels. Add same-edition reference examples only where both the reading and the page-level verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.
+Process scans **41–45** directly from source pixels. Add same-edition reference examples only where both the reading and the page-level verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.
