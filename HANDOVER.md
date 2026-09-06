@@ -35,106 +35,79 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 
 ## Major checkpoint — RAW PAGE-SOURCE PASS COMPLETE
 
-All **131 / 131** physical scans now have page records and have been directly source-processed.
+All **131 / 131** scans have page records and were directly source-processed. Printed numerals are directly confirmed through **pp.6–128** on scans 8–130; scan 131 is back-cover advertising.
 
-- verified: `2, 3, 4, 6`;
-- needs-review: `1, 5, 7–131` (**127 pages**);
-- full historical-glyph passes: `2, 3, 4, 6` only;
-- printed numerals directly confirmed throughout **pp.6–128** on scans 8–130;
-- scan 131 is back-cover advertising.
+Publication structure:
 
-No open-page historical-glyph candidate has been promoted into the secure reference bank.
+- main play `ஒரே முத்தம்`: scans **8–118 / pp.6–116**, **30 source-visible scenes**;
+- supplementary **`நகைச் சுவைப் பகுதி.`**: scans **119–130 / pp.117–128**, with its own **3-scene numbering**;
+- do not silently renumber those supplementary scenes as main-play scenes 31–33.
 
-## Source-visible structural discovery from the completed pass
+## Closure-audit checkpoint — scans 1–10 complete
 
-The publication contains two distinct dramatic blocks:
+The first 10-scan closure batch has been completed using enlarged source pixels.
 
-### Main play `ஒரே முத்தம்`
+### Verified after this batch
 
-- scans **8–118 / pp.6–116**;
-- **30 source-visible scenes**;
-- scan 112 / p.110: `காட்சி 29.` — `இடம்:- அரண்மனை நந்தவனம்.`;
-- scan 117 / p.115: **`காட்சி 30.` — `இடம்:- குமரியின் படுக்கை.`**;
-- scan 118 / p.116 closes the main play, repeats `ஒரே முத்தம்`, and prints a closing verse beginning `தியாகப் பெருவிளக்கே, தீந்தமிழ்ப் பெண்ணமுதே!`.
+Scans **2–10**, except scan **1**, are now verified and have closed 13-family historical-glyph gates.
 
-Earlier anchors `காட்சி 1.`–`காட்சி 28.` remain durable in the page map. Exact location lines for scenes 4 and 5 remain held.
+New closures:
 
-### Supplementary `நகைச் சுவைப் பகுதி.`
+- scan 5: complete `பதிப்புரை.`;
+- scan 7: complete cast list and separate `நகைச்சுவைப் பகுதி.` cast; secure new `ணை` witness `துணைவி`;
+- scan 8 / p.6: complete `காட்சி 1.` opener;
+- scan 9 / p.7: complete scene-1 close / `காட்சி 2.` opener, including final collective gift direction;
+- scan 10 / p.8: complete scene-2 continuation; scan 10→11 physical split `சொல்` / `ளார்.` directly confirmed and preserved.
 
-This is source-visible as a separately headed section and **must not be silently renumbered as main-play scenes 31–33**.
+### Still open in scans 1–10
 
-- scans **119–130 / pp.117–128**;
-- scan 119 / p.117: `காட்சி 1.` — `இடம்:- சந்தேகம் வீடு.`;
-- scan 125 / p.123: `காட்சி 2.` — `இடம்:- வயல் வெளி.`;
-- scan 128 / p.126: `காட்சி 3.` — `இடம்:- சந்தேகம் வீடு.`;
-- scan 130 / p.128: final dramatic-text page.
+- scan 1 only: title is secure, but the small stylized lettering in the vertical cover device and tiny artist/signature mark remain unresolvable at the available source evidence. Keep `needs-review`; do not guess.
 
-Scan 131 is publisher advertising, not literary text.
+## Current secure historical-glyph bank
+
+- `லை`: scans 3, 4, 5, 6;
+- `ணா`: scans 3, 5, 6;
+- `ணை`: scan 7 `துணைவி`;
+- `னை`: scans 3, 4, 6;
+- `றா`: scan 6.
+
+No open page may contribute new reference forms until its complete visual + 13-family gate closes.
 
 ## Important direct thematic evidence
 
 - scan 25 / p.23: caste division as a governing tactic;
 - scan 31 / p.29: direct anti-caste / anti-untouchability dramatic argument;
 - scan 75 / p.73: discriminatory caste-law dialogue;
-- scan 115 / p.113: direct law/custom argument using `கலப்புமணம்`;
-- scans 115–116 continue the prince/king conflict into inherited law/social custom and living among the people.
-
-## Historical Tamil glyph gate
-
-Every processed scan must receive:
-
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-
-Permanent rules:
-
-- source pixels control;
-- character identity, not modern resemblance;
-- no global replacement;
-- no spelling/grammar/punctuation normalization;
-- no semantic/plot repair;
-- unresolved readings remain explicit `needs-review` / source-held;
-- only positively verified pages may supply the secure same-edition reference bank.
-
-Current secure bank remains:
-
-- `லை`: scans 3, 4, 6;
-- `ணா`: scans 3, 6;
-- `னை`: scans 3, 4, 6;
-- `றா`: scan 6.
+- scan 115 / p.113: law/custom argument directly using `கலப்புமணம்`.
 
 ## Current metrics
 
-- source scans registered: **131 / 131**;
-- checksum: **recorded**;
-- page records created: **131 / 131**;
-- source scans processed: **131 / 131 — COMPLETE**;
-- visually verified: **4 / 131**;
-- `needs-review`: **127 / 131**;
-- completed historical-glyph passes: **4 / 131**;
+- source scans registered/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
+- closure-audited: **10 / 131** (`1–10`);
+- visually verified: **9 / 131** (`2–10`, except `1`);
+- `needs-review`: **122 / 131** (`1, 11–131`);
+- completed historical-glyph passes: **9 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary source-visible scenes: **3**;
-- formal structural inventory: **not started**;
+- formal structural/scene inventory: **not started**;
 - Tamil scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-## Exact next activity — SOURCE-PASS CLOSURE AUDIT
+## Exact next activity — closure scans 11–20
 
-Do **not** begin scene assembly or English translation yet.
+Do **not** begin scene assembly or English translation.
 
-Start closure review in **10-scan batches**, unless the user changes cadence. First closure batch: **scans 1–10**.
+Review scans **11–20** source-first with enlarged pixels as needed:
 
-For each page:
-
-1. re-inspect source pixels/enlargements;
-2. resolve only explicit holds that stronger pixels genuinely settle;
-3. preserve source wording/punctuation/labels exactly;
-4. run the complete 13-family historical-glyph gate;
-5. promote to `verified` only when both visual fidelity and glyph gate fully close;
-6. otherwise retain explicit `needs-review` markers;
-7. synchronize page-map/glyph audit/README/handover/prompt after each closure batch.
-
-The held scene-4 and scene-5 location lines remain priority unresolved anchors when their scans are reached. No OCR expectation, plot continuity, later edition or modern spelling may fill them.
+1. revisit every `needs-review` / `source-held` item on those scans;
+2. preserve exact source wording, punctuation, speaker labels, stage directions and physical page boundaries;
+3. run the complete historical-glyph family gate on every scan: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+4. promote to `verified` only if the entire page closes;
+5. priority source problems: exact `காட்சி 4.` location line on scan **15**, and exact `காட்சி 5.` location line on scan **19**;
+6. do not infer those locations from plot continuity, OCR expectation, another edition or modern spelling;
+7. synchronize page records, page map, glyph audit, source/work/root READMEs, handover and prompt after the batch;
+8. fetch final live `main` SHA.
 
 # CLOSED WORK SAFEGUARDS
 
-`திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened with new source evidence or a separately authorized phase.
+`திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened with new evidence or a separately authorized phase.
