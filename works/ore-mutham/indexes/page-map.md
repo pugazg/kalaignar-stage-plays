@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
-All **131 physical scans** are registered. The individual `pages/*.md` records remain the detailed source-first authority; this map is the durable structural/pagination summary. Registration does not imply verification.
+All **131 physical scans** are registered and now source-processed. The individual `pages/*.md` records remain the detailed source-first authority; registration/processing does not imply verification.
 
 | Scan(s) | Printed page(s) | Section / scene | Status | Source note |
 |---:|---:|---|---|---|
@@ -35,37 +35,35 @@ All **131 physical scans** are registered. The individual `pages/*.md` records r
 | 75–79 | 73–77 | `காட்சி 20.` | needs-review | Scan 75: `இடம்:- மலையன் வீடு.` and discriminatory caste-law dialogue; scan 79→80 physical speech continuation preserved. |
 | 80–84 | 78–82 | `காட்சி 21.` | needs-review | Scan 80: `இடம்:- விபீஷணன் மாளிகை.`; scan 82 retains one short exact-word hold. |
 | 85–86 | 83–84 | `காட்சி 22.` | needs-review | Scan 85: `இடம்: பொன்னியின் குடிசை.`; scan 86 continues the `மலை` / `குமரி` exchange. |
-| 87–93 | 85–91 | `காட்சி 23.` | needs-review | Scan 87: `இடம்:- விபீஷணன் மாளிகை.`; ambush, restraint and forced-letter sequence. |
-| 94–95 | 92–93 | `காட்சி 24.` | needs-review | Scan 94: `இடம்:- தெருவில்.`; `குமரி`'s internal monologue physically continues into scan 95. |
-| 96–99 | 94–97 | `காட்சி 25.` | needs-review | Scan 96: `இடம்: விபீஷணன் மாளிகை.`; coercion/forged-letter sequence; scan 96→97 and 97→98 continuations preserved. |
-| 100–103 | 98–101 | `காட்சி 26.` | needs-review | Scan 100: `இடம்:- மகாவீரர் தர்பார்.`; public accusation, forged evidence and execution sentence; scan 102→103 continuation preserved. |
+| 87–93 | 85–91 | `காட்சி 23.` | needs-review | Scan 87: `இடம்:- விபீஷணன் மாளிகை.`; ambush/restraint/forced-letter sequence. |
+| 94–95 | 92–93 | `காட்சி 24.` | needs-review | Scan 94: `இடம்:- தெருவில்.`; `குமரி` internal monologue continues into scan 95. |
+| 96–99 | 94–97 | `காட்சி 25.` | needs-review | Scan 96: `இடம்: விபீஷணன் மாளிகை.`; coercion/forged-letter sequence. |
+| 100–103 | 98–101 | `காட்சி 26.` | needs-review | Scan 100: `இடம்:- மகாவீரர் தர்பார்.`; accusation, forged evidence and death sentence. |
 | 104–105 | 102–103 | `காட்சி 27.` | needs-review | Scan 104: `இடம்:- இன்பபுரி அரண்மனைத் தெரு.`; public reaction and planned armed suppression. |
-| 106–111 | 104–109 | `காட்சி 28.` | needs-review | Scan 106: `இடம்:- தூக்குமேடை.`; execution-platform confrontation, `குமரி`/`சித்ரா` intervention and forged-letter reversal. Scans 106→107, 109→110 and 111→112 preserve physical continuations. |
-| 112–115 | 110–113 | `காட்சி 28.` close / `காட்சி 29.` | needs-review | Scan 112: `காட்சி 29.` / `இடம்:- அரண்மனை நந்தவனம்.`; scans 114–115 develop the king/prince dispute over `பொன்னி`, law/custom and `கலப்புமணம்`. |
-| 116–130 | 114–128* | dramatic body | not-started | Sequential mapping remains provisional; scan 125 = p.123 and scan 130 = p.128 are visible anchors. |
-| 131 | — | back-cover advertisement | not-started | Publisher book-list advertisement. |
-
-`*` Printed-page policy: arithmetic mapping never makes a page verified. Every printed numeral must be directly confirmed from source pixels.
+| 106–111 | 104–109 | `காட்சி 28.` | needs-review | Scan 106: `இடம்:- தூக்குமேடை.`; execution-platform confrontation and forged-letter reversal. |
+| 112–116 | 110–114 | `காட்சி 29.` | needs-review | Scan 112: `இடம்:- அரண்மனை நந்தவனம்.`; law/custom, `பொன்னி`, `கலப்புமணம்`, and life-among-the-people arguments continue through scan 116. |
+| 117–118 | 115–116 | `காட்சி 30.` / main-play close | needs-review | Scan 117: `இடம்:- குமரியின் படுக்கை.`; scan 118 repeats `ஒரே முத்தம்`, closes the main play and prints a closing verse beginning `தியாகப் பெருவிளக்கே, தீந்தமிழ்ப் பெண்ணமுதே!`. |
+| 119–124 | 117–122 | `நகைச் சுவைப் பகுதி.` — `காட்சி 1.` | needs-review | Scan 119 securely begins a separately headed supplementary comedy section at `இடம்:- சந்தேகம் வீடு.`; it is not main-play scene 31. |
+| 125–127 | 123–125 | `நகைச் சுவைப் பகுதி.` — `காட்சி 2.` | needs-review | Scan 125: `இடம்:- வயல் வெளி.`; field/comic bargaining sequence. |
+| 128–130 | 126–128 | `நகைச் சுவைப் பகுதி.` — `காட்சி 3.` | needs-review | Scan 128: `இடம்:- சந்தேகம் வீடு.`; scan 130 is printed p.128 and the final dramatic-text page. |
+| 131 | — | back-cover advertisement | needs-review | Publisher book-list advertisement, not literary text. |
 
 ## Current checkpoint
 
 - physical scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **115 / 131** (`0001.md`–`0115.md`);
-- source scans processed: **115 / 131**;
-- directly confirmed printed body pages: **pp.6–113** through scan 115;
+- page records created: **131 / 131** (`0001.md`–`0131.md`);
+- source scans processed: **131 / 131 — SOURCE PASS COMPLETE**;
+- directly confirmed printed pages: **pp.6–128** through scan 130;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **111 / 131** (`1, 5, 7–115`);
+- `needs-review`: **127 / 131** (`1, 5, 7–131`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **29** (`காட்சி 1.`–`காட்சி 29.`);
-- structural/scene inventory: **not started**;
+- main-play source-visible scene anchors: **30** (`காட்சி 1.`–`காட்சி 30.`);
+- supplementary comedy source-visible anchors: **3** (`காட்சி 1.`–`காட்சி 3.` under `நகைச் சுவைப் பகுதி.`);
+- formal structural/scene inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-## Batch-size directive
-
-The remaining source pass proceeds in **10-scan iterations** unless the final remainder is smaller or the user changes the instruction.
-
 ## Exact next activity
 
-Process **scans 116–125** source-first. Confirm every printed numeral directly, preserve source-visible scene/stage/speaker forms, run the complete 13-family historical-glyph gate on every scan, and retain unresolved text as explicit source holds.
+The raw page-source pass is complete. Next, perform a **source-pass closure audit** of open `needs-review` records, resolving only from stronger source pixels. Priorities: held scene-4/scene-5 locations, explicit lexical/stage-direction holds, page-boundary joins, and full 13-family historical-glyph closure. Do **not** begin scene assembly or English translation until that closure phase is authorized/complete.
