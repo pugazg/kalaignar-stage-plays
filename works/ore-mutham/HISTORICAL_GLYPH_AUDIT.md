@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN — 4 / 131 SCANS PASSED; 101 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN — 4 / 131 SCANS PASSED; 111 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -52,76 +52,38 @@ No positive reference is yet promoted for:
 
 ## Durable processing summary
 
-### Scans 1–20
-- PASS: `2, 3, 4, 6`.
-- Open: `1, 5, 7–20`.
-- No earlier hold is silently closed.
+### Scans 1–105
 
-### Scans 21–40
-- all newly processed pages remain open;
-- useful comparison material includes `கண்ணை` / `வளையிலேயே` on scan 24, `விபீஷணா?` on scan 29, `மலைப்பாம்பு` on scan 30 and later `லை` / `ணை` candidates;
-- scan 39→40 physical continuation is preserved;
-- none of these candidates is promoted because the whole-page gates remain open.
+- PASS remains limited to scans `2, 3, 4, 6`;
+- all other processed scans remain open;
+- all previously recorded explicit lexical/stage-direction holds and physical page-boundary continuations remain unchanged unless stronger source pixels later resolve them;
+- no open-page candidate has been promoted into the secure reference bank.
 
-### Scans 41–60
-- all newly processed pages remain open;
-- earlier stage-direction / lexical holds on scans 43–48 remain explicit;
-- scans 49–51 preserve `விபீஷணன் குரலும் நிழலும்` material;
-- scan 55→56 continuation was resolved only from stronger source pixels;
-- scan 60 retains an explicit opening parenthetical hold;
-- no candidate promoted.
+### Scans 106–115
 
-### Scans 61–70
-- all newly processed pages remain open;
-- scan 61 retains one interrogative word and one bracketed cue;
-- scan 63→64 physical `அல்` / `லது` split remains source-faithful;
-- scan 67→68 physical `இமயா` / `வோடு` split remains source-faithful;
-- scan 68 retains one acclamation-word hold and scan 69 two dense clause/lexical holds;
-- no candidate promoted.
-
-### Scans 71–85
-- all pages remain open;
-- scan 74 retains two dense lexical/caste-description holds;
-- scan 77 retains an opening-line ending plus dense transition/costume parentheticals;
-- scan 78 retains one early lexical cluster;
-- scan 79→80 physical speech continuation is preserved;
-- scan 82 retains one short exact-word hold;
-- scenes 19–22 were established without promoting any open-page historical-glyph candidate.
-
-### Scans 86–95
 - all ten pages remain open;
-- scan 86: `மலை`, `பொன்னியை`, `கண்ணே`, `இல்லை` and related forms inspected as comparison material only;
-- scan 87: scene 23 opener; `பெண்கள்கூட`, `விபீஷணன்`, `இல்லை` family material remains open;
-- scan 88 retains one small stage-action cluster plus the page-ending comparison clause for second pass;
-- scan 89 retains one dense opening stage-direction cluster; `விபீஷணா`, `இவனை`, `விலங்கை` inspected but not promoted;
-- scan 90 retains one short insult cluster; `எரிமலையின்`, `தூணில்`, `வெள்ளத்தின்` remain open comparison material;
-- scans 91–93 preserve dense restraint / `பொன்னி` / forced-letter forms with no promotion;
-- scan 94 opens scene 24; `பொன்னியைப்பற்றி`, `மாளிகைக்கு`, `யாளித்துறை` remain open comparison material;
-- scan 95 includes `அவளை`, `பொன்னியைக்`, `விலை`, `காதலை`, `மாளிகை`; all remain open because the whole-page gate is not closed.
-
-### Scans 96–105
-- all ten pages remain open;
-- scan 96 opens `காட்சி 25.` / `இடம்: விபீஷணன் மாளிகை.`; one opening parenthetical title/person cluster remains held; `வாளை`, `தலை`, `விபீஷணன்` are open comparison material;
-- scan 96→97 preserves the physical continuation ending `சொல்` / opening `லப் போனால்`;
-- scan 97→98 preserves the physical word split `பதார்த்தங்` / `களில்`;
-- scan 98 retains one short stage-direction cluster; `பொன்னியின்`, `தலைக்கு`, `யாளித்தத்தர்` remain open comparison material;
-- scan 99 retains two dense stage-direction clusters; `மகாராணியாக`, `மணப்பாளாம்`, `பொன்னி`, `விபீஷணன்` are open comparison material;
-- scan 100 opens `காட்சி 26.` / `இடம்:- மகாவீரர் தர்பார்.`; one entrance-stage direction remains held; `மரகதமாலை`, `விபீஷணர்`, `இளந்தமிழ்` remain open;
-- scan 101 retains one dense lexical cluster in `விபீஷ`'s accusation; `மண்டையை`, `மகாராணியாக`, `தண்டனை` are open comparison material;
-- scan 102→103 preserves the physical continuation of `விபீஷ`'s long accusation; `பொன்னி`, `விபீஷணன்`, `யாளித்தத்தர்`, `என்னை` remain open;
-- scan 104 closes scene 26 and opens `காட்சி 27.` / `இடம்:- இன்பபுரி அரண்மனைத் தெரு.`; one short parenthetical remains held;
-- scan 105 retains a dense opening crowd-stage direction; `அரண்மனையிலும்`, `முளையிலேயே`, `விபீஷணரே` and related forms remain open;
-- no candidate from scans 96–105 is promoted because none of the ten whole-page gates is closed.
+- scan 106 opens `காட்சி 28.` / `இடம்:- தூக்குமேடை.`; `சொல்லவேண்டியது`, `வேண்டுமோ` and related shapes are open comparison material only;
+- scan 106→107 preserves a physical continuation of `புத்த`'s public address;
+- scan 108 records `குமரி`'s intervention and `விபீஷ`'s public `ராஜதுரோகி` accusation; `நிறுத்துங்கள்`, `தலைவி`, `மகாராஜா` remain open comparison material;
+- scan 109 introduces `சித்ரா` into the execution-platform confrontation and physically continues her speech into scan 110;
+- scan 110 preserves the cross-page continuation and the `மாயம்` / `மாயாஜாலம்` defence; `ஒன்றுமில்லை`, `நம்பாதீர்கள்` remain open comparison material;
+- scan 111 carries the forged-letter reversal and public acclamation; `பொன்னி`, `குற்றவாளியாக்கியது`, `நாட்டுக்காக` remain open;
+- scan 111→112 preserves `விபீஷ`'s final protest across the page boundary;
+- scan 112 closes scene 28 and opens `காட்சி 29.` / `இடம்:- அரண்மனை நந்தவனம்.`; `விபீஷணனுக்கு`, `அரண்மனை` remain open;
+- scan 113 continues the garden discussion of `சித்ரா`'s sacrifice and women's social position; `கணவனைக்`, `பெண்கள்`, `அரண்மனையிலேயே` remain open;
+- scan 114 turns to the king/prince marriage confrontation over `பொன்னி`; `பொன்னியை`, `மன்னன்`, `அரச குடும்பத்தில்` remain open;
+- scan 115 directly contains `கலப்புமணம்` in the law/custom debate; `கலப்புமணம்`, `சட்டத்தை`, `மாற்றி` remain open comparison material;
+- no candidate from scans 106–115 is promoted because none of the ten whole-page gates is closed.
 
 Candidate occurrences from an open page do **not** enter the secure reference bank until the complete page-level visual + 13-family gate is closed.
 
 ## Current metrics
 
 - physical scans: **131**;
-- source-processed: **105 / 131**;
+- source-processed: **115 / 131**;
 - full historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- processed `needs-review`: **101 / 131** (`1, 5, 7–105`);
+- processed `needs-review`: **111 / 131** (`1, 5, 7–115`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Batch-size directive
@@ -130,4 +92,4 @@ Continue the source pass in **10-scan iterations** unless the remaining final ba
 
 ## Exact next activity
 
-Process scans **106–115** directly from source pixels. Run the full 13-family gate on every scan. Add same-edition reference examples only where both the reading and the whole-page verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.
+Process scans **116–125** directly from source pixels. Run the full 13-family gate on every scan. Add same-edition reference examples only where both the reading and the whole-page verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.
