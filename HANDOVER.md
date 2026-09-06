@@ -43,13 +43,13 @@ Publication structure:
 - supplementary **`நகைச் சுவைப் பகுதி.`**: scans **119–130 / pp.117–128**, with its own **3-scene numbering**;
 - do not silently renumber those supplementary scenes as main-play scenes 31–33.
 
-## Closure-audit checkpoint — scans 1–60 complete
+## Closure-audit checkpoint — scans 1–70 complete
 
 ### Verified
 
-Scans **2–20, 22, 24–26, 33, 37, 40, 53–59** are verified and have closed full 13-family historical-glyph gates: **33 / 131** total.
+Scans **2–20, 22, 24–26, 33, 37, 40, 53–59, 62–64, 67–68, 70** are verified and have closed full 13-family historical-glyph gates: **39 / 131** total.
 
-### Still open within scans 1–60
+### Still open within scans 1–70
 
 - scan 1: small stylized cover lettering / tiny artist mark;
 - scan 21: opening bold stage direction; its second-stage-direction hold is resolved as `துவங்குகிறான்`;
@@ -73,9 +73,13 @@ Scans **2–20, 22, 24–26, 33, 37, 40, 53–59** are verified and have closed 
 - scan 50: dense inset historical type / punctuation;
 - scan 51: long pre-`காட்சி 13.` bold parenthetical remains exact-word held;
 - scan 52: comic/song parenthetical and long dawn-stage parenthetical remain exact-word held;
-- scan 60: one small lexical cluster in the opening bold parenthetical remains character-insecure.
+- scan 60: one small lexical cluster in the opening bold parenthetical remains character-insecure;
+- scan 61: opening interrogative word and one small bracketed cue remain exact-word held;
+- scan 65: one short `மகா` phrase around `உமக்கு ஒரு பிரதிநிதி...` remains character/spacing-held;
+- scan 66: compact `ஹ ஹ ஹா!` laughter/spacing/punctuation cluster remains open;
+- scan 69: one place-name cluster before `சிம்மாசனத்தில்` and one later consequence clause remain exact-word held.
 
-### Important closures / corrections through scans 51–60
+### Important closures / corrections through scans 61–70
 
 Earlier closures remain authoritative:
 
@@ -85,19 +89,22 @@ Earlier closures remain authoritative:
 - scan 33 / p.31: complete page PASS;
 - scan 37 / p.35: `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்` PASS;
 - scan 40 / p.38: complete page PASS; source form `நாசகாலர்கள்` retained;
-- scan 49 / p.47: durable correction **`மலரைச் சாப்பாற்றினாய்` → `மலரைக் காப்பாற்றினாய்`**.
+- scan 49 / p.47: durable correction **`மலரைச் சாப்பாற்றினாய்` → `மலரைக் காப்பாற்றினாய்`**;
+- scans **53–59**: all PASS / verified; scan 56 preserves `இமய` / `இமா` / `விபீஷ -` and first secure `னொ` witness `இன்னொன்று`; scan 59 verifies `காட்சி 16.` location.
 
-New scans 51–60 findings:
+New scans 61–70 findings:
 
-- scans **53–59** newly close **PASS / verified**;
-- scan 51 / p.49: `காட்சி 13.` / `இடம்: தெருவில்.` and street dialogue secure; one long bold parenthetical remains held;
-- scan 52 / p.50: `காட்சி 14.` / `இடம்: புத்தன் முகாம்` secure; two dense bold parenthetical blocks remain held;
-- scan 53 / p.51: `காட்சி 15.` / `இடம்: விபீஷணன் மண்டபம்.` PASS;
-- scan 55→56 physical continuation is source-closed and remains represented across the page boundary;
-- scan 56 / p.54: source label variation `இமய`, `இமா`, `விபீஷ -` preserved exactly; `இன்னொன்று` is the first secure `னொ` witness;
-- scan 57 / p.55: `அவளை` supplies secure `ளை` evidence;
-- scan 59 / p.57: `காட்சி 15.` → `காட்சி 16.` transition and `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.` PASS; `விசாரணைமண்டபத்தில்` supplies secure `ணை` evidence;
-- scan 60 / p.58: ordinary dialogue and later `புதர்` action block secure; opening bold parenthetical retains one exact-word hold.
+- scans **62–64, 67–68 and 70** newly close **PASS / verified**;
+- scan 61 / p.59: ordinary dialogue and structure secure; two small exact-word/cue holds remain;
+- scan 62 / p.60: full page PASS; secure comparison forms include `வேலை` (`லை`) and `என்னைப்` (`னை`);
+- scan 63 / p.61: direct source correction **`காலப்பனி போல்` → `காலப்பனிபோல்`**; physical final `அல்` split preserved; page PASS;
+- scan 64 / p.62: scan-63→64 `அல்` / `லது` continuation and `காட்சி 17.` / `இடம்:- விசாரண மண்டபம்` PASS;
+- scan 65 / p.63: direct correction **`ஆசைப்பட்டச் சொன்னார்` → `ஆசைப்படச் சொன்னார்`**; one short `மகா` phrase remains open;
+- scan 66 / p.64: evidence/box sequence secure; laughter/punctuation cluster remains open;
+- scan 67 / p.65: direct correction **`வெம்பொடு` → `வேம்பொடு`**; sentencing/appointment page PASS; scan-67→68 physical continuation preserved;
+- scan 68 / p.66: prior hold resolves as **`வாழ்க இந்நாட்டு வளம்!`**; `காட்சி 18.` / `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.` PASS;
+- scan 69 / p.67: two dense exact-source holds remain; no contextual completion;
+- scan 70 / p.68: full dialogue PASS; source form `ஆலகாலமா?` retained exactly.
 
 Earlier source corrections remain authoritative:
 
@@ -107,11 +114,11 @@ Earlier source corrections remain authoritative:
 
 ## Current secure historical-glyph bank
 
-- `லை`: scans 3, 4, 5, 6, 37, 40, 56, 58;
-- `ணா`: scans 3, 5, 6;
-- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`, scan 59 `விசாரணைமண்டபத்தில்`;
+- `லை`: scans 3, 4, 5, 6, 37, 40, 56, 58, 62–64, 67–68;
+- `ணா`: scans 3, 5, 6; scan 63 `கண்ணா`;
+- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`, scan 59 `விசாரணைமண்டபத்தில்`, scan 63 `கணையாழி` / `அணையைக்`, scan 70 `துணையை`;
 - `ளை`: scan 24 `வளையிலேயே`, scan 57 `அவளை`;
-- `னை`: scans 3, 4, 6; scan 53 `மனைவி`; scan 54 `அவனைச்`;
+- `னை`: scans 3, 4, 6; scan 53 `மனைவி`; scan 54 `அவனைச்`; scan 62 `என்னைப்`; scan 67 `தண்டனை`; scan 70 `உன்னையல்ல`;
 - `றா`: scan 6 `காரணமாகும்`, scan 55 `தோற்றால்`, scan 56 `தொலைக்கிறாள்`, scan 57 `தருகிறாள்` / `உபசரிக்கிறாள்`;
 - `னொ`: scan 56 `இன்னொன்று` — first secure positive witness.
 
@@ -120,21 +127,21 @@ No positive reference is yet promoted for `ணொ / ணோ / றொ / றோ / �
 ## Current metrics
 
 - source scans registered/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **60 / 131** (`1–60`);
-- visually verified: **33 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`);
-- `needs-review`: **98 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–131`);
-- completed historical-glyph passes: **33 / 131**;
+- closure-audited: **70 / 131** (`1–70`);
+- visually verified: **39 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70`);
+- `needs-review`: **92 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `71–131`);
+- completed historical-glyph passes: **39 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary source-visible scenes: **3**;
 - formal structural/scene inventory: **not started**;
 - Tamil scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-## Exact next activity — closure scans 61–70
+## Exact next activity — closure scans 71–80
 
 Do **not** begin scene assembly or English translation.
 
-Review scans **61–70** source-first with stronger source pixels/renderings as needed:
+Review scans **71–80** source-first with stronger source pixels/renderings as needed:
 
 1. revisit every `needs-review` / `source-held` item on those scans;
 2. preserve exact source wording, punctuation, speaker labels, stage directions and physical page boundaries;
