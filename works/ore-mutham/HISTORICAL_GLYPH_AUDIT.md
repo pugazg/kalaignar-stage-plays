@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN — 4 / 131 SCANS PASSED; 6 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN — 4 / 131 SCANS PASSED; 11 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -77,17 +77,27 @@ No positive reference is yet promoted for:
 | 8 | processed | open | Printed p.6 and `காட்சி 1.` / location / crowd-cries secure; dense stage direction and dialogue remain unresolved. |
 | 9 | processed | open | Printed p.7 and source `காட்சி 2.` transition secure; dense dialogue remains unresolved. |
 | 10 | processed | open | Printed p.8 and `காட்சி 2.` continuation secure; dense dialogue remains unresolved. |
-| 11–131 | not started | not started | unopened / next source batch begins at scan 11. |
+
+## Batch 3 — scans 11–15
+
+| Scan | Visual/source processing | 13-family gate | Status / note |
+|---:|---|---|---|
+| 11 | processed | open | Printed p.9 and source `காட்சி 3.` / `இடம்:- மலர்நகரில் ஒரு புறம்.` secure; dense dialogue and directions remain unresolved. |
+| 12 | processed | open | Printed p.10 and scene-3 continuation secure; dense dialogue remains unresolved. |
+| 13 | processed | open | Printed p.11 and scene-3 continuation secure; dense dialogue remains unresolved. |
+| 14 | processed | open | Printed p.12 and scene-3 continuation secure; dense dialogue remains unresolved. |
+| 15 | processed | open | Printed p.13 and source `காட்சி 4.` transition secure; exact location line and surrounding dialogue remain unresolved. |
+| 16–131 | not started | not started | unopened / next source batch begins at scan 16. |
 
 ## Current metrics
 
 - physical scans: **131**;
-- source-processed: **10 / 131**;
+- source-processed: **15 / 131**;
 - full historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- processed `needs-review`: **6 / 131** (`1, 5, 7, 8, 9, 10`);
-- unresolved/open full-page text-glyph gates: **6 pages**.
+- processed `needs-review`: **11 / 131** (`1, 5, 7–15`);
+- unresolved/open full-page text-glyph gates: **11 pages**.
 
 ## Exact next activity
 
-Process scans **11–15** directly from source pixels and add same-edition reference examples only where visually secure. Preserve scans `1, 5, 7–10` as open holds unless enlarged source evidence genuinely resolves them. Do not infer modern spellings or use scene continuity to repair uncertain text.
+Process scans **16–20** directly from source pixels and add same-edition reference examples only where visually secure. Preserve scans `1, 5, 7–15` as open holds unless enlarged source evidence genuinely resolves them. Do not infer modern spellings or use scene continuity to repair uncertain text.
