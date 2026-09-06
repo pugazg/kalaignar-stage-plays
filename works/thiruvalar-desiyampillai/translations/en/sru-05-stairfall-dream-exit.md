@@ -5,8 +5,8 @@ editorial_label: "Stair-fall and dream exit"
 work: "thiruvalar-desiyampillai"
 source_sru: "../../scenes/sru-05-stairfall-dream-exit.md"
 source_scan_pages: [39, 40]
-status: "translation-draft"
-translation_review: "pending"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
 ---
@@ -25,7 +25,7 @@ He catches hold of a rope and tries to straighten himself! He cannot get up. Aga
 
 The Madurai-padi strikes the rolling Desiyam Pillai so hard that his nose is flattened.
 
-“Amma! I cannot bear the pain!” he cries. Before he can close his mouth, he rolls on the Udumalai-padi. Two teeth that had been jutting out in front of his lips from his open mouth fall down.
+“Amma! I cannot bear the pain!” he cries. Before he can close his mouth—down the Udumalai-padi you roll. Two teeth that had been jutting out in front of his lips from his open mouth fall down.
 
 Bracing his hand on a cash-box, he gasps, “Ah! I escaped. Gobi-padi—” Next comes the Paasi-padi! A great slip! He falls—falls—on the Virudhunagar-padi!
 
@@ -39,8 +39,9 @@ He loses consciousness. His arms and legs cease to function. It feels as though 
 
 ## Translation notes
 
-- Drafted only from the reviewed Tamil SRU; no OCR/PDF substitute, later edition, web text, general-knowledge reconstruction, or secondary English witness was used.
+- Drafted and reviewed only against the complete reviewed Tamil SRU; no OCR/PDF substitute, later edition, web text, general-knowledge reconstruction, or secondary English witness was used.
 - The repeated `படி` sequence is the governing wordplay of the unit. The English therefore retains the source place-name compounds as `Kovai-padi`, `Ambur-padi`, `Kudanthai-padi`, `Madurai-padi`, `Udumalai-padi`, `Gobi-padi`, `Paasi-padi`, `Virudhunagar-padi`, `Trichy-padi`, and `Thanjai-padi` rather than flattening every occurrence to ordinary “step.”
 - Opening `எப்பாடி!` is retained as `Eppadi!` because translating it as an ordinary exclamation would erase its sound relationship with the repeated `படி` sequence.
+- The source suddenly uses second-person `உருளுகிறீர்` in the Udumalai-padi sentence; the English preserves that person-shift as `you roll` rather than silently regularizing it to third person.
 - `உதய சூரியன்` is rendered as “Rising Sun” while preserving the simultaneous literal dawn/political-symbol resonance supplied by the Tamil SRU.
 - The artifact stops before the wife enters with morning coffee; that material belongs to SRU-06.
