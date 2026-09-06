@@ -34,7 +34,7 @@ User-supplied catalog metadata remains: title **ஒரே முத்தம்*
 
 The supplementary scenes must not be silently renumbered as main-play scenes 31–33.
 
-## Closure-audit corrections / resolutions through scan 40
+## Closure-audit corrections / resolutions through scan 50
 
 Earlier closed corrections remain authoritative:
 
@@ -61,6 +61,20 @@ New closure findings from scans 31–40:
 - scans 38–39: explicit character-level holds remain; scan 39→40 physical continuation preserved;
 - scan 40 / p.38: complete page **verified**; source form `நாசகாலர்கள்` retained.
 
+New closure findings from scans 41–50:
+
+- scans 41–42: scene-11 structure rechecked; dense historical-type/punctuation holds remain;
+- scan 43: one small bold parenthetical remains exact-word unresolved;
+- scan 44: one lexical cluster in the final `விபீஷ` speech remains held;
+- scan 45: the cluster immediately before `பலிபீடம்` remains held; `குத்திருப்பு` is not modernized;
+- scan 46: `காட்சி 12.` / `இடம்: ஆற்றோரம்` remain secure; one wording/punctuation cluster remains open;
+- scan 47: one old-type-sensitive lodging word remains unresolved;
+- scan 48: two small bold stage-direction clusters remain held;
+- scan 49: direct source review corrects **`மலரைச் சாப்பாற்றினாய்` to `மலரைக் காப்பாற்றினாய்`**; whole-page gate remains open;
+- scan 50: inside/outside alternation and voice/vision line-breaking are secure; dense inset type remains open.
+
+No page in scans 41–50 is newly promoted to `verified`.
+
 ## Direct thematic evidence already established
 
 - scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
@@ -82,7 +96,7 @@ Mandatory family set:
 
 Secure same-edition reference bank now includes:
 
-- `லை`: scans 3, 4, 5, 6;
+- `லை`: scans 3, 4, 5, 6, 37, 40;
 - `ணா`: scans 3, 5, 6;
 - `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`;
 - `ளை`: scan 24 `வளையிலேயே`;
@@ -97,7 +111,7 @@ No open-page candidate is promoted until its whole-page visual + 13-family gate 
 - source checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **scans 1–40**;
+- closure-audited: **scans 1–50**;
 - visually verified: **26 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`);
 - `needs-review`: **105 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`);
 - completed historical-glyph passes: **26 / 131**;
@@ -109,4 +123,4 @@ No open-page candidate is promoted until its whole-page visual + 13-family gate 
 
 ## Exact next source activity
 
-Continue the **source-pass closure audit with scans 41–50** using stronger source pixels/enlargements only. Formal scene assembly and English translation remain out of scope.
+Continue the **source-pass closure audit with scans 51–60** using stronger source pixels/enlargements only. Formal scene assembly and English translation remain out of scope.
