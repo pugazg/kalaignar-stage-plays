@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — 131 scans registered; source processing 70/131; verified 4; needs-review 66; historical-glyph pass 4/131; checksum recorded; structure/assembly not started; English not authorized** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — 131 scans registered; source processing 95/131; verified 4; needs-review 91; historical-glyph pass 4/131; checksum recorded; structure/assembly not started; English not authorized** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -28,34 +28,34 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic body;
 - scan **131**: back-cover publisher advertisement;
-- printed pages directly confirmed through scan 70: **pp.6–68**;
-- source-visible scene anchors currently reach `காட்சி 18.`;
+- printed pages directly confirmed through scan 95: **pp.6–93**;
+- source-visible scene anchors currently reach `காட்சி 24.`;
 - scan 130 is printed p.128 and the final dramatic page.
 
-Processed scans 1–70:
+Processed scans 1–95:
 
 - **verified:** `2, 3, 4, 6`;
-- **needs-review:** `1, 5, 7–70`;
+- **needs-review:** `1, 5, 7–95`;
 - full historical-glyph passes: `2, 3, 4, 6`;
 - scan 6 verifies the author foreword, including the Sri Lankan historical-fragment basis and first staging by `தேவி நாடக சபை`;
 - scan 25 directly prints caste division as a governing tactic;
 - scan 31 contains direct anti-caste / anti-untouchability dramatic dialogue;
-- scan 59 opens `காட்சி 16.` at `பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`;
-- scan 63→64 preserves the physical `அல்` / `லது` word split;
-- scan 64 opens `காட்சி 17.` at `விசாரண மண்டபம்`;
-- scan 67→68 preserves the physical `இமயா` / `வோடு` split;
-- scan 68 opens `காட்சி 18.` at `விசாரண மண்டபத்துக்கு வெளியே.`;
-- scans 69–70 continue scene 18 through the missing-evidence/travel discussion and `குமரி` / `புத்த` exchange;
+- scan 75 directly preserves discriminatory caste-law dialogue;
+- scan 85 opens `காட்சி 22.` at `பொன்னியின் குடிசை.`;
+- scan 87 opens `காட்சி 23.` at `விபீஷணன் மாளிகை.`;
+- scans 88–93 cover the ambush/restraint/forced-letter sequence and retain explicit source holds where exact forms remain uncertain;
+- scan 94 opens `காட்சி 24.` at `தெருவில்.`;
+- scan 94→95 preserves the physical continuation of `குமரி`'s internal monologue;
 - exact location lines for scenes 4 and 5 remain held.
 
 Current metrics:
 
 - source scans registered: **131 / 131**;
-- page/source processing: **70 / 131**;
+- page/source processing: **95 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **66 / 131** (`1, 5, 7–70`);
+- `needs-review`: **91 / 131** (`1, 5, 7–95`);
 - historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **18**;
+- source-visible scene anchors: **24**;
 - checksum: **recorded**;
 - structural inventory: **not started**;
 - scene assembly: **not started**;
@@ -63,7 +63,7 @@ Current metrics:
 
 The supplied scan is controlling authority. No held text is repaired from plot continuity, OCR expectation, another edition, or modern spelling.
 
-**Exact next activity:** process source scans **71–75** with direct visual fidelity, printed-page confirmation and the full 13-family historical-glyph gate.
+The active source pass now uses **10-scan iterations**. **Exact next activity:** process source scans **96–105** with direct visual fidelity, printed-page confirmation and the full 13-family historical-glyph gate.
 
 ## Closed work safeguards
 
