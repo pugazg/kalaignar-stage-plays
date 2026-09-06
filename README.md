@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — source intake open; 131 scans registered; checksum pending; page/source pass 0/131; historical-glyph pass 0/131; structure/assembly not started; English not authorized** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — 131 scans registered; source processing 5/131; verified 3; needs-review 2; historical-glyph pass 3/131; checksum pending; structure/assembly not started; English not authorized** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -24,27 +24,40 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
 - file size: **224,884,964 bytes**;
 - physical scans: **131**;
-- SHA-256: **pending — must be computed from the exact supplied PDF, never guessed**;
+- SHA-256: **pending exact byte-level computation; never guess**;
 - source-visible title: **ஒரே முத்தம்**;
 - source-visible descriptor: **சரித்திரக் கற்பனை நாடகம்.**;
 - source-visible edition: **ஐந்தாம் பதிப்பு**;
 - source-visible publisher: **தென்றல் நூற்பதிப்புக் கழகம்**;
-- user catalog edition/year: **ஐந்தாம் பதிப்பு, 1964**;
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic body;
 - scan **131**: back-cover publisher advertisement;
 - scan **8** visibly begins `காட்சி 1.` at printed p.6;
-- scan **130** is printed p.128 and the final dramatic page;
+- scan **130** is printed p.128 and the final dramatic page.
+
+Batch 1 (scans 1–5):
+
+- scan 1 — needs-review;
+- scan 2 — verified;
+- scan 3 — verified;
+- scan 4 — verified;
+- scan 5 — needs-review;
+- first secure glyph references: `லை`, `ணா`, `னை`.
+
+Current metrics:
+
 - source scans registered: **131 / 131**;
-- page/source processing: **0 / 131**;
-- historical-glyph passes: **0 / 131**;
+- page/source processing: **5 / 131**;
+- visually verified: **3 / 131** (`2, 3, 4`);
+- `needs-review`: **2 / 131** (`1, 5`);
+- historical-glyph passes: **3 / 131** (`2, 3, 4`);
 - structural inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-The source scan is controlling authority. User-supplied catalog context about the Sri Lankan historical basis, Devi Nataka Sabha performance, and caste abolition is preserved as context and must not substitute for word-for-word source transcription.
+The source scan is controlling authority. User-supplied catalog context about the Sri Lankan historical basis, Devi Nataka Sabha performance, and caste abolition remains context rather than word-for-word transcription authority.
 
-**Exact next activity:** compute the exact PDF SHA-256, then process source scans **1–5** with direct visual fidelity and the full 13-family historical-glyph pass, creating `works/ore-mutham/pages/0001.md` through `0005.md` and synchronizing the page map/audit/handover.
+**Exact next activity:** process source scans **6–10** with direct visual fidelity and the full 13-family historical-glyph gate. Preserve scan-1 and scan-5 holds unless enlarged source evidence genuinely resolves them. Compute the PDF SHA-256 when byte-level hashing becomes available; do not infer a value.
 
 ## Closed work — திருவாளர் தேசீயம்பிள்ளை
 
