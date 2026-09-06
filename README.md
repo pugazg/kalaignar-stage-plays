@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — RAW SOURCE PASS COMPLETE: 131/131 processed; closure-audited 1–90; verified 50; needs-review 81; historical-glyph pass 50/131; main play 30 scenes + separate 3-scene `நகைச் சுவைப் பகுதி`; assembly/English not started** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — RAW SOURCE PASS COMPLETE: 131/131 processed; closure-audited 1–100; verified 54; needs-review 77; historical-glyph pass 54/131; main play 30 scenes + separate 3-scene `நகைச் சுவைப் பகுதி`; assembly/English not started** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -30,18 +30,23 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 - scans **119–130 / pp.117–128**: separately headed **`நகைச் சுவைப் பகுதி.`**, with its own **3 scenes**;
 - scan **131**: back-cover publisher advertisement.
 
-Closure audit now completed for scans **1–90**:
+Closure audit now completed for scans **1–100**:
 
-- **verified:** `2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`;
-- **needs-review:** `1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–131`;
-- historical-glyph passes: **50 / 131**;
-- scans **81–87** newly close PASS / verified in the 81–90 batch;
-- scans **88–90** remain open with explicit exact-source holds after closure review;
-- scan 82 resolves `பாவம் வறுமையின் கஷ்டம்,` and source-closes `உன் வாழ்க்கையைக் கெடுத்துக் கொண்டாய்.`;
-- scan 85 verifies the `காட்சி 21.` → `காட்சி 22.` transition and `இடம்: பொன்னியின் குடிசை.`;
-- scan 87 verifies the `காட்சி 22.` → `காட்சி 23.` transition and `இடம்:- விபீஷணன் மாளிகை.`;
-- scans 88–90 preserve their unresolved stage-action/comparison, gesture/object and insult clusters without contextual completion;
-- scans **71, 75, 76 and 80** closed in the previous batch; scans **72–74 and 77–79** remain open;
+- **verified:** `2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`;
+- **needs-review:** `1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–131`;
+- historical-glyph passes: **54 / 131**;
+- scans **91, 93, 96 and 97** newly close PASS / verified in the 91–100 batch;
+- scans **92, 94–95 and 98–100** remain open with explicit exact-source holds after closure review;
+- scan 91 corrects raw-pass `ஓஃகே!` → **`ஓஹோ!`** and `சுற்றுப்` → **`சற்றுப்`**; the complete restraint / `பொன்னி` entrance sequence closes;
+- scan 92 corrects `கூன` → **`கூட`** in `வீரப் பயமுறுத்தல் கூட`, but one dense sword-action punctuation/historical-type cluster remains open;
+- scan 93 verifies the complete forced-letter block and preserves the physical continuation into scan 94;
+- scan 94 restores source-colloquial **`வரி கொடுக்கமாட்டேன்னு`** and corrects `எழுதுக்கள்` → **`எழுத்துக்கள்`**; `காட்சி 24.` / `இடம்:- தெருவில்.` are secure while the dense signpost/route parenthetical remains open;
+- scan 95 preserves the scan-94 continuation and extended `குமரி` monologue but remains open on dense exact punctuation/historical-type clusters;
+- scan 96 resolves the opening stage direction as **`சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`** and verifies `காட்சி 25.` / `இடம்: விபீஷணன் மாளிகை.`;
+- scan 97 verifies the coerced-letter page and preserves both the scan-96→97 `சொல்` / `லப்` and scan-97→98 `பதார்த்தங்` / `களில்` physical splits;
+- scan 98 retains one compact stage-direction cluster beginning with `இளவரசன்`;
+- scan 99 retains two dense bold stage-direction clusters after the second coerced letter;
+- scan 100 securely preserves `காட்சி 26.` / `இடம்:- மகாவீரர் தர்பார்.` and the Tamil-poet sequence, but one dense entrance-stage direction remains open;
 - earlier durable corrections remain unchanged, including scan 49 `மலரைக் காப்பாற்றினாய்`, scan 63 `காலப்பனிபோல்`, scan 65 `ஆசைப்படச் சொன்னார்`, scan 67 `வேம்பொடு`, scan 68 `வாழ்க இந்நாட்டு வளம்!`, and scan 70 `ஆலகாலமா?`.
 
 Important direct thematic evidence remains durable: scan 25 caste-division governing tactic; scan 31 anti-caste / anti-untouchability dialogue; scan 75 discriminatory caste-law dialogue; scan 115 `கலப்புமணம்` law/custom debate.
@@ -49,10 +54,10 @@ Important direct thematic evidence remains durable: scan 25 caste-division gover
 Current metrics:
 
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
-- closure-audited: **90 / 131**;
-- visually verified: **50 / 131**;
-- `needs-review`: **81 / 131**;
-- historical-glyph passes: **50 / 131**;
+- closure-audited: **100 / 131**;
+- visually verified: **54 / 131**;
+- `needs-review`: **77 / 131**;
+- historical-glyph passes: **54 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - checksum: **recorded**;
@@ -60,7 +65,7 @@ Current metrics:
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-**Exact next activity:** source-pass closure audit of **scans 91–100**. Do not begin scene assembly or English translation during closure.
+**Exact next activity:** source-pass closure audit of **scans 101–110**. Do not begin scene assembly or English translation during closure.
 
 ## Closed work safeguards
 
