@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN FOR CLOSURE — 33 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 98 RETAIN OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN FOR CLOSURE — 39 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 92 RETAIN OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -32,16 +32,24 @@ A family may be absent on a page; every page still receives the complete inspect
 - scan 37: `பவளமலைச்`;
 - scan 40: `காலையில்`, `அலைந்தோம்`;
 - scan 56: `தொலைக்கிறாள்`;
-- scan 58: `தலைக்கேறி`.
+- scan 58: `தலைக்கேறி`;
+- scan 62: `வேலை`;
+- scan 63: `கலைந்து`, `மலைகள்`;
+- scan 64: `சேலைத்`;
+- scan 67: `முல்லைக்காட்டின்`;
+- scan 68: `தலையை`.
 
 ### `ணா`
-- scans 3, 5 and 6: `கருணாநிதி`.
+- scans 3, 5 and 6: `கருணாநிதி`;
+- scan 63: `கண்ணா`.
 
 ### `ணை`
 - scan 7: `துணைவி`;
 - scan 24: `கண்ணை`;
 - scan 37: `கணையாழி`;
-- scan 59: `விசாரணைமண்டபத்தில்`.
+- scan 59: `விசாரணைமண்டபத்தில்`;
+- scan 63: `கணையாழி`, `அணையைக்`;
+- scan 70: `துணையை`.
 
 ### `ளை`
 - scan 24: `வளையிலேயே`;
@@ -52,7 +60,10 @@ A family may be absent on a page; every page still receives the complete inspect
 - scan 4: `சென்னை`;
 - scan 6: `சென்னை`;
 - scan 53: `மனைவி`;
-- scan 54: `அவனைச்`.
+- scan 54: `அவனைச்`;
+- scan 62: `என்னைப்`;
+- scan 67: `தண்டனை`;
+- scan 70: `உன்னையல்ல`.
 
 ### `றா`
 - scan 6: `காரணமாகும்`;
@@ -143,16 +154,33 @@ All ten scans were re-inspected directly from the supplied source. **Seven pages
 
 No wording was supplied from plot continuity, a later edition, OCR expectation or modern spelling. Open scans 51, 52 and 60 contribute no new secure bank forms.
 
+## Closure audit — scans 61–70
+
+All ten scans were directly re-inspected from the supplied source. **Six pages newly close PASS / verified: scans 62–64, 67–68 and 70.**
+
+- scan 61 / p.59: dialogue and structure are secure, but the opening interrogative word and one small bracketed cue remain exact-word holds; whole-page gate stays open;
+- scan 62 / p.60: complete dialogue and punctuation **PASS / verified**; `வேலை` and `என்னைப்` add secure `லை` / `னை` comparison evidence;
+- scan 63 / p.61: direct source review corrects `காலப்பனி போல்` → **`காலப்பனிபோல்`**; whole page **PASS / verified**; `கலைந்து` / `மலைகள்`, `கணையாழி` / `அணையைக்`, and `கண்ணா` add secure `லை` / `ணை` / `ணா` evidence;
+- scan 64 / p.62: scan-63→64 `அல்` / `லது` physical continuation, `காட்சி 17.` / `இடம்:- விசாரண மண்டபம்`, and complete page **PASS / verified**; `சேலைத்` adds secure `லை` evidence;
+- scan 65 / p.63: direct correction `ஆசைப்பட்டச் சொன்னார்` → **`ஆசைப்படச் சொன்னார்`**; a short `மகா` phrase around `உமக்கு ஒரு பிரதிநிதி...` remains character/spacing-held, so the whole-page gate stays open;
+- scan 66 / p.64: evidence/box sequence is secure, but the compact `ஹ ஹ ஹா!` laughter/spacing/punctuation cluster remains below whole-page closure threshold;
+- scan 67 / p.65: direct source correction `வெம்பொடு` → **`வேம்பொடு`**; sentencing/appointment dialogue **PASS / verified**; `முல்லைக்காட்டின்` and `தண்டனை` add secure `லை` / `னை` evidence;
+- scan 68 / p.66: held acclamation directly resolves as **`வாழ்க இந்நாட்டு வளம்!`**; scene-17 close / `காட்சி 18.` / `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.` and full page **PASS / verified**; `தலையை` adds secure `லை` evidence;
+- scan 69 / p.67: two dense source holds remain — one place-name cluster before `சிம்மாசனத்தில்` and one consequence clause after `அவைகளை நாம் கைப்பற்றிவிட்டால்`; no contextual completion is used;
+- scan 70 / p.68: full `குமரி` / `புத்த` dialogue and source form `ஆலகாலமா?` **PASS / verified**; `துணையை` / `உன்னையல்ல` add secure `ணை` / `னை` evidence.
+
+Open scans 61, 65, 66 and 69 contribute no new secure reference forms. No global replacement, modern spelling repair, OCR expectation or plot-based completion was used.
+
 ## Current metrics
 
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **60 / 131** (`1–60`);
-- full historical-glyph passes: **33 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`);
-- visually verified: **33 / 131**;
-- `needs-review`: **98 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–131`);
+- closure-audited: **70 / 131** (`1–70`);
+- full historical-glyph passes: **39 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70`);
+- visually verified: **39 / 131**;
+- `needs-review`: **92 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `71–131`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Run the next closure batch over **scans 61–70**. Revisit explicit holds only with stronger source pixels/renderings and close the full 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
+Run the next closure batch over **scans 71–80**. Revisit explicit holds only with stronger source pixels/renderings and close the full 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
