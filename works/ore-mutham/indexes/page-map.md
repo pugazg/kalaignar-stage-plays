@@ -27,9 +27,13 @@ All **131 physical scans** are registered and source-processed. The individual `
 | 28 | 26 | `காட்சி 8.` | needs-review | One `1-வது கா` dialogue phrase remains held after enlarged closure review. |
 | 29 | 27 | `காட்சி 8.` | needs-review | One `புத்த` lexical clause remains held; `விபீஷணா?` is secure but page gate stays open. |
 | 30 | 28 | `காட்சி 8.` | needs-review | Surrounding dialogue rechecked; one small parenthetical action direction remains held. |
-| 31 | 29 | `காட்சி 8.` | needs-review | Directly supports anti-caste / anti-untouchability argument; closure audit not yet run. |
-| 32–36 | 30–34 | `காட்சி 9.` | needs-review | Scan 32: `இடம்:- விபீஷணன் அறை`. |
-| 37–40 | 35–38 | `காட்சி 10.` | needs-review | Scan 37: `இடம்: பவளமலைச் சாரல்`; scan 39→40 physical continuation preserved. |
+| 31 | 29 | `காட்சி 8.` | needs-review | Closure-audited; direct anti-caste / anti-untouchability dialogue is secure, but dense character/spacing clusters in the long `புத்த` speech remain open. |
+| 32 | 30 | `காட்சி 8.` close / `காட்சி 9.` | needs-review | `இடம்:- விபீஷணன் அறை`; one small scene-close stage/lexical cluster remains open. |
+| 33 | 31 | `காட்சி 9.` | verified | Complete dialogue/actions and full historical-glyph gate PASS. |
+| 34–36 | 32–34 | `காட்சி 9.` | needs-review | Closure-audited; colloquial/dense lexical and long stage-direction clusters remain explicit holds. |
+| 37 | 35 | `காட்சி 9.` close / `காட்சி 10.` | verified | `இடம்: பவளமலைச் சாரல்`; complete transition/opening and glyph gate PASS. |
+| 38–39 | 36–37 | `காட்சி 10.` | needs-review | Closure-audited; unusual/dense source forms remain character-level holds; scan 39→40 physical continuation preserved. |
+| 40 | 38 | `காட்சி 10.` | verified | Scan-39 continuation, private `காவிகள்` exchange, source form `நாசகாலர்கள்`, closing call and glyph gate PASS. |
 | 41–45 | 39–43 | `காட்சி 11.` | needs-review | Scan 41: `இடம்: விபீஷணன் தனியறை`; lexical/stage holds remain open. |
 | 46–50 | 44–48 | `காட்சி 12.` | needs-review | Scan 46: `இடம்: ஆற்றோரம்`; voice/vision material preserved on scans 49–50. |
 | 51 | 49 | `காட்சி 13.` | needs-review | `இடம்: தெருவில்.` |
@@ -61,10 +65,10 @@ All **131 physical scans** are registered and source-processed. The individual `
 - checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
-- closure-audited: **scans 1–30**;
-- visually verified: **23 / 131** (`2–20`, `22`, `24–26`);
-- `needs-review`: **108 / 131** (`1`, `21`, `23`, `27–131`);
-- completed historical-glyph passes: **23 / 131**;
+- closure-audited: **scans 1–40**;
+- visually verified: **26 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`);
+- `needs-review`: **105 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`);
+- completed historical-glyph passes: **26 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary comedy source-visible anchors: **3**;
 - formal structural/scene inventory: **not started**;
@@ -83,6 +87,14 @@ All **131 physical scans** are registered and source-processed. The individual `
 - scan 29: one `புத்த` lexical clause remains held;
 - scan 30: one small parenthetical action direction remains held.
 
+## Closure audit checkpoint — scans 31–40
+
+- scans 31, 32, 34–36, 38–39 remain `needs-review` with explicit character/spacing/stage-direction holds;
+- scan 33 / p.31 closes **PASS / verified**;
+- scan 37 / p.35 closes **PASS / verified**, including `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்`;
+- scan 40 / p.38 closes **PASS / verified**, including the scan-39 continuation and source form `நாசகாலர்கள்`;
+- scan 39→40 physical sentence boundary remains preserved.
+
 ## Exact next activity
 
-Continue the **source-pass closure audit with scans 31–40**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
+Continue the **source-pass closure audit with scans 41–50**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
