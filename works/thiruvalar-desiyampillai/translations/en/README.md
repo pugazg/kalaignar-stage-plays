@@ -1,6 +1,6 @@
 # திருவாளர் தேசீயம்பிள்ளை — English translation
 
-Status: **AUTHORIZED / IN PROGRESS — BATCHES 01–02 PASS / LOCKED; 3 / 7 SRUs TRANSLATED AND REVIEWED**
+Status: **AUTHORIZED / IN PROGRESS — BATCHES 01–03 PASS / LOCKED; 4 / 7 SRUs TRANSLATED AND REVIEWED**
 
 This directory is the independent source-faithful English translation layer for the seven reviewed Tamil source-representation units (SRUs) of **திருவாளர் தேசீயம்பிள்ளை**.
 
@@ -31,9 +31,9 @@ The source has no numbered scenes or acts. English filenames mirror the seven ed
 Current artifact status:
 
 - expected: **7**;
-- present: **3 / 7**;
-- reviewed: **3 / 7**;
-- translation batches complete: **2 / 4**;
+- present: **4 / 7**;
+- reviewed: **4 / 7**;
+- translation batches complete: **3 / 4**;
 - final translation review: **not started**;
 - secondary-English witness used: **no**.
 
@@ -54,16 +54,34 @@ Completed artifact:
 
 - `sru-03-eman-interview.md` — **translation-reviewed / passed**.
 
-Batch 02 review confirms complete Tamil→English comparison of the full interview unit, preservation of speaker-label variation, the repeated `pillai` wordplay, `uyarthinai / ahrinai`, tax/Congress/election/Five-Year-Plan satire, the exact SRU boundary, no invented source structure, no secondary-English witness, and no translation-driven change to the Tamil layer.
+Batch 02 preserves the repeated `pillai` sequence, `uyarthinai / ahrinai`, `pancha-varnam / pancham`, tax/Congress/election/Five-Year-Plan satire, source-label variation and the exact SRU boundary without secondary-English contamination.
+
+## Batch 03 — PASS / LOCKED
+
+Durable review: `BATCH_03_REVIEW.md` — **PASS / LOCKED**.
+
+Completed artifact:
+
+- `sru-04-gandhi-journey.md` — **translation-reviewed / passed**.
+
+Batch 03 controls:
+
+- scan-35 `[unresolved glyph cluster]`: **1 / 1 retained**;
+- scan-36 `[unresolved descriptive cluster]`: **2 / 2 retained**;
+- apparent scan-35 `கொழுப்பேறி`: **not promoted / not translated as resolved**;
+- Nandan / Gandhi / `சொர்க்கச் சிறை` structure: **PASS**;
+- priest/idol/Congress, military/assassination, possession, `Harijan Welfare`, and Srirangam/Ranganatha satire: **PASS**;
+- source `போப்பந்தர்` retained as *Poppanthar*;
+- source-sensitive `கோட்டான்`, `எங்குவேன்`, `நாகத்திலும்`, and `மகானத்துக்கு ஓர் “ஆயாக் கிழவி”` handled conservatively and documented;
+- secondary-English witness use: **0**;
+- Tamil archival changes caused by translation: **0**.
 
 ## Source-loss / unresolved-marker controls
 
-Mandatory controls across the English phase:
-
-- SRU-01 preserves all **7** exact `[paper loss]` markers — **complete / reviewed**;
-- SRU-04 must preserve the exact scan-35 `[unresolved glyph cluster]` marker;
-- SRU-04 must preserve both exact scan-36 `[unresolved descriptive cluster]` markers;
-- no missing wording may be reconstructed from context, grammar, repetition, another edition or an English witness.
+- SRU-01 `[paper loss]`: **7 / 7 retained / reviewed**;
+- SRU-04 `[unresolved glyph cluster]`: **1 / 1 retained / reviewed**;
+- SRU-04 `[unresolved descriptive cluster]`: **2 / 2 retained / reviewed**;
+- no missing wording reconstructed from context, grammar, repetition, another edition or an English witness.
 
 ## Structural safeguards
 
@@ -89,13 +107,23 @@ Each completed batch must have a durable `BATCH_0N_REVIEW.md` record. After all 
 
 - **Batch 1:** SRU-01 + SRU-02 — **PASS / LOCKED**
 - **Batch 2:** SRU-03 — **PASS / LOCKED**
-- **Batch 3:** SRU-04 — **NEXT**
-- **Batch 4:** SRU-05 + SRU-06 + SRU-07
+- **Batch 3:** SRU-04 — **PASS / LOCKED**
+- **Batch 4:** SRU-05 + SRU-06 + SRU-07 — **NEXT**
 
 ## Exact next activity
 
-Translate and fully review **Batch 03** from reviewed Tamil `../../scenes/sru-04-gandhi-journey.md` only:
+Translate and fully review **Batch 04** from these reviewed Tamil SRUs only:
 
-- `../../scenes/sru-04-gandhi-journey.md` → `sru-04-gandhi-journey.md`
+- `../../scenes/sru-05-stairfall-dream-exit.md` → `sru-05-stairfall-dream-exit.md`
+- `../../scenes/sru-06-domestic-election-argument.md` → `sru-06-domestic-election-argument.md`
+- `../../scenes/sru-07-udayasuriyan-kolam-close.md` → `sru-07-udayasuriyan-kolam-close.md`
 
-Preserve exactly **1** `[unresolved glyph cluster]` and **2** `[unresolved descriptive cluster]` markers in their corresponding locations. Then create `BATCH_03_REVIEW.md`, update this tracker, and only then proceed to Batch 04.
+Special gates:
+
+- preserve the stair/place-name wordplay in SRU-05;
+- preserve the domestic colloquial/election/political register in SRU-06;
+- preserve `உதயசூரியன் கோலம்` as an internal intertitle in SRU-07, not a source scene heading;
+- do not add `The End` or equivalent at the close;
+- use no secondary English witness.
+
+After all three artifacts receive complete Tamil→English review, create `BATCH_04_REVIEW.md`. Only after Batch 04 is PASS / LOCKED should final `TRANSLATION_REVIEW.md` be created.
