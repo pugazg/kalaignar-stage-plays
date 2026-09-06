@@ -8,7 +8,7 @@ Fetch live `main` first and preserve newer durable state. Do not reopen closed `
 
 ## Mandatory startup
 
-Read before any source-dependent change:
+Read before source-dependent change:
 
 1. `STAGE_PLAY_PROCESSING_GUIDE.md`
 2. `HANDOVER.md`
@@ -17,10 +17,10 @@ Read before any source-dependent change:
 5. `works/ore-mutham/metadata/source.md`
 6. `works/ore-mutham/indexes/page-map.md`
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`
-8. existing page records `works/ore-mutham/pages/0001.md`–`0115.md` as needed
+8. relevant page records `works/ore-mutham/pages/0001.md`–`0131.md`
 9. controlling PDF `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 
-## Source checkpoint
+## Source identity
 
 - filename: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 - file size: **224,884,964 bytes**
@@ -28,44 +28,53 @@ Read before any source-dependent change:
 - SHA-256: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**
 - source PDF committed to repository: **no**
 
-Source-visible anchors now reach **`காட்சி 29.`**. Latest anchors:
+## Major checkpoint — RAW PAGE-SOURCE PASS COMPLETE
 
-- scan 96 / p.94: `காட்சி 25.` — `இடம்: விபீஷணன் மாளிகை.`;
-- scan 100 / p.98: `காட்சி 26.` — `இடம்:- மகாவீரர் தர்பார்.`;
-- scan 104 / p.102: `காட்சி 27.` — `இடம்:- இன்பபுரி அரண்மனைத் தெரு.`;
-- scan 106 / p.104: `காட்சி 28.` — `இடம்:- தூக்குமேடை.`;
-- scan 112 / p.110: `காட்சி 29.` — `இடம்:- அரண்மனை நந்தவனம்.`.
+All **131 / 131** scans are now directly source-processed and represented by `pages/0001.md`–`0131.md`.
 
-Earlier anchors remain durable in the page map/page records. Exact location lines for scenes 4 and 5 remain held.
+- verified: **4 / 131** — scans `2, 3, 4, 6`;
+- `needs-review`: **127 / 131** — scans `1, 5, 7–131`;
+- completed historical-glyph passes: **4 / 131**;
+- printed numerals directly confirmed throughout **pp.6–128** on scans 8–130;
+- scan 131 is back-cover publisher advertising.
 
-Important direct evidence / boundaries:
+## Source-visible publication structure
 
-- scan 25 / p.23: caste-division governing-tactic line;
-- scan 31 / p.29: direct anti-caste / anti-untouchability dramatic argument;
-- scan 75 / p.73: discriminatory caste-law dialogue;
-- scan 106→107: `புத்த`'s execution-platform public address physically continues;
-- scan 109→110: `சித்ரா`'s accusation/explanation physically continues;
-- scan 111→112: `விபீஷ`'s final protest physically continues;
-- scan 111 / p.109: forged-letter case reverses publicly and the crowd acclaims the prince/king;
-- scan 115 / p.113: law/custom debate directly uses `கலப்புமணம்`;
-- scan 130: printed p.128 / final dramatic page;
+### Main play `ஒரே முத்தம்`
+
+- scans **8–118 / pp.6–116**;
+- **30 source-visible scenes**;
+- scan 117 / p.115: **`காட்சி 30.` — `இடம்:- குமரியின் படுக்கை.`**;
+- scan 118 / p.116: main play closes, repeats `ஒரே முத்தம்`, and prints a closing verse beginning `தியாகப் பெருவிளக்கே, தீந்தமிழ்ப் பெண்ணமுதே!`.
+
+Earlier main-play scene anchors remain durable in the page map. Exact location lines for scenes 4 and 5 remain held.
+
+### Supplementary `நகைச் சுவைப் பகுதி.`
+
+This is a separately headed source section and must **not** be silently renumbered as main-play scenes 31–33.
+
+- scans **119–130 / pp.117–128**;
+- scan 119 / p.117: supplementary `காட்சி 1.` — `இடம்:- சந்தேகம் வீடு.`;
+- scan 125 / p.123: supplementary `காட்சி 2.` — `இடம்:- வயல் வெளி.`;
+- scan 128 / p.126: supplementary `காட்சி 3.` — `இடம்:- சந்தேகம் வீடு.`;
+- scan 130 / p.128: final dramatic-text page;
 - scan 131: back-cover advertisement.
 
-## Work extent / pagination
+## Important direct thematic evidence
 
-- scans **1–7**: front matter;
-- scans **8–130**: dramatic body;
-- scan **131**: back-cover advertisement;
-- directly confirmed printed numerals through scan 115: **pp.6–113**;
-- later mapping remains provisional until each numeral is visually confirmed.
+- scan 25 / p.23: caste division as a governing tactic;
+- scan 31 / p.29: direct anti-caste / anti-untouchability argument;
+- scan 75 / p.73: discriminatory caste-law dialogue;
+- scan 115 / p.113: law/custom debate directly uses `கலப்புமணம்`;
+- scans 115–116 continue the king/prince dispute into inherited law/social custom and life among the people.
 
 ## Mandatory historical-glyph methodology
 
-Source pixels control. Full family check on every processed scan:
+Source pixels control. Full family check on every reviewed scan:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-No global replacement. No spelling, grammar, punctuation, speaker-label or scene-heading normalization. No context-based repair.
+No global replacement. No spelling, grammar, punctuation, speaker-label or scene-heading normalization. No context-based/plot-based repair.
 
 Current secure reference bank remains:
 
@@ -74,60 +83,27 @@ Current secure reference bank remains:
 - `னை`: scans 3, 4, 6;
 - `றா`: scan 6.
 
-Candidate forms on open pages are not promoted until their whole-page gates close.
+Candidate forms on open pages are not promoted until the complete whole-page gate closes.
 
-## Processed checkpoint — scans 1–115
+## Exact next activity — SOURCE-PASS CLOSURE AUDIT
 
-Verified: `2, 3, 4, 6`.
+Do **not** begin formal scene assembly or English translation.
 
-Needs-review: `1, 5, 7–115`.
+Proceed in **10-scan closure batches** unless the user changes cadence.
 
-Recent durable source pass — scans 106–115 / printed pp.104–113:
+### First closure batch: scans 1–10
 
-- scan 106 opens `காட்சி 28.` at `தூக்குமேடை.`;
-- scans 106–111 carry the execution-platform confrontation, `குமரி` / `சித்ரா` interventions and forged-letter reversal;
-- physical continuations at 106→107, 109→110 and 111→112 are preserved;
-- scan 112 closes scene 28 and opens `காட்சி 29.` at `அரண்மனை நந்தவனம்.`;
-- scans 113–115 continue the garden aftermath, `சித்ரா`'s sacrifice/social-position discussion and the king/prince conflict over `பொன்னி`, law/custom and `கலப்புமணம்`;
-- dense exact-word/stage-direction holds remain explicit rather than guessed;
-- all scans 106–115 remain `needs-review`;
-- no open-page historical-glyph candidate was promoted;
-- no structural assembly or English translation started.
+1. inspect each page directly from source pixels/enlarged crops;
+2. revisit every explicit `source-held` / `needs-review` item on those pages;
+3. resolve only where stronger pixels genuinely settle the character identity;
+4. preserve exact source spelling, punctuation, speaker labels and page marks;
+5. run the full 13-family historical-glyph gate on each page;
+6. mark `verified` only if the full visual + glyph gate closes; otherwise retain explicit holds;
+7. do not use OCR expectation, plot continuity, another edition or modern spelling to fill uncertainty;
+8. synchronize page map, historical-glyph audit, source/work/root READMEs, `HANDOVER.md`, and this prompt after the batch;
+9. fetch final live `main` SHA.
 
-## Current metrics
-
-- physical scans registered: **131 / 131**
-- checksum: **recorded**
-- page records: **115 / 131**
-- source scans processed: **115 / 131**
-- visually verified: **4 / 131**
-- `needs-review`: **111 / 131**
-- historical-glyph passes: **4 / 131**
-- source-visible scene anchors: **29**
-- structural inventory: **not started**
-- scene assembly: **not started**
-- English translation: **not authorized / not started**
-
-## Batch-size directive
-
-The user explicitly directed: **process 10 pages in each iteration**. Treat that as the standing source-pass cadence. Use a smaller batch only for the final remainder or if the user changes the instruction.
-
-## Exact next activity
-
-Process **scans 116–125** source-first.
-
-1. create `pages/0116.md` through `pages/0125.md`;
-2. inspect direct source pixels / enlarged source as required;
-3. transcribe without normalization;
-4. preserve exact source scene headings, stage directions and speaker labels;
-5. directly confirm all ten printed page numerals;
-6. run the complete 13-family historical-glyph gate on every scan;
-7. mark `verified` only if full visual + glyph gate passes; otherwise use `needs-review`;
-8. preserve all existing holds unless stronger source pixels genuinely resolve them;
-9. synchronize metadata, page map, glyph audit, work/root README, `HANDOVER.md`, and this prompt;
-10. fetch final live `main` SHA.
-
-Do not begin structural assembly or English translation.
+When closure reaches scans 15 and 19, the still-held exact location lines for `காட்சி 4.` and `காட்சி 5.` are priority source problems and must not be inferred.
 
 ## Closed-work safeguard — திருவாளர் தேசீயம்பிள்ளை
 
