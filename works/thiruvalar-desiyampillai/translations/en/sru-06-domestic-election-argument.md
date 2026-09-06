@@ -5,15 +5,15 @@ editorial_label: "Waking domestic election argument"
 work: "thiruvalar-desiyampillai"
 source_sru: "../../scenes/sru-06-domestic-election-argument.md"
 source_scan_pages: [40, 41, 42, 43, 44, 45, 46]
-status: "translation-draft"
-translation_review: "pending"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
 ---
 
 His wife comes and stands before him with the morning coffee.
 
-“You look strange. Your whole face has changed! You seem as though something has frightened you?” she asks. Taking his wife's hand, he seats her on the cot, takes the coffee, and drinks it piping hot.
+“You look strange. Your whole face has changed! You look as though something has frightened you?” she asks. Taking his wife's hand, he seats her on the cot, takes the coffee, and drinks it piping hot.
 
 Revived by the hot coffee, he folds his hands before the picture of Pillaiyar hanging there and prays: “O Lord! Everything I saw must turn out to have been only a dream! Nothing must happen, my lord!” The servant girl runs in with that day's newspapers. Desiyam Pillai hurriedly separates them and looks through them.
 
@@ -83,7 +83,7 @@ Revived by the hot coffee, he folds his hands before the picture of Pillaiyar ha
 
 ## Translation notes
 
-- Drafted only from the reviewed Tamil SRU; no OCR/PDF substitute, later edition, web text, general-knowledge reconstruction, or secondary English witness was used.
+- Drafted and reviewed only against the complete reviewed Tamil SRU; no OCR/PDF substitute, later edition, web text, general-knowledge reconstruction, or secondary English witness was used.
 - The source has no speaker labels in this domestic exchange; the English preserves the paragraph-by-paragraph turn order instead of inventing labels.
 - `padi` (rice measure), `anna`, Pillaiyar, Kovai, Madurai, source-form `Virudhai`, Ooty, and `Tamil Nadu` are retained where they carry period or source-specific meaning.
 - The source colloquial `நம்ப` is rendered contextually as “our/us”; the translation does not normalize the Tamil archival layer.
@@ -91,4 +91,5 @@ Revived by the hot coffee, he folds his hands before the picture of Pillaiyar ha
 - `தி. மு. க` is rendered as `DMK`; no outside political explanation is inserted.
 - `ஆலை முதலாளி / பஸ் முதலாளி / நிலப்பிரபு / ஜமீன்தார்` is translated as mill owners / bus owners / landlords / zamindars, retaining the source's social-political list.
 - `இரண்டு பேச்சாளர்! நாலு குண்டர்கள்!` is kept as the abrupt “Two speakers! Four goondas!” rather than smoothed into neutral prose.
+- The source's sustained colloquial syntax is rendered in colloquial English where possible; this is a translation choice only and does not revise the locked Tamil wording.
 - The artifact ends with Desiyam Pillai leaving and his wife laughing; the front-yard/Kamala material belongs to SRU-07.
