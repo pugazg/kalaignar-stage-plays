@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN — 4 / 131 SCANS PASSED; 21 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN — 4 / 131 SCANS PASSED; 26 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -64,17 +64,27 @@ No positive reference is yet promoted for:
 | 24 | 22 | processed | open | `காட்சி 7.` / location secure; `கண்ணை` (`ணை`) and `வளையிலேயே` (`ளை`) are clear candidates; one parenthetical noun held. |
 | 25 | 23 | processed | open | Full visible scene-7 dialogue transcribed; final punctuation/glyph pass retained. |
 
+## Batch 6 — scans 26–30
+
+| Scan | Printed page | Visual/source processing | 13-family gate | Status / note |
+|---:|---:|---|---|---|
+| 26 | 24 | processed | open | Complete visible scene-7 dialogue transcribed; final punctuation/glyph pass retained. |
+| 27 | 25 | processed | open | `காட்சி 8.` / `இடம்:- முல்லைக்காட்டுப் பகுதி.` secure; small bold parenthetical directions remain exact-word holds. |
+| 28 | 26 | processed | open | Complete visible dialogue and readable stage directions transcribed; whole-page punctuation/glyph pass retained. |
+| 29 | 27 | processed | open | Conflict-stage direction and dialogue transcribed; `விபீஷணா?` is a clear `ணா` occurrence consistent with the secure family, but the page remains open. |
+| 30 | 28 | processed | open | Visible dialogue transcribed; `மலைப்பாம்பு` is a clear `லை` occurrence; one parenthetical action direction remains held. |
+
 Candidate occurrences from an open page do **not** enter the secure reference bank until the whole-page gate is closed.
 
 ## Current metrics
 
 - physical scans: **131**;
-- source-processed: **25 / 131**;
+- source-processed: **30 / 131**;
 - full historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- processed `needs-review`: **21 / 131** (`1, 5, 7–25`);
+- processed `needs-review`: **26 / 131** (`1, 5, 7–30`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Process scans **26–30** directly from source pixels. Add same-edition reference examples only where both the reading and the page-level verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.
+Process scans **31–35** directly from source pixels. Add same-edition reference examples only where both the reading and the page-level verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.
