@@ -43,10 +43,12 @@ All **131 physical scans** are registered and source-processed. The individual `
 | 48 | 46 | `காட்சி 12.` | needs-review | Two small bold stage-direction clusters remain exact-word holds. |
 | 49 | 47 | `காட்சி 12.` | needs-review | Source correction `மலரைச் சாப்பாற்றினாய்` → `மலரைக் காப்பாற்றினாய்`; whole-page glyph/punctuation gate remains open. |
 | 50 | 48 | `காட்சி 12.` | needs-review | `வெளியில்` / `உள்ளே` alternation and voice/vision line-breaking secure; dense inset type remains open. |
-| 51 | 49 | `காட்சி 13.` | needs-review | `இடம்: தெருவில்.` |
-| 52 | 50 | `காட்சி 14.` | needs-review | `இடம்: புத்தன் முகாம்`; dense parentheticals remain open. |
-| 53–58 | 51–56 | `காட்சி 15.` | needs-review | Scan 53: `இடம்: விபீஷணன் மண்டபம்.`; scan 55→56 continuation directly resolved. |
-| 59–63 | 57–61 | `காட்சி 16.` | needs-review | Scan 59: `பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`; scan 63→64 physical `அல்` / `லது` split preserved. |
+| 51 | 49 | `காட்சி 12.` close / `காட்சி 13.` | needs-review | `இடம்: தெருவில்.` and street dialogue secure; long pre-scene bold parenthetical remains an exact-word hold. |
+| 52 | 50 | `காட்சி 13.` close / `காட்சி 14.` | needs-review | `இடம்: புத்தன் முகாம்`; comic/song parenthetical and long dawn-stage parenthetical remain exact-word holds. |
+| 53–58 | 51–56 | `காட்சி 14.` close / `காட்சி 15.` | verified | Full closure PASS. Scan 53: `இடம்: விபீஷணன் மண்டபம்.`; scan 55→56 physical continuation preserved; scan 56 retains source-visible `இமய` / `இமா` / `விபீஷ -` label variation and supplies first secure `னொ` witness `இன்னொன்று`. |
+| 59 | 57 | `காட்சி 15.` close / `காட்சி 16.` | verified | `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`; removal direction, ellipsis/punctuation and full glyph gate PASS. |
+| 60 | 58 | `காட்சி 16.` | needs-review | Dialogue and later `புதர்` action block secure; one small lexical cluster in the opening bold parenthetical remains held. |
+| 61–63 | 59–61 | `காட்சி 16.` | needs-review | Raw source pass complete; scan 63→64 physical `அல்` / `லது` split preserved; closure audit not yet run. |
 | 64–67 | 62–65 | `காட்சி 17.` | needs-review | Scan 64: `இடம்:- விசாரண மண்டபம்`; trial/interrogation sequence. |
 | 68–71 | 66–69 | `காட்சி 18.` | needs-review | Scan 68: `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.`; scan 67→68 `இமயா` / `வோடு` split preserved. |
 | 72–74 | 70–72 | `காட்சி 19.` | needs-review | Scan 72: `இடம்:- வசந்த மண்டபம்.`; scan 74 retains dense source holds. |
@@ -72,10 +74,10 @@ All **131 physical scans** are registered and source-processed. The individual `
 - checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
-- closure-audited: **scans 1–50**;
-- visually verified: **26 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`);
-- `needs-review`: **105 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`);
-- completed historical-glyph passes: **26 / 131**;
+- closure-audited: **scans 1–60**;
+- visually verified: **33 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`);
+- `needs-review`: **98 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–131`);
+- completed historical-glyph passes: **33 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary comedy source-visible anchors: **3**;
 - formal structural/scene inventory: **not started**;
@@ -110,6 +112,19 @@ All **131 physical scans** are registered and source-processed. The individual `
 - scan 49 receives the durable source correction `மலரைக் காப்பாற்றினாய்` but remains open at whole-page level;
 - scan 50 retains dense inset-type/punctuation holds while its structural line-breaking is secure.
 
+## Closure audit checkpoint — scans 51–60
+
+- all ten scans were directly re-inspected source-first;
+- scans **53–59** close **PASS / verified** — **7 new verified pages**;
+- scan 51 remains open only because the long pre-scene bold parenthetical is not exact-word secure end to end;
+- scan 52 remains open because both the comic/song parenthetical and the long dawn-stage parenthetical retain exact-word holds;
+- scan 55→56 physical continuation is source-closed and preserved without silent joining;
+- scan 56 preserves printed speaker-label variation (`இமய`, `இமா`, `விபீஷ -`) and supplies the first secure `னொ` witness **`இன்னொன்று`**;
+- scan 57 supplies secure `ளை` witness `அவளை`;
+- scan 59 verifies the `காட்சி 15.` → `காட்சி 16.` transition and `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`;
+- scan 60 remains open only because one small lexical cluster in the opening bold parenthetical is still character-insecure;
+- no wording was completed from plot continuity, another edition or modern spelling.
+
 ## Exact next activity
 
-Continue the **source-pass closure audit with scans 51–60**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
+Continue the **source-pass closure audit with scans 61–70**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
