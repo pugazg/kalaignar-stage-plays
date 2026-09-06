@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN FOR CLOSURE — 50 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 81 RETAIN OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN FOR CLOSURE — 54 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 77 RETAIN OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -46,7 +46,11 @@ A family may be absent on a page; every page still receives the complete inspect
 - scan 84: `விடுதலை`;
 - scan 85: `மலையனைத்`;
 - scan 86: `மலை`, `கவலையில்லை`;
-- scan 87: `பிடிப்பதில்லை`, `பெருமையில்லை`.
+- scan 87: `பிடிப்பதில்லை`, `பெருமையில்லை`;
+- scan 91: `தலையாவது`;
+- scan 93: `ஓலை`;
+- scan 96: `தலை`;
+- scan 97: `வேலை`.
 
 ### `ணா`
 - scans 3, 5 and 6: `கருணாநிதி`;
@@ -67,7 +71,11 @@ A family may be absent on a page; every page still receives the complete inspect
 - scan 24: `வளையிலேயே`;
 - scan 57: `அவளை`;
 - scan 71: `மனக்கோட்டைகளை`;
-- scan 84: `இவளைப்`.
+- scan 84: `இவளைப்`;
+- scan 91: `வாளை`;
+- scan 93: `வாளை`;
+- scan 96: `வாளை`;
+- scan 97: `வாளை`.
 
 ### `னை`
 - scan 3: `விற்பனை`, `சென்னை`;
@@ -84,7 +92,8 @@ A family may be absent on a page; every page still receives the complete inspect
 - scan 82: `தண்டனை`, `உன்னை`;
 - scan 83: `மலையனை`, `மனைவியாக்கமாட்டேன்`;
 - scan 84: `மலையனை`;
-- scan 85: `மலையனைத்`.
+- scan 85: `மலையனைத்`;
+- scan 91: `அவனைப்`.
 
 ### `றா`
 - scan 6: `காரணமாகும்`;
@@ -226,16 +235,33 @@ All ten scans were directly re-inspected from the supplied source. **Seven pages
 
 Open scans 88–90 contribute no new secure reference forms. No semantic repair, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
 
+## Closure audit — scans 91–100
+
+All ten scans were directly re-inspected from the supplied source. **Four pages newly close PASS / verified: scans 91, 93, 96 and 97.**
+
+- scan 91 / p.89: raw-pass `ஓஃகே!` / `சுற்றுப்` are directly corrected to **`ஓஹோ!` / `சற்றுப்`**; complete restraint/`பொன்னி` entrance/action sequence and glyph gate **PASS / verified**; `தலையாவது`, `வாளை`, `அவனைப்` add secure `லை` / `ளை` / `னை` evidence;
+- scan 92 / p.90: direct source review corrects **`கூன` → `கூட`** in `வீரப் பயமுறுத்தல் கூட`; one dense sword-action punctuation/historical-type cluster remains open, so the page stays `needs-review`;
+- scan 93 / p.91: complete forced-letter block, stage actions and punctuation **PASS / verified**; `ஓலை` / `வாளை` add secure `லை` / `ளை` evidence; scan-93→94 physical continuation remains explicit;
+- scan 94 / p.92: source-colloquial **`வரி கொடுக்கமாட்டேன்னு`** is restored and `எழுதுக்கள்` is corrected to **`எழுத்துக்கள்`**; `காட்சி 24.` / `இடம்:- தெருவில்.` are secure, but the dense signpost/route parenthetical keeps the page open;
+- scan 95 / p.93: scan-94 physical continuation and the extended `குமரி` monologue are secure; dense punctuation/historical-type clusters remain below whole-page closure threshold;
+- scan 96 / p.94: opening stage direction directly resolves as **`சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`**; `காட்சி 25.` / `இடம்: விபீஷணன் மாளிகை.`, dialogue/actions and full glyph gate **PASS / verified**; `தலை` / `வாளை` add secure `லை` / `ளை` evidence;
+- scan 97 / p.95: scan-96→97 `சொல்` / `லப்` continuation, coerced letter, punctuation and full glyph gate **PASS / verified**; final `பதார்த்தங்` is preserved as a physical split into scan 98 `களில்`; `வேலை` / `வாளை` add secure `லை` / `ளை` evidence;
+- scan 98 / p.96: the `பதார்த்தங்` / `களில்` continuation and secure visible text close, but one compact stage-direction cluster beginning with `இளவரசன்` remains exact-character held;
+- scan 99 / p.97: the second coerced letter and `ஜே! ஜே!` victory dialogue are secure; two dense bold stage directions remain unresolved at exact-character level;
+- scan 100 / p.98: `காட்சி 26.` / `இடம்:- மகாவீரர் தர்பார்.` and the Tamil-poet sequence are secure, but the dense entrance-stage direction remains exact-character held.
+
+Open scans 92, 94–95 and 98–100 contribute no new secure reference forms. No global replacement, modern-spelling repair, OCR expectation, another-edition completion or plot-based reconstruction was used.
+
 ## Current metrics
 
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **90 / 131** (`1–90`);
-- full historical-glyph passes: **50 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`);
-- visually verified: **50 / 131**;
-- `needs-review`: **81 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–131`);
+- closure-audited: **100 / 131** (`1–100`);
+- full historical-glyph passes: **54 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`);
+- visually verified: **54 / 131**;
+- `needs-review`: **77 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–131`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Run the next closure batch over **scans 91–100**. Revisit explicit holds only with stronger source pixels/renderings and close the full 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
+Run the next closure batch over **scans 101–110**. Revisit explicit holds only with stronger source pixels/renderings and close the full 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
