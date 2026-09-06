@@ -33,6 +33,7 @@ The checksum was computed directly from the exact supplied file bytes. All sourc
 - scan 32 / p.30: **`காட்சி 9.`**, **`இடம்:- விபீஷணன் அறை`**;
 - scan 37 / p.35: **`காட்சி 10.`**, **`இடம்: பவளமலைச் சாரல்`**;
 - scan 41 / p.39: **`காட்சி 11.`**, **`இடம்: விபீஷணன் தனியறை`**;
+- scan 46 / p.44: **`காட்சி 12.`**, **`இடம்: ஆற்றோரம்`**;
 - scan 25 / p.23: scene-7 dialogue explicitly prints **`மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`**;
 - scan 31 / p.29: source dialogue directly condemns caste-based degradation / untouchability;
 - scan 130: printed p.128, final dramatic page;
@@ -56,13 +57,13 @@ The source-processed dramatic body directly supports an anti-caste theme: scan 2
 Raw physical scan numbers control archival provenance.
 
 - scans **1–7** are front matter;
-- scans **8–45** directly confirm printed pp.**6–43**;
+- scans **8–50** directly confirm printed pp.**6–48**;
 - scans **8–130** contain the dramatic work;
 - scan **125** visibly carries printed page **123**;
 - scan **130** visibly carries printed page **128** and is the final dramatic page;
 - scan **131** is a back-cover publisher advertisement / book list.
 
-The sequential mapping scans 46–130 remains provisional until each printed numeral is directly checked.
+The sequential mapping scans 51–130 remains provisional until each printed numeral is directly checked.
 
 ## Structural intake observations
 
@@ -78,7 +79,8 @@ Direct scene anchors established so far:
 - scan 27 / p.25 — `காட்சி 8.` / `இடம்:- முல்லைக்காட்டுப் பகுதி.`;
 - scan 32 / p.30 — `காட்சி 9.` / `இடம்:- விபீஷணன் அறை`;
 - scan 37 / p.35 — `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்`;
-- scan 41 / p.39 — `காட்சி 11.` / `இடம்: விபீஷணன் தனியறை`.
+- scan 41 / p.39 — `காட்சி 11.` / `இடம்: விபீஷணன் தனியறை`;
+- scan 46 / p.44 — `காட்சி 12.` / `இடம்: ஆற்றோரம்`.
 
 The exact scene-4 and scene-5 location lines remain under enlarged review. A definitive full scene inventory remains deferred.
 
@@ -88,10 +90,13 @@ The exact scene-4 and scene-5 location lines remain under enlarged review. A def
 - aged paper, bleed-through and uneven type are visible;
 - historical Tamil glyph shapes are present;
 - donor/library/handwritten marks must remain separate from literary text;
-- scans 21–45 were inspected at enlarged resolution; explicit held clusters remain where small bold parenthetical directions, colloquial forms, dense lexical clusters or historical-vowel forms are not yet character-secure;
+- scans 21–50 were inspected at enlarged resolution; explicit held clusters remain where small bold parenthetical directions, colloquial forms, dense lexical clusters or historical-vowel forms are not yet character-secure;
 - scan 39→40 contains a physical cross-page sentence boundary after `மாதவன் - மனசாட்சியை அடகு`;
 - scan 43 retains one small bold parenthetical exact-word hold;
 - scans 44 and 45 each retain one explicit lexical hold rather than contextual completion;
+- scan 47 retains one lexical hold in the lodging invitation;
+- scan 48 retains two small stage-direction exact-word holds;
+- scans 49–50 preserve `விபீஷணன் குரலும் நிழலும்` as distinct source-visible voice/vision blocks;
 - back cover is an advertisement, not dramatic text.
 
 ## Verification authority
@@ -109,22 +114,22 @@ Current secure same-edition examples remain:
 - `னை`: scan 3 `விற்பனை`, `சென்னை`; scan 4 `சென்னை`; scan 6 `சென்னை`;
 - `றா`: scan 6 `காரணமாகும்`.
 
-Open scans 36–45 provide additional candidate comparison material including `மின்னலை`, `கணையாழி`, `காலையில்` / `அலைந்தோம்`, `தலையை`, `மஞ்சளைக்` and `அவளைத்`, but open-page candidates are not promoted into the secure reference bank.
+Open scans 36–50 provide additional candidate comparison material including `மின்னலை`, `கணையாழி`, `காலையில்` / `அலைந்தோம்`, `தலையை`, `மஞ்சளைக்`, `அவளைத்`, `மனைவி`, and `தலையில்`, but open-page candidates are not promoted into the secure reference bank.
 
 ## Current archival status
 
 - source registration: **131 / 131 scans**;
 - source checksum: **recorded**;
-- page records created: **45 / 131** (`0001.md`–`0045.md`);
-- source scans processed: **45 / 131**;
+- page records created: **50 / 131** (`0001.md`–`0050.md`);
+- source scans processed: **50 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **41 / 131** (`1, 5, 7–45`);
+- `needs-review`: **46 / 131** (`1, 5, 7–50`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **11**;
+- source-visible scene anchors: **12**;
 - structural inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next source activity
 
-Continue with **scans 46–50** source-first while preserving the existing holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly.
+Continue with **scans 51–55** source-first while preserving the existing holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly.

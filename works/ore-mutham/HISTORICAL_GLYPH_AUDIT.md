@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN — 4 / 131 SCANS PASSED; 41 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN — 4 / 131 SCANS PASSED; 46 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -104,17 +104,27 @@ No positive reference is yet promoted for:
 | 44 | 42 | processed | open | Scene-11 dialogue substantially transcribed; `தலையை` is open-page `லை` material and `மஞ்சளைக்` / `அவளைத்` are open-page `ளை` material; one final lexical cluster held. |
 | 45 | 43 | processed | open | Scene-11 confrontation transcribed; one source cluster immediately before `பலிபீடம்` remains held; final punctuation/historical-vowel pass open. |
 
+## Batch 10 — scans 46–50
+
+| Scan | Printed page | Visual/source processing | 13-family gate | Status / note |
+|---:|---:|---|---|---|
+| 46 | 44 | processed | open | Scene 11 closes and `காட்சி 12.` / `இடம்: ஆற்றோரம்` is source-secure; `காலன்` / `தொலைந்தால்` provide open-page `லை` comparison material. |
+| 47 | 45 | processed | open | Scene-12 evening / palanquin stage direction and dialogue transcribed; one lodging-invitation lexical exact-word hold retained; `காலையில்` is open `லை` material. |
+| 48 | 46 | processed | open | Hut/interior dialogue transcribed; two small stage-direction exact-word holds retained; `மனைவியாவார்க்கும்` is open `னை` material. |
+| 49 | 47 | processed | open | Outside/inside alternation and `விபீஷணன் குரலும் நிழலும்` inset transcribed; `தலையில்` / `மனைவிதானே` provide open comparison material. |
+| 50 | 48 | processed | open | Outside/inside alternation, voice/vision inset and closing letters action transcribed; `மனைவி` is open `னை` comparison material. |
+
 Candidate occurrences from an open page do **not** enter the secure reference bank until the whole-page gate is closed.
 
 ## Current metrics
 
 - physical scans: **131**;
-- source-processed: **45 / 131**;
+- source-processed: **50 / 131**;
 - full historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- processed `needs-review`: **41 / 131** (`1, 5, 7–45`);
+- processed `needs-review`: **46 / 131** (`1, 5, 7–50`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Process scans **46–50** directly from source pixels. Add same-edition reference examples only where both the reading and the page-level verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.
+Process scans **51–55** directly from source pixels. Add same-edition reference examples only where both the reading and the page-level verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.

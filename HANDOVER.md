@@ -21,7 +21,7 @@ Read before further source-dependent work:
 5. `works/ore-mutham/metadata/source.md`;
 6. `works/ore-mutham/indexes/page-map.md`;
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`;
-8. existing `works/ore-mutham/pages/0001.md`–`0045.md` as relevant;
+8. existing `works/ore-mutham/pages/0001.md`–`0050.md` as relevant;
 9. the supplied controlling PDF.
 
 ## Source identity
@@ -50,10 +50,12 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 - scan 32 / p.30: `காட்சி 9.` — `இடம்:- விபீஷணன் அறை`;
 - scan 37 / p.35: `காட்சி 10.` — `இடம்: பவளமலைச் சாரல்`;
 - scan 41 / p.39: `காட்சி 11.` — `இடம்: விபீஷணன் தனியறை`;
+- scan 46 / p.44: `காட்சி 12.` — `இடம்: ஆற்றோரம்`;
 - scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
 - scan 31 / p.29: extended source dialogue explicitly condemns caste-based degradation / untouchability;
 - scans 38–40: village-burning report, documentary evidence, private `காவிகள்` exchange, and arrest / anti-treason directive;
 - scans 41–45: extended `சித்ரா` / `விபீஷ` confrontation; explicit source holds retained where pixels remain insecure;
+- scans 46–50: scene-11 close, `காட்சி 12.` opener, hut sequence, and `விபீஷணன் குரலும் நிழலும்` inside/outside conscience blocks;
 - scan 130: printed p.128, final dramatic page;
 - scan 131: back-cover advertisement.
 
@@ -62,7 +64,7 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic work;
 - scan **131**: back matter;
-- directly confirmed printed numerals through scan 45: **pp.6–43**;
+- directly confirmed printed numerals through scan 50: **pp.6–48**;
 - later mapping remains provisional until direct inspection.
 
 ## Historical Tamil glyph gate
@@ -89,7 +91,7 @@ Secure reference bank remains limited to positively verified pages:
 
 Open pages contain additional candidate family occurrences; none is promoted while its whole-page gate remains open.
 
-## Processed checkpoint — scans 1–45
+## Processed checkpoint — scans 1–50
 
 Verified:
 
@@ -97,38 +99,38 @@ Verified:
 
 Needs-review:
 
-- `0001.md`, `0005.md`, `0007.md`–`0045.md`.
+- `0001.md`, `0005.md`, `0007.md`–`0050.md`.
 
-Batch 41–45 was source-processed with:
+Batch 46–50 was source-processed with:
 
-- printed pp.39–43 directly confirmed;
-- scan 41 opening `காட்சி 11.` at `விபீஷணன் தனியறை`;
-- scans 41–45 continuing the `சித்ரா` / `விபீஷ` confrontation;
-- scan 43 adding two abbreviated `கா` speakers and retaining one small bold parenthetical exact-word hold;
-- scan 44 retaining one final lexical hold and providing open-page `லை` / `ளை` comparison material;
-- scan 45 retaining one source cluster immediately before `பலிபீடம்` rather than completing it from context;
-- all five pages retaining open punctuation / historical-glyph gates; no new page promoted to `verified`;
+- printed pp.44–48 directly confirmed;
+- scan 46 closing `காட்சி 11.` and opening `காட்சி 12.` at `ஆற்றோரம்`;
+- scan 47 opening the evening/palanquin encounter and retaining one lodging-invitation lexical exact-word hold;
+- scan 48 continuing into the hut/interior sequence and retaining two small stage-direction exact-word holds;
+- scans 49–50 alternating `வெளியில்` / `உள்ளே` and preserving `விபீஷணன் குரலும் நிழலும்` as separate source-visible voice/vision blocks;
+- no open-page historical-glyph candidates promoted to the secure bank;
+- all five pages remain `needs-review`;
 - no scene assembly or translation.
 
 ## Current metrics
 
 - source scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **45 / 131**;
-- source scans processed: **45 / 131**;
+- page records created: **50 / 131**;
+- source scans processed: **50 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **41 / 131** (`1, 5, 7–45`);
+- `needs-review`: **46 / 131** (`1, 5, 7–50`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **11**;
+- source-visible scene anchors: **12**;
 - structural/scene inventory: **not started**;
 - Tamil assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Process scans **46–50** source-first:
+Process scans **51–55** source-first:
 
-1. create `pages/0046.md` through `0050.md`;
+1. create `pages/0051.md` through `0055.md`;
 2. directly inspect/transcribe source-visible text without normalization;
 3. confirm each printed page numeral;
 4. preserve exact scene/stage/speaker forms;
