@@ -8,6 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
+| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — source intake open; 131 scans registered; checksum pending; page/source pass 0/131; historical-glyph pass 0/131; structure/assembly not started; English not authorized** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -17,38 +18,37 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 | [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil 10/10; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [மணிமகுடம்](works/manimagudam/) | **COMPLETE / CLOSED — Tamil 170/170; scenes 47/47; independent English 47/47; release READY/FINAL** |
 
+## Active work — ஒரே முத்தம்
+
+Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
+
+- file size: **224,884,964 bytes**;
+- physical scans: **131**;
+- SHA-256: **pending — must be computed from the exact supplied PDF, never guessed**;
+- source-visible title: **ஒரே முத்தம்**;
+- source-visible descriptor: **சரித்திரக் கற்பனை நாடகம்.**;
+- source-visible edition: **ஐந்தாம் பதிப்பு**;
+- source-visible publisher: **தென்றல் நூற்பதிப்புக் கழகம்**;
+- user catalog edition/year: **ஐந்தாம் பதிப்பு, 1964**;
+- scans **1–7**: front matter;
+- scans **8–130**: dramatic body;
+- scan **131**: back-cover publisher advertisement;
+- scan **8** visibly begins `காட்சி 1.` at printed p.6;
+- scan **130** is printed p.128 and the final dramatic page;
+- source scans registered: **131 / 131**;
+- page/source processing: **0 / 131**;
+- historical-glyph passes: **0 / 131**;
+- structural inventory: **not started**;
+- scene assembly: **not started**;
+- English translation: **not authorized / not started**.
+
+The source scan is controlling authority. User-supplied catalog context about the Sri Lankan historical basis, Devi Nataka Sabha performance, and caste abolition is preserved as context and must not substitute for word-for-word source transcription.
+
+**Exact next activity:** compute the exact PDF SHA-256, then process source scans **1–5** with direct visual fidelity and the full 13-family historical-glyph pass, creating `works/ore-mutham/pages/0001.md` through `0005.md` and synchronizing the page map/audit/handover.
+
 ## Closed work — திருவாளர் தேசீயம்பிள்ளை
 
-Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீயம்பிள்ளை.pdf`.
-
-- SHA-256: `b336bbebb326803badecbaa93de4ca4d63d80f68137fe70673b07a884c4910eb`;
-- physical scans: **49**;
-- source-visible edition: **இரண்டாம் பதிப்பு — நவம்பர் 1965**;
-- publisher: **K. R. நாராயணன்**;
-- Tamil page records/source processing: **49 / 49 complete**;
-- historical-glyph passes: **49 / 49 complete**;
-- visually verified: **40 / 49**;
-- `needs-review`: **9 / 49** (`1, 3, 4, 5, 7, 8, 9, 35, 36`) — retained as source-condition limitations;
-- unresolved visual/source clusters: **3**;
-- structural/scene inventory: **COMPLETE / PASS — 7 editorial SRUs**;
-- Tamil source-representation assembly: **7 / 7 COMPLETE / REVIEWED — PASS**;
-- independent English artifacts: **7 / 7 reviewed**;
-- English batch reviews: **4 / 4 PASS / LOCKED**;
-- final English review: `works/thiruvalar-desiyampillai/translations/en/TRANSLATION_REVIEW.md` — **PASS / COMPLETE / CLOSED**.
-
-Final controls:
-
-- SRU-01 `[paper loss]`: **7 / 7 retained**;
-- SRU-04 `[unresolved glyph cluster]`: **1 / 1 retained**;
-- SRU-04 `[unresolved descriptive cluster]`: **2 / 2 retained**;
-- source scene/act numbering invented: **0**;
-- scan-47 `உதயசூரியன் கோலம்` remains internal as `Rising Sun Kolam`;
-- invented `The End`: **0**;
-- scan 49 advertisement included in dramatic English: **no**;
-- secondary-English witness use: **0**;
-- Tamil archival changes caused by translation: **0**.
-
-No further work is scheduled for this work under the current Tamil-archive + independent-English workflow. Reopen only with separate user authorization or new source evidence.
+`திருவாளர் தேசீயம்பிள்ளை` remains **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**. Its final independent English review is `works/thiruvalar-desiyampillai/translations/en/TRANSLATION_REVIEW.md` — **PASS / COMPLETE / CLOSED**. The nine Tamil page-level review holds remain source-condition limitations and are not reopened by the new work.
 
 ## Closed காகிதப்பூ checkpoint
 
