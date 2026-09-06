@@ -34,7 +34,7 @@ User-supplied catalog metadata remains: title **ஒரே முத்தம்*
 
 The supplementary scenes must not be silently renumbered as main-play scenes 31–33.
 
-## Closure-audit corrections / resolutions through scan 90
+## Closure-audit corrections / resolutions through scan 100
 
 Earlier closed corrections remain authoritative:
 
@@ -131,6 +131,22 @@ Closure findings from scans 81–90:
 
 Scans 88–90 therefore remain `needs-review`. No wording was supplied from plot continuity, OCR expectation, another edition or modern spelling.
 
+Closure findings from scans 91–100:
+
+- scans **91, 93, 96–97** newly close **PASS / verified** after direct source re-inspection and the full 13-family gate;
+- scan 91 / p.89: raw-pass `ஓஃகே!` / `சுற்றுப்` are corrected directly to **`ஓஹோ!` / `சற்றுப்`**; restraint/entrance/action text and the whole page verify;
+- scan 92 / p.90: `கூன` is directly corrected to **`கூட`** in `வீரப் பயமுறுத்தல் கூட`; one dense sword-action punctuation/historical-type cluster remains open;
+- scan 93 / p.91: complete forced-letter block **verified**; scan-93→94 physical continuation remains explicit;
+- scan 94 / p.92: source-colloquial **`வரி கொடுக்கமாட்டேன்னு`** is restored and `எழுதுக்கள்` corrected to **`எழுத்துக்கள்`**; `காட்சி 24.` / `இடம்:- தெருவில்.` are secure, while the dense signpost/route parenthetical remains open;
+- scan 95 / p.93: the scan-94 continuation and extended `குமரி` monologue are secure; dense punctuation/historical-type clusters keep the page open;
+- scan 96 / p.94: opening stage direction resolves directly as **`சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`**; `காட்சி 25.` / `இடம்: விபீஷணன் மாளிகை.` and the whole page verify;
+- scan 97 / p.95: the scan-96→97 `சொல்` / `லப்` continuation and coerced-letter page verify; final `பதார்த்தங்` remains physically split into scan 98 `களில்`;
+- scan 98 / p.96: the physical continuation and secure letter/coercion text are source-closed, but one compact stage-direction cluster beginning with `இளவரசன்` remains exact-character held;
+- scan 99 / p.97: the second coerced letter and victory dialogue are secure; two dense bold stage directions remain exact-word held;
+- scan 100 / p.98: `காட்சி 26.` / `இடம்:- மகாவீரர் தர்பார்.` and the Tamil-poet sequence are secure; one dense entrance-stage direction remains held.
+
+Scans 92, 94–95 and 98–100 therefore remain `needs-review`. No wording was supplied from plot continuity, OCR expectation, another edition or modern spelling.
+
 ## Direct thematic evidence already established
 
 - scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
@@ -152,11 +168,11 @@ Mandatory family set:
 
 Secure same-edition reference bank now includes:
 
-- `லை`: scans 3, 4, 5, 6, 37, 40, 56, 58, 62–64, 67–68, 71, 75–76, 80, 83–87;
+- `லை`: scans 3, 4, 5, 6, 37, 40, 56, 58, 62–64, 67–68, 71, 75–76, 80, 83–87, 91, 93, 96–97;
 - `ணா`: scans 3, 5, 6; scan 63 `கண்ணா`;
 - `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`, scan 59 `விசாரணைமண்டபத்தில்`, scan 63 `கணையாழி` / `அணையைக்`, scan 70 `துணையை`, scan 71 `பெண்ணை`, scan 75 `பெண்ணை`, scan 83 `கண்ணை`;
-- `ளை`: scan 24 `வளையிலேயே`, scan 57 `அவளை`, scan 71 `மனக்கோட்டைகளை`, scan 84 `இவளைப்`;
-- `னை`: scans 3, 4, 6; scan 53 `மனைவி`; scan 54 `அவனைச்`; scan 62 `என்னைப்`; scan 67 `தண்டனை`; scan 70 `உன்னையல்ல`; scan 75 `என்னைக்`; scan 80 `தண்டனை`; scans 81–82 `தண்டனை`; scan 83 `மலையனை` / `மனைவியாக்கமாட்டேன்`; scans 84–85 `மலையனை` / `மலையனைத்`;
+- `ளை`: scan 24 `வளையிலேயே`, scan 57 `அவளை`, scan 71 `மனக்கோட்டைகளை`, scan 84 `இவளைப்`, scans 91, 93, 96–97 `வாளை`;
+- `னை`: scans 3, 4, 6; scan 53 `மனைவி`; scan 54 `அவனைச்`; scan 62 `என்னைப்`; scan 67 `தண்டனை`; scan 70 `உன்னையல்ல`; scan 75 `என்னைக்`; scan 80 `தண்டனை`; scans 81–82 `தண்டனை`; scan 83 `மலையனை` / `மனைவியாக்கமாட்டேன்`; scans 84–85 `மலையனை` / `மலையனைத்`; scan 91 `அவனைப்`;
 - `றா`: scan 6 `காரணமாகும்`, scan 55 `தோற்றால்`, scan 56 `தொலைக்கிறாள்`, scan 57 `தருகிறாள்` / `உபசரிக்கிறாள்`;
 - `னொ`: scan 56 `இன்னொன்று` — first secure positive witness.
 
@@ -168,10 +184,10 @@ No open-page candidate is promoted until its whole-page visual + 13-family gate 
 - source checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **scans 1–90**;
-- visually verified: **50 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`);
-- `needs-review`: **81 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–131`);
-- completed historical-glyph passes: **50 / 131**;
+- closure-audited: **scans 1–100**;
+- visually verified: **54 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`);
+- `needs-review`: **77 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–131`);
+- completed historical-glyph passes: **54 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary-comedy source-visible scene anchors: **3**;
 - formal structural inventory: **not started**;
@@ -180,4 +196,4 @@ No open-page candidate is promoted until its whole-page visual + 13-family gate 
 
 ## Exact next source activity
 
-Continue the **source-pass closure audit with scans 91–100** using stronger source pixels/renderings only. Formal scene assembly and English translation remain out of scope.
+Continue the **source-pass closure audit with scans 101–110** using stronger source pixels/renderings only. Formal scene assembly and English translation remain out of scope.
