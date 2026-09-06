@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — 131 PHYSICAL SCANS REGISTERED; SOURCE PROCESSING 15 / 131; 4 VERIFIED; 11 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 4 / 131; CHECKSUM STILL PENDING.**
+**ACTIVE — 131 PHYSICAL SCANS REGISTERED; SOURCE PROCESSING 20 / 131; 4 VERIFIED; 16 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 4 / 131; CHECKSUM STILL PENDING.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -20,10 +20,6 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 - publisher: **தென்றல் நூற்பதிப்புக் கழகம்**
 - edition/year: **ஐந்தாம் பதிப்பு, 1964**
 
-User-supplied catalog description:
-
-> இலங்கையில் நிகழ்ந்த ஒரு வரலாற்று நிகழ்வின் சிறு சிதறலை அடிப்படையாகக் கொண்டு எழுதப்பட்ட வரலாற்று நாடகம் இது. தேவி நாடக சபையினரால் நிகழ்த்தப்பட்டது. சாதி ஒழிப்பு குறித்தும் இந்நாடகம் பேசுகிறது.
-
 Catalog context does not substitute for source transcription. Scan 6 independently supports the Sri Lankan historical-fragment basis and first staging by `தேவி நாடக சபை`; the caste-abolition thematic note remains catalog context until the dramatic body itself is processed sufficiently to support it.
 
 ## Source-visible identification / structure
@@ -37,6 +33,7 @@ Catalog context does not substitute for source transcription. Scan 6 independent
 - scan 9 / p.7: `காட்சி 2.` — `இடம்:- விழா மண்டபம்`;
 - scan 11 / p.9: `காட்சி 3.` — `இடம்:- மலர்நகரில் ஒரு புறம்.`;
 - scan 15 / p.13: `காட்சி 4.` transition; exact location line remains under enlarged review;
+- scan 19 / p.17: `காட்சி 5.` transition; exact location line remains under enlarged review;
 - scan 130: printed p.128, final dramatic page;
 - scan 131: back-cover publisher advertisement.
 
@@ -45,10 +42,10 @@ Catalog context does not substitute for source transcription. Scan 6 independent
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic work;
 - scan **131**: back-cover advertisement;
-- printed numerals directly confirmed through scan 15: **pp.6–13**;
+- printed numerals directly confirmed through scan 20: **pp.6–18**;
 - later scan→printed-page mapping remains provisional until directly checked.
 
-## Processed pages — scans 1–15
+## Processed pages — scans 1–20
 
 Verified:
 
@@ -62,9 +59,11 @@ Needs-review:
 - `0001.md` — stylized small cover lettering / tiny signature;
 - `0005.md` — dense `பதிப்புரை.` body;
 - `0007.md` — cast-list row details;
-- `0008.md`–`0010.md` — secure pp.6–8 / scene anchors, dense dialogue held;
+- `0008.md`–`0010.md` — secure pp.6–8 / scenes 1–2 anchors, dense dialogue held;
 - `0011.md`–`0014.md` — secure pp.9–12 / scene-3 structure, dense dialogue held;
-- `0015.md` — secure p.13 / `காட்சி 4.` transition, exact location/dialogue held.
+- `0015.md`–`0018.md` — secure pp.13–16 / scene-4 structure, dense dialogue/location held;
+- `0019.md` — secure p.17 / `காட்சி 5.` transition, exact location/body held;
+- `0020.md` — secure p.18 / scene-5 continuation, dense body held.
 
 ## Historical-glyph reference bank
 
@@ -87,10 +86,10 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 - source scans registered: **131 / 131**;
 - checksum: **pending exact byte-level computation**;
-- per-scan page records created: **15 / 131**;
-- source scans processed: **15 / 131**;
+- per-scan page records created: **20 / 131**;
+- source scans processed: **20 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **11 / 131** (`1, 5, 7–15`);
+- `needs-review`: **16 / 131** (`1, 5, 7–20`);
 - historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - structural/scene inventory: **not started**;
 - Tamil source-representation assembly: **not started**;
@@ -98,6 +97,6 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 ## Exact next activity
 
-Process **scans 16–20** source-first with direct printed-page confirmation, source-visible scene/stage/speaker structure, and the complete 13-family historical-glyph gate. Preserve existing holds (`1, 5, 7–15`) unless enlarged source pixels genuinely resolve them. Compute and record the exact PDF SHA-256 only when byte-level hashing becomes available.
+Process **scans 21–25** source-first with direct printed-page confirmation, source-visible scene/stage/speaker structure, and the complete 13-family historical-glyph gate. Preserve existing holds (`1, 5, 7–20`) unless enlarged source pixels genuinely resolve them. Compute and record the exact PDF SHA-256 only when byte-level hashing becomes available.
 
 Do not begin scene assembly or English translation during the page-source pass.
