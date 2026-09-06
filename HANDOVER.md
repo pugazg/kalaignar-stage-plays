@@ -6,26 +6,11 @@ Repository: `pugazg/kalaignar-stage-plays`, branch `main`.
 
 Always fetch live `main` first and preserve newer durable state. Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
-# ACTIVE WORK — திருவாளர் தேசீயம்பிள்ளை
+# CLOSED WORK — திருவாளர் தேசீயம்பிள்ளை
 
-## Mandatory startup
+Status: **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**.
 
-Read before further work:
-
-1. `STAGE_PLAY_PROCESSING_GUIDE.md`;
-2. this `HANDOVER.md`;
-3. `NEXT_CHAT_PROMPT.md`;
-4. `works/thiruvalar-desiyampillai/README.md`;
-5. `works/thiruvalar-desiyampillai/PAGE_LAYER_COMPLETION_AUDIT.md`;
-6. `works/thiruvalar-desiyampillai/STRUCTURAL_SCENE_INVENTORY.md`;
-7. `works/thiruvalar-desiyampillai/ASSEMBLY_REVIEW.md`;
-8. `works/thiruvalar-desiyampillai/TRANSLATION_PLAN.md`;
-9. `works/thiruvalar-desiyampillai/translations/en/README.md`;
-10. all four completed English batch reviews `BATCH_01_REVIEW.md` through `BATCH_04_REVIEW.md`;
-11. all seven reviewed English SRU artifacts before final English closure review;
-12. page records / controlling PDF only when a genuine Tamil-source adjudication is required.
-
-The user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` remains methodology for the closed Tamil source layer, not an English lexical witness.
+No automatic continuation task remains for this work under the current Tamil-archive + independent-English workflow.
 
 ## Source identity
 
@@ -44,9 +29,11 @@ Controlling PDF: `TVA_BOK_0064118_திருவாளர்_தேசீயம
 - historical-glyph passes: **49 / 49**;
 - visually verified pages: **40 / 49**;
 - `needs-review`: **9 / 49** (`1, 3, 4, 5, 7, 8, 9, 35, 36`);
-- unresolved visual/source clusters: **3**.
+- unresolved visual/source clusters: **3**;
+- structural inventory: **PASS / REVIEWED — 7 editorial SRUs**;
+- Tamil source-representation assembly: **7 / 7 COMPLETE / REVIEWED — PASS**.
 
-Review holds remain authoritative:
+The nine page-level `needs-review` records are source-condition limitations, not pending text to infer or repair:
 
 - front matter `1, 3, 4, 5` — physical loss/abrasion;
 - body `7, 8, 9` — `[paper loss]` gaps;
@@ -55,77 +42,62 @@ Review holds remain authoritative:
 
 Do not fill these from context, OCR, another edition, English translation, or lexical expectation.
 
-`STRUCTURAL_SCENE_INVENTORY.md`: **PASS / REVIEWED**. The source has no numbered scenes/acts; seven editorial SRUs preserve source order. Scan-47 `உதயசூரியன் கோலம்` is an internal descriptive/intertitle; scan 48 has no source `முற்றும்`.
+The source has no numbered scenes/acts. Scan-47 `உதயசூரியன் கோலம்` is an internal descriptive/intertitle; scan 48 has no source `முற்றும்`.
 
-`ASSEMBLY_REVIEW.md`: **PASS / REVIEWED**. Tamil source-representation assembly is **7 / 7 COMPLETE / REVIEWED** and closed against translation-driven edits.
-
-## English translation — ALL BATCHES COMPLETE / FINAL REVIEW PENDING
+## Independent English translation — COMPLETE / CLOSED
 
 Translation plan: `works/thiruvalar-desiyampillai/TRANSLATION_PLAN.md`.
 
 Tracker: `works/thiruvalar-desiyampillai/translations/en/README.md`.
 
-Immediate English authority remains the reviewed Tamil SRUs only. No OCR/PDF substitute, another edition, web text, general knowledge, or secondary English witness was used as drafting authority.
+Final review: `works/thiruvalar-desiyampillai/translations/en/TRANSLATION_REVIEW.md` — **PASS / COMPLETE / CLOSED**.
 
-### Batch 01 — PASS / LOCKED
+English artifacts:
 
-- `translations/en/sru-01-yama-court.md` — reviewed; `[paper loss]` **7 / 7 retained**;
-- `translations/en/sru-02-guesthouse.md` — reviewed;
-- review: `translations/en/BATCH_01_REVIEW.md`.
+1. `translations/en/sru-01-yama-court.md` — reviewed
+2. `translations/en/sru-02-guesthouse.md` — reviewed
+3. `translations/en/sru-03-eman-interview.md` — reviewed
+4. `translations/en/sru-04-gandhi-journey.md` — reviewed
+5. `translations/en/sru-05-stairfall-dream-exit.md` — reviewed
+6. `translations/en/sru-06-domestic-election-argument.md` — reviewed
+7. `translations/en/sru-07-udayasuriyan-kolam-close.md` — reviewed
 
-### Batch 02 — PASS / LOCKED
+Batch reviews:
 
-- `translations/en/sru-03-eman-interview.md` — reviewed;
-- review: `translations/en/BATCH_02_REVIEW.md`.
+- `BATCH_01_REVIEW.md` — **PASS / LOCKED**;
+- `BATCH_02_REVIEW.md` — **PASS / LOCKED**;
+- `BATCH_03_REVIEW.md` — **PASS / LOCKED**;
+- `BATCH_04_REVIEW.md` — **PASS / LOCKED**.
 
-Key controls: repeated `pillai`, `uyarthinai / ahrinai`, `pancha-varnam / pancham`, tax/Congress/election/Five-Year-Plan satire and speaker-label variation preserved/documented.
+Final closure controls:
 
-### Batch 03 — PASS / LOCKED
-
-- `translations/en/sru-04-gandhi-journey.md` — reviewed;
-- `[unresolved glyph cluster]`: **1 / 1 retained**;
-- `[unresolved descriptive cluster]`: **2 / 2 retained**;
-- apparent scan-35 `கொழுப்பேறி`: not promoted;
-- review: `translations/en/BATCH_03_REVIEW.md`.
-
-### Batch 04 — PASS / LOCKED
-
-- `translations/en/sru-05-stairfall-dream-exit.md` — reviewed; place-name / `படி` wordplay and source person-shift preserved/documented;
-- `translations/en/sru-06-domestic-election-argument.md` — reviewed; domestic colloquial/election/language-politics register preserved without invented speaker labels;
-- `translations/en/sru-07-udayasuriyan-kolam-close.md` — reviewed; internal `Rising Sun Kolam` preserved; invented `The End`: **0**;
-- review: `translations/en/BATCH_04_REVIEW.md`.
-
-Current English metrics:
-
-- expected artifacts: **7**;
-- present: **7 / 7**;
-- individually reviewed: **7 / 7**;
-- completed batches: **4 / 4**;
+- English artifacts present/reviewed: **7 / 7**;
 - batch reviews: **4 / 4 PASS / LOCKED**;
-- secondary-English witness use: **0**;
-- Tamil archival files changed because of translation choices: **0**;
-- final `TRANSLATION_REVIEW.md`: **PENDING / NOT YET CREATED**.
+- SRU-01 `[paper loss]`: **7 / 7 retained**;
+- SRU-04 `[unresolved glyph cluster]`: **1 / 1 retained**;
+- SRU-04 `[unresolved descriptive cluster]`: **2 / 2 retained**;
+- apparent scan-35 `கொழுப்பேறி`: **not promoted / remains unresolved**;
+- source scene/act numbering invented: **0**;
+- `Rising Sun Kolam`: **internal / preserved**;
+- invented `The End`: **0**;
+- scan 49 advertisement in dramatic English layer: **no**;
+- `secondary_english_witness_used: false`: **7 / 7**;
+- translation-driven Tamil archival changes: **0**.
 
-## Exact next activity — final English closure gate
+A compare from pre-translation checkpoint `382eb99f1f5939b31c2dd64fc7eed9e9eec48e03` to batch-complete checkpoint `218419237bd1ba36a07fcbb6db12a652f1ae565a` confirms the translation phase changed only English/status documentation and English translation artifacts; no Tamil page, scene, source-metadata, page-map, glyph-audit, page-layer, structural-inventory, or Tamil assembly-review file changed.
 
-Create `works/thiruvalar-desiyampillai/translations/en/TRANSLATION_REVIEW.md` and perform a cross-artifact final review of all seven English SRUs plus all four batch reviews.
+## Post-closure rule
 
-Required final checks:
+Do not reopen **திருவாளர் தேசீயம்பிள்ளை** because a copied prompt contains an older active checkpoint.
 
-1. English artifacts present/reviewed: **7 / 7**;
-2. batch reviews PASS / LOCKED: **4 / 4**;
-3. SRU order/boundaries mirror the reviewed Tamil assembly;
-4. source scene/act numbering invented: **0**;
-5. SRU-01 `[paper loss]`: **7 / 7 retained**;
-6. SRU-04 `[unresolved glyph cluster]`: **1 / 1 retained**;
-7. SRU-04 `[unresolved descriptive cluster]`: **2 / 2 retained**;
-8. `Rising Sun Kolam` remains internal in SRU-07;
-9. invented `The End`: **0**;
-10. `secondary_english_witness_used: false` across **7 / 7** artifacts;
-11. Tamil archival changes caused by translation: **0**.
+Reopen only when one of the following is explicitly supplied/authorized:
 
-Only after this separate final gate passes may the independent English first-pass layer be marked **COMPLETE / CLOSED**.
+- new controlling-source evidence capable of resolving a Tamil source hold;
+- a separately authorized secondary-English-witness comparison;
+- another explicitly defined post-closure phase.
 
-# CLOSED WORK SAFEGUARDS
+Otherwise this work remains **COMPLETE / CLOSED**.
+
+# OTHER CLOSED WORK SAFEGUARDS
 
 `காகிதப்பூ` remains fully closed: Tamil 41/41, source-representation scenes 23/23, English 23/23, final reviews PASS. `மணிமகுடம்` and closed `கலைஞரின் நான்மணி மாலை` component works remain closed unless explicitly reopened.
