@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN FOR CLOSURE — 43 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 88 RETAIN OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN FOR CLOSURE — 50 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 81 RETAIN OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -41,7 +41,12 @@ A family may be absent on a page; every page still receives the complete inspect
 - scan 71: `வழியில்லை`;
 - scan 75: `மலையன்`;
 - scan 76: `தலையெழுத்தை`, `வழியிலே`, `மலை`;
-- scan 80: `மாளிகை`.
+- scan 80: `மாளிகை`;
+- scan 83: `மலையனை`, `மலையா`;
+- scan 84: `விடுதலை`;
+- scan 85: `மலையனைத்`;
+- scan 86: `மலை`, `கவலையில்லை`;
+- scan 87: `பிடிப்பதில்லை`, `பெருமையில்லை`.
 
 ### `ணா`
 - scans 3, 5 and 6: `கருணாநிதி`;
@@ -55,12 +60,14 @@ A family may be absent on a page; every page still receives the complete inspect
 - scan 63: `கணையாழி`, `அணையைக்`;
 - scan 70: `துணையை`;
 - scan 71: `பெண்ணை`;
-- scan 75: `பெண்ணை`.
+- scan 75: `பெண்ணை`;
+- scan 83: `கண்ணை`.
 
 ### `ளை`
 - scan 24: `வளையிலேயே`;
 - scan 57: `அவளை`;
-- scan 71: `மனக்கோட்டைகளை`.
+- scan 71: `மனக்கோட்டைகளை`;
+- scan 84: `இவளைப்`.
 
 ### `னை`
 - scan 3: `விற்பனை`, `சென்னை`;
@@ -72,7 +79,12 @@ A family may be absent on a page; every page still receives the complete inspect
 - scan 67: `தண்டனை`;
 - scan 70: `உன்னையல்ல`;
 - scan 75: `என்னைக்`;
-- scan 80: `தண்டனை`.
+- scan 80: `தண்டனை`;
+- scan 81: `தண்டனை`;
+- scan 82: `தண்டனை`, `உன்னை`;
+- scan 83: `மலையனை`, `மனைவியாக்கமாட்டேன்`;
+- scan 84: `மலையனை`;
+- scan 85: `மலையனைத்`.
 
 ### `றா`
 - scan 6: `காரணமாகும்`;
@@ -197,16 +209,33 @@ All ten scans were directly re-inspected from the supplied source. **Four pages 
 
 Open scans 72–74 and 77–79 contribute no new secure reference forms. No global replacement, spelling modernization, OCR expectation, another-edition repair or plot-based completion was used.
 
+## Closure audit — scans 81–90
+
+All ten scans were directly re-inspected from the supplied source. **Seven pages newly close PASS / verified: scans 81–87.**
+
+- scan 81 / p.79: complete scene-21 confrontation, punctuation and action blocks **PASS / verified**; opening speaker label `மலைய:-` is preserved rather than normalized; `தண்டனை` adds secure `னை` evidence;
+- scan 82 / p.80: prior lexical hold resolves as **`பாவம் வறுமையின் கஷ்டம்,`** and the following phrase closes as **`உன் வாழ்க்கையைக் கெடுத்துக் கொண்டாய்.`**; full page **PASS / verified**; `தண்டனை` / `உன்னை` add secure `னை` comparison evidence;
+- scan 83 / p.81: complete wealth/status confrontation and bracketed `மலையன்` entrance **PASS / verified**; `கண்ணை` adds secure `ணை`; `மலையனை` / `மலையா` add secure `னை` / `லை` comparison material;
+- scan 84 / p.82: complete dialogue, violence directions and prison order **PASS / verified**; `விடுதலை`, `இவளைப்`, `மலையனை` add secure `லை` / `ளை` / `னை` evidence;
+- scan 85 / p.83: scene-21 close / `காட்சி 22.` / `இடம்: பொன்னியின் குடிசை.` and full page **PASS / verified**; `மலையனைத்` adds secure `னை` comparison evidence;
+- scan 86 / p.84: complete `மலை` / `குமரி` dialogue **PASS / verified**; colloquial wording, repetitions and ellipses remain source-faithful; `மலை` / `கவலையில்லை` add secure `லை` evidence;
+- scan 87 / p.85: scene-22 close / `காட்சி 23.` / `இடம்:- விபீஷணன் மாளிகை.` and full visible dialogue **PASS / verified**; `பிடிப்பதில்லை` / `பெருமையில்லை` add secure `லை` evidence;
+- scan 88 / p.86: one small stage-action cluster and the page-ending comparison wording remain exact-source holds; whole-page gate stays open;
+- scan 89 / p.87: scan-88 physical continuation and ambush structure are secure, but one dense opening gesture/object stage-direction cluster remains exact-character held; page stays open;
+- scan 90 / p.88: one short insult cluster near the bottom remains exact-character held; page stays open.
+
+Open scans 88–90 contribute no new secure reference forms. No semantic repair, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
+
 ## Current metrics
 
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **80 / 131** (`1–80`);
-- full historical-glyph passes: **43 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80`);
-- visually verified: **43 / 131**;
-- `needs-review`: **88 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `81–131`);
+- closure-audited: **90 / 131** (`1–90`);
+- full historical-glyph passes: **50 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`);
+- visually verified: **50 / 131**;
+- `needs-review`: **81 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–131`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Run the next closure batch over **scans 81–90**. Revisit explicit holds only with stronger source pixels/renderings and close the full 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
+Run the next closure batch over **scans 91–100**. Revisit explicit holds only with stronger source pixels/renderings and close the full 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
