@@ -36,7 +36,12 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 | 28 | 26 | body | `காட்சி 8.` continuation | needs-review | Complete visible dialogue and readable stage directions transcribed; final punctuation/glyph gate open. |
 | 29 | 27 | body | `காட்சி 8.` continuation | needs-review | Conflict/stage structure and dialogue transcribed; `விபீஷணா?` checked as `ணா`; whole-page gate remains open. |
 | 30 | 28 | body | `காட்சி 8.` continuation | needs-review | Visible dialogue transcribed; one parenthetical action direction held; source dialect preserved. |
-| 31–130 | 29–128* | body | dramatic text | not-started | Sequential mapping remains provisional; scan 125 = p.123 and scan 130 = p.128 are visible anchors. |
+| 31 | 29 | body | `காட்சி 8.` continuation | needs-review | Visible dialogue substantially transcribed; extended anti-caste / anti-untouchability argument directly source-supported; final punctuation/glyph gate open. |
+| 32 | 30 | body | `காட்சி 8.` close / `காட்சி 9.` opener | needs-review | `காட்சி 9.` / `இடம்:- விபீஷணன் அறை` secure; small bold/parenthetical forms retained for second pass. |
+| 33 | 31 | body | `காட்சி 9.` continuation | needs-review | Visible dialogue and stage actions substantially transcribed; final punctuation/glyph gate open. |
+| 34 | 32 | body | `காட்சி 9.` continuation | needs-review | Visible dialogue substantially transcribed; colloquial/historical-vowel clusters remain under second pass. |
+| 35 | 33 | body | `காட்சி 9.` continuation | needs-review | Visible dialogue substantially transcribed; dense prose/dialogue and historical-vowel clusters remain under second pass. |
+| 36–130 | 34–128* | body | dramatic text | not-started | Sequential mapping remains provisional; scan 125 = p.123 and scan 130 = p.128 are visible anchors. |
 | 131 | — | back matter | back-cover advertisement | not-started | Publisher book-list advertisement. |
 
 `*` Printed-page policy: arithmetic mapping never makes a page verified. Each numeral must be visually confirmed.
@@ -45,10 +50,10 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 
 - physical scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **30 / 131**;
-- source scans processed: **30 / 131**;
+- page records created: **35 / 131**;
+- source scans processed: **35 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **26 / 131** (`1, 5, 7–30`);
+- `needs-review`: **31 / 131** (`1, 5, 7–35`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - structural/scene inventory: **not started**;
 - scene assembly: **not started**;
@@ -63,8 +68,9 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 - scan 19 / p.17: `காட்சி 5.`;
 - scan 21 / p.19: `காட்சி 6.` — `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.`;
 - scan 24 / p.22: `காட்சி 7.` — `இடம்: இமயாவின் மது மண்டபம்`;
-- scan 27 / p.25: `காட்சி 8.` — `இடம்:- முல்லைக்காட்டுப் பகுதி.`.
+- scan 27 / p.25: `காட்சி 8.` — `இடம்:- முல்லைக்காட்டுப் பகுதி.`;
+- scan 32 / p.30: `காட்சி 9.` — `இடம்:- விபீஷணன் அறை`.
 
 ## Exact next activity
 
-Process **scans 31–35** source-first. Confirm printed numerals directly, preserve source-visible scene/stage/speaker structure, and run the complete 13-family historical-glyph gate on each.
+Process **scans 36–40** source-first. Confirm printed numerals directly, preserve source-visible scene/stage/speaker structure, and run the complete 13-family historical-glyph gate on each.

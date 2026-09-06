@@ -21,7 +21,7 @@ Read before further source-dependent work:
 5. `works/ore-mutham/metadata/source.md`;
 6. `works/ore-mutham/indexes/page-map.md`;
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`;
-8. existing `works/ore-mutham/pages/0001.md`–`0030.md` as relevant;
+8. existing `works/ore-mutham/pages/0001.md`–`0035.md` as relevant;
 9. the supplied controlling PDF.
 
 ## Source identity
@@ -33,15 +33,12 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 - SHA-256: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**;
 - source PDF committed to repository: **no**.
 
-The checksum was computed from the exact supplied bytes.
-
 ## Source-visible anchors
 
 - scan 1: cover `ஒரே முத்தம்`;
 - scan 3: title page / fifth edition;
 - scan 4: fifth edition December 1964, publisher/printer/price;
 - scan 6: complete `முன்னுரை`, Sri Lankan historical-fragment basis, first staging by `தேவி நாடக சபை`;
-- scan 7: cast list;
 - scan 8 / p.6: `காட்சி 1.`;
 - scan 9 / p.7: `காட்சி 2.`;
 - scan 11 / p.9: `காட்சி 3.`;
@@ -49,8 +46,10 @@ The checksum was computed from the exact supplied bytes.
 - scan 19 / p.17: `காட்சி 5.`; exact location held;
 - scan 21 / p.19: `காட்சி 6.` — `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.`;
 - scan 24 / p.22: `காட்சி 7.` — `இடம்: இமயாவின் மது மண்டபம்`;
-- scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
 - scan 27 / p.25: `காட்சி 8.` — `இடம்:- முல்லைக்காட்டுப் பகுதி.`;
+- scan 32 / p.30: `காட்சி 9.` — `இடம்:- விபீஷணன் அறை`;
+- scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
+- scan 31 / p.29: extended source dialogue explicitly condemns caste-based degradation / untouchability;
 - scan 130: printed p.128, final dramatic page;
 - scan 131: back-cover advertisement.
 
@@ -59,7 +58,7 @@ The checksum was computed from the exact supplied bytes.
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic work;
 - scan **131**: back matter;
-- directly confirmed printed numerals through scan 30: **pp.6–28**;
+- directly confirmed printed numerals through scan 35: **pp.6–33**;
 - later mapping remains provisional until direct inspection.
 
 ## Historical Tamil glyph gate
@@ -77,16 +76,16 @@ Permanent rules:
 - no semantic repair;
 - unresolved readings remain explicit `needs-review`.
 
-Secure reference bank remains:
+Secure reference bank remains limited to positively verified pages:
 
 - `லை`: scans 3, 4, 6;
 - `ணா`: scans 3, 6;
 - `னை`: scans 3, 4, 6;
 - `றா`: scan 6.
 
-Open pages 21–30 contain additional candidate family occurrences; none is promoted while its whole-page gate remains open.
+Open pages contain additional candidate family occurrences; none is promoted while its whole-page gate remains open.
 
-## Processed checkpoint — scans 1–30
+## Processed checkpoint — scans 1–35
 
 Verified:
 
@@ -94,36 +93,38 @@ Verified:
 
 Needs-review:
 
-- `0001.md`, `0005.md`, `0007.md`–`0030.md`.
+- `0001.md`, `0005.md`, `0007.md`–`0035.md`.
 
-Batch 26–30 was durably registered with:
+Batch 31–35 was source-processed with:
 
-- printed pp.24–28 directly confirmed;
-- source `காட்சி 8.` / `இடம்:- முல்லைக்காட்டுப் பகுதி.` anchored at scan 27;
-- complete visible dialogue transcribed on scans 26, 28, 29 and 30;
-- explicit stage-direction holds retained on scans 27 and 30 where exact small-type wording remains insecure;
-- scan 29 `விபீஷணா?` and scan 30 `மலைப்பாம்பு` decoded by historical-character identity without promoting open-page examples into the secure bank;
+- printed pp.29–33 directly confirmed;
+- `காட்சி 8.` continuation on scan 31;
+- `காட்சி 9.` / `இடம்:- விபீஷணன் அறை` anchored at scan 32;
+- visible dialogue substantially transcribed on all five scans;
+- scan 31 provides direct anti-caste / anti-untouchability dramatic-text evidence;
+- punctuation, small bold stage directions, colloquial forms and historical-vowel clusters remain under second-pass review where not fully character-secure;
+- no new page was promoted to `verified`;
 - no scene assembly or translation.
 
 ## Current metrics
 
 - source scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **30 / 131**;
-- source scans processed: **30 / 131**;
+- page records created: **35 / 131**;
+- source scans processed: **35 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **26 / 131** (`1, 5, 7–30`);
+- `needs-review`: **31 / 131** (`1, 5, 7–35`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **8**;
+- source-visible scene anchors: **9**;
 - structural/scene inventory: **not started**;
 - Tamil assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Process scans **31–35** source-first:
+Process scans **36–40** source-first:
 
-1. create `pages/0031.md` through `0035.md`;
+1. create `pages/0036.md` through `0040.md`;
 2. directly inspect/transcribe source-visible text without normalization;
 3. confirm each printed page numeral;
 4. preserve exact scene/stage/speaker forms;

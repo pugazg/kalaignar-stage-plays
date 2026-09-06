@@ -17,7 +17,7 @@ Read before any source-dependent change:
 5. `works/ore-mutham/metadata/source.md`
 6. `works/ore-mutham/indexes/page-map.md`
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`
-8. existing page records `works/ore-mutham/pages/0001.md`–`0030.md` as needed
+8. existing page records `works/ore-mutham/pages/0001.md`–`0035.md` as needed
 9. controlling PDF `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 
 ## Source checkpoint
@@ -37,8 +37,10 @@ Source-visible anchors now include:
 - scan 19 / p.17: `காட்சி 5.`; exact location remains held;
 - scan 21 / p.19: `காட்சி 6.` — `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.`;
 - scan 24 / p.22: `காட்சி 7.` — `இடம்: இமயாவின் மது மண்டபம்`;
-- scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
 - scan 27 / p.25: `காட்சி 8.` — `இடம்:- முல்லைக்காட்டுப் பகுதி.`;
+- scan 32 / p.30: `காட்சி 9.` — `இடம்:- விபீஷணன் அறை`;
+- scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
+- scan 31 / p.29: direct anti-caste / anti-untouchability dramatic-text argument;
 - scan 130: printed p.128 / final dramatic page;
 - scan 131: back-cover advertisement.
 
@@ -47,7 +49,7 @@ Source-visible anchors now include:
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic body;
 - scan **131**: back-cover advertisement;
-- directly confirmed printed numerals through scan 30: **pp.6–28**;
+- directly confirmed printed numerals through scan 35: **pp.6–33**;
 - later mapping remains provisional until each numeral is visually confirmed.
 
 ## Mandatory historical-glyph methodology
@@ -67,38 +69,40 @@ Current secure reference bank remains:
 
 Candidate forms on open pages are not promoted until their whole-page gates close.
 
-## Processed checkpoint — scans 1–30
+## Processed checkpoint — scans 1–35
 
 Verified: `2, 3, 4, 6`.
 
-Needs-review: `1, 5, 7–30`.
+Needs-review: `1, 5, 7–35`.
 
 New durable batch:
 
-- scans 26–30 / printed pp.24–28 registered;
-- `காட்சி 8.` / `இடம்:- முல்லைக்காட்டுப் பகுதி.` established at scan 27;
-- complete visible dialogue transcribed on scans 26, 28, 29 and 30;
-- scan 27 and scan 30 retain explicit small stage-direction holds;
-- scan 29 `விபீஷணா?` and scan 30 `மலைப்பாம்பு` were decoded by historical-character identity, while the page-level gates remain open.
+- scans 31–35 / printed pp.29–33 registered;
+- scan 32 closes `காட்சி 8.` and opens `காட்சி 9.` at `விபீஷணன் அறை`;
+- visible dialogue substantially transcribed on all five pages;
+- scan 31 directly contains anti-caste / anti-untouchability dialogue;
+- all five pages retain open punctuation/historical-glyph gates; no open-page candidates were promoted;
+- no structural assembly or English translation started.
 
 ## Current metrics
 
 - physical scans registered: **131 / 131**
 - checksum: **recorded**
-- page records: **30 / 131**
-- source scans processed: **30 / 131**
+- page records: **35 / 131**
+- source scans processed: **35 / 131**
 - visually verified: **4 / 131**
-- `needs-review`: **26 / 131**
+- `needs-review`: **31 / 131**
 - historical-glyph passes: **4 / 131**
+- source-visible scene anchors: **9**
 - structural inventory: **not started**
 - scene assembly: **not started**
 - English translation: **not authorized / not started**
 
 ## Exact next activity
 
-Process **scans 31–35** source-first.
+Process **scans 36–40** source-first.
 
-1. create `pages/0031.md` through `pages/0035.md`;
+1. create `pages/0036.md` through `pages/0040.md`;
 2. inspect direct source pixels / enlarged source as required;
 3. transcribe without normalization;
 4. preserve exact source scene headings, stage directions and speaker labels;

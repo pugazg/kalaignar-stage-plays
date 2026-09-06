@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN — 4 / 131 SCANS PASSED; 26 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN — 4 / 131 SCANS PASSED; 31 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -74,17 +74,27 @@ No positive reference is yet promoted for:
 | 29 | 27 | processed | open | Conflict-stage direction and dialogue transcribed; `விபீஷணா?` is a clear `ணா` occurrence consistent with the secure family, but the page remains open. |
 | 30 | 28 | processed | open | Visible dialogue transcribed; `மலைப்பாம்பு` is a clear `லை` occurrence; one parenthetical action direction remains held. |
 
+## Batch 7 — scans 31–35
+
+| Scan | Printed page | Visual/source processing | 13-family gate | Status / note |
+|---:|---:|---|---|---|
+| 31 | 29 | processed | open | Scene-8 dialogue substantially transcribed; dense anti-caste / anti-untouchability argument source-visible; historical-vowel and punctuation clusters retained for second pass. |
+| 32 | 30 | processed | open | Scene-8 close / `காட்சி 9.` / `இடம்:- விபீஷணன் அறை` secure; small bold/parenthetical forms remain under second pass. |
+| 33 | 31 | processed | open | Scene-9 dialogue and visible stage actions substantially transcribed; punctuation/glyph gate remains open. |
+| 34 | 32 | processed | open | Scene-9 dialogue substantially transcribed; multiple colloquial/historical-vowel clusters remain under second pass. |
+| 35 | 33 | processed | open | Scene-9 dialogue substantially transcribed; dense prose/dialogue and historical-vowel clusters remain under second pass. |
+
 Candidate occurrences from an open page do **not** enter the secure reference bank until the whole-page gate is closed.
 
 ## Current metrics
 
 - physical scans: **131**;
-- source-processed: **30 / 131**;
+- source-processed: **35 / 131**;
 - full historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- processed `needs-review`: **26 / 131** (`1, 5, 7–30`);
+- processed `needs-review`: **31 / 131** (`1, 5, 7–35`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Process scans **31–35** directly from source pixels. Add same-edition reference examples only where both the reading and the page-level verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.
+Process scans **36–40** directly from source pixels. Add same-edition reference examples only where both the reading and the page-level verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.
