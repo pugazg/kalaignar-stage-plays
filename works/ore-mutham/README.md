@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — 131 PHYSICAL SCANS REGISTERED; SOURCE PROCESSING 25 / 131; 4 VERIFIED; 21 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 4 / 131; CHECKSUM RECORDED; STRUCTURE/ASSEMBLY NOT STARTED.**
+**ACTIVE — 131 PHYSICAL SCANS REGISTERED; SOURCE PROCESSING 30 / 131; 4 VERIFIED; 26 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 4 / 131; CHECKSUM RECORDED; STRUCTURE/ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -22,7 +22,7 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
 Catalog context does not substitute for source transcription. Scan 6 independently supports the Sri Lankan historical-fragment basis and first staging by `தேவி நாடக சபை`.
 
-The source-processed dramatic body now directly supplies caste-division evidence: scan 25 / p.23 prints `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.` This is recorded as source evidence; broader thematic interpretation remains separate from transcription.
+The source-processed dramatic body directly supplies caste-division evidence at scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.` This is recorded as source evidence; broader thematic interpretation remains separate from transcription.
 
 ## Source-visible identification / structure
 
@@ -38,6 +38,7 @@ The source-processed dramatic body now directly supplies caste-division evidence
 - scan 19 / p.17: `காட்சி 5.` transition; exact location still held;
 - scan 21 / p.19: `காட்சி 6.` — `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.`;
 - scan 24 / p.22: `காட்சி 7.` — `இடம்: இமயாவின் மது மண்டபம்`;
+- scan 27 / p.25: `காட்சி 8.` — `இடம்:- முல்லைக்காட்டுப் பகுதி.`;
 - scan 130: printed p.128, final dramatic page;
 - scan 131: back-cover publisher advertisement.
 
@@ -46,10 +47,10 @@ The source-processed dramatic body now directly supplies caste-division evidence
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic work;
 - scan **131**: back-cover advertisement;
-- printed numerals directly confirmed through scan 25: **pp.6–23**;
+- printed numerals directly confirmed through scan 30: **pp.6–28**;
 - later mapping remains provisional until directly checked.
 
-## Processed pages — scans 1–25
+## Processed pages — scans 1–30
 
 Verified:
 
@@ -57,15 +58,15 @@ Verified:
 
 Needs-review:
 
-- `0001.md`, `0005.md`, `0007.md`–`0025.md`.
+- `0001.md`, `0005.md`, `0007.md`–`0030.md`.
 
-New batch notes:
+Batch 26–30 notes:
 
-- scans 21–25 directly confirm pp.19–23;
-- scan 21 opens `காட்சி 6.`;
-- scan 24 opens `காட்சி 7.`;
-- scans 21–25 received enlarged source review and conservative page records;
-- held clusters remain explicit rather than repaired from context.
+- scans 26–30 directly confirm pp.24–28;
+- scan 27 opens `காட்சி 8.` at `முல்லைக்காட்டுப் பகுதி.`;
+- scans 26, 28, 29 and 30 have their visible dialogue substantially source-transcribed;
+- scan 27 and scan 30 retain explicit stage-direction holds rather than inferred wording;
+- scan 29 `விபீஷணா?` and scan 30 `மலைப்பாம்பு` were decoded by historical-character identity, but open-page candidates are not promoted to the secure glyph bank.
 
 ## Historical-glyph policy
 
@@ -80,24 +81,24 @@ Current positively verified reference bank remains:
 - `னை` — scans 3–4 `விற்பனை / சென்னை`, scan 6 `சென்னை`;
 - `றா` — scan 6 `காரணமாகும்`.
 
-Scans 21–25 contain useful candidate forms (`னொ`, `னா`, `ணை`, `ளை`) but they are not promoted to the secure bank while those page gates remain open.
+No global replacement, spelling modernization, semantic repair or plot-based completion is allowed.
 
 ## Current progress
 
 - source scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **25 / 131**;
-- source scans processed: **25 / 131**;
+- page records created: **30 / 131**;
+- source scans processed: **30 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **21 / 131** (`1, 5, 7–25`);
+- `needs-review`: **26 / 131** (`1, 5, 7–30`);
 - historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **7** (`காட்சி 1.`–`காட்சி 7.`);
+- source-visible scene anchors: **8** (`காட்சி 1.`–`காட்சி 8.`);
 - structural/scene inventory: **not started**;
 - Tamil source-representation assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Process **scans 26–30** source-first. Directly confirm printed numerals, preserve source scene/stage/speaker forms, and run the complete 13-family historical-glyph gate. Keep all existing holds open unless stronger source pixels genuinely resolve them.
+Process **scans 31–35** source-first. Directly confirm printed numerals, preserve source scene/stage/speaker forms, and run the complete 13-family historical-glyph gate. Keep all existing holds open unless stronger source pixels genuinely resolve them.
 
 Do not begin scene assembly or English translation during the page-source pass.
