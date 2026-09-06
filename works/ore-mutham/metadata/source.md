@@ -43,6 +43,8 @@ The checksum was computed directly from the exact supplied file bytes. All sourc
 - scan 75 / p.73: **`காட்சி 20.`**, **`இடம்:- மலையன் வீடு.`**;
 - scan 80 / p.78: **`காட்சி 21.`**, **`இடம்:- விபீஷணன் மாளிகை.`**;
 - scan 85 / p.83: **`காட்சி 22.`**, **`இடம்: பொன்னியின் குடிசை.`**;
+- scan 87 / p.85: **`காட்சி 23.`**, **`இடம்:- விபீஷணன் மாளிகை.`**;
+- scan 94 / p.92: **`காட்சி 24.`**, **`இடம்:- தெருவில்.`**;
 - scan 25 / p.23: dialogue explicitly prints **`மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`**;
 - scan 31 / p.29: source dialogue directly condemns caste-based degradation / untouchability;
 - scan 75 / p.73: source directly prints the discriminatory legal claim **`ஒரு இழிகுலப் பெண்ணை மேல் ஜாதி ஆடவர்கள் நேசிப்பது குற்றம்`** within dramatic dialogue;
@@ -63,17 +65,17 @@ The source-processed dramatic body directly supports an anti-caste theme: scan 2
 Raw physical scan numbers control archival provenance.
 
 - scans **1–7** are front matter;
-- scans **8–85** directly confirm printed pp.**6–83**;
+- scans **8–95** directly confirm printed pp.**6–93**;
 - scans **8–130** contain the dramatic work;
 - scan **125** visibly carries printed page **123**;
 - scan **130** visibly carries printed page **128** and is the final dramatic page;
 - scan **131** is a back-cover publisher advertisement / book list.
 
-The sequential mapping scans 86–130 remains provisional until each printed numeral is directly checked.
+The sequential mapping scans 96–130 remains provisional until each printed numeral is directly checked.
 
 ## Structural intake observations
 
-Direct scene anchors currently established: `காட்சி 1.` through `காட்சி 22.`. The exact scene-4 and scene-5 location lines remain under enlarged review. A definitive full scene inventory remains deferred until the page-source pass is complete.
+Direct scene anchors currently established: `காட்சி 1.` through `காட்சி 24.`. The exact scene-4 and scene-5 location lines remain under enlarged review. A definitive full scene inventory remains deferred until the page-source pass is complete.
 
 ## Scan condition / anomalies
 
@@ -81,7 +83,7 @@ Direct scene anchors currently established: `காட்சி 1.` through `க
 - aged paper, bleed-through and uneven type are visible;
 - historical Tamil glyph shapes are present;
 - donor/library/handwritten marks must remain separate from literary text;
-- scans 21–85 were inspected at enlarged resolution as required;
+- scans 21–95 were inspected at enlarged resolution as required;
 - scan 39→40 contains a physical cross-page sentence boundary;
 - scans 43–48 retain explicit lexical/stage-direction holds from earlier batches;
 - scans 49–51 preserve `விபீஷணன் குரலும் நிழலும்` voice/vision material;
@@ -99,6 +101,11 @@ Direct scene anchors currently established: `காட்சி 1.` through `க
 - scan 78 retains one early lexical cluster;
 - scan 79→80 contains a physical cross-page continuation of `குமரி`'s speech;
 - scan 82 retains one short phrase around `வறுமையின் கஷ்டம்` as an explicit hold;
+- scan 88 retains one small stage-action cluster and one page-ending comparison clause for second pass;
+- scan 89 retains one dense opening stage-direction cluster;
+- scan 90 retains one short insult cluster;
+- scan 93→94 carries the forced-letter courier instruction across the page boundary;
+- scan 94→95 physically continues `குமரி`'s scene-24 internal monologue;
 - back cover is an advertisement, not dramatic text.
 
 ## Verification authority
@@ -122,12 +129,13 @@ Open scans provide additional comparison material but are not promoted while the
 
 - source registration: **131 / 131 scans**;
 - source checksum: **recorded**;
-- page records created: **85 / 131** (`0001.md`–`0085.md`);
-- source scans processed: **85 / 131**;
+- page records created: **95 / 131** (`0001.md`–`0095.md`);
+- source scans processed: **95 / 131**;
+- directly confirmed printed body pages: **pp.6–93** through scan 95;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **81 / 131** (`1, 5, 7–85`);
+- `needs-review`: **91 / 131** (`1, 5, 7–95`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **22**;
+- source-visible scene anchors: **24**;
 - structural inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
@@ -138,4 +146,4 @@ The user has directed the remaining source pass to proceed in **10-scan iteratio
 
 ## Exact next source activity
 
-Continue with **scans 86–95** source-first while preserving all existing holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly, and run the complete 13-family historical-glyph gate on every scan.
+Continue with **scans 96–105** source-first while preserving all existing holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly, and run the complete 13-family historical-glyph gate on every scan.
