@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; CLOSURE AUDIT COMPLETE FOR SCANS 1–40; 26 VERIFIED; 105 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 26 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
+**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; CLOSURE AUDIT COMPLETE FOR SCANS 1–50; 26 VERIFIED; 105 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 26 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -30,23 +30,16 @@ Scan 6 independently supports the Sri Lankan historical-fragment basis and first
 
 Do not renumber the supplementary scenes as main-play scenes 31–33.
 
-## Closure audit checkpoint — scans 1–40
+## Closure audit checkpoint — scans 1–50
 
 - scan 1 remains `needs-review`: title secure; small stylized cover lettering / tiny artist mark unresolved;
 - scans **2–20** are verified;
-- new verified pages from scans 21–30: **22, 24, 25, 26**;
-- scan 21 resolves `துவங்குகிறான்` but retains an opening stage-direction hold;
-- scan 23 retains an unresolved opening lexical item rather than restoring provisional `ஏமைகள்`;
-- scan 24 resolves `(2-வது காவியைக் காட்டி)` and supplies secure `ளை` witness `வளையிலேயே`;
-- scan 26 closes source punctuation as `கனவு! கனவு!`;
-- scans 27–30 retain explicit exact-word holds.
-- scans 31–40 are now closure-audited; newly verified pages are **33, 37 and 40**.
-- scan 31 retains dense character/spacing holds in the long anti-caste dialogue; its thematic evidence remains source-secure.
-- scan 32 retains one small scene-close stage/lexical hold.
-- scans 34–36 retain colloquial/dense/stage-direction holds.
-- scan 37 closes `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்` and supplies secure `ணை` witness `கணையாழி`.
-- scans 38–39 retain character-level holds; scan 39→40 physical continuation remains explicit.
-- scan 40 closes PASS while preserving source form `நாசகாலர்கள்`.
+- verified pages added in scans 21–30: **22, 24, 25, 26**;
+- verified pages added in scans 31–40: **33, 37, 40**;
+- **no page in scans 41–50 is newly promoted**: all ten retain at least one character-level, punctuation, stage-direction, or dense historical-type hold;
+- scan 49 has one durable source correction: `மலரைச் சாப்பாற்றினாய்` → **`மலரைக் காப்பாற்றினாய்`**;
+- scan 46 securely preserves `காட்சி 12.` / `இடம்: ஆற்றோரம்` while its whole-page gate remains open;
+- scan 50 securely preserves the `வெளியில்` / `உள்ளே` alternation and voice/vision line-breaking while its whole-page gate remains open.
 
 Earlier source corrections remain authoritative:
 
@@ -82,7 +75,7 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **40 / 131** (`1–40`);
+- closure-audited: **50 / 131** (`1–50`);
 - visually verified: **26 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`);
 - `needs-review`: **105 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`);
 - historical-glyph passes: **26 / 131**;
@@ -94,4 +87,4 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 ## Exact next activity
 
-Run the next **source-pass closure batch over scans 41–50**. Resolve only from stronger source pixels/enlargements and run the complete 13-family historical-glyph gate on each scan. Do not begin scene assembly or English translation.
+Run the next **source-pass closure batch over scans 51–60**. Resolve only from stronger source pixels/enlargements and run the complete 13-family historical-glyph gate on each scan. Do not begin scene assembly or English translation.
