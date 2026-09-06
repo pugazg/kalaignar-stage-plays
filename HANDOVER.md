@@ -21,7 +21,7 @@ Read before further source-dependent work:
 5. `works/ore-mutham/metadata/source.md`;
 6. `works/ore-mutham/indexes/page-map.md`;
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`;
-8. existing `works/ore-mutham/pages/0001.md`–`0025.md` as relevant;
+8. existing `works/ore-mutham/pages/0001.md`–`0030.md` as relevant;
 9. the supplied controlling PDF.
 
 ## Source identity
@@ -49,7 +49,8 @@ The checksum was computed from the exact supplied bytes.
 - scan 19 / p.17: `காட்சி 5.`; exact location held;
 - scan 21 / p.19: `காட்சி 6.` — `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.`;
 - scan 24 / p.22: `காட்சி 7.` — `இடம்: இமயாவின் மது மண்டபம்`;
-- scan 25 / p.23: source dialogue includes `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
+- scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
+- scan 27 / p.25: `காட்சி 8.` — `இடம்:- முல்லைக்காட்டுப் பகுதி.`;
 - scan 130: printed p.128, final dramatic page;
 - scan 131: back-cover advertisement.
 
@@ -58,7 +59,7 @@ The checksum was computed from the exact supplied bytes.
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic work;
 - scan **131**: back matter;
-- directly confirmed printed numerals through scan 25: **pp.6–23**;
+- directly confirmed printed numerals through scan 30: **pp.6–28**;
 - later mapping remains provisional until direct inspection.
 
 ## Historical Tamil glyph gate
@@ -83,9 +84,9 @@ Secure reference bank remains:
 - `னை`: scans 3, 4, 6;
 - `றா`: scan 6.
 
-Scans 21–25 contain candidate `னொ / னா / ணை / ளை` occurrences, but no candidate is promoted while its page gate remains open.
+Open pages 21–30 contain additional candidate family occurrences; none is promoted while its whole-page gate remains open.
 
-## Processed checkpoint — scans 1–25
+## Processed checkpoint — scans 1–30
 
 Verified:
 
@@ -93,35 +94,36 @@ Verified:
 
 Needs-review:
 
-- `0001.md`, `0005.md`, `0007.md`–`0025.md`.
+- `0001.md`, `0005.md`, `0007.md`–`0030.md`.
 
-Batch 21–25 was durably registered with:
+Batch 26–30 was durably registered with:
 
-- printed pp.19–23 directly confirmed;
-- source `காட்சி 6.` and `காட்சி 7.` anchors;
-- enlarged source review;
-- conservative unresolved markers where exact source characters remain insecure;
+- printed pp.24–28 directly confirmed;
+- source `காட்சி 8.` / `இடம்:- முல்லைக்காட்டுப் பகுதி.` anchored at scan 27;
+- complete visible dialogue transcribed on scans 26, 28, 29 and 30;
+- explicit stage-direction holds retained on scans 27 and 30 where exact small-type wording remains insecure;
+- scan 29 `விபீஷணா?` and scan 30 `மலைப்பாம்பு` decoded by historical-character identity without promoting open-page examples into the secure bank;
 - no scene assembly or translation.
 
 ## Current metrics
 
 - source scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **25 / 131**;
-- source scans processed: **25 / 131**;
+- page records created: **30 / 131**;
+- source scans processed: **30 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **21 / 131** (`1, 5, 7–25`);
+- `needs-review`: **26 / 131** (`1, 5, 7–30`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **7**;
+- source-visible scene anchors: **8**;
 - structural/scene inventory: **not started**;
 - Tamil assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Process scans **26–30** source-first:
+Process scans **31–35** source-first:
 
-1. create `pages/0026.md` through `0030.md`;
+1. create `pages/0031.md` through `0035.md`;
 2. directly inspect/transcribe source-visible text without normalization;
 3. confirm each printed page numeral;
 4. preserve exact scene/stage/speaker forms;
