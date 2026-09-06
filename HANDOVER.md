@@ -43,13 +43,13 @@ Publication structure:
 - supplementary **`நகைச் சுவைப் பகுதி.`**: scans **119–130 / pp.117–128**, with its own **3-scene numbering**;
 - do not silently renumber those supplementary scenes as main-play scenes 31–33.
 
-## Closure-audit checkpoint — scans 1–30 complete
+## Closure-audit checkpoint — scans 1–40 complete
 
 ### Verified
 
-Scans **2–20, 22, 24–26** are verified and have closed full 13-family historical-glyph gates: **23 / 131** total.
+Scans **2–20, 22, 24–26, 33, 37, 40** are verified and have closed full 13-family historical-glyph gates: **26 / 131** total.
 
-### Still open within scans 1–30
+### Still open within scans 1–40
 
 - scan 1: small stylized cover lettering / tiny artist mark;
 - scan 21: opening bold stage direction; its second-stage-direction hold is now resolved as `துவங்குகிறான்`;
@@ -57,14 +57,21 @@ Scans **2–20, 22, 24–26** are verified and have closed full 13-family histor
 - scan 27: several small bold stage directions;
 - scan 28: one `1-வது கா` dialogue phrase;
 - scan 29: one `புத்த` lexical clause;
-- scan 30: one small parenthetical action direction.
+- scan 30: one small parenthetical action direction;
+- scan 31: dense character/spacing clusters in the long anti-caste dialogue;
+- scan 32: one small scene-close stage/lexical cluster;
+- scans 34–36: colloquial/dense/stage-direction clusters;
+- scans 38–39: unusual/dense character-level forms; scan 39→40 boundary remains explicit.
 
-### Important new closures in scans 21–30
+### Important new closures through scans 31–40
 
 - scan 22 / p.20: `புயலைப்போல` directly resolved — PASS;
 - scan 24 / p.22: `(2-வது காவியைக் காட்டி)` directly resolved — PASS; supplies secure `ணை` witness `கண்ணை` and first secure `ளை` witness `வளையிலேயே`;
 - scan 25 / p.23: complete dialogue/glyph gate PASS; caste-division governing tactic remains direct dramatic evidence;
-- scan 26 / p.24: complete dialogue/glyph gate PASS; source punctuation is `கனவு! கனவு!`.
+- scan 26 / p.24: complete dialogue/glyph gate PASS; source punctuation is `கனவு! கனவு!`;
+- scan 33 / p.31: complete scene-9 page PASS;
+- scan 37 / p.35: scene-9 close / `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்` PASS; secure `ணை` witness `கணையாழி`;
+- scan 40 / p.38: complete page PASS; source form `நாசகாலர்கள்` retained without normalization.
 
 Earlier source corrections remain authoritative:
 
@@ -74,9 +81,9 @@ Earlier source corrections remain authoritative:
 
 ## Current secure historical-glyph bank
 
-- `லை`: scans 3, 4, 5, 6;
+- `லை`: scans 3, 4, 5, 6, 37, 40;
 - `ணா`: scans 3, 5, 6;
-- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`;
+- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`;
 - `ளை`: scan 24 `வளையிலேயே`;
 - `னை`: scans 3, 4, 6;
 - `றா`: scan 6.
@@ -86,21 +93,21 @@ No open page may contribute new reference forms until its complete visual + 13-f
 ## Current metrics
 
 - source scans registered/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **30 / 131** (`1–30`);
-- visually verified: **23 / 131** (`2–20`, `22`, `24–26`);
-- `needs-review`: **108 / 131** (`1`, `21`, `23`, `27–131`);
-- completed historical-glyph passes: **23 / 131**;
+- closure-audited: **40 / 131** (`1–40`);
+- visually verified: **26 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`);
+- `needs-review`: **105 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`);
+- completed historical-glyph passes: **26 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary source-visible scenes: **3**;
 - formal structural/scene inventory: **not started**;
 - Tamil scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-## Exact next activity — closure scans 31–40
+## Exact next activity — closure scans 41–50
 
 Do **not** begin scene assembly or English translation.
 
-Review scans **31–40** source-first with enlarged pixels as needed:
+Review scans **41–50** source-first with enlarged pixels as needed:
 
 1. revisit every `needs-review` / `source-held` item on those scans;
 2. preserve exact source wording, punctuation, speaker labels, stage directions and physical page boundaries;
