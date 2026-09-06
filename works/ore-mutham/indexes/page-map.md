@@ -60,8 +60,13 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 | 52 | 50 | body | `காட்சி 13.` close / `காட்சி 14.` opener | needs-review | `காட்சி 14.` / `இடம்: புத்தன் முகாம்` secure; comic/song and dawn-stage parentheticals retain exact-word holds. |
 | 53 | 51 | body | `காட்சி 14.` close / `காட்சி 15.` opener | needs-review | `காட்சி 15.` / `இடம்: விபீஷணன் மண்டபம்.` secure; visible dialogue substantially transcribed. |
 | 54 | 52 | body | `காட்சி 15.` continuation | needs-review | Question-and-answer dialogue substantially transcribed; final punctuation/glyph gate open. |
-| 55 | 53 | body | `காட்சி 15.` continuation | needs-review | Political/moral argument substantially transcribed; final sentence physically continues onto scan 56. |
-| 56–130 | 54–128* | body | dramatic text | not-started | Sequential mapping remains provisional; scan 125 = p.123 and scan 130 = p.128 are visible anchors. |
+| 55 | 53 | body | `காட்சி 15.` continuation | needs-review | Political/moral argument substantially transcribed; physical continuation into scan 56 now directly resolved. |
+| 56 | 54 | body | `காட்சி 15.` continuation | needs-review | Completes scan-55 sentence; `இமயா பராக்` transition and new `இமய` / `விபீஷ` dialogue transcribed. |
+| 57 | 55 | body | `காட்சி 15.` continuation | needs-review | `புத்த` enters with வீரர்கள்/குமரி; invitation-to-arrest setup and visible stage directions transcribed. |
+| 58 | 56 | body | `காட்சி 15.` continuation | needs-review | Arrest/accusation dialogue transcribed; dense political/historical-vowel gate remains open. |
+| 59 | 57 | body | `காட்சி 15.` close / `காட்சி 16.` opener | needs-review | Removal of `விபீஷ`/`இமய`; `காட்சி 16.` / `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.` secure. |
+| 60 | 58 | body | `காட்சி 16.` continuation | needs-review | `பொன்னி`/`புத்த` encounter transcribed; one small opening parenthetical lexical cluster retained as a source hold. |
+| 61–130 | 59–128* | body | dramatic text | not-started | Sequential mapping remains provisional; scan 125 = p.123 and scan 130 = p.128 are visible anchors. |
 | 131 | — | back matter | back-cover advertisement | not-started | Publisher book-list advertisement. |
 
 `*` Printed-page policy: arithmetic mapping never makes a page verified. Each numeral must be visually confirmed.
@@ -70,10 +75,10 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 
 - physical scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **55 / 131**;
-- source scans processed: **55 / 131**;
+- page records created: **60 / 131**;
+- source scans processed: **60 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **51 / 131** (`1, 5, 7–55`);
+- `needs-review`: **56 / 131** (`1, 5, 7–60`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - structural/scene inventory: **not started**;
 - scene assembly: **not started**;
@@ -95,8 +100,9 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 - scan 46 / p.44: `காட்சி 12.` — `இடம்: ஆற்றோரம்`;
 - scan 51 / p.49: `காட்சி 13.` — `இடம்: தெருவில்.`;
 - scan 52 / p.50: `காட்சி 14.` — `இடம்: புத்தன் முகாம்`;
-- scan 53 / p.51: `காட்சி 15.` — `இடம்: விபீஷணன் மண்டபம்.`.
+- scan 53 / p.51: `காட்சி 15.` — `இடம்: விபீஷணன் மண்டபம்.`;
+- scan 59 / p.57: `காட்சி 16.` — `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`.
 
 ## Exact next activity
 
-Process **scans 56–60** source-first. Confirm printed numerals directly, preserve source-visible scene/stage/speaker structure, and run the complete 13-family historical-glyph gate on each.
+Process **scans 61–65** source-first. Confirm printed numerals directly, preserve source-visible scene/stage/speaker structure, and run the complete 13-family historical-glyph gate on each.
