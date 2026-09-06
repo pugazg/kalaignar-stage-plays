@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; CLOSURE AUDIT COMPLETE FOR SCANS 1–80; 43 VERIFIED; 88 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 43 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
+**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; CLOSURE AUDIT COMPLETE FOR SCANS 1–90; 50 VERIFIED; 81 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 50 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -30,7 +30,7 @@ Scan 6 independently supports the Sri Lankan historical-fragment basis and first
 
 Do not renumber the supplementary scenes as main-play scenes 31–33.
 
-## Closure audit checkpoint — scans 1–80
+## Closure audit checkpoint — scans 1–90
 
 - scan 1 remains `needs-review`: title secure; small stylized cover lettering / tiny artist mark unresolved;
 - scans **2–20** are verified;
@@ -41,8 +41,20 @@ Do not renumber the supplementary scenes as main-play scenes 31–33.
 - scans **51, 52 and 60** remain `needs-review` because explicit bold-parenthetical lexical holds remain;
 - scans **62–64, 67–68 and 70** are verified from the scans 61–70 batch;
 - scans **61, 65, 66 and 69** remain `needs-review` with explicit exact-source holds;
-- scans **71, 75, 76 and 80** are newly **verified** from the scans 71–80 batch;
+- scans **71, 75, 76 and 80** are verified from the scans 71–80 batch;
 - scans **72–74 and 77–79** remain `needs-review` after direct closure review;
+- scans **81–87** are newly **verified** from the scans 81–90 batch;
+- scans **88–90** remain `needs-review` with explicit exact-source holds after direct closure review;
+- scan 81 closes the complete scene-21 confrontation while preserving opening speaker label `மலைய:-`; `தண்டனை` supplies secure `னை` evidence;
+- scan 82 resolves the prior held phrase as **`பாவம் வறுமையின் கஷ்டம்,`** and corrects the following source form to **`உன் வாழ்க்கையைக் கெடுத்துக் கொண்டாய்.`**; full page verified;
+- scan 83 verifies the wealth/status confrontation and bracketed `மலையன்` entrance; `கண்ணை` supplies secure `ணை` evidence;
+- scan 84 verifies the complete violence/prison-order page; `விடுதலை`, `இவளைப்`, and `மலையனை` supply secure `லை` / `ளை` / `னை` comparison material;
+- scan 85 verifies the `காட்சி 21.` close / `காட்சி 22.` opener at `இடம்: பொன்னியின் குடிசை.`;
+- scan 86 closes the full `மலை` / `குமரி` dialogue with colloquial wording and ellipses preserved;
+- scan 87 verifies the `காட்சி 22.` close / `காட்சி 23.` opener at `இடம்:- விபீஷணன் மாளிகை.`;
+- scan 88 retains one small stage-action cluster and the page-ending comparison wording as source holds;
+- scan 89 securely closes the scan-88 physical continuation and ambush structure, but one dense opening stage-direction gesture/object cluster remains held;
+- scan 90 retains one short exact insult cluster near the bottom; no semantic or plot-based completion is used;
 - scan 71 closes the full `குமரி` / `புத்த` dialogue and supplies secure `ணை` (`பெண்ணை`), `ளை` (`மனக்கோட்டைகளை`) and `லை` (`வழியில்லை`) witnesses;
 - scan 72 securely preserves `காட்சி 19.` / `இடம்:- வசந்த மண்டபம்.`, but one dense lexical/place-name cluster in the long opening `விபீஷ` speech remains exact-character held;
 - scan 73 retains two dense bold stage directions and colloquial historical-type holds;
@@ -85,11 +97,11 @@ Mandatory family set:
 
 Current secure reference bank includes:
 
-- `லை` — scans 3, 4, 5, 6, 37, 40, 56, 58, 62–64, 67–68, 71, 75–76, 80;
+- `லை` — scans 3, 4, 5, 6, 37, 40, 56, 58, 62–64, 67–68, 71, 75–76, 80, 83–87;
 - `ணா` — scans 3, 5, 6; scan 63 `கண்ணா`;
-- `ணை` — scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`, scan 59 `விசாரணைமண்டபத்தில்`, scan 63 `கணையாழி` / `அணையைக்`, scan 70 `துணையை`, scan 71 `பெண்ணை`, scan 75 `பெண்ணை`;
-- `ளை` — scan 24 `வளையிலேயே`, scan 57 `அவளை`, scan 71 `மனக்கோட்டைகளை`;
-- `னை` — scans 3, 4, 6; scan 53 `மனைவி`; scan 54 `அவனைச்`; scan 62 `என்னைப்`; scan 67 `தண்டனை`; scan 70 `உன்னையல்ல`; scan 75 `என்னைக்`; scan 80 `தண்டனை`;
+- `ணை` — scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`, scan 59 `விசாரணைமண்டபத்தில்`, scan 63 `கணையாழி` / `அணையைக்`, scan 70 `துணையை`, scan 71 `பெண்ணை`, scan 75 `பெண்ணை`, scan 83 `கண்ணை`;
+- `ளை` — scan 24 `வளையிலேயே`, scan 57 `அவளை`, scan 71 `மனக்கோட்டைகளை`, scan 84 `இவளைப்`;
+- `னை` — scans 3, 4, 6; scan 53 `மனைவி`; scan 54 `அவனைச்`; scan 62 `என்னைப்`; scan 67 `தண்டனை`; scan 70 `உன்னையல்ல`; scan 75 `என்னைக்`; scan 80 `தண்டனை`; scans 81–82 `தண்டனை`; scan 83 `மலையனை` / `மனைவியாக்கமாட்டேன்`; scans 84–85 `மலையனை` / `மலையனைத்`;
 - `றா` — scan 6 `காரணமாகும்`, scan 55 `தோற்றால்`, scan 56 `தொலைக்கிறாள்`, scan 57 `தருகிறாள்` / `உபசரிக்கிறாள்`;
 - `னொ` — scan 56 `இன்னொன்று` — first secure positive same-edition witness.
 
@@ -99,10 +111,10 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **80 / 131** (`1–80`);
-- visually verified: **43 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80`);
-- `needs-review`: **88 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `81–131`);
-- historical-glyph passes: **43 / 131**;
+- closure-audited: **90 / 131** (`1–90`);
+- visually verified: **50 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`);
+- `needs-review`: **81 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–131`);
+- historical-glyph passes: **50 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - formal structural inventory: **not started**;
@@ -111,4 +123,4 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 ## Exact next activity
 
-Run the next **source-pass closure batch over scans 81–90**. Resolve only from stronger source pixels/renderings and run the complete 13-family historical-glyph gate on each scan. Do not begin scene assembly or English translation.
+Run the next **source-pass closure batch over scans 91–100**. Resolve only from stronger source pixels/renderings and run the complete 13-family historical-glyph gate on each scan. Do not begin scene assembly or English translation.
