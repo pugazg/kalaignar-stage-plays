@@ -36,6 +36,7 @@ The checksum was computed directly from the exact supplied file bytes. All sourc
 - scan 51 / p.49: **`காட்சி 13.`**, **`இடம்: தெருவில்.`**;
 - scan 52 / p.50: **`காட்சி 14.`**, **`இடம்: புத்தன் முகாம்`**;
 - scan 53 / p.51: **`காட்சி 15.`**, **`இடம்: விபீஷணன் மண்டபம்.`**;
+- scan 59 / p.57: **`காட்சி 16.`**, **`இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`**;
 - scan 25 / p.23: dialogue explicitly prints **`மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`**;
 - scan 31 / p.29: source dialogue directly condemns caste-based degradation / untouchability;
 - scan 130: printed p.128, final dramatic page;
@@ -55,17 +56,17 @@ The source-processed dramatic body directly supports an anti-caste theme: scan 2
 Raw physical scan numbers control archival provenance.
 
 - scans **1–7** are front matter;
-- scans **8–55** directly confirm printed pp.**6–53**;
+- scans **8–60** directly confirm printed pp.**6–58**;
 - scans **8–130** contain the dramatic work;
 - scan **125** visibly carries printed page **123**;
 - scan **130** visibly carries printed page **128** and is the final dramatic page;
 - scan **131** is a back-cover publisher advertisement / book list.
 
-The sequential mapping scans 56–130 remains provisional until each printed numeral is directly checked.
+The sequential mapping scans 61–130 remains provisional until each printed numeral is directly checked.
 
 ## Structural intake observations
 
-Direct scene anchors currently established: `காட்சி 1.` through `காட்சி 15.`. The exact scene-4 and scene-5 location lines remain under enlarged review. A definitive full scene inventory remains deferred until the page-source pass is complete.
+Direct scene anchors currently established: `காட்சி 1.` through `காட்சி 16.`. The exact scene-4 and scene-5 location lines remain under enlarged review. A definitive full scene inventory remains deferred until the page-source pass is complete.
 
 ## Scan condition / anomalies
 
@@ -73,13 +74,14 @@ Direct scene anchors currently established: `காட்சி 1.` through `க
 - aged paper, bleed-through and uneven type are visible;
 - historical Tamil glyph shapes are present;
 - donor/library/handwritten marks must remain separate from literary text;
-- scans 21–55 were inspected at enlarged resolution;
+- scans 21–60 were inspected at enlarged resolution;
 - scan 39→40 contains a physical cross-page sentence boundary;
 - scans 43–48 retain explicit lexical/stage-direction holds from earlier batches;
 - scans 49–51 preserve `விபீஷணன் குரலும் நிழலும்` voice/vision material;
 - scan 51 retains one long pre-scene parenthetical partly held;
 - scan 52 retains dense comic/song and dawn-stage parenthetical holds;
-- scan 55 ends in a physically incomplete `விபீஷ` sentence that continues onto scan 56;
+- scan 55→56 sentence boundary is now directly resolved from scan 56 pixels;
+- scan 60 retains one small opening parenthetical lexical cluster as an explicit hold;
 - back cover is an advertisement, not dramatic text.
 
 ## Verification authority
@@ -103,16 +105,16 @@ Open scans provide additional comparison material but are not promoted while the
 
 - source registration: **131 / 131 scans**;
 - source checksum: **recorded**;
-- page records created: **55 / 131** (`0001.md`–`0055.md`);
-- source scans processed: **55 / 131**;
+- page records created: **60 / 131** (`0001.md`–`0060.md`);
+- source scans processed: **60 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **51 / 131** (`1, 5, 7–55`);
+- `needs-review`: **56 / 131** (`1, 5, 7–60`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **15**;
+- source-visible scene anchors: **16**;
 - structural inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next source activity
 
-Continue with **scans 56–60** source-first while preserving the existing holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly.
+Continue with **scans 61–65** source-first while preserving the existing holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly.
