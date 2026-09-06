@@ -5,10 +5,12 @@ editorial_label: "Front yard, Kamala, Udayasuriyan kolam, close"
 work: "thiruvalar-desiyampillai"
 source_sru: "../../scenes/sru-07-udayasuriyan-kolam-close.md"
 source_scan_pages: [47, 48]
-status: "translation-draft"
-translation_review: "pending"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
+internal_intertitle_preserved: true
+invented_end_marker: false
 ---
 
 Desiyampillai comes out to the front entrance. He calls the driver and tells him to bring the car around quickly. The car comes and stops. His daughter is drawing a kolam in the street.
@@ -33,7 +35,7 @@ Kamala stands looking at the kolam. Her mother comes outside. The daughter tells
 
 ## Translation notes
 
-- Drafted only from the reviewed Tamil SRU; no OCR/PDF substitute, later edition, web text, general-knowledge reconstruction, or secondary English witness was used.
+- Drafted and reviewed only against the complete reviewed Tamil SRU; no OCR/PDF substitute, later edition, web text, general-knowledge reconstruction, or secondary English witness was used.
 - `kolam` is retained as the source cultural term instead of being flattened to a generic “drawing” or “decoration.”
 - The source-visible centered `உதயசூரியன் கோலம்` remains an internal standalone intertitle and is rendered as `Rising Sun Kolam`; it is not promoted to a source scene title.
 - Source-form variation between `தேசீயம்பிள்ளை` and `தேசீயம் பிள்ளை` remains traceable as `Desiyampillai` / `Desiyam Pillai` rather than being used to normalize the Tamil layer.
