@@ -1,10 +1,10 @@
 # திருவாளர் தேசீயம்பிள்ளை — English translation plan
 
-Status: **AUTHORIZED / IN PROGRESS — BATCH 01 PASS / LOCKED; 2 / 7 ENGLISH SRUs REVIEWED**
+Status: **AUTHORIZED / IN PROGRESS — BATCHES 01–02 PASS / LOCKED; 3 / 7 ENGLISH SRUs REVIEWED**
 
 The Tamil archival layer remains closed for the current source evidence: source-page coverage **49 / 49**, historical-glyph pass **49 / 49**, structural inventory **PASS**, Tamil source-representation assembly **7 / 7 SRUs**, and `ASSEMBLY_REVIEW.md` **PASS / REVIEWED**.
 
-English translation is now explicitly authorized. Translation must remain independent of and must never reopen or modify that Tamil archival layer.
+English translation is explicitly authorized. Translation remains independent of and must never reopen or modify that Tamil archival layer.
 
 ## 1. Translation authority
 
@@ -65,35 +65,25 @@ Do not silently modernize, euphemize, ideologically soften, correct, regularize 
 
 ### `[paper loss]`
 
-The exact marker **`[paper loss]`** must remain visible in the English artifact at the corresponding point.
-
-- Do not translate it into prose.
-- Do not infer the missing word from grammar, repetition, context or another edition.
-- Do not use the intact repetition on scan 9 to complete the damaged first occurrence.
-
-SRU-01 therefore preserves all **7** page-layer `[paper loss]` locations. Batch 01 review confirms **7 / 7 retained**.
+The exact marker **`[paper loss]`** remains visible in the corresponding English locations. SRU-01 preserves all **7 / 7** markers and Batch 01 review has locked that result.
 
 ### `[unresolved glyph cluster]`
 
-The exact marker **`[unresolved glyph cluster]`** must remain visible in the corresponding SRU-04 English location.
-
-The apparent scan-35 reading resembling `கொழுப்பேறி` is non-canonical and must not be translated as though resolved.
+The exact marker **`[unresolved glyph cluster]`** must remain visible in the corresponding SRU-04 English location. The apparent scan-35 reading resembling `கொழுப்பேறி` is non-canonical and must not be translated as though resolved.
 
 ### `[unresolved descriptive cluster]`
 
 Both exact **`[unresolved descriptive cluster]`** markers from scan 36 must remain visible in the English SRU-04 artifact.
 
-No descriptive wording may be supplied from semantic expectation.
-
-These markers are provenance controls, not English prose. They survive until genuine source evidence resolves the underlying Tamil record.
+No descriptive wording may be supplied from semantic expectation. These markers are provenance controls, not English prose.
 
 ## 5. Source-sensitive structural safeguards
 
 - SRU-01 remains an assembly containing source-loss markers; translation must not conceal that limitation.
 - SRU-04 remains an assembly containing three unresolved source markers; translation must not resolve them editorially.
 - Scan-47 centered **`உதயசூரியன் கோலம்`** remains an **internal descriptive/intertitle inside SRU-07**, not a source scene title.
-- Its English rendering should appear as a standalone internal line at the corresponding position, while preserving its internal/intertitle status.
-- Scan 48 has no source-visible `முற்றும்`; therefore the English layer must **not** add `The End`, `End`, a curtain cue, or any equivalent invented closure.
+- Its English rendering must remain an internal standalone line at the corresponding position.
+- Scan 48 has no source-visible `முற்றும்`; the English layer must **not** add `The End`, `End`, a curtain cue, or equivalent invented closure.
 - Scan 49 back-cover advertising remains outside the English dramatic layer.
 
 ## 6. Proper names, labels and recurring terms
@@ -102,50 +92,31 @@ Translation should prefer transparent transliteration for proper names unless an
 
 Source spelling/spacing variation must remain traceable. In particular:
 
-- `தேசீயம் பிள்ளை` and `தேசீயம்பிள்ளை` are distinct source-visible forms; do not use English translation to rewrite the Tamil archival layer into one normalized spelling;
+- `தேசீயம் பிள்ளை` and `தேசீயம்பிள்ளை` remain traceable as distinct source-visible forms;
 - abbreviated speaker label `தேசீ :` must remain recognizably linked to the same character without pretending the Tamil source used a single uniform label;
-- `எமன் / எமதர்மன் / எமதர்ம ராஜன்` should be rendered consistently with context while preserving meaningful distinctions in the Tamil wording;
-- `காங்கிரஸ்`, `தி. மு. க`, `உதய சூரியன்`, `தமிழ் வாழ்க`, `ஹரிஜன நலம்`, `ஆகாஷவாணி`, `நவகாளி`, `சொர்க்கம்`, and other historically/politically loaded terms must not be ideologically softened or silently replaced by present-day paraphrases.
+- `எமன் / எமதர்மன் / எமதர்ம ராஜன்` should be rendered consistently with context while preserving meaningful distinctions;
+- historically/politically loaded terms must not be ideologically softened or silently replaced by present-day paraphrases.
 
 Where a term has no clean English equivalent, transliteration plus a concise translation note is preferable to an overconfident substitution.
 
 ## 7. Translation file metadata
 
-Each English SRU uses metadata such as:
+Every reviewed English SRU must use:
 
 ```yaml
----
 source_scene_number: null
-structural_unit: "SRU-01"
-work: "thiruvalar-desiyampillai"
-source_sru: "../../scenes/sru-01-yama-court.md"
-source_scan_pages: [7, 8, 9, 10, 11, 12, 13, 14, 15]
-status: "translation-draft"
-translation_review: "pending"
-language: "en"
+status: "translation-reviewed"
+translation_review: "passed"
 secondary_english_witness_used: false
----
 ```
 
-After full Tamil→English fidelity review of that artifact, change only the English artifact metadata to:
-
-- `status: "translation-reviewed"`
-- `translation_review: "passed"`
-
-For SRU-01 and SRU-04, source-loss/unresolved provenance must also be described in translation notes. Do not imply those Tamil source areas are fully verified.
+During drafting it remains `translation-draft` / `pending`. For SRU-01 and SRU-04, source-loss/unresolved provenance must also be described in translation notes.
 
 ## 8. Translation notes
 
-Each English artifact may end with a concise `## Translation notes` section only for materially source-sensitive decisions, such as:
+Each English artifact may end with a concise `## Translation notes` section only for materially source-sensitive decisions, including wordplay, culturally specific terms, speaker-label anomalies, ambiguous/malformed Tamil wording, surviving source markers, or deliberately literal rhetoric.
 
-- wordplay that cannot be reproduced exactly in English;
-- politically or culturally specific terms retained by transliteration;
-- source speaker-label anomalies;
-- ambiguous or malformed Tamil wording;
-- surviving source-loss/unresolved markers;
-- a deliberately literal rendering needed to preserve rhetoric or satire.
-
-Do not use notes to silently rewrite the main translation into a smoother but unsupported version.
+Notes do not authorize rewriting the Tamil archival layer.
 
 ## 9. Review procedure for every English SRU
 
@@ -156,17 +127,15 @@ Before an English artifact can be marked reviewed/passed:
 3. compare the complete English artifact back to the complete Tamil SRU;
 4. confirm every dramatic paragraph, speaker turn, stage direction, narrative transition and repetition is represented;
 5. verify SRU start/end anchors and source order;
-6. confirm political/social rhetoric, humour, colloquial speech and rhetorical cadence have not been flattened or softened;
+6. confirm political/social rhetoric, humour, colloquial speech and cadence have not been flattened or softened;
 7. confirm every source-loss/unresolved marker appears in the corresponding English location when applicable;
 8. confirm no text from a later/earlier SRU has been duplicated or omitted;
-9. document materially source-sensitive choices in `## Translation notes`;
+9. document materially source-sensitive choices;
 10. only then set `translation_review: "passed"`.
 
 A completed batch must receive its own durable `BATCH_0N_REVIEW.md` record before it is called locked.
 
 ## 10. Translation batching and progress
-
-The seven SRUs are divided into four review batches so the two large/high-risk units receive dedicated attention.
 
 ### Batch 1 — **PASS / LOCKED**
 
@@ -175,24 +144,30 @@ The seven SRUs are divided into four review batches so the two large/high-risk u
 
 Durable review: `translations/en/BATCH_01_REVIEW.md`.
 
-Controls passed:
+Controls passed: SRU-01 `[paper loss]` **7 / 7 retained**, artifacts reviewed **2 / 2**, secondary-English witness use **0**, blocking issues **0**.
 
-- SRU-01 `[paper loss]`: **7 / 7 retained**;
-- artifacts reviewed: **2 / 2**;
+### Batch 2 — **PASS / LOCKED**
+
+- `sru-03-eman-interview.md` — translated and reviewed.
+
+Durable review: `translations/en/BATCH_02_REVIEW.md`.
+
+Batch-02 controls passed:
+
+- artifact reviewed: **1 / 1**;
+- full interview order and boundaries: **PASS**;
+- repeated `pillai` wordplay: **preserved / documented**;
+- `uyarthinai / ahrinai` and `pancha-varnam / pancham` wordplay: **preserved / documented**;
+- tax/Congress/election/Five-Year-Plan satire: **PASS**;
+- source-loss/unresolved markers expected in SRU-03: **0**; invented: **0**;
 - secondary-English witness use: **0**;
-- blocking translation issues: **0**.
+- blocking issues: **0**.
 
-### Batch 2 — **NEXT**
-
-- `sru-03-eman-interview.md`
-
-Dedicated batch because of sustained tax/political satire, speaker-label variation and wordplay.
-
-### Batch 3
+### Batch 3 — **NEXT**
 
 - `sru-04-gandhi-journey.md`
 
-Dedicated batch because it is the longest unit and contains all three unresolved source markers.
+Dedicated batch because it is the longest unit and contains all three unresolved source markers. Preserve exactly **1** `[unresolved glyph cluster]` and **2** `[unresolved descriptive cluster]` markers.
 
 ### Batch 4
 
@@ -202,7 +177,7 @@ Dedicated batch because it is the longest unit and contains all three unresolved
 
 Special controls: preserve the stair/place-name wordplay, domestic colloquial/political register, internal `உதயசூரியன் கோலம்` intertitle, and the source close without an invented `The End`.
 
-Expected completed batches: **4**; completed: **1 / 4**.
+Expected completed batches: **4**; completed: **2 / 4**.
 
 ## 11. Final English review gate
 
@@ -210,7 +185,7 @@ After all seven English artifacts have individually passed review:
 
 1. create `translations/en/TRANSLATION_REVIEW.md`;
 2. verify **7 / 7** English artifacts present and reviewed;
-3. verify all four SRU-batch review records are PASS / LOCKED;
+3. verify all four batch review records are PASS / LOCKED;
 4. verify SRU order and boundaries mirror the reviewed Tamil layer;
 5. verify no source scene/act numbering was invented;
 6. verify all **7** `[paper loss]` markers survive in SRU-01;
@@ -224,28 +199,25 @@ Only after that final review may the English first-pass translation layer be cal
 
 ## 12. Secondary English witnesses
 
-This first source-faithful English phase uses **no secondary English witness**.
-
-If a published or other English translation is later supplied, comparison with it must be a separately authorized phase after this independent English layer is closed. That later comparison must not retroactively contaminate the first-pass English wording.
+This first source-faithful English phase uses **no secondary English witness**. Any later comparison with a published/other English translation is a separately authorized phase after independent English closure.
 
 ## 13. Current phase state
-
-English translation was explicitly authorized by the user's instruction to proceed with the planned next activity.
 
 Current English status:
 
 - expected artifacts: **7**;
-- present: **2 / 7**;
-- reviewed: **2 / 7**;
-- completed batches: **1 / 4**;
+- present: **3 / 7**;
+- reviewed: **3 / 7**;
+- completed batches: **2 / 4**;
 - Batch 01: **PASS / LOCKED**;
+- Batch 02: **PASS / LOCKED**;
 - secondary-English witness use: **0**;
 - Tamil archival layer modified by translation: **no**.
 
 ## Exact next activity
 
-Begin **English Translation Batch 02** from the reviewed Tamil SRU only:
+Begin **English Translation Batch 03** from the reviewed Tamil SRU only:
 
-- `scenes/sru-03-eman-interview.md` → `translations/en/sru-03-eman-interview.md`
+- `scenes/sru-04-gandhi-journey.md` → `translations/en/sru-04-gandhi-journey.md`
 
-Perform the complete Tamil→English fidelity review for the artifact and create `translations/en/BATCH_02_REVIEW.md` before marking Batch 02 PASS / LOCKED.
+Preserve exactly the scan-35 `[unresolved glyph cluster]` and both scan-36 `[unresolved descriptive cluster]` markers. Perform the complete Tamil→English fidelity review and create `translations/en/BATCH_03_REVIEW.md` before marking Batch 03 PASS / LOCKED.
