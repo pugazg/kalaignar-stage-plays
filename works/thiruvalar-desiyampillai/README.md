@@ -4,7 +4,7 @@ Archive slug: `thiruvalar-desiyampillai`.
 
 ## Current status
 
-**TAMIL ARCHIVAL LAYER ASSEMBLY-COMPLETE / REVIEWED. ENGLISH TRANSLATION BATCHES COMPLETE — 7 / 7 SRUs TRANSLATED AND INDIVIDUALLY REVIEWED; 4 / 4 BATCHES PASS / LOCKED; FINAL TRANSLATION REVIEW PENDING.**
+**COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — TAMIL ARCHIVAL LAYER ASSEMBLY-COMPLETE / REVIEWED; INDEPENDENT ENGLISH FIRST-PASS 7 / 7 REVIEWED; 4 / 4 BATCHES PASS / LOCKED; FINAL TRANSLATION REVIEW PASS.**
 
 Controlling source: `TVA_BOK_0064118_திருவாளர்_தேசீயம்பிள்ளை.pdf`.
 
@@ -34,11 +34,15 @@ Review holds remain authoritative and are not repaired by translation:
 - scan `35` — one `[unresolved glyph cluster]`;
 - scan `36` — two `[unresolved descriptive cluster]` markers.
 
-## English translation
+These nine page-level holds are source-condition limitations, not unfinished workflow tasks under the current evidence.
+
+## English translation — COMPLETE / CLOSED
 
 Translation plan: `TRANSLATION_PLAN.md`.
 
 Tracker: `translations/en/README.md`.
+
+Final review: `translations/en/TRANSLATION_REVIEW.md` — **PASS / COMPLETE / CLOSED**.
 
 ### Batch 01 — PASS / LOCKED
 
@@ -67,21 +71,27 @@ Tracker: `translations/en/README.md`.
 - `translations/en/sru-07-udayasuriyan-kolam-close.md` — reviewed; internal `Rising Sun Kolam` preserved; invented `The End`: **0**;
 - review: `translations/en/BATCH_04_REVIEW.md`.
 
-Overall English progress:
+## Final English closure results
 
 - expected artifacts: **7**;
 - present: **7 / 7**;
 - individually reviewed: **7 / 7**;
 - completed batches: **4 / 4**;
 - batch reviews: **4 / 4 PASS / LOCKED**;
+- final `TRANSLATION_REVIEW.md`: **PASS**;
+- source scene/act numbering invented: **0**;
+- SRU-01 `[paper loss]`: **7 / 7 retained**;
+- SRU-04 unresolved markers: **1 + 2 retained exactly**;
+- `Rising Sun Kolam`: **internal / preserved**;
+- invented `The End`: **0**;
+- scan 49 advertisement in dramatic English layer: **no**;
 - secondary-English witness use: **0**;
-- Tamil archival changes caused by translation: **0**;
-- final `translations/en/TRANSLATION_REVIEW.md`: **pending**.
+- Tamil archival changes caused by translation: **0**.
 
-## Exact next activity
+The independent English first-pass layer is **COMPLETE / CLOSED**.
 
-Perform the final **7 / 7 English translation closure review** and create `translations/en/TRANSLATION_REVIEW.md`.
+## Post-closure boundary
 
-That final gate must confirm all seven artifacts and all four batch reviews together, including source-loss/unresolved marker counts, SRU order/boundaries, zero invented scene/act numbering, internal `Rising Sun Kolam`, zero invented `The End`, `secondary_english_witness_used: false` across all seven artifacts, and zero translation-driven changes to the Tamil archival layer.
+No further work is scheduled for **திருவாளர் தேசீயம்பிள்ளை** under the current Tamil-archive + independent-English workflow.
 
-Do not mark the English first-pass layer COMPLETE / CLOSED until that final review passes.
+Do not reopen the closed English artifacts, the nine Tamil source-condition holds, or begin a secondary-English-witness comparison unless separately authorized by the user or new source evidence is supplied.
