@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN — 4 / 131 SCANS PASSED; 56 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN — 4 / 131 SCANS PASSED; 61 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -134,17 +134,27 @@ No positive reference is yet promoted for:
 | 59 | 57 | processed | open | Scene 15 closes; `காட்சி 16.` / location secure. `விசாரணைமண்டபத்தில்` provides open `ணை` material. |
 | 60 | 58 | processed | open | Scene-16 `பொன்னி`/`புத்த` encounter transcribed; one opening parenthetical cluster held. `நாணமடைகிறார்கள்` (`றா`) and `அவனை` (`னை`) are open comparison material. |
 
+## Batch 13 — scans 61–65
+
+| Scan | Printed page | Visual/source processing | 13-family gate | Status / note |
+|---:|---:|---|---|---|
+| 61 | 59 | processed | open | Scene-16 mock-spear / inseparability exchange transcribed. One opening interrogative word and one small bracketed cue remain source holds; `கவலை`, `வார்த்தைகள்`, `என்னை` are open comparison material. |
+| 62 | 60 | processed | open | Separation / memory dialogue transcribed; printed `பொ` / `பொன்` label variation preserved. `மல்லிகை` and related forms are open comparison material. |
+| 63 | 61 | processed | open | `கணையாழி` pledge transcribed; physical final `அல்` split preserved. `கணையாழி`, `அணையைக்`, `மலைகள்`, `கண்ணா` provide open `ணை` / `லை` / `ணா` material. |
+| 64 | 62 | processed | open | Scan-63 `அல்` continues as `லது`; `காட்சி 17.` / `இடம்:- விசாரண மண்டபம்` secure. Trial dialogue transcribed; no candidate promoted. |
+| 65 | 63 | processed | open | Scene-17 interrogation continues. `கடவுளாணையாக`, `வார்த்தைகளைக்`, `வேலைகள்`, `இமயாவைப்` provide open comparison material; full gate remains open. |
+
 Candidate occurrences from an open page do **not** enter the secure reference bank until the whole-page gate is closed.
 
 ## Current metrics
 
 - physical scans: **131**;
-- source-processed: **60 / 131**;
+- source-processed: **65 / 131**;
 - full historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- processed `needs-review`: **56 / 131** (`1, 5, 7–60`);
+- processed `needs-review`: **61 / 131** (`1, 5, 7–65`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Process scans **61–65** directly from source pixels. Add same-edition reference examples only where both the reading and the page-level verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.
+Process scans **66–70** directly from source pixels. Add same-edition reference examples only where both the reading and the page-level verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.
