@@ -21,7 +21,7 @@ Read before further source-dependent work:
 5. `works/ore-mutham/metadata/source.md`;
 6. `works/ore-mutham/indexes/page-map.md`;
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`;
-8. existing `works/ore-mutham/pages/0001.md`–`0055.md` as relevant;
+8. existing `works/ore-mutham/pages/0001.md`–`0060.md` as relevant;
 9. the supplied controlling PDF.
 
 ## Source identity
@@ -35,7 +35,7 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 
 ## Source-visible anchors
 
-Direct scene anchors currently reach `காட்சி 15.`:
+Direct scene anchors currently reach `காட்சி 16.`:
 
 - scan 8 / p.6: `காட்சி 1.`;
 - scan 9 / p.7: `காட்சி 2.`;
@@ -51,14 +51,15 @@ Direct scene anchors currently reach `காட்சி 15.`:
 - scan 46 / p.44: `காட்சி 12.` — `இடம்: ஆற்றோரம்`;
 - scan 51 / p.49: `காட்சி 13.` — `இடம்: தெருவில்.`;
 - scan 52 / p.50: `காட்சி 14.` — `இடம்: புத்தன் முகாம்`;
-- scan 53 / p.51: `காட்சி 15.` — `இடம்: விபீஷணன் மண்டபம்.`.
+- scan 53 / p.51: `காட்சி 15.` — `இடம்: விபீஷணன் மண்டபம்.`;
+- scan 59 / p.57: `காட்சி 16.` — `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`.
 
 Other important direct evidence:
 
 - scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
 - scan 31 / p.29: extended source dialogue condemns caste-based degradation / untouchability;
 - scans 49–51 preserve `விபீஷணன் குரலும் நிழலும்` conscience material;
-- scan 55 ends mid-sentence and continues physically onto scan 56;
+- scan 55→56 physical sentence continuation is now directly resolved from scan 56 pixels;
 - scan 130: printed p.128, final dramatic page;
 - scan 131: back-cover advertisement.
 
@@ -67,7 +68,7 @@ Other important direct evidence:
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic work;
 - scan **131**: back matter;
-- directly confirmed printed numerals through scan 55: **pp.6–53**;
+- directly confirmed printed numerals through scan 60: **pp.6–58**;
 - later mapping remains provisional until direct inspection.
 
 ## Historical Tamil glyph gate
@@ -92,7 +93,9 @@ Secure reference bank remains limited to positively verified pages:
 - `னை`: scans 3, 4, 6;
 - `றா`: scan 6.
 
-## Processed checkpoint — scans 1–55
+Open-page candidates are never promoted while the whole-page gate remains open.
+
+## Processed checkpoint — scans 1–60
 
 Verified:
 
@@ -100,16 +103,17 @@ Verified:
 
 Needs-review:
 
-- `0001.md`, `0005.md`, `0007.md`–`0055.md`.
+- `0001.md`, `0005.md`, `0007.md`–`0060.md`.
 
-Batch 51–55 was source-processed with:
+Batch 56–60 was source-processed with:
 
-- printed pp.49–53 directly confirmed;
-- scan 51 opening `காட்சி 13.` at `தெருவில்.` after the prior conscience block; one long parenthetical remains partly held;
-- scan 52 closing scene 13 and opening `காட்சி 14.` at `புத்தன் முகாம்`; dense comic/song and dawn-stage parentheticals remain exact-word holds;
-- scan 53 closing scene 14 and opening `காட்சி 15.` at `விபீஷணன் மண்டபம்.`;
-- scans 54–55 continuing the `சித்ரா` / `விபீஷ` political-moral argument;
-- scan 55 preserving an incomplete final sentence into scan 56;
+- printed pp.54–58 directly confirmed;
+- scan 56 directly completing the sentence physically split after scan 55, using scan-56 pixels only;
+- scan 56 continuing scene 15 through the source-visible `இமயா பராக்` transition and `இமய` / `விபீஷ` dialogue;
+- scan 57 bringing `புத்த`, வீரர்கள் and `குமரி` into scene 15 and setting up the invitation/arrest sequence;
+- scan 58 recording the arrest and accusation dialogue;
+- scan 59 closing scene 15 and opening `காட்சி 16.` at `பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`;
+- scan 60 continuing the `பொன்னி` / `புத்த` encounter, with one small opening parenthetical lexical cluster retained as an explicit source hold;
 - all five pages retaining open punctuation / historical-glyph gates; no new page promoted to `verified`;
 - no scene assembly or translation.
 
@@ -117,30 +121,29 @@ Batch 51–55 was source-processed with:
 
 - source scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **55 / 131**;
-- source scans processed: **55 / 131**;
+- page records created: **60 / 131**;
+- source scans processed: **60 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **51 / 131** (`1, 5, 7–55`);
+- `needs-review`: **56 / 131** (`1, 5, 7–60`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **15**;
+- source-visible scene anchors: **16**;
 - structural/scene inventory: **not started**;
 - Tamil assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Process scans **56–60** source-first:
+Process scans **61–65** source-first:
 
-1. create `pages/0056.md` through `0060.md`;
-2. continue the physical sentence from scan 55 without inventing missing text;
-3. directly inspect/transcribe source-visible text without normalization;
-4. confirm each printed page numeral;
-5. preserve exact scene/stage/speaker forms;
-6. perform the full 13-family historical-glyph gate;
-7. mark `verified` only if the complete visual + glyph gate passes;
-8. preserve all existing holds unless stronger source pixels genuinely resolve them;
-9. synchronize metadata/page map/glyph audit/READMEs/handover/prompt;
-10. fetch final live `main` SHA.
+1. create `pages/0061.md` through `0065.md`;
+2. directly inspect/transcribe source-visible text without normalization;
+3. confirm each printed page numeral;
+4. preserve exact scene/stage/speaker forms;
+5. perform the full 13-family historical-glyph gate;
+6. mark `verified` only if the complete visual + glyph gate passes;
+7. preserve all existing holds unless stronger source pixels genuinely resolve them;
+8. synchronize metadata/page map/glyph audit/READMEs/handover/prompt;
+9. fetch final live `main` SHA.
 
 Do not begin structural assembly or English translation.
 
