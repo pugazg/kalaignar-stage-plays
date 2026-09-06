@@ -67,10 +67,16 @@ All **131 physical scans** are registered and source-processed. The individual `
 | 85–86 | 83–84 | `காட்சி 21.` close / `காட்சி 22.` | verified | Scan 85: `இடம்: பொன்னியின் குடிசை.`; both pages close full visual + glyph gates. |
 | 87 | 85 | `காட்சி 22.` close / `காட்சி 23.` | verified | `இடம்:- விபீஷணன் மாளிகை.` and opening scene-23 dialogue PASS. |
 | 88–90 | 86–88 | `காட்சி 23.` | needs-review | Closure-audited: scan 88 retains stage-action + page-ending comparison holds; scan 89 one dense gesture/object stage-direction hold; scan 90 one short insult cluster. |
-| 91–93 | 89–91 | `காட்சி 23.` | needs-review | Raw source pass complete; ambush/restraint/forced-letter sequence continues. |
-| 94–95 | 92–93 | `காட்சி 24.` | needs-review | Scan 94: `இடம்:- தெருவில்.`; internal monologue continues into scan 95. |
-| 96–99 | 94–97 | `காட்சி 25.` | needs-review | Scan 96: `இடம்: விபீஷணன் மாளிகை.` |
-| 100–103 | 98–101 | `காட்சி 26.` | needs-review | Scan 100: `இடம்:- மகாவீரர் தர்பார்.` |
+| 91 | 89 | `காட்சி 23.` | verified | Full closure PASS; raw-pass `ஓஃகே!` / `சுற்றுப்` corrected to source-visible `ஓஹோ!` / `சற்றுப்`; restraint and `பொன்னி` entrance/actions closed. |
+| 92 | 90 | `காட்சி 23.` | needs-review | Direct correction `கூன` → `கூட` in `வீரப் பயமுறுத்தல் கூட`; one dense sword-action punctuation/historical-type cluster remains open. |
+| 93 | 91 | `காட்சி 23.` | verified | Forced-letter block and full glyph gate PASS; scan-93→94 physical continuation preserved. |
+| 94 | 92 | `காட்சி 23.` close / `காட்சி 24.` | needs-review | `காட்சி 24.` / `இடம்:- தெருவில்.` secure; `வரி கொடுக்கமாட்டேன்னு` and `எழுத்துக்கள்` source-corrected; dense signpost/route parenthetical remains open. |
+| 95 | 93 | `காட்சி 24.` | needs-review | Closure-audited; scan-94 continuation and overall monologue secure, but dense punctuation/historical-type clusters remain open. |
+| 96–97 | 94–95 | `காட்சி 25.` | verified | Scan 96 resolves opening stage direction as `சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`; scan-96→97 and scan-97→98 physical splits preserved; both pages PASS. |
+| 98 | 96 | `காட்சி 25.` | needs-review | `பதார்த்தங்` / `களில்` continuation secure; one compact stage-direction cluster beginning with `இளவரசன்` remains exact-character held. |
+| 99 | 97 | `காட்சி 25.` | needs-review | Coerced letter and victory dialogue secure; two dense bold stage directions remain exact-word held. |
+| 100 | 98 | `காட்சி 26.` | needs-review | `காட்சி 26.` / `இடம்:- மகாவீரர் தர்பார்.` and Tamil-poet sequence secure; one dense entrance-stage direction remains held. |
+| 101–103 | 99–101 | `காட்சி 26.` | needs-review | Raw source pass complete. |
 | 104–105 | 102–103 | `காட்சி 27.` | needs-review | Scan 104: `இடம்:- இன்பபுரி அரண்மனைத் தெரு.` |
 | 106–111 | 104–109 | `காட்சி 28.` | needs-review | Scan 106: `இடம்:- தூக்குமேடை.` |
 | 112–116 | 110–114 | `காட்சி 29.` | needs-review | Scan 112: `இடம்:- அரண்மனை நந்தவனம்.`; law/custom and `கலப்புமணம்` material continues through scan 116. |
@@ -86,10 +92,10 @@ All **131 physical scans** are registered and source-processed. The individual `
 - checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
-- closure-audited: **scans 1–90**;
-- visually verified: **50 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`);
-- `needs-review`: **81 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–131`);
-- completed historical-glyph passes: **50 / 131**;
+- closure-audited: **scans 1–100**;
+- visually verified: **54 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`);
+- `needs-review`: **77 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–131`);
+- completed historical-glyph passes: **54 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary comedy source-visible anchors: **3**;
 - formal structural/scene inventory: **not started**;
@@ -178,6 +184,22 @@ All **131 physical scans** are registered and source-processed. The individual `
 - scan 90 retains one short exact insult cluster;
 - no semantic, OCR-expectation, modern-spelling or plot-based completion was used for the three open pages.
 
+## Closure audit checkpoint — scans 91–100
+
+- all ten scans were directly re-inspected source-first;
+- scans **91, 93, 96 and 97** close **PASS / verified** — **4 new verified pages**;
+- scan 91 corrects raw-pass `ஓஃகே!` → `ஓஹோ!` and `சுற்றுப்` → `சற்றுப்`; restraint/entrance/actions and the full glyph gate close;
+- scan 92 directly corrects `கூன` → `கூட` in `வீரப் பயமுறுத்தல் கூட` but remains open on one dense sword-action punctuation/historical-type cluster;
+- scan 93 closes the forced-letter block and preserves its physical continuation into scan 94;
+- scan 94 restores source-colloquial `வரி கொடுக்கமாட்டேன்னு` and corrects `எழுதுக்கள்` → `எழுத்துக்கள்`; the dense signpost/route parenthetical remains open;
+- scan 95 preserves the scan-94 continuation and extended `குமரி` monologue but remains open on dense punctuation/historical-type clusters;
+- scan 96 resolves the opening stage direction as `சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்` and closes `காட்சி 25.` / `இடம்: விபீஷணன் மாளிகை.`;
+- scan 97 closes the coerced-letter sequence and preserves both the scan-96→97 `சொல்` / `லப்` and scan-97→98 `பதார்த்தங்` / `களில்` physical boundaries;
+- scan 98 retains one compact stage-direction hold beginning with `இளவரசன்`;
+- scan 99 retains two dense stage-direction holds after the second coerced letter;
+- scan 100 securely preserves `காட்சி 26.` / `இடம்:- மகாவீரர் தர்பார்.` and the Tamil-poet sequence, but its dense entrance direction remains open;
+- no global replacement, modern spelling repair, OCR expectation or plot-based completion was used.
+
 ## Exact next activity
 
-Continue the **source-pass closure audit with scans 91–100**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
+Continue the **source-pass closure audit with scans 101–110**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
