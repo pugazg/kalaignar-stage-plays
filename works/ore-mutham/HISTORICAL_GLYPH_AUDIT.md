@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN — 4 / 131 SCANS PASSED; 91 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN — 4 / 131 SCANS PASSED; 101 PROCESSED WITH OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -99,15 +99,29 @@ No positive reference is yet promoted for:
 - scan 94 opens scene 24; `பொன்னியைப்பற்றி`, `மாளிகைக்கு`, `யாளித்துறை` remain open comparison material;
 - scan 95 includes `அவளை`, `பொன்னியைக்`, `விலை`, `காதலை`, `மாளிகை`; all remain open because the whole-page gate is not closed.
 
+### Scans 96–105
+- all ten pages remain open;
+- scan 96 opens `காட்சி 25.` / `இடம்: விபீஷணன் மாளிகை.`; one opening parenthetical title/person cluster remains held; `வாளை`, `தலை`, `விபீஷணன்` are open comparison material;
+- scan 96→97 preserves the physical continuation ending `சொல்` / opening `லப் போனால்`;
+- scan 97→98 preserves the physical word split `பதார்த்தங்` / `களில்`;
+- scan 98 retains one short stage-direction cluster; `பொன்னியின்`, `தலைக்கு`, `யாளித்தத்தர்` remain open comparison material;
+- scan 99 retains two dense stage-direction clusters; `மகாராணியாக`, `மணப்பாளாம்`, `பொன்னி`, `விபீஷணன்` are open comparison material;
+- scan 100 opens `காட்சி 26.` / `இடம்:- மகாவீரர் தர்பார்.`; one entrance-stage direction remains held; `மரகதமாலை`, `விபீஷணர்`, `இளந்தமிழ்` remain open;
+- scan 101 retains one dense lexical cluster in `விபீஷ`'s accusation; `மண்டையை`, `மகாராணியாக`, `தண்டனை` are open comparison material;
+- scan 102→103 preserves the physical continuation of `விபீஷ`'s long accusation; `பொன்னி`, `விபீஷணன்`, `யாளித்தத்தர்`, `என்னை` remain open;
+- scan 104 closes scene 26 and opens `காட்சி 27.` / `இடம்:- இன்பபுரி அரண்மனைத் தெரு.`; one short parenthetical remains held;
+- scan 105 retains a dense opening crowd-stage direction; `அரண்மனையிலும்`, `முளையிலேயே`, `விபீஷணரே` and related forms remain open;
+- no candidate from scans 96–105 is promoted because none of the ten whole-page gates is closed.
+
 Candidate occurrences from an open page do **not** enter the secure reference bank until the complete page-level visual + 13-family gate is closed.
 
 ## Current metrics
 
 - physical scans: **131**;
-- source-processed: **95 / 131**;
+- source-processed: **105 / 131**;
 - full historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- processed `needs-review`: **91 / 131** (`1, 5, 7–95`);
+- processed `needs-review`: **101 / 131** (`1, 5, 7–105`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Batch-size directive
@@ -116,4 +130,4 @@ Continue the source pass in **10-scan iterations** unless the remaining final ba
 
 ## Exact next activity
 
-Process scans **96–105** directly from source pixels. Run the full 13-family gate on every scan. Add same-edition reference examples only where both the reading and the whole-page verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.
+Process scans **106–115** directly from source pixels. Run the full 13-family gate on every scan. Add same-edition reference examples only where both the reading and the whole-page verification gate are secure. Preserve all existing open holds unless stronger source evidence genuinely resolves them.
