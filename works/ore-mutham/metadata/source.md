@@ -34,17 +34,26 @@ User-supplied catalog metadata remains: title **ஒரே முத்தம்*
 
 The supplementary scenes must not be silently renumbered as main-play scenes 31–33.
 
-## Closure-audit corrections / resolutions through scan 20
+## Closure-audit corrections / resolutions through scan 30
 
-- scan 11 / p.9: earlier provisional `காட்சி 3.` location is corrected by enlarged source pixels to **`இடம்:- மாளிகையில் ஒருபுறம்.`**;
-- scan 15 / p.13: `காட்சி 4.` location is now directly resolved as **`இடம்:- இமயாவின் மாளிகை`**;
-- scan 19 / p.17: `காட்சி 5.` location is now directly resolved as **`இடம்:- முல்லைக்காட்டு நகரத்தெரு`**;
-- scan 10→11 physical `சொல்` / `ளார்.` split remains verified and preserved;
-- scan 11→12, scan 12→13 and scan 15→16 physical continuations are preserved rather than silently recomposed.
+Earlier closed corrections remain authoritative:
+
+- scan 11 / p.9: `காட்சி 3.` location corrected to **`இடம்:- மாளிகையில் ஒருபுறம்.`**;
+- scan 15 / p.13: `காட்சி 4.` location resolved as **`இடம்:- இமயாவின் மாளிகை`**;
+- scan 19 / p.17: `காட்சி 5.` location resolved as **`இடம்:- முல்லைக்காட்டு நகரத்தெரு`**.
+
+New closure findings from scans 21–30:
+
+- scan 21 / p.19: one stage-direction hold resolves as `துவங்குகிறான்`, but the opening bold direction remains open;
+- scan 22 / p.20: comparison word resolves as `புயலைப்போல` — page verified;
+- scan 23 / p.21: opening lexical item remains held; earlier provisional `ஏமைகள்` is not verified;
+- scan 24 / p.22: parenthetical resolves as `(2-வது காவியைக் காட்டி)` — page verified; secure `ளை` witness `வளையிலேயே`;
+- scans 25–26 / pp.23–24: complete page text/glyph gates verified; scan 26 punctuation is source-closed as `கனவு! கனவு!`;
+- scans 27–30 retain explicit exact-word holds and remain `needs-review`.
 
 ## Direct thematic evidence already established
 
-- scan 25 / p.23: caste division proposed as a governing tactic;
+- scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
 - scan 31 / p.29: direct condemnation of caste-based degradation / untouchability;
 - scan 75 / p.73: discriminatory caste-law claim;
 - scan 115 / p.113: law/custom debate directly uses `கலப்புமணம்`.
@@ -61,11 +70,12 @@ Mandatory family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Secure same-edition reference bank remains limited to whole-page verified evidence, including:
+Secure same-edition reference bank now includes:
 
 - `லை`: scans 3, 4, 5, 6;
 - `ணா`: scans 3, 5, 6;
-- `ணை`: scan 7 `துணைவி`;
+- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`;
+- `ளை`: scan 24 `வளையிலேயே`;
 - `னை`: scans 3, 4, 6;
 - `றா`: scan 6.
 
@@ -77,10 +87,10 @@ No open-page candidate is promoted until its whole-page visual + 13-family gate 
 - source checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **scans 1–20**;
-- visually verified: **19 / 131** (`2–20`, except `1`);
-- `needs-review`: **112 / 131** (`1, 21–131`);
-- completed historical-glyph passes: **19 / 131**;
+- closure-audited: **scans 1–30**;
+- visually verified: **23 / 131** (`2–20`, `22`, `24–26`);
+- `needs-review`: **108 / 131** (`1`, `21`, `23`, `27–131`);
+- completed historical-glyph passes: **23 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary-comedy source-visible scene anchors: **3**;
 - formal structural inventory: **not started**;
@@ -89,4 +99,4 @@ No open-page candidate is promoted until its whole-page visual + 13-family gate 
 
 ## Exact next source activity
 
-Continue the **source-pass closure audit with scans 21–30** using stronger source pixels/enlargements only. Formal scene assembly and English translation remain out of scope.
+Continue the **source-pass closure audit with scans 31–40** using stronger source pixels/enlargements only. Formal scene assembly and English translation remain out of scope.
