@@ -43,29 +43,41 @@ Publication structure:
 - supplementary **`நகைச் சுவைப் பகுதி.`**: scans **119–130 / pp.117–128**, with its own **3-scene numbering**;
 - do not silently renumber those supplementary scenes as main-play scenes 31–33.
 
-## Closure-audit checkpoint — scans 1–20 complete
+## Closure-audit checkpoint — scans 1–30 complete
 
-Closure review used enlarged source pixels.
+### Verified
 
-### Verified after this checkpoint
+Scans **2–20, 22, 24–26** are verified and have closed full 13-family historical-glyph gates: **23 / 131** total.
 
-Scans **2–20** are verified and have closed 13-family historical-glyph gates. Scan **1** remains the sole open page within 1–20 because its small stylized cover-device lettering and tiny artist/signature mark are not character-secure.
+### Still open within scans 1–30
 
-Key new closures from scans 11–20:
+- scan 1: small stylized cover lettering / tiny artist mark;
+- scan 21: opening bold stage direction; its second-stage-direction hold is now resolved as `துவங்குகிறான்`;
+- scan 23: opening lexical item remains unresolved; earlier provisional `ஏமைகள்` must not be restored as verified text;
+- scan 27: several small bold stage directions;
+- scan 28: one `1-வது கா` dialogue phrase;
+- scan 29: one `புத்த` lexical clause;
+- scan 30: one small parenthetical action direction.
 
-- scan 11 / p.9: earlier provisional scene-3 location corrected to **`இடம்:- மாளிகையில் ஒருபுறம்.`**;
-- scans 11–14: complete `காட்சி 3.` text closed;
-- scan 15 / p.13: **`காட்சி 4.` — `இடம்:- இமயாவின் மாளிகை`** directly resolved;
-- scans 15–18: complete `காட்சி 4.` text closed;
-- scan 19 / p.17: **`காட்சி 5.` — `இடம்:- முல்லைக்காட்டு நகரத்தெரு`** directly resolved;
-- scans 19–20: complete scene-5 opening/body closed;
-- physical continuations are preserved, including scan 10→11 `சொல்` / `ளார்.`, scan 11→12, scan 12→13 and scan 15→16.
+### Important new closures in scans 21–30
+
+- scan 22 / p.20: `புயலைப்போல` directly resolved — PASS;
+- scan 24 / p.22: `(2-வது காவியைக் காட்டி)` directly resolved — PASS; supplies secure `ணை` witness `கண்ணை` and first secure `ளை` witness `வளையிலேயே`;
+- scan 25 / p.23: complete dialogue/glyph gate PASS; caste-division governing tactic remains direct dramatic evidence;
+- scan 26 / p.24: complete dialogue/glyph gate PASS; source punctuation is `கனவு! கனவு!`.
+
+Earlier source corrections remain authoritative:
+
+- scan 11 / p.9: `காட்சி 3.` — `இடம்:- மாளிகையில் ஒருபுறம்.`;
+- scan 15 / p.13: `காட்சி 4.` — `இடம்:- இமயாவின் மாளிகை`;
+- scan 19 / p.17: `காட்சி 5.` — `இடம்:- முல்லைக்காட்டு நகரத்தெரு`.
 
 ## Current secure historical-glyph bank
 
 - `லை`: scans 3, 4, 5, 6;
 - `ணா`: scans 3, 5, 6;
-- `ணை`: scan 7 `துணைவி`;
+- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`;
+- `ளை`: scan 24 `வளையிலேயே`;
 - `னை`: scans 3, 4, 6;
 - `றா`: scan 6.
 
@@ -74,21 +86,21 @@ No open page may contribute new reference forms until its complete visual + 13-f
 ## Current metrics
 
 - source scans registered/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **20 / 131** (`1–20`);
-- visually verified: **19 / 131** (`2–20`);
-- `needs-review`: **112 / 131** (`1, 21–131`);
-- completed historical-glyph passes: **19 / 131**;
+- closure-audited: **30 / 131** (`1–30`);
+- visually verified: **23 / 131** (`2–20`, `22`, `24–26`);
+- `needs-review`: **108 / 131** (`1`, `21`, `23`, `27–131`);
+- completed historical-glyph passes: **23 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary source-visible scenes: **3**;
 - formal structural/scene inventory: **not started**;
 - Tamil scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-## Exact next activity — closure scans 21–30
+## Exact next activity — closure scans 31–40
 
 Do **not** begin scene assembly or English translation.
 
-Review scans **21–30** source-first with enlarged pixels as needed:
+Review scans **31–40** source-first with enlarged pixels as needed:
 
 1. revisit every `needs-review` / `source-held` item on those scans;
 2. preserve exact source wording, punctuation, speaker labels, stage directions and physical page boundaries;
