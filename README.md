@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — 131 scans registered; source processing 10/131; verified 4; needs-review 6; historical-glyph pass 4/131; checksum pending; structure/assembly not started; English not authorized** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — 131 scans registered; source processing 15/131; verified 4; needs-review 11; historical-glyph pass 4/131; checksum pending; structure/assembly not started; English not authorized** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -32,18 +32,19 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic body;
 - scan **131**: back-cover publisher advertisement;
-- scan **8** visibly begins `காட்சி 1.` at printed p.6;
-- scan **9** visibly opens `காட்சி 2.` at printed p.7;
-- scan **10** is printed p.8 and continues scene 2;
+- scan **8** / printed p.6: `காட்சி 1.`;
+- scan **9** / printed p.7: `காட்சி 2.`;
+- scan **11** / printed p.9: `காட்சி 3.`;
+- scan **15** / printed p.13: `காட்சி 4.`;
 - scan **130** is printed p.128 and the final dramatic page.
 
-Processed scans 1–10:
+Processed scans 1–15:
 
 - **verified:** `2, 3, 4, 6`;
-- **needs-review:** `1, 5, 7, 8, 9, 10`;
+- **needs-review:** `1, 5, 7–15`;
 - full historical-glyph passes: `2, 3, 4, 6`;
 - scan 6 fully verifies the author foreword, including the Sri Lankan historical-fragment basis and first staging by `தேவி நாடக சபை`;
-- source scene structure now directly anchored at scan 8 `காட்சி 1.` and scan 9 `காட்சி 2.`;
+- source scene structure is directly anchored through `காட்சி 4.`;
 - dense small-type holds remain explicit rather than reconstructed.
 
 Current secure historical-glyph references include `லை`, `ணா`, `னை`, and `றா`; see `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md` for exact source examples.
@@ -51,17 +52,17 @@ Current secure historical-glyph references include `லை`, `ணா`, `னை`,
 Current metrics:
 
 - source scans registered: **131 / 131**;
-- page/source processing: **10 / 131**;
+- page/source processing: **15 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **6 / 131** (`1, 5, 7, 8, 9, 10`);
+- `needs-review`: **11 / 131** (`1, 5, 7–15`);
 - historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - structural inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-The source scan is controlling authority. User catalog context is kept distinct from transcription. Scan 6 now independently supports the Sri Lankan historical basis and Devi Nataka Sabha first-staging statement; the catalog caste-abolition thematic note is not promoted into source transcription without body evidence.
+The source scan is controlling authority. User catalog context is kept distinct from transcription. Scan 6 independently supports the Sri Lankan historical basis and Devi Nataka Sabha first-staging statement; the catalog caste-abolition thematic note is not promoted into source transcription without body evidence.
 
-**Exact next activity:** process source scans **11–15** with direct visual fidelity, printed-page confirmation and the full 13-family historical-glyph gate. Preserve current holds (`1, 5, 7–10`) unless enlarged source evidence genuinely resolves them. Compute the PDF SHA-256 when byte-level hashing becomes available; do not infer a value.
+**Exact next activity:** process source scans **16–20** with direct visual fidelity, printed-page confirmation and the full 13-family historical-glyph gate. Preserve current holds (`1, 5, 7–15`) unless enlarged source evidence genuinely resolves them. Compute the PDF SHA-256 when byte-level hashing becomes available; do not infer a value.
 
 ## Closed work — திருவாளர் தேசீயம்பிள்ளை
 
