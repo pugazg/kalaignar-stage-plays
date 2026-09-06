@@ -43,25 +43,23 @@ Publication structure:
 - supplementary **`நகைச் சுவைப் பகுதி.`**: scans **119–130 / pp.117–128**, with its own **3-scene numbering**;
 - do not silently renumber those supplementary scenes as main-play scenes 31–33.
 
-## Closure-audit checkpoint — scans 1–10 complete
+## Closure-audit checkpoint — scans 1–20 complete
 
-The first 10-scan closure batch has been completed using enlarged source pixels.
+Closure review used enlarged source pixels.
 
-### Verified after this batch
+### Verified after this checkpoint
 
-Scans **2–10**, except scan **1**, are now verified and have closed 13-family historical-glyph gates.
+Scans **2–20** are verified and have closed 13-family historical-glyph gates. Scan **1** remains the sole open page within 1–20 because its small stylized cover-device lettering and tiny artist/signature mark are not character-secure.
 
-New closures:
+Key new closures from scans 11–20:
 
-- scan 5: complete `பதிப்புரை.`;
-- scan 7: complete cast list and separate `நகைச்சுவைப் பகுதி.` cast; secure new `ணை` witness `துணைவி`;
-- scan 8 / p.6: complete `காட்சி 1.` opener;
-- scan 9 / p.7: complete scene-1 close / `காட்சி 2.` opener, including final collective gift direction;
-- scan 10 / p.8: complete scene-2 continuation; scan 10→11 physical split `சொல்` / `ளார்.` directly confirmed and preserved.
-
-### Still open in scans 1–10
-
-- scan 1 only: title is secure, but the small stylized lettering in the vertical cover device and tiny artist/signature mark remain unresolvable at the available source evidence. Keep `needs-review`; do not guess.
+- scan 11 / p.9: earlier provisional scene-3 location corrected to **`இடம்:- மாளிகையில் ஒருபுறம்.`**;
+- scans 11–14: complete `காட்சி 3.` text closed;
+- scan 15 / p.13: **`காட்சி 4.` — `இடம்:- இமயாவின் மாளிகை`** directly resolved;
+- scans 15–18: complete `காட்சி 4.` text closed;
+- scan 19 / p.17: **`காட்சி 5.` — `இடம்:- முல்லைக்காட்டு நகரத்தெரு`** directly resolved;
+- scans 19–20: complete scene-5 opening/body closed;
+- physical continuations are preserved, including scan 10→11 `சொல்` / `ளார்.`, scan 11→12, scan 12→13 and scan 15→16.
 
 ## Current secure historical-glyph bank
 
@@ -73,41 +71,33 @@ New closures:
 
 No open page may contribute new reference forms until its complete visual + 13-family gate closes.
 
-## Important direct thematic evidence
-
-- scan 25 / p.23: caste division as a governing tactic;
-- scan 31 / p.29: direct anti-caste / anti-untouchability dramatic argument;
-- scan 75 / p.73: discriminatory caste-law dialogue;
-- scan 115 / p.113: law/custom argument directly using `கலப்புமணம்`.
-
 ## Current metrics
 
 - source scans registered/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **10 / 131** (`1–10`);
-- visually verified: **9 / 131** (`2–10`, except `1`);
-- `needs-review`: **122 / 131** (`1, 11–131`);
-- completed historical-glyph passes: **9 / 131**;
+- closure-audited: **20 / 131** (`1–20`);
+- visually verified: **19 / 131** (`2–20`);
+- `needs-review`: **112 / 131** (`1, 21–131`);
+- completed historical-glyph passes: **19 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary source-visible scenes: **3**;
 - formal structural/scene inventory: **not started**;
 - Tamil scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-## Exact next activity — closure scans 11–20
+## Exact next activity — closure scans 21–30
 
 Do **not** begin scene assembly or English translation.
 
-Review scans **11–20** source-first with enlarged pixels as needed:
+Review scans **21–30** source-first with enlarged pixels as needed:
 
 1. revisit every `needs-review` / `source-held` item on those scans;
 2. preserve exact source wording, punctuation, speaker labels, stage directions and physical page boundaries;
 3. run the complete historical-glyph family gate on every scan: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
 4. promote to `verified` only if the entire page closes;
-5. priority source problems: exact `காட்சி 4.` location line on scan **15**, and exact `காட்சி 5.` location line on scan **19**;
-6. do not infer those locations from plot continuity, OCR expectation, another edition or modern spelling;
-7. synchronize page records, page map, glyph audit, source/work/root READMEs, handover and prompt after the batch;
-8. fetch final live `main` SHA.
+5. do not infer unresolved words from plot continuity, OCR expectation, another edition or modern spelling;
+6. synchronize page records, page map, glyph audit, source/work/root READMEs, handover and prompt after the batch;
+7. fetch final live `main` SHA.
 
 # CLOSED WORK SAFEGUARDS
 
-`திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened with new evidence or a separately authorized phase.
+`திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened with new source evidence or a separately authorized phase.
