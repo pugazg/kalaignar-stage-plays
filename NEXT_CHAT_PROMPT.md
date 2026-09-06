@@ -17,7 +17,7 @@ Read before any source-dependent change:
 5. `works/ore-mutham/metadata/source.md`
 6. `works/ore-mutham/indexes/page-map.md`
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`
-8. existing page records `works/ore-mutham/pages/0001.md`–`0105.md` as needed
+8. existing page records `works/ore-mutham/pages/0001.md`–`0115.md` as needed
 9. controlling PDF `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 
 ## Source checkpoint
@@ -28,34 +28,26 @@ Read before any source-dependent change:
 - SHA-256: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**
 - source PDF committed to repository: **no**
 
-Source-visible anchors now reach **`காட்சி 27.`**. Later anchors:
+Source-visible anchors now reach **`காட்சி 29.`**. Latest anchors:
 
-- scan 68 / p.66: `காட்சி 18.` — `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.`;
-- scan 72 / p.70: `காட்சி 19.` — `இடம்:- வசந்த மண்டபம்.`;
-- scan 75 / p.73: `காட்சி 20.` — `இடம்:- மலையன் வீடு.`;
-- scan 80 / p.78: `காட்சி 21.` — `இடம்:- விபீஷணன் மாளிகை.`;
-- scan 85 / p.83: `காட்சி 22.` — `இடம்: பொன்னியின் குடிசை.`;
-- scan 87 / p.85: `காட்சி 23.` — `இடம்:- விபீஷணன் மாளிகை.`;
-- scan 94 / p.92: `காட்சி 24.` — `இடம்:- தெருவில்.`;
 - scan 96 / p.94: `காட்சி 25.` — `இடம்: விபீஷணன் மாளிகை.`;
 - scan 100 / p.98: `காட்சி 26.` — `இடம்:- மகாவீரர் தர்பார்.`;
-- scan 104 / p.102: `காட்சி 27.` — `இடம்:- இன்பபுரி அரண்மனைத் தெரு.`.
+- scan 104 / p.102: `காட்சி 27.` — `இடம்:- இன்பபுரி அரண்மனைத் தெரு.`;
+- scan 106 / p.104: `காட்சி 28.` — `இடம்:- தூக்குமேடை.`;
+- scan 112 / p.110: `காட்சி 29.` — `இடம்:- அரண்மனை நந்தவனம்.`.
 
-Earlier `காட்சி 1.`–`காட்சி 17.` anchors remain durable in the page map/page records. Exact location lines for scenes 4 and 5 remain held.
+Earlier anchors remain durable in the page map/page records. Exact location lines for scenes 4 and 5 remain held.
 
 Important direct evidence / boundaries:
 
 - scan 25 / p.23: caste-division governing-tactic line;
 - scan 31 / p.29: direct anti-caste / anti-untouchability dramatic argument;
 - scan 75 / p.73: discriminatory caste-law dialogue;
-- scan 63→64: physical `அல்` / `லது` split;
-- scan 67→68: physical `இமயா` / `வோடு` split;
-- scan 79→80: physical speech continuation;
-- scan 93→94: forced-letter courier sequence continues across the page boundary;
-- scan 94→95: `குமரி`'s scene-24 internal monologue physically continues;
-- scan 96→97: scene-25 threat physically continues as `சொல்` / `லப் போனால்`;
-- scan 97→98: physical word split `பதார்த்தங்` / `களில்`;
-- scan 102→103: `விபீஷ`'s long public accusation physically continues;
+- scan 106→107: `புத்த`'s execution-platform public address physically continues;
+- scan 109→110: `சித்ரா`'s accusation/explanation physically continues;
+- scan 111→112: `விபீஷ`'s final protest physically continues;
+- scan 111 / p.109: forged-letter case reverses publicly and the crowd acclaims the prince/king;
+- scan 115 / p.113: law/custom debate directly uses `கலப்புமணம்`;
 - scan 130: printed p.128 / final dramatic page;
 - scan 131: back-cover advertisement.
 
@@ -64,7 +56,7 @@ Important direct evidence / boundaries:
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic body;
 - scan **131**: back-cover advertisement;
-- directly confirmed printed numerals through scan 105: **pp.6–103**;
+- directly confirmed printed numerals through scan 115: **pp.6–113**;
 - later mapping remains provisional until each numeral is visually confirmed.
 
 ## Mandatory historical-glyph methodology
@@ -84,23 +76,21 @@ Current secure reference bank remains:
 
 Candidate forms on open pages are not promoted until their whole-page gates close.
 
-## Processed checkpoint — scans 1–105
+## Processed checkpoint — scans 1–115
 
 Verified: `2, 3, 4, 6`.
 
-Needs-review: `1, 5, 7–105`.
+Needs-review: `1, 5, 7–115`.
 
-Recent durable source pass — scans 96–105 / printed pp.94–103:
+Recent durable source pass — scans 106–115 / printed pp.104–113:
 
-- scan 96 opens `காட்சி 25.` at `விபீஷணன் மாளிகை.`;
-- scans 96–99 cover coercion of `யாளித்தத்தர்` and `புத்தன்` into forged letters;
-- scan 96→97 and scan 97→98 physical continuations are preserved;
-- scan 100 opens `காட்சி 26.` at `மகாவீரர் தர்பார்.`;
-- scans 101–103 carry the public accusation, forged-letter evidence and execution sentence; scan 102→103 physical continuation is preserved;
-- scan 104 closes scene 26 and opens `காட்சி 27.` at `இன்பபுரி அரண்மனைத் தெரு.`;
-- scans 104–105 record public reaction to the death sentence and `விபீஷ` urging armed suppression of a possible uprising;
-- explicit source holds remain on scans 96, 98, 99, 100, 101, 104 and 105 rather than guessed readings;
-- all scans 96–105 remain `needs-review`;
+- scan 106 opens `காட்சி 28.` at `தூக்குமேடை.`;
+- scans 106–111 carry the execution-platform confrontation, `குமரி` / `சித்ரா` interventions and forged-letter reversal;
+- physical continuations at 106→107, 109→110 and 111→112 are preserved;
+- scan 112 closes scene 28 and opens `காட்சி 29.` at `அரண்மனை நந்தவனம்.`;
+- scans 113–115 continue the garden aftermath, `சித்ரா`'s sacrifice/social-position discussion and the king/prince conflict over `பொன்னி`, law/custom and `கலப்புமணம்`;
+- dense exact-word/stage-direction holds remain explicit rather than guessed;
+- all scans 106–115 remain `needs-review`;
 - no open-page historical-glyph candidate was promoted;
 - no structural assembly or English translation started.
 
@@ -108,12 +98,12 @@ Recent durable source pass — scans 96–105 / printed pp.94–103:
 
 - physical scans registered: **131 / 131**
 - checksum: **recorded**
-- page records: **105 / 131**
-- source scans processed: **105 / 131**
+- page records: **115 / 131**
+- source scans processed: **115 / 131**
 - visually verified: **4 / 131**
-- `needs-review`: **101 / 131**
+- `needs-review`: **111 / 131**
 - historical-glyph passes: **4 / 131**
-- source-visible scene anchors: **27**
+- source-visible scene anchors: **29**
 - structural inventory: **not started**
 - scene assembly: **not started**
 - English translation: **not authorized / not started**
@@ -124,9 +114,9 @@ The user explicitly directed: **process 10 pages in each iteration**. Treat that
 
 ## Exact next activity
 
-Process **scans 106–115** source-first.
+Process **scans 116–125** source-first.
 
-1. create `pages/0106.md` through `pages/0115.md`;
+1. create `pages/0116.md` through `pages/0125.md`;
 2. inspect direct source pixels / enlarged source as required;
 3. transcribe without normalization;
 4. preserve exact source scene headings, stage directions and speaker labels;
