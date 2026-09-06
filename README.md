@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — RAW SOURCE PASS COMPLETE: 131/131 processed; closure-audited 1–80; verified 43; needs-review 88; historical-glyph pass 43/131; main play 30 scenes + separate 3-scene `நகைச் சுவைப் பகுதி`; assembly/English not started** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — RAW SOURCE PASS COMPLETE: 131/131 processed; closure-audited 1–90; verified 50; needs-review 81; historical-glyph pass 50/131; main play 30 scenes + separate 3-scene `நகைச் சுவைப் பகுதி`; assembly/English not started** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -30,19 +30,18 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 - scans **119–130 / pp.117–128**: separately headed **`நகைச் சுவைப் பகுதி.`**, with its own **3 scenes**;
 - scan **131**: back-cover publisher advertisement.
 
-Closure audit now completed for scans **1–80**:
+Closure audit now completed for scans **1–90**:
 
-- **verified:** `2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80`;
-- **needs-review:** `1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `81–131`;
-- historical-glyph passes: **43 / 131**;
-- scans **71, 75, 76 and 80** newly close PASS / verified in the 71–80 batch;
-- scans **72–74 and 77–79** remain open with explicit dense lexical/stage-direction/historical-type holds;
-- scan 71 supplies secure `பெண்ணை` (`ணை`), `மனக்கோட்டைகளை` (`ளை`) and `வழியில்லை` (`லை`) evidence;
-- scan 72 securely preserves `காட்சி 19.` / `இடம்:- வசந்த மண்டபம்.` but retains one dense lexical/place-name cluster;
-- scan 75 verifies the `காட்சி 19.` → `காட்சி 20.` transition and `இடம்:- மலையன் வீடு.` while preserving the discriminatory caste-law line exactly as printed;
-- scan 76 closes the full `பொன்` / `மலை` page and retains source form `அசத்தியம்`;
-- scan 79→80 physical continuation is preserved;
-- scan 80 verifies `காட்சி 21.` / `இடம்:- விபீஷணன் மாளிகை.` and the opening caste-law interrogation;
+- **verified:** `2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`;
+- **needs-review:** `1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–131`;
+- historical-glyph passes: **50 / 131**;
+- scans **81–87** newly close PASS / verified in the 81–90 batch;
+- scans **88–90** remain open with explicit exact-source holds after closure review;
+- scan 82 resolves `பாவம் வறுமையின் கஷ்டம்,` and source-closes `உன் வாழ்க்கையைக் கெடுத்துக் கொண்டாய்.`;
+- scan 85 verifies the `காட்சி 21.` → `காட்சி 22.` transition and `இடம்: பொன்னியின் குடிசை.`;
+- scan 87 verifies the `காட்சி 22.` → `காட்சி 23.` transition and `இடம்:- விபீஷணன் மாளிகை.`;
+- scans 88–90 preserve their unresolved stage-action/comparison, gesture/object and insult clusters without contextual completion;
+- scans **71, 75, 76 and 80** closed in the previous batch; scans **72–74 and 77–79** remain open;
 - earlier durable corrections remain unchanged, including scan 49 `மலரைக் காப்பாற்றினாய்`, scan 63 `காலப்பனிபோல்`, scan 65 `ஆசைப்படச் சொன்னார்`, scan 67 `வேம்பொடு`, scan 68 `வாழ்க இந்நாட்டு வளம்!`, and scan 70 `ஆலகாலமா?`.
 
 Important direct thematic evidence remains durable: scan 25 caste-division governing tactic; scan 31 anti-caste / anti-untouchability dialogue; scan 75 discriminatory caste-law dialogue; scan 115 `கலப்புமணம்` law/custom debate.
@@ -50,10 +49,10 @@ Important direct thematic evidence remains durable: scan 25 caste-division gover
 Current metrics:
 
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
-- closure-audited: **80 / 131**;
-- visually verified: **43 / 131**;
-- `needs-review`: **88 / 131**;
-- historical-glyph passes: **43 / 131**;
+- closure-audited: **90 / 131**;
+- visually verified: **50 / 131**;
+- `needs-review`: **81 / 131**;
+- historical-glyph passes: **50 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - checksum: **recorded**;
@@ -61,7 +60,7 @@ Current metrics:
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-**Exact next activity:** source-pass closure audit of **scans 81–90**. Do not begin scene assembly or English translation during closure.
+**Exact next activity:** source-pass closure audit of **scans 91–100**. Do not begin scene assembly or English translation during closure.
 
 ## Closed work safeguards
 
