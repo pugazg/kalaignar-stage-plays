@@ -32,14 +32,14 @@ Read before source-dependent change:
 
 All **131 / 131** scans are directly source-processed and represented by `pages/0001.md`–`0131.md`. Main play scans 8–118 / pp.6–116 have 30 source-visible scenes; scans 119–130 / pp.117–128 are the separate 3-scene `நகைச் சுவைப் பகுதி.`; scan 131 is back-cover advertising.
 
-## Closure audit checkpoint — scans 1–40 COMPLETE
+## Closure audit checkpoint — scans 1–50 COMPLETE
 
 - verified: **26 / 131** — scans `2–20`, `22`, `24–26`, `33`, `37`, `40`;
 - `needs-review`: **105 / 131** — scans `1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`;
 - historical-glyph passes: **26 / 131**;
-- closure-audited: **40 / 131**.
+- closure-audited: **50 / 131**.
 
-Important source findings in scans 21–30:
+Important source findings through scan 50:
 
 - scan 21 / p.19: second stage direction resolves as `துவங்குகிறான்`; opening bold direction remains held;
 - scan 22 / p.20: held comparison resolves as `புயலைப்போல` — verified;
@@ -47,17 +47,14 @@ Important source findings in scans 21–30:
 - scan 24 / p.22: held parenthetical resolves as `(2-வது காவியைக் காட்டி)` — verified; secure `ளை` reference `வளையிலேயே` and `ணை` reference `கண்ணை`;
 - scan 25 / p.23: complete page verified; direct dramatic line `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.` remains source evidence;
 - scan 26 / p.24: complete page verified; source punctuation is `கனவு! கனவு!`;
-- scan 27 / p.25: several small bold stage-direction holds remain;
-- scan 28 / p.26: one dialogue phrase remains held;
-- scan 29 / p.27: one `புத்த` lexical clause remains held;
-- scan 30 / p.28: one small parenthetical action direction remains held;
 - scan 31 / p.29: anti-caste dialogue remains source-secure, but dense character/spacing clusters keep the page open;
-- scan 32 / p.30: `காட்சி 9.` / `இடம்:- விபீஷணன் அறை` secure; one small stage/lexical cluster remains held;
 - scan 33 / p.31: complete page verified;
-- scans 34–36: colloquial/dense/stage-direction holds remain;
 - scan 37 / p.35: `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்` verified; secure `ணை` witness `கணையாழி`;
-- scans 38–39: explicit character-level holds remain; scan 39→40 continuation preserved;
-- scan 40 / p.38: complete page verified; source form `நாசகாலர்கள்` retained.
+- scan 40 / p.38: complete page verified; source form `நாசகாலர்கள்` retained;
+- scans 41–50 were all closure-reviewed but **none was promoted** because every page still has at least one explicit character-level, punctuation, stage-direction, or dense historical-type hold;
+- scan 46 / p.44 securely preserves `காட்சி 12.` / `இடம்: ஆற்றோரம்`;
+- scan 49 / p.47 has a durable source correction: **`மலரைச் சாப்பாற்றினாய்` → `மலரைக் காப்பாற்றினாய்`**;
+- scan 50 / p.48 securely preserves the `வெளியில்` / `உள்ளே` alternation and the printed voice/vision line-breaking.
 
 Earlier corrections remain authoritative and must not be reverted:
 
@@ -80,11 +77,11 @@ Full mandatory family gate on every closure-reviewed scan:
 
 No global replacement. No spelling, grammar, punctuation, speaker-label or scene-heading normalization. No context-based/plot-based repair.
 
-## Exact next activity — SOURCE-PASS CLOSURE AUDIT, scans 41–50
+## Exact next activity — SOURCE-PASS CLOSURE AUDIT, scans 51–60
 
 Do **not** begin formal scene assembly or English translation.
 
-Process scans **41–50** as the next closure batch:
+Process scans **51–60** as the next closure batch:
 
 1. inspect each page directly from source pixels/enlarged crops;
 2. revisit every explicit `source-held` / `needs-review` item;
