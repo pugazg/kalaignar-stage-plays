@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — 131 PHYSICAL SCANS REGISTERED; SOURCE PROCESSING 105 / 131; 4 VERIFIED; 101 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 4 / 131; CHECKSUM RECORDED; STRUCTURE/ASSEMBLY NOT STARTED.**
+**ACTIVE — 131 PHYSICAL SCANS REGISTERED; SOURCE PROCESSING 115 / 131; 4 VERIFIED; 111 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 4 / 131; CHECKSUM RECORDED; STRUCTURE/ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -22,42 +22,31 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
 Catalog context does not substitute for source transcription. Scan 6 independently supports the Sri Lankan historical-fragment basis and first staging by `தேவி நாடக சபை`.
 
-The dramatic body directly supports an anti-caste theme: scan 25 / p.23 depicts caste division as a governing tactic, scan 31 / p.29 directly condemns caste-based degradation / untouchability, and scan 75 / p.73 directly prints a discriminatory caste-law claim within the drama.
+The dramatic body directly supports an anti-caste theme: scan 25 / p.23 depicts caste division as a governing tactic, scan 31 / p.29 directly condemns caste-based degradation / untouchability, scan 75 / p.73 prints a discriminatory caste-law claim, and scan 115 / p.113 directly develops a law/custom debate around `கலப்புமணம்`.
 
 ## Source-visible structure
 
-Direct scene anchors now reach **`காட்சி 27.`**. The latest anchors are:
+Direct scene anchors now reach **`காட்சி 29.`**. Latest anchors:
 
-- scan 85 / p.83 — `காட்சி 22.` / `இடம்: பொன்னியின் குடிசை.`;
-- scan 87 / p.85 — `காட்சி 23.` / `இடம்:- விபீஷணன் மாளிகை.`;
-- scan 94 / p.92 — `காட்சி 24.` / `இடம்:- தெருவில்.`;
 - scan 96 / p.94 — `காட்சி 25.` / `இடம்: விபீஷணன் மாளிகை.`;
 - scan 100 / p.98 — `காட்சி 26.` / `இடம்:- மகாவீரர் தர்பார்.`;
-- scan 104 / p.102 — `காட்சி 27.` / `இடம்:- இன்பபுரி அரண்மனைத் தெரு.`.
+- scan 104 / p.102 — `காட்சி 27.` / `இடம்:- இன்பபுரி அரண்மனைத் தெரு.`;
+- scan 106 / p.104 — `காட்சி 28.` / `இடம்:- தூக்குமேடை.`;
+- scan 112 / p.110 — `காட்சி 29.` / `இடம்:- அரண்மனை நந்தவனம்.`.
 
-Earlier anchors `காட்சி 1.`–`காட்சி 21.` remain durable in the page map and page records. Exact location lines for scenes 4 and 5 remain held.
+Earlier anchors remain durable in the page map and page records. Exact location lines for scenes 4 and 5 remain held.
 
-Printed numerals are directly confirmed through scan 105: **pp.6–103**.
+Printed numerals are directly confirmed through scan 115: **pp.6–113**.
 
-## Recent source batches
+## Recent source batch — scans 106–115
 
-### Scans 86–95
-
-- scene 23 begins on scan 87 and scene 24 on scan 94;
-- ambush/restraint/forced-letter material is source-processed;
-- scan 94→95 physically continues `குமரி`'s internal monologue;
-- scans 88–90 retain explicit exact-word/action holds.
-
-### Scans 96–105
-
-- scan 96 opens `காட்சி 25.` at `விபீஷணன் மாளிகை.`;
-- scans 96–99 cover coercion of `யாளித்தத்தர்` and `புத்தன்` into forged letters; scan 96→97 and scan 97→98 physical continuations are preserved;
-- scan 100 opens `காட்சி 26.` at `மகாவீரர் தர்பார்.` with a Tamil-poet honouring sequence before `விபீஷணன்` presents the prisoners;
-- scans 101–103 carry the public accusation, forged-letter evidence and execution sentence; scan 102→103 physical continuation is preserved;
-- scan 104 closes scene 26 and opens `காட்சி 27.` at `இன்பபுரி அரண்மனைத் தெரு.`;
-- scans 104–105 show public reaction to the death sentence and `விபீஷ` urging armed suppression of a possible uprising;
-- explicit source holds remain on scans 96, 98, 99, 100, 101, 104 and 105;
-- all ten new pages remain `needs-review`;
+- scan 106 opens scene 28 on the execution platform;
+- scans 106–111 carry the execution/public confrontation, `குமரி` and `சித்ரா` interventions, and the forged-letter reversal;
+- physical continuations are preserved at scan 106→107, scan 109→110 and scan 111→112;
+- scan 112 closes scene 28 and opens `காட்சி 29.` at `அரண்மனை நந்தவனம்.`;
+- scans 113–115 continue the garden aftermath, `சித்ரா`'s sacrifice/social-position discussion, and the king/prince conflict over `பொன்னி`, law/custom and `கலப்புமணம்`;
+- dense exact-word/stage-direction holds remain explicit rather than guessed;
+- all ten pages remain `needs-review`;
 - no open historical-glyph candidate was promoted.
 
 ## Historical-glyph policy
@@ -79,12 +68,12 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 - source scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **105 / 131**;
-- source scans processed: **105 / 131**;
+- page records created: **115 / 131**;
+- source scans processed: **115 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **101 / 131** (`1, 5, 7–105`);
+- `needs-review`: **111 / 131** (`1, 5, 7–115`);
 - historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **27**;
+- source-visible scene anchors: **29**;
 - structural/scene inventory: **not started**;
 - Tamil source-representation assembly: **not started**;
 - English translation: **not authorized / not started**.
@@ -95,6 +84,6 @@ The remaining source pass proceeds in **10-scan iterations** unless the final re
 
 ## Exact next activity
 
-Process **scans 106–115** source-first. Directly confirm all printed numerals, preserve exact scene/stage/speaker forms, and run the complete 13-family historical-glyph gate. Keep all existing holds open unless stronger source pixels genuinely resolve them.
+Process **scans 116–125** source-first. Directly confirm all printed numerals, preserve exact scene/stage/speaker forms, and run the complete 13-family historical-glyph gate. Keep all existing holds open unless stronger source pixels genuinely resolve them.
 
 Do not begin scene assembly or English translation during the page-source pass.
