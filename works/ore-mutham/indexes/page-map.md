@@ -63,9 +63,11 @@ All **131 physical scans** are registered and source-processed. The individual `
 | 75–76 | 73–74 | `காட்சி 19.` close / `காட்சி 20.` | verified | Scan 75: `இடம்:- மலையன் வீடு.` and discriminatory caste-law line PASS; scan 76 complete `பொன்` / `மலை` dialogue PASS with source form `அசத்தியம்` retained. |
 | 77–79 | 75–77 | `காட்சி 20.` | needs-review | Scan 77 top-line ending + two bold parentheticals held; scan 78 one lexical cluster held; scan 79 dense final-speech type remains open while scan 79→80 continuation is secure. |
 | 80 | 78 | `காட்சி 20.` close / `காட்சி 21.` | verified | Scan-79 continuation, blackout transition, `இடம்:- விபீஷணன் மாளிகை.` and opening caste-law interrogation PASS. |
-| 81–84 | 79–82 | `காட்சி 21.` | needs-review | Raw source pass complete; closure audit not yet run. |
-| 85–86 | 83–84 | `காட்சி 22.` | needs-review | Scan 85: `இடம்: பொன்னியின் குடிசை.` |
-| 87–93 | 85–91 | `காட்சி 23.` | needs-review | Scan 87: `இடம்:- விபீஷணன் மாளிகை.`; ambush/restraint/forced-letter sequence. |
+| 81–84 | 79–82 | `காட்சி 21.` | verified | Full closure PASS. Scan 81 preserves `மலைய:-`; scan 82 resolves `பாவம் வறுமையின் கஷ்டம்,` and `உன் வாழ்க்கையைக் கெடுத்துக் கொண்டாய்.`; scans 83–84 close dialogue/stage actions. |
+| 85–86 | 83–84 | `காட்சி 21.` close / `காட்சி 22.` | verified | Scan 85: `இடம்: பொன்னியின் குடிசை.`; both pages close full visual + glyph gates. |
+| 87 | 85 | `காட்சி 22.` close / `காட்சி 23.` | verified | `இடம்:- விபீஷணன் மாளிகை.` and opening scene-23 dialogue PASS. |
+| 88–90 | 86–88 | `காட்சி 23.` | needs-review | Closure-audited: scan 88 retains stage-action + page-ending comparison holds; scan 89 one dense gesture/object stage-direction hold; scan 90 one short insult cluster. |
+| 91–93 | 89–91 | `காட்சி 23.` | needs-review | Raw source pass complete; ambush/restraint/forced-letter sequence continues. |
 | 94–95 | 92–93 | `காட்சி 24.` | needs-review | Scan 94: `இடம்:- தெருவில்.`; internal monologue continues into scan 95. |
 | 96–99 | 94–97 | `காட்சி 25.` | needs-review | Scan 96: `இடம்: விபீஷணன் மாளிகை.` |
 | 100–103 | 98–101 | `காட்சி 26.` | needs-review | Scan 100: `இடம்:- மகாவீரர் தர்பார்.` |
@@ -84,10 +86,10 @@ All **131 physical scans** are registered and source-processed. The individual `
 - checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
-- closure-audited: **scans 1–80**;
-- visually verified: **43 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80`);
-- `needs-review`: **88 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `81–131`);
-- completed historical-glyph passes: **43 / 131**;
+- closure-audited: **scans 1–90**;
+- visually verified: **50 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`);
+- `needs-review`: **81 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–131`);
+- completed historical-glyph passes: **50 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary comedy source-visible anchors: **3**;
 - formal structural/scene inventory: **not started**;
@@ -160,6 +162,22 @@ All **131 physical scans** are registered and source-processed. The individual `
 - scan 80 closes the continuation, blackout transition, `காட்சி 21.` / `இடம்:- விபீஷணன் மாளிகை.` and opening interrogation;
 - no global replacement, modern spelling repair or plot-based completion was used.
 
+## Closure audit checkpoint — scans 81–90
+
+- all ten scans were directly re-inspected source-first;
+- scans **81–87** close **PASS / verified** — **7 new verified pages**;
+- scan 81 preserves source speaker-label variation `மலைய:-` and closes the full page;
+- scan 82 resolves `பாவம் வறுமையின் கஷ்டம்,` and source-closes `உன் வாழ்க்கையைக் கெடுத்துக் கொண்டாய்.`;
+- scan 83 closes the bracketed `மலையன்` entrance and supplies secure `கண்ணை` (`ணை`) evidence;
+- scan 84 closes the violence/prison-order page and supplies secure `விடுதலை` / `இவளைப்` / `மலையனை` comparison evidence;
+- scan 85 verifies `காட்சி 22.` / `இடம்: பொன்னியின் குடிசை.`;
+- scan 86 closes the complete colloquial `மலை` / `குமரி` dialogue;
+- scan 87 verifies `காட்சி 23.` / `இடம்:- விபீஷணன் மாளிகை.`;
+- scan 88 retains a stage-action cluster and page-ending comparison wording;
+- scan 89 retains one dense gesture/object stage-direction cluster while the scan-88 continuation and ambush sequence are secure;
+- scan 90 retains one short exact insult cluster;
+- no semantic, OCR-expectation, modern-spelling or plot-based completion was used for the three open pages.
+
 ## Exact next activity
 
-Continue the **source-pass closure audit with scans 81–90**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
+Continue the **source-pass closure audit with scans 91–100**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
