@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; CLOSURE AUDIT COMPLETE FOR SCANS 1–10; 9 VERIFIED; 122 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 9 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
+**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; CLOSURE AUDIT COMPLETE FOR SCANS 1–20; 19 VERIFIED; 112 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 19 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -25,25 +25,19 @@ Scan 6 independently supports the Sri Lankan historical-fragment basis and first
 ## Source-visible structure
 
 1. **Main play `ஒரே முத்தம்`** — scans **8–118 / pp.6–116**, with **30 source-visible scenes**.
-   - scan 117 / p.115: `காட்சி 30.` / `இடம்:- குமரியின் படுக்கை.`;
-   - scan 118 / p.116: main-play close and closing verse.
-2. **`நகைச் சுவைப் பகுதி.` supplementary comedy** — scans **119–130 / pp.117–128**, with its own **3-scene** numbering:
-   - scan 119 / p.117: `காட்சி 1.` / `இடம்:- சந்தேகம் வீடு.`;
-   - scan 125 / p.123: `காட்சி 2.` / `இடம்:- வயல் வெளி.`;
-   - scan 128 / p.126: `காட்சி 3.` / `இடம்:- சந்தேகம் வீடு.`;
-   - scan 130 / p.128: final dramatic-text page.
+2. **`நகைச் சுவைப் பகுதி.` supplementary comedy** — scans **119–130 / pp.117–128**, with its own **3-scene** numbering.
+3. Scan **131** is back-cover publisher advertising.
 
-Scan 131 is back-cover publisher advertising. Do not renumber the supplementary scenes as main-play scenes 31–33.
+Do not renumber the supplementary scenes as main-play scenes 31–33.
 
-## Closure audit checkpoint — scans 1–10
+## Closure audit checkpoint — scans 1–20
 
-- scan 1 remains `needs-review`: title secure; small stylized cover lettering / tiny artist mark remain unresolved;
-- scans 2–4 and 6 retain prior verification;
-- scan 5 is newly **verified**: complete `பதிப்புரை.` closed from enlarged pixels;
-- scan 7 is newly **verified**: complete cast list and `நகைச்சுவைப் பகுதி.` cast closed; supplies secure `ணை` reference `துணைவி`;
-- scan 8 / p.6 is newly **verified**: full `காட்சி 1.` opener closed;
-- scan 9 / p.7 is newly **verified**: scene-1 close / scene-2 opener and final collective stage direction closed;
-- scan 10 / p.8 is newly **verified**: full scene-2 continuation closed; physical `சொல்` / `ளார்.` split into scan 11 confirmed and preserved.
+- scan 1 remains `needs-review`: title secure; small stylized cover lettering / tiny artist mark unresolved;
+- scans **2–20** are now **verified** and have closed full historical-glyph gates;
+- scan 11 / p.9 corrects the earlier provisional `காட்சி 3.` location to **`இடம்:- மாளிகையில் ஒருபுறம்.`**;
+- scan 15 / p.13 directly resolves **`காட்சி 4.` — `இடம்:- இமயாவின் மாளிகை`**;
+- scan 19 / p.17 directly resolves **`காட்சி 5.` — `இடம்:- முல்லைக்காட்டு நகரத்தெரு`**;
+- source page-boundary continuations through scan 20 remain explicitly preserved.
 
 ## Direct thematic evidence
 
@@ -58,7 +52,7 @@ Mandatory family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Secure reference bank now includes:
+Current secure reference bank includes:
 
 - `லை` — scans 3, 4, 5, 6;
 - `ணா` — scans 3, 5, 6;
@@ -72,10 +66,10 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **10 / 131** (`1–10`);
-- visually verified: **9 / 131** (`2–10`, except `1`);
-- `needs-review`: **122 / 131** (`1, 11–131`);
-- historical-glyph passes: **9 / 131**;
+- closure-audited: **20 / 131** (`1–20`);
+- visually verified: **19 / 131** (`2–20`);
+- `needs-review`: **112 / 131** (`1, 21–131`);
+- historical-glyph passes: **19 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - formal structural inventory: **not started**;
@@ -84,4 +78,4 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 ## Exact next activity
 
-Run the next **source-pass closure batch over scans 11–20**. The exact location lines for `காட்சி 4.` on scan 15 and `காட்சி 5.` on scan 19 are priority source problems; resolve only from stronger source pixels. Do not begin scene assembly or English translation.
+Run the next **source-pass closure batch over scans 21–30**. Resolve only from stronger source pixels/enlargements and run the complete 13-family historical-glyph gate on each scan. Do not begin scene assembly or English translation.
