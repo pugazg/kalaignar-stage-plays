@@ -36,27 +36,32 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 | 28 | 26 | body | `காட்சி 8.` continuation | needs-review | Complete visible dialogue and readable stage directions transcribed; final punctuation/glyph gate open. |
 | 29 | 27 | body | `காட்சி 8.` continuation | needs-review | Conflict/stage structure and dialogue transcribed; `விபீஷணா?` checked as `ணா`; whole-page gate remains open. |
 | 30 | 28 | body | `காட்சி 8.` continuation | needs-review | Visible dialogue transcribed; one parenthetical action direction held; source dialect preserved. |
-| 31 | 29 | body | `காட்சி 8.` continuation | needs-review | Visible dialogue substantially transcribed; extended anti-caste / anti-untouchability argument directly source-supported; final punctuation/glyph gate open. |
+| 31 | 29 | body | `காட்சி 8.` continuation | needs-review | Visible dialogue substantially transcribed; extended anti-caste / anti-untouchability argument directly source-supported. |
 | 32 | 30 | body | `காட்சி 8.` close / `காட்சி 9.` opener | needs-review | `காட்சி 9.` / `இடம்:- விபீஷணன் அறை` secure; small bold/parenthetical forms retained for second pass. |
-| 33 | 31 | body | `காட்சி 9.` continuation | needs-review | Visible dialogue and stage actions substantially transcribed; final punctuation/glyph gate open. |
+| 33 | 31 | body | `காட்சி 9.` continuation | needs-review | Visible dialogue and stage actions substantially transcribed. |
 | 34 | 32 | body | `காட்சி 9.` continuation | needs-review | Visible dialogue substantially transcribed; colloquial/historical-vowel clusters remain under second pass. |
 | 35 | 33 | body | `காட்சி 9.` continuation | needs-review | Visible dialogue substantially transcribed; dense prose/dialogue and historical-vowel clusters remain under second pass. |
-| 36 | 34 | body | `காட்சி 9.` continuation | needs-review | Kumari escape / Chitra substitution sequence substantially transcribed; punctuation and glyph gate open. |
-| 37 | 35 | body | `காட்சி 9.` close / `காட்சி 10.` opener | needs-review | `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்` directly source-secure; final small-type/glyph pass open. |
-| 38 | 36 | body | `காட்சி 10.` continuation | needs-review | Burned-village / unpaid-tax report and arrest discussion transcribed; final punctuation/glyph gate open. |
+| 36 | 34 | body | `காட்சி 9.` continuation | needs-review | Kumari escape / Chitra substitution sequence substantially transcribed. |
+| 37 | 35 | body | `காட்சி 9.` close / `காட்சி 10.` opener | needs-review | `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்` directly source-secure. |
+| 38 | 36 | body | `காட்சி 10.` continuation | needs-review | Burned-village / unpaid-tax report and arrest discussion transcribed. |
 | 39 | 37 | body | `காட்சி 10.` continuation | needs-review | Kumari returns with documentary evidence; final sentence physically continues onto scan 40. |
 | 40 | 38 | body | `காட்சி 10.` continuation | needs-review | Cross-page evidence continues; private `காவிகள்` exchange and arrest/anti-treason directive transcribed; source form `நாசகாலர்கள்` preserved. |
-| 41 | 39 | body | `காட்சி 11.` opener | needs-review | `காட்சி 11.` / `இடம்: விபீஷணன் தனியறை` directly source-secure; visible confrontation transcribed; final glyph gate open. |
+| 41 | 39 | body | `காட்சி 11.` opener | needs-review | `காட்சி 11.` / `இடம்: விபீஷணன் தனியறை` directly source-secure. |
 | 42 | 40 | body | `காட்சி 11.` continuation | needs-review | Scene-11 dialogue transcribed; dense lexical/historical-vowel forms retained for second pass. |
 | 43 | 41 | body | `காட்சி 11.` continuation | needs-review | Dialogue and `கா` entrances transcribed; one small bold parenthetical remains exact-word hold. |
 | 44 | 42 | body | `காட்சி 11.` continuation | needs-review | Visible dialogue substantially transcribed; one final lexical cluster held; open `லை` / `ளை` comparison material. |
 | 45 | 43 | body | `காட்சி 11.` continuation | needs-review | Visible confrontation transcribed; one cluster immediately before `பலிபீடம்` remains held. |
-| 46 | 44 | body | `காட்சி 11.` close / `காட்சி 12.` opener | needs-review | `காட்சி 12.` / `இடம்: ஆற்றோரம்` directly source-secure; final punctuation/glyph gate open. |
+| 46 | 44 | body | `காட்சி 11.` close / `காட்சி 12.` opener | needs-review | `காட்சி 12.` / `இடம்: ஆற்றோரம்` directly source-secure. |
 | 47 | 45 | body | `காட்சி 12.` continuation | needs-review | Evening/palanquin stage direction and dialogue transcribed; one lodging-invitation lexical exact-word hold retained. |
 | 48 | 46 | body | `காட்சி 12.` continuation | needs-review | Hut/interior dialogue transcribed; two small stage-direction exact-word holds retained. |
-| 49 | 47 | body | `காட்சி 12.` continuation | needs-review | Outside/inside alternation and `விபீஷணன் குரலும் நிழலும்` block transcribed; final glyph gate open. |
-| 50 | 48 | body | `காட்சி 12.` continuation | needs-review | Outside/inside alternation, voice/vision inset and closing box/letters action transcribed; final glyph gate open. |
-| 51–130 | 49–128* | body | dramatic text | not-started | Sequential mapping remains provisional; scan 125 = p.123 and scan 130 = p.128 are visible anchors. |
+| 49 | 47 | body | `காட்சி 12.` continuation | needs-review | Outside/inside alternation and `விபீஷணன் குரலும் நிழலும்` block transcribed. |
+| 50 | 48 | body | `காட்சி 12.` continuation | needs-review | Outside/inside alternation, voice/vision inset and closing box/letters action transcribed. |
+| 51 | 49 | body | `காட்சி 12.` close / `காட்சி 13.` opener | needs-review | `காட்சி 13.` / `இடம்: தெருவில்.` secure; one long pre-scene parenthetical remains partly held. |
+| 52 | 50 | body | `காட்சி 13.` close / `காட்சி 14.` opener | needs-review | `காட்சி 14.` / `இடம்: புத்தன் முகாம்` secure; comic/song and dawn-stage parentheticals retain exact-word holds. |
+| 53 | 51 | body | `காட்சி 14.` close / `காட்சி 15.` opener | needs-review | `காட்சி 15.` / `இடம்: விபீஷணன் மண்டபம்.` secure; visible dialogue substantially transcribed. |
+| 54 | 52 | body | `காட்சி 15.` continuation | needs-review | Question-and-answer dialogue substantially transcribed; final punctuation/glyph gate open. |
+| 55 | 53 | body | `காட்சி 15.` continuation | needs-review | Political/moral argument substantially transcribed; final sentence physically continues onto scan 56. |
+| 56–130 | 54–128* | body | dramatic text | not-started | Sequential mapping remains provisional; scan 125 = p.123 and scan 130 = p.128 are visible anchors. |
 | 131 | — | back matter | back-cover advertisement | not-started | Publisher book-list advertisement. |
 
 `*` Printed-page policy: arithmetic mapping never makes a page verified. Each numeral must be visually confirmed.
@@ -65,10 +70,10 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 
 - physical scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **50 / 131**;
-- source scans processed: **50 / 131**;
+- page records created: **55 / 131**;
+- source scans processed: **55 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **46 / 131** (`1, 5, 7–50`);
+- `needs-review`: **51 / 131** (`1, 5, 7–55`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
 - structural/scene inventory: **not started**;
 - scene assembly: **not started**;
@@ -87,8 +92,11 @@ All **131 physical scans** are registered. Per-scan records are source-first; re
 - scan 32 / p.30: `காட்சி 9.` — `இடம்:- விபீஷணன் அறை`;
 - scan 37 / p.35: `காட்சி 10.` — `இடம்: பவளமலைச் சாரல்`;
 - scan 41 / p.39: `காட்சி 11.` — `இடம்: விபீஷணன் தனியறை`;
-- scan 46 / p.44: `காட்சி 12.` — `இடம்: ஆற்றோரம்`.
+- scan 46 / p.44: `காட்சி 12.` — `இடம்: ஆற்றோரம்`;
+- scan 51 / p.49: `காட்சி 13.` — `இடம்: தெருவில்.`;
+- scan 52 / p.50: `காட்சி 14.` — `இடம்: புத்தன் முகாம்`;
+- scan 53 / p.51: `காட்சி 15.` — `இடம்: விபீஷணன் மண்டபம்.`.
 
 ## Exact next activity
 
-Process **scans 51–55** source-first. Confirm printed numerals directly, preserve source-visible scene/stage/speaker structure, and run the complete 13-family historical-glyph gate on each.
+Process **scans 56–60** source-first. Confirm printed numerals directly, preserve source-visible scene/stage/speaker structure, and run the complete 13-family historical-glyph gate on each.

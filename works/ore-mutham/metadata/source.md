@@ -18,9 +18,8 @@ The checksum was computed directly from the exact supplied file bytes. All sourc
 - scan 1: front cover carries **`ஒரே முத்தம்`**;
 - scan 2: later donor/library gift slip, not authorial publication text;
 - scan 3: **`தென்றல் வெளியீடு. 3.`**, **`ஒரே முத்தம்`**, **`சரித்திரக் கற்பனை நாடகம்.`**, author **`கலைஞர், மு. கருணாநிதி எம். எல். ஏ.`**, **`ஐந்தாம் பதிப்பு.`**;
-- scan 4: edition history from June 1950 through fifth edition December 1964; publisher **`தென்றல் நூற்பதிப்புக் கழகம்.`**; printer **`செந்தமிழ் அச்சகம்`**; price **`விலை ரூபா 2-00.`**;
-- scan 5: `பதிப்புரை.` publisher note; dense body remains held;
-- scan 6: complete `முன்னுரை`, ending **`சென்னை, 25-5-1950`** and **`மு. கருணாநிதி.`**;
+- scan 4: edition history through fifth edition December 1964; publisher **`தென்றல் நூற்பதிப்புக் கழகம்.`**; printer **`செந்தமிழ் அச்சகம்`**; price **`விலை ரூபா 2-00.`**;
+- scan 6: complete `முன்னுரை`, ending **`சென்னை, 25-5-1950`** and **`மு. கருணாநிதி.`**; source states the Sri Lankan historical-fragment basis and first staging by `தேவி நாடக சபை`;
 - scan 7: cast list;
 - scan 8 / p.6: **`காட்சி 1.`**;
 - scan 9 / p.7: **`காட்சி 2.`**;
@@ -34,14 +33,13 @@ The checksum was computed directly from the exact supplied file bytes. All sourc
 - scan 37 / p.35: **`காட்சி 10.`**, **`இடம்: பவளமலைச் சாரல்`**;
 - scan 41 / p.39: **`காட்சி 11.`**, **`இடம்: விபீஷணன் தனியறை`**;
 - scan 46 / p.44: **`காட்சி 12.`**, **`இடம்: ஆற்றோரம்`**;
-- scan 25 / p.23: scene-7 dialogue explicitly prints **`மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`**;
+- scan 51 / p.49: **`காட்சி 13.`**, **`இடம்: தெருவில்.`**;
+- scan 52 / p.50: **`காட்சி 14.`**, **`இடம்: புத்தன் முகாம்`**;
+- scan 53 / p.51: **`காட்சி 15.`**, **`இடம்: விபீஷணன் மண்டபம்.`**;
+- scan 25 / p.23: dialogue explicitly prints **`மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`**;
 - scan 31 / p.29: source dialogue directly condemns caste-based degradation / untouchability;
 - scan 130: printed p.128, final dramatic page;
 - scan 131: back-cover publisher advertisement.
-
-### Source-visible work description / performance statement
-
-Scan 6 states that the work takes a small fragment of a historical occurrence in Sri Lanka as its basis and develops `ஒரே முத்தம்` as a drama. It also states that `தேவி நாடக சபை` first staged the drama.
 
 ### User-supplied catalog metadata
 
@@ -50,39 +48,24 @@ Scan 6 states that the work takes a small fragment of a historical occurrence in
 - publisher: **தென்றல் நூற்பதிப்புக் கழகம்**
 - edition/year: **ஐந்தாம் பதிப்பு, 1964**
 
-The source-processed dramatic body directly supports an anti-caste theme: scan 25 depicts caste division as a political tactic, and scan 31 contains an explicit condemnation of caste-based degradation / untouchability. The archival layer records those source facts without silently converting them into normalized wording.
+The source-processed dramatic body directly supports an anti-caste theme: scan 25 depicts caste division as a political tactic, and scan 31 contains an explicit condemnation of caste-based degradation / untouchability.
 
 ## Pagination behaviour
 
 Raw physical scan numbers control archival provenance.
 
 - scans **1–7** are front matter;
-- scans **8–50** directly confirm printed pp.**6–48**;
+- scans **8–55** directly confirm printed pp.**6–53**;
 - scans **8–130** contain the dramatic work;
 - scan **125** visibly carries printed page **123**;
 - scan **130** visibly carries printed page **128** and is the final dramatic page;
 - scan **131** is a back-cover publisher advertisement / book list.
 
-The sequential mapping scans 51–130 remains provisional until each printed numeral is directly checked.
+The sequential mapping scans 56–130 remains provisional until each printed numeral is directly checked.
 
 ## Structural intake observations
 
-Direct scene anchors established so far:
-
-- scan 8 / p.6 — `காட்சி 1.`;
-- scan 9 / p.7 — `காட்சி 2.`;
-- scan 11 / p.9 — `காட்சி 3.`;
-- scan 15 / p.13 — `காட்சி 4.`;
-- scan 19 / p.17 — `காட்சி 5.`;
-- scan 21 / p.19 — `காட்சி 6.` / `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.`;
-- scan 24 / p.22 — `காட்சி 7.` / `இடம்: இமயாவின் மது மண்டபம்`;
-- scan 27 / p.25 — `காட்சி 8.` / `இடம்:- முல்லைக்காட்டுப் பகுதி.`;
-- scan 32 / p.30 — `காட்சி 9.` / `இடம்:- விபீஷணன் அறை`;
-- scan 37 / p.35 — `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்`;
-- scan 41 / p.39 — `காட்சி 11.` / `இடம்: விபீஷணன் தனியறை`;
-- scan 46 / p.44 — `காட்சி 12.` / `இடம்: ஆற்றோரம்`.
-
-The exact scene-4 and scene-5 location lines remain under enlarged review. A definitive full scene inventory remains deferred.
+Direct scene anchors currently established: `காட்சி 1.` through `காட்சி 15.`. The exact scene-4 and scene-5 location lines remain under enlarged review. A definitive full scene inventory remains deferred until the page-source pass is complete.
 
 ## Scan condition / anomalies
 
@@ -90,13 +73,13 @@ The exact scene-4 and scene-5 location lines remain under enlarged review. A def
 - aged paper, bleed-through and uneven type are visible;
 - historical Tamil glyph shapes are present;
 - donor/library/handwritten marks must remain separate from literary text;
-- scans 21–50 were inspected at enlarged resolution; explicit held clusters remain where small bold parenthetical directions, colloquial forms, dense lexical clusters or historical-vowel forms are not yet character-secure;
-- scan 39→40 contains a physical cross-page sentence boundary after `மாதவன் - மனசாட்சியை அடகு`;
-- scan 43 retains one small bold parenthetical exact-word hold;
-- scans 44 and 45 each retain one explicit lexical hold rather than contextual completion;
-- scan 47 retains one lexical hold in the lodging invitation;
-- scan 48 retains two small stage-direction exact-word holds;
-- scans 49–50 preserve `விபீஷணன் குரலும் நிழலும்` as distinct source-visible voice/vision blocks;
+- scans 21–55 were inspected at enlarged resolution;
+- scan 39→40 contains a physical cross-page sentence boundary;
+- scans 43–48 retain explicit lexical/stage-direction holds from earlier batches;
+- scans 49–51 preserve `விபீஷணன் குரலும் நிழலும்` voice/vision material;
+- scan 51 retains one long pre-scene parenthetical partly held;
+- scan 52 retains dense comic/song and dawn-stage parenthetical holds;
+- scan 55 ends in a physically incomplete `விபீஷ` sentence that continues onto scan 56;
 - back cover is an advertisement, not dramatic text.
 
 ## Verification authority
@@ -107,29 +90,29 @@ Mandatory family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Current secure same-edition examples remain:
+Current secure same-edition examples remain limited to verified pages:
 
 - `லை`: scan 3 `கலைஞர்`; scan 4 `விலை`; scan 6 `சிதறலை`, `கூறுவதற்கில்லை`;
 - `ணா`: scans 3 and 6 `கருணாநிதி`;
 - `னை`: scan 3 `விற்பனை`, `சென்னை`; scan 4 `சென்னை`; scan 6 `சென்னை`;
 - `றா`: scan 6 `காரணமாகும்`.
 
-Open scans 36–50 provide additional candidate comparison material including `மின்னலை`, `கணையாழி`, `காலையில்` / `அலைந்தோம்`, `தலையை`, `மஞ்சளைக்`, `அவளைத்`, `மனைவி`, and `தலையில்`, but open-page candidates are not promoted into the secure reference bank.
+Open scans provide additional comparison material but are not promoted while their whole-page gates remain open.
 
 ## Current archival status
 
 - source registration: **131 / 131 scans**;
 - source checksum: **recorded**;
-- page records created: **50 / 131** (`0001.md`–`0050.md`);
-- source scans processed: **50 / 131**;
+- page records created: **55 / 131** (`0001.md`–`0055.md`);
+- source scans processed: **55 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **46 / 131** (`1, 5, 7–50`);
+- `needs-review`: **51 / 131** (`1, 5, 7–55`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **12**;
+- source-visible scene anchors: **15**;
 - structural inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next source activity
 
-Continue with **scans 51–55** source-first while preserving the existing holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly.
+Continue with **scans 56–60** source-first while preserving the existing holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly.
