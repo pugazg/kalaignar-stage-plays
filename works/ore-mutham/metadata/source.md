@@ -39,8 +39,13 @@ The checksum was computed directly from the exact supplied file bytes. All sourc
 - scan 59 / p.57: **`காட்சி 16.`**, **`இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`**;
 - scan 64 / p.62: **`காட்சி 17.`**, **`இடம்:- விசாரண மண்டபம்`**;
 - scan 68 / p.66: **`காட்சி 18.`**, **`இடம்:- விசாரண மண்டபத்துக்கு வெளியே.`**;
+- scan 72 / p.70: **`காட்சி 19.`**, **`இடம்:- வசந்த மண்டபம்.`**;
+- scan 75 / p.73: **`காட்சி 20.`**, **`இடம்:- மலையன் வீடு.`**;
+- scan 80 / p.78: **`காட்சி 21.`**, **`இடம்:- விபீஷணன் மாளிகை.`**;
+- scan 85 / p.83: **`காட்சி 22.`**, **`இடம்: பொன்னியின் குடிசை.`**;
 - scan 25 / p.23: dialogue explicitly prints **`மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`**;
 - scan 31 / p.29: source dialogue directly condemns caste-based degradation / untouchability;
+- scan 75 / p.73: source directly prints the discriminatory legal claim **`ஒரு இழிகுலப் பெண்ணை மேல் ஜாதி ஆடவர்கள் நேசிப்பது குற்றம்`** within dramatic dialogue;
 - scan 130: printed p.128, final dramatic page;
 - scan 131: back-cover publisher advertisement.
 
@@ -51,24 +56,24 @@ The checksum was computed directly from the exact supplied file bytes. All sourc
 - publisher: **தென்றல் நூற்பதிப்புக் கழகம்**
 - edition/year: **ஐந்தாம் பதிப்பு, 1964**
 
-The source-processed dramatic body directly supports an anti-caste theme: scan 25 depicts caste division as a political tactic, and scan 31 contains an explicit condemnation of caste-based degradation / untouchability.
+The source-processed dramatic body directly supports an anti-caste theme: scan 25 depicts caste division as a political tactic, scan 31 explicitly condemns caste-based degradation / untouchability, and later scenes directly dramatize discriminatory caste law and punishment.
 
 ## Pagination behaviour
 
 Raw physical scan numbers control archival provenance.
 
 - scans **1–7** are front matter;
-- scans **8–70** directly confirm printed pp.**6–68**;
+- scans **8–85** directly confirm printed pp.**6–83**;
 - scans **8–130** contain the dramatic work;
 - scan **125** visibly carries printed page **123**;
 - scan **130** visibly carries printed page **128** and is the final dramatic page;
 - scan **131** is a back-cover publisher advertisement / book list.
 
-The sequential mapping scans 71–130 remains provisional until each printed numeral is directly checked.
+The sequential mapping scans 86–130 remains provisional until each printed numeral is directly checked.
 
 ## Structural intake observations
 
-Direct scene anchors currently established: `காட்சி 1.` through `காட்சி 18.`. The exact scene-4 and scene-5 location lines remain under enlarged review. A definitive full scene inventory remains deferred until the page-source pass is complete.
+Direct scene anchors currently established: `காட்சி 1.` through `காட்சி 22.`. The exact scene-4 and scene-5 location lines remain under enlarged review. A definitive full scene inventory remains deferred until the page-source pass is complete.
 
 ## Scan condition / anomalies
 
@@ -76,7 +81,7 @@ Direct scene anchors currently established: `காட்சி 1.` through `க
 - aged paper, bleed-through and uneven type are visible;
 - historical Tamil glyph shapes are present;
 - donor/library/handwritten marks must remain separate from literary text;
-- scans 21–70 were inspected at enlarged resolution;
+- scans 21–85 were inspected at enlarged resolution as required;
 - scan 39→40 contains a physical cross-page sentence boundary;
 - scans 43–48 retain explicit lexical/stage-direction holds from earlier batches;
 - scans 49–51 preserve `விபீஷணன் குரலும் நிழலும்` voice/vision material;
@@ -89,6 +94,11 @@ Direct scene anchors currently established: `காட்சி 1.` through `க
 - scan 67→68 physically splits `இமயா` / `வோடு`; the boundary is preserved;
 - scan 68 retains one acclamation word as an explicit source hold;
 - scan 69 retains two dense lexical/clause source holds;
+- scan 74 retains two dense lexical clusters rather than semantic repair;
+- scan 77 retains the opening-line ending and two dense transition/costume parentheticals as explicit holds;
+- scan 78 retains one early lexical cluster;
+- scan 79→80 contains a physical cross-page continuation of `குமரி`'s speech;
+- scan 82 retains one short phrase around `வறுமையின் கஷ்டம்` as an explicit hold;
 - back cover is an advertisement, not dramatic text.
 
 ## Verification authority
@@ -112,16 +122,20 @@ Open scans provide additional comparison material but are not promoted while the
 
 - source registration: **131 / 131 scans**;
 - source checksum: **recorded**;
-- page records created: **70 / 131** (`0001.md`–`0070.md`);
-- source scans processed: **70 / 131**;
+- page records created: **85 / 131** (`0001.md`–`0085.md`);
+- source scans processed: **85 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **66 / 131** (`1, 5, 7–70`);
+- `needs-review`: **81 / 131** (`1, 5, 7–85`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **18**;
+- source-visible scene anchors: **22**;
 - structural inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
+## Batch-size directive
+
+The user has directed the remaining source pass to proceed in **10-scan iterations**. Preserve that batch size unless the final remainder is smaller or the user changes it.
+
 ## Exact next source activity
 
-Continue with **scans 71–75** source-first while preserving the existing holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly.
+Continue with **scans 86–95** source-first while preserving all existing holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly, and run the complete 13-family historical-glyph gate on every scan.
