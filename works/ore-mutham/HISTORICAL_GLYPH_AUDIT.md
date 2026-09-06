@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN FOR CLOSURE — 23 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 108 RETAIN OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN FOR CLOSURE — 26 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 105 RETAIN OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -28,14 +28,17 @@ A family may be absent on a page; every page still receives the complete inspect
 - scan 3: `கலைஞர்`;
 - scan 4: `விலை`;
 - scan 5: `கலைஞர்`;
-- scan 6: `சிதறலை`, `கூறுவதற்கில்லை`.
+- scan 6: `சிதறலை`, `கூறுவதற்கில்லை`;
+- scan 37: `பவளமலைச்`;
+- scan 40: `காலையில்`, `அலைந்தோம்`.
 
 ### `ணா`
 - scans 3, 5 and 6: `கருணாநிதி`.
 
 ### `ணை`
 - scan 7: `துணைவி`;
-- scan 24: `கண்ணை`.
+- scan 24: `கண்ணை`;
+- scan 37: `கணையாழி`.
 
 ### `ளை`
 - scan 24: `வளையிலேயே`.
@@ -83,16 +86,29 @@ All ten scans were closure-reviewed against enlarged source pixels. Four newly c
 
 No global normalization was used. Open pages do not contribute new reference forms.
 
+## Closure audit — scans 31–40
+
+All ten scans were closure-reviewed against the supplied source pixels.
+
+- scan 31 / p.29: direct anti-caste / anti-untouchability dialogue remains source-secure, but dense character/spacing clusters in the long `புத்த` speech keep the page open;
+- scan 32 / p.30: scene-8 close / `காட்சி 9.` opener and `இடம்:- விபீஷணன் அறை` remain secure; one small stage/lexical cluster stays open;
+- scan 33 / p.31: complete dialogue/actions and 13-family gate **PASS / verified**;
+- scans 34–36 / pp.32–34: colloquial/dense lexical clusters and the long substitution/escape stage direction retain explicit holds;
+- scan 37 / p.35: scene-9 close, `காட்சி 10.`, `இடம்: பவளமலைச் சாரல்`, opening dialogue and glyph gate **PASS / verified**; supplies secure `ணை` witness `கணையாழி`;
+- scans 38–39 / pp.36–37: unusual/dense source forms remain character-level holds; scan 39→40 physical boundary preserved;
+- scan 40 / p.38: complete continuation/private-`காவிகள்`/closing sequence and glyph gate **PASS / verified**; source form `நாசகாலர்கள்` retained without normalization.
+
+
 ## Current metrics
 
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **30 / 131** (`1–30`);
-- full historical-glyph passes: **23 / 131** (`2–20`, `22`, `24–26`);
-- visually verified: **23 / 131**;
-- `needs-review`: **108 / 131** (`1`, `21`, `23`, `27–131`);
+- closure-audited: **40 / 131** (`1–40`);
+- full historical-glyph passes: **26 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`);
+- visually verified: **26 / 131**;
+- `needs-review`: **105 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Run the next closure batch over **scans 31–40**. Revisit explicit holds only with stronger source pixels/enlargements and close the full 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
+Run the next closure batch over **scans 41–50**. Revisit explicit holds only with stronger source pixels/enlargements and close the full 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
