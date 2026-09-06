@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — RAW SOURCE PASS COMPLETE: 131/131 processed; closure-audited 1–10; verified 9; needs-review 122; historical-glyph pass 9/131; main play 30 scenes + separate 3-scene `நகைச் சுவைப் பகுதி`; assembly/English not started** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — RAW SOURCE PASS COMPLETE: 131/131 processed; closure-audited 1–20; verified 19; needs-review 112; historical-glyph pass 19/131; main play 30 scenes + separate 3-scene `நகைச் சுவைப் பகுதி`; assembly/English not started** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -30,24 +30,24 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 - scans **119–130 / pp.117–128**: separately headed **`நகைச் சுவைப் பகுதி.`**, with its own **3 scenes**;
 - scan **131**: back-cover publisher advertisement.
 
-Closure audit now completed for scans **1–10**:
+Closure audit now completed for scans **1–20**:
 
-- **verified:** `2–10`, except `1`;
-- **needs-review:** `1, 11–131`;
-- historical-glyph passes: **9 / 131**;
-- scan 5 full publisher note closed;
-- scan 7 full cast list closed and supplies secure `ணை` reference `துணைவி`;
-- scans 8–10 are fully closed; scan 10→11 physical `சொல்` / `ளார்.` continuation is preserved.
+- **verified:** `2–20`;
+- **needs-review:** `1, 21–131`;
+- historical-glyph passes: **19 / 131**;
+- scan 11 corrects the scene-3 location to `இடம்:- மாளிகையில் ஒருபுறம்.`;
+- scan 15 resolves scene 4 at `இடம்:- இமயாவின் மாளிகை`;
+- scan 19 resolves scene 5 at `இடம்:- முல்லைக்காட்டு நகரத்தெரு`.
 
 Important direct thematic evidence remains durable: scan 25 caste-division governing tactic; scan 31 anti-caste / anti-untouchability dialogue; scan 75 discriminatory caste-law dialogue; scan 115 `கலப்புமணம்` law/custom debate.
 
 Current metrics:
 
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
-- closure-audited: **10 / 131**;
-- visually verified: **9 / 131**;
-- `needs-review`: **122 / 131**;
-- historical-glyph passes: **9 / 131**;
+- closure-audited: **20 / 131**;
+- visually verified: **19 / 131**;
+- `needs-review`: **112 / 131**;
+- historical-glyph passes: **19 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - checksum: **recorded**;
@@ -55,7 +55,7 @@ Current metrics:
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-**Exact next activity:** source-pass closure audit of **scans 11–20**, prioritizing the held scene-4 location on scan 15 and scene-5 location on scan 19. Do not begin scene assembly or English translation during closure.
+**Exact next activity:** source-pass closure audit of **scans 21–30**. Do not begin scene assembly or English translation during closure.
 
 ## Closed work safeguards
 
