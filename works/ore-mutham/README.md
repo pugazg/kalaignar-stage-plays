@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; CLOSURE AUDIT COMPLETE FOR SCANS 1–20; 19 VERIFIED; 112 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 19 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
+**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; CLOSURE AUDIT COMPLETE FOR SCANS 1–30; 23 VERIFIED; 108 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 23 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -30,14 +30,22 @@ Scan 6 independently supports the Sri Lankan historical-fragment basis and first
 
 Do not renumber the supplementary scenes as main-play scenes 31–33.
 
-## Closure audit checkpoint — scans 1–20
+## Closure audit checkpoint — scans 1–30
 
 - scan 1 remains `needs-review`: title secure; small stylized cover lettering / tiny artist mark unresolved;
-- scans **2–20** are now **verified** and have closed full historical-glyph gates;
-- scan 11 / p.9 corrects the earlier provisional `காட்சி 3.` location to **`இடம்:- மாளிகையில் ஒருபுறம்.`**;
-- scan 15 / p.13 directly resolves **`காட்சி 4.` — `இடம்:- இமயாவின் மாளிகை`**;
-- scan 19 / p.17 directly resolves **`காட்சி 5.` — `இடம்:- முல்லைக்காட்டு நகரத்தெரு`**;
-- source page-boundary continuations through scan 20 remain explicitly preserved.
+- scans **2–20** are verified;
+- new verified pages from scans 21–30: **22, 24, 25, 26**;
+- scan 21 resolves `துவங்குகிறான்` but retains an opening stage-direction hold;
+- scan 23 retains an unresolved opening lexical item rather than restoring provisional `ஏமைகள்`;
+- scan 24 resolves `(2-வது காவியைக் காட்டி)` and supplies secure `ளை` witness `வளையிலேயே`;
+- scan 26 closes source punctuation as `கனவு! கனவு!`;
+- scans 27–30 retain explicit exact-word holds.
+
+Earlier source corrections remain authoritative:
+
+- scan 11: `இடம்:- மாளிகையில் ஒருபுறம்.`;
+- scan 15: `இடம்:- இமயாவின் மாளிகை`;
+- scan 19: `இடம்:- முல்லைக்காட்டு நகரத்தெரு`.
 
 ## Direct thematic evidence
 
@@ -56,7 +64,8 @@ Current secure reference bank includes:
 
 - `லை` — scans 3, 4, 5, 6;
 - `ணா` — scans 3, 5, 6;
-- `ணை` — scan 7 `துணைவி`;
+- `ணை` — scan 7 `துணைவி`, scan 24 `கண்ணை`;
+- `ளை` — scan 24 `வளையிலேயே`;
 - `னை` — scans 3, 4, 6;
 - `றா` — scan 6.
 
@@ -66,10 +75,10 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **20 / 131** (`1–20`);
-- visually verified: **19 / 131** (`2–20`);
-- `needs-review`: **112 / 131** (`1, 21–131`);
-- historical-glyph passes: **19 / 131**;
+- closure-audited: **30 / 131** (`1–30`);
+- visually verified: **23 / 131** (`2–20`, `22`, `24–26`);
+- `needs-review`: **108 / 131** (`1`, `21`, `23`, `27–131`);
+- historical-glyph passes: **23 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - formal structural inventory: **not started**;
@@ -78,4 +87,4 @@ No global replacement, spelling modernization, semantic repair or plot-based com
 
 ## Exact next activity
 
-Run the next **source-pass closure batch over scans 21–30**. Resolve only from stronger source pixels/enlargements and run the complete 13-family historical-glyph gate on each scan. Do not begin scene assembly or English translation.
+Run the next **source-pass closure batch over scans 31–40**. Resolve only from stronger source pixels/enlargements and run the complete 13-family historical-glyph gate on each scan. Do not begin scene assembly or English translation.
