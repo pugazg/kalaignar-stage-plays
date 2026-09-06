@@ -15,9 +15,9 @@ All **131 physical scans** are registered and source-processed. The individual `
 | 7 | — | cast list | verified | Entire cast inventory and `நகைச்சுவைப் பகுதி.` cast closed row-by-row; secure `ணை` witness `துணைவி`. |
 | 8 | 6 | `காட்சி 1.` | verified | Complete scene opener, procession, dialogue and historical-glyph gate closed. |
 | 9–10 | 7–8 | `காட்சி 1.` close / `காட்சி 2.` | verified | Complete page text closed; scan 10→11 physical `சொல்` / `ளார்.` continuation preserved. |
-| 11–14 | 9–12 | `காட்சி 3.` | needs-review | Scene 3 opens on scan 11. |
-| 15–18 | 13–16 | `காட்சி 4.` | needs-review | Scene heading secure; exact location remains held. |
-| 19–20 | 17–18 | `காட்சி 5.` | needs-review | Scene heading secure; exact location remains held. |
+| 11–14 | 9–12 | `காட்சி 3.` | verified | Full closure complete. Scan 11 location corrected from provisional reading to `இடம்:- மாளிகையில் ஒருபுறம்.`; scan 11→12 and scan 12→13 physical continuations preserved. |
+| 15–18 | 13–16 | `காட்சி 4.` | verified | Full closure complete. Scan 15 directly resolves `இடம்:- இமயாவின் மாளிகை`; scan 15→16 physical continuation preserved. |
+| 19–20 | 17–18 | `காட்சி 5.` | verified | Full closure complete. Scan 19 directly resolves `இடம்:- முல்லைக்காட்டு நகரத்தெரு`; scene-5 opening and scan-20 long dramatic passage closed. |
 | 21–23 | 19–21 | `காட்சி 6.` | needs-review | Scan 21: `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.` |
 | 24–26 | 22–24 | `காட்சி 7.` | needs-review | Scan 24: `இடம்: இமயாவின் மது மண்டபம்`. |
 | 27–31 | 25–29 | `காட்சி 8.` | needs-review | Scan 27: `இடம்:- முல்லைக்காட்டுப் பகுதி.`; scan 31 directly supports anti-caste / anti-untouchability argument. |
@@ -54,26 +54,24 @@ All **131 physical scans** are registered and source-processed. The individual `
 - checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
-- closure-audited: **scans 1–10**;
-- visually verified: **9 / 131** (`2–10`, except scan `1`);
-- `needs-review`: **122 / 131** (`1, 11–131`);
-- completed historical-glyph passes: **9 / 131** (`2–10`, except scan `1`);
+- closure-audited: **scans 1–20**;
+- visually verified: **19 / 131** (`2–20`, except scan `1`);
+- `needs-review`: **112 / 131** (`1, 21–131`);
+- completed historical-glyph passes: **19 / 131** (`2–20`, except scan `1`);
 - main-play source-visible scene anchors: **30**;
 - supplementary comedy source-visible anchors: **3**;
 - formal structural/scene inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-## Closure audit checkpoint — scans 1–10
+## Closure audit checkpoint — scans 11–20
 
-- scan 1 remains open because small stylized cover-device lettering and the tiny artist/signature mark are not character-secure;
-- scans 2–4 and 6 remain verified;
-- scan 5 full publisher note closed;
-- scan 7 full cast list closed;
-- scan 8 full `காட்சி 1.` opener closed;
-- scan 9 full scene-1 close / scene-2 opener closed;
-- scan 10 full scene-2 continuation closed, including direct confirmation of the physical `சொல்` / `ளார்.` continuation into scan 11.
+- scans 11–20 all close **PASS / verified** from enlarged source pixels;
+- scan 11 corrects the earlier provisional `காட்சி 3.` location to `இடம்:- மாளிகையில் ஒருபுறம்.`;
+- scan 15 resolves `காட்சி 4.` location as `இடம்:- இமயாவின் மாளிகை`;
+- scan 19 resolves `காட்சி 5.` location as `இடம்:- முல்லைக்காட்டு நகரத்தெரு`;
+- page-boundary continuations and source forms were preserved without normalization.
 
 ## Exact next activity
 
-Continue the **source-pass closure audit with scans 11–20**. Priority source problems in that batch are the still-held exact location lines for `காட்சி 4.` (scan 15) and `காட்சி 5.` (scan 19). Resolve only from stronger source pixels; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
+Continue the **source-pass closure audit with scans 21–30**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
