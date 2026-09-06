@@ -34,7 +34,7 @@ User-supplied catalog metadata remains: title **ஒரே முத்தம்*
 
 The supplementary scenes must not be silently renumbered as main-play scenes 31–33.
 
-## Closure-audit corrections / resolutions through scan 30
+## Closure-audit corrections / resolutions through scan 40
 
 Earlier closed corrections remain authoritative:
 
@@ -50,6 +50,16 @@ New closure findings from scans 21–30:
 - scan 24 / p.22: parenthetical resolves as `(2-வது காவியைக் காட்டி)` — page verified; secure `ளை` witness `வளையிலேயே`;
 - scans 25–26 / pp.23–24: complete page text/glyph gates verified; scan 26 punctuation is source-closed as `கனவு! கனவு!`;
 - scans 27–30 retain explicit exact-word holds and remain `needs-review`.
+
+New closure findings from scans 31–40:
+
+- scan 31 / p.29: anti-caste / anti-untouchability dialogue rechecked; dense character/spacing clusters keep the page open;
+- scan 32 / p.30: `காட்சி 9.` / `இடம்:- விபீஷணன் அறை` secure; one small stage/lexical cluster remains held;
+- scan 33 / p.31: complete page **verified**;
+- scans 34–36: explicit colloquial/dense/stage-direction holds remain;
+- scan 37 / p.35: `காட்சி 10.` / `இடம்: பவளமலைச் சாரல்` and complete page **verified**;
+- scans 38–39: explicit character-level holds remain; scan 39→40 physical continuation preserved;
+- scan 40 / p.38: complete page **verified**; source form `நாசகாலர்கள்` retained.
 
 ## Direct thematic evidence already established
 
@@ -74,7 +84,7 @@ Secure same-edition reference bank now includes:
 
 - `லை`: scans 3, 4, 5, 6;
 - `ணா`: scans 3, 5, 6;
-- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`;
+- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`;
 - `ளை`: scan 24 `வளையிலேயே`;
 - `னை`: scans 3, 4, 6;
 - `றா`: scan 6.
@@ -87,10 +97,10 @@ No open-page candidate is promoted until its whole-page visual + 13-family gate 
 - source checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **scans 1–30**;
-- visually verified: **23 / 131** (`2–20`, `22`, `24–26`);
-- `needs-review`: **108 / 131** (`1`, `21`, `23`, `27–131`);
-- completed historical-glyph passes: **23 / 131**;
+- closure-audited: **scans 1–40**;
+- visually verified: **26 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`);
+- `needs-review`: **105 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`);
+- completed historical-glyph passes: **26 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary-comedy source-visible scene anchors: **3**;
 - formal structural inventory: **not started**;
@@ -99,4 +109,4 @@ No open-page candidate is promoted until its whole-page visual + 13-family gate 
 
 ## Exact next source activity
 
-Continue the **source-pass closure audit with scans 31–40** using stronger source pixels/enlargements only. Formal scene assembly and English translation remain out of scope.
+Continue the **source-pass closure audit with scans 41–50** using stronger source pixels/enlargements only. Formal scene assembly and English translation remain out of scope.
