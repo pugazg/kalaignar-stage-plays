@@ -34,8 +34,15 @@ All **131 physical scans** are registered and source-processed. The individual `
 | 37 | 35 | `காட்சி 9.` close / `காட்சி 10.` | verified | `இடம்: பவளமலைச் சாரல்`; complete transition/opening and glyph gate PASS. |
 | 38–39 | 36–37 | `காட்சி 10.` | needs-review | Closure-audited; unusual/dense source forms remain character-level holds; scan 39→40 physical continuation preserved. |
 | 40 | 38 | `காட்சி 10.` | verified | Scan-39 continuation, private `காவிகள்` exchange, source form `நாசகாலர்கள்`, closing call and glyph gate PASS. |
-| 41–45 | 39–43 | `காட்சி 11.` | needs-review | Scan 41: `இடம்: விபீஷணன் தனியறை`; lexical/stage holds remain open. |
-| 46–50 | 44–48 | `காட்சி 12.` | needs-review | Scan 46: `இடம்: ஆற்றோரம்`; voice/vision material preserved on scans 49–50. |
+| 41–42 | 39–40 | `காட்சி 11.` | needs-review | Closure-audited; `இடம்: விபீஷணன் தனியறை` and dialogue structure secure, but dense historical-type/punctuation holds remain. |
+| 43 | 41 | `காட்சி 11.` | needs-review | Small bold parenthetical remains unresolved; opening action wording remains historical-type sensitive. |
+| 44 | 42 | `காட்சி 11.` | needs-review | One lexical cluster in the final `விபீஷ` speech remains held. |
+| 45 | 43 | `காட்சி 11.` | needs-review | Cluster immediately before `பலிபீடம்` remains held; source-sensitive `குத்திருப்பு` retained without modernization. |
+| 46 | 44 | `காட்சி 11.` close / `காட்சி 12.` | needs-review | `இடம்: ஆற்றோரம்` secure; one wording/punctuation cluster remains open. |
+| 47 | 45 | `காட்சி 12.` | needs-review | One historical-type-sensitive lodging word remains unresolved. |
+| 48 | 46 | `காட்சி 12.` | needs-review | Two small bold stage-direction clusters remain exact-word holds. |
+| 49 | 47 | `காட்சி 12.` | needs-review | Source correction `மலரைச் சாப்பாற்றினாய்` → `மலரைக் காப்பாற்றினாய்`; whole-page glyph/punctuation gate remains open. |
+| 50 | 48 | `காட்சி 12.` | needs-review | `வெளியில்` / `உள்ளே` alternation and voice/vision line-breaking secure; dense inset type remains open. |
 | 51 | 49 | `காட்சி 13.` | needs-review | `இடம்: தெருவில்.` |
 | 52 | 50 | `காட்சி 14.` | needs-review | `இடம்: புத்தன் முகாம்`; dense parentheticals remain open. |
 | 53–58 | 51–56 | `காட்சி 15.` | needs-review | Scan 53: `இடம்: விபீஷணன் மண்டபம்.`; scan 55→56 continuation directly resolved. |
@@ -65,7 +72,7 @@ All **131 physical scans** are registered and source-processed. The individual `
 - checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
-- closure-audited: **scans 1–40**;
+- closure-audited: **scans 1–50**;
 - visually verified: **26 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`);
 - `needs-review`: **105 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–131`);
 - completed historical-glyph passes: **26 / 131**;
@@ -95,6 +102,14 @@ All **131 physical scans** are registered and source-processed. The individual `
 - scan 40 / p.38 closes **PASS / verified**, including the scan-39 continuation and source form `நாசகாலர்கள்`;
 - scan 39→40 physical sentence boundary remains preserved.
 
+## Closure audit checkpoint — scans 41–50
+
+- all ten scans were re-inspected, but **no page is newly promoted**;
+- scans 41–42 retain dense historical-type/punctuation holds;
+- scans 43–48 retain explicit stage-direction/lexical/historical-type holds as recorded above;
+- scan 49 receives the durable source correction `மலரைக் காப்பாற்றினாய்` but remains open at whole-page level;
+- scan 50 retains dense inset-type/punctuation holds while its structural line-breaking is secure.
+
 ## Exact next activity
 
-Continue the **source-pass closure audit with scans 41–50**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
+Continue the **source-pass closure audit with scans 51–60**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
