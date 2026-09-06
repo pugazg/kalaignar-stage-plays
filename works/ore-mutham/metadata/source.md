@@ -30,6 +30,7 @@ The checksum was computed directly from the exact supplied file bytes. All sourc
 - scan 21 / p.19: **`காட்சி 6.`**, **`இடம்:- முல்லைக்காட்டில் ஒரு வீடு.`**;
 - scan 24 / p.22: **`காட்சி 7.`**, **`இடம்: இமயாவின் மது மண்டபம்`**;
 - scan 25 / p.23: scene-7 dialogue explicitly prints **`மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`**;
+- scan 27 / p.25: **`காட்சி 8.`**, **`இடம்:- முல்லைக்காட்டுப் பகுதி.`**;
 - scan 130: printed p.128, final dramatic page;
 - scan 131: back-cover publisher advertisement.
 
@@ -51,13 +52,13 @@ The source now directly contains caste-division dialogue at scan 25. The archiva
 Raw physical scan numbers control archival provenance.
 
 - scans **1–7** are front matter;
-- scans **8–25** directly confirm printed pp.**6–23**;
+- scans **8–30** directly confirm printed pp.**6–28**;
 - scans **8–130** contain the dramatic work;
 - scan **125** visibly carries printed page **123**;
 - scan **130** visibly carries printed page **128** and is the final dramatic page;
 - scan **131** is a back-cover publisher advertisement / book list.
 
-The sequential mapping scans 26–130 remains provisional until each printed numeral is directly checked.
+The sequential mapping scans 31–130 remains provisional until each printed numeral is directly checked.
 
 ## Structural intake observations
 
@@ -69,7 +70,8 @@ Direct scene anchors established so far:
 - scan 15 / p.13 — `காட்சி 4.`;
 - scan 19 / p.17 — `காட்சி 5.`;
 - scan 21 / p.19 — `காட்சி 6.` / `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.`;
-- scan 24 / p.22 — `காட்சி 7.` / `இடம்: இமயாவின் மது மண்டபம்`.
+- scan 24 / p.22 — `காட்சி 7.` / `இடம்: இமயாவின் மது மண்டபம்`;
+- scan 27 / p.25 — `காட்சி 8.` / `இடம்:- முல்லைக்காட்டுப் பகுதி.`.
 
 The exact scene-4 and scene-5 location lines remain under enlarged review. A definitive full scene inventory remains deferred.
 
@@ -79,7 +81,7 @@ The exact scene-4 and scene-5 location lines remain under enlarged review. A def
 - aged paper, bleed-through and uneven type are visible;
 - historical Tamil glyph shapes are present;
 - donor/library/handwritten marks must remain separate from literary text;
-- scans 21–25 were inspected at enlarged resolution, but explicit held clusters remain on scans 21, 22 and 24;
+- scans 21–30 were inspected at enlarged resolution; explicit held clusters remain where small bold parenthetical directions are not yet character-secure;
 - back cover is an advertisement, not dramatic text.
 
 ## Verification authority
@@ -97,19 +99,22 @@ Current secure same-edition examples remain:
 - `னை`: scan 3 `விற்பனை`, `சென்னை`; scan 4 `சென்னை`; scan 6 `சென்னை`;
 - `றா`: scan 6 `காரணமாகும்`.
 
+Open scans 29–30 provide clear additional candidate occurrences (`விபீஷணா?`, `மலைப்பாம்பு`) but open-page candidates are not promoted into the secure reference bank.
+
 ## Current archival status
 
 - source registration: **131 / 131 scans**;
 - source checksum: **recorded**;
-- page records created: **25 / 131** (`0001.md`–`0025.md`);
-- source scans processed: **25 / 131**;
+- page records created: **30 / 131** (`0001.md`–`0030.md`);
+- source scans processed: **30 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **21 / 131** (`1, 5, 7–25`);
+- `needs-review`: **26 / 131** (`1, 5, 7–30`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
+- source-visible scene anchors: **8**;
 - structural inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next source activity
 
-Continue with **scans 26–30** source-first while preserving the existing holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly.
+Continue with **scans 31–35** source-first while preserving the existing holds. Confirm printed numerals and source-visible scene/stage/speaker structure directly.
