@@ -34,7 +34,7 @@ User-supplied catalog metadata remains: title **ஒரே முத்தம்*
 
 The supplementary scenes must not be silently renumbered as main-play scenes 31–33.
 
-## Closure-audit corrections / resolutions through scan 70
+## Closure-audit corrections / resolutions through scan 80
 
 Earlier closed corrections remain authoritative:
 
@@ -100,7 +100,20 @@ Closure findings from scans 61–70:
 - scan 69 / p.67: one dense place-name cluster before `சிம்மாசனத்தில்` and one later consequence clause remain exact-word held;
 - scan 70 / p.68: whole page **verified**; source form `ஆலகாலமா?` retained without contextual replacement.
 
-Scans 61, 65, 66 and 69 therefore remain `needs-review`. No wording was repaired from plot continuity, OCR expectation, another edition or modern spelling.
+Closure findings from scans 71–80:
+
+- scan 71 / p.69: complete `குமரி` / `புத்த` dialogue and full historical-glyph gate **verified**; secure comparison forms include `பெண்ணை` (`ணை`), `மனக்கோட்டைகளை` (`ளை`) and `வழியில்லை` (`லை`);
+- scan 72 / p.70: `காட்சி 19.` / `இடம்:- வசந்த மண்டபம்.` and surrounding dialogue are secure; one dense historical-type lexical/place-name cluster in the long opening `விபீஷ` speech remains exact-character held;
+- scan 73 / p.71: informer dialogue is secure, but the two dense bold stage-direction blocks and several colloquial letterforms remain below whole-page PASS threshold;
+- scan 74 / p.72: two dense lexical clusters remain explicitly held, including one caste-description cluster; neither is completed from context;
+- scan 75 / p.73: scene-19 close / `காட்சி 20.` / `இடம்:- மலையன் வீடு.` and complete page **verified**; the discriminatory legal statement `ஒரு இழிகுலப் பெண்ணை மேல் ஜாதி ஆடவர்கள் நேசிப்பது குற்றம்` remains verbatim source evidence;
+- scan 76 / p.74: complete `பொன்` / `மலை` dialogue **verified**; source form `அசத்தியம்` retained without modernization;
+- scan 77 / p.75: the opening-line ending and two dense bold transition/costume parentheticals remain exact-word held;
+- scan 78 / p.76: one early lexical cluster in the road/love-path dialogue remains exact-character held;
+- scan 79 / p.77: broad dialogue and scan-79→80 continuation are secure, but dense historical letterforms/spacing in the long final `குமரி` speech keep the page open;
+- scan 80 / p.78: scan-79 continuation, blackout transition, `காட்சி 21.` / `இடம்:- விபீஷணன் மாளிகை.` and opening caste-law interrogation **verified**.
+
+Scans 72–74 and 77–79 therefore remain `needs-review`. No wording was repaired from plot continuity, OCR expectation, another edition or modern spelling.
 
 ## Direct thematic evidence already established
 
@@ -123,11 +136,11 @@ Mandatory family set:
 
 Secure same-edition reference bank now includes:
 
-- `லை`: scans 3, 4, 5, 6, 37, 40, 56, 58, 62–64, 67–68;
+- `லை`: scans 3, 4, 5, 6, 37, 40, 56, 58, 62–64, 67–68, 71, 75–76, 80;
 - `ணா`: scans 3, 5, 6; scan 63 `கண்ணா`;
-- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`, scan 59 `விசாரணைமண்டபத்தில்`, scan 63 `கணையாழி` / `அணையைக்`, scan 70 `துணையை`;
-- `ளை`: scan 24 `வளையிலேயே`, scan 57 `அவளை`;
-- `னை`: scans 3, 4, 6; scan 53 `மனைவி`; scan 54 `அவனைச்`; scan 62 `என்னைப்`; scan 67 `தண்டனை`; scan 70 `உன்னையல்ல`;
+- `ணை`: scan 7 `துணைவி`, scan 24 `கண்ணை`, scan 37 `கணையாழி`, scan 59 `விசாரணைமண்டபத்தில்`, scan 63 `கணையாழி` / `அணையைக்`, scan 70 `துணையை`, scan 71 `பெண்ணை`, scan 75 `பெண்ணை`;
+- `ளை`: scan 24 `வளையிலேயே`, scan 57 `அவளை`, scan 71 `மனக்கோட்டைகளை`;
+- `னை`: scans 3, 4, 6; scan 53 `மனைவி`; scan 54 `அவனைச்`; scan 62 `என்னைப்`; scan 67 `தண்டனை`; scan 70 `உன்னையல்ல`; scan 75 `என்னைக்`; scan 80 `தண்டனை`;
 - `றா`: scan 6 `காரணமாகும்`, scan 55 `தோற்றால்`, scan 56 `தொலைக்கிறாள்`, scan 57 `தருகிறாள்` / `உபசரிக்கிறாள்`;
 - `னொ`: scan 56 `இன்னொன்று` — first secure positive witness.
 
@@ -139,10 +152,10 @@ No open-page candidate is promoted until its whole-page visual + 13-family gate 
 - source checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **scans 1–70**;
-- visually verified: **39 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70`);
-- `needs-review`: **92 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `71–131`);
-- completed historical-glyph passes: **39 / 131**;
+- closure-audited: **scans 1–80**;
+- visually verified: **43 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80`);
+- `needs-review`: **88 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `81–131`);
+- completed historical-glyph passes: **43 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary-comedy source-visible scene anchors: **3**;
 - formal structural inventory: **not started**;
@@ -151,4 +164,4 @@ No open-page candidate is promoted until its whole-page visual + 13-family gate 
 
 ## Exact next source activity
 
-Continue the **source-pass closure audit with scans 71–80** using stronger source pixels/renderings only. Formal scene assembly and English translation remain out of scope.
+Continue the **source-pass closure audit with scans 81–90** using stronger source pixels/renderings only. Formal scene assembly and English translation remain out of scope.
