@@ -21,7 +21,7 @@ Read before further source-dependent work:
 5. `works/ore-mutham/metadata/source.md`;
 6. `works/ore-mutham/indexes/page-map.md`;
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`;
-8. existing `works/ore-mutham/pages/0001.md`–`0065.md` as relevant;
+8. existing `works/ore-mutham/pages/0001.md`–`0070.md` as relevant;
 9. the supplied controlling PDF.
 
 ## Source identity
@@ -35,7 +35,7 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 
 ## Source-visible anchors
 
-Direct scene anchors currently reach `காட்சி 17.`:
+Direct scene anchors currently reach `காட்சி 18.`:
 
 - scan 8 / p.6: `காட்சி 1.`;
 - scan 9 / p.7: `காட்சி 2.`;
@@ -53,7 +53,8 @@ Direct scene anchors currently reach `காட்சி 17.`:
 - scan 52 / p.50: `காட்சி 14.` — `இடம்: புத்தன் முகாம்`;
 - scan 53 / p.51: `காட்சி 15.` — `இடம்: விபீஷணன் மண்டபம்.`;
 - scan 59 / p.57: `காட்சி 16.` — `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.`;
-- scan 64 / p.62: `காட்சி 17.` — `இடம்:- விசாரண மண்டபம்`.
+- scan 64 / p.62: `காட்சி 17.` — `இடம்:- விசாரண மண்டபம்`;
+- scan 68 / p.66: `காட்சி 18.` — `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.`.
 
 Other important direct evidence:
 
@@ -62,7 +63,9 @@ Other important direct evidence:
 - scans 49–51 preserve `விபீஷணன் குரலும் நிழலும்` conscience material;
 - scan 55→56 physical sentence continuation is directly resolved from scan 56 pixels;
 - scan 63→64 physically splits the source word as `அல்` / `லது` and the boundary is preserved;
-- scan 64 begins the scene-17 trial/interrogation sequence;
+- scan 67→68 physically splits `இமயா` / `வோடு`; the boundary is preserved;
+- scan 68 opens scene 18 after the scene-17 dispersal;
+- scan 70 preserves source `ஆலகாலமா?` without normalization;
 - scan 130: printed p.128, final dramatic page;
 - scan 131: back-cover advertisement.
 
@@ -71,7 +74,7 @@ Other important direct evidence:
 - scans **1–7**: front matter;
 - scans **8–130**: dramatic work;
 - scan **131**: back matter;
-- directly confirmed printed numerals through scan 65: **pp.6–63**;
+- directly confirmed printed numerals through scan 70: **pp.6–68**;
 - later mapping remains provisional until direct inspection.
 
 ## Historical Tamil glyph gate
@@ -98,7 +101,7 @@ Secure reference bank remains limited to positively verified pages:
 
 Open-page candidates are never promoted while the whole-page gate remains open.
 
-## Processed checkpoint — scans 1–65
+## Processed checkpoint — scans 1–70
 
 Verified:
 
@@ -106,17 +109,16 @@ Verified:
 
 Needs-review:
 
-- `0001.md`, `0005.md`, `0007.md`–`0065.md`.
+- `0001.md`, `0005.md`, `0007.md`–`0070.md`.
 
-Batch 61–65 was source-processed with:
+Batch 66–70 was source-processed with:
 
-- printed pp.59–63 directly confirmed;
-- scans 61–63 continuing scene 16 through the mock-spear exchange, separation/memory dialogue and `கணையாழி` pledge;
-- scan 61 retaining one opening interrogative word and one small bracketed cue as source holds;
-- scan 62 preserving source speaker-label variation `பொ:-` / `பொன்:-`;
-- scan 63 preserving the final physical `அல்` split into scan 64;
-- scan 64 continuing with `லது`, closing scene 16, and opening `காட்சி 17.` / `இடம்:- விசாரண மண்டபம்`;
-- scans 64–65 beginning the `விபீஷ` / `இமயா` trial/interrogation sequence;
+- printed pp.64–68 directly confirmed;
+- scan 66 continuing scene 17 through the treason accusation, evidence listing and empty-box reveal;
+- scan 67 sentencing `இமயா`, clearing `விபீஷணர்`, appointing him royal representative, and ending mid-speech;
+- scan 68 continuing the physical `இமயா` / `வோடு` split, closing scene 17 and opening `காட்சி 18.` / `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.`; one acclamation word remains source-held;
+- scan 69 continuing the missing-evidence / `விபீஷணன்` danger / travel discussion with two dense source holds;
+- scan 70 continuing the `குமரி` / `புத்த` journey-and-companionship exchange and preserving `ஆலகாலமா?` as printed;
 - all five pages retaining open punctuation / historical-glyph gates; no new page promoted to `verified`;
 - no scene assembly or translation.
 
@@ -124,21 +126,21 @@ Batch 61–65 was source-processed with:
 
 - source scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **65 / 131**;
-- source scans processed: **65 / 131**;
+- page records created: **70 / 131**;
+- source scans processed: **70 / 131**;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **61 / 131** (`1, 5, 7–65`);
+- `needs-review`: **66 / 131** (`1, 5, 7–70`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **17**;
+- source-visible scene anchors: **18**;
 - structural/scene inventory: **not started**;
 - Tamil assembly: **not started**;
 - English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Process scans **66–70** source-first:
+Process scans **71–75** source-first:
 
-1. create `pages/0066.md` through `0070.md`;
+1. create `pages/0071.md` through `0075.md`;
 2. directly inspect/transcribe source-visible text without normalization;
 3. confirm each printed page numeral;
 4. preserve exact scene/stage/speaker forms;
