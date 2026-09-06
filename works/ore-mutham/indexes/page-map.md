@@ -37,7 +37,10 @@ All **131 physical scans** are registered. The individual `pages/*.md` records r
 | 85–86 | 83–84 | `காட்சி 22.` | needs-review | Scan 85: `இடம்: பொன்னியின் குடிசை.`; scan 86 continues the `மலை` / `குமரி` exchange. |
 | 87–93 | 85–91 | `காட்சி 23.` | needs-review | Scan 87: `இடம்:- விபீஷணன் மாளிகை.`; ambush, restraint and forced-letter sequence. Scans 88–90 retain explicit exact-word/action holds. |
 | 94–95 | 92–93 | `காட்சி 24.` | needs-review | Scan 94: `இடம்:- தெருவில்.`; `குமரி`'s internal monologue physically continues into scan 95. |
-| 96–130 | 94–128* | dramatic body | not-started | Sequential mapping remains provisional; scan 125 = p.123 and scan 130 = p.128 are visible anchors. |
+| 96–99 | 94–97 | `காட்சி 25.` | needs-review | Scan 96: `இடம்: விபீஷணன் மாளிகை.`; coercion/forged-letter sequence. Scan 96→97 and scan 97→98 physical continuations are preserved; scans 96, 98 and 99 retain explicit stage-direction holds. |
+| 100–103 | 98–101 | `காட்சி 26.` | needs-review | Scan 100: `இடம்:- மகாவீரர் தர்பார்.`; poet-honouring opening turns into public accusation, forged-evidence presentation and execution sentence. Scan 102→103 physical continuation preserved. |
+| 104–105 | 102–103 | `காட்சி 26.` close / `காட்சி 27.` | needs-review | Scan 104 opens `காட்சி 27.` / `இடம்:- இன்பபுரி அரண்மனைத் தெரு.`; crowd reaction and threatened popular uprising continue on scan 105. |
+| 106–130 | 104–128* | dramatic body | not-started | Sequential mapping remains provisional; scan 125 = p.123 and scan 130 = p.128 are visible anchors. |
 | 131 | — | back-cover advertisement | not-started | Publisher book-list advertisement. |
 
 `*` Printed-page policy: arithmetic mapping never makes a page verified. Every printed numeral must be directly confirmed from source pixels.
@@ -46,13 +49,13 @@ All **131 physical scans** are registered. The individual `pages/*.md` records r
 
 - physical scans registered: **131 / 131**;
 - checksum: **recorded**;
-- page records created: **95 / 131** (`0001.md`–`0095.md`);
-- source scans processed: **95 / 131**;
-- directly confirmed printed body pages: **pp.6–93** through scan 95;
+- page records created: **105 / 131** (`0001.md`–`0105.md`);
+- source scans processed: **105 / 131**;
+- directly confirmed printed body pages: **pp.6–103** through scan 105;
 - visually verified: **4 / 131** (`2, 3, 4, 6`);
-- `needs-review`: **91 / 131** (`1, 5, 7–95`);
+- `needs-review`: **101 / 131** (`1, 5, 7–105`);
 - completed historical-glyph passes: **4 / 131** (`2, 3, 4, 6`);
-- source-visible scene anchors: **24** (`காட்சி 1.`–`காட்சி 24.`);
+- source-visible scene anchors: **27** (`காட்சி 1.`–`காட்சி 27.`);
 - structural/scene inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
@@ -63,4 +66,4 @@ The remaining source pass proceeds in **10-scan iterations** unless the final re
 
 ## Exact next activity
 
-Process **scans 96–105** source-first. Confirm every printed numeral directly, preserve source-visible scene/stage/speaker forms, run the complete 13-family historical-glyph gate on every scan, and retain unresolved text as explicit source holds.
+Process **scans 106–115** source-first. Confirm every printed numeral directly, preserve source-visible scene/stage/speaker forms, run the complete 13-family historical-glyph gate on every scan, and retain unresolved text as explicit source holds.
