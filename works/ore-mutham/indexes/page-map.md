@@ -23,12 +23,14 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 | 41–42 | 39–40 | `காட்சி 11.` | verified | Residual batch 2 closes the scene-11 opener and dense dialogue; source forms include `அநியாயமாவது அக்கிரமமாவது.` and `பாஷைகளே`. |
 | 43 | 41 | `காட்சி 11.` | needs-review | Surrounding text is secure, but one small bold parenthetical remains below the exact-character threshold after stronger renderings. |
 | 44–46 | 42–44 | `காட்சி 11.` close / `காட்சி 12.` opener | verified | Residual batch 2 closes `அரும்பிலேயே`, `மரண தண்டனை அதற்குத்தீர்ப்பு.`, `உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்`, scan-46 source-sensitive wording, and `இடம்: ஆற்றோரம்`. |
-| 47–52 | 45–50 | `காட்சி 12.` through `காட்சி 14.` opener | needs-review | Explicit punctuation / stage-direction / dense historical-type holds remain; scan 49 correction `மலரைக் காப்பாற்றினாய்` remains authoritative. |
+| 47–48 | 45–46 | `காட்சி 12.` | needs-review | Residual batch 3 revisits the lodging-word hold on scan 47 and two compact stage directions on scan 48; exact wording remains held. |
+| 49–50 | 47–48 | `காட்சி 12.` | verified | Residual batch 3 closes both pages. Scan 49 retains `மலரைக் காப்பாற்றினாய்`; scan 50 preserves the source `வெளியில்` / `உள்ளே` alternation and physical `மகுடத் / தைக்`, `தண் / டனை` inset line-breaking. |
+| 51–52 | 49–50 | `காட்சி 12.` close / `காட்சி 13.` / `காட்சி 14.` opener | needs-review | Residual batch 3 revisits the long scan-51 pre-scene parenthetical and scan-52 comic/dawn parentheticals; compact exact wording remains held. |
 | 53–59 | 51–57 | `காட்சி 14.` close / `காட்சி 15.` / `காட்சி 16.` opener | verified | Full closure PASS; scan 56 preserves `இமய` / `இமா` / `விபீஷ -`; first secure `னொ` witness `இன்னொன்று`. |
-| 60–61 | 58–59 | `காட்சி 16.` | needs-review | Small exact-word/cue holds remain. |
+| 60–61 | 58–59 | `காட்சி 16.` | needs-review | Residual batch 3 revisits the scan-60 opening lexical cluster and scan-61 interrogative/bracketed cue; exact-character holds remain. |
 | 62–64 | 60–62 | `காட்சி 16.` close / `காட்சி 17.` | verified | Scan 63 `காலப்பனிபோல்`; physical `அல்` / `லது` boundary preserved. |
-| 65–66 | 63–64 | `காட்சி 17.` | needs-review | Scan 65 `ஆசைப்படச் சொன்னார்` corrected but separate phrase remains open; scan 66 laughter punctuation remains open. |
-| 67–68 | 65–66 | `காட்சி 17.` close / `காட்சி 18.` | verified | Scan 67 `வேம்பொடு`; scan 68 `வாழ்க இந்நாட்டு வளம்!`; full PASS. |
+| 65 | 63 | `காட்சி 17.` | needs-review | `ஆசைப்படச் சொன்னார்` remains secure; residual batch 3 retains the short `மகா` historical-type/spacing clause as an exact hold. |
+| 66–68 | 64–66 | `காட்சி 17.` close / `காட்சி 18.` | verified | Residual batch 3 closes scan 66 `ஹ ஹ ஹா!` and source `சிங்கநாகன்`; scans 67–68 retain `வேம்பொடு` and `வாழ்க இந்நாட்டு வளம்!`. |
 | 69 | 67 | `காட்சி 18.` | needs-review | Two dense source holds remain. |
 | 70–71 | 68–69 | `காட்சி 18.` | verified | Full PASS; scan 70 source form `ஆலகாலமா?`. |
 | 72–74 | 70–72 | `காட்சி 18.` close / `காட்சி 19.` | needs-review | Dense lexical/place-name/stage-direction holds remain. |
@@ -66,9 +68,9 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 - page records source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- visually verified: **96 / 131** (`2–20`, `22–26`, `28–42`, `44–46`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
-- `needs-review`: **35 / 131** (`1`, `21`, `27`, `43`, `47–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
-- completed historical-glyph passes: **96 / 131**;
+- visually verified: **99 / 131** (`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
+- `needs-review`: **32 / 131** (`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
+- completed historical-glyph passes: **99 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary comedy source-visible anchors: **3**;
 - formal structural/scene inventory: **not started**;
@@ -107,6 +109,17 @@ Reviewed scans **35–36, 38–39, 41–46** using stronger source renderings.
 - scan **43** remains `needs-review`: one small bold parenthetical is still below the exact-character threshold even after stronger renderings;
 - no source text was supplied from OCR expectation, plot continuity, another edition or modern spelling.
 
+## Residual-hold re-audit — batch 3
+
+Reviewed scans **47–52, 60–61, 65–66** directly from the controlling source.
+
+- **3 pages promoted to verified:** scans **49, 50, 66**;
+- scan 49 closes the complete outside/inside page and retains durable **`மலரைக் காப்பாற்றினாய்`**;
+- scan 50 closes the `வெளியில்` / `உள்ளே` alternation and preserves physical inset splits **`மகுடத் / தைக்`** and **`தண் / டனை`**;
+- scan 66 closes the compact laughter as **`ஹ ஹ ஹா!`** and corrects the documentary name to source **`சிங்கநாகன்`**;
+- scans **47, 48, 51, 52, 60, 61, 65** remain `needs-review` on narrowly recorded lexical/stage-direction/historical-type holds;
+- no source text was supplied from conversational sense, OCR expectation, plot continuity, another edition or modern spelling.
+
 ## Exact next activity
 
-Continue the **residual-hold re-audit — batch 3** with scans **47–52, 60–61, 65–66**. Revisit only explicit holds with stronger source evidence and run the complete 13-family gate before promotion. Scans **1, 21, 27, 43** remain deferred residual holds pending genuinely stronger character evidence. Do not begin scene assembly or English translation.
+Continue the **residual-hold re-audit — batch 4** with scans **69, 72–74, 77–79, 88–90**. Revisit only explicit holds with stronger source evidence and run the complete 13-family gate before promotion. Scans **1, 21, 27, 43, 47, 48, 51, 52, 60, 61, 65** remain deferred residual holds pending genuinely stronger character evidence. Do not begin scene assembly or English translation.
