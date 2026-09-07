@@ -6,15 +6,17 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 
 | Scan(s) | Printed page(s) | Section / scene | Status | Source note |
 |---:|---:|---|---|---|
-| 1 | — | front cover | needs-review | Main title secure; small stylized lettering / tiny artist mark remain open. |
+| 1 | — | front cover | needs-review | Main title and vertical `மு. கருணாநிதி` are secure; tiny lower-left artist/signature mark remains unresolved. |
 | 2–20 | — / 6–18 | front matter through `காட்சி 5.` | verified | Full closure PASS; scan 11/15/19 location corrections remain authoritative. |
-| 21 | 19 | `காட்சி 6.` | needs-review | `துவங்குகிறான்` resolved; opening bold direction remains held. |
+| 21 | 19 | `காட்சி 6.` | needs-review | `துவங்குகிறான்` and surrounding dialogue secure; small bold opening direction still requires exact-character closure. |
 | 22 | 20 | `காட்சி 6.` | verified | `புயலைப்போல` resolved; full gate PASS. |
-| 23 | 21 | `காட்சி 6.` | needs-review | Opening lexical item remains unresolved; provisional `ஏமைகள்` is not verified text. |
+| 23 | 21 | `காட்சி 6.` | verified | Residual re-audit resolves opening word as `ஏழைகள்!`, rejects provisional `ஏமைகள்`, and closes `கடித்துத் தின்றுவிடுவார்`; `ஆனா` supplies secure `னா`. |
 | 24–26 | 22–24 | `காட்சி 6.` close / `காட்சி 7.` | verified | Scan 24 parenthetical `(2-வது காவியைக் காட்டி)`; scans 25–26 full PASS; scan 26 `கனவு! கனவு!`. |
-| 27–32 | 25–30 | `காட்சி 7.` close / `காட்சி 8.` close / `காட்சி 9.` opener | needs-review | Explicit small-stage-direction / dense lexical / spacing holds remain. |
+| 27 | 25 | `காட்சி 7.` close / `காட்சி 8.` opener | needs-review | Scene transition is secure, but several small bold stage directions remain exact-character held. |
+| 28–32 | 26–30 | `காட்சி 8.` through `காட்சி 9.` opener | verified | Residual re-audit closes scan 28 `மிடுக்காகப் பேசினாலும்`, scan 29 `மலர் வனத்தில் மாட்டு மந்தை நுழைந்தது`, scan 30 action direction/`என்னு?`, scan 31 dense anti-caste speech, and scan 32 `மாறுவதில்லை` / `நீ சென்றால் போதும்`. |
 | 33 | 31 | `காட்சி 9.` | verified | Full page PASS. |
-| 34–36 | 32–34 | `காட்சி 9.` | needs-review | Colloquial/dense/stage-direction holds remain. |
+| 34 | 32 | `காட்சி 9.` | verified | Residual re-audit closes `ராஜப்பிரதிநிதி`, `மகாராணியோடா`, `சரியாசனத்தில்`, `இளிச்சவாயரா?`; full gate PASS. |
+| 35–36 | 33–34 | `காட்சி 9.` | needs-review | Colloquial/dense/stage-direction holds remain. |
 | 37 | 35 | `காட்சி 9.` close / `காட்சி 10.` | verified | `இடம்: பவளமலைச் சாரல்`; full PASS. |
 | 38–39 | 36–37 | `காட்சி 10.` | needs-review | Dense historical-type holds; scan 39→40 boundary secure. |
 | 40 | 38 | `காட்சி 10.` | verified | Full PASS; source form `நாசகாலர்கள்` retained. |
@@ -61,55 +63,30 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 - page records source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- visually verified: **80 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
-- `needs-review`: **51 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
-- completed historical-glyph passes: **80 / 131**;
+- visually verified: **87 / 131** (`2–20`, `22–26`, `28–34`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
+- `needs-review`: **44 / 131** (`1`, `21`, `27`, `35–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
+- completed historical-glyph passes: **87 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary comedy source-visible anchors: **3**;
 - formal structural/scene inventory: **not started**;
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-## Closure audit checkpoint — scans 101–110
+## Residual-hold re-audit — batch 1
 
-All ten scans were directly re-inspected from enlarged source pixels and close **PASS / verified**.
+Earliest-open batch reviewed: scans **1, 21, 23, 27–32, 34**.
 
-- scan 101 / p.99: held phrase resolves as `மோகஸ்திரத்தில் மயங்கிய இவர்`; raw `தங்கள் முடிவைக் கவிழ்க்க` corrected to `தங்கள் முடியைக் கவிழ்க்க`;
-- scan 102 / p.100: `கற்பனை` and reveal/accusation sequence close;
-- scan 103 / p.101: raw `சட்டுச் சாம்பலாக்க` / `அச்சுச் சாம்பலாக்கூடக்` corrected to `சுட்டுச் சாம்பலாக்க` / `அந்தச் சாம்பலைக்கூடக்`;
-- scan 104 / p.102: `(மிடுக்காகச் செல்கிறான், சபை கலைகிறது)` resolves; `இளவரசே` restored by character identity; `காட்சி 27.` / `இடம்:- இன்பபுரி அரண்மனைத் தெரு.` closes;
-- scan 105 / p.103: full crowd direction closes; source `அவர்களை பலாத்காரமாக விடுவிப்பார்கள்` retained;
-- scans 106–108 / pp.104–106: the previously held execution-platform address, participant dispute, intervention and accusation sequence close directly from enlarged source pixels;
-- scan 109 / p.107: execution order / renewed `குமரி` intervention / `சித்ரா` entrance close; historical `றா` identity in `நான் நீதி தவறாதவன்.` is secure;
-- scan 110 / p.108: recovered-letter confrontation and `இளவரசன் ஸ்தானத்தை உமக்கு அளிக்கப் போகிறேன்` sequence close;
-- no global replacement, spelling modernization, OCR expectation, plot-based completion or another-edition repair was used.
-
-## Closure audit checkpoint — scans 111–120
-
-All ten scans were directly re-inspected from enlarged source pixels. **Seven pages newly close PASS / verified: scans 111, 114–116 and 118–120.**
-
-- scan 111 / p.109 closes the forged-letter exposure, public reversal and complete `விபீஷ` protest; source wording and punctuation remain unnormalized;
-- scan 112 / p.110 closes the scene-28 punishment/medical sequence and `காட்சி 29.` / `இடம்:- அரண்மனை நந்தவனம்.`, but one dense scene-opening parenthetical remains held;
-- scan 113 / p.111 closes the surrounding `சித்ரா` women/social-status dialogue, but one exact place/compound word in `புத்த`'s accommodation line remains held;
-- scan 114 / p.112 closes the full king/prince marriage confrontation and preserves source caste form `பறைச்சியல்லவா?` plus `கொய்யாக்கனி!`;
-- scan 115 / p.113 closes the explicit law/custom and `கலப்புமணம்` argument;
-- scan 116 / p.114 closes the political dialogue including `மக்களாட்சியாக மாற்றுவேன்` and `மன்னராட்சியை ஒழிப்பேன்`;
-- scan 117 / p.115 closes the scene transition and bedside dialogue but retains one dense word/cluster in the scene-30 opening parenthetical;
-- scan 118 / p.116 closes the main play, explicit `ஒரே முத்தம்` title repetition and complete four-line closing verse;
-- scans 119–120 / pp.117–118 close the separately numbered `நகைச் சுவைப் பகுதி.` / `காட்சி 1.` opener and continuing colloquial dialogue;
-- no global replacement, spelling modernization, OCR expectation, plot-based completion or another-edition repair was used.
-
-## Closure audit checkpoint — scans 121–131
-
-All remaining physical scans were directly closure-reviewed from source pixels/enlarged renderings.
-
-- scans **121–127** close **PASS / verified** with complete supplementary-comedy dialogue/actions and the full historical-glyph gate;
-- scan **128 / p.126** remains open only on the dense `காட்சி 3.` opening parenthetical; the printed colloquial form `என் கொலப் பெருமையே போச்சு!` and `இடம்:- சந்தேகம் வீடு.` are secure;
-- scan **129 / p.127** closes **PASS / verified**, including the complete `சாவித்திரி` / `சத்தியவான்` exchange and action parentheticals;
-- scan **130 / p.128** retains two explicit dense closing holds: the concluding action parenthetical and final bracketed epilogue; the dramatic-text endpoint is secure;
-- scan **131** closes **PASS / verified** as non-literary publisher advertising, including all listed titles/prices and imprint; `மின்னொளி` supplies a secure later `னொ` witness;
-- no source wording was supplied from plot continuity, OCR expectation, another edition or modern spelling.
+- **7 pages promoted to verified:** scans **23, 28–32, 34**;
+- scan 23: opening word **`ஏழைகள்!`**; earlier provisional `ஏமைகள்` rejected; **`கடித்துத் தின்றுவிடுவார்`** closed; `ஆனா` becomes the first secure same-edition `னா` witness;
+- scan 28: held phrase closes as **`மிடுக்காகப் பேசினாலும், மிக அழகாக இருக்கிறது.`**;
+- scan 29: held clause closes as **`மலர் வனத்தில் மாட்டு மந்தை நுழைந்தது. அதை மனிதத்தன்மை தடுத்தது.`**;
+- scan 30: action direction closes as **`[பொன்னி தடுக்க, கோபத்துடன் புத்தன்மேல் பாய்கிறான்.]`**; source-colloquial **`என்னு? என்னு?`** retained;
+- scan 31: dense anti-caste speech closes character-by-character; secure corrections include **`நீங்களில்லை`** and **`ஜாதிவாரியாகப் பிரித்தாளும் வஞ்சகர்கள்`**;
+- scan 32: raw `மாறுதலை` corrected to **`மாறுவதில்லை`**; held close resolves as **`வேண்டாம். நீ சென்றால் போதும். பொன்னி! வருகிறேன்.`**;
+- scan 34: colloquial/historical clusters close, including **`ராஜப்பிரதிநிதி`**, **`மகாராணியோடா`**, **`சரியாசனத்தில்`**, **`இளிச்சவாயரா?`**;
+- scans **1, 21, 27** remain open because their tiny/stylized or small bold material is not yet character-secure enough for promotion;
+- no source text was supplied from OCR expectation, plot continuity, another edition or modern spelling.
 
 ## Exact next activity
 
-Begin the **residual-hold re-audit** over the remaining 51 `needs-review` scans, earliest-open batch first: **scans 1, 21, 23, 27–32 and 34**. Revisit only explicit holds with stronger source evidence; run the complete 13-family gate before any promotion. Do not begin scene assembly or English translation.
+Continue the **residual-hold re-audit — batch 2** with scans **35–36, 38–39 and 41–46**. Revisit only explicit holds with stronger source evidence and run the complete 13-family gate before promotion. Scans **1, 21 and 27** remain deferred residual holds pending genuinely stronger character evidence. Do not begin scene assembly or English translation.
