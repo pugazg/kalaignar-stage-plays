@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN FOR CLOSURE — 71 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 60 RETAIN OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN FOR RESIDUAL-HOLD RE-AUDIT — 80 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 51 RETAIN OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -102,7 +102,8 @@ Secure witnesses include:
 
 ### `னொ`
 
-- scan 56: `இன்னொன்று` — first secure positive same-edition witness for this family.
+- scan 56: `இன்னொன்று` — first secure positive same-edition witness for this family;
+- scan 131: `மின்னொளி` — secure later positive witness from the non-literary publisher advertisement.
 
 No positive same-edition reference is yet promoted for `ணொ / ணோ / றொ / றோ / னா / னோ`.
 
@@ -181,16 +182,28 @@ All ten scans were directly closure-reviewed from enlarged source pixels. **Seve
 - open scans 112, 113 and 117 contribute no new secure reference candidates;
 - no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
 
+### Scans 121–131
+
+All remaining physical scans were directly closure-reviewed with enlarged source pixels.
+
+- scans **121–127** PASS / verified; source colloquialisms, speaker abbreviations, scene-1 close and `காட்சி 2.` / `இடம்:- வயல் வெளி.` are preserved without normalization;
+- scan **128** remains open only on the dense `காட்சி 3.` opening parenthetical; `என் கொலப் பெருமையே போச்சு!` and `இடம்:- சந்தேகம் வீடு.` are secure;
+- scan **129** PASS / verified; complete `சாவித்திரி` / `சத்தியவான்` exchange and action parentheticals close;
+- scan **130** remains open on the dense concluding action parenthetical and final bracketed epilogue; printed p.128 and the dramatic-text endpoint are secure;
+- scan **131** PASS / verified as non-literary back-cover advertising; complete catalogue/prices/imprint close and `மின்னொளி` contributes secure `னொ` evidence;
+- open scans 128 and 130 contribute no new secure reference candidates;
+- no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
+
 ## Current metrics
 
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **120 / 131** (`1–120`);
-- full historical-glyph passes: **71 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–120`);
-- visually verified: **71 / 131**;
-- `needs-review`: **60 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `121–131`);
+- closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
+- full historical-glyph passes: **80 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
+- visually verified: **80 / 131**;
+- `needs-review`: **51 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Run the next closure batch over **scans 121–130**. Revisit explicit holds only with stronger source pixels/renderings and close the complete 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
+Begin the **residual-hold re-audit** with the earliest ten open records: **scans 1, 21, 23, 27–32 and 34**. Revisit only explicit source-held material using stronger source renderings, run the complete 13-family gate on every candidate page, and promote only whole-page closures. Do not begin scene assembly or English translation.
