@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; CLOSURE AUDIT COMPLETE FOR SCANS 1–110; 64 VERIFIED; 67 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 64 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
+**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; CLOSURE AUDIT COMPLETE FOR SCANS 1–120; 71 VERIFIED; 60 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 71 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -30,15 +30,15 @@ Scan 6 independently supports the Sri Lankan historical-fragment basis and first
 
 Do not renumber the supplementary scenes as main-play scenes 31–33.
 
-## Closure audit checkpoint — scans 1–110
+## Closure audit checkpoint — scans 1–120
 
 Verified scans:
 
-`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–110`.
+`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–120`.
 
 Still `needs-review`:
 
-`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `111–131`.
+`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `121–131`.
 
 The detailed source-held reasons remain in `pages/*.md`, `indexes/page-map.md`, and `HISTORICAL_GLYPH_AUDIT.md`.
 
@@ -64,7 +64,7 @@ Earlier corrections remain authoritative and must not be reverted:
 - scan 94: **`வரி கொடுக்கமாட்டேன்னு`** and `எழுதுக்கள்` → **`எழுத்துக்கள்`**;
 - scan 96: **`சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`**.
 
-## New closure checkpoint — scans 101–110
+## Closure checkpoint — scans 101–110
 
 All ten scans **101–110** close **PASS / verified** after direct enlarged-source review and the full 13-family historical-glyph gate.
 
@@ -76,6 +76,20 @@ All ten scans **101–110** close **PASS / verified** after direct enlarged-sour
 - scans 106–108 / pp.104–106: execution-platform public address, participant dispute, `குமரி` intervention and accusation sequence close directly from enlarged source pixels;
 - scan 109 / p.107: execution order / `குமரி` intervention / `சித்ரா` entrance close; source **`நான் நீதி தவறாதவன்.`** supplies secure `றா` evidence;
 - scan 110 / p.108: recovered-letter confrontation closes; source **`இளவரசன் ஸ்தானத்தை உமக்கு அளிக்கப் போகிறேன்.`** retained.
+
+## Closure checkpoint — scans 111–120
+
+Seven scans newly close **PASS / verified**: **111, 114–116, 118–120**. Scans **112, 113, 117** retain explicit narrow source holds.
+
+- scan 111 / p.109: forged-letter exposure, public reversal and complete `விபீஷ` protest close;
+- scan 112 / p.110: scene-28 punishment/medical sequence plus `காட்சி 29.` / `இடம்:- அரண்மனை நந்தவனம்.` close; one dense scene-opening parenthetical remains held;
+- scan 113 / p.111: women/social-status dialogue closes except one exact place/compound word;
+- scan 114 / p.112: king/prince marriage confrontation closes, preserving source `பறைச்சியல்லவா?` and `கொய்யாக்கனி!`;
+- scan 115 / p.113: explicit law/custom and `கலப்புமணம்` argument closes;
+- scan 116 / p.114: `மக்களாட்சியாக மாற்றுவேன்` / `மன்னராட்சியை ஒழிப்பேன்` sequence closes;
+- scan 117 / p.115: `காட்சி 30.` / `இடம்:- குமரியின் படுக்கை.` and bedside dialogue close; one dense stage-direction word/cluster remains held;
+- scan 118 / p.116: complete main-play ending, explicit `ஒரே முத்தம்` title repetition and four-line closing verse close;
+- scans 119–120 / pp.117–118: separate `நகைச் சுவைப் பகுதி.` / `காட்சி 1.` opener and continuing colloquial dialogue close PASS.
 
 No global replacement, spelling modernization, OCR expectation, plot-based repair, or another-edition completion was used.
 
@@ -92,16 +106,17 @@ The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md
 - scan 25 / p.23: caste division proposed as a governing tactic;
 - scan 31 / p.29: direct condemnation of caste degradation / untouchability;
 - scan 75 / p.73: discriminatory caste-law claim;
-- scan 115 / p.113: law/custom debate explicitly uses `கலப்புமணம்`.
+- scan 115 / p.113: law/custom debate explicitly uses `கலப்புமணம்`;
+- scan 116 / p.114: direct `மக்களாட்சி` advocacy and `மன்னராட்சியை ஒழிப்பேன்` statement.
 
 ## Current progress
 
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **110 / 131** (`1–110`);
-- visually verified: **64 / 131**;
-- `needs-review`: **67 / 131**;
-- historical-glyph passes: **64 / 131**;
+- closure-audited: **120 / 131** (`1–120`);
+- visually verified: **71 / 131**;
+- `needs-review`: **60 / 131**;
+- historical-glyph passes: **71 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - formal structural inventory: **not started**;
@@ -110,4 +125,4 @@ The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md
 
 ## Exact next activity
 
-Run the next **source-pass closure batch over scans 111–120**. Resolve only from stronger source pixels/renderings and run the complete 13-family historical-glyph gate on each scan. Do not begin scene assembly or English translation.
+Run the next **source-pass closure batch over scans 121–130**. Resolve only from stronger source pixels/renderings and run the complete 13-family historical-glyph gate on each scan. Do not begin scene assembly or English translation.
