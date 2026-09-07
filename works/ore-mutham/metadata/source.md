@@ -90,6 +90,17 @@ Seven pages close full visual + 13-family gates: **111, 114–116, 118–120**. 
 - scan 118 / p.116: main play closes with explicit **`ஒரே முத்தம்`** title repetition and complete four-line closing verse;
 - scans 119–120 / pp.117–118: separately numbered **`நகைச் சுவைப் பகுதி.`** / `காட்சி 1.` opener and colloquial dialogue close PASS.
 
+### Closure findings — scans 121–131
+
+The complete remaining physical range is closure-audited.
+
+- scans **121–127** close full visual + 13-family gates and are `verified`; the supplementary scene-1 close and `காட்சி 2.` / `இடம்:- வயல் வெளி.` remain source-faithful;
+- scan **128 / p.126** retains one explicit dense hold in the `காட்சி 3.` opening parenthetical; source-colloquial **`என் கொலப் பெருமையே போச்சு!`** and `இடம்:- சந்தேகம் வீடு.` are secure;
+- scan **129 / p.127** closes full visual + glyph gates; the complete `சாவித்திரி` / `சத்தியவான்` comic exchange and actions are verified;
+- scan **130 / p.128** retains the dense concluding action parenthetical and final bracketed epilogue as explicit source holds; the final dramatic-text endpoint is secure;
+- scan **131** closes as non-literary back-cover publisher advertising, including all eight listed titles/prices and publisher/imprint lines; `மின்னொளி` supplies a secure later `னொ` witness;
+- the physical source range is therefore **131 / 131 closure-audited**, while unresolved exact-character evidence remains explicit on 51 pages.
+
 ## Historical-glyph authority
 
 Mandatory family set:
@@ -118,10 +129,10 @@ The secure same-edition bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No op
 - source checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **120 / 131** (`1–120`);
-- visually verified: **71 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–120`);
-- `needs-review`: **60 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `121–131`);
-- completed historical-glyph passes: **71 / 131**;
+- closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
+- visually verified: **80 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
+- `needs-review`: **51 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
+- completed historical-glyph passes: **80 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary-comedy source-visible scene anchors: **3**;
 - formal structural inventory: **not started**;
@@ -130,4 +141,4 @@ The secure same-edition bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No op
 
 ## Exact next source activity
 
-Continue the **source-pass closure audit with scans 121–130** using stronger source pixels/renderings only. Formal scene assembly and English translation remain out of scope.
+Begin the **residual-hold re-audit** with the earliest ten open records: **scans 1, 21, 23, 27–32 and 34**. Revisit only explicit held material using stronger source evidence, and promote only after the whole-page visual + 13-family gate closes. Formal scene assembly and English translation remain out of scope.
