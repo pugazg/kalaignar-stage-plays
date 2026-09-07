@@ -76,6 +76,20 @@ All ten scans **101–110** directly close full visual + 13-family historical-gl
 - scan 109 / p.107: execution order, renewed `குமரி` intervention and `சித்ரா` entrance close; historical `றா` identity is secure in **`நான் நீதி தவறாதவன்.`**;
 - scan 110 / p.108: recovered-letter confrontation closes; source **`இளவரசன் ஸ்தானத்தை உமக்கு அளிக்கப் போகிறேன்.`** retained.
 
+### Closure findings — scans 111–120
+
+Seven pages close full visual + 13-family gates: **111, 114–116, 118–120**. Scans **112, 113 and 117** retain explicit narrow holds.
+
+- scan 111 / p.109: forged-letter conspiracy and public reversal close; full `விபீஷ` protest retained source-first;
+- scan 112 / p.110: punishment/medical sequence and `காட்சி 29.` / `இடம்:- அரண்மனை நந்தவனம்.` close; one dense scene-opening parenthetical remains held;
+- scan 113 / p.111: women/social-status dialogue closes except one exact place/compound word in `புத்த`'s accommodation line;
+- scan 114 / p.112: king/prince marriage confrontation closes; source caste form **`பறைச்சியல்லவா?`** and **`கொய்யாக்கனி!`** retained;
+- scan 115 / p.113: explicit law/custom and **`கலப்புமணம்`** argument closes;
+- scan 116 / p.114: political dialogue closes including **`மக்களாட்சியாக மாற்றுவேன்`** and **`மன்னராட்சியை ஒழிப்பேன்`**;
+- scan 117 / p.115: `காட்சி 30.` / `இடம்:- குமரியின் படுக்கை.` and bedside dialogue close; one dense word/cluster in the opening direction remains held;
+- scan 118 / p.116: main play closes with explicit **`ஒரே முத்தம்`** title repetition and complete four-line closing verse;
+- scans 119–120 / pp.117–118: separately numbered **`நகைச் சுவைப் பகுதி.`** / `காட்சி 1.` opener and colloquial dialogue close PASS.
+
 ## Historical-glyph authority
 
 Mandatory family set:
@@ -89,7 +103,8 @@ The secure same-edition bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No op
 - scan 25 / p.23: `மக்களைப் பல ஜாதிகளாக இன்னும் பிரித்துக் கொண்டே போகவேண்டும்.`;
 - scan 31 / p.29: direct condemnation of caste-based degradation / untouchability;
 - scan 75 / p.73: discriminatory caste-law claim;
-- scan 115 / p.113: law/custom debate directly uses `கலப்புமணம்`.
+- scan 115 / p.113: law/custom debate directly uses `கலப்புமணம்`;
+- scan 116 / p.114: direct advocacy of `மக்களாட்சி` and statement `மன்னராட்சியை ஒழிப்பேன்`.
 
 ## Pagination behaviour
 
@@ -103,10 +118,10 @@ The secure same-edition bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No op
 - source checksum: **recorded**;
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **110 / 131** (`1–110`);
-- visually verified: **64 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–110`);
-- `needs-review`: **67 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `111–131`);
-- completed historical-glyph passes: **64 / 131**;
+- closure-audited: **120 / 131** (`1–120`);
+- visually verified: **71 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–120`);
+- `needs-review`: **60 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `121–131`);
+- completed historical-glyph passes: **71 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary-comedy source-visible scene anchors: **3**;
 - formal structural inventory: **not started**;
@@ -115,4 +130,4 @@ The secure same-edition bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No op
 
 ## Exact next source activity
 
-Continue the **source-pass closure audit with scans 111–120** using stronger source pixels/renderings only. Formal scene assembly and English translation remain out of scope.
+Continue the **source-pass closure audit with scans 121–130** using stronger source pixels/renderings only. Formal scene assembly and English translation remain out of scope.
