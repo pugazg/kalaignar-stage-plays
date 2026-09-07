@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
-All **131 physical scans** are registered and source-processed. Individual `pages/*.md` records are the detailed source-first authority; source processing does not imply verification.
+All **131 physical scans** are registered, source-processed and closure-audited. Individual `pages/*.md` records are the detailed source-first authority; closure review does not imply whole-page verification.
 
 | Scan(s) | Printed page(s) | Section / scene | Status | Source note |
 |---:|---:|---|---|---|
@@ -47,10 +47,12 @@ All **131 physical scans** are registered and source-processed. Individual `page
 | 117 | 115 | `காட்சி 29.` close / `காட்சி 30.` | needs-review | `இடம்:- குமரியின் படுக்கை.` and bedside dialogue secure; one dense word/cluster in the scene-opening direction remains held. |
 | 118 | 116 | `காட்சி 30.` / main-play close | verified | Complete final dialogue/actions, explicit `ஒரே முத்தம்`, main-play endpoint and four-line closing verse PASS. |
 | 119–120 | 117–118 | `நகைச் சுவைப் பகுதி.` — `காட்சி 1.` | verified | Separate supplementary comedy begins at scan 119 with `இடம்:- சந்தேகம் வீடு.`; scans 119–120 complete dialogue/actions PASS. |
-| 121–124 | 119–122 | `நகைச் சுவைப் பகுதி.` — `காட்சி 1.` | needs-review | Raw source-pass records remain to be closure-audited. |
-| 125–127 | 123–125 | `நகைச் சுவைப் பகுதி.` — `காட்சி 2.` | needs-review | Scan 125 `இடம்:- வயல் வெளி.` |
-| 128–130 | 126–128 | `நகைச் சுவைப் பகுதி.` — `காட்சி 3.` | needs-review | Scan 128 `இடம்:- சந்தேகம் வீடு.`; scan 130 final dramatic-text page. |
-| 131 | — | back-cover advertisement | needs-review | Publisher book-list advertisement; not literary text. |
+| 121–124 | 119–122 | `நகைச் சுவைப் பகுதி.` — `காட்சி 1.` | verified | Complete colloquial dialogue/actions close from enlarged source pixels; full glyph gate PASS. |
+| 125–127 | 123–125 | `நகைச் சுவைப் பகுதி.` — `காட்சி 2.` | verified | `காட்சி 2.` / `இடம்:- வயல் வெளி.` and complete field-scene dialogue/actions PASS. |
+| 128 | 126 | `நகைச் சுவைப் பகுதி.` — `காட்சி 2.` close / `காட்சி 3.` | needs-review | Scene-2 close, printed `என் கொலப் பெருமையே போச்சு!`, `காட்சி 3.` / `இடம்:- சந்தேகம் வீடு.` secure; one dense scene-3 opening parenthetical remains held. |
+| 129 | 127 | `நகைச் சுவைப் பகுதி.` — `காட்சி 3.` | verified | Complete `சாவித்திரி` / `சத்தியவான்` comic exchange and action parentheticals PASS. |
+| 130 | 128 | `நகைச் சுவைப் பகுதி.` — `காட்சி 3.` / dramatic-text close | needs-review | Dialogue and publication endpoint secure; dense concluding action parenthetical and final bracketed epilogue remain held. |
+| 131 | — | back-cover advertisement | verified | Complete publisher book-list advertisement, prices and imprint PASS; non-literary back matter kept separate. |
 
 ## Current checkpoint
 
@@ -58,10 +60,10 @@ All **131 physical scans** are registered and source-processed. Individual `page
 - checksum: **recorded**;
 - page records source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
-- closure-audited: **120 / 131** (`1–120`);
-- visually verified: **71 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–120`);
-- `needs-review`: **60 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `121–131`);
-- completed historical-glyph passes: **71 / 131**;
+- closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
+- visually verified: **80 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
+- `needs-review`: **51 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
+- completed historical-glyph passes: **80 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary comedy source-visible anchors: **3**;
 - formal structural/scene inventory: **not started**;
@@ -97,6 +99,17 @@ All ten scans were directly re-inspected from enlarged source pixels. **Seven pa
 - scans 119–120 / pp.117–118 close the separately numbered `நகைச் சுவைப் பகுதி.` / `காட்சி 1.` opener and continuing colloquial dialogue;
 - no global replacement, spelling modernization, OCR expectation, plot-based completion or another-edition repair was used.
 
+## Closure audit checkpoint — scans 121–131
+
+All remaining physical scans were directly closure-reviewed from source pixels/enlarged renderings.
+
+- scans **121–127** close **PASS / verified** with complete supplementary-comedy dialogue/actions and the full historical-glyph gate;
+- scan **128 / p.126** remains open only on the dense `காட்சி 3.` opening parenthetical; the printed colloquial form `என் கொலப் பெருமையே போச்சு!` and `இடம்:- சந்தேகம் வீடு.` are secure;
+- scan **129 / p.127** closes **PASS / verified**, including the complete `சாவித்திரி` / `சத்தியவான்` exchange and action parentheticals;
+- scan **130 / p.128** retains two explicit dense closing holds: the concluding action parenthetical and final bracketed epilogue; the dramatic-text endpoint is secure;
+- scan **131** closes **PASS / verified** as non-literary publisher advertising, including all listed titles/prices and imprint; `மின்னொளி` supplies a secure later `னொ` witness;
+- no source wording was supplied from plot continuity, OCR expectation, another edition or modern spelling.
+
 ## Exact next activity
 
-Continue the **source-pass closure audit with scans 121–130**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
+Begin the **residual-hold re-audit** over the remaining 51 `needs-review` scans, earliest-open batch first: **scans 1, 21, 23, 27–32 and 34**. Revisit only explicit holds with stronger source evidence; run the complete 13-family gate before any promotion. Do not begin scene assembly or English translation.
