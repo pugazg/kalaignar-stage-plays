@@ -32,12 +32,12 @@ Read before source-dependent change:
 
 All **131 / 131** scans are directly source-processed and represented by `pages/0001.md`–`0131.md`. Main play scans 8–118 / pp.6–116 have 30 source-visible scenes; scans 119–130 / pp.117–128 are the separate 3-scene `நகைச் சுவைப் பகுதி.`; scan 131 is back-cover advertising.
 
-## Closure audit checkpoint — scans 1–110 COMPLETE
+## Closure audit checkpoint — scans 1–120 COMPLETE
 
-- verified: **64 / 131** — scans `2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–110`;
-- `needs-review`: **67 / 131** — scans `1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `111–131`;
-- historical-glyph passes: **64 / 131**;
-- closure-audited: **110 / 131**.
+- verified: **71 / 131** — scans `2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–120`;
+- `needs-review`: **60 / 131** — scans `1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `121–131`;
+- historical-glyph passes: **71 / 131**;
+- closure-audited: **120 / 131**.
 
 Important durable source findings:
 
@@ -72,6 +72,18 @@ Important durable source findings:
 - scan 109 / p.107: execution order, renewed `குமரி` intervention and `சித்ரா` entrance PASS; **`நான் நீதி தவறாதவன்.`** is source-secure;
 - scan 110 / p.108: recovered-letter confrontation PASS; **`இளவரசன் ஸ்தானத்தை உமக்கு அளிக்கப் போகிறேன்.`** retained exactly.
 
+### Scans 111–120 — seven verified, three explicit holds
+
+- scan 111 / p.109: forged-letter conspiracy, public reversal and complete `விபீஷ` protest PASS;
+- scan 112 / p.110: scene-28 punishment/medical sequence and `காட்சி 29.` / `இடம்:- அரண்மனை நந்தவனம்.` secure; one dense scene-opening parenthetical remains held;
+- scan 113 / p.111: women/social-status dialogue secure except one exact place/compound word;
+- scan 114 / p.112: king/prince marriage confrontation PASS; preserve **`பறைச்சியல்லவா?`** and **`கொய்யாக்கனி!`**;
+- scan 115 / p.113: explicit law/custom and **`கலப்புமணம்`** argument PASS;
+- scan 116 / p.114: **`மக்களாட்சியாக மாற்றுவேன்`** / **`மன்னராட்சியை ஒழிப்பேன்`** political dialogue PASS;
+- scan 117 / p.115: `காட்சி 30.` / `இடம்:- குமரியின் படுக்கை.` and bedside dialogue secure; one dense word/cluster in the opening direction remains held;
+- scan 118 / p.116: full main-play ending, explicit **`ஒரே முத்தம்`** and complete four-line closing verse PASS;
+- scans 119–120 / pp.117–118: separate **`நகைச் சுவைப் பகுதி.`** / `காட்சி 1.` opener and continuing colloquial dialogue PASS.
+
 ## Historical-glyph gate
 
 Full mandatory family gate on every closure-reviewed scan:
@@ -82,11 +94,11 @@ The secure bank is maintained in `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`. N
 
 No global replacement. No spelling, grammar, punctuation, speaker-label or scene-heading normalization. No context-based/plot-based repair.
 
-## Exact next activity — SOURCE-PASS CLOSURE AUDIT, scans 111–120
+## Exact next activity — SOURCE-PASS CLOSURE AUDIT, scans 121–130
 
 Do **not** begin formal scene assembly or English translation.
 
-Process scans **111–120** as the next closure batch:
+Process scans **121–130** as the next closure batch:
 
 1. inspect each page directly from source pixels/renderings;
 2. revisit every explicit `source-held` / `needs-review` item;
@@ -95,7 +107,7 @@ Process scans **111–120** as the next closure batch:
 5. run the full 13-family historical-glyph gate on every scan;
 6. mark `verified` only if the full visual + glyph gate closes; otherwise retain explicit holds;
 7. do not infer from OCR expectation, plot continuity, another edition or modern spelling;
-8. note that scan 111 / p.109 is the final page of `காட்சி 28.` before scan 112 opens `காட்சி 29.`; scans 119–120 enter the separately numbered `நகைச் சுவைப் பகுதி.` and must not be renumbered as main-play scenes;
+8. preserve the supplementary comedy's own scene numbering: scans 121–124 continue `நகைச் சுவைப் பகுதி.` `காட்சி 1.`, scans 125–127 are `காட்சி 2.`, scans 128–130 are `காட்சி 3.`;
 9. synchronize page map, historical-glyph audit, source/work/root READMEs, `HANDOVER.md`, and this prompt after the batch;
 10. fetch final live `main` SHA.
 
