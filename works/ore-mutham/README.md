@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; COMPLETE PHYSICAL-RANGE CLOSURE PASS 131 / 131; 80 VERIFIED; 51 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 80 / 131; CHECKSUM RECORDED; RESIDUAL-HOLD RE-AUDIT NEXT; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
+**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; COMPLETE PHYSICAL-RANGE CLOSURE PASS 131 / 131; RESIDUAL-HOLD BATCH 1 COMPLETE; 87 VERIFIED; 44 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 87 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -30,15 +30,15 @@ Scan 6 independently supports the Sri Lankan historical-fragment basis and first
 
 Do not renumber the supplementary scenes as main-play scenes 31–33.
 
-## Closure audit checkpoint — complete physical range
+## Current verified / open checkpoint
 
 Verified scans:
 
-`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`.
+`2–20`, `22–26`, `28–34`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`.
 
 Still `needs-review`:
 
-`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`.
+`1`, `21`, `27`, `35–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`.
 
 The detailed source-held reasons remain in `pages/*.md`, `indexes/page-map.md`, and `HISTORICAL_GLYPH_AUDIT.md`.
 
@@ -64,42 +64,26 @@ Earlier corrections remain authoritative and must not be reverted:
 - scan 94: **`வரி கொடுக்கமாட்டேன்னு`** and `எழுதுக்கள்` → **`எழுத்துக்கள்`**;
 - scan 96: **`சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`**.
 
-## Closure checkpoint — scans 101–110
+## Later closure checkpoints
 
-All ten scans **101–110** close **PASS / verified** after direct enlarged-source review and the full 13-family historical-glyph gate.
+- **101–110:** all ten scans PASS / verified. Durable forms include `மோகஸ்திரத்தில் மயங்கிய இவர்`, `தங்கள் முடியைக் கவிழ்க்க`, `கற்பனை`, `சுட்டுச் சாம்பலாக்க`, `அந்தச் சாம்பலைக்கூடக்`, `(மிடுக்காகச் செல்கிறான், சபை கலைகிறது)`, `இளவரசே`, `அவர்களை பலாத்காரமாக விடுவிப்பார்கள்`, `நான் நீதி தவறாதவன்.`, and `இளவரசன் ஸ்தானத்தை உமக்கு அளிக்கப் போகிறேன்.`
+- **111–120:** scans 111, 114–116, 118–120 PASS; 112, 113, 117 retain narrow holds. Secure evidence includes `பறைச்சியல்லவா?`, `கொய்யாக்கனி!`, `கலப்புமணம்`, `மக்களாட்சியாக மாற்றுவேன்`, `மன்னராட்சியை ஒழிப்பேன்`, the complete main-play ending and the start of the separate `நகைச் சுவைப் பகுதி.`
+- **121–131:** scans 121–127, 129, 131 PASS; scan 128 retains one scene-3 opening-parenthetical hold; scan 130 retains two dense ending holds. `என் கொலப் பெருமையே போச்சு!` and scan-131 catalogue form `மின்னொளி` remain source-secure.
 
-- scan 101 / p.99: **`மோகஸ்திரத்தில் மயங்கிய இவர்`**; `தங்கள் முடிவைக் கவிழ்க்க` → **`தங்கள் முடியைக் கவிழ்க்க`**;
-- scan 102 / p.100: raw `கற்பன` → **`கற்பனை`**;
-- scan 103 / p.101: raw `சட்டுச் சாம்பலாக்க` / `அச்சுச் சாம்பலாக்கூடக்` → **`சுட்டுச் சாம்பலாக்க` / `அந்தச் சாம்பலைக்கூடக்`**;
-- scan 104 / p.102: **`(மிடுக்காகச் செல்கிறான், சபை கலைகிறது)`**; raw `எழுவரசே` → **`இளவரசே`**; `காட்சி 27.` / `இடம்:- இன்பபுரி அரண்மனைத் தெரு.` closes;
-- scan 105 / p.103: full crowd/street direction and source **`அவர்களை பலாத்காரமாக விடுவிப்பார்கள்`** close;
-- scans 106–108 / pp.104–106: execution-platform public address, participant dispute, `குமரி` intervention and accusation sequence close directly from enlarged source pixels;
-- scan 109 / p.107: execution order / `குமரி` intervention / `சித்ரா` entrance close; source **`நான் நீதி தவறாதவன்.`** supplies secure `றா` evidence;
-- scan 110 / p.108: recovered-letter confrontation closes; source **`இளவரசன் ஸ்தானத்தை உமக்கு அளிக்கப் போகிறேன்.`** retained.
+## Residual-hold re-audit — batch 1
 
-## Closure checkpoint — scans 111–120
+Reviewed scans **1, 21, 23, 27–32, 34** using stronger source renderings.
 
-Seven scans newly close **PASS / verified**: **111, 114–116, 118–120**. Scans **112, 113, 117** retain explicit narrow source holds.
+Seven pages newly close **PASS / verified**: **23, 28–32, 34**.
 
-- scan 111 / p.109: forged-letter exposure, public reversal and complete `விபீஷ` protest close;
-- scan 112 / p.110: scene-28 punishment/medical sequence plus `காட்சி 29.` / `இடம்:- அரண்மனை நந்தவனம்.` close; one dense scene-opening parenthetical remains held;
-- scan 113 / p.111: women/social-status dialogue closes except one exact place/compound word;
-- scan 114 / p.112: king/prince marriage confrontation closes, preserving source `பறைச்சியல்லவா?` and `கொய்யாக்கனி!`;
-- scan 115 / p.113: explicit law/custom and `கலப்புமணம்` argument closes;
-- scan 116 / p.114: `மக்களாட்சியாக மாற்றுவேன்` / `மன்னராட்சியை ஒழிப்பேன்` sequence closes;
-- scan 117 / p.115: `காட்சி 30.` / `இடம்:- குமரியின் படுக்கை.` and bedside dialogue close; one dense stage-direction word/cluster remains held;
-- scan 118 / p.116: complete main-play ending, explicit `ஒரே முத்தம்` title repetition and four-line closing verse close;
-- scans 119–120 / pp.117–118: separate `நகைச் சுவைப் பகுதி.` / `காட்சி 1.` opener and continuing colloquial dialogue close PASS.
-
-## Closure checkpoint — scans 121–131
-
-The complete remaining physical range was closure-audited directly from source pixels/enlargements.
-
-- scans **121–127** close **PASS / verified**; complete supplementary scene-1/2 dialogue and actions, `காட்சி 2.` and `இடம்:- வயல் வெளி.` are source-secure;
-- scan **128 / p.126** retains one dense `காட்சி 3.` opening parenthetical hold; source **`என் கொலப் பெருமையே போச்சு!`** and `இடம்:- சந்தேகம் வீடு.` are secure;
-- scan **129 / p.127** closes **PASS / verified**, including the full `சாவித்திரி` / `சத்தியவான்` exchange;
-- scan **130 / p.128** retains the dense concluding action parenthetical and final bold bracketed epilogue as explicit source holds; the dramatic-text endpoint is secure;
-- scan **131** closes **PASS / verified** as non-literary publisher advertising; complete titles/prices/imprint are archived, and `மின்னொளி` supplies a secure later `னொ` witness.
+- scan 23: opening word **`ஏழைகள்!`**; provisional `ஏமைகள்` rejected; **`கடித்துத் தின்றுவிடுவார்`** closed; `ஆனா` becomes the first secure same-edition `னா` witness;
+- scan 28: **`மிடுக்காகப் பேசினாலும், மிக அழகாக இருக்கிறது.`**;
+- scan 29: **`மலர் வனத்தில் மாட்டு மந்தை நுழைந்தது. அதை மனிதத்தன்மை தடுத்தது.`**;
+- scan 30: **`[பொன்னி தடுக்க, கோபத்துடன் புத்தன்மேல் பாய்கிறான்.]`** and source-colloquial **`என்னு? என்னு?`**;
+- scan 31: dense anti-caste speech closes; secure corrections include **`நீங்களில்லை`** and **`ஜாதிவாரியாகப் பிரித்தாளும் வஞ்சகர்கள்`**;
+- scan 32: raw `மாறுதலை` → **`மாறுவதில்லை`**; held close → **`வேண்டாம். நீ சென்றால் போதும். பொன்னி! வருகிறேன்.`**;
+- scan 34: **`ராஜப்பிரதிநிதி`**, **`மகாராணியோடா`**, **`சரியாசனத்தில்`**, **`இளிச்சவாயரா?`** close;
+- scans **1, 21, 27** remain open rather than being completed from context.
 
 No global replacement, spelling modernization, OCR expectation, plot-based repair, or another-edition completion was used.
 
@@ -109,7 +93,7 @@ Mandatory family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No open page may contribute new reference forms until its whole-page visual + historical-glyph gate closes.
+The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. Scan 23 now supplies the first secure positive `னா` witness (`ஆனா`). No open page may contribute new reference forms until its whole-page visual + historical-glyph gate closes.
 
 ## Direct thematic evidence
 
@@ -124,9 +108,9 @@ The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- visually verified: **80 / 131**;
-- `needs-review`: **51 / 131**;
-- historical-glyph passes: **80 / 131**;
+- visually verified: **87 / 131**;
+- `needs-review`: **44 / 131**;
+- historical-glyph passes: **87 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - formal structural inventory: **not started**;
@@ -135,4 +119,4 @@ The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md
 
 ## Exact next activity
 
-Begin the **residual-hold re-audit** with the earliest ten open page records: **scans 1, 21, 23, 27–32 and 34**. Resolve only explicit held material from stronger source evidence and close the full 13-family gate before promotion. Do not begin scene assembly or English translation.
+Run **residual-hold re-audit batch 2** over scans **35–36, 38–39, 41–46**. Revisit only explicit holds using stronger source evidence and run the complete 13-family historical-glyph gate on each candidate page. Scans **1, 21, 27** remain deferred residual holds pending genuinely stronger character evidence. Do not begin scene assembly or English translation.
