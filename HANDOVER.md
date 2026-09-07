@@ -42,53 +42,40 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 - scan **131**: non-literary back-cover publisher advertisement;
 - supplementary scenes must not be renumbered as main-play scenes 31–33.
 
-## Current state after residual-hold re-audit batches 1–2
+## Current state after residual-hold re-audit batches 1–3
 
-### Verified — 96 / 131
+### Verified — 99 / 131
 
-`2–20`, `22–26`, `28–42`, `44–46`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`.
+`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`.
 
-### Still open — 35 / 131
+### Still open — 32 / 131
 
-`1`, `21`, `27`, `43`, `47–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`.
+`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`.
 
-Historical-glyph PASS count is also **96 / 131**. Only whole-page verified scans may contribute to the secure same-edition glyph bank.
+Historical-glyph PASS count is also **99 / 131**. Only whole-page verified scans may contribute to the secure same-edition glyph bank.
 
 ## Residual-hold re-audit — batch 1
 
-Reviewed **scans 1, 21, 23, 27–32, 34** using stronger source renderings.
+Reviewed **scans 1, 21, 23, 27–32, 34**. Seven newly close PASS: **23, 28–32, 34**. Scans **1, 21, 27** remain explicit holds.
 
-Seven scans newly close **PASS / verified**: **23, 28–32, 34**.
-
-Durable new findings:
-
-- scan 23 / p.21: opening word **`ஏழைகள்!`**; provisional `ஏமைகள்` rejected; **`கடித்துத் தின்றுவிடுவார்`** closes; source-colloquial **`ஆனா`** is the first secure same-edition `னா` witness;
-- scan 28 / p.26: **`மிடுக்காகப் பேசினாலும், மிக அழகாக இருக்கிறது.`**;
-- scan 29 / p.27: **`மலர் வனத்தில் மாட்டு மந்தை நுழைந்தது. அதை மனிதத்தன்மை தடுத்தது.`**;
-- scan 30 / p.28: **`[பொன்னி தடுக்க, கோபத்துடன் புத்தன்மேல் பாய்கிறான்.]`**; source-colloquial **`என்னு? என்னு?`** retained;
-- scan 31 / p.29: dense anti-caste speech closes character-by-character; secure corrections include **`நீங்களில்லை`** and **`ஜாதிவாரியாகப் பிரித்தாளும் வஞ்சகர்கள்`**;
-- scan 32 / p.30: raw `மாறுதலை` → **`மாறுவதில்லை`**; held close → **`வேண்டாம். நீ சென்றால் போதும். பொன்னி! வருகிறேன்.`**;
-- scan 34 / p.32: **`ராஜப்பிரதிநிதி`**, **`மகாராணியோடா`**, **`சரியாசனத்தில்`**, **`இளிச்சவாயரா?`** close;
-- scans **1, 21, 27** remain open rather than being completed from context.
+Durable findings include scan 23 **`ஏழைகள்!`** / **`கடித்துத் தின்றுவிடுவார்`** / first secure `னா` witness `ஆனா`; scan 28 **`மிடுக்காகப் பேசினாலும், மிக அழகாக இருக்கிறது.`**; scan 29 **`மலர் வனத்தில் மாட்டு மந்தை நுழைந்தது. அதை மனிதத்தன்மை தடுத்தது.`**; scan 30 source action direction / **`என்னு? என்னு?`**; scan 31 source-secure anti-caste speech; scan 32 **`மாறுவதில்லை`** / **`நீ சென்றால் போதும்`**; scan 34 colloquial/historical clusters.
 
 ## Residual-hold re-audit — batch 2
 
-Reviewed **scans 35–36, 38–39, 41–46** using stronger source renderings.
+Reviewed **scans 35–36, 38–39, 41–46**. Nine newly close PASS: **35, 36, 38, 39, 41, 42, 44, 45, 46**. Scan **43** remains open on one compact bold parenthetical.
 
-Nine scans newly close **PASS / verified**: **35, 36, 38, 39, 41, 42, 44, 45, 46**.
+Durable findings include scan 36 **`மன்னனைக்`**; scan 39 **`புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`**; scan 41 **`அநியாயமாவது அக்கிரமமாவது.`**; scan 42 **`பாஷைகளே`**; scan 44 **`அரும்பிலேயே`**; scan 45 **`மரண தண்டனை அதற்குத்தீர்ப்பு.`** / **`உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்`**; scan 46 source-sensitive close and `காட்சி 12.` transition.
 
-Durable new findings:
+## Residual-hold re-audit — batch 3
 
-- scan 35 / p.33: documentary-letter/threat material closes while preserving `இவனு`, `மண்டூகம்..`, and `நான் அரசனை அன்றைக்கே`;
-- scan 36 / p.34: full substitution/escape direction closes; earlier page-layer `மின்னலை` is corrected to source **`மன்னனைக்`**;
-- scan 38 / p.36: opening/arrest-order passages close while preserving source `பைத்தானே` / `காப்பாற்றியாக`;
-- scan 39 / p.37: **`புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`**; source spacing `பலத்தசந்தேகம்`; scan-39→40 physical boundary retained;
-- scan 41 / p.39: **`அநியாயமாவது அக்கிரமமாவது.`**;
-- scan 42 / p.40: **`பாஷைகளே`**; source `அண்ணனுயிற்றே` retained;
-- scan 44 / p.42: **`அரும்பிலேயே`**;
-- scan 45 / p.43: **`மரண தண்டனை அதற்குத்தீர்ப்பு.`** and **`உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்`**;
-- scan 46 / p.44: **`கொண்டுவந்து கொடுப்பாய்ப்போல்.`**, **`இரவு தெரு நடனக்காரியை`**, **`நினைவுவந்த`**, plus `காட்சி 12.` / `இடம்: ஆற்றோரம்` transition;
-- scan **43** remains `needs-review`: one small bold parenthetical remains below the exact-character threshold even after stronger renderings.
+Reviewed **scans 47–52, 60–61, 65–66** directly from the controlling source.
+
+Three newly close **PASS / verified**: **49, 50, 66**.
+
+- scan 49 / p.47: full page now closes; durable **`மலரைக் காப்பாற்றினாய்`** retained;
+- scan 50 / p.48: full `வெளியில்` / `உள்ளே` voice/vision page closes; physical `மகுடத் / தைக்`, `தண் / டனை` line-breaking retained;
+- scan 66 / p.64: **`ஹ ஹ ஹா!`** and documentary name **`சிங்கநாகன்`** close;
+- scans **47, 48, 51, 52, 60, 61, 65** remain open on explicit exact-character holds and are not completed from sense/context.
 
 ## Earlier durable corrections / closures
 
@@ -103,6 +90,7 @@ Do not revert established source decisions, including:
 - scan 56 label variation `இமய` / `இமா` / `விபீஷ -`, first secure `னொ` witness `இன்னொன்று`;
 - scan 63 `காலப்பனிபோல்`;
 - scan 65 `ஆசைப்படச் சொன்னார்`;
+- scan 66 `ஹ ஹ ஹா!` / `சிங்கநாகன்`;
 - scan 67 `வேம்பொடு`;
 - scan 68 `வாழ்க இந்நாட்டு வளம்!`;
 - scan 70 `ஆலகாலமா?`;
@@ -125,11 +113,11 @@ Every candidate page must receive:
 
 No global replacement. No spelling, grammar, punctuation, speaker-label or scene-heading normalization. No context-based / plot-based repair.
 
-## Exact next activity — residual-hold re-audit batch 3
+## Exact next activity — residual-hold re-audit batch 4
 
 Do **not** begin scene assembly or English translation.
 
-Review scans **47–52, 60–61, 65–66**:
+Review scans **69, 72–74, 77–79, 88–90**:
 
 1. revisit only explicit `source-held` / `needs-review` material with stronger source renderings;
 2. preserve exact source wording, punctuation, speaker labels, stage directions and physical page boundaries;
@@ -139,7 +127,7 @@ Review scans **47–52, 60–61, 65–66**:
 6. synchronize page records, page map, glyph audit, source/work/root READMEs, handover and prompt after the batch;
 7. fetch final live `main` SHA.
 
-Scans **1, 21, 27, 43** remain deferred residual holds pending genuinely stronger character evidence.
+Scans **1, 21, 27, 43, 47, 48, 51, 52, 60, 61, 65** remain deferred residual holds pending genuinely stronger character evidence.
 
 # CLOSED WORK SAFEGUARDS
 
