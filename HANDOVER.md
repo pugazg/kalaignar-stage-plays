@@ -43,15 +43,15 @@ Publication structure:
 - supplementary **`நகைச் சுவைப் பகுதி.`**: scans **119–130 / pp.117–128**, with its own **3-scene numbering**;
 - do not silently renumber those supplementary scenes as main-play scenes 31–33.
 
-## Closure-audit checkpoint — scans 1–110 complete
+## Closure-audit checkpoint — scans 1–120 complete
 
 ### Verified
 
-Scans **2–20, 22, 24–26, 33, 37, 40, 53–59, 62–64, 67–68, 70–71, 75–76, 80–87, 91, 93, 96–97, 101–110** are verified and have closed full 13-family historical-glyph gates: **64 / 131** total.
+Scans **2–20, 22, 24–26, 33, 37, 40, 53–59, 62–64, 67–68, 70–71, 75–76, 80–87, 91, 93, 96–97, 101–111, 114–116, 118–120** are verified and have closed full 13-family historical-glyph gates: **71 / 131** total.
 
 ### Still open
 
-Scans **1, 21, 23, 27–32, 34–36, 38–39, 41–52, 60–61, 65–66, 69, 72–74, 77–79, 88–90, 92, 94–95, 98–100, 111–131** remain `needs-review`: **67 / 131**.
+Scans **1, 21, 23, 27–32, 34–36, 38–39, 41–52, 60–61, 65–66, 69, 72–74, 77–79, 88–90, 92, 94–95, 98–100, 112–113, 117, 121–131** remain `needs-review`: **60 / 131**.
 
 Detailed hold reasons remain authoritative in page records and `HISTORICAL_GLYPH_AUDIT.md`. Do not convert an open page into a reference witness until its whole-page visual + 13-family gate closes.
 
@@ -83,7 +83,7 @@ Earlier corrections remain authoritative and must not be reverted:
 - scan 96 / p.94: **`சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`**;
 - scan 97→98: physical **`பதார்த்தங்` / `களில்`** boundary preserved.
 
-## New closure checkpoint — scans 101–110
+## Closure checkpoint — scans 101–110
 
 All ten scans **101–110** close **PASS / verified** after direct enlarged-source inspection and the complete 13-family historical-glyph gate.
 
@@ -96,18 +96,32 @@ All ten scans **101–110** close **PASS / verified** after direct enlarged-sour
 - scan 109 / p.107: execution order / renewed `குமரி` intervention / `சித்ரா` entrance close; source **`நான் நீதி தவறாதவன்.`** supplies secure `றா` evidence;
 - scan 110 / p.108: recovered-letter confrontation closes; source **`இளவரசன் ஸ்தானத்தை உமக்கு அளிக்கப் போகிறேன்.`** retained.
 
+## Closure checkpoint — scans 111–120
+
+Seven pages close **PASS / verified**: **111, 114–116, 118–120**. Scans **112, 113 and 117** retain narrowly defined explicit source holds.
+
+- scan 111 / p.109: forged-letter conspiracy, public reversal, crowd acclaim and complete `விபீஷ` protest close;
+- scan 112 / p.110: scene-28 punishment/medical sequence closes; `காட்சி 29.` / `இடம்:- அரண்மனை நந்தவனம்.` is secure; one dense scene-29 opening parenthetical remains held;
+- scan 113 / p.111: `சித்ரா` women/social-status dialogue closes except one exact place/compound word in `புத்த`'s accommodation line;
+- scan 114 / p.112: full king/prince marriage confrontation closes; source **`பறைச்சியல்லவா?`** and **`கொய்யாக்கனி!`** retained without normalization;
+- scan 115 / p.113: law/custom and explicit **`கலப்புமணம்`** argument closes;
+- scan 116 / p.114: political dialogue closes, including **`மக்களாட்சியாக மாற்றுவேன்`** and **`மன்னராட்சியை ஒழிப்பேன்`**;
+- scan 117 / p.115: scene-29 close, `காட்சி 30.` / `இடம்:- குமரியின் படுக்கை.` and bedside dialogue close; one dense word/cluster in the scene-opening direction remains held;
+- scan 118 / p.116: full main-play ending closes with explicit **`ஒரே முத்தம்`** title repetition and complete four-line closing verse;
+- scans 119–120 / pp.117–118: separate **`நகைச் சுவைப் பகுதி.`** / `காட்சி 1.` opener and continuing colloquial dialogue close PASS.
+
 No wording was supplied from plot continuity, OCR expectation, another edition or modern spelling.
 
 ## Current secure historical-glyph bank
 
 The full bank is authoritative in `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`. Important positive families now include:
 
-- `லை`: secure witnesses through scan 109, including scan 105 `முளையிலேயே` and scan 109 `வேலைகள்`;
-- `ணா`: scan 101 `மகாராணியாக` in addition to earlier witnesses;
-- `ணை`: earlier secure bank unchanged through scan 83;
-- `ளை`: scan 101 `இவளை` in addition to earlier witnesses;
-- `னை`: scans 101–104 and scan 110 `மனைவியையும்` add secure evidence;
-- `றா`: scan 102 `தவறாத` and scan 109 `தவறாதவன்` add secure evidence;
+- `லை`: secure witnesses now include scan 111 `இல்லை`, scan 114 `தெரியவில்லை`, scan 115 `இல்லை`;
+- `ணா`: scan 101 `மகாராணியாக` remains a secure later witness;
+- `ணை`: scan 115 `பெண்ணைத்` and scan 118 `அணையப்போகும்` add secure evidence;
+- `ளை`: scan 101 `இவளை` remains a secure later witness;
+- `னை`: scan 111 `மன்னனைச்` adds secure evidence;
+- `றா`: scan 102 `தவறாத` and scan 109 `தவறாதவன்` remain secure later evidence;
 - `னொ`: scan 56 `இன்னொன்று` remains the first secure positive witness.
 
 No positive reference is yet promoted for `ணொ / ணோ / றொ / றோ / னா / னோ`.
@@ -121,21 +135,21 @@ No global replacement. No spelling, grammar, punctuation, speaker-label or scene
 ## Current metrics
 
 - source scans registered/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **110 / 131** (`1–110`);
-- visually verified: **64 / 131**;
-- `needs-review`: **67 / 131**;
-- completed historical-glyph passes: **64 / 131**;
+- closure-audited: **120 / 131** (`1–120`);
+- visually verified: **71 / 131**;
+- `needs-review`: **60 / 131**;
+- completed historical-glyph passes: **71 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary source-visible scenes: **3**;
 - formal structural/scene inventory: **not started**;
 - Tamil scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-## Exact next activity — closure scans 111–120
+## Exact next activity — closure scans 121–130
 
 Do **not** begin scene assembly or English translation.
 
-Review scans **111–120** source-first with stronger source pixels/renderings as needed:
+Review scans **121–130** source-first with stronger source pixels/renderings as needed:
 
 1. revisit every `needs-review` / `source-held` item on those scans;
 2. preserve exact source wording, punctuation, speaker labels, stage directions and physical page boundaries;
