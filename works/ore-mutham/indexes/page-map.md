@@ -16,11 +16,14 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 | 28–32 | 26–30 | `காட்சி 8.` through `காட்சி 9.` opener | verified | Residual re-audit closes scan 28 `மிடுக்காகப் பேசினாலும்`, scan 29 `மலர் வனத்தில் மாட்டு மந்தை நுழைந்தது`, scan 30 action direction/`என்னு?`, scan 31 dense anti-caste speech, and scan 32 `மாறுவதில்லை` / `நீ சென்றால் போதும்`. |
 | 33 | 31 | `காட்சி 9.` | verified | Full page PASS. |
 | 34 | 32 | `காட்சி 9.` | verified | Residual re-audit closes `ராஜப்பிரதிநிதி`, `மகாராணியோடா`, `சரியாசனத்தில்`, `இளிச்சவாயரா?`; full gate PASS. |
-| 35–36 | 33–34 | `காட்சி 9.` | needs-review | Colloquial/dense/stage-direction holds remain. |
+| 35–36 | 33–34 | `காட்சி 9.` | verified | Residual batch 2 closes the documentary-letter/threat material and the full substitution/escape direction; scan 36 corrects earlier `மின்னலை` to source `மன்னனைக்`. |
 | 37 | 35 | `காட்சி 9.` close / `காட்சி 10.` | verified | `இடம்: பவளமலைச் சாரல்`; full PASS. |
-| 38–39 | 36–37 | `காட்சி 10.` | needs-review | Dense historical-type holds; scan 39→40 boundary secure. |
+| 38–39 | 36–37 | `காட்சி 10.` | verified | Residual batch 2 closes both pages; scan 39 source phrase `புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`; scan 39→40 physical boundary preserved. |
 | 40 | 38 | `காட்சி 10.` | verified | Full PASS; source form `நாசகாலர்கள்` retained. |
-| 41–52 | 39–50 | `காட்சி 11.` through `காட்சி 14.` opener | needs-review | Explicit punctuation / stage-direction / dense historical-type holds remain; scan 49 correction `மலரைக் காப்பாற்றினாய்`. |
+| 41–42 | 39–40 | `காட்சி 11.` | verified | Residual batch 2 closes the scene-11 opener and dense dialogue; source forms include `அநியாயமாவது அக்கிரமமாவது.` and `பாஷைகளே`. |
+| 43 | 41 | `காட்சி 11.` | needs-review | Surrounding text is secure, but one small bold parenthetical remains below the exact-character threshold after stronger renderings. |
+| 44–46 | 42–44 | `காட்சி 11.` close / `காட்சி 12.` opener | verified | Residual batch 2 closes `அரும்பிலேயே`, `மரண தண்டனை அதற்குத்தீர்ப்பு.`, `உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்`, scan-46 source-sensitive wording, and `இடம்: ஆற்றோரம்`. |
+| 47–52 | 45–50 | `காட்சி 12.` through `காட்சி 14.` opener | needs-review | Explicit punctuation / stage-direction / dense historical-type holds remain; scan 49 correction `மலரைக் காப்பாற்றினாய்` remains authoritative. |
 | 53–59 | 51–57 | `காட்சி 14.` close / `காட்சி 15.` / `காட்சி 16.` opener | verified | Full closure PASS; scan 56 preserves `இமய` / `இமா` / `விபீஷ -`; first secure `னொ` witness `இன்னொன்று`. |
 | 60–61 | 58–59 | `காட்சி 16.` | needs-review | Small exact-word/cue holds remain. |
 | 62–64 | 60–62 | `காட்சி 16.` close / `காட்சி 17.` | verified | Scan 63 `காலப்பனிபோல்`; physical `அல்` / `லது` boundary preserved. |
@@ -63,9 +66,9 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 - page records source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- visually verified: **87 / 131** (`2–20`, `22–26`, `28–34`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
-- `needs-review`: **44 / 131** (`1`, `21`, `27`, `35–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
-- completed historical-glyph passes: **87 / 131**;
+- visually verified: **96 / 131** (`2–20`, `22–26`, `28–42`, `44–46`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
+- `needs-review`: **35 / 131** (`1`, `21`, `27`, `43`, `47–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
+- completed historical-glyph passes: **96 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary comedy source-visible anchors: **3**;
 - formal structural/scene inventory: **not started**;
@@ -87,6 +90,23 @@ Earliest-open batch reviewed: scans **1, 21, 23, 27–32, 34**.
 - scans **1, 21, 27** remain open because their tiny/stylized or small bold material is not yet character-secure enough for promotion;
 - no source text was supplied from OCR expectation, plot continuity, another edition or modern spelling.
 
+## Residual-hold re-audit — batch 2
+
+Reviewed scans **35–36, 38–39, 41–46** using stronger source renderings.
+
+- **9 pages promoted to verified:** scans **35, 36, 38, 39, 41, 42, 44, 45, 46**;
+- scan 35 closes the documentary-letter passage and threat while preserving source forms `இவனு`, `மண்டூகம்..`, and `நான் அரசனை அன்றைக்கே`;
+- scan 36 closes the full substitution/escape parenthetical and corrects earlier `மின்னலை` to source **`மன்னனைக்`**;
+- scan 38 closes the opening/arrest-order passages without normalizing `பைத்தானே` / `காப்பாற்றியாக`;
+- scan 39 resolves **`புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`** and retains `பலத்தசந்தேகம்`;
+- scan 41 resolves **`அநியாயமாவது அக்கிரமமாவது.`**;
+- scan 42 corrects the earlier page-layer form to **`பாஷைகளே`** and retains `அண்ணனுயிற்றே`;
+- scan 44 resolves **`அரும்பிலேயே`**;
+- scan 45 resolves **`மரண தண்டனை அதற்குத்தீர்ப்பு.`** and **`உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்`**;
+- scan 46 preserves source-sensitive **`கொண்டுவந்து கொடுப்பாய்ப்போல்.`**, **`இரவு தெரு நடனக்காரியை`**, **`நினைவுவந்த`**, and closes the `காட்சி 12.` transition;
+- scan **43** remains `needs-review`: one small bold parenthetical is still below the exact-character threshold even after stronger renderings;
+- no source text was supplied from OCR expectation, plot continuity, another edition or modern spelling.
+
 ## Exact next activity
 
-Continue the **residual-hold re-audit — batch 2** with scans **35–36, 38–39 and 41–46**. Revisit only explicit holds with stronger source evidence and run the complete 13-family gate before promotion. Scans **1, 21 and 27** remain deferred residual holds pending genuinely stronger character evidence. Do not begin scene assembly or English translation.
+Continue the **residual-hold re-audit — batch 3** with scans **47–52, 60–61, 65–66**. Revisit only explicit holds with stronger source evidence and run the complete 13-family gate before promotion. Scans **1, 21, 27, 43** remain deferred residual holds pending genuinely stronger character evidence. Do not begin scene assembly or English translation.
