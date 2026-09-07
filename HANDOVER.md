@@ -42,40 +42,46 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 - scan **131**: non-literary back-cover publisher advertisement;
 - supplementary scenes must not be renumbered as main-play scenes 31–33.
 
-## Current state after residual-hold re-audit batches 1–3
+## Current state after residual-hold re-audit batches 1–4
 
-### Verified — 99 / 131
+### Verified — 101 / 131
 
-`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`.
+`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`.
 
-### Still open — 32 / 131
+### Still open — 30 / 131
 
-`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`.
+`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`.
 
-Historical-glyph PASS count is also **99 / 131**. Only whole-page verified scans may contribute to the secure same-edition glyph bank.
+Historical-glyph PASS count is also **101 / 131**. Only whole-page verified scans may contribute to the secure same-edition glyph bank.
 
 ## Residual-hold re-audit — batch 1
 
-Reviewed **scans 1, 21, 23, 27–32, 34**. Seven newly close PASS: **23, 28–32, 34**. Scans **1, 21, 27** remain explicit holds.
+Reviewed **1, 21, 23, 27–32, 34**. Seven newly close PASS: **23, 28–32, 34**. Scans **1, 21, 27** remain explicit holds.
 
 Durable findings include scan 23 **`ஏழைகள்!`** / **`கடித்துத் தின்றுவிடுவார்`** / first secure `னா` witness `ஆனா`; scan 28 **`மிடுக்காகப் பேசினாலும், மிக அழகாக இருக்கிறது.`**; scan 29 **`மலர் வனத்தில் மாட்டு மந்தை நுழைந்தது. அதை மனிதத்தன்மை தடுத்தது.`**; scan 30 source action direction / **`என்னு? என்னு?`**; scan 31 source-secure anti-caste speech; scan 32 **`மாறுவதில்லை`** / **`நீ சென்றால் போதும்`**; scan 34 colloquial/historical clusters.
 
 ## Residual-hold re-audit — batch 2
 
-Reviewed **scans 35–36, 38–39, 41–46**. Nine newly close PASS: **35, 36, 38, 39, 41, 42, 44, 45, 46**. Scan **43** remains open on one compact bold parenthetical.
+Reviewed **35–36, 38–39, 41–46**. Nine newly close PASS: **35, 36, 38, 39, 41, 42, 44, 45, 46**. Scan **43** remains open on one compact bold parenthetical.
 
 Durable findings include scan 36 **`மன்னனைக்`**; scan 39 **`புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`**; scan 41 **`அநியாயமாவது அக்கிரமமாவது.`**; scan 42 **`பாஷைகளே`**; scan 44 **`அரும்பிலேயே`**; scan 45 **`மரண தண்டனை அதற்குத்தீர்ப்பு.`** / **`உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்`**; scan 46 source-sensitive close and `காட்சி 12.` transition.
 
 ## Residual-hold re-audit — batch 3
 
-Reviewed **scans 47–52, 60–61, 65–66** directly from the controlling source.
+Reviewed **47–52, 60–61, 65–66**. Three newly close PASS: **49, 50, 66**.
 
-Three newly close **PASS / verified**: **49, 50, 66**.
-
-- scan 49 / p.47: full page now closes; durable **`மலரைக் காப்பாற்றினாய்`** retained;
+- scan 49 / p.47: **`மலரைக் காப்பாற்றினாய்`** retained within a whole-page PASS;
 - scan 50 / p.48: full `வெளியில்` / `உள்ளே` voice/vision page closes; physical `மகுடத் / தைக்`, `தண் / டனை` line-breaking retained;
-- scan 66 / p.64: **`ஹ ஹ ஹா!`** and documentary name **`சிங்கநாகன்`** close;
-- scans **47, 48, 51, 52, 60, 61, 65** remain open on explicit exact-character holds and are not completed from sense/context.
+- scan 66 / p.64: **`ஹ ஹ ஹா!`** and **`சிங்கநாகன்`** close;
+- scans **47, 48, 51, 52, 60, 61, 65** remain explicit holds.
+
+## Residual-hold re-audit — batch 4
+
+Reviewed **69, 72–74, 77–79, 88–90**. Two newly close PASS: **78, 89**.
+
+- scan 78 / p.76: held cluster resolves as **`வெளிநாட்டுக்`** in `வெளிநாட்டுக் கவிஞரின் உவமானம்.`;
+- scan 89 / p.87: held ambush direction resolves as **`(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`**;
+- scans **69, 72–74, 77, 79, 88, 90** remain open on their recorded dense lexical, parenthetical, historical-type, stage-action or insult holds.
 
 ## Earlier durable corrections / closures
 
@@ -87,14 +93,16 @@ Do not revert established source decisions, including:
 - scan 22 `புயலைப்போல`;
 - scan 24 `(2-வது காவியைக் காட்டி)`;
 - scan 49 `மலரைக் காப்பாற்றினாய்`;
-- scan 56 label variation `இமய` / `இமா` / `விபீஷ -`, first secure `னொ` witness `இன்னொன்று`;
+- scan 56 `இமய` / `இமா` / `விபீஷ -`, first secure `னொ` witness `இன்னொன்று`;
 - scan 63 `காலப்பனிபோல்`;
 - scan 65 `ஆசைப்படச் சொன்னார்`;
 - scan 66 `ஹ ஹ ஹா!` / `சிங்கநாகன்`;
 - scan 67 `வேம்பொடு`;
 - scan 68 `வாழ்க இந்நாட்டு வளம்!`;
 - scan 70 `ஆலகாலமா?`;
+- scan 78 `வெளிநாட்டுக்`;
 - scan 82 `பாவம் வறுமையின் கஷ்டம்,` / `உன் வாழ்க்கையைக் கெடுத்துக் கொண்டாய்.`;
+- scan 89 resolved `வாளை` ambush direction;
 - scan 91 `ஓஹோ!` / `சற்றுப்`;
 - scan 94 `வரி கொடுக்கமாட்டேன்னு` / `எழுத்துக்கள்`;
 - scan 96 `சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`;
@@ -113,11 +121,11 @@ Every candidate page must receive:
 
 No global replacement. No spelling, grammar, punctuation, speaker-label or scene-heading normalization. No context-based / plot-based repair.
 
-## Exact next activity — residual-hold re-audit batch 4
+## Exact next activity — residual-hold re-audit batch 5
 
 Do **not** begin scene assembly or English translation.
 
-Review scans **69, 72–74, 77–79, 88–90**:
+Review scans **92, 94–95, 98–100, 112–113, 117, 128, 130**:
 
 1. revisit only explicit `source-held` / `needs-review` material with stronger source renderings;
 2. preserve exact source wording, punctuation, speaker labels, stage directions and physical page boundaries;
@@ -127,7 +135,7 @@ Review scans **69, 72–74, 77–79, 88–90**:
 6. synchronize page records, page map, glyph audit, source/work/root READMEs, handover and prompt after the batch;
 7. fetch final live `main` SHA.
 
-Scans **1, 21, 27, 43, 47, 48, 51, 52, 60, 61, 65** remain deferred residual holds pending genuinely stronger character evidence.
+Earlier unresolved residual scans **1, 21, 27, 43, 47, 48, 51, 52, 60, 61, 65, 69, 72–74, 77, 79, 88, 90** remain deferred pending genuinely stronger character evidence.
 
 # CLOSED WORK SAFEGUARDS
 
