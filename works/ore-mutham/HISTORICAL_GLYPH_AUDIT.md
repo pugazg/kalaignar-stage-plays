@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN FOR RESIDUAL-HOLD RE-AUDIT — 99 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 32 RETAIN OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN FOR RESIDUAL-HOLD RE-AUDIT — 101 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 30 RETAIN OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -55,6 +55,7 @@ Secure witnesses include:
 - scan 29: `விபீஷணா?`;
 - scan 34: `மகாராணியோடா`;
 - scan 63: `கண்ணா`;
+- scan 89: `விபீஷணா` — secure after residual batch 4 whole-page closure;
 - scan 101: `மகாராணியாக`.
 
 ### `ணை`
@@ -68,6 +69,7 @@ Secure witnesses include:
 - scan 70: `துணையை`;
 - scan 71: `பெண்ணை`;
 - scan 75: `பெண்ணை`;
+- scan 78: `அணையாத` — secure after residual batch 4 whole-page closure;
 - scan 83: `கண்ணை`;
 - scan 115: `பெண்ணைத்`;
 - scan 118: `அணையப்போகும்`.
@@ -78,6 +80,7 @@ Secure witnesses include:
 - scan 57: `அவளை`;
 - scan 71: `மனக்கோட்டைகளை`;
 - scan 84: `இவளைப்`;
+- scan 89: `வாளை` — secure after residual batch 4 whole-page closure;
 - scans 91, 93, 96–97: `வாளை`;
 - scan 101: `இவளை`.
 
@@ -96,6 +99,7 @@ Secure witnesses include:
 - scan 75: `என்னைக்`;
 - scans 80–82: `தண்டனை`, `உன்னை`;
 - scans 83–85: `மலையனை`, `மனைவியாக்கமாட்டேன்`, `மலையனைத்`;
+- scan 89: `இவனை` — secure after residual batch 4 whole-page closure;
 - scan 91: `அவனைப்`;
 - scans 101–104: `தண்டனை`, `என்னை`, `என்னைக்`, `அரண்மனைத்`;
 - scan 110: `மனைவியையும்`;
@@ -138,14 +142,8 @@ After residual-hold batches 1–2:
 - verified: scans **22–26, 28–40**;
 - open: scans **21, 27**;
 - batch 1 scan 23 resolves **`ஏழைகள்!`** and rejects provisional `ஏமைகள்`; `கடித்துத் தின்றுவிடுவார்` closes; `ஆனா` establishes secure `னா`;
-- batch 1 scan 28 resolves **`மிடுக்காகப் பேசினாலும், மிக அழகாக இருக்கிறது.`**;
-- batch 1 scan 29 resolves **`மலர் வனத்தில் மாட்டு மந்தை நுழைந்தது. அதை மனிதத்தன்மை தடுத்தது.`**;
-- batch 1 scan 30 resolves **`[பொன்னி தடுக்க, கோபத்துடன் புத்தன்மேல் பாய்கிறான்.]`** and preserves source-colloquial **`என்னு? என்னு?`**;
-- batch 1 scan 31 dense anti-caste dialogue closes; secure corrections include `நீங்களில்லை` and `ஜாதிவாரியாகப் பிரித்தாளும் வஞ்சகர்கள்`;
-- batch 1 scan 32 resolves `மாறுவதில்லை` and `வேண்டாம். நீ சென்றால் போதும். பொன்னி! வருகிறேன்.`;
-- batch 1 scan 34 closes `ராஜப்பிரதிநிதி`, `மகாராணியோடா`, `சரியாசனத்தில்`, `இளிச்சவாயரா?`;
-- batch 2 scans 35–36 close the documentary-letter/threat material and full substitution/escape direction; scan 36 corrects earlier `மின்னலை` to source **`மன்னனைக்`**;
-- batch 2 scans 38–39 close their residual historical-type holds; scan 39 resolves **`புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`** while preserving the 39→40 boundary;
+- batch 1 scans 28–32 and 34 close their recorded lexical/action/historical-type holds;
+- batch 2 scans 35–36 and 38–39 close their residual holds; scan 36 corrects earlier `மின்னலை` to **`மன்னனைக்`** and scan 39 resolves **`புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`**;
 - earlier durable resolutions remain `துவங்குகிறான்`, `புயலைப்போல`, `(2-வது காவியைக் காட்டி)`, `கனவு! கனவு!`, `இடம்: பவளமலைச் சாரல்`, and `நாசகாலர்கள்`.
 
 ### Scans 41–60
@@ -154,41 +152,35 @@ After residual-hold batches 2–3:
 
 - verified: scans **41–42, 44–46, 49–50, 53–59**;
 - open: scans **43, 47–48, 51–52, 60**;
-- scan 41 resolves **`அநியாயமாவது அக்கிரமமாவது.`**;
-- scan 42 resolves source **`பாஷைகளே`** and retains `அண்ணனுயிற்றே`;
-- scan 43 remains open on one small bold parenthetical despite stronger renderings;
-- scan 44 resolves **`அரும்பிலேயே`**;
-- scan 45 resolves **`மரண தண்டனை அதற்குத்தீர்ப்பு.`** and **`உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்`**;
-- scan 46 preserves **`கொண்டுவந்து கொடுப்பாய்ப்போல்.`**, **`இரவு தெரு நடனக்காரியை`**, **`நினைவுவந்த`** and closes the `காட்சி 12.` transition;
-- batch 3 scan 49 closes the complete page and preserves durable `மலரைக் காப்பாற்றினாய்`;
-- batch 3 scan 50 closes the complete `வெளியில்` / `உள்ளே` page with physical inset line-breaking preserved;
-- scans 53–59 PASS / verified;
-- scan 56 preserves `இமய` / `இமா` / `விபீஷ -` and supplies first secure `னொ` witness `இன்னொன்று`;
-- scan 60 remains open on one small parenthetical lexical cluster.
+- source-secure residual closures include `அநியாயமாவது அக்கிரமமாவது.`, `பாஷைகளே`, `அரும்பிலேயே`, `மரண தண்டனை அதற்குத்தீர்ப்பு.`, `உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்`, the scan-46 source-sensitive close, scan 49 `மலரைக் காப்பாற்றினாய்`, and scan 50's complete inside/outside inset environment;
+- scan 56 preserves `இமய` / `இமா` / `விபீஷ -` and supplies first secure `னொ` witness `இன்னொன்று`.
 
 ### Scans 61–80
 
-After residual-hold batch 3:
+After residual-hold batches 3–4:
 
-- verified: scans **62–64, 66–68, 70–71, 75–76, 80**;
-- open: scans **61, 65, 69, 72–74, 77–79**;
-- scan 65 retains the source-secure `ஆசைப்படச் சொன்னார்`, but one short historical-type/spacing clause remains open;
-- scan 66 closes **`ஹ ஹ ஹா!`** and source documentary name **`சிங்கநாகன்`**;
+- verified: scans **62–64, 66–68, 70–71, 75–76, 78, 80**;
+- open: scans **61, 65, 69, 72–74, 77, 79**;
+- scan 65 retains source-secure `ஆசைப்படச் சொன்னார்`, but one short historical-type/spacing clause remains open;
+- scan 66 closes **`ஹ ஹ ஹா!`** and **`சிங்கநாகன்`**;
+- scan 78 closes the formerly held lexical cluster as **`வெளிநாட்டுக்`** and supplies secure `அணையாத` for `ணை` comparison;
 - durable corrections/resolutions remain `காலப்பனிபோல்`, `வேம்பொடு`, `வாழ்க இந்நாட்டு வளம்!`, `ஆலகாலமா?`;
 - scan 75 caste-law dialogue remains verbatim source evidence;
 - physical boundaries including scan 63→64 and scan 79→80 remain preserved.
 
 ### Scans 81–100
 
-- verified: scans **81–87, 91, 93, 96–97**;
-- open: scans **88–90, 92, 94–95, 98–100**;
+After residual-hold batch 4:
+
+- verified: scans **81–87, 89, 91, 93, 96–97**;
+- open: scans **88, 90, 92, 94–95, 98–100**;
 - scan 82 resolves `பாவம் வறுமையின் கஷ்டம்,` and `உன் வாழ்க்கையைக் கெடுத்துக் கொண்டாய்.`;
+- scan 89 closes the held ambush direction with `வாளை` and supplies secure `விபீஷணா`, `வாளை`, `இவனை` reference material;
 - scan 91 corrects raw-pass `ஓஃகே!` → `ஓஹோ!` and `சுற்றுப்` → `சற்றுப்`;
 - scan 92 corrects `கூன` → `கூட` but retains a separate dense hold;
 - scan 94 restores `வரி கொடுக்கமாட்டேன்னு` and `எழுத்துக்கள்` while its route parenthetical remains open;
 - scan 96 resolves `சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`;
-- scan 97 preserves the `பதார்த்தங்` / `களில்` physical boundary into scan 98;
-- scans 98–100 remain open on explicit stage-direction holds.
+- scan 97 preserves the `பதார்த்தங்` / `களில்` physical boundary into scan 98.
 
 ### Scans 101–110
 
@@ -232,16 +224,26 @@ Reviewed scans **47–52, 60–61, 65–66** directly from the controlling sourc
 - scan 66 closes source **`ஹ ஹ ஹா!`** and **`சிங்கநாகன்`**;
 - no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
 
+## Residual-hold re-audit — batch 4
+
+Reviewed scans **69, 72–74, 77–79, 88–90** directly from the controlling source.
+
+- promoted: **78, 89** — **2 pages**;
+- remain open from this batch: **69, 72–74, 77, 79, 88, 90**;
+- scan 78 resolves **`வெளிநாட்டுக்`**;
+- scan 89 resolves **`(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`**;
+- no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
+
 ## Current metrics
 
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- full historical-glyph passes: **99 / 131** (`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
-- visually verified: **99 / 131**;
-- `needs-review`: **32 / 131** (`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
+- full historical-glyph passes: **101 / 131** (`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
+- visually verified: **101 / 131**;
+- `needs-review`: **30 / 131** (`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Run **residual-hold re-audit batch 4** over scans **69, 72–74, 77–79, 88–90**. Revisit only explicit holds using stronger source evidence and close the complete 13-family gate page by page. Scans **1, 21, 27, 43, 47, 48, 51, 52, 60, 61, 65** remain deferred until stronger character evidence appears. Do not begin scene assembly or English translation.
+Run **residual-hold re-audit batch 5** over scans **92, 94–95, 98–100, 112–113, 117, 128, 130**. Revisit only explicit holds using stronger source evidence and close the complete 13-family gate page by page. Earlier unresolved residual scans **1, 21, 27, 43, 47, 48, 51, 52, 60, 61, 65, 69, 72–74, 77, 79, 88, 90** remain deferred until genuinely stronger character evidence appears. Do not begin scene assembly or English translation.
