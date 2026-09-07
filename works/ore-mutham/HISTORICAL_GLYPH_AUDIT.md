@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN FOR RESIDUAL-HOLD RE-AUDIT — 96 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 35 RETAIN OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN FOR RESIDUAL-HOLD RE-AUDIT — 99 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 32 RETAIN OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -33,6 +33,7 @@ Secure witnesses include:
 - scan 37: `பவளமலைச்`;
 - scan 40: `காலையில்`, `அலைந்தோம்`;
 - scans 44–45: `தலையைத்`;
+- scans 49–50: `தலையில்` and the closed `காட்சி 12.` historical-type environment;
 - scans 56, 58: `தொலைக்கிறாள்`, `தலைக்கேறி`;
 - scans 62–64: `வேலை`, `கலைந்து`, `மலைகள்`, `சேலைத்`;
 - scans 67–68: `முல்லைக்காட்டின்`, `தலையை`;
@@ -85,9 +86,11 @@ Secure witnesses include:
 - scans 3, 4, 6: `விற்பனை`, `சென்னை`;
 - scan 36: `மன்னனைக்`;
 - scan 45: `தண்டனை`, `என்னை`, `என்னைக்`;
+- scan 50: `மனைவி` and closed inset environment;
 - scan 53: `மனைவி`;
 - scan 54: `அவனைச்`;
 - scan 62: `என்னைப்`;
+- scan 66: `தலையை` / documentary-evidence page closes PASS;
 - scan 67: `தண்டனை`;
 - scan 70: `உன்னையல்ல`;
 - scan 75: `என்னைக்`;
@@ -147,26 +150,31 @@ After residual-hold batches 1–2:
 
 ### Scans 41–60
 
-After residual-hold batch 2:
+After residual-hold batches 2–3:
 
-- verified: scans **41–42, 44–46, 53–59**;
-- open: scans **43, 47–52, 60**;
+- verified: scans **41–42, 44–46, 49–50, 53–59**;
+- open: scans **43, 47–48, 51–52, 60**;
 - scan 41 resolves **`அநியாயமாவது அக்கிரமமாவது.`**;
 - scan 42 resolves source **`பாஷைகளே`** and retains `அண்ணனுயிற்றே`;
-- scan 43 remains open on one small bold parenthetical despite stronger renderings; surrounding text is secure;
+- scan 43 remains open on one small bold parenthetical despite stronger renderings;
 - scan 44 resolves **`அரும்பிலேயே`**;
 - scan 45 resolves **`மரண தண்டனை அதற்குத்தீர்ப்பு.`** and **`உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்`**;
 - scan 46 preserves **`கொண்டுவந்து கொடுப்பாய்ப்போல்.`**, **`இரவு தெரு நடனக்காரியை`**, **`நினைவுவந்த`** and closes the `காட்சி 12.` transition;
-- scan 49 durable correction remains `மலரைச் சாப்பாற்றினாய்` → `மலரைக் காப்பாற்றினாய்`;
-- scans **53–59** PASS / verified;
+- batch 3 scan 49 closes the complete page and preserves durable `மலரைக் காப்பாற்றினாய்`;
+- batch 3 scan 50 closes the complete `வெளியில்` / `உள்ளே` page with physical inset line-breaking preserved;
+- scans 53–59 PASS / verified;
 - scan 56 preserves `இமய` / `இமா` / `விபீஷ -` and supplies first secure `னொ` witness `இன்னொன்று`;
 - scan 60 remains open on one small parenthetical lexical cluster.
 
 ### Scans 61–80
 
-- verified: scans **62–64, 67–68, 70–71, 75–76, 80**;
-- open: scans **61, 65–66, 69, 72–74, 77–79**;
-- durable corrections/resolutions: `காலப்பனிபோல்`, `ஆசைப்படச் சொன்னார்`, `வேம்பொடு`, `வாழ்க இந்நாட்டு வளம்!`, `ஆலகாலமா?`;
+After residual-hold batch 3:
+
+- verified: scans **62–64, 66–68, 70–71, 75–76, 80**;
+- open: scans **61, 65, 69, 72–74, 77–79**;
+- scan 65 retains the source-secure `ஆசைப்படச் சொன்னார்`, but one short historical-type/spacing clause remains open;
+- scan 66 closes **`ஹ ஹ ஹா!`** and source documentary name **`சிங்கநாகன்`**;
+- durable corrections/resolutions remain `காலப்பனிபோல்`, `வேம்பொடு`, `வாழ்க இந்நாட்டு வளம்!`, `ஆலகாலமா?`;
 - scan 75 caste-law dialogue remains verbatim source evidence;
 - physical boundaries including scan 63→64 and scan 79→80 remain preserved.
 
@@ -203,7 +211,6 @@ Reviewed scans **1, 21, 23, 27–32, 34** with stronger source renderings.
 
 - promoted: **23, 28–32, 34** — **7 pages**;
 - remain open: **1, 21, 27**;
-- scans 1, 21 and 27 are not repeatedly guessed: they remain explicit residual holds until genuinely stronger character evidence settles the tiny/stylized or small bold material;
 - no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
 
 ## Residual-hold re-audit — batch 2
@@ -212,7 +219,17 @@ Reviewed scans **35–36, 38–39, 41–46** with stronger source renderings.
 
 - promoted: **35, 36, 38, 39, 41, 42, 44, 45, 46** — **9 pages**;
 - remain open from this batch: **43**;
-- scan 43 is not completed from context: its one small bold parenthetical remains explicit until genuinely stronger character evidence settles it;
+- no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
+
+## Residual-hold re-audit — batch 3
+
+Reviewed scans **47–52, 60–61, 65–66** directly from the controlling source.
+
+- promoted: **49, 50, 66** — **3 pages**;
+- remain open from this batch: **47, 48, 51, 52, 60, 61, 65**;
+- scan 49 closes `மலரைக் காப்பாற்றினாய்` within a full-page PASS;
+- scan 50 closes the complete inset / inside-outside page with physical line-breaking preserved;
+- scan 66 closes source **`ஹ ஹ ஹா!`** and **`சிங்கநாகன்`**;
 - no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
 
 ## Current metrics
@@ -220,11 +237,11 @@ Reviewed scans **35–36, 38–39, 41–46** with stronger source renderings.
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- full historical-glyph passes: **96 / 131** (`2–20`, `22–26`, `28–42`, `44–46`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
-- visually verified: **96 / 131**;
-- `needs-review`: **35 / 131** (`1`, `21`, `27`, `43`, `47–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
+- full historical-glyph passes: **99 / 131** (`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
+- visually verified: **99 / 131**;
+- `needs-review`: **32 / 131** (`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Run **residual-hold re-audit batch 3** over scans **47–52, 60–61, 65–66**. Revisit only explicit holds using stronger source evidence and close the complete 13-family gate page by page. Scans **1, 21, 27, 43** remain deferred until stronger character evidence appears. Do not begin scene assembly or English translation.
+Run **residual-hold re-audit batch 4** over scans **69, 72–74, 77–79, 88–90**. Revisit only explicit holds using stronger source evidence and close the complete 13-family gate page by page. Scans **1, 21, 27, 43, 47, 48, 51, 52, 60, 61, 65** remain deferred until stronger character evidence appears. Do not begin scene assembly or English translation.
