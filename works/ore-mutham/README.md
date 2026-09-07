@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; CLOSURE AUDIT COMPLETE FOR SCANS 1–120; 71 VERIFIED; 60 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 71 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
+**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; COMPLETE PHYSICAL-RANGE CLOSURE PASS 131 / 131; 80 VERIFIED; 51 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 80 / 131; CHECKSUM RECORDED; RESIDUAL-HOLD RE-AUDIT NEXT; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -30,15 +30,15 @@ Scan 6 independently supports the Sri Lankan historical-fragment basis and first
 
 Do not renumber the supplementary scenes as main-play scenes 31–33.
 
-## Closure audit checkpoint — scans 1–120
+## Closure audit checkpoint — complete physical range
 
 Verified scans:
 
-`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–120`.
+`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`.
 
 Still `needs-review`:
 
-`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `121–131`.
+`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`.
 
 The detailed source-held reasons remain in `pages/*.md`, `indexes/page-map.md`, and `HISTORICAL_GLYPH_AUDIT.md`.
 
@@ -91,6 +91,16 @@ Seven scans newly close **PASS / verified**: **111, 114–116, 118–120**. Scan
 - scan 118 / p.116: complete main-play ending, explicit `ஒரே முத்தம்` title repetition and four-line closing verse close;
 - scans 119–120 / pp.117–118: separate `நகைச் சுவைப் பகுதி.` / `காட்சி 1.` opener and continuing colloquial dialogue close PASS.
 
+## Closure checkpoint — scans 121–131
+
+The complete remaining physical range was closure-audited directly from source pixels/enlargements.
+
+- scans **121–127** close **PASS / verified**; complete supplementary scene-1/2 dialogue and actions, `காட்சி 2.` and `இடம்:- வயல் வெளி.` are source-secure;
+- scan **128 / p.126** retains one dense `காட்சி 3.` opening parenthetical hold; source **`என் கொலப் பெருமையே போச்சு!`** and `இடம்:- சந்தேகம் வீடு.` are secure;
+- scan **129 / p.127** closes **PASS / verified**, including the full `சாவித்திரி` / `சத்தியவான்` exchange;
+- scan **130 / p.128** retains the dense concluding action parenthetical and final bold bracketed epilogue as explicit source holds; the dramatic-text endpoint is secure;
+- scan **131** closes **PASS / verified** as non-literary publisher advertising; complete titles/prices/imprint are archived, and `மின்னொளி` supplies a secure later `னொ` witness.
+
 No global replacement, spelling modernization, OCR expectation, plot-based repair, or another-edition completion was used.
 
 ## Historical-glyph policy
@@ -113,10 +123,10 @@ The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md
 
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
-- closure-audited: **120 / 131** (`1–120`);
-- visually verified: **71 / 131**;
-- `needs-review`: **60 / 131**;
-- historical-glyph passes: **71 / 131**;
+- closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
+- visually verified: **80 / 131**;
+- `needs-review`: **51 / 131**;
+- historical-glyph passes: **80 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - formal structural inventory: **not started**;
@@ -125,4 +135,4 @@ The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md
 
 ## Exact next activity
 
-Run the next **source-pass closure batch over scans 121–130**. Resolve only from stronger source pixels/renderings and run the complete 13-family historical-glyph gate on each scan. Do not begin scene assembly or English translation.
+Begin the **residual-hold re-audit** with the earliest ten open page records: **scans 1, 21, 23, 27–32 and 34**. Resolve only explicit held material from stronger source evidence and close the full 13-family gate before promotion. Do not begin scene assembly or English translation.
