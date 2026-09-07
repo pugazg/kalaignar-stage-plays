@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN FOR CLOSURE — 64 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 67 RETAIN OPEN TEXT/GLYPH HOLDS**
+Status: **OPEN FOR CLOSURE — 71 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED; 60 RETAIN OPEN TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -41,7 +41,10 @@ Secure witnesses include:
 - scans 91, 93, 96–97: `தலையாவது`, `ஓலை`, `தலை`, `வேலை`;
 - scan 104: `கலைகிறது`;
 - scan 105: `முளையிலேயே`;
-- scan 109: `வேலைகள்`.
+- scan 109: `வேலைகள்`;
+- scan 111: `இல்லை`;
+- scan 114: `தெரியவில்லை`;
+- scan 115: `இல்லை`.
 
 ### `ணா`
 
@@ -59,7 +62,9 @@ Secure witnesses include:
 - scan 70: `துணையை`;
 - scan 71: `பெண்ணை`;
 - scan 75: `பெண்ணை`;
-- scan 83: `கண்ணை`.
+- scan 83: `கண்ணை`;
+- scan 115: `பெண்ணைத்`;
+- scan 118: `அணையப்போகும்`.
 
 ### `ளை`
 
@@ -83,7 +88,8 @@ Secure witnesses include:
 - scans 83–85: `மலையனை`, `மனைவியாக்கமாட்டேன்`, `மலையனைத்`;
 - scan 91: `அவனைப்`;
 - scans 101–104: `தண்டனை`, `என்னை`, `என்னைக்`, `அரண்மனைத்`;
-- scan 110: `மனைவியையும்`.
+- scan 110: `மனைவியையும்`;
+- scan 111: `மன்னனைச்`.
 
 ### `றா`
 
@@ -159,16 +165,32 @@ All ten scans directly re-inspected from enlarged source pixels close **PASS / v
 - scan 110 / p.108: recovered-letter confrontation closes; `மனைவியையும்` supplies secure `னை` evidence;
 - no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
 
+### Scans 111–120
+
+All ten scans were directly closure-reviewed from enlarged source pixels. **Seven pages PASS / verified: 111, 114–116 and 118–120.**
+
+- scan 111 / p.109: forged-letter conspiracy, public reversal, crowd acclaim and full `விபீஷ` protest close; secure examples include `மன்னனைச்` and `இல்லை`;
+- scan 112 / p.110: punishment/medical sequence and `காட்சி 29.` / `இடம்:- அரண்மனை நந்தவனம்.` close, but one dense scene-opening parenthetical remains exact-character held;
+- scan 113 / p.111: surrounding women/social-status dialogue closes, but one exact place/compound word in `புத்த`'s accommodation line remains held;
+- scan 114 / p.112: full king/prince marriage confrontation closes; source caste form `பறைச்சியல்லவா?` and `கொய்யாக்கனி!` retained;
+- scan 115 / p.113: law/custom and explicit `கலப்புமணம்` argument closes; `பெண்ணைத்` contributes secure `ணை` evidence;
+- scan 116 / p.114: political dialogue closes including `மக்களாட்சியாக மாற்றுவேன்` and `மன்னராட்சியை ஒழிப்பேன்`;
+- scan 117 / p.115: `காட்சி 30.` / `இடம்:- குமரியின் படுக்கை.` and bedside dialogue close, but one dense word/cluster in the opening direction remains held;
+- scan 118 / p.116: complete main-play ending, explicit title repetition `ஒரே முத்தம்` and four-line closing verse close; `அணையப்போகும்` contributes secure `ணை` evidence;
+- scans 119–120 / pp.117–118: separately numbered `நகைச் சுவைப் பகுதி.` / `காட்சி 1.` opener and continuing colloquial dialogue close PASS;
+- open scans 112, 113 and 117 contribute no new secure reference candidates;
+- no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
+
 ## Current metrics
 
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
-- closure-audited: **110 / 131** (`1–110`);
-- full historical-glyph passes: **64 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–110`);
-- visually verified: **64 / 131**;
-- `needs-review`: **67 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `111–131`);
+- closure-audited: **120 / 131** (`1–120`);
+- full historical-glyph passes: **71 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–120`);
+- visually verified: **71 / 131**;
+- `needs-review`: **60 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `121–131`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Run the next closure batch over **scans 111–120**. Revisit explicit holds only with stronger source pixels/renderings and close the complete 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
+Run the next closure batch over **scans 121–130**. Revisit explicit holds only with stronger source pixels/renderings and close the complete 13-family gate page by page. Do not begin scene assembly or English translation during this closure phase.
