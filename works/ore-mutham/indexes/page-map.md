@@ -40,10 +40,14 @@ All **131 physical scans** are registered and source-processed. Individual `page
 | 101–103 | 99–101 | `காட்சி 26.` | verified | Full closure PASS. Scan 101 `மோகஸ்திரத்தில் மயங்கிய இவர்` / `தங்கள் முடியைக் கவிழ்க்க`; scan 102 `கற்பனை`; scan 103 `சுட்டுச் சாம்பலாக்க` / `அந்தச் சாம்பலைக்கூடக்`. |
 | 104–105 | 102–103 | `காட்சி 26.` close / `காட்சி 27.` | verified | Scan 104 `(மிடுக்காகச் செல்கிறான், சபை கலைகிறது)` / `இளவரசே`; scan 105 opening crowd direction and `அவர்களை பலாத்காரமாக விடுவிப்பார்கள்` closed. |
 | 106–110 | 104–108 | `காட்சி 28.` | verified | Full execution-platform sequence through `சித்ரா`'s exposure of the plot closes PASS; scan 109 `நான் நீதி தவறாதவன்.`; scan 110 recovered-letter confrontation closes. |
-| 111 | 109 | `காட்சி 28.` | needs-review | Forged-letter reversal / crowd acclaim structure secure; dense dialogue and final continuation into scan 112 remain open. |
-| 112–116 | 110–114 | `காட்சி 29.` | needs-review | Scan 112 `இடம்:- அரண்மனை நந்தவனம்.`; law/custom and `கலப்புமணம்` material continues through scan 116. |
-| 117–118 | 115–116 | `காட்சி 30.` / main-play close | needs-review | Scan 117 `இடம்:- குமரியின் படுக்கை.`; scan 118 closes the main play and prints closing verse. |
-| 119–124 | 117–122 | `நகைச் சுவைப் பகுதி.` — `காட்சி 1.` | needs-review | Scan 119 `இடம்:- சந்தேகம் வீடு.`; separately numbered supplementary comedy. |
+| 111 | 109 | `காட்சி 28.` | verified | Forged-letter conspiracy exposed; crowd reversal and full page close PASS. |
+| 112 | 110 | `காட்சி 28.` close / `காட்சி 29.` | needs-review | Scene-28 punishment/medical sequence and `இடம்:- அரண்மனை நந்தவனம்.` secure; one dense scene-29 opening parenthetical remains held. |
+| 113 | 111 | `காட்சி 29.` | needs-review | Women/social-status dialogue closes except one exact place/compound word in `புத்த`'s accommodation line. |
+| 114–116 | 112–114 | `காட்சி 29.` | verified | Full PASS. Scan 114 preserves `பறைச்சியல்லவா?`; scan 115 explicit `கலப்புமணம்`; scan 116 `மக்களாட்சியாக மாற்றுவேன்` / `மன்னராட்சியை ஒழிப்பேன்`. |
+| 117 | 115 | `காட்சி 29.` close / `காட்சி 30.` | needs-review | `இடம்:- குமரியின் படுக்கை.` and bedside dialogue secure; one dense word/cluster in the scene-opening direction remains held. |
+| 118 | 116 | `காட்சி 30.` / main-play close | verified | Complete final dialogue/actions, explicit `ஒரே முத்தம்`, main-play endpoint and four-line closing verse PASS. |
+| 119–120 | 117–118 | `நகைச் சுவைப் பகுதி.` — `காட்சி 1.` | verified | Separate supplementary comedy begins at scan 119 with `இடம்:- சந்தேகம் வீடு.`; scans 119–120 complete dialogue/actions PASS. |
+| 121–124 | 119–122 | `நகைச் சுவைப் பகுதி.` — `காட்சி 1.` | needs-review | Raw source-pass records remain to be closure-audited. |
 | 125–127 | 123–125 | `நகைச் சுவைப் பகுதி.` — `காட்சி 2.` | needs-review | Scan 125 `இடம்:- வயல் வெளி.` |
 | 128–130 | 126–128 | `நகைச் சுவைப் பகுதி.` — `காட்சி 3.` | needs-review | Scan 128 `இடம்:- சந்தேகம் வீடு.`; scan 130 final dramatic-text page. |
 | 131 | — | back-cover advertisement | needs-review | Publisher book-list advertisement; not literary text. |
@@ -54,10 +58,10 @@ All **131 physical scans** are registered and source-processed. Individual `page
 - checksum: **recorded**;
 - page records source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
-- closure-audited: **110 / 131** (`1–110`);
-- visually verified: **64 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–110`);
-- `needs-review`: **67 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `111–131`);
-- completed historical-glyph passes: **64 / 131**;
+- closure-audited: **120 / 131** (`1–120`);
+- visually verified: **71 / 131** (`2–20`, `22`, `24–26`, `33`, `37`, `40`, `53–59`, `62–64`, `67–68`, `70–71`, `75–76`, `80–87`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–120`);
+- `needs-review`: **60 / 131** (`1`, `21`, `23`, `27–32`, `34–36`, `38–39`, `41–52`, `60–61`, `65–66`, `69`, `72–74`, `77–79`, `88–90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `121–131`);
+- completed historical-glyph passes: **71 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary comedy source-visible anchors: **3**;
 - formal structural/scene inventory: **not started**;
@@ -78,6 +82,21 @@ All ten scans were directly re-inspected from enlarged source pixels and close *
 - scan 110 / p.108: recovered-letter confrontation and `இளவரசன் ஸ்தானத்தை உமக்கு அளிக்கப் போகிறேன்` sequence close;
 - no global replacement, spelling modernization, OCR expectation, plot-based completion or another-edition repair was used.
 
+## Closure audit checkpoint — scans 111–120
+
+All ten scans were directly re-inspected from enlarged source pixels. **Seven pages newly close PASS / verified: scans 111, 114–116 and 118–120.**
+
+- scan 111 / p.109 closes the forged-letter exposure, public reversal and complete `விபீஷ` protest; source wording and punctuation remain unnormalized;
+- scan 112 / p.110 closes the scene-28 punishment/medical sequence and `காட்சி 29.` / `இடம்:- அரண்மனை நந்தவனம்.`, but one dense scene-opening parenthetical remains held;
+- scan 113 / p.111 closes the surrounding `சித்ரா` women/social-status dialogue, but one exact place/compound word in `புத்த`'s accommodation line remains held;
+- scan 114 / p.112 closes the full king/prince marriage confrontation and preserves source caste form `பறைச்சியல்லவா?` plus `கொய்யாக்கனி!`;
+- scan 115 / p.113 closes the explicit law/custom and `கலப்புமணம்` argument;
+- scan 116 / p.114 closes the political dialogue including `மக்களாட்சியாக மாற்றுவேன்` and `மன்னராட்சியை ஒழிப்பேன்`;
+- scan 117 / p.115 closes the scene transition and bedside dialogue but retains one dense word/cluster in the scene-30 opening parenthetical;
+- scan 118 / p.116 closes the main play, explicit `ஒரே முத்தம்` title repetition and complete four-line closing verse;
+- scans 119–120 / pp.117–118 close the separately numbered `நகைச் சுவைப் பகுதி.` / `காட்சி 1.` opener and continuing colloquial dialogue;
+- no global replacement, spelling modernization, OCR expectation, plot-based completion or another-edition repair was used.
+
 ## Exact next activity
 
-Continue the **source-pass closure audit with scans 111–120**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
+Continue the **source-pass closure audit with scans 121–130**. Resolve only from stronger source pixels/enlargements; run the full 13-family historical-glyph gate page by page. Do not begin scene assembly or English translation.
