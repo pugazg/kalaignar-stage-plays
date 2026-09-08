@@ -64,58 +64,43 @@ Expected English artifact set:
 - supplementary `translations/en/nagai-suvai-01.md` through `nagai-suvai-03.md`;
 - total **33**.
 
-### Batches 1–2 — PASS / LOCKED
+### Batches 1–3 — PASS / LOCKED
 
 Completed / reviewed:
 
-- `main-01.md` through `main-10.md`.
+- `main-01.md` through `main-15.md`.
 
 Reviews:
 
 - `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
-- `translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
+- `translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- `translations/en/BATCH_03_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
 
 Progress:
 
-- English scenes present: **10 / 33**;
-- English scenes reviewed: **10 / 33**;
-- completed batches: **2 / 7**;
-- source-hold-bearing English scenes completed: **3 / 18** — main **6–8**;
+- English scenes present: **15 / 33**;
+- English scenes reviewed: **15 / 33**;
+- completed batches: **3 / 7**;
+- source-hold-bearing English scenes completed: **7 / 18** — main **6–8, 11–14**;
 - Tamil source holds resolved by English translation: **0**;
 - unresolved blocking English issues: **0**;
 - secondary-English contamination: **0**.
 
-Batch-2 terminal dependencies preserved:
-
-- Scene 6 → `[21]`;
-- Scene 7 → `[27]`;
-- Scene 8 → `[27]`.
-
-## Stable terminology after Batch 2
+## Stable terminology after Batch 3
 
 Use consistently unless a later batch review explicitly documents a justified global refinement:
 
-- Puthan
-- Mahaveerar
-- Yaaliththathar
-- Kumari
-- Ramela
-- Vibhishanan
-- Imaya
-- Ponni
-- Malayan
-- Chithra
-- Madhavan
-- Singanagan
-- Ellappan
-- Inbapuri
-- Mullaikadu
-- Poonthottam
-- Pavalamalai
-- `Lightning` for Kumari's undercover alias `மின்னல்`
-- recurring `மது, மங்கை` → `wine and women`
-- *thali*, *kalakshepam*, *tandava* where the source-specific term itself matters
-- `chandala` where the historically specific source insult itself matters
+- Puthan, Mahaveerar, Yaaliththathar, Kumari, Ramela, Vibhishanan, Imaya;
+- Ponni, Malayan, Chithra, Madhavan, Singanagan, Ellappan;
+- Inbapuri, Mullaikadu, Poonthottam, Pavalamalai;
+- `Lightning` for Kumari's undercover alias `மின்னல்`;
+- recurring `மது, மங்கை` → `wine and women`;
+- *thali*, *kalakshepam*, *tandava* where the source-specific term itself matters;
+- `chandala` where the historically specific source insult itself matters;
+- *machan* when the exact Tamil kinship sense should remain non-narrowed;
+- `paraak` for the court/herald announcement form;
+- `Maharani` where the source title itself is used;
+- reviewed mythic forms include Ahalya, Nalayini, Savitri, Kumbakarna, Duryodhana and Draupadi.
 
 ## Terminal-source-hold English rule
 
@@ -128,20 +113,20 @@ Hold-bearing Tamil scenes must preserve source uncertainty in English.
 - use `status: "translation-reviewed-with-source-holds"` and `translation_review: "passed-with-source-holds"` when secure content passes review;
 - an English review PASS with source holds does **not** resolve the Tamil source hold.
 
-## Exact next activity — English Batch 3 / main Scenes 11–15
+## Exact next activity — English Batch 4 / main Scenes 16–20
 
 Proceed in one batch:
 
-1. Read closed Tamil `scenes/main-11.md` through `main-15.md` completely.
-2. Translate main Scene **11** — terminal dependency `[43]`.
-3. Translate main Scene **12** — terminal dependencies `[47, 48, 51]`.
-4. Translate main Scene **13** — terminal dependency `[52]`.
-5. Translate main Scene **14** — terminal dependency `[52]`.
-6. Translate source-secure main Scene **15**.
-7. Preserve all terminal source-hold markers transparently; do not repair them from plot context, OCR, grammar or another edition.
-8. Preserve established naming/terminology unless Batch-3 review documents a justified global refinement.
-9. Create `translations/en/BATCH_03_REVIEW.md` and review every Tamil speaker turn, stage direction, naming choice and source-hold locus.
-10. If PASS, lock Batch 3 and synchronize `TRANSLATION_PLAN.md`, English README, work/root READMEs, `HANDOVER.md`, and this prompt.
+1. Read closed Tamil `scenes/main-16.md` through `main-20.md` completely.
+2. Translate main Scene **16** — terminal dependencies `[60, 61]`.
+3. Translate main Scene **17** — terminal dependency `[65]`.
+4. Translate main Scene **18** — terminal dependency `[69]`.
+5. Translate main Scene **19** — terminal dependencies `[72, 73, 74]`.
+6. Translate main Scene **20** — terminal dependencies `[77, 79]`.
+7. Preserve all terminal source-hold markers transparently; do not repair them from plot context, OCR, grammar, mythic familiarity or another edition.
+8. Preserve established naming/terminology unless Batch-4 review documents a justified global refinement.
+9. Create `translations/en/BATCH_04_REVIEW.md` and review every Tamil speaker turn, stage direction, naming choice and source-hold locus.
+10. If PASS, lock Batch 4 and synchronize `TRANSLATION_PLAN.md`, English README, work/root READMEs, `HANDOVER.md`, and this prompt.
 11. Fetch final live `main` SHA.
 
 Do not reopen Tamil source work.
