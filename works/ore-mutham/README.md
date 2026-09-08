@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — RAW SOURCE PASS COMPLETE 131 / 131; PHYSICAL-RANGE CLOSURE COMPLETE 131 / 131; RESIDUAL RE-AUDIT COMPLETE; 103 VERIFIED + 28 TERMINAL CURRENT-SOURCE-CONDITION `blocked`; HISTORICAL-GLYPH PASS 103 / 131; TERMINAL HOLD INVENTORY COMPLETE; FORMAL STRUCTURAL INVENTORY COMPLETE; SCENE-ASSEMBLY PLAN COMPLETE; ASSEMBLY NOT STARTED; ENGLISH NOT AUTHORIZED.**
+**ACTIVE — RAW SOURCE PASS COMPLETE 131 / 131; PHYSICAL-RANGE CLOSURE COMPLETE 131 / 131; RESIDUAL RE-AUDIT COMPLETE; 103 VERIFIED + 28 TERMINAL CURRENT-SOURCE-CONDITION `blocked`; HISTORICAL-GLYPH PASS 103 / 131; TERMINAL HOLD INVENTORY COMPLETE; BOUNDARY-AWARE STRUCTURAL INVENTORY COMPLETE; MAIN SCENES 1–5 ASSEMBLED / PAGE-RECORD-AUDITED; ENGLISH NOT AUTHORIZED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -30,7 +30,7 @@ Scan 6 independently supports the Sri Lankan historical-fragment basis and first
 
 Do not renumber the supplementary scenes as main-play scenes 31–33.
 
-Structural detail is now frozen in [`STRUCTURAL_INVENTORY.md`](STRUCTURAL_INVENTORY.md). Future assembly rules are in [`SCENE_ASSEMBLY_PLAN.md`](SCENE_ASSEMBLY_PLAN.md).
+Structural detail is frozen in [`STRUCTURAL_INVENTORY.md`](STRUCTURAL_INVENTORY.md). Shared transition-page handling is documented in [`SCENE_BOUNDARY_AUDIT.md`](SCENE_BOUNDARY_AUDIT.md). Assembly rules are in [`SCENE_ASSEMBLY_PLAN.md`](SCENE_ASSEMBLY_PLAN.md).
 
 ## Verified / terminal checkpoint
 
@@ -44,17 +44,30 @@ Terminal current-source-condition / `blocked` scans:
 
 All **28 / 28** terminal records have already received direct source review and at least one residual/difficult-reading pass. Their exact unresolved loci are consolidated in [`TERMINAL_SOURCE_CONDITION_HOLDS.md`](TERMINAL_SOURCE_CONDITION_HOLDS.md). They are not pending ordinary review and may be reopened only if genuinely stronger source evidence appears.
 
-## Formal structural inventory checkpoint
+## Boundary-aware structural / assembly checkpoint
+
+The first assembly pass exposed an important structural detail: many transition scans contain the end of one scene and the heading/opening of the next scene. Scene ranges therefore overlap on those physical pages. The earlier non-overlapping allocation has been corrected in `STRUCTURAL_INVENTORY.md`, `SCENE_BOUNDARY_AUDIT.md`, and `SCENE_ASSEMBLY_PLAN.md`.
 
 - main-play anchors: **30 / 30 structurally verified**;
 - supplementary anchors: **3 / 3 structurally verified**;
-- main play: scans **8–118 / pp.6–116**;
-- supplementary comedy: scans **119–130 / pp.117–128**;
-- main scenes containing one or more terminal hold pages: **16 / 30** — scenes `6, 8, 11–14, 16–20, 23–26, 29`;
-- supplementary scenes containing terminal holds: **scene 3 only** (`128`, `130`);
-- non-scene terminal hold: scan **1** front-cover marks;
-- source wording changed during structural inventory: **0**;
+- main scenes containing an unresolved locus inside their own scene text: **17 / 30** — scenes `6–8, 11–14, 16–20, 23–26, 29`;
+- supplementary scenes containing unresolved loci: **scene 3 only**;
+- main Scene 28 is source-secure but uses the secure pre-Scene-29 portion of globally blocked scan 112;
+- supplementary Scene 2 is source-secure but uses the secure pre-Scene-3 portion of globally blocked scan 128;
+- main scenes assembled / page-record-audited: **1–5 / 30**;
+- supplementary scenes assembled: **0 / 3**;
+- source wording changed during structural inventory / assembly: **0**;
 - unresolved wording invented: **0**.
+
+Current scene files:
+
+- `scenes/main-01.md` — boundary-aware scans 8–9;
+- `scenes/main-02.md` — scans 9–11;
+- `scenes/main-03.md` — scans 11–15;
+- `scenes/main-04.md` — scans 15–19;
+- `scenes/main-05.md` — scans 19–20.
+
+Each is `assembly-reviewed`, `page_record_fidelity: passed`, and assembled only from canonical verified page-record segments. Shared transition scans and the scan-10→11 physical word continuation are explicitly preserved in provenance rather than normalized.
 
 ## Important durable source corrections
 
@@ -134,11 +147,12 @@ The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md
 - terminal hold inventory: **COMPLETE**;
 - main-play structural anchors: **30 / 30 — COMPLETE**;
 - supplementary structural anchors: **3 / 3 — COMPLETE**;
-- formal structural inventory: **COMPLETE**;
-- scene-assembly plan: **COMPLETE**;
-- Tamil scene assembly: **not started**;
+- boundary-aware structural inventory / boundary audit: **COMPLETE**;
+- scene-assembly plan: **CORRECTED / ACTIVE**;
+- Tamil main scenes assembled / audited: **5 / 30**;
+- Tamil supplementary scenes assembled: **0 / 3**;
 - English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Begin the Tamil scene-assembly phase under [`SCENE_ASSEMBLY_PLAN.md`](SCENE_ASSEMBLY_PLAN.md), starting with fully verified-input scenes. Preserve source scan/page provenance. Any scene containing a terminal page must list its `source_condition_scans` and retain the unresolved page-layer marker exactly; no held wording may be repaired from context. Do **not** begin English translation.
+Continue the corrected verified-page assembly batch under [`SCENE_ASSEMBLY_PLAN.md`](SCENE_ASSEMBLY_PLAN.md): main scenes **9–10, 15, 21–22, 27, 30**, then supplementary Scene **1**. After those, assemble the two source-secure shared-boundary cases — main Scene **28** using only the secure pre-Scene-29 portion of scan 112, and supplementary Scene **2** using only the secure pre-Scene-3 portion of scan 128 — with explicit provenance and `assembled_from_verified_pages: false`. Main Scene **7 is no longer treated as verified-only** because its closing material on scan 27 contains a terminal held locus. Do **not** begin English translation.
