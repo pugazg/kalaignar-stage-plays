@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **TAMIL COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary scenes assembled; full scene audit PASS 33/33; Tamil closure review PASS; English not authorized** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **TAMIL COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary scenes assembled; full scene audit PASS 33/33; Tamil closure review PASS; English ACTIVE — Batch 1 PASS/LOCKED, 5/33 scenes reviewed** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -74,7 +74,28 @@ Work-level Tamil state:
 
 The closure does not pretend all 131 scans are verified. It means the complete current-source workflow has been exhausted defensibly: all pages/scenes are represented, all difficult loci have been revisited, remaining ambiguity is explicit and traceable, and no missing wording has been fabricated.
 
-English translation is **not authorized / not started**. Do not begin it unless explicitly authorized.
+## ஒரே முத்தம் — English translation checkpoint
+
+English translation was explicitly authorized after Tamil closure. Immediate drafting authority is the closed 33-scene Tamil layer; Tamil source artifacts remain unchanged.
+
+Translation authority / workflow:
+
+- `works/ore-mutham/TRANSLATION_PLAN.md`;
+- `works/ore-mutham/translations/en/README.md`;
+- `works/ore-mutham/translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**.
+
+Batch 1 completed:
+
+- main Scenes **1–5**;
+- English scene artifacts present/reviewed: **5 / 33**;
+- completed English batches: **1 / 7**;
+- source-hold-bearing English scenes completed so far: **0**;
+- unresolved blocking English issues: **0**;
+- secondary-English contamination: **0**.
+
+The English layer must preserve Tamil terminal source holds rather than guess them. Batch 2 introduces the first hold-bearing translations.
+
+**Exact next activity:** English Batch 2 — main Scenes **6–10**. Scenes 6–8 are hold-bearing and must carry their terminal source holds transparently; Scenes 9–10 are source-secure. Review the five-scene batch in `BATCH_02_REVIEW.md` before proceeding.
 
 ## Closed work safeguards
 
