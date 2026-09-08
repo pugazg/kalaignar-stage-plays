@@ -1,6 +1,6 @@
 # Scene Assembly Plan — ஒரே முத்தம்
 
-Status: **SOURCE-SECURE ASSEMBLY BATCH COMPLETE / AUDITED — 13 MAIN + 2 SUPPLEMENTARY SCENES; HOLD-BEARING PHASE NEXT**.
+Status: **ASSEMBLY COMPLETE / FULL PAGE-TO-SCENE AUDIT PASS — 30 MAIN + 3 SUPPLEMENTARY SCENES**.
 
 Authority chain:
 
@@ -9,154 +9,107 @@ Authority chain:
 3. `SCENE_BOUNDARY_AUDIT.md` for shared transition-page segmentation;
 4. `STRUCTURAL_INVENTORY.md` for boundary-aware scene ranges;
 5. `TERMINAL_SOURCE_CONDITION_HOLDS.md` for unresolved-locus traceability;
-6. `SCENE_ASSEMBLY_AUDIT.md` for page-to-scene consistency of assembled files.
+6. `SCENE_ASSEMBLY_AUDIT.md` for the complete 33-scene page-to-scene consistency audit.
 
-This plan does not authorize English translation and does not authorize any repair of held wording.
+English translation remains **not authorized / not started**.
 
-## Assembly namespaces
+## Assembly namespaces — complete
 
-Keep the two source numbering systems separate:
+- main play: `scenes/main-01.md` through `scenes/main-30.md` — **30 / 30 present**;
+- supplementary `நகைச் சுவைப் பகுதி.`: `scenes/nagai-suvai-01.md` through `scenes/nagai-suvai-03.md` — **3 / 3 present**.
 
-- main play: `scenes/main-01.md` through `scenes/main-30.md`;
-- supplementary `நகைச் சுவைப் பகுதி.`: `scenes/nagai-suvai-01.md` through `scenes/nagai-suvai-03.md`.
+Supplementary scenes remain source-numbered **1–3**. They are never main scenes 31–33.
 
-The supplementary scenes remain **1–3**. They must never be presented as main-play scenes 31–33.
+## Permanent transition-page rule
 
-## Transition-page rule
+A physical scan may contribute source text to two adjacent scenes. Assembly operates on the **scene segment** of each canonical page record, not by assigning each scan exclusively to one scene.
 
-A scan can contribute to two adjacent scenes. Assembly therefore operates on the **scene segment** of each canonical page record, not by assigning each physical page to only one scene.
+When a shared page is terminally `blocked`, hold ownership is segment-level:
 
-When a shared page is terminally `blocked`, distinguish:
+- if the held locus belongs to the scene being assembled, that scan is listed in `source_condition_scans` and its explicit hold marker / canonical provisional page-layer wording is retained;
+- if the held locus begins only after the next scene anchor, the preceding scene may use its source-secure prefix, but `assembled_from_verified_pages` remains false because one contributing physical page record is globally blocked.
 
-- a hold that belongs to the scene being assembled — list that scan in `source_condition_scans` and retain its hold marker;
-- a hold that occurs only after the next scene anchor — the earlier scene may use its source-secure prefix, but must not falsely claim that every contributing physical page is `verified`.
+## Final assembly classes
 
-## Scene front matter
+### Fully verified physical-page inputs — 13 scenes
 
-For a scene assembled entirely from `verified` physical page records:
+Main: **1–5, 9–10, 15, 21–22, 27, 30**.
 
-```yaml
----
-scene: 1
-work: "ore-mutham"
-section: "main-play"
-source_scan_pages: [8, 9]
-printed_pages: [6, 7]
-status: "assembly-reviewed"
-assembled_from_verified_pages: true
-page_record_fidelity: "passed"
-source_condition_scans: []
----
-```
+Supplementary: **Scene 1**.
 
-For a hold-bearing scene, use:
+These use `status: "assembly-reviewed"`, `assembled_from_verified_pages: true`, `page_record_fidelity: "passed"`, `source_condition_scans: []`.
 
-```yaml
-status: "draft"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-source-hold"
-source_condition_scans: [<scene-relevant held scans>]
-```
+### Source-secure shared-boundary cases — 2 scenes
 
-and preserve every `[source-held: ...]` or equivalent canonical page-layer marker exactly. A hold-bearing scene is not release-final merely because its secure text has been assembled.
+- main Scene **28** — secure pre-`காட்சி 29.` segment of blocked scan 112;
+- supplementary Scene **2** — secure pre-`காட்சி 3.` segment of blocked scan 128.
 
-For a scene whose text is source-secure but whose final shared physical page is blocked only **after the next scene anchor** (main Scene 28; supplementary Scene 2), use `assembled_from_verified_pages: false`, `source_condition_scans: []`, and document the boundary-only blocked page in provenance.
+These use `assembled_from_verified_pages: false`, `page_record_fidelity: "passed"`, `source_condition_scans: []`, with explicit boundary-only provenance.
 
-## Boundary-aware main-play dependencies
+### Hold-bearing scenes — 18 scenes
 
-| Scene | Contributing scans | All contributing physical page records verified? | Unresolved locus inside scene |
-|---:|---:|---|---|
-| 1 | 8–9 | yes | `[]` |
-| 2 | 9–11 | yes | `[]` |
-| 3 | 11–15 | yes | `[]` |
-| 4 | 15–19 | yes | `[]` |
-| 5 | 19–20 | yes | `[]` |
-| 6 | 21–24 | no | `[21]` |
-| 7 | 24–27 | no | `[27]` |
-| 8 | 27–32 | no | `[27]` |
-| 9 | 32–37 | yes | `[]` |
-| 10 | 37–40 | yes | `[]` |
-| 11 | 41–46 | no | `[43]` |
-| 12 | 46–51 | no | `[47, 48, 51]` |
-| 13 | 51–52 | no | `[52]` |
-| 14 | 52–53 | no | `[52]` |
-| 15 | 53–59 | yes | `[]` |
-| 16 | 59–64 | no | `[60, 61]` |
-| 17 | 64–68 | no | `[65]` |
-| 18 | 68–72 | no | `[69]` |
-| 19 | 72–75 | no | `[72, 73, 74]` |
-| 20 | 75–80 | no | `[77, 79]` |
-| 21 | 80–85 | yes | `[]` |
-| 22 | 85–87 | yes | `[]` |
-| 23 | 87–94 | no | `[88, 90]` |
-| 24 | 94–95 | no | `[94, 95]` |
-| 25 | 96–99 | no | `[98, 99]` |
-| 26 | 100–104 | no | `[100]` |
-| 27 | 104–105 | yes | `[]` |
-| 28 | 106–112 | no * | `[]` — scan 112 hold belongs only to Scene 29 after its anchor |
-| 29 | 112–117 | no | `[112, 113]` |
-| 30 | 117–118 | yes | `[]` |
+Main: **6–8, 11–14, 16–20, 23–26, 29**.
 
-`*` Scene 28 is source-secure end to end, but one contributing physical page (`112`) is globally `blocked` because of later Scene-29 text on the same page.
+Supplementary: **Scene 3**.
 
-## Boundary-aware supplementary dependencies
+These use `status: "assembly-held"`, `assembled_from_verified_pages: false`, `page_record_fidelity: "passed-with-terminal-source-hold"` or plural as applicable, and the exact scene-relevant terminal scans:
 
-| Supplement scene | Contributing scans | All contributing physical page records verified? | Unresolved locus inside scene |
-|---:|---:|---|---|
-| 1 | 119–125 | yes | `[]` |
-| 2 | 125–128 | no * | `[]` — scan 128 hold belongs only to Scene 3 after its anchor |
-| 3 | 128–130 | no | `[128, 130]` |
+| Scene | Contributing scans | `source_condition_scans` |
+|---:|---:|---|
+| 6 | 21–24 | `[21]` |
+| 7 | 24–27 | `[27]` |
+| 8 | 27–32 | `[27]` |
+| 11 | 41–46 | `[43]` |
+| 12 | 46–51 | `[47, 48, 51]` |
+| 13 | 51–52 | `[52]` |
+| 14 | 52–53 | `[52]` |
+| 16 | 59–64 | `[60, 61]` |
+| 17 | 64–68 | `[65]` |
+| 18 | 68–72 | `[69]` |
+| 19 | 72–75 | `[72, 73, 74]` |
+| 20 | 75–80 | `[77, 79]` |
+| 23 | 87–94 | `[88, 90]` |
+| 24 | 94–95 | `[94, 95]` |
+| 25 | 96–99 | `[98, 99]` |
+| 26 | 100–104 | `[100]` |
+| 29 | 112–117 | `[112, 113]` |
+| supplementary 3 | 128–130 | `[128, 130]` |
 
-`*` Supplementary Scene 2 is source-secure end to end, but scan 128 is globally `blocked` because of the later Scene-3 opening parenthetical.
+## Assembly rules — permanent
 
-## Assembly rules
+1. Scene text comes only from canonical page records; never from memory, OCR expectation, another edition or plot continuity.
+2. Preserve source speaker labels, scene/location headings, punctuation, stage directions, historical spelling and source-visible spacing.
+3. Shared transition scans are split only at explicit source scene headings.
+4. Documented physical page boundaries remain traceable through archival comments; mechanically split words are not silently respelled.
+5. Every explicit `[source-held: ...]` / equivalent marker remains verbatim in the scene layer.
+6. Where a blocked page carries canonical provisional wording instead of an explicit marker, retain that wording exactly and preserve the terminal scan dependency in front matter/provenance.
+7. A hold-bearing scene remains non-release-final even though its page-record assembly fidelity has passed.
+8. Scan 1 and scan 131 remain outside scene assembly.
+9. No Tamil wording is altered by assembly.
+10. English translation is a separate later phase requiring explicit authorization.
 
-1. Assemble only from canonical page records; do not retype from OCR, memory, another edition or plot continuity.
-2. Preserve every source speaker label, scene/location heading, punctuation mark, stage direction and historical spelling exactly as represented in the page layer.
-3. A transition scan may be split at the explicit next-scene heading; both adjacent scene files may cite the same physical scan.
-4. Physical page boundaries may be preserved as non-rendered archival comments. Documented word continuations must never be silently normalized.
-5. A terminal hold marker must survive assembly if the held locus belongs to that scene. Do not replace `[source-held: ...]` or equivalent page-layer markers with inferred words.
-6. Scenes containing a terminal unresolved locus use `assembled_from_verified_pages: false`, list every affected scene-relevant scan under `source_condition_scans`, and remain non-release-final.
-7. Scenes with only verified page inputs may use `assembled_from_verified_pages: true` only after page-to-scene consistency audit.
-8. Boundary-secure Scene 28 and supplementary Scene 2 use source-secure segments from a page whose later segment is blocked; provenance states this and `assembled_from_verified_pages` remains false.
-9. Supplementary scene numbering is independent and must display `நகைச் சுவைப் பகுதி. — காட்சி 1/2/3`, never 31/32/33.
-10. Scan 1 and scan 131 are not scene inputs. Front/back matter stay outside scene assembly.
-11. No Tamil wording may be altered as part of assembly. English translation remains a separate, later, explicitly authorized phase.
+## Assembly closure
 
-## Current assembly checkpoint
+- main scene files: **30 / 30 assembled**;
+- supplementary scene files: **3 / 3 assembled**;
+- total: **33 / 33**;
+- fully verified-input scenes: **13**;
+- source-secure shared-boundary scenes: **2**;
+- hold-bearing scenes: **18**;
+- complete page-to-scene consistency audit: **33 / 33 PASS** in `SCENE_ASSEMBLY_AUDIT.md`;
+- contextual repairs: **0**;
+- source-wording normalizations: **0**;
+- invented unresolved wording: **0**.
 
-### Main play — 13 / 30 assembled and audited
+## Exact next activity — Tamil pre-release / work-level closure gate
 
-- `main-01.md` — scans 8–9;
-- `main-02.md` — scans 9–11;
-- `main-03.md` — scans 11–15;
-- `main-04.md` — scans 15–19;
-- `main-05.md` — scans 19–20;
-- `main-09.md` — scans 32–37;
-- `main-10.md` — scans 37–40;
-- `main-15.md` — scans 53–59;
-- `main-21.md` — scans 80–85;
-- `main-22.md` — scans 85–87;
-- `main-27.md` — scans 104–105;
-- `main-28.md` — scans 106–112, source-secure boundary case;
-- `main-30.md` — scans 117–118.
+Scene assembly is closed. Do not create a second scene layer and do not begin English translation.
 
-### Supplementary — 2 / 3 assembled and audited
+Next:
 
-- `nagai-suvai-01.md` — scans 119–125;
-- `nagai-suvai-02.md` — scans 125–128, source-secure boundary case.
-
-`SCENE_ASSEMBLY_AUDIT.md` records **PASS — 15 / 15** assembled source-secure scenes page-record-consistent. No terminal unresolved locus has been imported into any assembled scene.
-
-## Exact next assembly order — hold-bearing phase
-
-Proceed in source order so every terminal locus remains easy to trace:
-
-1. main scenes **6–8**;
-2. main scenes **11–14**;
-3. main scenes **16–20**;
-4. main scenes **23–26**;
-5. main scene **29**;
-6. supplementary `நகைச் சுவைப் பகுதி.` **Scene 3**.
-
-For every hold-bearing scene: copy canonical page-record segments only; preserve every source-held marker exactly; set `assembled_from_verified_pages: false`; list all scene-relevant held scans in `source_condition_scans`; do not repair wording from context. Run another page-to-scene audit after the hold-bearing batch. Do **not** begin English translation.
+1. verify the scene-file inventory is exactly main `01–30` plus supplementary `01–03`, with no duplicate/missing files or numbering leakage;
+2. verify all 28 terminal physical-page holds remain traceable through page records and, where scene-relevant, through scene files;
+3. reconcile stale secondary index labels such as legacy `needs-review` entries with the terminal `blocked` classification without altering canonical page text;
+4. run the work-level Tamil release/closure decision under the repository's terminal-source-condition policy;
+5. synchronize README / handover / next-chat prompt with that closure outcome;
+6. do **not** begin English translation unless explicitly authorized.
