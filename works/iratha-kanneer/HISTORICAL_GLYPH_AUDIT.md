@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — இரத்தக் கண்ணீர்
 
-Status: **BATCH 01 PASS — SCANS 1–10 / 10 OF 188 H-GATES COMPLETE; 10 FINAL `verified`**
+Status: **BATCH 01 PASS — SCANS 1–10 / 10 OF 188 H-GATES COMPLETE; 10 FINAL `verified`; 1 RETROSPECTIVE HISTORICAL-GLYPH CORRECTION RECORDED**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -50,9 +50,9 @@ A family need not occur positively on every page. Absence of a positive witness 
 | Final `verified` | 10 / 188 |
 | `needs-review` after processing | 0 |
 | `blocked` | 0 |
-| Historical-glyph corrections recorded | 0 |
+| Historical-glyph corrections recorded | 1 |
 
-Batch authority: `BATCH_01_REVIEW.md` — **PASS / scans 1–10**.
+Batch authority: `BATCH_01_REVIEW.md` — **PASS / scans 1–10**, with scan 9 retrospectively reopened and cleanly re-passed after the `னா` correction below.
 
 ## Secure same-edition reference bank
 
@@ -106,7 +106,7 @@ _no secure positive witness yet_
 
 ### `னா`
 
-_no secure positive witness yet_
+- scan 9: `வயதுடையவனா`, `கிழவனா` — retrospectively decoded from the historical `னா` glyph after the earlier visual-look-alike reading `...வனு ...கிழவனு` was rejected by the user and rechecked against enlarged source pixels.
 
 ### `னை`
 
@@ -129,20 +129,19 @@ The following readings were deliberately source-controlled rather than normalize
 - scan 6: `பெற்றவர்களா யிருந்தார்கள்`, `படைகளை யெல்லாம்`;
 - scan 8: source bracket form `காட்சி 1]` / `[பழுதூர்`;
 - scan 8: `கல் வெறிந்து` after enlarged source-pixel inspection;
-- scan 9: `வயதுடையவனு அல்லது கிழவனு`;
+- scan 9: `வயதுடையவனா அல்லது கிழவனா` after historical `னா` decoding;
 - scan 8→9 and scan 10→11: physical continuations remain explicit.
 
-These are not historical-glyph corrections; they are source-fidelity decisions recorded separately from the correction log.
+Except for the scan-9 `னா` entry below, these are source-fidelity decisions rather than historical-glyph corrections.
 
 ## Correction log
 
-| Scan | Printed page | Apparent / earlier reading | Source-supported reading | Family | Evidence | Gate result |
+| Scan | Printed page | Apparent / earlier reading | Source-supported reading | Historical family | Evidence | Gate result |
 |---:|:---:|---|---|---|---|---|
-| — | — | — | — | — | — | — |
-
-No correction entry was required in scans 1–10 because the canonical text was produced from enlarged source pixels before finalization.
+| 9 | 8 | `வயதுடையவனு அல்லது கிழவனு` | `வயதுடையவனா அல்லது கிழவனா` | `னா` | user flagged old glyph; retrospective enlarged source-pixel review and same-edition historical-form policy | PASS after reopen / re-audit |
 
 ## Batch checkpoint
 
 - scans 1–10 — **PASS / COMPLETE**;
+- scan 9 retrospective H-GATE reopening — **PASS / CLOSED**;
 - next H-GATE batch: **scans 11–20**, after each page's initial visual verification.
