@@ -1,14 +1,16 @@
 # Next Chat Prompt — Kalaignar Stage Plays / ஒரே முத்தம்
 
-Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/ore-mutham/`.
+Repository: `pugazg/kalaignar-stage-plays`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable state. Do not reopen closed `திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, or closed `கலைஞரின் நான்மணி மாலை` work because an older prompt contains a stale checkpoint.
+Fetch live `main` first and preserve newer durable state. `ஒரே முத்தம்` Tamil source work is now **CLOSED FOR CURRENT SOURCE EVIDENCE**. Do not reopen it merely because an older copied prompt says there is more Tamil assembly work.
 
-## Mandatory startup
+Also do not reopen closed `திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, or closed `கலைஞரின் நான்மணி மாலை` work without explicit authorization/new evidence.
 
-Read before further work:
+## Mandatory startup before any future `ஒரே முத்தம்` phase
+
+Read:
 
 1. `STAGE_PLAY_PROCESSING_GUIDE.md`
 2. `HANDOVER.md`
@@ -18,124 +20,106 @@ Read before further work:
 6. `works/ore-mutham/indexes/page-map.md`
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`
 8. `works/ore-mutham/TERMINAL_SOURCE_CONDITION_HOLDS.md`
-9. `works/ore-mutham/SCENE_BOUNDARY_AUDIT.md`
-10. `works/ore-mutham/STRUCTURAL_INVENTORY.md`
+9. `works/ore-mutham/STRUCTURAL_INVENTORY.md`
+10. `works/ore-mutham/SCENE_BOUNDARY_AUDIT.md`
 11. `works/ore-mutham/SCENE_ASSEMBLY_PLAN.md`
 12. `works/ore-mutham/SCENE_ASSEMBLY_AUDIT.md`
-13. `works/ore-mutham/scenes/*.md` as needed
-14. canonical page records `works/ore-mutham/pages/0001.md`–`0131.md` as needed
-15. controlling PDF `TVA_BOK_0064325_ஒரே_முத்தம்.pdf` only when genuinely new source-dependent adjudication is required
+13. `works/ore-mutham/TAMIL_CLOSURE_REVIEW.md`
+14. relevant scene/page files only for a newly authorized phase
+15. controlling PDF only for genuinely new source-dependent adjudication
 
 ## Source identity
 
-- filename: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
-- file size: **224,884,964 bytes**
+- controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
+- size: **224,884,964 bytes**
 - physical scans: **131**
 - SHA-256: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**
-- source PDF committed to repository: **no**
+- PDF committed to repository: **no**
 
-## Major checkpoint — FULL TAMIL SCENE ASSEMBLY COMPLETE / AUDIT PASS
+## FINAL TAMIL CHECKPOINT
 
-All **131 / 131** physical scans remain source-processed and closure-audited.
+### Physical page layer
 
-- verified physical scans: **103 / 131**;
-- terminal current-source-condition / `blocked`: **28 / 131**;
-- ordinary `needs-review` in terminal set: **0**;
-- historical-glyph PASS: **103 / 131**;
-- main structural anchors: **30 / 30**;
-- supplementary structural anchors: **3 / 3**;
-- terminal hold inventory: **COMPLETE**;
-- scene-boundary audit: **COMPLETE**;
-- boundary-aware structural inventory: **COMPLETE**;
-- main Tamil scenes assembled: **30 / 30**;
-- supplementary Tamil scenes assembled: **3 / 3**;
-- complete Tamil scene layer: **33 / 33**;
-- full page-to-scene consistency audit: **PASS — 33 / 33**;
-- Tamil work-level pre-release / closure gate: **NEXT**;
-- English translation: **not authorized / not started**.
+- raw source pass: **131 / 131 COMPLETE**;
+- physical-range closure audit: **131 / 131 COMPLETE**;
+- verified: **103 / 131**;
+- terminal current-source-condition `blocked`: **28 / 131**;
+- ordinary `needs-review`: **0**;
+- historical-glyph PASS: **103 / 131**.
 
-The 28 `blocked` pages are not unreviewed. Their exact unresolved loci remain in `TERMINAL_SOURCE_CONDITION_HOLDS.md` and the canonical page records. Reopen only with genuinely stronger source evidence.
+Verified scans:
 
-## Scene-layer closure
+`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`.
 
-### Fully verified-input scenes — 13
+Terminal scans:
 
-Main: **1–5, 9–10, 15, 21–22, 27, 30**.
+`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
 
-Supplementary: **Scene 1**.
+All 28 terminal pages have already received direct inspection plus difficult-reading/residual escalation. Their exact unresolved loci are durable in `TERMINAL_SOURCE_CONDITION_HOLDS.md`. Reopen only with genuinely stronger source evidence.
 
-### Source-secure shared-boundary scenes — 2
+`indexes/page-map.md` has been synchronized: **103 verified / 28 blocked / 0 needs-review**.
 
-- main Scene **28** — uses only the secure pre-`காட்சி 29.` segment of globally blocked scan 112;
-- supplementary Scene **2** — uses only the secure pre-`காட்சி 3.` segment of globally blocked scan 128.
+### Structural / Tamil scene layer
 
-### Hold-bearing scenes — 18
+- main anchors: **30 / 30**;
+- supplementary `நகைச் சுவைப் பகுதி.` anchors: **3 / 3**;
+- main scene files: **30 / 30**;
+- supplementary scene files: **3 / 3**;
+- total Tamil scene files: **33 / 33**;
+- full page-to-scene consistency audit: **PASS — 33 / 33**.
 
-Main: **6–8, 11–14, 16–20, 23–26, 29**.
+Source-secure scenes: **15**.
 
-Supplementary: **Scene 3**.
+Hold-bearing scenes: **18** — main **6–8, 11–14, 16–20, 23–26, 29** and supplementary Scene **3**.
 
-Scene-relevant terminal dependencies:
+Scene-relevant terminal dependency map:
 
-- 6 `[21]`;
-- 7 `[27]`;
-- 8 `[27]`;
-- 11 `[43]`;
-- 12 `[47, 48, 51]`;
-- 13 `[52]`;
-- 14 `[52]`;
-- 16 `[60, 61]`;
-- 17 `[65]`;
-- 18 `[69]`;
-- 19 `[72, 73, 74]`;
-- 20 `[77, 79]`;
-- 23 `[88, 90]`;
-- 24 `[94, 95]`;
-- 25 `[98, 99]`;
-- 26 `[100]`;
-- 29 `[112, 113]`;
-- supplementary 3 `[128, 130]`.
+- 6 → `21`
+- 7 → `27`
+- 8 → `27`
+- 11 → `43`
+- 12 → `47, 48, 51`
+- 13 → `52`
+- 14 → `52`
+- 16 → `60, 61`
+- 17 → `65`
+- 18 → `69`
+- 19 → `72, 73, 74`
+- 20 → `77, 79`
+- 23 → `88, 90`
+- 24 → `94, 95`
+- 25 → `98, 99`
+- 26 → `100`
+- 29 → `112, 113`
+- supplementary 3 → `128, 130`.
 
-Hold-bearing files use `status: "assembly-held"`, `assembled_from_verified_pages: false`, and list the exact scene-relevant `source_condition_scans`. Explicit source-held markers and canonical provisional page-layer wording remain intact. Assembly fidelity PASS does **not** mean terminal source-condition wording has been resolved.
+Scan 1 is the only blocked page outside the scene layer. All other 27 blocked physical scans remain scene-traceable where relevant.
 
-`SCENE_ASSEMBLY_AUDIT.md` is the current scene-layer audit authority:
+### Assembly / fidelity invariants
 
-- **33 / 33** files assembled and page-record-consistent;
-- source wording normalized: **0**;
-- terminal loci repaired from context: **0**;
+- source wording normalized by assembly: **0**;
+- terminal held wording repaired from context: **0**;
 - unresolved wording invented: **0**;
-- OCR / plot-continuity / another-edition repair: **0**.
+- OCR / plot-continuity / another-edition completion: **0**.
 
-## Critical permanent rules
+Shared-page segmentation remains authoritative: a globally blocked transition scan affects only the scene segment containing the held locus. Do not make Scene 28 inherit the later Scene-29 scan-112 hold, supplementary Scene 2 inherit the later Scene-3 scan-128 hold, Scene 23 inherit the later Scene-24 scan-94 hold, or Scene 18 inherit the later Scene-19 scan-72 hold.
 
-- a transition scan may contribute to both adjacent scenes;
-- hold ownership is segment-level;
-- no source-held wording from context;
-- no OCR expectation;
-- no another-edition completion;
-- no spelling / grammar / punctuation / speaker-label / scene-heading normalization;
-- no global historical-glyph replacement;
-- a terminal `blocked` page may be reopened only with genuinely stronger source evidence.
+## Work-level Tamil closure
 
-Historical-glyph family gate:
+`works/ore-mutham/TAMIL_CLOSURE_REVIEW.md`: **PASS**.
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+Final Tamil state:
 
-## Durable source findings
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 28 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
 
-Keep prior page-level corrections authoritative, including scan 23 `ஏழைகள்!` / `ஆனா`; scan 36 `மன்னனைக்`; scan 39 `புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`; scan 41 `அநியாயமாவது அக்கிரமமாவது.`; scan 42 `பாஷைகளே`; scan 45 `மரண தண்டனை அதற்குத்தீர்ப்பு.`; scan 49 `மலரைக் காப்பாற்றினாய்`; scan 66 `ஹ ஹ ஹா!` / `சிங்கநாகன்`; scan 78 `வெளிநாட்டுக்`; scan 89 `(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`; scan 91 `ஓஹோ!` / `சற்றுப்`; scan 92 `(விபீஷணன் வாளை உருவிப் பொன்னியின் மேல் வீசுந்தோரணையில் நின்றுகொண்டு)` with `வீரப் பயமுறுத்தல் கூட`; scan 94 `வரி கொடுக்கமாட்டேன்னு` / `எழுத்துக்கள்`; scan 96 `சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`; scan 117 `சித்ராவும்`; scan 128 `என் கொலப் பெருமையே போச்சு!`.
+This does not mean 131/131 verified. It means every current-source phase/gate has been completed, all remaining ambiguity is explicitly traceable, and none has been fabricated away.
 
-## Exact next activity — TAMIL PRE-RELEASE / WORK-LEVEL CLOSURE GATE
+## Reopening rule
 
-Do **not** begin English translation.
+Reopen a Tamil terminal locus only with genuinely stronger evidence: materially better imaging of the same edition/copy or a transparently used corroborating witness. Do not reopen from OCR expectation, familiar spelling, grammar, plot continuity or another edition's wording.
 
-1. Verify the scene-file inventory is exactly main `01–30` plus supplementary `01–03`, with no duplicates, omissions or numbering leakage.
-2. Verify all **28** terminal physical-page holds remain traceable at page level and every scene-relevant hold remains traceable in its scene file.
-3. Reconcile stale secondary status/index labels — especially legacy `needs-review` entries in `works/ore-mutham/indexes/page-map.md` — to terminal `blocked`, without changing canonical page text or pretending the holds are resolved.
-4. Run/document the Tamil work-level release/closure decision under the repository's terminal-source-condition policy.
-5. Synchronize work/root READMEs, `HANDOVER.md`, this prompt and any closure/audit document created or updated.
-6. Fetch final live `main` SHA.
+## Exact next activity
 
-## Closed-work safeguard
+**No next `ஒரே முத்தம்` phase is currently authorized.**
 
-`திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` remain closed unless explicitly reopened with new source evidence or a separately authorized phase.
+English translation is **not authorized / not started**. If the user merely says “proceed” after this checkpoint, do not silently start English or reopen Tamil. Tell them the Tamil workflow is closed and wait for explicit authorization of the next phase.
