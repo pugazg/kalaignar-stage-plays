@@ -8,6 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
+| [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **ACTIVE — P0 SOURCE INTAKE PASS; raw PDF 188/188 physical scans confirmed; Tamil page transcription next; mandatory post-initial-verification historical-glyph gate before final `verified`** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
@@ -17,6 +18,49 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 | [சாக்ரடீஸ்](works/socrates/) | **Tamil 17/17; 5/5 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [சேரன் செங்குட்டுவன்](works/cheran-senguttuvan/) | **Tamil 10/10; 4/4 scenes; fidelity PASS; independent English PASS; 2009 witness comparison PASS** |
 | [மணிமகுடம்](works/manimagudam/) | **COMPLETE / CLOSED — Tamil 170/170; scenes 47/47; independent English 47/47; release READY/FINAL** |
+
+## Repository-wide historical Tamil glyph gate
+
+Historical-type sources now use two explicit repository authorities:
+
+- [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) — character-identity / source-first decoding guide;
+- [`HISTORICAL_TAMIL_GLYPH_GATE.md`](HISTORICAL_TAMIL_GLYPH_GATE.md) — mandatory post-initial-verification gate.
+
+For applicable older Tamil pages the required order is:
+
+**canonical transcription → initial visual verification → historical-glyph H-GATE → final verification.**
+
+Initial visual verification alone does not permit final `verified`. While H-GATE is pending, the page remains `needs-review`. The mandatory minimum gate family is:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+No global replacement and no spelling modernization are permitted.
+
+## இரத்தக் கண்ணீர் — active intake checkpoint
+
+Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
+
+- raw PDF physical scans: **188**;
+- file size: **319,220,349 bytes**;
+- SHA-256: **`120428985bd327456df46b9e06271896b106332711f4c9063d4f0c7fe72b6441`**;
+- source type: **image-only**;
+- source-visible edition: **முதல் பதிப்பு — 1953**;
+- publisher: **திராவிடப் பண்ணை**;
+- source PDF committed to repository: **no**.
+
+The conversation preview exposes only 150 page images; direct raw-PDF inspection establishes **188**, and the raw physical range controls processing.
+
+Current durable state:
+
+- P0 source intake: **PASS**;
+- canonical page records: **0 / 188**;
+- initial visual verification: **0 / 188**;
+- historical-glyph H-GATE: **0 / 188**;
+- final verified pages: **0 / 188**;
+- scene assembly: **not started / blocked on page layer**;
+- English translation: **not authorized / not started**.
+
+Exact next activity: process **scans 1–10** through transcription → initial verification → H-GATE → final verification where clean.
 
 ## ஒரே முத்தம் — Tamil closure checkpoint
 
