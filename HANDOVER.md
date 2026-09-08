@@ -12,7 +12,7 @@ Work path: `works/ore-mutham/`.
 
 Tamil source work is **CLOSED FOR CURRENT SOURCE EVIDENCE**. English translation is explicitly authorized and active.
 
-Current English checkpoint: **Batch 3 PASS / LOCKED — main Scenes 1–15 complete; 15 / 33 English scenes reviewed**.
+Current English checkpoint: **Batches 4–5 PASS / LOCKED — main Scenes 1–25 complete; 25 / 33 English scenes reviewed**.
 
 ## Mandatory startup before further `ஒரே முத்தம்` English work
 
@@ -28,7 +28,7 @@ Read:
 8. `works/ore-mutham/TRANSLATION_PLAN.md`;
 9. `works/ore-mutham/translations/en/README.md`;
 10. completed `works/ore-mutham/translations/en/BATCH_*.md` reviews;
-11. relevant closed Tamil `works/ore-mutham/scenes/*.md` for the active English batch;
+11. relevant closed Tamil scene files for the active English iteration;
 12. existing English scene files when checking naming/terminology consistency.
 
 Read page records / controlling PDF only if a genuinely new Tamil source-dependent question is explicitly reopened with stronger evidence. English translation itself must use the closed Tamil scene layer as immediate authority.
@@ -68,14 +68,15 @@ Do not change or silently resolve this state through translation.
 
 Immediate authority: closed Tamil scene artifacts under `works/ore-mutham/scenes/`.
 
-Do not draft English from OCR, plot memory / context completion, a web transcription, another edition, a published/secondary English translation, or the controlling PDF as a substitute for the closed scene file.
+Do not draft English from OCR, plot memory/context completion, web text, another edition, a published/secondary English translation, or the controlling PDF as a substitute for the closed scene file.
 
 The English layer mirrors the Tamil namespace:
 
 - main: `translations/en/main-01.md` through `main-30.md`;
-- supplementary: `translations/en/nagai-suvai-01.md` through `nagai-suvai-03.md`.
+- supplementary: `translations/en/nagai-suvai-01.md` through `nagai-suvai-03.md`;
+- expected: **33 English scene artifacts**.
 
-Expected: **33 English scene artifacts**. Supplementary scenes remain **1–3**, never main 31–33.
+Supplementary scenes remain **1–3**, never main 31–33.
 
 ### Terminal-source-hold translation rule
 
@@ -91,77 +92,78 @@ Permanent English rule:
 - never guess exact wording at `[source-held: ...]` / equivalent loci;
 - carry the uncertainty into the English dramatic body as an explicit `Source-held` bracket;
 - list the same scene-relevant held scans in English metadata / notes;
-- use `translation-reviewed-with-source-holds` / `passed-with-source-holds` when the secure translation passes fidelity review;
+- use `translation-reviewed-with-source-holds` / `passed-with-source-holds` when secure content passes review;
 - an English PASS with source holds never means the Tamil hold is resolved.
 
 Source-secure shared-boundary main Scene 28 and supplementary Scene 2 do not inherit later-scene holds.
 
-## Stable terminology after Batch 3
+## Stable terminology through Batch 5
 
-Current locked baseline includes:
+Use the locked English forms recorded in `TRANSLATION_PLAN.md` / English README. Important additions through Scenes 16–25 include:
 
-- Puthan, Mahaveerar, Yaaliththathar, Kumari, Ramela, Vibhishanan, Imaya;
-- Ponni, Malayan, Chithra, Madhavan, Singanagan, Ellappan;
-- Inbapuri, Mullaikadu, Poonthottam, Pavalamalai;
-- `Lightning` for Kumari's undercover alias `மின்னல்`;
-- recurring `மது, மங்கை` → `wine and women`;
-- *thali*, *kalakshepam*, *tandava* where the source-specific term itself matters;
-- `chandala` where the historically specific source insult itself matters;
-- *machan* when the exact kinship sense should remain non-narrowed;
-- `paraak` for the court/herald announcement form;
-- `Maharani` where the source title itself is used;
-- reviewed mythic forms include Ahalya, Nalayini, Savitri, Kumbakarna, Duryodhana and Draupadi.
+- `Aththaan` for marked `அத்தான்`;
+- `naazhigai` for `நாழிகை`;
+- `Paraiyar` where the source explicitly names the caste community;
+- `Jai! Jai!` for `ஜே! ஜே!`;
+- Shakuntala / Dushyanta / Harishchandra as reviewed mythic-name forms;
+- `Alakala poison` for the source poison/nectar contrast.
 
-Refine only through explicit batch review and keep earlier reviewed files consistent.
+Earlier locked forms remain unchanged: Puthan, Mahaveerar, Yaaliththathar, Kumari, Ramela, Vibhishanan, Imaya, Ponni, Malayan, Chithra, Madhavan, Singanagan, Ellappan, Inbapuri, Mullaikadu, Poonthottam, Pavalamalai, `Lightning`, `wine and women`, *thali*, *kalakshepam*, *tandava*, `chandala`, *machan*, `paraak`, `Maharani`.
 
-## English Batches 1–3 — PASS / LOCKED
+## English Batches 1–5 — PASS / LOCKED
 
-Completed files:
+Completed English scene files:
 
-- `translations/en/main-01.md` through `translations/en/main-15.md`.
+- `translations/en/main-01.md` through `translations/en/main-25.md`.
 
 Reviews:
 
-- `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
-- `translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- `translations/en/BATCH_03_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
+- `BATCH_01_REVIEW.md` — **PASS / LOCKED**;
+- `BATCH_02_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- `BATCH_03_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- `BATCH_04_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- `BATCH_05_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
 
 Progress:
 
 - expected English scenes: **33**;
-- present: **15 / 33**;
-- reviewed: **15 / 33**;
-- completed batches: **3 / 7**;
-- source-hold-bearing English scenes completed: **7 / 18** — main **6–8, 11–14**;
+- present: **25 / 33**;
+- reviewed: **25 / 33**;
+- completed batches: **5 / 7**;
+- source-hold-bearing English scenes completed: **15 / 18**;
 - Tamil source holds resolved by English translation: **0**;
 - unresolved blocking English issues: **0**;
 - secondary-English contamination: **0**.
 
-## Batch schedule
+## User-directed iteration policy
 
-1. main 1–5 — **PASS / LOCKED**;
-2. main 6–10 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-3. main 11–15 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-4. main 16–20 — **NEXT**;
-5. main 21–25;
-6. main 26–30;
-7. supplementary 1–3.
+User directive: **process 10 scenes in each iteration**.
 
-## Exact next activity — English Batch 4
+The durable five-scene review-batch structure remains. Therefore, where ten scenes are available, one iteration executes two consecutive review batches.
+
+The just-completed iteration processed **10 scenes**:
+
+- Batch 4 — main **16–20**;
+- Batch 5 — main **21–25**.
+
+Only **8 scenes remain**, so the next iteration is a final remainder iteration and must process all eight in one go rather than inventing nonexistent scenes.
+
+## Exact next activity — final 8-scene English remainder
 
 Do **not** reopen Tamil source work.
 
-1. Read closed Tamil Scenes **16–20** completely.
-2. Translate main Scene **16** — terminal dependencies `[60, 61]`.
-3. Translate main Scene **17** — `[65]`.
-4. Translate main Scene **18** — `[69]`.
-5. Translate main Scene **19** — `[72, 73, 74]`.
-6. Translate main Scene **20** — `[77, 79]`.
-7. Preserve every terminal source-hold marker transparently; do not repair from plot context, OCR, grammar, mythic familiarity or another edition.
-8. Preserve established naming/terminology unless Batch-4 review explicitly documents a justified global refinement.
-9. Create `translations/en/BATCH_04_REVIEW.md` and run complete Tamil-turn / stage-direction / source-hold / naming consistency review.
-10. If PASS, lock Batch 4 and synchronize `TRANSLATION_PLAN.md`, English README, work/root READMEs, this handover and `NEXT_CHAT_PROMPT.md`.
-11. Fetch final live `main` SHA.
+1. Read closed Tamil main Scenes **26–30** and supplementary `நகைச் சுவைப் பகுதி.` Scenes **1–3** completely.
+2. Translate main Scene **26** — terminal dependency `[100]`.
+3. Translate source-secure main Scenes **27–28**.
+4. Translate main Scene **29** — terminal dependencies `[112, 113]`.
+5. Translate source-secure main Scene **30**.
+6. Translate source-secure supplementary Scenes **1–2**.
+7. Translate supplementary Scene **3** — terminal dependencies `[128, 130]`.
+8. Preserve all source holds transparently; do not repair them from plot context, OCR, grammar or another edition.
+9. Run `translations/en/BATCH_06_REVIEW.md` for main 26–30.
+10. Run `translations/en/BATCH_07_REVIEW.md` for supplementary 1–3.
+11. If both pass, run final `translations/en/TRANSLATION_REVIEW.md` over all **33 / 33** English artifacts.
+12. Synchronize `TRANSLATION_PLAN.md`, English README, work/root READMEs, this handover and `NEXT_CHAT_PROMPT.md`, then fetch final live `main` SHA.
 
 # CLOSED WORK SAFEGUARDS
 
