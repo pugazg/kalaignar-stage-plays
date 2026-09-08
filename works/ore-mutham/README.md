@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; COMPLETE PHYSICAL-RANGE CLOSURE PASS 131 / 131; RESIDUAL-HOLD BATCHES 1–4 COMPLETE; 101 VERIFIED; 30 NEEDS-REVIEW; HISTORICAL-GLYPH PASSES 101 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
+**ACTIVE — RAW SOURCE PASS COMPLETE: 131 / 131 SCANS SOURCE-PROCESSED; COMPLETE PHYSICAL-RANGE CLOSURE PASS 131 / 131; RESIDUAL-HOLD BATCHES 1–5 COMPLETE; 103 VERIFIED; 28 NEEDS-REVIEW / SOURCE-CONDITION HOLDS; HISTORICAL-GLYPH PASSES 103 / 131; CHECKSUM RECORDED; FORMAL STRUCTURAL INVENTORY / ASSEMBLY NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -34,13 +34,13 @@ Do not renumber the supplementary scenes as main-play scenes 31–33.
 
 Verified scans:
 
-`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`.
+`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`.
 
-Still `needs-review`:
+Still `needs-review` / explicit source-condition holds:
 
-`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`.
+`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
 
-The detailed source-held reasons remain in `pages/*.md`, `indexes/page-map.md`, and `HISTORICAL_GLYPH_AUDIT.md`.
+All 28 remaining open scans have now received at least one residual re-audit against the controlling source. Their exact unresolved loci remain in `pages/*.md`, `indexes/page-map.md`, and `HISTORICAL_GLYPH_AUDIT.md`.
 
 ## Important durable source corrections
 
@@ -67,18 +67,19 @@ Earlier corrections remain authoritative and must not be reverted:
 - scan 67: **`வேம்பொடு`**;
 - scan 68: **`வாழ்க இந்நாட்டு வளம்!`**;
 - scan 70: **`ஆலகாலமா?`**;
-- scan 78: residual batch 4 resolves **`வெளிநாட்டுக்`** in `வெளிநாட்டுக் கவிஞரின் உவமானம்.`;
+- scan 78: **`வெளிநாட்டுக்`** in `வெளிநாட்டுக் கவிஞரின் உவமானம்.`;
 - scan 82: **`பாவம் வறுமையின் கஷ்டம்,`** / **`உன் வாழ்க்கையைக் கெடுத்துக் கொண்டாய்.`**;
-- scan 89: residual batch 4 resolves **`(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`**;
+- scan 89: **`(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`**;
 - scan 91: **`ஓஹோ!` / `சற்றுப்`**;
-- scan 92: raw `கூன` → **`கூட`** while a separate hold remains;
+- scan 92: raw `கூன` → **`கூட`** and residual batch 5 closes **`(விபீஷணன் வாளை உருவிப் பொன்னியின் மேல் வீசுந்தோரணையில் நின்றுகொண்டு)`**;
 - scan 94: **`வரி கொடுக்கமாட்டேன்னு`** / **`எழுத்துக்கள்`**;
-- scan 96: **`சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`**.
+- scan 96: **`சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`**;
+- scan 117: residual batch 5 resolves the scene-30 opening cluster as **`சித்ராவும்`**.
 
 ## Later closure checkpoints
 
 - **101–110:** all ten scans PASS / verified. Durable forms include `மோகஸ்திரத்தில் மயங்கிய இவர்`, `தங்கள் முடியைக் கவிழ்க்க`, `கற்பனை`, `சுட்டுச் சாம்பலாக்க`, `அந்தச் சாம்பலைக்கூடக்`, `(மிடுக்காகச் செல்கிறான், சபை கலைகிறது)`, `இளவரசே`, `அவர்களை பலாத்காரமாக விடுவிப்பார்கள்`, `நான் நீதி தவறாதவன்.`, and `இளவரசன் ஸ்தானத்தை உமக்கு அளிக்கப் போகிறேன்.`
-- **111–120:** scans 111, 114–116, 118–120 PASS; 112, 113, 117 retain narrow holds. Secure evidence includes `பறைச்சியல்லவா?`, `கொய்யாக்கனி!`, `கலப்புமணம்`, `மக்களாட்சியாக மாற்றுவேன்`, `மன்னராட்சியை ஒழிப்பேன்`, the complete main-play ending and the start of the separate `நகைச் சுவைப் பகுதி.`
+- **111–120:** scans 111 and 114–120 PASS; only 112–113 retain narrow source-condition holds. Secure evidence includes `பறைச்சியல்லவா?`, `கொய்யாக்கனி!`, `கலப்புமணம்`, `மக்களாட்சியாக மாற்றுவேன்`, `மன்னராட்சியை ஒழிப்பேன்`, scan 117 `சித்ராவும்`, the complete main-play ending and the start of the separate `நகைச் சுவைப் பகுதி.`
 - **121–131:** scans 121–127, 129, 131 PASS; scan 128 retains one scene-3 opening-parenthetical hold; scan 130 retains dense ending holds. `என் கொலப் பெருமையே போச்சு!` and scan-131 catalogue form `மின்னொளி` remain source-secure.
 
 ## Residual-hold re-audit — batch 1
@@ -110,6 +111,14 @@ Reviewed scans **69, 72–74, 77–79, 88–90**. Two pages newly close PASS / v
 - scan 89: held ambush stage direction resolves as **`(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`**;
 - scans **69, 72–74, 77, 79, 88, 90** remain open on their recorded dense lexical, parenthetical, historical-type, stage-action or insult holds.
 
+## Residual-hold re-audit — batch 5
+
+Reviewed scans **92, 94–95, 98–100, 112–113, 117, 128, 130**. Two pages newly close PASS / verified: **92, 117**.
+
+- scan 92: held sword-action parenthetical closes as **`(விபீஷணன் வாளை உருவிப் பொன்னியின் மேல் வீசுந்தோரணையில் நின்றுகொண்டு)`**;
+- scan 117: held scene-30 opening cluster closes as **`சித்ராவும்`**;
+- scans **94–95, 98–100, 112–113, 128, 130** remain open on their recorded exact source-condition holds.
+
 No global replacement, spelling modernization, OCR expectation, plot-based repair, or another-edition completion was used in any residual batch.
 
 ## Historical-glyph policy
@@ -133,9 +142,9 @@ The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- visually verified: **101 / 131**;
-- `needs-review`: **30 / 131**;
-- historical-glyph passes: **101 / 131**;
+- visually verified: **103 / 131**;
+- `needs-review` / source-condition holds: **28 / 131**;
+- historical-glyph passes: **103 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - formal structural inventory: **not started**;
@@ -144,4 +153,4 @@ The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md
 
 ## Exact next activity
 
-Run **residual-hold re-audit batch 5** over scans **92, 94–95, 98–100, 112–113, 117, 128, 130**. Revisit only explicit holds using stronger source evidence and run the complete 13-family historical-glyph gate on each candidate page. Earlier unresolved residual scans **1, 21, 27, 43, 47, 48, 51, 52, 60, 61, 65, 69, 72–74, 77, 79, 88, 90** remain deferred pending genuinely stronger character evidence. Do not begin scene assembly or English translation.
+The residual-hold re-audit phase has now covered every current open page at least once. Perform a **terminal residual-hold/source-condition classification and formal structural inventory**: preserve the 28 remaining exact unresolved loci, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source wording. Do not begin English translation.
