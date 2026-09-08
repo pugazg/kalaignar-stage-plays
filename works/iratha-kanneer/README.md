@@ -4,7 +4,7 @@ Archive slug: `iratha-kanneer`.
 
 ## Current status
 
-**P0 SOURCE INTAKE PASS / WORKFLOW INITIALIZED — 188 / 188 PHYSICAL SCANS CONFIRMED; TAMIL TRANSCRIPTION NOT STARTED; POST-INITIAL-VERIFICATION HISTORICAL-GLYPH GATE MANDATORY.**
+**ACTIVE — P0 SOURCE INTAKE PASS; SCANS 1–10 / 10 OF 188 CANONICAL + INITIAL-VERIFIED + H-GATE PASS + FINAL `verified`; NEXT SCANS 11–20.**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -19,88 +19,89 @@ Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்
 - source-visible edition: **முதல் பதிப்பு — 1953**;
 - source-visible price: **ரூ. 2-0-0**.
 
-The conversation file preview currently exposes only the first 150 page images. That preview is not authoritative for physical range. The attached raw PDF was opened directly and contains **188** pages; processing must continue through scan 188.
+The conversation file preview exposes only 150 page images. Direct raw-PDF inspection establishes **188 physical scans**; the raw physical range is authoritative and processing must continue through scan 188.
 
 ## Source-visible intake structure
 
-Direct intake inspection establishes:
-
 - scan 1 — illustrated front cover;
-- scan 2 — title / author / publisher title page;
-- scan 3 — edition / rights / price / printer-imprint page; visibly states `முதல் பதிப்பு—1953`;
-- scan 4 — `பதிப்புரை`, carrying an internal date `14-4-1948` relating the earlier `முரசொலி` serial history; this internal date is not substituted for the edition year;
-- scan 5 — `முன்னுரை`, signed `மு. கருணாநிதி`, dated `திருச்சி மத்திய சிறை / 20-11-53`;
+- scan 2 — title / author / publisher page;
+- scan 3 — `முதல் பதிப்பு—1953`, rights, price and printer-imprint page;
+- scan 4 — `பதிப்புரை`, with internal date `14-4-1948` for the earlier `முரசொலி` serial history;
+- scan 5 — `முன்னுரை`, signed `மு. கருணாநிதி`, `திருச்சி மத்திய சிறை`, `20-11-53`;
 - scans 6–7 — `நுழைவாய்`;
-- scan 8 — source heading `இரத்தக் கண்ணீர் [நாடகம்]` and `காட்சி 1]`;
-- late-work spot checks show `காட்சி 59]` at scan 180, `காட்சி 60]` at scan 183, `காட்சி 61]` at scan 184;
-- scan 186 — source-visible `முடிவு` and closing prose;
-- scan 187 — publisher catalogue advertisement headed `கலைஞர் கருணாநிதியின் கருத்தோவியங்கள்.`;
-- scan 188 — back wrapper / `திராவிடப் பண்ணை` device and English wrapper-printer line.
+- scan 8 — `இரத்தக் கண்ணீர் [நாடகம்]`, `காட்சி 1]`, `[பழுதூர்`;
+- late intake spot checks: scan 180 `காட்சி 59]`, scan 183 `காட்சி 60]`, scan 184 `காட்சி 61]`;
+- scan 186 — `முடிவு` / closing prose;
+- scan 187 — publisher catalogue advertisement;
+- scan 188 — back wrapper / publisher device.
 
-A complete scene-boundary inventory is **not yet closed**. The late scene-number spot checks are intake evidence only; page-level processing comes first.
+A final scene inventory is **not** inferred from intake spot checks. Page-level archival processing remains the active phase.
 
 ## Mandatory historical Tamil glyph workflow
 
-This 1953 source visibly uses historical Tamil metal-type forms. The following repository authorities are mandatory:
+Repository authorities:
 
 1. `../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
 2. `../../HISTORICAL_TAMIL_GLYPH_GATE.md`;
-3. this work's `HISTORICAL_GLYPH_AUDIT.md`.
+3. `HISTORICAL_GLYPH_AUDIT.md`.
 
-For this work, **initial verification is not final verification**.
+The required page pipeline is:
 
-Required page sequence:
+**canonical transcription → initial visual verification → historical-glyph H-GATE → final verification.**
 
-1. canonical transcription from source pixels;
-2. initial visual verification of text / punctuation / speaker labels / stage directions / layout;
-3. keep page `needs-review` while the historical-glyph gate is pending;
-4. run H-GATE against the complete mandatory family set;
-5. only after H-GATE PASS, and if no other source issue remains, promote the page to `verified`.
+Initial visual verification is not final `verified`. The minimum family set checked on every applicable page is:
 
-Mandatory minimum family set:
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+Source pixels control. No OCR authority, no global replacement, no lexical modernization, and no contextual guessing at uncertain historical type.
 
-No global replacement. No modernization. Same-edition source pixels control character identity.
+## Batch 01 — scans 1–10
 
-## Page-status convention for this work
+Review authority: `BATCH_01_REVIEW.md` — **PASS**.
 
-After ordinary visual verification but before H-GATE:
+Durable results:
 
-```yaml
-status: "needs-review"
-initial_verification: "passed"
-historical_glyph_gate: "pending"
-```
+- page records created: `pages/0001.md` through `pages/0010.md`;
+- canonical transcription / archival description: **10 / 10**;
+- initial visual verification: **10 / 10 PASS**;
+- H-GATE: **10 / 10 PASS**;
+- final `verified`: **10 / 10**;
+- `needs-review`: **0**;
+- `blocked`: **0**;
+- historical-glyph corrections logged: **0**.
 
-Final page closure:
+Source-sensitive readings explicitly preserved include:
 
-```yaml
-status: "verified"
-initial_verification: "passed"
-historical_glyph_gate: "passed"
-```
+- scan 5 `கற்பனை ஒன்றின்`;
+- scan 6 `பெற்றவர்களா யிருந்தார்கள்`, `படைகளை யெல்லாம்`;
+- scan 8 source typography `காட்சி 1]` / `[பழுதூர்`;
+- scan 8 `கல் வெறிந்து` after enlarged source review;
+- scan 9 `வயதுடையவனு அல்லது கிழவனு`;
+- scan 8→9 and scan 10→11 physical continuations.
 
-An unresolved historical-type cluster leaves the page `needs-review`; a physically unreadable locus may become `blocked` only after normal difficult-reading escalation.
+Secure same-edition historical-family witnesses have begun to be recorded for `ணா`, `ணை`, `லை`, `ளை`, and `னை` in `HISTORICAL_GLYPH_AUDIT.md`.
 
-## Phase order
+## Current progress
 
 - P0 source intake — **PASS**;
-- P1 page transcription — **NOT STARTED**;
-- P2 initial visual verification — **NOT STARTED**;
-- H-GATE historical Tamil glyph audit — **NOT STARTED**;
-- final page verification — **NOT STARTED**;
-- structural / scene assembly — blocked until page layer is sufficiently mature;
-- English translation — not authorized / not started.
+- canonical page records — **10 / 188**;
+- initial visual verification — **10 / 188**;
+- historical-glyph H-GATE — **10 / 188**;
+- final verified pages — **10 / 188**;
+- unresolved page-level source issues — **0**;
+- structural / scene assembly — **not started / blocked on page layer**;
+- English translation — **not authorized / not started**.
 
 ## Exact next activity
 
-Process the first source batch **scans 1–10** page by page:
+Process **scans 11–20** in the same order:
 
-1. create canonical page records;
-2. perform initial visual verification;
-3. run the post-verification historical-glyph gate on each applicable Tamil page;
-4. promote only H-GATE-passed clean pages to final `verified`;
-5. update `indexes/page-map.md` and `HISTORICAL_GLYPH_AUDIT.md`.
+1. create `pages/0011.md` through `pages/0020.md`;
+2. transcribe each scan directly from source pixels;
+3. perform initial visual verification;
+4. run the separate post-verification H-GATE on every applicable page;
+5. promote only clean H-GATE-passed pages to final `verified`;
+6. record any historical-glyph correction or unresolved locus explicitly;
+7. update `indexes/page-map.md`, `HISTORICAL_GLYPH_AUDIT.md`, batch review and handover documents.
 
-Do not skip scans 1–7 merely because they are front matter, and do not use OCR as historical-glyph authority.
+Do not begin scene assembly or English translation merely because a page batch completes.
