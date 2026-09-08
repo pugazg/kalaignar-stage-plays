@@ -1,6 +1,6 @@
 # Page map — இரத்தக் கண்ணீர்
 
-Status: **SCANS 1–30 FINAL VERIFIED / H-GATE PASS — 30 / 188 PHYSICAL SCANS COMPLETE**
+Status: **SCANS 1–40 FINAL VERIFIED / H-GATE PASS — 40 / 188 PHYSICAL SCANS COMPLETE**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -11,24 +11,20 @@ Every expanded row distinguishes canonical transcription, initial visual verific
 | Scan(s) | Printed page | Section / classification | Page type | Canonical | Initial verification | H-GATE | Final status | Notes |
 |---:|:---:|---|---|---|---|---|---|---|
 | 1–7 | varies | front matter | cover / title / imprint / `பதிப்புரை` / `முன்னுரை` / `நுழைவாய்` | complete | PASS | PASS | `verified` | Batch 01 front matter |
-| 8 | — | Scene 1 | scene opener | complete | PASS | PASS | `verified` | `காட்சி 1]` / `[பழுதூர்` |
-| 9 | 8 | Scene 1 | drama page | complete | PASS | PASS after retrospective reopen | `verified` | `வயதுடையவனா அல்லது கிழவனா` (`னா`) |
-| 10–12 | 9–11 | Scene 1 | drama pages | complete | PASS | PASS | `verified` | scan 11 `அஞ்சல் மனையில்`; scan 12 `அஞ்சல் மனை` |
-| 13 | 12 | Scene 1 | scene close | complete | PASS | PASS | `verified` | centred star |
-| 14 | 13 | Scene 2 | scene opener | complete | PASS | PASS | `verified` | `காட்சி—2]` / `[பழுதூர் மடாலயம்` |
-| 15–17 | 14–16 | Scene 2 | drama pages | complete | PASS | PASS | `verified` | scan 17 `மருத்துவக் கிழவனார்` (`னா`) |
-| 18 | 17 | Scene 2 | scene close | complete | PASS | PASS | `verified` | `ஏன் வந்தேனா?`; centred star |
-| 19 | 18 | Scene 3 | scene opener | complete | PASS | PASS | `verified` | `காட்சி 3]` / `[பழுதூரின் தெரு` |
-| 20 | 19 | Scene 3 | drama page | complete | PASS | PASS | `verified` | source colloquial dialogue retained |
-| 21 | 20 | Scene 3 | scene close | complete | PASS | PASS | `verified` | `சரிதானா?` (`னா`); centred star |
-| 22 | 21 | Scene 4 | scene opener | complete | PASS | PASS | `verified` | Scene 4 begins |
-| 23–24 | 22–23 | Scene 4 | drama pages | complete | PASS | PASS | `verified` | source-sensitive forms retained |
-| 25 | 24 | Scene 4 | scene close | complete | PASS | PASS | `verified` | centred star |
-| 26 | 25 | Scene 5 | scene opener | complete | PASS | PASS | `verified` | `காட்சி 5` |
-| 27–28 | 26–27 | Scene 5 | drama pages | complete | PASS | PASS | `verified` | source colloquial/spacing forms retained |
-| 29 | 28 | Scene 5 | scene close | complete | PASS | PASS | `verified` | `பெண்ணை` (`ணை`); centred star |
-| 30 | 29 | Scene 6 | scene opener + close | complete | PASS | PASS | `verified` | one-page Scene 6; centred star |
-| 31–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
+| 8–13 | — / 8–12 | Scene 1 | opener / drama / close | complete | PASS | PASS | `verified` | scan 9 retrospective `னா`; centred star scan 13 |
+| 14–18 | 13–17 | Scene 2 | opener / drama / close | complete | PASS | PASS | `verified` | historical corrections scans 16–18; centred star scan 18 |
+| 19–21 | 18–20 | Scene 3 | opener / drama / close | complete | PASS | PASS | `verified` | scan 21 `சரிதானா?`; centred star |
+| 22–25 | 21–24 | Scene 4 | opener / drama / close | complete | PASS | PASS | `verified` | centred star scan 25 |
+| 26–29 | 25–28 | Scene 5 | opener / drama / close | complete | PASS | PASS | `verified` | scan 29 `பெண்ணை`; centred star |
+| 30 | 29 | Scene 6 | opener + close | complete | PASS | PASS | `verified` | one-page scene; centred star |
+| 31 | 30 | Scene 7 | scene opener | complete | PASS | PASS | `verified` | `யானை போல்` historical `னை` correction |
+| 32 | 31 | Scene 7 | drama page | complete | PASS | PASS | `verified` | source-sensitive dialogue retained |
+| 33 | 32 | Scene 7 | scene close | complete | PASS | PASS | `verified` | centred star |
+| 34 | 33 | Scene 8 | scene opener | complete | PASS | PASS | `verified` | `காட்சி 8` |
+| 35–38 | 34–37 | Scene 8 | drama pages | complete | PASS | PASS | `verified` | source-sensitive wording retained |
+| 39 | 38 | Scene 8 | scene close | complete | PASS | PASS | `verified` | centred star |
+| 40 | 39 | Scene 9 | scene opener | complete | PASS | PASS | `verified` | `காட்சி 9]` / `[தென்றல் மாளிகை`; `நானா?` historical `னா`; final `சேர்க்` continues to scan 41 |
+| 41–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
 | 180 | 179 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 59]` |
 | 181–182 | visible | main dramatic text | drama pages | not-started | pending | pending | `not-started` | continuation; exact boundaries pending |
 | 183 | 182 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 60]` |
@@ -48,18 +44,19 @@ Batch reviews:
 
 - `../BATCH_01_REVIEW.md` — **PASS / scans 1–10**;
 - `../BATCH_02_REVIEW.md` — **PASS / scans 11–20**;
-- `../BATCH_03_REVIEW.md` — **PASS / scans 21–30**.
+- `../BATCH_03_REVIEW.md` — **PASS / scans 21–30**;
+- `../BATCH_04_REVIEW.md` — **PASS / scans 31–40**.
 
 ## Current totals
 
-- canonical page records: **30 / 188**;
-- initial visual verification PASS: **30 / 188**;
-- H-GATE PASS: **30 / 188**;
-- final `verified`: **30 / 188**;
-- historical-glyph corrections recorded: **8** total;
+- canonical page records: **40 / 188**;
+- initial visual verification PASS: **40 / 188**;
+- H-GATE PASS: **40 / 188**;
+- final `verified`: **40 / 188**;
+- historical-glyph corrections recorded: **10** total;
 - `needs-review`: **0**;
 - `blocked`: **0**.
 
 ## Next expansion batch
 
-Expand and process **scans 31–40** individually.
+Expand and process **scans 41–50** individually.
