@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — 131 / 131 SOURCE-PROCESSED; 103 VERIFIED + 28 TERMINAL `blocked`; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY SCENES ASSEMBLED; FULL SCENE AUDIT PASS 33 / 33; ENGLISH TRANSLATION ACTIVE — BATCH 1 PASS / LOCKED; 5 / 33 ENGLISH SCENES REVIEWED.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — 131 / 131 SOURCE-PROCESSED; 103 VERIFIED + 28 TERMINAL `blocked`; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY SCENES ASSEMBLED; FULL SCENE AUDIT PASS 33 / 33; ENGLISH TRANSLATION ACTIVE — BATCH 2 PASS / LOCKED; 10 / 33 ENGLISH SCENES REVIEWED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -43,7 +43,8 @@ Supplementary scenes remain source-numbered **1–3**, never main scenes 31–33
 - [`TAMIL_CLOSURE_REVIEW.md`](TAMIL_CLOSURE_REVIEW.md) — final work-level Tamil closure gate;
 - [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md) — active English translation rules / batching;
 - [`translations/en/README.md`](translations/en/README.md) — English artifact checkpoint;
-- [`translations/en/BATCH_01_REVIEW.md`](translations/en/BATCH_01_REVIEW.md) — Batch 1 **PASS / LOCKED**.
+- [`translations/en/BATCH_01_REVIEW.md`](translations/en/BATCH_01_REVIEW.md) — Batch 1 **PASS / LOCKED**;
+- [`translations/en/BATCH_02_REVIEW.md`](translations/en/BATCH_02_REVIEW.md) — Batch 2 **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
 
 ## Final physical-page state
 
@@ -182,22 +183,26 @@ English translation was explicitly authorized after Tamil closure.
 
 Immediate authority: the closed 33-scene Tamil layer. Tamil source artifacts remain unchanged.
 
-Batch 1 — main Scenes **1–5**:
+Completed English batches:
 
-- `translations/en/main-01.md`;
-- `translations/en/main-02.md`;
-- `translations/en/main-03.md`;
-- `translations/en/main-04.md`;
-- `translations/en/main-05.md`;
+### Batch 1 — main Scenes 1–5
+
+- `translations/en/main-01.md` through `translations/en/main-05.md`;
 - `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**.
+
+### Batch 2 — main Scenes 6–10
+
+- `translations/en/main-06.md` through `translations/en/main-10.md`;
+- `translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
 
 English progress:
 
 - expected scene artifacts: **33**;
-- present: **5 / 33**;
-- reviewed: **5 / 33**;
-- completed batches: **1 / 7**;
-- source-hold-bearing English scenes completed: **0**;
+- present: **10 / 33**;
+- reviewed: **10 / 33**;
+- completed batches: **2 / 7**;
+- source-hold-bearing English scenes completed: **3 / 18** — main **6–8**;
+- Tamil terminal holds resolved by translation: **0**;
 - unresolved blocking English issues: **0**;
 - secondary-English witness used: **no**.
 
@@ -205,10 +210,13 @@ Permanent translation safeguard: terminal Tamil source holds remain unresolved i
 
 ## Exact next activity
 
-Proceed with **English Batch 2 — main Scenes 6–10** under `TRANSLATION_PLAN.md`.
+Proceed with **English Batch 3 — main Scenes 11–15** under `TRANSLATION_PLAN.md`.
 
-- Scenes **6–8** are hold-bearing and must use `translation-reviewed-with-source-holds` / `passed-with-source-holds` when their secure wording passes review, preserving all terminal hold markers transparently;
-- Scenes **9–10** are source-secure;
-- after the five scenes, run `translations/en/BATCH_02_REVIEW.md` and synchronize project checkpoint documents.
+- Scene **11** → held scan `[43]`;
+- Scene **12** → `[47, 48, 51]`;
+- Scene **13** → `[52]`;
+- Scene **14** → `[52]`;
+- Scene **15** is source-secure;
+- after the five scenes, run `translations/en/BATCH_03_REVIEW.md` and synchronize project checkpoint documents.
 
 Do not reopen the closed Tamil source layer.
