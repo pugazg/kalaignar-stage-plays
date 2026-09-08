@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **TAMIL COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary scenes assembled; full scene audit PASS 33/33; Tamil closure review PASS; English ACTIVE — Batches 4–5 PASS/LOCKED, 25/33 scenes reviewed** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -57,40 +57,46 @@ Work-level Tamil state:
 
 The closure does not pretend all 131 scans are verified. It means the current-source workflow has been exhausted defensibly and all remaining ambiguity is explicit and traceable.
 
-## ஒரே முத்தம் — English translation checkpoint
+## ஒரே முத்தம் — English translation closure
 
-English translation was explicitly authorized after Tamil closure. Immediate drafting authority is the closed 33-scene Tamil layer; Tamil source artifacts remain unchanged.
+English translation was explicitly authorized after Tamil closure. Immediate drafting authority was the closed 33-scene Tamil layer; Tamil source artifacts remain unchanged.
 
-Translation authorities:
+Final English authorities:
 
 - `works/ore-mutham/TRANSLATION_PLAN.md`;
 - `works/ore-mutham/translations/en/README.md`;
-- `works/ore-mutham/translations/en/BATCH_01_REVIEW.md` through `BATCH_05_REVIEW.md`.
+- `works/ore-mutham/translations/en/BATCH_01_REVIEW.md` through `BATCH_07_REVIEW.md`;
+- `works/ore-mutham/translations/en/TRANSLATION_REVIEW.md` — **PASS / COMPLETE**.
 
-Completed / reviewed English scenes:
+Final English state:
 
-- main **1–25** — **25 / 30 main scenes**;
-- total English progress: **25 / 33**;
-- completed review batches: **5 / 7**;
-- source-hold-bearing English scenes completed: **15 / 18**;
+- main English scenes: **30 / 30**;
+- supplementary English scenes: **3 / 3**;
+- total English scenes present / reviewed: **33 / 33**;
+- completed review batches: **7 / 7 PASS / LOCKED**;
+- source-hold-bearing English scenes completed: **18 / 18**;
 - Tamil terminal holds resolved by English translation: **0**;
 - unresolved blocking English issues: **0**;
 - secondary-English contamination: **0**.
 
-The English layer preserves Tamil terminal source holds rather than guessing them.
+Every terminal Tamil source hold remains explicit in the corresponding hold-bearing English artifact. Source-secure shared-boundary main Scene 28 and supplementary Scene 2 do not inherit the following scene's terminal hold.
 
-### User-directed iteration policy
+Final English work-level state:
 
-The user has directed **10 scenes per iteration**. The five-scene review-batch files remain intact, so an ordinary iteration executes two consecutive review batches where possible.
+**ENGLISH TRANSLATION COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE.**
 
-The current iteration completed **main Scenes 16–25 / 10 scenes** via Batches 4–5.
+### User-directed iteration policy — fulfilled
 
-Only **8 scenes remain**, so the next iteration is the final remainder:
+The user directed **10 scenes per iteration**. The five-scene review-batch files were preserved, so ten-scene iterations executed two review batches where possible.
 
-- main Scenes **26–30**;
-- supplementary `நகைச் சுவைப் பகுதி.` Scenes **1–3**;
-- then `BATCH_06_REVIEW.md`, `BATCH_07_REVIEW.md`, and final `TRANSLATION_REVIEW.md` if both batches pass.
+The final remainder contained only **8** scenes and was completed in one go:
+
+- main Scenes **26–30** / Batch 6;
+- supplementary `நகைச் சுவைப் பகுதி.` Scenes **1–3** / Batch 7;
+- final 33-scene `TRANSLATION_REVIEW.md` — **PASS / COMPLETE**.
 
 ## Closed work safeguards
 
-`ஒரே முத்தம்` Tamil source work, `திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened with genuinely new source evidence or a separately authorized phase.
+`ஒரே முத்தம்` Tamil and English workflows, `திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened with genuinely new source evidence or a separately authorized phase.
+
+There is no further authorized `ஒரே முத்தம்` phase at the current checkpoint.
