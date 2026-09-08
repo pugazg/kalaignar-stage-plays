@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **ACTIVE — P0 PASS; scans 1–50 / 50 of 188 canonical + initial-verified + H-GATE PASS + final `verified`; 13 historical-glyph corrections recorded; next scans 51–60** |
+| [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **ACTIVE — P0 PASS; scans 1–60 / 60 of 188 canonical + initial-verified + H-GATE PASS + final `verified`; 14 historical-glyph corrections recorded; next scans 61–70** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
@@ -34,7 +34,7 @@ Initial visual verification alone does not permit final `verified`. The mandator
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-This is a minimum rather than a closed list: Batch 05 of `இரத்தக் கண்ணீர்` additionally exposed a historical `ளா` look-alike. No global replacement and no spelling modernization are permitted.
+This is a minimum rather than a closed list: `இரத்தக் கண்ணீர்` Batch 05 additionally exposed historical `ளா` look-alikes. No global replacement and no spelling modernization are permitted.
 
 ## இரத்தக் கண்ணீர் — active page-layer checkpoint
 
@@ -53,12 +53,12 @@ The conversation preview exposes only 150 page images; direct raw-PDF inspection
 Current durable state:
 
 - P0 source intake: **PASS**;
-- canonical page records: **50 / 188**;
-- initial visual verification: **50 / 188**;
-- historical-glyph H-GATE: **50 / 188**;
-- final verified pages: **50 / 188**;
-- contiguous final-verified range: **scans 1–50**;
-- historical-glyph corrections recorded: **13**;
+- canonical page records: **60 / 188**;
+- initial visual verification: **60 / 188**;
+- historical-glyph H-GATE: **60 / 188**;
+- final verified pages: **60 / 188**;
+- contiguous final-verified range: **scans 1–60**;
+- historical-glyph corrections recorded: **14**;
 - unresolved page-level source issues: **0**;
 - scene assembly: **not started / blocked on page layer**;
 - English translation: **not authorized / not started**.
@@ -69,17 +69,16 @@ Batch authorities:
 - `works/iratha-kanneer/BATCH_02_REVIEW.md` — PASS / scans 11–20;
 - `works/iratha-kanneer/BATCH_03_REVIEW.md` — PASS / scans 21–30;
 - `works/iratha-kanneer/BATCH_04_REVIEW.md` — PASS / scans 31–40;
-- `works/iratha-kanneer/BATCH_05_REVIEW.md` — PASS / scans 41–50.
+- `works/iratha-kanneer/BATCH_05_REVIEW.md` — PASS / scans 41–50;
+- `works/iratha-kanneer/BATCH_06_REVIEW.md` — PASS / scans 51–60.
 
-Batch-05 H-GATE additions, all on scan 48:
+Latest H-GATE addition:
 
-- apparent `முத்தன் வருவானு?` → `முத்தன் வருவானா?` (`னா`);
-- apparent `முயன்றுள்` → `முயன்றாள்` (supplemental historical `ளா`);
-- apparent `அலறினுள்` → `அலறினாள்` (supplemental historical `ளா`).
+- scan 53 apparent `சொத்துக்கணைப் பிடிக்கும்` → `சொத்துக்களைப் பிடிக்கும்` (`ளை`).
 
-Verified page evidence through scan 50 establishes Scene 1 scans 8–13, Scene 2 scans 14–18, Scene 3 scans 19–21, Scene 4 scans 22–25, Scene 5 scans 26–29, Scene 6 scan 30, Scene 7 scans 31–33, Scene 8 scans 34–39, Scene 9 scans 40–41, Scene 10 scans 42–44, Scene 11 scans 45–46, Scene 12 scans 47–49, and Scene 13 beginning on scan 50. This is not yet a final whole-work scene inventory.
+Verified page evidence through scan 60 establishes Scene 1 scans 8–13, Scene 2 scans 14–18, Scene 3 scans 19–21, Scene 4 scans 22–25, Scene 5 scans 26–29, Scene 6 scan 30, Scene 7 scans 31–33, Scene 8 scans 34–39, Scene 9 scans 40–41, Scene 10 scans 42–44, Scene 11 scans 45–46, Scene 12 scans 47–49, Scene 13 scans 50–51, Scene 14 scans 52–53, Scene 15 scans 54–57, and Scene 16 beginning on scan 58 and continuing beyond scan 60. This is not yet a final whole-work scene inventory.
 
-Exact next activity: process **scans 51–60** through transcription → initial verification → H-GATE → final verification where clean.
+Exact next activity: process **scans 61–70** through transcription → initial verification → H-GATE → final verification where clean.
 
 ## ஒரே முத்தம் — Tamil closure checkpoint
 
