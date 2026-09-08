@@ -43,26 +43,24 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 | 89 | 87 | `காட்சி 23.` | verified | Residual batch 4 resolves `(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`; full gate PASS. |
 | 90 | 88 | `காட்சி 23.` | needs-review | Residual batch 4 rechecks the short insult cluster after `விபீஷணா! நீ`; exact characters remain unresolved. |
 | 91 | 89 | `காட்சி 23.` | verified | `ஓஹோ!` / `சற்றுப்` corrected from raw pass; full PASS. |
-| 92 | 90 | `காட்சி 23.` | needs-review | `கூட` corrected; dense sword-action punctuation/historical-type cluster remains open. |
+| 92 | 90 | `காட்சி 23.` | verified | Residual batch 5 closes the sword-action parenthetical `(விபீஷணன் வாளை உருவிப் பொன்னியின் மேல் வீசுந்தோரணையில் நின்றுகொண்டு)`; earlier `கூட` correction remains authoritative; full gate PASS. |
 | 93 | 91 | `காட்சி 23.` | verified | Forced-letter block and full gate PASS. |
-| 94–95 | 92–93 | `காட்சி 23.` close / `காட்சி 24.` | needs-review | Scan 94 `வரி கொடுக்கமாட்டேன்னு` / `எழுத்துக்கள்`; dense route parenthetical and punctuation holds remain. |
+| 94–95 | 92–93 | `காட்சி 23.` close / `காட்சி 24.` | needs-review | Residual batch 5 rechecks scan 94 route/signpost parenthetical and scan 95 dense monologue; exact punctuation/historical-type holds remain. |
 | 96–97 | 94–95 | `காட்சி 25.` | verified | Scan 96 opening direction `சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`; scan 96→97 and 97→98 physical splits preserved. |
-| 98–100 | 96–98 | `காட்சி 25.` / `காட்சி 26.` opener | needs-review | Explicit stage-direction holds remain; scan 100 `இடம்:- மகாவீரர் தர்பார்.` secure. |
+| 98–100 | 96–98 | `காட்சி 25.` / `காட்சி 26.` opener | needs-review | Residual batch 5 rechecks the compact scan-98 cue, two scan-99 directions and scan-100 entrance direction; exact wording remains held. |
 | 101–103 | 99–101 | `காட்சி 26.` | verified | Full closure PASS. Scan 101 `மோகஸ்திரத்தில் மயங்கிய இவர்` / `தங்கள் முடியைக் கவிழ்க்க`; scan 102 `கற்பனை`; scan 103 `சுட்டுச் சாம்பலாக்க` / `அந்தச் சாம்பலைக்கூடக்`. |
 | 104–105 | 102–103 | `காட்சி 26.` close / `காட்சி 27.` | verified | Scan 104 `(மிடுக்காகச் செல்கிறான், சபை கலைகிறது)` / `இளவரசே`; scan 105 opening crowd direction and `அவர்களை பலாத்காரமாக விடுவிப்பார்கள்` closed. |
 | 106–110 | 104–108 | `காட்சி 28.` | verified | Full execution-platform sequence through `சித்ரா`'s exposure of the plot closes PASS; scan 109 `நான் நீதி தவறாதவன்.`; scan 110 recovered-letter confrontation closes. |
 | 111 | 109 | `காட்சி 28.` | verified | Forged-letter conspiracy exposed; crowd reversal and full page close PASS. |
-| 112 | 110 | `காட்சி 28.` close / `காட்சி 29.` | needs-review | Scene-28 punishment/medical sequence and `இடம்:- அரண்மனை நந்தவனம்.` secure; one dense scene-29 opening parenthetical remains held. |
-| 113 | 111 | `காட்சி 29.` | needs-review | Women/social-status dialogue closes except one exact place/compound word in `புத்த`'s accommodation line. |
-| 114–116 | 112–114 | `காட்சி 29.` | verified | Full PASS. Scan 114 preserves `பறைச்சியல்லவா?`; scan 115 explicit `கலப்புமணம்`; scan 116 `மக்களாட்சியாக மாற்றுவேன்` / `மன்னராட்சியை ஒழிப்பேன்`. |
-| 117 | 115 | `காட்சி 29.` close / `காட்சி 30.` | needs-review | `இடம்:- குமரியின் படுக்கை.` and bedside dialogue secure; one dense word/cluster in the scene-opening direction remains held. |
+| 112–113 | 110–111 | `காட்சி 28.` close / `காட்சி 29.` | needs-review | Residual batch 5 rechecks scan 112 scene-opening parenthetical and scan 113 one exact place/compound word; both remain explicit source-condition holds. |
+| 114–117 | 112–115 | `காட்சி 29.` close / `காட்சி 30.` opener | verified | Scans 114–116 remain full PASS; residual batch 5 closes scan 117 scene-opening cluster as `சித்ராவும்`, completing `காட்சி 30.` / `இடம்:- குமரியின் படுக்கை.` opener. |
 | 118 | 116 | `காட்சி 30.` / main-play close | verified | Complete final dialogue/actions, explicit `ஒரே முத்தம்`, main-play endpoint and four-line closing verse PASS. |
 | 119–120 | 117–118 | `நகைச் சுவைப் பகுதி.` — `காட்சி 1.` | verified | Separate supplementary comedy begins at scan 119 with `இடம்:- சந்தேகம் வீடு.`; scans 119–120 complete dialogue/actions PASS. |
 | 121–124 | 119–122 | `நகைச் சுவைப் பகுதி.` — `காட்சி 1.` | verified | Complete colloquial dialogue/actions close from enlarged source pixels; full glyph gate PASS. |
 | 125–127 | 123–125 | `நகைச் சுவைப் பகுதி.` — `காட்சி 2.` | verified | `காட்சி 2.` / `இடம்:- வயல் வெளி.` and complete field-scene dialogue/actions PASS. |
-| 128 | 126 | `நகைச் சுவைப் பகுதி.` — `காட்சி 2.` close / `காட்சி 3.` | needs-review | Scene-2 close, printed `என் கொலப் பெருமையே போச்சு!`, `காட்சி 3.` / `இடம்:- சந்தேகம் வீடு.` secure; one dense scene-3 opening parenthetical remains held. |
+| 128 | 126 | `நகைச் சுவைப் பகுதி.` — `காட்சி 2.` close / `காட்சி 3.` | needs-review | Residual batch 5 rechecks the dense `காட்சி 3.` opening parenthetical; scene-2 close, `என் கொலப் பெருமையே போச்சு!`, and `இடம்:- சந்தேகம் வீடு.` remain secure. |
 | 129 | 127 | `நகைச் சுவைப் பகுதி.` — `காட்சி 3.` | verified | Complete `சாவித்திரி` / `சத்தியவான்` comic exchange and action parentheticals PASS. |
-| 130 | 128 | `நகைச் சுவைப் பகுதி.` — `காட்சி 3.` / dramatic-text close | needs-review | Dialogue and publication endpoint secure; dense concluding action parenthetical and final bracketed epilogue remain held. |
+| 130 | 128 | `நகைச் சுவைப் பகுதி.` — `காட்சி 3.` / dramatic-text close | needs-review | Residual batch 5 rechecks the concluding action parenthetical and final bracketed epilogue; dialogue and publication endpoint remain secure. |
 | 131 | — | back-cover advertisement | verified | Complete publisher book-list advertisement, prices and imprint PASS; non-literary back matter kept separate. |
 
 ## Current checkpoint
@@ -72,9 +70,9 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 - page records source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128** through scan 130;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- visually verified: **101 / 131** (`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
-- `needs-review`: **30 / 131** (`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
-- completed historical-glyph passes: **101 / 131**;
+- visually verified: **103 / 131** (`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`);
+- `needs-review`: **28 / 131** (`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
+- completed historical-glyph passes: **103 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary comedy source-visible anchors: **3**;
 - formal structural/scene inventory: **not started**;
@@ -134,6 +132,17 @@ Reviewed scans **69, 72–74, 77–79, 88–90** directly from the controlling s
 - scans **69, 72–74, 77, 79, 88, 90** remain `needs-review` on their recorded dense lexical, parenthetical, historical-type, stage-action or insult holds;
 - no source text was supplied from context, plot continuity, OCR expectation, another edition or modern spelling.
 
+## Residual-hold re-audit — batch 5
+
+Reviewed scans **92, 94–95, 98–100, 112–113, 117, 128, 130** directly from the controlling source.
+
+- **2 pages promoted to verified:** scans **92, 117**;
+- scan 92 closes the formerly held sword-action parenthetical as **`(விபீஷணன் வாளை உருவிப் பொன்னியின் மேல் வீசுந்தோரணையில் நின்றுகொண்டு)`**; the earlier `வீரப் பயமுறுத்தல் கூட` correction remains authoritative;
+- scan 117 closes the scene-30 opening cluster as **`சித்ராவும்`**, completing the bedside direction;
+- scans **94–95, 98–100, 112–113, 128, 130** remain explicit source-condition holds after direct re-audit; their exact unresolved locations remain documented in the page records;
+- all previously deferred residual pages remain open unless genuinely stronger source evidence appears;
+- no source text was supplied from context, plot continuity, OCR expectation, another edition or modern spelling.
+
 ## Exact next activity
 
-Run **residual-hold re-audit batch 5** over the remaining not-yet-residual-reviewed scans **92, 94–95, 98–100, 112–113, 117, 128, 130**. Revisit only explicit holds with stronger source evidence and run the complete 13-family gate before promotion. All earlier unresolved residual scans — **1, 21, 27, 43, 47, 48, 51, 52, 60, 61, 65, 69, 72–74, 77, 79, 88, 90** — remain deferred pending genuinely stronger character evidence. Do not begin scene assembly or English translation.
+The residual-hold re-audit phase has now covered **every current `needs-review` page at least once with the controlling source**. Next, perform a **terminal residual-hold/source-condition classification and formal structural inventory**: record the remaining **28** pages as explicit source-condition holds with their exact unresolved loci, verify the 30 main-play + 3 supplementary scene anchors against the page map, and prepare the scene-assembly plan without altering source text. Do **not** begin English translation.
