@@ -1,6 +1,6 @@
 # ஒரே முத்தம் — English translation plan
 
-Status: **ACTIVE — ENGLISH TRANSLATION AUTHORIZED; BATCH 1 IN PROGRESS**
+Status: **ACTIVE — BATCH 1 PASS / LOCKED; 5 / 33 ENGLISH SCENES REVIEWED**
 
 The Tamil archival layer is closed for current source evidence. English translation is a separate derivative layer and must not reopen, normalize or overwrite that Tamil closure.
 
@@ -45,7 +45,7 @@ The English should be readable dramatic English, but it is a source-faithful arc
 
 ## 4. Stable naming / terminology baseline
 
-Initial romanization / translation choices:
+Batch 1 has locked the initial romanization / terminology baseline:
 
 - `புத்தன்` → `Puthan`;
 - `மகாவீரர்` → `Mahaveerar`;
@@ -57,8 +57,10 @@ Initial romanization / translation choices:
 - `இன்பபுரி` → `Inbapuri`;
 - `முல்லைக்காடு` → `Mullaikadu`;
 - `பூந்தோட்டம்` → `Poonthottam`;
+- recurring `மது, மங்கை` → `wine and women` in matching contexts;
 - `தாலி` → *thali* where the marriage pendant itself is meant;
-- `காலக்ஷேபம்` → *kalakshepam* where the religious storytelling performance form is meant.
+- `காலக்ஷேபம்` → *kalakshepam* where the religious storytelling performance form is meant;
+- `தாண்டவம்` → *tandava* where the source-specific dance image itself matters.
 
 These choices may be refined only through explicit translation review; refinements must remain consistent across already reviewed English artifacts.
 
@@ -103,8 +105,8 @@ source_condition_scans: [<same scene-relevant terminal scans>]
 
 Use scene-order batches:
 
-1. **Batch 1:** main Scenes **1–5**;
-2. **Batch 2:** main Scenes **6–10**;
+1. **Batch 1:** main Scenes **1–5** — **PASS / LOCKED**;
+2. **Batch 2:** main Scenes **6–10** — **NEXT**;
 3. **Batch 3:** main Scenes **11–15**;
 4. **Batch 4:** main Scenes **16–20**;
 5. **Batch 5:** main Scenes **21–25**;
@@ -117,6 +119,24 @@ After all seven batches, run `translations/en/TRANSLATION_REVIEW.md` as the fina
 
 ## 8. Current checkpoint
 
-English authorization is now explicit.
+Batch 1 files:
 
-Exact current activity: translate and review **Batch 1 — main Scenes 1–5** from the closed Tamil scene files only. Do not alter Tamil source artifacts.
+- `translations/en/main-01.md`;
+- `translations/en/main-02.md`;
+- `translations/en/main-03.md`;
+- `translations/en/main-04.md`;
+- `translations/en/main-05.md`.
+
+`translations/en/BATCH_01_REVIEW.md`: **PASS / LOCKED**.
+
+Progress:
+
+- English scene artifacts expected: **33**;
+- present: **5 / 33**;
+- reviewed: **5 / 33**;
+- completed batches: **1 / 7**;
+- source-hold-bearing English scenes completed: **0**;
+- unresolved blocking English issues: **0**;
+- secondary-English contamination: **0**.
+
+Exact next activity: **Batch 2 — main Scenes 6–10**. Scenes 6–8 are hold-bearing and must preserve all Tamil terminal source holds transparently; Scenes 9–10 are source-secure. Do not alter Tamil source artifacts.
