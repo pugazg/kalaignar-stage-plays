@@ -4,147 +4,152 @@ Repository: `pugazg/kalaignar-stage-plays`, branch `main`.
 
 ## Startup rule
 
-Always fetch live `main` first and preserve newer durable state. Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
+Always fetch live `main` first and preserve newer durable state.
 
-# CURRENT CHECKPOINT — ஒரே முத்தம் TAMIL CLOSED / ENGLISH CLOSED
+Permanent source-first workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
-Work path: `works/ore-mutham/`.
+Historical-type authority for the active work:
 
-Tamil source work is **CLOSED FOR CURRENT SOURCE EVIDENCE**.
+1. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+2. `HISTORICAL_TAMIL_GLYPH_GATE.md`.
 
-English translation is now also **COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE**.
+# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் ACTIVE / P0 SOURCE INTAKE PASS
 
-Final English checkpoint: **33 / 33 scene artifacts present and reviewed; 7 / 7 batches PASS / LOCKED; final `TRANSLATION_REVIEW.md` PASS / COMPLETE**.
+Active work path: `works/iratha-kanneer/`.
 
-There is **no further authorized `ஒரே முத்தம்` phase** at this checkpoint. Do not start secondary-witness comparison, editorial rewriting or Tamil-source reopening from a generic “proceed” instruction.
+Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
-## Mandatory startup if `ஒரே முத்தம்` is explicitly reopened for a new phase
+Current durable state:
 
-Read:
+- P0 source intake: **PASS**;
+- raw physical range: **188 / 188 scans confirmed**;
+- canonical page transcription: **0 / 188**;
+- initial visual verification: **0 / 188**;
+- historical-glyph H-GATE: **0 / 188**;
+- final verified pages: **0 / 188**;
+- structural / scene assembly: **not started**;
+- English translation: **not authorized / not started**.
+
+The conversation file preview exposes only **150** page images. Direct raw-PDF inspection established **188 physical scans**. The raw PDF count controls; never stop at preview page 150.
+
+## Mandatory startup before further இரத்தக் கண்ணீர் work
+
+Read completely:
 
 1. `STAGE_PLAY_PROCESSING_GUIDE.md`;
-2. this `HANDOVER.md`;
-3. `NEXT_CHAT_PROMPT.md`;
-4. `works/ore-mutham/README.md`;
-5. `works/ore-mutham/TAMIL_CLOSURE_REVIEW.md`;
-6. `works/ore-mutham/SCENE_ASSEMBLY_AUDIT.md`;
-7. `works/ore-mutham/TERMINAL_SOURCE_CONDITION_HOLDS.md`;
-8. `works/ore-mutham/TRANSLATION_PLAN.md`;
-9. `works/ore-mutham/translations/en/README.md`;
-10. `works/ore-mutham/translations/en/TRANSLATION_REVIEW.md`;
-11. relevant `BATCH_*.md`, Tamil scene and English scene artifacts for the explicitly authorized phase.
+2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
+4. this `HANDOVER.md`;
+5. `NEXT_CHAT_PROMPT.md`;
+6. `works/iratha-kanneer/README.md`;
+7. `works/iratha-kanneer/metadata/source.md`;
+8. `works/iratha-kanneer/indexes/page-map.md`;
+9. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`;
+10. relevant `works/iratha-kanneer/pages/NNNN.md` records once they exist.
 
-Read page records / controlling PDF only if a genuinely new Tamil source-dependent question is explicitly reopened with stronger evidence.
+Resolve / attach the controlling PDF before source-dependent page work. Do not substitute OCR, web text, later editions or memory for source pixels.
 
 ## Source identity
 
-Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
+- title: **இரத்தக் கண்ணீர்**;
+- author as printed: **மு. கருணாநிதி**;
+- publisher: **திராவிடப் பண்ணை**;
+- title-page location: **தெப்பக்குளம் :: திருச்சி**;
+- edition: **முதல் பதிப்பு — 1953**;
+- source-visible price: **ரூ. 2-0-0.**;
+- SHA-256: **`120428985bd327456df46b9e06271896b106332711f4c9063d4f0c7fe72b6441`**;
+- size: **319,220,349 bytes**;
+- physical scans: **188**;
+- image-only: **yes**;
+- source PDF committed to repository: **no**.
 
-- size: **224,884,964 bytes**;
-- physical scans: **131**;
-- SHA-256: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**;
-- committed to repository: **no**.
+Internal front-matter dates are separately preserved:
 
-## Final Tamil source state — CLOSED
+- scan 4 `பதிப்புரை` — **14-4-1948**;
+- scan 5 `முன்னுரை` — **20-11-53**, `திருச்சி மத்திய சிறை`, signed `மு. கருணாநிதி`.
 
-- source / physical-range closure: **131 / 131 COMPLETE**;
-- verified: **103 / 131**;
-- terminal current-source-condition `blocked`: **28 / 131**;
-- ordinary `needs-review`: **0**;
-- historical-glyph PASS: **103 / 131**;
-- main Tamil scenes: **30 / 30**;
-- supplementary Tamil scenes: **3 / 3**;
-- full Tamil scene audit: **PASS — 33 / 33**;
-- Tamil closure review: **PASS**.
+Do not promote the 1948 internal date over the source-visible 1953 first-edition statement.
 
-Terminal scans:
+## Intake structure — not yet a final structural audit
 
-`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
+Source-visible intake findings:
 
-Work-level Tamil state:
+- scan 1 — illustrated front cover;
+- scan 2 — title / author / publisher page;
+- scan 3 — `முதல் பதிப்பு—1953`, rights / price / printer-imprint page;
+- scan 4 — `பதிப்புரை`;
+- scan 5 — `முன்னுரை`;
+- scans 6–7 — `நுழைவாய்`;
+- scan 8 — `இரத்தக் கண்ணீர் [நாடகம்]`, `காட்சி 1]`;
+- scan 180 — intake spot check `காட்சி 59]`;
+- scan 183 — intake spot check `காட்சி 60]`;
+- scan 184 — intake spot check `காட்சி 61]`;
+- scan 186 — source-visible `முடிவு` / closing prose;
+- scan 187 — publisher catalogue advertisement;
+- scan 188 — back wrapper / `திராவிடப் பண்ணை` device.
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 28 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
+Do **not** declare a final 61-scene inventory from these spot checks. Page transcription / verification precedes scene-boundary closure.
 
-Do not change or silently resolve this state through English editorial choices.
+# Mandatory post-initial-verification historical-glyph gate
 
-## Final English state — CLOSED
+The user explicitly directed that historical Tamil glyph checking occur **after initial verification**.
 
-Immediate authority for the completed English layer was the closed Tamil scene layer under `works/ore-mutham/scenes/`.
+For this work the page pipeline is therefore:
 
-Final artifact set:
+**P1 canonical transcription → P2 initial visual verification → H-GATE historical Tamil glyph audit → final page verification.**
 
-- main English scenes: `translations/en/main-01.md` through `main-30.md` — **30 / 30**;
-- supplementary English scenes: `translations/en/nagai-suvai-01.md` through `nagai-suvai-03.md` — **3 / 3**;
-- total: **33 / 33 present and reviewed**.
+Initial verification alone is not final `verified`.
 
-Supplementary scenes remain source-numbered **1–3**, never main 31–33.
+After initial visual verification while H-GATE is pending:
 
-Batch closure:
+```yaml
+status: "needs-review"
+initial_verification: "passed"
+historical_glyph_gate: "pending"
+```
 
-- Batch 1 — main 1–5 — **PASS / LOCKED**;
-- Batch 2 — main 6–10 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- Batch 3 — main 11–15 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- Batch 4 — main 16–20 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- Batch 5 — main 21–25 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- Batch 6 — main 26–30 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- Batch 7 — supplementary 1–3 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
+Only after H-GATE PASS, and if no other source issue remains:
 
-Final review: `works/ore-mutham/translations/en/TRANSLATION_REVIEW.md` — **PASS / COMPLETE**.
+```yaml
+status: "verified"
+initial_verification: "passed"
+historical_glyph_gate: "passed"
+```
 
-English closure metrics:
+Mandatory minimum family set:
 
-- reviewed: **33 / 33**;
-- batches: **7 / 7**;
-- hold-bearing English scenes reviewed: **18 / 18**;
-- Tamil terminal holds resolved by translation: **0**;
-- unresolved blocking English issues: **0**;
-- secondary-English contamination: **0**.
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Final English state:
+Permanent rules:
 
-**ENGLISH TRANSLATION COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE.**
+- source pixels control character identity;
+- inspect complete page / complete glyph cluster at enlarged/native resolution;
+- compare clearer same-edition witnesses when needed;
+- OCR / grammar / familiar spelling / context are not proof;
+- encode proven historical character identity into modern Unicode without modernizing source wording;
+- no global replacement;
+- unresolved glyph identity remains `needs-review`;
+- `blocked` only after source-condition escalation is exhausted;
+- historical-glyph corrections are logged separately from ordinary transcription corrections.
 
-## Terminal-source-hold safeguard
+Work-level tracker: `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`.
 
-Eighteen Tamil scene artifacts are hold-bearing:
+## Exact next activity — scans 1–10
 
-Main: **6–8, 11–14, 16–20, 23–26, 29**.
+Process the first ten physical scans in one source-first batch:
 
-Supplementary: **Scene 3**.
+1. create `pages/0001.md` through `pages/0010.md`;
+2. transcribe / describe every page, including cover and front matter;
+3. perform initial visual verification against source pixels;
+4. after initial verification, run H-GATE on every applicable Tamil page;
+5. promote only H-GATE-passed clean pages to final `verified`;
+6. leave unresolved pages `needs-review` / `blocked` as supported;
+7. expand/reconcile `indexes/page-map.md`;
+8. update `HISTORICAL_GLYPH_AUDIT.md`, work README, this handover and `NEXT_CHAT_PROMPT.md`;
+9. fetch final live `main` SHA.
 
-Every corresponding English artifact retains its unresolved Tamil locus/loci transparently. An English PASS with source holds never means the Tamil hold is resolved.
-
-Source-secure shared-boundary main Scene 28 and supplementary Scene 2 do not inherit the following scene's hold.
-
-## Stable translation conventions
-
-Final reviewed forms are recorded in `works/ore-mutham/TRANSLATION_PLAN.md` and `works/ore-mutham/translations/en/README.md`.
-
-Core forms include Puthan, Mahaveerar, Yaaliththathar, Kumari, Ramela, Vibhishanan, Imaya, Ponni, Malayan, Chithra, Madhavan, Singanagan, Ellappan, Inbapuri, Mullaikadu, Poonthottam and Pavalamalai.
-
-Source-sensitive forms include `Lightning`, *thali*, *kalakshepam*, *tandava*, *machan*, `paraak`, `Maharani`, `Aththan`, `naazhigai`, `Paraiyar`, `chandala` / `Chandala woman`, `democracy` / `monarchy`, and supplementary names `Sandhegam`, `Samayochitham`, `Adhirshtam`.
-
-## User-directed iteration policy — fulfilled
-
-The user directed **10 scenes per iteration**. The durable five-scene review artifacts were retained, so ten-scene iterations executed two review batches where possible.
-
-The final remainder contained only **8** scenes and was completed in one final iteration:
-
-- Batch 6 — main **26–30**;
-- Batch 7 — supplementary **1–3**;
-- final whole-work review — **PASS / COMPLETE**.
-
-## Exact next activity
-
-**No next `ஒரே முத்தம்` activity is currently authorized.**
-
-If the user merely says “proceed” after this checkpoint, do not silently start a new phase. Report that both Tamil and English workflows are closed and wait for explicit authorization of a named new phase, for example:
-
-- secondary / independent English-witness comparison;
-- documented editorial refinement of the completed English layer;
-- Tamil-source reopening with genuinely stronger evidence;
-- a different stage play/work.
+Do not begin scene assembly or English translation merely because a page batch completes.
 
 # CLOSED WORK SAFEGUARDS
 
-`ஒரே முத்தம்`, `திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened with genuinely stronger source evidence or a separately authorized phase.
+The completed `ஒரே முத்தம்` Tamil + English workflows remain **CLOSED**. Also keep `திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components closed unless the user separately reopens them with new evidence / a named phase.
