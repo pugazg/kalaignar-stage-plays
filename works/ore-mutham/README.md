@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**ACTIVE — RAW SOURCE PASS COMPLETE 131 / 131; PHYSICAL-RANGE CLOSURE COMPLETE 131 / 131; RESIDUAL RE-AUDIT COMPLETE; 103 VERIFIED + 28 TERMINAL CURRENT-SOURCE-CONDITION `blocked`; HISTORICAL-GLYPH PASS 103 / 131; TERMINAL HOLD INVENTORY COMPLETE; BOUNDARY-AWARE STRUCTURAL INVENTORY COMPLETE; SOURCE-SECURE TAMIL SCENE ASSEMBLY 15 / 33 PASS; HOLD-BEARING ASSEMBLY NEXT; ENGLISH NOT AUTHORIZED.**
+**ACTIVE — RAW SOURCE PASS COMPLETE 131 / 131; PHYSICAL-RANGE CLOSURE COMPLETE 131 / 131; RESIDUAL RE-AUDIT COMPLETE; 103 VERIFIED + 28 TERMINAL CURRENT-SOURCE-CONDITION `blocked`; HISTORICAL-GLYPH PASS 103 / 131; TERMINAL HOLD INVENTORY COMPLETE; BOUNDARY-AWARE STRUCTURAL INVENTORY COMPLETE; TAMIL SCENE ASSEMBLY COMPLETE 33 / 33; FULL PAGE-TO-SCENE AUDIT PASS 33 / 33; TAMIL PRE-RELEASE / WORK-LEVEL CLOSURE GATE NEXT; ENGLISH NOT AUTHORIZED.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -24,18 +24,18 @@ Scan 6 independently supports the Sri Lankan historical-fragment basis and first
 
 ## Source-visible structure
 
-1. **Main play `ஒரே முத்தம்`** — scans **8–118 / pp.6–116**, with **30 source-visible scenes**.
-2. **`நகைச் சுவைப் பகுதி.` supplementary comedy** — scans **119–130 / pp.117–128**, with its own **3-scene** numbering.
-3. Scan **131** is back-cover publisher advertising.
+1. **Main play `ஒரே முத்தம்`** — scans **8–118 / pp.6–116**, **30 source-visible scenes**.
+2. **`நகைச் சுவைப் பகுதி.` supplementary comedy** — scans **119–130 / pp.117–128**, its own **3-scene** numbering.
+3. Scan **131** — verified back-cover publisher advertising.
 
-Do not renumber the supplementary scenes as main-play scenes 31–33.
+Supplementary scenes remain source-numbered **1–3** and are never main scenes 31–33.
 
-Structural / assembly authority:
+## Structural / assembly authority
 
 - [`STRUCTURAL_INVENTORY.md`](STRUCTURAL_INVENTORY.md) — boundary-aware scene ranges;
 - [`SCENE_BOUNDARY_AUDIT.md`](SCENE_BOUNDARY_AUDIT.md) — shared transition-page segmentation;
-- [`SCENE_ASSEMBLY_PLAN.md`](SCENE_ASSEMBLY_PLAN.md) — assembly rules and next order;
-- [`SCENE_ASSEMBLY_AUDIT.md`](SCENE_ASSEMBLY_AUDIT.md) — page-to-scene consistency audit;
+- [`SCENE_ASSEMBLY_PLAN.md`](SCENE_ASSEMBLY_PLAN.md) — permanent assembly rules and closed assembly state;
+- [`SCENE_ASSEMBLY_AUDIT.md`](SCENE_ASSEMBLY_AUDIT.md) — complete 33-scene page-to-scene consistency audit;
 - [`TERMINAL_SOURCE_CONDITION_HOLDS.md`](TERMINAL_SOURCE_CONDITION_HOLDS.md) — exact terminal held loci.
 
 ## Verified / terminal checkpoint
@@ -50,48 +50,34 @@ Terminal current-source-condition / `blocked` scans:
 
 All **28 / 28** terminal records have already received direct source review and at least one residual/difficult-reading pass. They are not pending ordinary review. Reopen only if genuinely stronger source evidence appears.
 
-## Boundary-aware structural / assembly checkpoint
+## Boundary-aware Tamil scene assembly — COMPLETE
 
-Many transition scans contain the end of one scene and the heading/opening of the next. Scene assembly is therefore **segment-aware**: a transition scan may contribute to both adjacent scene files.
+Many transition scans contain both the close of one scene and the heading/opening of the next. Assembly is therefore **segment-aware**: a transition scan can contribute to both adjacent scene files.
 
-- main-play anchors: **30 / 30 structurally verified**;
-- supplementary anchors: **3 / 3 structurally verified**;
-- main scenes containing an unresolved locus inside their own scene text: **17 / 30** — `6–8, 11–14, 16–20, 23–26, 29`;
-- supplementary scenes containing unresolved loci: **Scene 3 only**;
-- main Scene 28 is source-secure but uses the secure pre-Scene-29 portion of globally blocked scan 112;
-- supplementary Scene 2 is source-secure but uses the secure pre-Scene-3 portion of globally blocked scan 128.
+Final scene layer:
 
-### Assembled / audited main scenes — 13 / 30
-
-`1–5, 9–10, 15, 21–22, 27–28, 30`.
-
-Files:
-
-- `scenes/main-01.md` — scans 8–9;
-- `scenes/main-02.md` — scans 9–11;
-- `scenes/main-03.md` — scans 11–15;
-- `scenes/main-04.md` — scans 15–19;
-- `scenes/main-05.md` — scans 19–20;
-- `scenes/main-09.md` — scans 32–37;
-- `scenes/main-10.md` — scans 37–40;
-- `scenes/main-15.md` — scans 53–59;
-- `scenes/main-21.md` — scans 80–85;
-- `scenes/main-22.md` — scans 85–87;
-- `scenes/main-27.md` — scans 104–105;
-- `scenes/main-28.md` — scans 106–112, source-secure boundary case;
-- `scenes/main-30.md` — scans 117–118.
-
-### Assembled / audited supplementary scenes — 2 / 3
-
-- `scenes/nagai-suvai-01.md` — scans 119–125;
-- `scenes/nagai-suvai-02.md` — scans 125–128, source-secure boundary case.
-
-`SCENE_ASSEMBLY_AUDIT.md` is **PASS — 15 / 15** currently assembled source-secure scenes page-record-consistent.
-
+- main scenes: **30 / 30 assembled** — `scenes/main-01.md` through `scenes/main-30.md`;
+- supplementary scenes: **3 / 3 assembled** — `scenes/nagai-suvai-01.md` through `scenes/nagai-suvai-03.md`;
+- total: **33 / 33**;
+- fully verified-input scenes: **13**;
+- source-secure shared-boundary scenes: **2** — main Scene 28 and supplementary Scene 2;
+- hold-bearing scenes: **18**;
+- full page-to-scene consistency audit: **PASS — 33 / 33**;
 - source wording changed during assembly: **0**;
 - unresolved wording invented: **0**;
-- terminal unresolved loci imported into assembled source-secure scenes: **0**;
-- OCR/context/another-edition repair: **0**.
+- OCR/context/another-edition repairs: **0**.
+
+Hold-bearing main scenes:
+
+`6–8, 11–14, 16–20, 23–26, 29`.
+
+Hold-bearing supplementary scene:
+
+`நகைச் சுவைப் பகுதி.` Scene **3**.
+
+Their exact scene-relevant terminal dependencies are recorded in `SCENE_ASSEMBLY_AUDIT.md`; explicit source-held markers and canonical provisional page-layer wording remain intact. `assembly-held` means assembly fidelity is closed while the underlying source-condition locus remains unresolved.
+
+Main Scene 28 uses only the secure pre-`காட்சி 29.` segment of globally blocked scan 112. Supplementary Scene 2 likewise uses only the secure pre-`காட்சி 3.` segment of globally blocked scan 128. Neither imports the later held locus.
 
 ## Important durable source corrections
 
@@ -115,8 +101,8 @@ Earlier corrections remain authoritative and must not be reverted:
 - scan 45: **`மரண தண்டனை அதற்குத்தீர்ப்பு.`** / **`உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்`**;
 - scan 46: **`கொண்டுவந்து கொடுப்பாய்ப்போல்.`**, **`இரவு தெரு நடனக்காரியை`**, **`நினைவுவந்த`**;
 - scan 49: **`மலரைக் காப்பாற்றினாய்`**;
-- scan 50: source `வெளியில்` / `உள்ளே` alternation and physical `மகுடத் / தைக்`, `தண் / டனை` inset line-breaking;
-- scan 56: source label variation `இமய` / `இமா` / `விபீஷ -`; first secure `னொ` witness `இன்னொன்று`;
+- scan 50: source `வெளியில்` / `உள்ளே` alternation and physical `மகுடத் / தைக்`, `தண் / டனை` line-breaking;
+- scan 56: source label variation `இமய` / `இமா` / `விபீஷ -`; secure `னொ` witness `இன்னொன்று`;
 - scan 63: **`காலப்பனிபோல்`**;
 - scan 65: **`ஆசைப்படச் சொன்னார்`** remains secure although another locus is held;
 - scan 66: **`ஹ ஹ ஹா!`** / **`சிங்கநாகன்`**;
@@ -127,10 +113,10 @@ Earlier corrections remain authoritative and must not be reverted:
 - scan 82: **`பாவம் வறுமையின் கஷ்டம்,`** / **`உன் வாழ்க்கையைக் கெடுத்துக் கொண்டாய்.`**;
 - scan 89: **`(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`**;
 - scan 91: **`ஓஹோ!` / `சற்றுப்`**;
-- scan 92: **`(விபீஷணன் வாளை உருவிப் பொன்னியின் மேல் வீசுந்தோரணையில் நின்றுகொண்டு)`** with earlier `வீரப் பயமுறுத்தல் கூட` retained;
+- scan 92: **`(விபீஷணன் வாளை உருவிப் பொன்னியின் மேல் வீசுந்தோரணையில் நின்றுகொண்டு)`** with `வீரப் பயமுறுத்தல் கூட` retained;
 - scan 94: **`வரி கொடுக்கமாட்டேன்னு`** / **`எழுத்துக்கள்`**;
 - scan 96: **`சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`**;
-- scan 117: scene-30 opener **`சித்ராவும்`**;
+- scan 117: Scene-30 opener **`சித்ராவும்`**;
 - scan 128: **`என் கொலப் பெருமையே போச்சு!`**;
 - scan 131: catalogue form `மின்னொளி`.
 
@@ -140,7 +126,7 @@ Mandatory family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. Terminal `blocked` pages do not contribute new reference forms at their unresolved locus. No global replacement is permitted.
+The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. Terminal `blocked` pages do not contribute new reference forms at unresolved loci. No global replacement is permitted.
 
 ## Direct thematic evidence
 
@@ -161,21 +147,20 @@ The secure same-edition witness bank is maintained in `HISTORICAL_GLYPH_AUDIT.md
 - main-play structural anchors: **30 / 30 — COMPLETE**;
 - supplementary structural anchors: **3 / 3 — COMPLETE**;
 - boundary-aware structural inventory / boundary audit: **COMPLETE**;
-- scene-assembly plan: **ACTIVE — HOLD-BEARING PHASE NEXT**;
-- Tamil main scenes assembled / audited: **13 / 30**;
-- Tamil supplementary scenes assembled / audited: **2 / 3**;
-- total assembled source-secure scenes: **15 / 33 — AUDIT PASS**;
+- Tamil main scenes assembled: **30 / 30 — COMPLETE**;
+- Tamil supplementary scenes assembled: **3 / 3 — COMPLETE**;
+- full scene-layer audit: **33 / 33 — PASS**;
+- Tamil work-level release/closure gate: **not yet run**;
 - English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Proceed to **hold-bearing Tamil scene assembly** under `SCENE_ASSEMBLY_PLAN.md`, in source order:
+Run the **Tamil pre-release / work-level closure gate**:
 
-1. main scenes **6–8**;
-2. main scenes **11–14**;
-3. main scenes **16–20**;
-4. main scenes **23–26**;
-5. main scene **29**;
-6. supplementary `நகைச் சுவைப் பகுதி.` **Scene 3**.
+1. verify the scene-file inventory is exactly main `01–30` plus supplementary `01–03`;
+2. verify all 28 terminal physical-page holds remain traceable from the page layer and all scene-relevant holds remain traceable in the scene layer;
+3. reconcile stale secondary index/status labels such as legacy `needs-review` entries to the terminal `blocked` classification without changing canonical page text;
+4. decide/document the work-level Tamil release state under the repository's terminal-source-condition policy;
+5. synchronize README / handover / next-chat prompt with the closure decision.
 
-For each scene, assemble only canonical page-record segments; preserve every `[source-held: ...]` / equivalent marker exactly; set `assembled_from_verified_pages: false`; list all scene-relevant held scans in `source_condition_scans`; do not infer held wording from context. Run a second scene-layer consistency audit after the hold-bearing batch. Do **not** begin English translation.
+Do **not** begin English translation unless explicitly authorized.
