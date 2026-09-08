@@ -10,9 +10,9 @@ Always fetch live `main` first and preserve newer durable state. Permanent workf
 
 Work path: `works/ore-mutham/`.
 
-Tamil source work is **CLOSED FOR CURRENT SOURCE EVIDENCE**. English translation is now explicitly authorized and active.
+Tamil source work is **CLOSED FOR CURRENT SOURCE EVIDENCE**. English translation is explicitly authorized and active.
 
-Current English checkpoint: **Batch 1 PASS / LOCKED — main Scenes 1–5; 5 / 33 English scenes reviewed**.
+Current English checkpoint: **Batch 2 PASS / LOCKED — main Scenes 1–10 complete; 10 / 33 English scenes reviewed**.
 
 ## Mandatory startup before further `ஒரே முத்தம்` English work
 
@@ -105,7 +105,7 @@ Permanent English rule:
 
 Source-secure shared-boundary main Scene 28 and supplementary Scene 2 do not inherit later-scene holds.
 
-## Stable terminology after Batch 1
+## Stable terminology after Batch 2
 
 Current locked baseline:
 
@@ -116,60 +116,76 @@ Current locked baseline:
 - Ramela
 - Vibhishanan
 - Imaya
+- Ponni
+- Malayan
+- Chithra
+- Madhavan
+- Singanagan
+- Ellappan
 - Inbapuri
 - Mullaikadu
 - Poonthottam
+- Pavalamalai
+- `Lightning` for Kumari's undercover alias `மின்னல்`
 - recurring `மது, மங்கை` → `wine and women`
 - *thali*, *kalakshepam*, *tandava* where the source-specific term itself matters
+- `chandala` where the historically specific source insult itself matters
 
 Refine only through explicit batch review and keep earlier reviewed files consistent.
 
-## English Batch 1 — PASS / LOCKED
+## English Batches 1–2 — PASS / LOCKED
 
 Completed files:
 
-- `translations/en/main-01.md`;
-- `translations/en/main-02.md`;
-- `translations/en/main-03.md`;
-- `translations/en/main-04.md`;
-- `translations/en/main-05.md`.
+- `translations/en/main-01.md` through `translations/en/main-10.md`.
 
-Review: `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**.
+Reviews:
+
+- `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
+- `translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
 
 Progress:
 
 - expected English scenes: **33**;
-- present: **5 / 33**;
-- reviewed: **5 / 33**;
-- completed batches: **1 / 7**;
-- source-hold-bearing English scenes completed: **0**;
+- present: **10 / 33**;
+- reviewed: **10 / 33**;
+- completed batches: **2 / 7**;
+- source-hold-bearing English scenes completed: **3 / 18** — main **6–8**;
+- Tamil source holds resolved by English translation: **0**;
 - unresolved blocking English issues: **0**;
 - secondary-English contamination: **0**.
+
+Batch-2 hold mapping retained transparently:
+
+- Scene 6 → scan `[21]`;
+- Scene 7 → `[27]`;
+- Scene 8 → `[27]`.
 
 ## Batch schedule
 
 1. main 1–5 — **PASS / LOCKED**;
-2. main 6–10 — **NEXT**;
-3. main 11–15;
+2. main 6–10 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+3. main 11–15 — **NEXT**;
 4. main 16–20;
 5. main 21–25;
 6. main 26–30;
 7. supplementary 1–3.
 
-## Exact next activity — English Batch 2
+## Exact next activity — English Batch 3
 
 Do **not** reopen Tamil source work.
 
-1. Read closed Tamil Scenes **6–10** completely.
-2. Translate main Scenes **6–8** with terminal source holds explicitly preserved:
-   - Scene 6 → held scan `[21]`;
-   - Scene 7 → `[27]`;
-   - Scene 8 → `[27]`.
-3. Translate source-secure main Scenes **9–10**.
-4. Preserve Batch-1 naming / terminology unless the Batch-2 review documents a justified global refinement.
-5. Create `translations/en/BATCH_02_REVIEW.md` and run complete Tamil-turn / stage-direction / source-hold / naming consistency review.
-6. If PASS, lock Batch 2 and update `TRANSLATION_PLAN.md`, English README, work/root READMEs, this handover and `NEXT_CHAT_PROMPT.md`.
-7. Fetch final live `main` SHA.
+1. Read closed Tamil Scenes **11–15** completely.
+2. Translate main Scene **11** — terminal dependency `[43]`.
+3. Translate main Scene **12** — `[47, 48, 51]`.
+4. Translate main Scene **13** — `[52]`.
+5. Translate main Scene **14** — `[52]`.
+6. Translate source-secure main Scene **15**.
+7. Preserve all terminal source-hold markers transparently; do not repair them from plot context, OCR, grammar or another edition.
+8. Preserve Batch-1/2 naming and terminology unless Batch-3 review explicitly documents a justified global refinement.
+9. Create `translations/en/BATCH_03_REVIEW.md` and run complete Tamil-turn / stage-direction / source-hold / naming consistency review.
+10. If PASS, lock Batch 3 and synchronize `TRANSLATION_PLAN.md`, English README, work/root READMEs, this handover and `NEXT_CHAT_PROMPT.md`.
+11. Fetch final live `main` SHA.
 
 # CLOSED WORK SAFEGUARDS
 
