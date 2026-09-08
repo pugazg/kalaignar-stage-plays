@@ -1,6 +1,6 @@
 # ஒரே முத்தம் — English translation plan
 
-Status: **ACTIVE — BATCH 1 PASS / LOCKED; 5 / 33 ENGLISH SCENES REVIEWED**
+Status: **ACTIVE — BATCH 2 PASS / LOCKED; 10 / 33 ENGLISH SCENES REVIEWED**
 
 The Tamil archival layer is closed for current source evidence. English translation is a separate derivative layer and must not reopen, normalize or overwrite that Tamil closure.
 
@@ -45,7 +45,7 @@ The English should be readable dramatic English, but it is a source-faithful arc
 
 ## 4. Stable naming / terminology baseline
 
-Batch 1 has locked the initial romanization / terminology baseline:
+Locked after Batches 1–2 unless a later review documents a justified global refinement:
 
 - `புத்தன்` → `Puthan`;
 - `மகாவீரர்` → `Mahaveerar`;
@@ -54,13 +54,22 @@ Batch 1 has locked the initial romanization / terminology baseline:
 - `ரமேலா` → `Ramela`;
 - `விபீஷணன்` → `Vibhishanan`;
 - `இமயா` → `Imaya`;
+- `பொன்னி` → `Ponni`;
+- `மலையன்` → `Malayan`;
+- `சித்ரா` → `Chithra`;
+- `மாதவன்` → `Madhavan`;
+- `சிங்கநாகன்` → `Singanagan`;
+- `எல்லப்பன்` → `Ellappan`;
 - `இன்பபுரி` → `Inbapuri`;
 - `முல்லைக்காடு` → `Mullaikadu`;
 - `பூந்தோட்டம்` → `Poonthottam`;
+- `பவளமலை` → `Pavalamalai`;
+- `மின்னல்` → `Lightning` when used as Kumari's undercover alias, preserving the lightning/thunder wordplay;
 - recurring `மது, மங்கை` → `wine and women` in matching contexts;
 - `தாலி` → *thali* where the marriage pendant itself is meant;
 - `காலக்ஷேபம்` → *kalakshepam* where the religious storytelling performance form is meant;
-- `தாண்டவம்` → *tandava* where the source-specific dance image itself matters.
+- `தாண்டவம்` → *tandava* where the source-specific dance image itself matters;
+- `சண்டாளன்` → `chandala` where the historically specific insult itself matters.
 
 These choices may be refined only through explicit translation review; refinements must remain consistent across already reviewed English artifacts.
 
@@ -106,8 +115,8 @@ source_condition_scans: [<same scene-relevant terminal scans>]
 Use scene-order batches:
 
 1. **Batch 1:** main Scenes **1–5** — **PASS / LOCKED**;
-2. **Batch 2:** main Scenes **6–10** — **NEXT**;
-3. **Batch 3:** main Scenes **11–15**;
+2. **Batch 2:** main Scenes **6–10** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+3. **Batch 3:** main Scenes **11–15** — **NEXT**;
 4. **Batch 4:** main Scenes **16–20**;
 5. **Batch 5:** main Scenes **21–25**;
 6. **Batch 6:** main Scenes **26–30**;
@@ -119,24 +128,15 @@ After all seven batches, run `translations/en/TRANSLATION_REVIEW.md` as the fina
 
 ## 8. Current checkpoint
 
-Batch 1 files:
+Completed / reviewed English scene artifacts: **10 / 33**.
 
-- `translations/en/main-01.md`;
-- `translations/en/main-02.md`;
-- `translations/en/main-03.md`;
-- `translations/en/main-04.md`;
-- `translations/en/main-05.md`.
+- Batch 1: main **1–5** — **PASS / LOCKED**;
+- Batch 2: main **6–10** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- hold-bearing English scenes completed so far: **3 / 18** — main **6–8**;
+- Tamil terminal holds resolved by English translation: **0**;
+- secondary-English contamination: **0**;
+- unresolved blocking English issues: **0**.
 
-`translations/en/BATCH_01_REVIEW.md`: **PASS / LOCKED**.
+`translations/en/BATCH_01_REVIEW.md` and `translations/en/BATCH_02_REVIEW.md` are the current batch-review authorities.
 
-Progress:
-
-- English scene artifacts expected: **33**;
-- present: **5 / 33**;
-- reviewed: **5 / 33**;
-- completed batches: **1 / 7**;
-- source-hold-bearing English scenes completed: **0**;
-- unresolved blocking English issues: **0**;
-- secondary-English contamination: **0**.
-
-Exact next activity: **Batch 2 — main Scenes 6–10**. Scenes 6–8 are hold-bearing and must preserve all Tamil terminal source holds transparently; Scenes 9–10 are source-secure. Do not alter Tamil source artifacts.
+Exact next activity: translate and review **Batch 3 — main Scenes 11–15** from the closed Tamil scene files only. Scenes **11–14** are hold-bearing and must retain all scene-relevant Tamil source holds transparently; Scene **15** is source-secure. Do not alter Tamil source artifacts.
