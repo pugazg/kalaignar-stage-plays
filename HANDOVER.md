@@ -21,8 +21,11 @@ Read before further work:
 5. `works/ore-mutham/metadata/source.md`;
 6. `works/ore-mutham/indexes/page-map.md`;
 7. `works/ore-mutham/HISTORICAL_GLYPH_AUDIT.md`;
-8. relevant `works/ore-mutham/pages/0001.md`–`0131.md`;
-9. supplied controlling PDF when any source-dependent adjudication is attempted.
+8. `works/ore-mutham/TERMINAL_SOURCE_CONDITION_HOLDS.md`;
+9. `works/ore-mutham/STRUCTURAL_INVENTORY.md`;
+10. `works/ore-mutham/SCENE_ASSEMBLY_PLAN.md`;
+11. relevant `works/ore-mutham/pages/0001.md`–`0131.md`;
+12. supplied controlling PDF only when new source-dependent adjudication is attempted.
 
 ## Source identity
 
@@ -33,66 +36,76 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 - SHA-256: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**;
 - source PDF committed to repository: **no**.
 
-## Major checkpoint
+## Major checkpoint — terminal classification + structural inventory COMPLETE
 
 - raw source pass: **131 / 131 COMPLETE**;
 - complete physical-range closure audit: **131 / 131 COMPLETE**;
-- residual-hold re-audit: **all current open pages reviewed at least once; batches 1–5 COMPLETE**;
+- residual-hold re-audit: **COMPLETE — every terminal page directly revisited**;
 - verified: **103 / 131**;
-- explicit `needs-review` / source-condition holds: **28 / 131**;
+- terminal current-source-condition / `blocked`: **28 / 131**;
+- ordinary `needs-review` remaining in the terminal set: **0**;
 - historical-glyph PASS: **103 / 131**;
-- main play: scans **8–118 / pp.6–116**, **30 source-visible scenes**;
-- separate `நகைச் சுவைப் பகுதி.`: scans **119–130 / pp.117–128**, its own **3-scene numbering**;
+- main play: scans **8–118 / pp.6–116**, **30 / 30 structural scene anchors verified**;
+- separate `நகைச் சுவைப் பகுதி.`: scans **119–130 / pp.117–128**, **3 / 3 structural scene anchors verified** with its own numbering;
 - scan **131**: verified non-literary back-cover publisher advertisement;
-- supplementary scenes must not be renumbered as main-play scenes 31–33.
+- terminal hold inventory: **COMPLETE**;
+- formal structural inventory: **COMPLETE**;
+- scene-assembly plan: **COMPLETE**;
+- Tamil scene assembly: **not started**;
+- English translation: **not authorized / not started**.
 
 ### Verified scans — 103 / 131
 
 `2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`.
 
-### Remaining source-condition holds — 28 / 131
+### Terminal current-source-condition scans — 28 / 131
 
 `1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
 
-These are not unreviewed pages. Each has already been revisited against the controlling source and retains an explicitly documented exact-character / punctuation / dense-stage-direction / source-condition hold. Do not fill them from context merely to reach 131/131 verified.
+These records are now classified **`blocked`**. They are not unreviewed and are not pending ordinary residual review. Their exact unresolved loci are consolidated in `works/ore-mutham/TERMINAL_SOURCE_CONDITION_HOLDS.md` and remain traceable in the individual page records. Reopen only if genuinely stronger source evidence is introduced.
 
-## Residual-hold batches
+## Structural inventory
 
-### Batch 1
+### Main play
 
-Reviewed **1, 21, 23, 27–32, 34**. Promoted **23, 28–32, 34**. Scans **1, 21, 27** remain source-condition holds.
+- extent: scans **8–118 / pp.6–116**;
+- scene anchors: **30 / 30 verified structurally**;
+- scenes whose source range contains one or more terminal pages: **16 / 30** — scenes **6, 8, 11–14, 16–20, 23–26, 29**;
+- scenes with only verified page inputs: **14 / 30** — scenes **1–5, 7, 9–10, 15, 21–22, 27–28, 30**.
 
-Durable examples: `ஏழைகள்!`, `கடித்துத் தின்றுவிடுவார்`, `ஆனா`, `மிடுக்காகப் பேசினாலும்`, `மலர் வனத்தில் மாட்டு மந்தை நுழைந்தது`, scan-30 action direction, scan-31 anti-caste passage, `மாறுவதில்லை`, `நீ சென்றால் போதும்`.
+### Separate `நகைச் சுவைப் பகுதி.`
 
-### Batch 2
+- extent: scans **119–130 / pp.117–128**;
+- scene anchors: **3 / 3 verified structurally**;
+- supplementary scene 1: scans **119–124 / pp.117–122**, verified inputs only;
+- supplementary scene 2: scans **125–127 / pp.123–125**, verified inputs only;
+- supplementary scene 3: scans **128–130 / pp.126–128**, terminal pages **128, 130**;
+- never renumber these as main scenes 31–33.
 
-Reviewed **35–36, 38–39, 41–46**. Promoted **35, 36, 38, 39, 41, 42, 44, 45, 46**. Scan **43** remains open.
+Full ranges and locations: `works/ore-mutham/STRUCTURAL_INVENTORY.md`.
 
-Durable examples: `மன்னனைக்`, `புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`, `அநியாயமாவது அக்கிரமமாவது.`, `பாஷைகளே`, `அரும்பிலேயே`, `மரண தண்டனை அதற்குத்தீர்ப்பு.`, `உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்`.
+## Terminal hold policy
 
-### Batch 3
+The complete exact-locus inventory is `works/ore-mutham/TERMINAL_SOURCE_CONDITION_HOLDS.md`.
 
-Reviewed **47–52, 60–61, 65–66**. Promoted **49, 50, 66**. Scans **47, 48, 51, 52, 60, 61, 65** remain source-condition holds.
+Permanent rule:
 
-Durable examples: `மலரைக் காப்பாற்றினாய்`, complete scan-50 `வெளியில்` / `உள்ளே` structure, `ஹ ஹ ஹா!`, `சிங்கநாகன்`.
+- no source-held wording from context;
+- no OCR expectation;
+- no another-edition completion;
+- no spelling / grammar / punctuation / speaker-label / scene-heading normalization;
+- no global historical-glyph replacement;
+- a `blocked` record may be reopened only with genuinely stronger source evidence.
 
-### Batch 4
+## Residual-hold batches — durable history
 
-Reviewed **69, 72–74, 77–79, 88–90**. Promoted **78, 89**. Scans **69, 72–74, 77, 79, 88, 90** remain source-condition holds.
+- **Batch 1:** reviewed `1, 21, 23, 27–32, 34`; promoted **23, 28–32, 34**.
+- **Batch 2:** reviewed `35–36, 38–39, 41–46`; promoted **35, 36, 38, 39, 41, 42, 44, 45, 46**.
+- **Batch 3:** reviewed `47–52, 60–61, 65–66`; promoted **49, 50, 66**.
+- **Batch 4:** reviewed `69, 72–74, 77–79, 88–90`; promoted **78, 89**.
+- **Batch 5:** reviewed `92, 94–95, 98–100, 112–113, 117, 128, 130`; promoted **92, 117**.
 
-Durable examples: scan 78 `வெளிநாட்டுக்`; scan 89 `(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`.
-
-### Batch 5
-
-Reviewed **92, 94–95, 98–100, 112–113, 117, 128, 130** directly from the controlling source. Promoted **92, 117**.
-
-Durable findings:
-
-- scan 92 / p.90: earlier `வீரப் பயமுறுத்தல் கூட` remains authoritative; held sword direction closes as **`(விபீஷணன் வாளை உருவிப் பொன்னியின் மேல் வீசுந்தோரணையில் நின்றுகொண்டு)`**;
-- scan 117 / p.115: held scene-30 opening cluster closes as **`சித்ராவும்`**;
-- scans **94–95, 98–100, 112–113, 128, 130** remain explicit source-condition holds after re-audit.
-
-No residual batch uses semantic repair, OCR expectation, another edition, modern spelling, grammar expectation, or plot continuity to overwrite uncertain pixels.
+Durable later findings include scan 92 **`(விபீஷணன் வாளை உருவிப் பொன்னியின் மேல் வீசுந்தோரணையில் நின்றுகொண்டு)`** with earlier `வீரப் பயமுறுத்தல் கூட` retained, and scan 117 **`சித்ராவும்`** in the scene-30 opening cluster.
 
 ## Mandatory historical-glyph gate
 
@@ -100,22 +113,23 @@ Every candidate page receives:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-No global replacement. No spelling, grammar, punctuation, speaker-label or scene-heading normalization. Only whole-page verified pages may contribute to the secure same-edition glyph bank.
+Only whole-page `verified` pages may contribute new secure same-edition reference forms. Terminal `blocked` pages keep the family gate open at their unresolved locus.
 
-## Exact next activity — terminal source-condition classification + formal structural inventory
+## Exact next activity — Tamil scene assembly
 
 Do **not** begin English translation.
 
-The next iteration should:
+Follow `works/ore-mutham/SCENE_ASSEMBLY_PLAN.md`.
 
-1. classify the remaining **28** `needs-review` records as explicit current-source-condition holds, preserving the exact unresolved locus already recorded in each page file;
-2. verify the **30 main-play scene anchors** across scans **8–118** against the page map and page records;
-3. separately verify the **3 supplementary `நகைச் சுவைப் பகுதி.` scene anchors** across scans **119–130**;
-4. create/update a formal structural inventory and a scene-assembly plan with source scan ranges and page-status dependencies;
-5. do not silently renumber supplementary scenes 1–3 as main scenes 31–33;
-6. scene assembly may be planned from visually checked page records, but source-condition holds must remain explicitly traceable and no held wording may be invented;
-7. synchronize work/root READMEs, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md` after the inventory checkpoint;
-8. fetch final live `main` SHA.
+1. Create the scene layer in two separate namespaces: main scenes **1–30** and supplementary `நகைச் சுவைப் பகுதி.` scenes **1–3**.
+2. Start with verified-input scenes: main **1–5, 7, 9–10, 15, 21–22, 27–28, 30**, then supplementary **1–2**.
+3. Assemble only from canonical visually checked page records. Preserve all source wording, labels, stage directions, headings and punctuation.
+4. Preserve source scan/page provenance and documented physical continuation boundaries.
+5. For a later hold-bearing scene, set `assembled_from_verified_pages: false`, list all `source_condition_scans`, and retain every unresolved marker exactly. Do not invent held wording.
+6. Supplementary scenes remain source-numbered **1–3**, never 31–33.
+7. After the first assembly batch, run a page-to-scene consistency audit before widening to hold-bearing scenes.
+8. Synchronize work/root READMEs, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md` after each substantial assembly checkpoint.
+9. Fetch final live `main` SHA.
 
 # CLOSED WORK SAFEGUARDS
 
