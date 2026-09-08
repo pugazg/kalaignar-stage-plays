@@ -26,8 +26,8 @@ Read before further work:
 10. `works/ore-mutham/STRUCTURAL_INVENTORY.md`;
 11. `works/ore-mutham/SCENE_ASSEMBLY_PLAN.md`;
 12. `works/ore-mutham/SCENE_ASSEMBLY_AUDIT.md`;
-13. existing `works/ore-mutham/scenes/*.md`;
-14. relevant canonical `works/ore-mutham/pages/0001.md`–`0131.md`;
+13. `works/ore-mutham/scenes/*.md` as needed;
+14. canonical `works/ore-mutham/pages/0001.md`–`0131.md` as needed;
 15. supplied controlling PDF only when new source-dependent adjudication is attempted.
 
 ## Source identity
@@ -39,7 +39,7 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 - SHA-256: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**;
 - source PDF committed to repository: **no**.
 
-## Major checkpoint — source-secure Tamil scene batch COMPLETE / AUDIT PASS
+## Major checkpoint — FULL TAMIL SCENE ASSEMBLY COMPLETE / AUDIT PASS
 
 - raw source pass: **131 / 131 COMPLETE**;
 - physical-range closure audit: **131 / 131 COMPLETE**;
@@ -48,15 +48,16 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 - terminal current-source-condition / `blocked`: **28 / 131**;
 - ordinary `needs-review` remaining in terminal set: **0**;
 - historical-glyph PASS: **103 / 131**;
-- main play: **30 / 30 structural scene anchors verified**;
-- supplementary `நகைச் சுவைப் பகுதி.`: **3 / 3 anchors verified separately**;
+- main structural scene anchors: **30 / 30**;
+- supplementary `நகைச் சுவைப் பகுதி.` anchors: **3 / 3**;
 - terminal hold inventory: **COMPLETE**;
 - scene-boundary audit: **COMPLETE**;
 - boundary-aware structural inventory: **COMPLETE**;
-- scene-assembly plan: **ACTIVE — HOLD-BEARING PHASE NEXT**;
-- main scenes assembled / page-record-audited: **13 / 30**;
-- supplementary scenes assembled / page-record-audited: **2 / 3**;
-- current source-secure scene audit: **15 / 15 PASS**;
+- main Tamil scene files assembled: **30 / 30**;
+- supplementary Tamil scene files assembled: **3 / 3**;
+- complete Tamil scene layer: **33 / 33**;
+- full page-to-scene consistency audit: **33 / 33 PASS**;
+- Tamil work-level pre-release / closure gate: **NEXT**;
 - English translation: **not authorized / not started**.
 
 ### Verified scans — 103 / 131
@@ -67,67 +68,40 @@ Controlling PDF: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`
 
 `1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
 
-These records are `blocked`, not unreviewed. Exact unresolved loci remain in the page files and `TERMINAL_SOURCE_CONDITION_HOLDS.md`. Reopen only with genuinely stronger source evidence.
+These are **terminal current-source-condition holds**, not unreviewed pages. Exact unresolved loci remain in page files and `TERMINAL_SOURCE_CONDITION_HOLDS.md`. Reopen only with genuinely stronger source evidence.
 
 ## Boundary-aware permanent rule
 
-Many physical pages contain both the end of one scene and the heading/opening of the next. A transition scan may therefore contribute source text to **both adjacent scene files**. Hold ownership is segment-level: a globally blocked page does not make the preceding scene text unresolved when the held locus occurs only after the next-scene anchor.
+A physical transition page may contain both the end of one scene and the heading/opening of the next. Therefore a transition scan may contribute source text to **both adjacent scene files**. Hold ownership is segment-level.
 
-Durable examples:
+Durable consequences:
 
-- main Scene 1 uses scans **8–9**; scan 9 also opens Scene 2;
-- Scene 2 uses **9–11**; scan 11 also opens Scene 3;
-- Scene 3 uses **11–15**; scan 15 also opens Scene 4;
-- Scene 4 uses **15–19**; scan 19 also opens Scene 5;
-- Scene 7 requires scan **27**, and Scene-7 wording itself is held there;
-- main Scene 28 closes on the secure pre-Scene-29 segment of globally blocked scan **112**;
-- supplementary Scene 2 closes on the secure pre-Scene-3 segment of globally blocked scan **128**.
+- Scene 7 genuinely carries a Scene-7 hold on scan 27;
+- Scene 18 does not inherit scan 72's later Scene-19 hold;
+- Scene 23 does not inherit scan 94's later Scene-24 hold;
+- main Scene 28 uses only the secure pre-Scene-29 part of globally blocked scan 112;
+- supplementary Scene 2 uses only the secure pre-Scene-3 part of globally blocked scan 128.
 
-## Current scene layer
+## Final scene classes
 
-### Main — 13 / 30 assembled and audited
+### Fully verified-input scenes — 13
 
-1. `scenes/main-01.md` — scans **8–9 / pp.6–7**;
-2. `scenes/main-02.md` — scans **9–11 / pp.7–9**;
-3. `scenes/main-03.md` — scans **11–15 / pp.9–13**;
-4. `scenes/main-04.md` — scans **15–19 / pp.13–17**;
-5. `scenes/main-05.md` — scans **19–20 / pp.17–18**;
-6. `scenes/main-09.md` — scans **32–37 / pp.30–35**;
-7. `scenes/main-10.md` — scans **37–40 / pp.35–38**;
-8. `scenes/main-15.md` — scans **53–59 / pp.51–57**;
-9. `scenes/main-21.md` — scans **80–85 / pp.78–83**;
-10. `scenes/main-22.md` — scans **85–87 / pp.83–85**;
-11. `scenes/main-27.md` — scans **104–105 / pp.102–103**;
-12. `scenes/main-28.md` — scans **106–112 / pp.104–110**, source-secure boundary case;
-13. `scenes/main-30.md` — scans **117–118 / pp.115–116**.
+Main: **1–5, 9–10, 15, 21–22, 27, 30**.
 
-### Supplementary — 2 / 3 assembled and audited
+Supplementary: **Scene 1**.
 
-1. `scenes/nagai-suvai-01.md` — scans **119–125 / pp.117–123**;
-2. `scenes/nagai-suvai-02.md` — scans **125–128 / pp.123–126**, source-secure boundary case.
+These are `assembly-reviewed`, `assembled_from_verified_pages: true`, `page_record_fidelity: "passed"`, `source_condition_scans: []`.
 
-`SCENE_ASSEMBLY_AUDIT.md` records **PASS — 15 / 15 assembled source-secure scenes page-record-consistent**.
+### Source-secure shared-boundary scenes — 2
 
-For the 13 scenes built entirely from globally verified page records:
+- main Scene **28**;
+- supplementary Scene **2**.
 
-- `status: "assembly-reviewed"`;
-- `assembled_from_verified_pages: true`;
-- `page_record_fidelity: "passed"`;
-- `source_condition_scans: []`.
+These are `assembly-reviewed`, `assembled_from_verified_pages: false`, `page_record_fidelity: "passed"`, `source_condition_scans: []`, with explicit provenance that the blocked locus belongs only to the following scene.
 
-For main Scene 28 and supplementary Scene 2:
+### Hold-bearing scenes — 18
 
-- `status: "assembly-reviewed"`;
-- `assembled_from_verified_pages: false`;
-- `page_record_fidelity: "passed"`;
-- `source_condition_scans: []`;
-- provenance explicitly states that the contributing blocked transition page is blocked only for later-scene text.
-
-No assembled source-secure scene imports a terminal held locus. No OCR, contextual repair, modernization or another-edition wording was introduced.
-
-## Remaining hold-bearing scene layer
-
-Main: **17 scenes** — **6–8, 11–14, 16–20, 23–26, 29**.
+Main: **6–8, 11–14, 16–20, 23–26, 29**.
 
 Supplementary: **Scene 3**.
 
@@ -152,6 +126,21 @@ Scene-relevant terminal dependencies:
 - 29 `[112, 113]`;
 - supplementary 3 `[128, 130]`.
 
+These use `status: "assembly-held"`, `assembled_from_verified_pages: false`, and `page_record_fidelity: "passed-with-terminal-source-hold"` or plural. Explicit source-held markers and canonical provisional blocked-page wording are preserved. Assembly fidelity PASS does not resolve the underlying source condition.
+
+## Full assembly audit result
+
+`works/ore-mutham/SCENE_ASSEMBLY_AUDIT.md` is the durable audit authority:
+
+- assembled scene files: **33 / 33**;
+- page-record consistency: **PASS 33 / 33**;
+- source-secure scene files: **15**;
+- hold-bearing scene files: **18**;
+- terminal loci repaired from context: **0**;
+- source wording normalized: **0**;
+- unresolved wording invented: **0**;
+- OCR / plot / another-edition completion: **0**.
+
 ## Terminal hold policy
 
 Permanent rule:
@@ -161,14 +150,7 @@ Permanent rule:
 - no another-edition completion;
 - no spelling / grammar / punctuation / speaker-label / scene-heading normalization;
 - no global historical-glyph replacement;
-- a `blocked` record may be reopened only with genuinely stronger source evidence;
-- when assembling a hold-bearing scene, preserve the canonical `[source-held: ...]` / equivalent marker exactly.
-
-For every hold-bearing scene use:
-
-- `assembled_from_verified_pages: false`;
-- `source_condition_scans: [...]` listing every scene-relevant held scan;
-- non-release-final status until archival release policy explicitly accepts the terminal hold or stronger evidence resolves it.
+- a `blocked` record may be reopened only with genuinely stronger source evidence.
 
 ## Durable source findings
 
@@ -197,22 +179,16 @@ Keep all page-level corrections authoritative, especially:
 
 Only whole-page `verified` pages may contribute new secure same-edition reference forms. Terminal `blocked` pages keep the family gate open at their unresolved locus.
 
-## Exact next activity — hold-bearing Tamil scene assembly
+## Exact next activity — Tamil pre-release / work-level closure gate
 
 Do **not** begin English translation.
 
-Follow `works/ore-mutham/SCENE_ASSEMBLY_PLAN.md`.
-
-1. Assemble main scenes **6–8**.
-2. Assemble main scenes **11–14**.
-3. Assemble main scenes **16–20**.
-4. Assemble main scenes **23–26**.
-5. Assemble main Scene **29**.
-6. Assemble supplementary `நகைச் சுவைப் பகுதி.` **Scene 3**.
-7. For every scene preserve exact terminal markers, use `assembled_from_verified_pages: false`, and list every scene-relevant `source_condition_scans` value.
-8. Run a second page-to-scene consistency audit after the hold-bearing batch.
-9. Synchronize work/root READMEs, this `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md` at the next substantial checkpoint.
-10. Fetch final live `main` SHA.
+1. Verify the scene-file inventory is exactly main `01–30` plus supplementary `01–03`, with no duplicate/missing files or numbering leakage.
+2. Verify all **28** terminal physical-page holds remain traceable at page level and all scene-relevant holds remain traceable in the scene layer.
+3. Reconcile stale secondary index/status labels — especially legacy `needs-review` entries in `indexes/page-map.md` — to the terminal `blocked` classification, without changing canonical page text or pretending the holds are resolved.
+4. Run/document the Tamil work-level release/closure decision under the repository's terminal-source-condition policy.
+5. Synchronize work/root READMEs, this handover and `NEXT_CHAT_PROMPT.md` with the closure result.
+6. Fetch final live `main` SHA.
 
 # CLOSED WORK SAFEGUARDS
 
