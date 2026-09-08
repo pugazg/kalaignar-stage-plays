@@ -24,7 +24,7 @@ Read before further English work:
 8. `works/ore-mutham/TRANSLATION_PLAN.md`
 9. `works/ore-mutham/translations/en/README.md`
 10. completed English `BATCH_*.md` reviews
-11. closed Tamil scene files for the active batch
+11. closed Tamil scene files for the active iteration
 12. existing English scene files when terminology consistency matters
 
 The controlling PDF / page records are not translation drafting authority. Use them only if a genuinely new Tamil source question is separately reopened with stronger evidence.
@@ -64,69 +64,65 @@ Expected English artifact set:
 - supplementary `translations/en/nagai-suvai-01.md` through `nagai-suvai-03.md`;
 - total **33**.
 
-### Batches 1–3 — PASS / LOCKED
+### Batches 1–5 — PASS / LOCKED
 
 Completed / reviewed:
 
-- `main-01.md` through `main-15.md`.
+- main `main-01.md` through `main-25.md`.
 
 Reviews:
 
-- `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
-- `translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- `translations/en/BATCH_03_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
+- `BATCH_01_REVIEW.md` — **PASS / LOCKED**;
+- `BATCH_02_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- `BATCH_03_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- `BATCH_04_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- `BATCH_05_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
 
 Progress:
 
-- English scenes present: **15 / 33**;
-- English scenes reviewed: **15 / 33**;
-- completed batches: **3 / 7**;
-- source-hold-bearing English scenes completed: **7 / 18** — main **6–8, 11–14**;
+- English scenes present: **25 / 33**;
+- English scenes reviewed: **25 / 33**;
+- completed batches: **5 / 7**;
+- source-hold-bearing English scenes completed: **15 / 18**;
 - Tamil source holds resolved by English translation: **0**;
 - unresolved blocking English issues: **0**;
 - secondary-English contamination: **0**.
 
-## Stable terminology after Batch 3
+## User-directed iteration policy
 
-Use consistently unless a later batch review explicitly documents a justified global refinement:
+User directive: **process 10 scenes in each iteration**.
 
-- Puthan, Mahaveerar, Yaaliththathar, Kumari, Ramela, Vibhishanan, Imaya;
-- Ponni, Malayan, Chithra, Madhavan, Singanagan, Ellappan;
-- Inbapuri, Mullaikadu, Poonthottam, Pavalamalai;
-- `Lightning` for Kumari's undercover alias `மின்னல்`;
-- recurring `மது, மங்கை` → `wine and women`;
-- *thali*, *kalakshepam*, *tandava* where the source-specific term itself matters;
-- `chandala` where the historically specific source insult itself matters;
-- *machan* when the exact Tamil kinship sense should remain non-narrowed;
-- `paraak` for the court/herald announcement form;
-- `Maharani` where the source title itself is used;
-- reviewed mythic forms include Ahalya, Nalayini, Savitri, Kumbakarna, Duryodhana and Draupadi.
+Keep the established five-scene batch-review files. Where ten scenes exist, complete two review batches in the same iteration.
+
+The previous iteration processed **10 scenes / main 16–25** through Batches 4–5.
+
+Only **8 scenes remain**, so process all eight as the final remainder iteration.
 
 ## Terminal-source-hold English rule
 
-Hold-bearing Tamil scenes must preserve source uncertainty in English.
-
 - translate secure Tamil wording only;
 - do not infer exact wording at `[source-held: ...]` / equivalent loci;
-- carry the locus as an explicit `Source-held` bracket in the English dramatic body;
+- carry every held locus as an explicit `Source-held` bracket or equally transparent source-hold note in the English dramatic body;
 - carry the same scene-relevant blocked scans in English front matter / notes;
-- use `status: "translation-reviewed-with-source-holds"` and `translation_review: "passed-with-source-holds"` when secure content passes review;
-- an English review PASS with source holds does **not** resolve the Tamil source hold.
+- use `translation-reviewed-with-source-holds` / `passed-with-source-holds` when secure content passes review;
+- an English PASS with source holds does **not** resolve the Tamil source hold.
 
-## Exact next activity — English Batch 4 / main Scenes 16–20
+## Exact next activity — FINAL REMAINDER / all 8 scenes
 
-Proceed in one batch:
+Proceed in one iteration:
 
-1. Read closed Tamil `scenes/main-16.md` through `main-20.md` completely.
-2. Translate main Scene **16** — terminal dependencies `[60, 61]`.
-3. Translate main Scene **17** — terminal dependency `[65]`.
-4. Translate main Scene **18** — terminal dependency `[69]`.
-5. Translate main Scene **19** — terminal dependencies `[72, 73, 74]`.
-6. Translate main Scene **20** — terminal dependencies `[77, 79]`.
-7. Preserve all terminal source-hold markers transparently; do not repair them from plot context, OCR, grammar, mythic familiarity or another edition.
-8. Preserve established naming/terminology unless Batch-4 review documents a justified global refinement.
-9. Create `translations/en/BATCH_04_REVIEW.md` and review every Tamil speaker turn, stage direction, naming choice and source-hold locus.
-10. If PASS, lock Batch 4 and synchronize `TRANSLATION_PLAN.md`, English README, work/root READMEs, `HANDOVER.md`, and this prompt.
-11. Fetch final live `main` SHA.
+1. Read closed Tamil main Scenes **26–30** and supplementary `நகைச் சுவைப் பகுதி.` Scenes **1–3** completely.
+2. Translate main Scene **26** — terminal dependency `[100]`.
+3. Translate source-secure main Scenes **27–28**.
+4. Translate main Scene **29** — terminal dependencies `[112, 113]`.
+5. Translate source-secure main Scene **30**.
+6. Translate source-secure supplementary Scenes **1–2**.
+7. Translate supplementary Scene **3** — terminal dependencies `[128, 130]`.
+8. Preserve all terminal source-hold markers transparently; do not repair them from plot context, OCR, grammar or another edition.
+9. Run `translations/en/BATCH_06_REVIEW.md` for main Scenes **26–30**.
+10. Run `translations/en/BATCH_07_REVIEW.md` for supplementary Scenes **1–3**.
+11. If both PASS, run final `translations/en/TRANSLATION_REVIEW.md` across all **33 / 33** English artifacts.
+12. Synchronize `TRANSLATION_PLAN.md`, English README, work/root READMEs, `HANDOVER.md`, and this prompt.
+13. Fetch final live `main` SHA.
 
 Do not reopen Tamil source work.
