@@ -4,7 +4,7 @@ Archive slug: `iratha-kanneer`.
 
 ## Current status
 
-**ACTIVE — P0 SOURCE INTAKE PASS; SCANS 1–30 / 30 OF 188 CANONICAL + INITIAL-VERIFIED + H-GATE PASS + FINAL `verified`; BATCHES 01–03 PASS; NEXT SCANS 31–40.**
+**ACTIVE — P0 SOURCE INTAKE PASS; SCANS 1–40 / 40 OF 188 CANONICAL + INITIAL-VERIFIED + H-GATE PASS + FINAL `verified`; BATCHES 01–04 PASS; NEXT SCANS 41–50.**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -42,36 +42,42 @@ Source pixels control. No OCR authority, global replacement, lexical modernizati
 ## Completed page batches
 
 - `BATCH_01_REVIEW.md` — **PASS / scans 1–10**; retrospective scan-9 `னா` correction re-audited and closed.
-- `BATCH_02_REVIEW.md` — **PASS / scans 11–20**; five historical-glyph corrections.
-- `BATCH_03_REVIEW.md` — **PASS / scans 21–30**; two historical-glyph corrections.
+- `BATCH_02_REVIEW.md` — **PASS / scans 11–20**.
+- `BATCH_03_REVIEW.md` — **PASS / scans 21–30**.
+- `BATCH_04_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 31–40**.
 
-Historical-glyph corrections recorded through scan 30: **8 total**.
+Historical-glyph corrections recorded through scan 40: **10 total**.
 
-Batch 03 corrections:
+Latest Batch-04 corrections:
 
-- scan 21 `சரிதானு?` → **`சரிதானா?`** (`னா`);
-- scan 29 `பெண்ணு பெற்று வைத்திருக்கிறாய்` → **`பெண்ணை பெற்று வைத்திருக்கிறாய்`** (`ணை`), confirmed from same-edition glyph evidence rather than grammar.
+- scan 31 `யானே போல்` → **`யானை போல்`** (`னை`);
+- scan 40 `நானு?` → **`நானா?`** (`னா`).
 
-## Verified structural evidence through scan 30
+Both were established from enlarged source pixels and same-edition historical family evidence rather than grammar.
 
-- Scene 1 closes scan 13;
-- Scene 2 spans scans 14–18;
-- Scene 3 spans scans 19–21;
-- Scene 4 spans scans 22–25;
-- Scene 5 spans scans 26–29;
-- Scene 6 begins and closes on scan 30.
+## Verified structural evidence through scan 40
+
+- Scene 1: scans 8–13;
+- Scene 2: scans 14–18;
+- Scene 3: scans 19–21;
+- Scene 4: scans 22–25;
+- Scene 5: scans 26–29;
+- Scene 6: scan 30 only;
+- Scene 7: scans 31–33;
+- Scene 8: scans 34–39;
+- Scene 9: begins scan 40 and continues.
 
 This is page-level structural evidence only; no final work-level scene inventory is declared yet.
 
 ## Current progress
 
 - P0 source intake — **PASS**;
-- canonical page records — **30 / 188**;
-- initial visual verification — **30 / 188**;
-- historical-glyph H-GATE — **30 / 188**;
-- final verified pages — **30 / 188**;
-- contiguous verified range — **scans 1–30**;
-- historical-glyph corrections — **8 total**;
+- canonical page records — **40 / 188**;
+- initial visual verification — **40 / 188**;
+- historical-glyph H-GATE — **40 / 188**;
+- final verified pages — **40 / 188**;
+- contiguous verified range — **scans 1–40**;
+- historical-glyph corrections — **10 total**;
 - unresolved page-level source issues — **0**;
 - `needs-review` — **0**;
 - `blocked` — **0**;
@@ -80,6 +86,6 @@ This is page-level structural evidence only; no final work-level scene inventory
 
 ## Exact next activity
 
-Process **scans 31–40** using the same source-first order, then create `BATCH_04_REVIEW.md` and synchronize page map, glyph audit and checkpoint documents.
+Process **scans 41–50** using the same source-first order, then create `BATCH_05_REVIEW.md` and synchronize page map, glyph audit and checkpoint documents.
 
 Do not begin scene assembly or English translation merely because a page batch completes.
