@@ -1,6 +1,6 @@
 # ஒரே முத்தம் — English translation plan
 
-Status: **ACTIVE — BATCH 2 PASS / LOCKED; 10 / 33 ENGLISH SCENES REVIEWED**
+Status: **ACTIVE — BATCH 3 PASS / LOCKED; 15 / 33 ENGLISH SCENES REVIEWED**
 
 The Tamil archival layer is closed for current source evidence. English translation is a separate derivative layer and must not reopen, normalize or overwrite that Tamil closure.
 
@@ -45,7 +45,7 @@ The English should be readable dramatic English, but it is a source-faithful arc
 
 ## 4. Stable naming / terminology baseline
 
-Locked after Batches 1–2 unless a later review documents a justified global refinement:
+Locked after Batches 1–3 unless a later review documents a justified global refinement:
 
 - `புத்தன்` → `Puthan`;
 - `மகாவீரர்` → `Mahaveerar`;
@@ -64,12 +64,17 @@ Locked after Batches 1–2 unless a later review documents a justified global re
 - `முல்லைக்காடு` → `Mullaikadu`;
 - `பூந்தோட்டம்` → `Poonthottam`;
 - `பவளமலை` → `Pavalamalai`;
-- `மின்னல்` → `Lightning` when used as Kumari's undercover alias, preserving the lightning/thunder wordplay;
+- `மின்னல்` → `Lightning` when used as Kumari's undercover alias;
 - recurring `மது, மங்கை` → `wine and women` in matching contexts;
 - `தாலி` → *thali* where the marriage pendant itself is meant;
 - `காலக்ஷேபம்` → *kalakshepam* where the religious storytelling performance form is meant;
 - `தாண்டவம்` → *tandava* where the source-specific dance image itself matters;
-- `சண்டாளன்` → `chandala` where the historically specific insult itself matters.
+- `சண்டாளன்` → `chandala` where the historically specific insult itself matters;
+- `மச்சான்` → *machan* when the exact kinship sense should remain non-narrowed;
+- `பராக்` → `paraak` where the court/herald announcement form itself matters;
+- source `மகாராணி` → `Maharani` where used as a title.
+
+Mythic names already stabilized in reviewed English include Ahalya, Nalayini, Savitri, Kumbakarna, Duryodhana and Draupadi.
 
 These choices may be refined only through explicit translation review; refinements must remain consistent across already reviewed English artifacts.
 
@@ -112,12 +117,10 @@ source_condition_scans: [<same scene-relevant terminal scans>]
 
 ## 7. Batch plan
 
-Use scene-order batches:
-
 1. **Batch 1:** main Scenes **1–5** — **PASS / LOCKED**;
 2. **Batch 2:** main Scenes **6–10** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-3. **Batch 3:** main Scenes **11–15** — **NEXT**;
-4. **Batch 4:** main Scenes **16–20**;
+3. **Batch 3:** main Scenes **11–15** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+4. **Batch 4:** main Scenes **16–20** — **NEXT**;
 5. **Batch 5:** main Scenes **21–25**;
 6. **Batch 6:** main Scenes **26–30**;
 7. **Batch 7:** supplementary `நகைச் சுவைப் பகுதி.` Scenes **1–3**.
@@ -128,15 +131,28 @@ After all seven batches, run `translations/en/TRANSLATION_REVIEW.md` as the fina
 
 ## 8. Current checkpoint
 
-Completed / reviewed English scene artifacts: **10 / 33**.
+Completed / reviewed English scene artifacts: **15 / 33**.
 
 - Batch 1: main **1–5** — **PASS / LOCKED**;
 - Batch 2: main **6–10** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- hold-bearing English scenes completed so far: **3 / 18** — main **6–8**;
+- Batch 3: main **11–15** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- hold-bearing English scenes completed so far: **7 / 18** — main **6–8, 11–14**;
 - Tamil terminal holds resolved by English translation: **0**;
 - secondary-English contamination: **0**;
 - unresolved blocking English issues: **0**.
 
-`translations/en/BATCH_01_REVIEW.md` and `translations/en/BATCH_02_REVIEW.md` are the current batch-review authorities.
+Current batch-review authorities:
 
-Exact next activity: translate and review **Batch 3 — main Scenes 11–15** from the closed Tamil scene files only. Scenes **11–14** are hold-bearing and must retain all scene-relevant Tamil source holds transparently; Scene **15** is source-secure. Do not alter Tamil source artifacts.
+- `translations/en/BATCH_01_REVIEW.md`;
+- `translations/en/BATCH_02_REVIEW.md`;
+- `translations/en/BATCH_03_REVIEW.md`.
+
+Exact next activity: translate and review **Batch 4 — main Scenes 16–20** from the closed Tamil scene files only. All five are hold-bearing and must retain their scene-relevant Tamil source holds transparently:
+
+- Scene 16 → `[60, 61]`;
+- Scene 17 → `[65]`;
+- Scene 18 → `[69]`;
+- Scene 19 → `[72, 73, 74]`;
+- Scene 20 → `[77, 79]`.
+
+Do not alter Tamil source artifacts.
