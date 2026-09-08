@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **ACTIVE — P0 SOURCE INTAKE PASS; raw PDF 188/188 physical scans confirmed; Tamil page transcription next; mandatory post-initial-verification historical-glyph gate before final `verified`** |
+| [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **ACTIVE — P0 PASS; scans 1–20 / 20 of 188 canonical + initial-verified + H-GATE PASS + final `verified`; 6 historical-glyph corrections recorded; next scans 21–30** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
@@ -21,7 +21,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 ## Repository-wide historical Tamil glyph gate
 
-Historical-type sources now use two explicit repository authorities:
+Historical-type sources use two explicit repository authorities:
 
 - [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) — character-identity / source-first decoding guide;
 - [`HISTORICAL_TAMIL_GLYPH_GATE.md`](HISTORICAL_TAMIL_GLYPH_GATE.md) — mandatory post-initial-verification gate.
@@ -36,7 +36,7 @@ Initial visual verification alone does not permit final `verified`. While H-GATE
 
 No global replacement and no spelling modernization are permitted.
 
-## இரத்தக் கண்ணீர் — active intake checkpoint
+## இரத்தக் கண்ணீர் — active page-layer checkpoint
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -53,14 +53,32 @@ The conversation preview exposes only 150 page images; direct raw-PDF inspection
 Current durable state:
 
 - P0 source intake: **PASS**;
-- canonical page records: **0 / 188**;
-- initial visual verification: **0 / 188**;
-- historical-glyph H-GATE: **0 / 188**;
-- final verified pages: **0 / 188**;
+- canonical page records: **20 / 188**;
+- initial visual verification: **20 / 188**;
+- historical-glyph H-GATE: **20 / 188**;
+- final verified pages: **20 / 188**;
+- contiguous final-verified range: **scans 1–20**;
+- historical-glyph corrections recorded: **6**;
+- unresolved page-level source issues: **0**;
 - scene assembly: **not started / blocked on page layer**;
 - English translation: **not authorized / not started**.
 
-Exact next activity: process **scans 1–10** through transcription → initial verification → H-GATE → final verification where clean.
+Batch authorities:
+
+- `works/iratha-kanneer/BATCH_01_REVIEW.md` — PASS, including retrospective scan-9 `னா` correction and re-pass;
+- `works/iratha-kanneer/BATCH_02_REVIEW.md` — PASS / COMPLETE, scans 11–20.
+
+Historical-glyph corrections currently recorded:
+
+- scan 9 `வயதுடையவனு அல்லது கிழவனு` → `வயதுடையவனா அல்லது கிழவனா` (`னா`);
+- scan 11 `அஞ்சல் மண்ணில்` → `அஞ்சல் மனையில்` (`னை`);
+- scans 12 and 16 `அஞ்சல் மண்` → `அஞ்சல் மனை` (`னை`);
+- scan 17 `மருத்துவக் கிழவனூர்` → `மருத்துவக் கிழவனார்` (`னா`);
+- scan 18 `ஏன் வந்தேனு?` → `ஏன் வந்தேனா?` (`னா`).
+
+Verified page evidence currently establishes Scene 1 close on scan 13, Scene 2 on scans 14–18, and Scene 3 beginning on scan 19. This is not yet a final whole-work scene inventory.
+
+Exact next activity: process **scans 21–30** through transcription → initial verification → H-GATE → final verification where clean.
 
 ## ஒரே முத்தம் — Tamil closure checkpoint
 
