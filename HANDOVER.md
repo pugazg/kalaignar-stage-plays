@@ -13,7 +13,7 @@ Historical-type authority for the active work:
 1. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
 2. `HISTORICAL_TAMIL_GLYPH_GATE.md`.
 
-# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் ACTIVE / P0 SOURCE INTAKE PASS
+# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் ACTIVE / SCANS 1–20 VERIFIED
 
 Active work path: `works/iratha-kanneer/`.
 
@@ -23,11 +23,16 @@ Current durable state:
 
 - P0 source intake: **PASS**;
 - raw physical range: **188 / 188 scans confirmed**;
-- canonical page transcription: **0 / 188**;
-- initial visual verification: **0 / 188**;
-- historical-glyph H-GATE: **0 / 188**;
-- final verified pages: **0 / 188**;
-- structural / scene assembly: **not started**;
+- canonical page transcription: **20 / 188**;
+- initial visual verification: **20 / 188**;
+- historical-glyph H-GATE: **20 / 188**;
+- final verified pages: **20 / 188**;
+- contiguous final-verified range: **scans 1–20**;
+- Batch 01: **PASS / COMPLETE**, including retrospective scan-9 correction/re-pass;
+- Batch 02: **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**;
+- historical-glyph corrections recorded: **6**;
+- unresolved page-level source issues: **0**;
+- structural / scene assembly: **not started / blocked on page layer**;
 - English translation: **not authorized / not started**.
 
 The conversation file preview exposes only **150** page images. Direct raw-PDF inspection established **188 physical scans**. The raw PDF count controls; never stop at preview page 150.
@@ -45,7 +50,9 @@ Read completely:
 7. `works/iratha-kanneer/metadata/source.md`;
 8. `works/iratha-kanneer/indexes/page-map.md`;
 9. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`;
-10. relevant `works/iratha-kanneer/pages/NNNN.md` records once they exist.
+10. `works/iratha-kanneer/BATCH_01_REVIEW.md`;
+11. `works/iratha-kanneer/BATCH_02_REVIEW.md`;
+12. relevant page records.
 
 Resolve / attach the controlling PDF before source-dependent page work. Do not substitute OCR, web text, later editions or memory for source pixels.
 
@@ -70,51 +77,35 @@ Internal front-matter dates are separately preserved:
 
 Do not promote the 1948 internal date over the source-visible 1953 first-edition statement.
 
-## Intake structure — not yet a final structural audit
+## Verified structural evidence through scan 20
 
-Source-visible intake findings:
+- scan 8 — Scene 1 begins: `காட்சி 1]` / `[பழுதூர்`;
+- scan 13 — Scene 1 closes with centred star;
+- scan 14 — Scene 2 begins: `காட்சி—2]` / `[பழுதூர் மடாலயம்`;
+- scan 18 — Scene 2 closes with centred star;
+- scan 19 — Scene 3 begins: `காட்சி 3]` / `[பழுதூரின் தெரு`;
+- scan 20 — Scene 3 continues.
 
-- scan 1 — illustrated front cover;
-- scan 2 — title / author / publisher page;
-- scan 3 — `முதல் பதிப்பு—1953`, rights / price / printer-imprint page;
-- scan 4 — `பதிப்புரை`;
-- scan 5 — `முன்னுரை`;
-- scans 6–7 — `நுழைவாய்`;
-- scan 8 — `இரத்தக் கண்ணீர் [நாடகம்]`, `காட்சி 1]`;
-- scan 180 — intake spot check `காட்சி 59]`;
-- scan 183 — intake spot check `காட்சி 60]`;
-- scan 184 — intake spot check `காட்சி 61]`;
-- scan 186 — source-visible `முடிவு` / closing prose;
+Late intake spot checks remain:
+
+- scan 180 — `காட்சி 59]`;
+- scan 183 — `காட்சி 60]`;
+- scan 184 — `காட்சி 61]`;
+- scan 186 — `முடிவு` / closing prose;
 - scan 187 — publisher catalogue advertisement;
 - scan 188 — back wrapper / `திராவிடப் பண்ணை` device.
 
-Do **not** declare a final 61-scene inventory from these spot checks. Page transcription / verification precedes scene-boundary closure.
+Do **not** declare a final whole-work scene inventory yet. Page transcription / verification precedes scene-boundary closure.
 
 # Mandatory post-initial-verification historical-glyph gate
 
 The user explicitly directed that historical Tamil glyph checking occur **after initial verification**.
 
-For this work the page pipeline is therefore:
+Required page pipeline:
 
-**P1 canonical transcription → P2 initial visual verification → H-GATE historical Tamil glyph audit → final page verification.**
+**canonical transcription → initial visual verification → H-GATE historical Tamil glyph audit → final page verification.**
 
 Initial verification alone is not final `verified`.
-
-After initial visual verification while H-GATE is pending:
-
-```yaml
-status: "needs-review"
-initial_verification: "passed"
-historical_glyph_gate: "pending"
-```
-
-Only after H-GATE PASS, and if no other source issue remains:
-
-```yaml
-status: "verified"
-initial_verification: "passed"
-historical_glyph_gate: "passed"
-```
 
 Mandatory minimum family set:
 
@@ -132,21 +123,33 @@ Permanent rules:
 - `blocked` only after source-condition escalation is exhausted;
 - historical-glyph corrections are logged separately from ordinary transcription corrections.
 
-Work-level tracker: `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`.
+## Historical-glyph correction record through scan 20
 
-## Exact next activity — scans 1–10
+Six corrections are durably recorded:
 
-Process the first ten physical scans in one source-first batch:
+1. scan 9: `வயதுடையவனு அல்லது கிழவனு` → `வயதுடையவனா அல்லது கிழவனா` (`னா`), retrospectively reopened and re-passed after user correction;
+2. scan 11: `அஞ்சல் மண்ணில்` → `அஞ்சல் மனையில்` (`னை`);
+3. scan 12: `அஞ்சல் மண்` → `அஞ்சல் மனை` (`னை`);
+4. scan 16: `அஞ்சல் மண்` → `அஞ்சல் மனை` (`னை`);
+5. scan 17: `மருத்துவக் கிழவனூர்` → `மருத்துவக் கிழவனார்` (`னா`);
+6. scan 18: `ஏன் வந்தேனு?` → `ஏன் வந்தேனா?` (`னா`).
 
-1. create `pages/0001.md` through `pages/0010.md`;
-2. transcribe / describe every page, including cover and front matter;
-3. perform initial visual verification against source pixels;
-4. after initial verification, run H-GATE on every applicable Tamil page;
-5. promote only H-GATE-passed clean pages to final `verified`;
-6. leave unresolved pages `needs-review` / `blocked` as supported;
-7. expand/reconcile `indexes/page-map.md`;
-8. update `HISTORICAL_GLYPH_AUDIT.md`, work README, this handover and `NEXT_CHAT_PROMPT.md`;
-9. fetch final live `main` SHA.
+These are character-identity corrections only. They do not authorize lexical, grammatical, spelling or punctuation modernization elsewhere.
+
+## Exact next activity — scans 21–30
+
+Process physical scans **21–30** as Batch 03:
+
+1. create `works/iratha-kanneer/pages/0021.md` through `0030.md`;
+2. transcribe each scan directly from source pixels;
+3. perform initial visual verification;
+4. after initial verification, run H-GATE on the full minimum family set;
+5. promote only clean H-GATE-passed pages to final `verified`;
+6. leave unresolved pages `needs-review` / `blocked` only as source evidence supports;
+7. record every historical-glyph correction with scan, apparent reading, source-supported reading and family;
+8. create `works/iratha-kanneer/BATCH_03_REVIEW.md` only after the batch gate is complete;
+9. update page map, glyph audit, work/root README, this handover and `NEXT_CHAT_PROMPT.md`;
+10. fetch final live `main` SHA.
 
 Do not begin scene assembly or English translation merely because a page batch completes.
 
