@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **ACTIVE — P0 PASS; scans 1–30 / 30 of 188 canonical + initial-verified + H-GATE PASS + final `verified`; 8 historical-glyph corrections recorded; next scans 31–40** |
+| [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **ACTIVE — P0 PASS; scans 1–40 / 40 of 188 canonical + initial-verified + H-GATE PASS + final `verified`; 10 historical-glyph corrections recorded; next scans 41–50** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
@@ -53,12 +53,12 @@ The conversation preview exposes only 150 page images; direct raw-PDF inspection
 Current durable state:
 
 - P0 source intake: **PASS**;
-- canonical page records: **30 / 188**;
-- initial visual verification: **30 / 188**;
-- historical-glyph H-GATE: **30 / 188**;
-- final verified pages: **30 / 188**;
-- contiguous final-verified range: **scans 1–30**;
-- historical-glyph corrections recorded: **8**;
+- canonical page records: **40 / 188**;
+- initial visual verification: **40 / 188**;
+- historical-glyph H-GATE: **40 / 188**;
+- final verified pages: **40 / 188**;
+- contiguous final-verified range: **scans 1–40**;
+- historical-glyph corrections recorded: **10**;
 - unresolved page-level source issues: **0**;
 - scene assembly: **not started / blocked on page layer**;
 - English translation: **not authorized / not started**.
@@ -67,13 +67,17 @@ Batch authorities:
 
 - `works/iratha-kanneer/BATCH_01_REVIEW.md` — PASS;
 - `works/iratha-kanneer/BATCH_02_REVIEW.md` — PASS / scans 11–20;
-- `works/iratha-kanneer/BATCH_03_REVIEW.md` — PASS / scans 21–30.
+- `works/iratha-kanneer/BATCH_03_REVIEW.md` — PASS / scans 21–30;
+- `works/iratha-kanneer/BATCH_04_REVIEW.md` — PASS / scans 31–40.
 
-The latest H-GATE additions are scan 21 `சரிதானு?` → `சரிதானா?` (`னா`) and scan 29 `பெண்ணு பெற்று வைத்திருக்கிறாய்` → `பெண்ணை பெற்று வைத்திருக்கிறாய்` (`ணை`). The latter was established by same-edition glyph comparison, not grammar.
+Latest H-GATE additions:
 
-Verified page evidence through scan 30 establishes Scene 1 close on scan 13, Scene 2 on scans 14–18, Scene 3 on scans 19–21, Scene 4 on scans 22–25, Scene 5 on scans 26–29, and one-page Scene 6 on scan 30. This is not yet a final whole-work scene inventory.
+- scan 31 `யானே போல்` → `யானை போல்` (`னை`);
+- scan 40 `நானு?` → `நானா?` (`னா`).
 
-Exact next activity: process **scans 31–40** through transcription → initial verification → H-GATE → final verification where clean.
+Verified page evidence through scan 40 establishes Scene 1 scans 8–13, Scene 2 scans 14–18, Scene 3 scans 19–21, Scene 4 scans 22–25, Scene 5 scans 26–29, Scene 6 scan 30, Scene 7 scans 31–33, Scene 8 scans 34–39, and Scene 9 beginning on scan 40. This is not yet a final whole-work scene inventory.
+
+Exact next activity: process **scans 41–50** through transcription → initial verification → H-GATE → final verification where clean.
 
 ## ஒரே முத்தம் — Tamil closure checkpoint
 
