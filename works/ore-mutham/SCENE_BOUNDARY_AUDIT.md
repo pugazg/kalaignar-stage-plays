@@ -1,8 +1,8 @@
 # Scene Boundary Audit — ஒரே முத்தம்
 
-Status: **BOUNDARY-AWARE AUDIT COMPLETE — SOURCE-SECURE ASSEMBLY CHECKPOINT 15 / 15 PASS**.
+Status: **BOUNDARY-AWARE AUDIT COMPLETE — FULL TAMIL SCENE LAYER 33 / 33 ASSEMBLED / CONSISTENCY PASS**.
 
-This audit was triggered at the start of Tamil scene assembly. The earlier structural inventory used non-overlapping scan allocations. That model is adequate for locating scene anchors, but it is **not sufficient for complete scene assembly** because many physical scans contain the close of one scene and the heading/opening of the next scene on the same page.
+This audit was triggered at the start of Tamil scene assembly. The earlier structural inventory used non-overlapping scan allocations. That model was sufficient to locate scene anchors but not for complete scene assembly because many physical scans contain the close of one scene and the heading/opening of the next scene on the same page.
 
 The canonical `pages/*.md` records control. A transition scan may therefore contribute text to **both** adjacent scene files. No source wording is changed by this audit.
 
@@ -37,7 +37,7 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 | 25 | 96–99 | — | **scans 98, 99** |
 | 26 | 100–104 | 104 with Scene 27 | **scan 100** |
 | 27 | 104–105 | 104 with Scene 26 | no |
-| 28 | 106–112 | 112 with Scene 29 | **no Scene-28 unresolved locus**; scan 112 is page-level `blocked` only for the Scene-29 opening parenthetical after the Scene-29 anchor |
+| 28 | 106–112 | 112 with Scene 29 | **no Scene-28 unresolved locus**; scan 112 is blocked only for Scene-29 text after the Scene-29 anchor |
 | 29 | 112–117 | 112 with Scene 28; 117 with Scene 30 | **scans 112, 113** |
 | 30 | 117–118 | 117 with Scene 29 | no |
 
@@ -46,67 +46,48 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 | Supplement scene | Contributing scans | Shared transition scan(s) | Terminal unresolved locus inside this scene? |
 |---:|---:|---|---|
 | 1 | 119–125 | 125 with Scene 2 | no |
-| 2 | 125–128 | 125 with Scene 1; 128 with Scene 3 | **no Scene-2 unresolved locus**; scan 128 is page-level `blocked` only for the Scene-3 opening parenthetical after the Scene-3 anchor |
+| 2 | 125–128 | 125 with Scene 1; 128 with Scene 3 | **no Scene-2 unresolved locus**; scan 128 is blocked only for Scene-3 text after the Scene-3 anchor |
 | 3 | 128–130 | 128 with Scene 2 | **scans 128, 130** |
 
-## Assembly consequences
+## Permanent boundary consequences
 
-The earlier non-overlapping dependency table would have omitted source-visible scene tails on transition pages. Confirmed examples include:
+- Scene assembly is **segment-aware**, not merely page-status-aware.
+- A globally blocked shared scan does not automatically make both adjacent scene segments unresolved.
+- Main Scene 28 uses the secure pre-`காட்சி 29.` portion of scan 112 without importing the Scene-29 hold.
+- Supplementary Scene 2 uses the secure pre-`காட்சி 3.` portion of scan 128 without importing the Scene-3 hold.
+- Scene 7 does carry a Scene-7-specific hold on scan 27 and therefore remains hold-bearing.
+- Scene 23 does not inherit scan 94's later Scene-24 hold.
+- Scene 18 does not inherit scan 72's later Scene-19 hold.
 
-- Scene 1 continues onto scan 9 before `காட்சி 2.`;
-- Scene 2 continues onto scan 11 before `காட்சி 3.`;
-- Scene 3 continues onto scan 15 before `காட்சி 4.`;
-- Scene 4 continues onto scan 19 before `காட்சி 5.`;
-- Scene 7 continues onto blocked scan 27, where Scene-7 parenthetical wording remains held;
-- Scene 28 closes on the secure pre-`காட்சி 29.` portion of scan 112, even though scan 112 is blocked later on the Scene-29 opening parenthetical;
-- supplementary Scene 2 closes on the secure pre-`காட்சி 3.` portion of scan 128, even though scan 128 is blocked later on the Scene-3 opening parenthetical.
+## Final assembly classes
 
-Therefore scene assembly is **segment-aware**, not merely page-status-aware.
+### Fully verified physical-page inputs
 
-## Assembly classes
-
-### Entirely from `verified` page records
-
-Main scenes: **1–5, 9–10, 15, 21–22, 27, 30**.
+Main: **1–5, 9–10, 15, 21–22, 27, 30**.
 
 Supplementary: **Scene 1**.
 
-All of these are now assembled and page-record-audited.
+### Source-secure shared-boundary cases
 
-### Source-secure scene text with a shared page whose blocked locus belongs only to the following scene
-
-- main Scene **28** — secure Scene-28 prefix on scan 112;
-- supplementary Scene **2** — secure Scene-2 prefix on scan 128.
-
-Both are now assembled with `assembled_from_verified_pages: false`, `source_condition_scans: []`, and explicit boundary-only blocked-page provenance. Neither imports the later held locus.
+- main Scene **28**;
+- supplementary Scene **2**.
 
 ### Hold-bearing scenes
 
-Main scenes: **6–8, 11–14, 16–20, 23–26, 29**.
+Main: **6–8, 11–14, 16–20, 23–26, 29**.
 
 Supplementary: **Scene 3**.
 
-Every held locus must remain traceable exactly as documented in `TERMINAL_SOURCE_CONDITION_HOLDS.md` and the canonical page record.
+## Assembly closure
 
-## Current assembly checkpoint
-
-Main scenes assembled / page-record-audited: **13 / 30** — **1–5, 9–10, 15, 21–22, 27–28, 30**.
-
-Supplementary scenes assembled / page-record-audited: **2 / 3** — **1–2**.
-
-Total source-secure assembled scene files: **15 / 33**.
-
-`SCENE_ASSEMBLY_AUDIT.md` records **PASS — 15 / 15** currently assembled source-secure scenes page-record-consistent. No unresolved terminal locus has been imported into an assembled scene, no source wording has been changed, and no contextual/OCR/another-edition repair has been used.
+- main scenes assembled: **30 / 30**;
+- supplementary scenes assembled: **3 / 3**;
+- total Tamil scene layer: **33 / 33**;
+- complete page-to-scene consistency audit: **PASS — 33 / 33** in `SCENE_ASSEMBLY_AUDIT.md`;
+- terminal source-condition wording inferred during assembly: **0**;
+- source wording normalized during assembly: **0**;
+- English translation: **not authorized / not started**.
 
 ## Exact next activity
 
-Proceed to hold-bearing Tamil scene assembly in source order:
-
-- main **6–8**;
-- main **11–14**;
-- main **16–20**;
-- main **23–26**;
-- main **29**;
-- supplementary **Scene 3**.
-
-For each hold-bearing scene, copy only canonical page-record segments, preserve every source-held marker exactly, set `assembled_from_verified_pages: false`, list the scene-relevant held scans under `source_condition_scans`, and do not infer missing wording from context. English translation remains unauthorized.
+Proceed to the **Tamil pre-release / work-level closure gate**. Verify the exact scene-file inventory and terminal-hold traceability, reconcile stale secondary `needs-review` labels with the terminal `blocked` classification, decide/document the Tamil work-level release state under current-source evidence, and synchronize durable status documents. Do **not** begin English translation unless explicitly authorized.
