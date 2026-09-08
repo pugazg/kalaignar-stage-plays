@@ -1,6 +1,6 @@
 # Scene Boundary Audit — ஒரே முத்தம்
 
-Status: **BOUNDARY-AWARE AUDIT COMPLETE**.
+Status: **BOUNDARY-AWARE AUDIT COMPLETE — SOURCE-SECURE ASSEMBLY CHECKPOINT 15 / 15 PASS**.
 
 This audit was triggered at the start of Tamil scene assembly. The earlier structural inventory used non-overlapping scan allocations. That model is adequate for locating scene anchors, but it is **not sufficient for complete scene assembly** because many physical scans contain the close of one scene and the heading/opening of the next scene on the same page.
 
@@ -51,7 +51,7 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 
 ## Assembly consequences
 
-The earlier non-overlapping dependency table would have omitted source-visible scene tails on transition pages. Examples already confirmed directly from canonical page records include:
+The earlier non-overlapping dependency table would have omitted source-visible scene tails on transition pages. Confirmed examples include:
 
 - Scene 1 continues onto scan 9 before `காட்சி 2.`;
 - Scene 2 continues onto scan 11 before `காட்சி 3.`;
@@ -63,7 +63,7 @@ The earlier non-overlapping dependency table would have omitted source-visible s
 
 Therefore scene assembly is **segment-aware**, not merely page-status-aware.
 
-## Corrected assembly classes
+## Assembly classes
 
 ### Entirely from `verified` page records
 
@@ -71,12 +71,14 @@ Main scenes: **1–5, 9–10, 15, 21–22, 27, 30**.
 
 Supplementary: **Scene 1**.
 
+All of these are now assembled and page-record-audited.
+
 ### Source-secure scene text with a shared page whose blocked locus belongs only to the following scene
 
-- main Scene **28** — needs the secure Scene-28 prefix on scan 112;
-- supplementary Scene **2** — needs the secure Scene-2 prefix on scan 128.
+- main Scene **28** — secure Scene-28 prefix on scan 112;
+- supplementary Scene **2** — secure Scene-2 prefix on scan 128.
 
-These may be assembled without importing a held locus, but their front matter must not falsely claim that every contributing physical page record is `verified`.
+Both are now assembled with `assembled_from_verified_pages: false`, `source_condition_scans: []`, and explicit boundary-only blocked-page provenance. Neither imports the later held locus.
 
 ### Hold-bearing scenes
 
@@ -88,4 +90,23 @@ Every held locus must remain traceable exactly as documented in `TERMINAL_SOURCE
 
 ## Current assembly checkpoint
 
-Main scenes **1–5** have now been assembled boundary-aware and page-record-audited as `scenes/main-01.md` through `scenes/main-05.md`.
+Main scenes assembled / page-record-audited: **13 / 30** — **1–5, 9–10, 15, 21–22, 27–28, 30**.
+
+Supplementary scenes assembled / page-record-audited: **2 / 3** — **1–2**.
+
+Total source-secure assembled scene files: **15 / 33**.
+
+`SCENE_ASSEMBLY_AUDIT.md` records **PASS — 15 / 15** currently assembled source-secure scenes page-record-consistent. No unresolved terminal locus has been imported into an assembled scene, no source wording has been changed, and no contextual/OCR/another-edition repair has been used.
+
+## Exact next activity
+
+Proceed to hold-bearing Tamil scene assembly in source order:
+
+- main **6–8**;
+- main **11–14**;
+- main **16–20**;
+- main **23–26**;
+- main **29**;
+- supplementary **Scene 3**.
+
+For each hold-bearing scene, copy only canonical page-record segments, preserve every source-held marker exactly, set `assembled_from_verified_pages: false`, list the scene-relevant held scans under `source_condition_scans`, and do not infer missing wording from context. English translation remains unauthorized.
