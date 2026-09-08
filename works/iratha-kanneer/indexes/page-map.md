@@ -1,6 +1,6 @@
 # Page map — இரத்தக் கண்ணீர்
 
-Status: **SCANS 1–50 FINAL VERIFIED / H-GATE PASS — 50 / 188 PHYSICAL SCANS COMPLETE**
+Status: **SCANS 1–60 FINAL VERIFIED / H-GATE PASS — 60 / 188 PHYSICAL SCANS COMPLETE**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -21,10 +21,13 @@ Every expanded row distinguishes canonical transcription, initial visual verific
 | 34–39 | 33–38 | Scene 8 | opener / drama / close | complete | PASS | PASS | `verified` | centred star scan 39 |
 | 40–41 | 39–40 | Scene 9 | opener / close | complete | PASS | PASS | `verified` | scan 40 `நானா?`; `சேர்க்`→`கும்`; star scan 41 |
 | 42–44 | 41–43 | Scene 10 | opener / drama / close | complete | PASS | PASS | `verified` | scan 42 `அடித்`→scan 43 `தாய்`; star scan 44 |
-| 45–46 | 44–45 | Scene 11 | opener / close | complete | PASS | PASS | `verified` | `குதிரைக் கொட்டடி`; star scan 46 |
+| 45–46 | 44–45 | Scene 11 | opener / close | complete | PASS | PASS | `verified` | star scan 46 |
 | 47–49 | 46–48 | Scene 12 | opener / drama / close | complete | PASS | PASS | `verified` | scan 48 historical `னா` + supplemental `ளா`; star scan 49 |
-| 50 | 49 | Scene 13 | scene opener | complete | PASS | PASS | `verified` | Scene 13 continues; `காட்சி 13` |
-| 51–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
+| 50–51 | 49–50 | Scene 13 | opener / close | complete | PASS | PASS | `verified` | scene closes scan 51 |
+| 52–53 | 51–52 | Scene 14 | opener / close | complete | PASS | PASS | `verified` | scan 53 `சொத்துக்களைப் பிடிக்கும்`; star scan 53 |
+| 54–57 | 53–56 | Scene 15 | opener / drama / close | complete | PASS | PASS | `verified` | `குறிக்`→`கின்றன`; `நீயே மரண`→`படும்போது`; star scan 57 |
+| 58–60 | 57–59 | Scene 16 | opener / continuation | complete | PASS | PASS | `verified` | scene continues; scan 60 ends `உன்னால் நடத்த` |
+| 61–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
 | 180 | 179 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 59]` |
 | 181–182 | visible | main dramatic text | drama pages | not-started | pending | pending | `not-started` | continuation; exact boundaries pending |
 | 183 | 182 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 60]` |
@@ -40,7 +43,7 @@ For historical-type pages, ordinary visual verification does **not** directly pr
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-The gate is not limited to that minimum set. Batch 05 additionally caught a source-historical `ளா` look-alike on scan 48.
+The gate is not limited to that minimum set. Batch 05 additionally caught source-historical `ளா` look-alikes.
 
 Batch reviews:
 
@@ -48,18 +51,19 @@ Batch reviews:
 - `../BATCH_02_REVIEW.md` — **PASS / scans 11–20**;
 - `../BATCH_03_REVIEW.md` — **PASS / scans 21–30**;
 - `../BATCH_04_REVIEW.md` — **PASS / scans 31–40**;
-- `../BATCH_05_REVIEW.md` — **PASS / scans 41–50**.
+- `../BATCH_05_REVIEW.md` — **PASS / scans 41–50**;
+- `../BATCH_06_REVIEW.md` — **PASS / scans 51–60**.
 
 ## Current totals
 
-- canonical page records: **50 / 188**;
-- initial visual verification PASS: **50 / 188**;
-- H-GATE PASS: **50 / 188**;
-- final `verified`: **50 / 188**;
-- historical-glyph corrections recorded: **13** total;
+- canonical page records: **60 / 188**;
+- initial visual verification PASS: **60 / 188**;
+- H-GATE PASS: **60 / 188**;
+- final `verified`: **60 / 188**;
+- historical-glyph corrections recorded: **14** total;
 - `needs-review`: **0**;
 - `blocked`: **0**.
 
 ## Next expansion batch
 
-Expand and process **scans 51–60** individually.
+Expand and process **scans 61–70** individually.
