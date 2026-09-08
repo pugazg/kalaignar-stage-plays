@@ -13,7 +13,7 @@ Historical-type authority:
 1. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
 2. `HISTORICAL_TAMIL_GLYPH_GATE.md`.
 
-# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் ACTIVE / SCANS 1–40 VERIFIED
+# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் ACTIVE / SCANS 1–50 VERIFIED
 
 Active work: `works/iratha-kanneer/`.
 
@@ -23,14 +23,14 @@ Current durable state:
 
 - P0 source intake: **PASS**;
 - physical scans: **188 / 188 confirmed**;
-- canonical page transcription: **40 / 188**;
-- initial visual verification: **40 / 188**;
-- historical-glyph H-GATE: **40 / 188**;
-- final verified pages: **40 / 188**;
-- contiguous final-verified range: **scans 1–40**;
-- Batches 01–04: **PASS / COMPLETE**;
-- Batch 04: **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**;
-- historical-glyph corrections recorded: **10**;
+- canonical page transcription: **50 / 188**;
+- initial visual verification: **50 / 188**;
+- historical-glyph H-GATE: **50 / 188**;
+- final verified pages: **50 / 188**;
+- contiguous final-verified range: **scans 1–50**;
+- Batches 01–05: **PASS / COMPLETE**;
+- Batch 05: **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**;
+- historical-glyph corrections recorded: **13**;
 - unresolved page-level source issues: **0**;
 - structural / scene assembly: **not started / blocked on page layer**;
 - English translation: **not authorized / not started**.
@@ -50,8 +50,8 @@ Read completely before source-dependent work:
 7. `works/iratha-kanneer/metadata/source.md`;
 8. `works/iratha-kanneer/indexes/page-map.md`;
 9. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`;
-10. `BATCH_01_REVIEW.md` through `BATCH_04_REVIEW.md`;
-11. relevant page records through `pages/0040.md`.
+10. `BATCH_01_REVIEW.md` through `BATCH_05_REVIEW.md`;
+11. relevant page records through `pages/0050.md`.
 
 Resolve the controlling PDF before page-level visual work. Do not substitute OCR, web text, later editions or memory for source pixels.
 
@@ -65,7 +65,7 @@ Resolve the controlling PDF before page-level visual work. Do not substitute OCR
 - size **319,220,349 bytes**;
 - image-only; source PDF not committed.
 
-## Verified structural evidence through scan 40
+## Verified structural evidence through scan 50
 
 - Scene 1: scans 8–13;
 - Scene 2: scans 14–18;
@@ -75,7 +75,11 @@ Resolve the controlling PDF before page-level visual work. Do not substitute OCR
 - Scene 6: scan 30 only;
 - Scene 7: scans 31–33;
 - Scene 8: scans 34–39;
-- Scene 9: begins scan 40 and continues.
+- Scene 9: scans 40–41;
+- Scene 10: scans 42–44;
+- Scene 11: scans 45–46;
+- Scene 12: scans 47–49;
+- Scene 13: begins scan 50 and continues.
 
 Do not declare a final whole-work scene inventory until the page layer closes.
 
@@ -85,32 +89,35 @@ Required order:
 
 **canonical transcription → initial visual verification → H-GATE → final verification.**
 
-Minimum family set:
+Mandatory minimum family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Source pixels control. No global replacement. No grammar/spelling modernization. Same-edition comparison is preferred for doubtful clusters. Unresolved identity stays `needs-review`.
+The list is a minimum, not a closed universe: Batch 05 additionally confirmed historical `ளா` look-alikes. Source pixels control. No global replacement. No grammar/spelling modernization. Same-edition comparison is preferred for doubtful clusters. Unresolved identity stays `needs-review`.
 
-## Historical-glyph corrections through scan 40
+## Historical-glyph corrections through scan 50
 
-Ten corrections are durably recorded in `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`. Latest additions:
+Thirteen corrections are durably recorded in `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`.
 
-9. scan 31: `யானே போல்` → `யானை போல்` (`னை`), proven from enlarged source pixels + same-edition `னை` witnesses;
-10. scan 40: `நானு?` → `நானா?` (`னா`), proven from enlarged source pixels + established same-edition `னா` identity.
+Latest Batch-05 additions on scan 48:
 
-Do not regress the earlier scan-9 / 11 / 12 / 16 / 17 / 18 / 21 / 29 corrections.
+11. `முத்தன் வருவானு?` → `முத்தன் வருவானா?` (`னா`);
+12. `முயன்றுள்` → `முயன்றாள்` (supplemental historical `ளா`);
+13. `அலறினுள்` → `அலறினாள்` (supplemental historical `ளா`).
 
-## Exact next activity — scans 41–50 / Batch 05
+These were established by enlarged source pixels and same-edition family evidence, not grammar. Do not regress earlier corrections.
 
-Process physical scans **41–50**:
+## Exact next activity — scans 51–60 / Batch 06
 
-1. create `pages/0041.md` through `0050.md`;
+Process physical scans **51–60**:
+
+1. create `pages/0051.md` through `0060.md`;
 2. transcribe directly from source pixels;
 3. perform initial visual verification;
-4. run post-verification H-GATE on the full family set;
+4. run post-verification H-GATE on the full minimum family set plus any additional historical look-alike that appears;
 5. promote only clean H-GATE-passed pages to final `verified`;
 6. record every glyph correction / unresolved locus;
-7. create `BATCH_05_REVIEW.md` only after all ten scans complete the gate;
+7. create `BATCH_06_REVIEW.md` only after all ten scans complete the gate;
 8. update page map, glyph audit, work/root README, handover and next prompt;
 9. fetch final live `main` SHA.
 
