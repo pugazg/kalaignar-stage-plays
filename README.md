@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **TAMIL COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary scenes assembled; full scene audit PASS 33/33; Tamil closure review PASS; English ACTIVE — Batch 2 PASS/LOCKED, 10/33 scenes reviewed** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **TAMIL COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary scenes assembled; full scene audit PASS 33/33; Tamil closure review PASS; English ACTIVE — Batch 3 PASS/LOCKED, 15/33 scenes reviewed** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -58,10 +58,10 @@ Every terminal page has already received direct source review plus difficult-rea
 - terminal held wording repaired from context: **0**;
 - unresolved wording invented: **0**.
 
-Authoritative closure documents:
+Authoritative Tamil closure documents:
 
-- `works/ore-mutham/indexes/page-map.md` — final 103 verified / 28 blocked map;
-- `works/ore-mutham/TERMINAL_SOURCE_CONDITION_HOLDS.md` — exact unresolved loci;
+- `works/ore-mutham/indexes/page-map.md`;
+- `works/ore-mutham/TERMINAL_SOURCE_CONDITION_HOLDS.md`;
 - `works/ore-mutham/STRUCTURAL_INVENTORY.md`;
 - `works/ore-mutham/SCENE_BOUNDARY_AUDIT.md`;
 - `works/ore-mutham/SCENE_ASSEMBLY_PLAN.md`;
@@ -83,25 +83,35 @@ Translation authority / workflow:
 - `works/ore-mutham/TRANSLATION_PLAN.md`;
 - `works/ore-mutham/translations/en/README.md`;
 - `works/ore-mutham/translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
-- `works/ore-mutham/translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
+- `works/ore-mutham/translations/en/BATCH_02_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- `works/ore-mutham/translations/en/BATCH_03_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
 
 Completed batches:
 
 - Batch 1 — main Scenes **1–5**;
-- Batch 2 — main Scenes **6–10**.
+- Batch 2 — main Scenes **6–10**;
+- Batch 3 — main Scenes **11–15**.
 
 English progress:
 
-- English scene artifacts present/reviewed: **10 / 33**;
-- completed English batches: **2 / 7**;
-- source-hold-bearing English scenes completed: **3 / 18** — main **6–8**;
+- English scene artifacts present/reviewed: **15 / 33**;
+- completed English batches: **3 / 7**;
+- source-hold-bearing English scenes completed: **7 / 18** — main **6–8, 11–14**;
 - Tamil terminal holds resolved by English translation: **0**;
 - unresolved blocking English issues: **0**;
 - secondary-English contamination: **0**.
 
-The English layer preserves Tamil terminal source holds rather than guessing them. Batch 2 carried the scan-21/27 holds in Scenes 6–8 transparently and passed Tamil→English fidelity review without resolving them.
+The English layer preserves Tamil terminal source holds rather than guessing them. Batch 3 carried all Scene-11–14 held loci transparently and passed Tamil→English fidelity review without resolving them.
 
-**Exact next activity:** English Batch 3 — main Scenes **11–15**. Scenes **11–14** are hold-bearing and must carry their terminal source holds transparently; Scene **15** is source-secure. Review the five-scene batch in `BATCH_03_REVIEW.md` before proceeding.
+**Exact next activity:** English Batch 4 — main Scenes **16–20**. All five are hold-bearing:
+
+- Scene 16 → `[60, 61]`;
+- Scene 17 → `[65]`;
+- Scene 18 → `[69]`;
+- Scene 19 → `[72, 73, 74]`;
+- Scene 20 → `[77, 79]`.
+
+Review the five-scene batch in `BATCH_04_REVIEW.md` before proceeding.
 
 ## Closed work safeguards
 
