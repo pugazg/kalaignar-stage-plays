@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் scans 41–50
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் scans 51–60
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work:
 
@@ -23,8 +23,8 @@ Read completely before source-dependent work:
 7. `works/iratha-kanneer/metadata/source.md`
 8. `works/iratha-kanneer/indexes/page-map.md`
 9. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`
-10. `BATCH_01_REVIEW.md` through `BATCH_04_REVIEW.md`
-11. relevant page records through `pages/0040.md`
+10. `BATCH_01_REVIEW.md` through `BATCH_05_REVIEW.md`
+11. relevant page records through `pages/0050.md`
 
 Resolve / attach the controlling PDF before page-level visual work.
 
@@ -46,19 +46,19 @@ The conversation preview exposes only **150** pages, but raw-PDF inspection conf
 ## Durable checkpoint
 
 - P0 source intake — **PASS**
-- canonical page records — **40 / 188**
-- initial visual verification — **40 / 188**
-- post-verification historical-glyph H-GATE — **40 / 188**
-- final verified — **40 / 188**
-- contiguous verified range — **scans 1–40**
-- Batches 01–04 — **PASS / COMPLETE**
-- Batch 04 — **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**
-- historical-glyph corrections recorded — **10**
+- canonical page records — **50 / 188**
+- initial visual verification — **50 / 188**
+- post-verification historical-glyph H-GATE — **50 / 188**
+- final verified — **50 / 188**
+- contiguous verified range — **scans 1–50**
+- Batches 01–05 — **PASS / COMPLETE**
+- Batch 05 — **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**
+- historical-glyph corrections recorded — **13**
 - unresolved page-level source issues — **0**
 - scene assembly — **not started / blocked on page layer**
 - English — **not authorized / not started**
 
-Verified structure through scan 40:
+Verified structure through scan 50:
 
 - Scene 1 scans 8–13;
 - Scene 2 scans 14–18;
@@ -68,7 +68,11 @@ Verified structure through scan 40:
 - Scene 6 scan 30 only;
 - Scene 7 scans 31–33;
 - Scene 8 scans 34–39;
-- Scene 9 begins scan 40 and continues.
+- Scene 9 scans 40–41;
+- Scene 10 scans 42–44;
+- Scene 11 scans 45–46;
+- Scene 12 scans 47–49;
+- Scene 13 begins scan 50 and continues.
 
 Do not turn this partial evidence into a final whole-work scene inventory.
 
@@ -81,34 +85,35 @@ For every page:
 3. H-GATE at enlarged/native source pixels;
 4. only then final `verified` if clean.
 
-Minimum family set:
+Mandatory minimum family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-No global replacement. No spelling/grammar/punctuation modernization. OCR and expected wording are not glyph authority. Prefer same-edition comparison for doubtful clusters.
+The family list is a minimum, not a ceiling. Batch 05 also established historical `ளா` look-alikes (`முயன்றாள்`, `அலறினாள்`) and future additional historical look-alikes must be adjudicated similarly. No global replacement. No spelling/grammar/punctuation modernization. OCR and expected wording are not glyph authority. Prefer same-edition comparison for doubtful clusters.
 
 ## Established historical corrections — do not regress
 
-Ten corrections are recorded through scan 40. Latest:
+Thirteen corrections are recorded through scan 50. Latest scan-48 additions:
 
-- scan 31 `யானை போல்` (`னை`) — never restore apparent `யானே போல்`;
-- scan 40 `நானா?` (`னா`) — never restore apparent `நானு?`.
+- `முத்தன் வருவானா?` (`னா`) — never restore apparent `முத்தன் வருவானு?`;
+- `முயன்றாள்` (`ளா`) — never restore apparent `முயன்றுள்`;
+- `அலறினாள்` (`ளா`) — never restore apparent `அலறினுள்`.
 
-Earlier corrections on scans 9, 11, 12, 16, 17, 18, 21 and 29 remain authoritative.
+Earlier corrections through scan 40 remain authoritative.
 
-## Exact next activity — scans 41–50 / Batch 05
+## Exact next activity — scans 51–60 / Batch 06
 
-Process **scans 41–50** step by step:
+Process **scans 51–60** step by step:
 
-1. create `pages/0041.md` through `0050.md`;
+1. create `pages/0051.md` through `0060.md`;
 2. transcribe every physical scan directly from source pixels;
 3. perform initial visual verification;
 4. run the separate post-verification historical-glyph H-GATE;
 5. finalize page status only after the gate;
 6. record every glyph correction / unresolved locus explicitly;
-7. create `BATCH_05_REVIEW.md` only when all ten scans complete the gate;
+7. create `BATCH_06_REVIEW.md` only when all ten scans complete the gate;
 8. update page map, glyph audit and work README;
 9. synchronize root README, `HANDOVER.md`, and this prompt;
 10. fetch final live `main` SHA.
 
-Do not begin scene assembly or English translation merely because Batch 05 completes.
+Do not begin scene assembly or English translation merely because Batch 06 completes.
