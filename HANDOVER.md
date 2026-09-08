@@ -13,7 +13,7 @@ Historical-type authority:
 1. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
 2. `HISTORICAL_TAMIL_GLYPH_GATE.md`.
 
-# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் ACTIVE / SCANS 1–60 VERIFIED
+# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் ACTIVE / SCANS 1–70 VERIFIED
 
 Active work: `works/iratha-kanneer/`.
 
@@ -23,14 +23,14 @@ Current durable state:
 
 - P0 source intake: **PASS**;
 - physical scans: **188 / 188 confirmed**;
-- canonical page transcription: **60 / 188**;
-- initial visual verification: **60 / 188**;
-- historical-glyph H-GATE: **60 / 188**;
-- final verified pages: **60 / 188**;
-- contiguous final-verified range: **scans 1–60**;
-- Batches 01–06: **PASS / COMPLETE**;
-- Batch 06: **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**;
-- historical-glyph corrections recorded: **14**;
+- canonical page transcription: **70 / 188**;
+- initial visual verification: **70 / 188**;
+- historical-glyph H-GATE: **70 / 188**;
+- final verified pages: **70 / 188**;
+- contiguous final-verified range: **scans 1–70**;
+- Batches 01–07: **PASS / COMPLETE**;
+- Batch 07: **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**;
+- historical-glyph corrections recorded: **18**;
 - unresolved page-level source issues: **0**;
 - structural / scene assembly: **not started / blocked on page layer**;
 - English translation: **not authorized / not started**.
@@ -50,8 +50,8 @@ Read completely before source-dependent work:
 7. `works/iratha-kanneer/metadata/source.md`;
 8. `works/iratha-kanneer/indexes/page-map.md`;
 9. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`;
-10. `BATCH_01_REVIEW.md` through `BATCH_06_REVIEW.md`;
-11. relevant page records through `pages/0060.md`.
+10. `BATCH_01_REVIEW.md` through `BATCH_07_REVIEW.md`;
+11. relevant page records through `pages/0070.md`.
 
 Resolve the controlling PDF before page-level visual work. Do not substitute OCR, web text, later editions or memory for source pixels.
 
@@ -65,7 +65,7 @@ Resolve the controlling PDF before page-level visual work. Do not substitute OCR
 - size **319,220,349 bytes**;
 - image-only; source PDF not committed.
 
-## Verified structural evidence through scan 60
+## Verified structural evidence through scan 70
 
 - Scene 1: scans 8–13;
 - Scene 2: scans 14–18;
@@ -82,7 +82,11 @@ Resolve the controlling PDF before page-level visual work. Do not substitute OCR
 - Scene 13: scans 50–51;
 - Scene 14: scans 52–53;
 - Scene 15: scans 54–57;
-- Scene 16: begins scan 58 and continues beyond scan 60.
+- Scene 16: scans 58–62;
+- Scene 17: scans 63–65;
+- Scene 18: scans 66–67;
+- Scene 19: scan 68 only;
+- Scene 20: begins scan 69 and continues beyond scan 70.
 
 Do not declare a final whole-work scene inventory until the page layer closes.
 
@@ -98,28 +102,31 @@ Mandatory minimum family set:
 
 The list is a minimum, not a closed universe: Batch 05 additionally confirmed historical `ளா` look-alikes. Source pixels control. No global replacement. No grammar/spelling modernization. Same-edition comparison is preferred for doubtful clusters. Unresolved identity stays `needs-review`.
 
-## Historical-glyph corrections through scan 60
+## Historical-glyph corrections through scan 70
 
-Fourteen corrections are durably recorded in `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`.
+Eighteen corrections are durably recorded in `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`.
 
-Latest Batch-06 addition:
+Batch-07 additions:
 
-14. scan 53 `சொத்துக்கணைப் பிடிக்கும்` → `சொத்துக்களைப் பிடிக்கும்` (`ளை`), proven from enlarged source pixels + same-edition `ளை` evidence, not grammar.
+15. scan 61 `மனிதனுயிற்றே` → `மனிதனாயிற்றே` (`னா`);
+16. scan 61 `வேல் பார்த்தாய்` → `வேலை பார்த்தாய்` (`லை`);
+17. scan 61 `அஞ்சல் மணிக்கு` → `அஞ்சல் மனைக்கு` (`னை`);
+18. scan 63 `வீரப்பனு?` → `வீரப்பனா?` (`னா`).
 
-Do not regress any earlier corrections.
+The source-visible scan-63 `அஞ்சல் மண் வேலையை` remains retained after independent re-reading; no global replacement was used.
 
-## Exact next activity — scans 61–70 / Batch 07
+## Exact next activity — scans 71–80 / Batch 08
 
-Process physical scans **61–70**:
+Process physical scans **71–80**:
 
-1. create `pages/0061.md` through `0070.md`;
+1. create `pages/0071.md` through `0080.md`;
 2. transcribe directly from source pixels;
-3. preserve scan-60 terminal `உன்னால் நடத்த` and establish its continuation only from scan 61 pixels;
+3. preserve scan-70 Scene 20 continuation and establish any page-boundary continuation only from scan 71 pixels;
 4. perform initial visual verification;
 5. run post-verification H-GATE on the full minimum family set plus any additional historical look-alike that appears;
 6. promote only clean H-GATE-passed pages to final `verified`;
 7. record every glyph correction / unresolved locus;
-8. create `BATCH_07_REVIEW.md` only after all ten scans complete the gate;
+8. create `BATCH_08_REVIEW.md` only after all ten scans complete the gate;
 9. update page map, glyph audit, work/root README, handover and next prompt;
 10. fetch final live `main` SHA.
 

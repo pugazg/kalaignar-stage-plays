@@ -4,7 +4,7 @@ Archive slug: `iratha-kanneer`.
 
 ## Current status
 
-**ACTIVE — P0 SOURCE INTAKE PASS; SCANS 1–60 / 60 OF 188 CANONICAL + INITIAL-VERIFIED + H-GATE PASS + FINAL `verified`; BATCHES 01–06 PASS; NEXT SCANS 61–70.**
+**ACTIVE — P0 SOURCE INTAKE PASS; SCANS 1–70 / 70 OF 188 CANONICAL + INITIAL-VERIFIED + H-GATE PASS + FINAL `verified`; BATCHES 01–07 PASS; NEXT SCANS 71–80.**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -47,16 +47,20 @@ The minimum set is not exhaustive. Batch 05 additionally identified historical `
 - `BATCH_04_REVIEW.md` — **PASS / scans 31–40**.
 - `BATCH_05_REVIEW.md` — **PASS / scans 41–50**.
 - `BATCH_06_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 51–60**.
+- `BATCH_07_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 61–70**.
 
-Historical-glyph corrections recorded through scan 60: **14 total**.
+Historical-glyph corrections recorded through scan 70: **18 total**.
 
-Batch-06 addition:
+Batch-07 additions:
 
-- scan 53 apparent `சொத்துக்கணைப் பிடிக்கும்` → **`சொத்துக்களைப் பிடிக்கும்`** (`ளை`).
+- scan 61 `மனிதனுயிற்றே` → **`மனிதனாயிற்றே`** (`னா`);
+- scan 61 `வேல் பார்த்தாய்` → **`வேலை பார்த்தாய்`** (`லை`);
+- scan 61 `அஞ்சல் மணிக்கு` → **`அஞ்சல் மனைக்கு`** (`னை`);
+- scan 63 `வீரப்பனு?` → **`வீரப்பனா?`** (`னா`).
 
-The scan-53 decision was established from enlarged source pixels and same-edition `ளை` evidence rather than grammar.
+The decisions were established from enlarged source pixels plus same-edition family evidence rather than grammar. The separately source-visible scan-63 `அஞ்சல் மண் வேலையை` remains unchanged.
 
-## Verified structural evidence through scan 60
+## Verified structural evidence through scan 70
 
 - Scene 1: scans 8–13;
 - Scene 2: scans 14–18;
@@ -73,25 +77,29 @@ The scan-53 decision was established from enlarged source pixels and same-editio
 - Scene 13: scans 50–51;
 - Scene 14: scans 52–53;
 - Scene 15: scans 54–57;
-- Scene 16: begins scan 58 and continues beyond scan 60.
+- Scene 16: scans 58–62;
+- Scene 17: scans 63–65;
+- Scene 18: scans 66–67;
+- Scene 19: scan 68 only;
+- Scene 20: begins scan 69 and continues beyond scan 70.
 
 This is page-level structural evidence only; no final work-level scene inventory is declared yet.
 
-Batch-06 scan-boundary continuity is explicitly preserved:
+Batch-07 scan-boundary continuity is explicitly preserved:
 
-- scan 54 `குறிக்` → scan 55 `கின்றன`;
-- scan 56 `நீயே மரண` → scan 57 `படும்போது`;
-- scan 60 terminal `உன்னால் நடத்த` remains incomplete until scan 61 is processed.
+- scan 60 `உன்னால் நடத்த` → scan 61 `முடியுமா, ஒரு குடும்பத்தை?`;
+- scan 66 `பாளையக்காரருக்கு` → scan 67 `அதிகாரமில்லை.`;
+- scan 70 Scene 20 remains open; no scan-71 wording has been supplied from context.
 
 ## Current progress
 
 - P0 source intake — **PASS**;
-- canonical page records — **60 / 188**;
-- initial visual verification — **60 / 188**;
-- historical-glyph H-GATE — **60 / 188**;
-- final verified pages — **60 / 188**;
-- contiguous verified range — **scans 1–60**;
-- historical-glyph corrections — **14 total**;
+- canonical page records — **70 / 188**;
+- initial visual verification — **70 / 188**;
+- historical-glyph H-GATE — **70 / 188**;
+- final verified pages — **70 / 188**;
+- contiguous verified range — **scans 1–70**;
+- historical-glyph corrections — **18 total**;
 - unresolved page-level source issues — **0**;
 - `needs-review` — **0**;
 - `blocked` — **0**;
@@ -100,6 +108,6 @@ Batch-06 scan-boundary continuity is explicitly preserved:
 
 ## Exact next activity
 
-Process **scans 61–70** using the same source-first order, then create `BATCH_07_REVIEW.md` and synchronize page map, glyph audit and checkpoint documents.
+Process **scans 71–80** using the same source-first order, then create `BATCH_08_REVIEW.md` and synchronize page map, glyph audit and checkpoint documents.
 
 Do not begin scene assembly or English translation merely because a page batch completes.

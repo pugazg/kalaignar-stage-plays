@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — இரத்தக் கண்ணீர்
 
-Status: **BATCHES 01–06 PASS — SCANS 1–60 / 60 OF 188 H-GATES COMPLETE; 60 FINAL `verified`; 14 HISTORICAL-GLYPH CORRECTIONS RECORDED**
+Status: **BATCHES 01–07 PASS — SCANS 1–70 / 70 OF 188 H-GATES COMPLETE; 70 FINAL `verified`; 18 HISTORICAL-GLYPH CORRECTIONS RECORDED**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -44,13 +44,13 @@ This is a minimum, not a closed list. If another historical look-alike appears, 
 | Measure | Count |
 |---|---:|
 | Physical scans | 188 |
-| Canonical page records created | 60 / 188 |
-| Initial visual verification PASS | 60 / 188 |
-| H-GATE checked / PASS | 60 / 188 |
-| Final `verified` | 60 / 188 |
+| Canonical page records created | 70 / 188 |
+| Initial visual verification PASS | 70 / 188 |
+| H-GATE checked / PASS | 70 / 188 |
+| Final `verified` | 70 / 188 |
 | `needs-review` after processing | 0 |
 | `blocked` | 0 |
-| Historical-glyph corrections recorded | 14 |
+| Historical-glyph corrections recorded | 18 |
 
 Batch authorities:
 
@@ -59,7 +59,8 @@ Batch authorities:
 - `BATCH_03_REVIEW.md` — **PASS / scans 21–30**;
 - `BATCH_04_REVIEW.md` — **PASS / scans 31–40**;
 - `BATCH_05_REVIEW.md` — **PASS / scans 41–50**;
-- `BATCH_06_REVIEW.md` — **PASS / scans 51–60**.
+- `BATCH_06_REVIEW.md` — **PASS / scans 51–60**;
+- `BATCH_07_REVIEW.md` — **PASS / scans 61–70**.
 
 ## Secure same-edition reference bank
 
@@ -81,10 +82,10 @@ _no secure positive witness yet_
 _no secure positive witness yet_
 
 ### `லை`
-Established repeatedly through scans 1–60 in ordinary words and scene text.
+Established repeatedly through scans 1–70. Scan 61 adds the directly adjudicated `வேலை பார்த்தாய்`.
 
 ### `ளை`
-Established repeatedly through scans 1–60. Scan 53 adds the secure adjudicated reading `சொத்துக்களைப் பிடிக்கும்`.
+Established repeatedly through scans 1–70. Scan 53 retains the secure adjudicated reading `சொத்துக்களைப் பிடிக்கும்`.
 
 ### `றா`
 _no secure correction witness yet_
@@ -101,14 +102,17 @@ _no secure correction witness yet_
 - scan 18: `ஏன் வந்தேனா?`;
 - scan 21: `சரிதானா?`;
 - scan 40: `நானா?`;
-- scan 48: `வருவானா?`.
+- scan 48: `வருவானா?`;
+- scan 61: `மனிதனாயிற்றே`;
+- scan 63: `வீரப்பனா?`.
 
 ### `னை`
 - scan 5: `கற்பனை`;
 - scan 8 onward: repeated `அரண்மனை...` forms;
 - scan 11: `அஞ்சல் மனையில்`;
 - scans 12, 16: `அஞ்சல் மனை`;
-- scan 31: `யானை போல்`.
+- scan 31: `யானை போல்`;
+- scan 61: `அஞ்சல் மனைக்கு`.
 
 ### `னொ`
 _no secure positive witness yet_
@@ -138,10 +142,14 @@ _no secure positive witness yet_
 | 48 | 47 | `முயன்றுள்` | `முயன்றாள்` | supplemental `ளா` | enlarged cluster + same-page / adjacent-page `ளா` witnesses | PASS |
 | 48 | 47 | `அலறினுள்` | `அலறினாள்` | supplemental `ளா` | enlarged cluster + same-page / adjacent-page `ளா` witnesses | PASS |
 | 53 | 52 | `சொத்துக்கணைப் பிடிக்கும்` | `சொத்துக்களைப் பிடிக்கும்` | `ளை` | enlarged historical cluster + same-edition `ளை` evidence; not grammar | PASS |
+| 61 | 60 | `மனிதனுயிற்றே` | `மனிதனாயிற்றே` | `னா` | enlarged source cluster + established same-edition `னா` witnesses | PASS |
+| 61 | 60 | `வேல் பார்த்தாய்` | `வேலை பார்த்தாய்` | `லை` | enlarged source cluster + same-edition `லை` evidence | PASS |
+| 61 | 60 | `அஞ்சல் மணிக்கு` | `அஞ்சல் மனைக்கு` | `னை` | enlarged source cluster + established same-edition `னை` witnesses | PASS |
+| 63 | 62 | `வீரப்பனு?` | `வீரப்பனா?` | `னா` | enlarged source cluster + established same-edition `னா` witnesses | PASS |
 
-## Batch 06 source-sensitive observations
+## Batch 07 source-sensitive observations
 
-H-GATE did **not** authorize modernization of unusual source forms. Source-faithful readings retained in the batch include `கேட்கலா மென்றிருந்தேன்`, `புளிக்குமென்றிருன்`, `கைவிடுவார் களா`, `அன்னக்காவடிக்கு`, `மாயைகநாத`, `அத்தனைபேரும்`, `இரண்டு உலகு`, `என்னயே`, `போதையூட்டும்`, `போதாகி`, the source-visible `பழுதூர்` / `பழுதாரில்தானே` variation, `ஆண் களுக்கு`, `பெண் கட்டுக் கெட்ட`, `கைக்கிளியை`, `தொத்தும்`, `மருமகப்பிள்ளை`, and `வாழமுடியாதவன்`.
+H-GATE did **not** authorize modernization of unusual source forms. Source-faithful readings retained in the batch include `பெண் கழுதைய புத்தி`, `வைதீக மனம்`, `அஞ்சல் மண் வேலையை`, `நாறு அடி`, `இளிச்ச வாயர்கள்`, `சாவு ஒன்றுதானய்யா`, `ஓலைபோன்றில்`, the source line-boundary wording `முடிவு தற்குள்`, `வெல்லத்தாலா`, `வெல்லமில்லை`, and `விழலுக்கு நீர் இறைக்காதே`.
 
 ## Batch checkpoint
 
@@ -152,5 +160,6 @@ H-GATE did **not** authorize modernization of unusual source forms. Source-faith
 - scans 31–40 — **PASS / COMPLETE**;
 - scans 41–50 — **PASS / COMPLETE**;
 - scans 51–60 — **PASS / COMPLETE**;
-- contiguous final-verified range — **scans 1–60**;
-- next H-GATE batch — **scans 61–70**, after each page's initial visual verification.
+- scans 61–70 — **PASS / COMPLETE**;
+- contiguous final-verified range — **scans 1–70**;
+- next H-GATE batch — **scans 71–80**, after each page's initial visual verification.

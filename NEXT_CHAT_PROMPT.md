@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் scans 61–70
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் scans 71–80
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work:
 
@@ -23,8 +23,8 @@ Read completely before source-dependent work:
 7. `works/iratha-kanneer/metadata/source.md`
 8. `works/iratha-kanneer/indexes/page-map.md`
 9. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`
-10. `BATCH_01_REVIEW.md` through `BATCH_06_REVIEW.md`
-11. relevant page records through `pages/0060.md`
+10. `BATCH_01_REVIEW.md` through `BATCH_07_REVIEW.md`
+11. relevant page records through `pages/0070.md`
 
 Resolve / attach the controlling PDF before page-level visual work.
 
@@ -46,19 +46,19 @@ The conversation preview exposes only **150** pages, but raw-PDF inspection conf
 ## Durable checkpoint
 
 - P0 source intake — **PASS**
-- canonical page records — **60 / 188**
-- initial visual verification — **60 / 188**
-- post-verification historical-glyph H-GATE — **60 / 188**
-- final verified — **60 / 188**
-- contiguous verified range — **scans 1–60**
-- Batches 01–06 — **PASS / COMPLETE**
-- Batch 06 — **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**
-- historical-glyph corrections recorded — **14**
+- canonical page records — **70 / 188**
+- initial visual verification — **70 / 188**
+- post-verification historical-glyph H-GATE — **70 / 188**
+- final verified — **70 / 188**
+- contiguous verified range — **scans 1–70**
+- Batches 01–07 — **PASS / COMPLETE**
+- Batch 07 — **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**
+- historical-glyph corrections recorded — **18**
 - unresolved page-level source issues — **0**
 - scene assembly — **not started / blocked on page layer**
 - English — **not authorized / not started**
 
-Verified structure through scan 60:
+Verified structure through scan 70:
 
 - Scene 1 scans 8–13;
 - Scene 2 scans 14–18;
@@ -75,7 +75,11 @@ Verified structure through scan 60:
 - Scene 13 scans 50–51;
 - Scene 14 scans 52–53;
 - Scene 15 scans 54–57;
-- Scene 16 begins scan 58 and continues beyond scan 60.
+- Scene 16 scans 58–62;
+- Scene 17 scans 63–65;
+- Scene 18 scans 66–67;
+- Scene 19 scan 68 only;
+- Scene 20 begins scan 69 and continues beyond scan 70.
 
 Do not turn this partial evidence into a final whole-work scene inventory.
 
@@ -96,26 +100,29 @@ The family list is a minimum, not a ceiling. Batch 05 also established historica
 
 ## Established historical corrections — do not regress
 
-Fourteen corrections are recorded through scan 60. Latest:
+Eighteen corrections are recorded through scan 70. Batch-07 additions:
 
-- scan 53 `சொத்துக்களைப் பிடிக்கும்` (`ளை`) — never restore apparent `சொத்துக்கணைப் பிடிக்கும்`.
+- scan 61 `மனிதனாயிற்றே` (`னா`) — never restore apparent `மனிதனுயிற்றே`;
+- scan 61 `வேலை பார்த்தாய்` (`லை`) — never restore apparent `வேல் பார்த்தாய்`;
+- scan 61 `அஞ்சல் மனைக்கு` (`னை`) — never restore apparent `அஞ்சல் மணிக்கு`;
+- scan 63 `வீரப்பனா?` (`னா`) — never restore apparent `வீரப்பனு?`.
 
-Earlier corrections through scan 50 remain authoritative.
+The separately source-visible scan-63 `அஞ்சல் மண் வேலையை` remains authoritative and must not be globally replaced.
 
-## Exact next activity — scans 61–70 / Batch 07
+## Exact next activity — scans 71–80 / Batch 08
 
-Process **scans 61–70** step by step:
+Process **scans 71–80** step by step:
 
-1. create `pages/0061.md` through `0070.md`;
-2. establish scan 60 `உன்னால் நடத்த` continuation from scan 61 pixels only;
+1. create `pages/0071.md` through `0080.md`;
+2. establish any scan-70 continuation from scan 71 pixels only;
 3. transcribe every physical scan directly from source pixels;
 4. perform initial visual verification;
 5. run the separate post-verification historical-glyph H-GATE;
 6. finalize page status only after the gate;
 7. record every glyph correction / unresolved locus explicitly;
-8. create `BATCH_07_REVIEW.md` only when all ten scans complete the gate;
+8. create `BATCH_08_REVIEW.md` only when all ten scans complete the gate;
 9. update page map, glyph audit and work README;
 10. synchronize root README, `HANDOVER.md`, and this prompt;
 11. fetch final live `main` SHA.
 
-Do not begin scene assembly or English translation merely because Batch 07 completes.
+Do not begin scene assembly or English translation merely because Batch 08 completes.
