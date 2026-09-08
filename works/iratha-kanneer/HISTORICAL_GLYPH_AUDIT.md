@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — இரத்தக் கண்ணீர்
 
-Status: **BATCHES 01–02 PASS — SCANS 1–20 / 20 OF 188 H-GATES COMPLETE; 20 FINAL `verified`; 6 HISTORICAL-GLYPH CORRECTIONS RECORDED**
+Status: **BATCHES 01–03 PASS — SCANS 1–30 / 30 OF 188 H-GATES COMPLETE; 30 FINAL `verified`; 8 HISTORICAL-GLYPH CORRECTIONS RECORDED**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -9,7 +9,7 @@ Repository authorities:
 - `../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 - `../../HISTORICAL_TAMIL_GLYPH_GATE.md`
 
-This 1953 first-edition source visibly uses historical Tamil typeforms. A page may become finally `verified` only after **both** ordinary initial visual verification and the separate historical-glyph H-GATE pass.
+This 1953 first-edition source visibly uses historical Tamil typeforms. A page may become finally `verified` only after both ordinary initial visual verification and the separate historical-glyph H-GATE pass.
 
 ## Mandatory family set
 
@@ -44,32 +44,33 @@ Absence of a positive witness does not waive the gate.
 | Measure | Count |
 |---|---:|
 | Physical scans | 188 |
-| Canonical page records created | 20 / 188 |
-| Initial visual verification PASS | 20 / 188 |
-| H-GATE checked / PASS | 20 / 188 |
-| Final `verified` | 20 / 188 |
+| Canonical page records created | 30 / 188 |
+| Initial visual verification PASS | 30 / 188 |
+| H-GATE checked / PASS | 30 / 188 |
+| Final `verified` | 30 / 188 |
 | `needs-review` after processing | 0 |
 | `blocked` | 0 |
-| Historical-glyph corrections recorded | 6 |
+| Historical-glyph corrections recorded | 8 |
 
 Batch authorities:
 
 - `BATCH_01_REVIEW.md` — **PASS / scans 1–10**, including retrospective scan-9 reopen / correction / re-pass;
-- `BATCH_02_REVIEW.md` — **PASS / scans 11–20**.
+- `BATCH_02_REVIEW.md` — **PASS / scans 11–20**;
+- `BATCH_03_REVIEW.md` — **PASS / scans 21–30**.
 
 ## Secure same-edition reference bank
-
-Only source-secure readings from completed page gates are promoted here.
 
 ### `ணா`
 
 - scans 1–2, 4–5: `கருணாநிதி`;
-- scan 19: `ஆணாகப்`.
+- scan 19: `ஆணாகப்`;
+- scan 28: `அண்ணா`.
 
 ### `ணை`
 
 - scan 2: `பண்ணை`;
-- scan 5: `பண்ணையார்`.
+- scan 5: `பண்ணையார்`;
+- scan 29: `பெண்ணை` — same-edition historical `ணை` decoding.
 
 ### `ணொ`
 
@@ -81,42 +82,32 @@ _no secure positive witness yet_
 
 ### `லை`
 
-- scan 4: `தலைப்பில்`, `கலைஞரின்`;
-- scan 5: `நிலையின்`;
-- scan 6: `கலைத்துவிட்டு`;
-- scan 7: `தலைபெடுக்கவேண்டும்`, `தலைகுனிந்தபடி`;
-- scans 9–10: `ஓலைகள்`;
-- scan 13: `ஓலைகள்`;
-- scan 14: `தலைமயிரும்`;
-- scan 16: `வேலையும்`;
-- scan 17: `ஓலைகள்`.
+- scans 4–20: established witnesses including `தலைப்பில்`, `கலைஞரின்`, `ஓலைகள்`, `தலைமயிரும்`, `வேலையும்`;
+- scans 21–30: additional page-level occurrences checked during H-GATE.
 
 ### `ளை`
 
-- scan 6: `பாளையக்காரர்`, `படைகளை`;
-- scan 7: `பாளையக்காரர்`;
-- scan 8: `கரைகளைப்பற்றி`;
-- scan 9: `வீரக்களை`, `அவைகளை`;
-- scan 10: `ஓலைகளை`;
-- scan 16: `வாளையும்`.
+- scans 6–16: established witnesses including `பாளையக்காரர்`, `படைகளை`, `வீரக்களை`, `வாளையும்`;
+- scans 26–30: `பாளையக்காரர்` and related environments.
 
 ### `றா`
 
-_no secure positive witness yet_
+_no secure correction witness yet_
 
 ### `றொ`
 
-_no secure positive witness yet_
+_no secure correction witness yet_
 
 ### `றோ`
 
-_no secure positive witness yet_
+_no secure correction witness yet_
 
 ### `னா`
 
 - scan 9: `வயதுடையவனா`, `கிழவனா` — retrospective historical-glyph correction;
 - scan 17: `மருத்துவக் கிழவனார்`;
-- scan 18: `ஏன் வந்தேனா?`.
+- scan 18: `ஏன் வந்தேனா?`;
+- scan 21: `சரிதானா?`.
 
 ### `னை`
 
@@ -124,8 +115,8 @@ _no secure positive witness yet_
 - scan 8: `அரண்மனையை`;
 - scan 11: `அஞ்சல் மனையில்`;
 - scans 12, 16: `அஞ்சல் மனை`;
-- scan 13: `அரண்மனைக்குப்`;
-- scans 14, 17: `அரண்மனைக்` / `அரண்மனையிலேயே`.
+- scans 13–17: `அரண்மனை...` forms;
+- scans 26, 28, 30: further `அரண்மனை...` witnesses.
 
 ### `னொ`
 
@@ -145,23 +136,18 @@ _no secure positive witness yet_
 | 16 | 15 | `அஞ்சல் மண்` | `அஞ்சல் மனை` | `னை` | repeated same-edition location wording | PASS |
 | 17 | 16 | `மருத்துவக் கிழவனூர்` | `மருத்துவக் கிழவனார்` | `னா` | enlarged cluster + scan-9 same-edition `னா` identity | PASS |
 | 18 | 17 | `ஏன் வந்தேனு?` | `ஏன் வந்தேனா?` | `னா` | enlarged cluster + established same-edition `னா` identity | PASS |
+| 21 | 20 | `சரிதானு?` | `சரிதானா?` | `னா` | enlarged source pixels + scans 9/17/18 same-edition `னா` witnesses | PASS |
+| 29 | 28 | `பெண்ணு பெற்று வைத்திருக்கிறாய்` | `பெண்ணை பெற்று வைத்திருக்கிறாய்` | `ணை` | enlarged cluster + same-edition `பண்ணை` `ணை` witness; not inferred from grammar | PASS |
 
-## Batch 02 source-sensitive observations
+## Batch 03 source-sensitive observations
 
-The H-GATE did **not** authorize modernization of other unusual source forms. Source-faithful readings retained include:
-
-- scan 14 `பொன் மெழுகேறிய பீடமொன்றில்`, source `சுருண்டு.` punctuation;
-- scan 15 `தளிர் சருகாகத்தானே மாறும்!`, `மாயத் தாலும்—மந்திரத்தாலும்`;
-- scan 16 `வீரர்கட்டும், விவேகிகட்டும்`, `எல்லாம் விண்—முடிவில் ஒரு பிடி மண்!`, `பரபு!`;
-- scan 17 `சாமிகளுக்கு காணிக்கை`, `விருக்ஷம்!`;
-- scan 18 `வயதான கிழவனுக் குறித்தான`;
-- scan 19 `மருமகப் பயல்`, narrative `சுகதேவு` / dialogue label `சுகதேவ்`;
-- scan 20 `வெளவால்களே`, `அத்தான் முறைக்காக`, `கறுப்பு நிறமாக்கும்`, `நான் குறைச் சொல்லுகிறேன்`, `இண்டல் பண்ணி உயிரை வாங்குறீங்க`, `வாயேன்`.
+H-GATE did not authorize modernization of other unusual forms. Source-faithful readings retained include `அலைபெயருப்பி`, `அடியா சொல்லப்போகிறார்கள்?`, `படைகளிழந்தார்`, `நான்தேடிய`, `மதிப்பிடலா மென்றாலும்`, `அப்பய்யோ`, `விழுந்ததா நல்லதை`, `மற்றவர் களும்`, `தூங்கு மூஞ்சிக் கழுதை`, `எச்சில் இலை நாயே`, `அவளாயறியாமல்`, `குரு நிறைந்த ஒரு பெருமூச்சு!`, and `இளயராணி`.
 
 ## Batch checkpoint
 
 - scans 1–10 — **PASS / COMPLETE**;
 - scan 9 retrospective H-GATE reopening — **PASS / CLOSED**;
 - scans 11–20 — **PASS / COMPLETE**;
-- contiguous final-verified range — **scans 1–20**;
-- next H-GATE batch — **scans 21–30**, after each page's initial visual verification.
+- scans 21–30 — **PASS / COMPLETE**;
+- contiguous final-verified range — **scans 1–30**;
+- next H-GATE batch — **scans 31–40**, after each page's initial visual verification.
