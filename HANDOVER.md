@@ -6,15 +6,19 @@ Repository: `pugazg/kalaignar-stage-plays`, branch `main`.
 
 Always fetch live `main` first and preserve newer durable state. Permanent workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
 
-# CURRENT CHECKPOINT — ஒரே முத்தம் ENGLISH ACTIVE / TAMIL CLOSED
+# CURRENT CHECKPOINT — ஒரே முத்தம் TAMIL CLOSED / ENGLISH CLOSED
 
 Work path: `works/ore-mutham/`.
 
-Tamil source work is **CLOSED FOR CURRENT SOURCE EVIDENCE**. English translation is explicitly authorized and active.
+Tamil source work is **CLOSED FOR CURRENT SOURCE EVIDENCE**.
 
-Current English checkpoint: **Batches 4–5 PASS / LOCKED — main Scenes 1–25 complete; 25 / 33 English scenes reviewed**.
+English translation is now also **COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE**.
 
-## Mandatory startup before further `ஒரே முத்தம்` English work
+Final English checkpoint: **33 / 33 scene artifacts present and reviewed; 7 / 7 batches PASS / LOCKED; final `TRANSLATION_REVIEW.md` PASS / COMPLETE**.
+
+There is **no further authorized `ஒரே முத்தம்` phase** at this checkpoint. Do not start secondary-witness comparison, editorial rewriting or Tamil-source reopening from a generic “proceed” instruction.
+
+## Mandatory startup if `ஒரே முத்தம்` is explicitly reopened for a new phase
 
 Read:
 
@@ -27,11 +31,10 @@ Read:
 7. `works/ore-mutham/TERMINAL_SOURCE_CONDITION_HOLDS.md`;
 8. `works/ore-mutham/TRANSLATION_PLAN.md`;
 9. `works/ore-mutham/translations/en/README.md`;
-10. completed `works/ore-mutham/translations/en/BATCH_*.md` reviews;
-11. relevant closed Tamil scene files for the active English iteration;
-12. existing English scene files when checking naming/terminology consistency.
+10. `works/ore-mutham/translations/en/TRANSLATION_REVIEW.md`;
+11. relevant `BATCH_*.md`, Tamil scene and English scene artifacts for the explicitly authorized phase.
 
-Read page records / controlling PDF only if a genuinely new Tamil source-dependent question is explicitly reopened with stronger evidence. English translation itself must use the closed Tamil scene layer as immediate authority.
+Read page records / controlling PDF only if a genuinely new Tamil source-dependent question is explicitly reopened with stronger evidence.
 
 ## Source identity
 
@@ -62,23 +65,46 @@ Work-level Tamil state:
 
 **TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 28 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
 
-Do not change or silently resolve this state through translation.
+Do not change or silently resolve this state through English editorial choices.
 
-## English translation authority / safeguards
+## Final English state — CLOSED
 
-Immediate authority: closed Tamil scene artifacts under `works/ore-mutham/scenes/`.
+Immediate authority for the completed English layer was the closed Tamil scene layer under `works/ore-mutham/scenes/`.
 
-Do not draft English from OCR, plot memory/context completion, web text, another edition, a published/secondary English translation, or the controlling PDF as a substitute for the closed scene file.
+Final artifact set:
 
-The English layer mirrors the Tamil namespace:
+- main English scenes: `translations/en/main-01.md` through `main-30.md` — **30 / 30**;
+- supplementary English scenes: `translations/en/nagai-suvai-01.md` through `nagai-suvai-03.md` — **3 / 3**;
+- total: **33 / 33 present and reviewed**.
 
-- main: `translations/en/main-01.md` through `main-30.md`;
-- supplementary: `translations/en/nagai-suvai-01.md` through `nagai-suvai-03.md`;
-- expected: **33 English scene artifacts**.
+Supplementary scenes remain source-numbered **1–3**, never main 31–33.
 
-Supplementary scenes remain **1–3**, never main 31–33.
+Batch closure:
 
-### Terminal-source-hold translation rule
+- Batch 1 — main 1–5 — **PASS / LOCKED**;
+- Batch 2 — main 6–10 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- Batch 3 — main 11–15 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- Batch 4 — main 16–20 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- Batch 5 — main 21–25 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- Batch 6 — main 26–30 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- Batch 7 — supplementary 1–3 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
+
+Final review: `works/ore-mutham/translations/en/TRANSLATION_REVIEW.md` — **PASS / COMPLETE**.
+
+English closure metrics:
+
+- reviewed: **33 / 33**;
+- batches: **7 / 7**;
+- hold-bearing English scenes reviewed: **18 / 18**;
+- Tamil terminal holds resolved by translation: **0**;
+- unresolved blocking English issues: **0**;
+- secondary-English contamination: **0**.
+
+Final English state:
+
+**ENGLISH TRANSLATION COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE.**
+
+## Terminal-source-hold safeguard
 
 Eighteen Tamil scene artifacts are hold-bearing:
 
@@ -86,85 +112,39 @@ Main: **6–8, 11–14, 16–20, 23–26, 29**.
 
 Supplementary: **Scene 3**.
 
-Permanent English rule:
+Every corresponding English artifact retains its unresolved Tamil locus/loci transparently. An English PASS with source holds never means the Tamil hold is resolved.
 
-- translate secure Tamil wording only;
-- never guess exact wording at `[source-held: ...]` / equivalent loci;
-- carry the uncertainty into the English dramatic body as an explicit `Source-held` bracket;
-- list the same scene-relevant held scans in English metadata / notes;
-- use `translation-reviewed-with-source-holds` / `passed-with-source-holds` when secure content passes review;
-- an English PASS with source holds never means the Tamil hold is resolved.
+Source-secure shared-boundary main Scene 28 and supplementary Scene 2 do not inherit the following scene's hold.
 
-Source-secure shared-boundary main Scene 28 and supplementary Scene 2 do not inherit later-scene holds.
+## Stable translation conventions
 
-## Stable terminology through Batch 5
+Final reviewed forms are recorded in `works/ore-mutham/TRANSLATION_PLAN.md` and `works/ore-mutham/translations/en/README.md`.
 
-Use the locked English forms recorded in `TRANSLATION_PLAN.md` / English README. Important additions through Scenes 16–25 include:
+Core forms include Puthan, Mahaveerar, Yaaliththathar, Kumari, Ramela, Vibhishanan, Imaya, Ponni, Malayan, Chithra, Madhavan, Singanagan, Ellappan, Inbapuri, Mullaikadu, Poonthottam and Pavalamalai.
 
-- `Aththaan` for marked `அத்தான்`;
-- `naazhigai` for `நாழிகை`;
-- `Paraiyar` where the source explicitly names the caste community;
-- `Jai! Jai!` for `ஜே! ஜே!`;
-- Shakuntala / Dushyanta / Harishchandra as reviewed mythic-name forms;
-- `Alakala poison` for the source poison/nectar contrast.
+Source-sensitive forms include `Lightning`, *thali*, *kalakshepam*, *tandava*, *machan*, `paraak`, `Maharani`, `Aththan`, `naazhigai`, `Paraiyar`, `chandala` / `Chandala woman`, `democracy` / `monarchy`, and supplementary names `Sandhegam`, `Samayochitham`, `Adhirshtam`.
 
-Earlier locked forms remain unchanged: Puthan, Mahaveerar, Yaaliththathar, Kumari, Ramela, Vibhishanan, Imaya, Ponni, Malayan, Chithra, Madhavan, Singanagan, Ellappan, Inbapuri, Mullaikadu, Poonthottam, Pavalamalai, `Lightning`, `wine and women`, *thali*, *kalakshepam*, *tandava*, `chandala`, *machan*, `paraak`, `Maharani`.
+## User-directed iteration policy — fulfilled
 
-## English Batches 1–5 — PASS / LOCKED
+The user directed **10 scenes per iteration**. The durable five-scene review artifacts were retained, so ten-scene iterations executed two review batches where possible.
 
-Completed English scene files:
+The final remainder contained only **8** scenes and was completed in one final iteration:
 
-- `translations/en/main-01.md` through `translations/en/main-25.md`.
+- Batch 6 — main **26–30**;
+- Batch 7 — supplementary **1–3**;
+- final whole-work review — **PASS / COMPLETE**.
 
-Reviews:
+## Exact next activity
 
-- `BATCH_01_REVIEW.md` — **PASS / LOCKED**;
-- `BATCH_02_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- `BATCH_03_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- `BATCH_04_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- `BATCH_05_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
+**No next `ஒரே முத்தம்` activity is currently authorized.**
 
-Progress:
+If the user merely says “proceed” after this checkpoint, do not silently start a new phase. Report that both Tamil and English workflows are closed and wait for explicit authorization of a named new phase, for example:
 
-- expected English scenes: **33**;
-- present: **25 / 33**;
-- reviewed: **25 / 33**;
-- completed batches: **5 / 7**;
-- source-hold-bearing English scenes completed: **15 / 18**;
-- Tamil source holds resolved by English translation: **0**;
-- unresolved blocking English issues: **0**;
-- secondary-English contamination: **0**.
-
-## User-directed iteration policy
-
-User directive: **process 10 scenes in each iteration**.
-
-The durable five-scene review-batch structure remains. Therefore, where ten scenes are available, one iteration executes two consecutive review batches.
-
-The just-completed iteration processed **10 scenes**:
-
-- Batch 4 — main **16–20**;
-- Batch 5 — main **21–25**.
-
-Only **8 scenes remain**, so the next iteration is a final remainder iteration and must process all eight in one go rather than inventing nonexistent scenes.
-
-## Exact next activity — final 8-scene English remainder
-
-Do **not** reopen Tamil source work.
-
-1. Read closed Tamil main Scenes **26–30** and supplementary `நகைச் சுவைப் பகுதி.` Scenes **1–3** completely.
-2. Translate main Scene **26** — terminal dependency `[100]`.
-3. Translate source-secure main Scenes **27–28**.
-4. Translate main Scene **29** — terminal dependencies `[112, 113]`.
-5. Translate source-secure main Scene **30**.
-6. Translate source-secure supplementary Scenes **1–2**.
-7. Translate supplementary Scene **3** — terminal dependencies `[128, 130]`.
-8. Preserve all source holds transparently; do not repair them from plot context, OCR, grammar or another edition.
-9. Run `translations/en/BATCH_06_REVIEW.md` for main 26–30.
-10. Run `translations/en/BATCH_07_REVIEW.md` for supplementary 1–3.
-11. If both pass, run final `translations/en/TRANSLATION_REVIEW.md` over all **33 / 33** English artifacts.
-12. Synchronize `TRANSLATION_PLAN.md`, English README, work/root READMEs, this handover and `NEXT_CHAT_PROMPT.md`, then fetch final live `main` SHA.
+- secondary / independent English-witness comparison;
+- documented editorial refinement of the completed English layer;
+- Tamil-source reopening with genuinely stronger evidence;
+- a different stage play/work.
 
 # CLOSED WORK SAFEGUARDS
 
-`ஒரே முத்தம்` Tamil source work, `திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened with genuinely stronger source evidence or a separately authorized phase.
+`ஒரே முத்தம்`, `திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened with genuinely stronger source evidence or a separately authorized phase.
