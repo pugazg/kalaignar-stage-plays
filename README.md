@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — RAW SOURCE PASS COMPLETE: 131/131 processed; complete physical-range closure audit 131/131; residual-hold batches 1–4 complete; verified 101; needs-review 30; historical-glyph pass 101/131; main play 30 scenes + separate 3-scene `நகைச் சுவைப் பகுதி`; assembly/English not started** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **ACTIVE — RAW SOURCE PASS COMPLETE: 131/131 processed; complete physical-range closure audit 131/131; residual-hold batches 1–5 complete; verified 103; needs-review/source-condition holds 28; historical-glyph pass 103/131; main play 30 scenes + separate 3-scene `நகைச் சுவைப் பகுதி`; formal structural inventory next; English not started** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -30,19 +30,17 @@ Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 - scans **119–130 / pp.117–128**: separately headed **`நகைச் சுவைப் பகுதி.`**, with its own **3 scenes**;
 - scan **131**: back-cover publisher advertisement.
 
-After residual-hold re-audit batches 1–4:
+After residual-hold re-audit batches 1–5:
 
-- **verified:** `2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`;
-- **needs-review:** `1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`;
-- historical-glyph passes: **101 / 131**.
+- **verified:** `2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`;
+- **needs-review / source-condition holds:** `1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`;
+- historical-glyph passes: **103 / 131**.
 
-Residual batch 1 newly closes scans **23, 28–32, 34**. Durable decisions include scan 23 **`ஏழைகள்!`** / **`கடித்துத் தின்றுவிடுவார்`** / first secure `னா` witness `ஆனா`, plus the scan-28–34 lexical/action/historical-type closures.
+Residual batch 1 newly closed scans **23, 28–32, 34**. Residual batch 2 newly closed **35, 36, 38, 39, 41, 42, 44, 45, 46**. Residual batch 3 newly closed **49, 50, 66**. Residual batch 4 newly closed **78, 89**. Residual batch 5 directly re-audited **92, 94–95, 98–100, 112–113, 117, 128, 130** and newly closed **92, 117**.
 
-Residual batch 2 newly closes scans **35, 36, 38, 39, 41, 42, 44, 45, 46**. Durable decisions include scan 36 **`மன்னனைக்`**, scan 39 **`புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`**, scan 41 **`அநியாயமாவது அக்கிரமமாவது.`**, scan 42 **`பாஷைகளே`**, scan 44 **`அரும்பிலேயே`**, scan 45 **`மரண தண்டனை அதற்குத்தீர்ப்பு.`** / **`உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்`**, and scan 46's source-sensitive close. Scan **43** remains deferred.
+Batch-5 durable findings include scan 92 **`(விபீஷணன் வாளை உருவிப் பொன்னியின் மேல் வீசுந்தோரணையில் நின்றுகொண்டு)`** with earlier `வீரப் பயமுறுத்தல் கூட` retained, and scan 117 scene-30 opening cluster **`சித்ராவும்`**. The other batch-5 pages remain explicit source-condition holds rather than being completed from context.
 
-Residual batch 3 directly re-audits scans **47–52, 60–61, 65–66** and newly closes **49, 50, 66**. Scan 49 retains **`மலரைக் காப்பாற்றினாய்`**; scan 50 closes the full `வெளியில்` / `உள்ளே` voice/vision page while preserving physical inset line-breaking; scan 66 closes **`ஹ ஹ ஹா!`** and **`சிங்கநாகன்`**.
-
-Residual batch 4 directly re-audits scans **69, 72–74, 77–79, 88–90** and newly closes **78, 89**. Scan 78 resolves **`வெளிநாட்டுக்`** in `வெளிநாட்டுக் கவிஞரின் உவமானம்.`; scan 89 resolves **`(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`**. Scans **69, 72–74, 77, 79, 88, 90** remain explicit holds.
+Every current open page has now received at least one residual re-audit against the controlling source. The remaining **28** pages are retained with exact unresolved loci documented in their page records.
 
 The final physical-range batch remains durable: scans **121–127, 129, 131** PASS; scan 128 retains one dense `காட்சி 3.` opening-parenthetical hold while preserving `என் கொலப் பெருமையே போச்சு!`; scan 130 retains dense concluding action/epilogue holds while its p.128 endpoint is secure; scan 131 archives the complete non-literary publisher catalogue and gives a later secure `னொ` witness `மின்னொளி`.
 
@@ -52,9 +50,9 @@ Current metrics:
 
 - source scans registered/source-processed: **131 / 131 — COMPLETE**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- visually verified: **101 / 131**;
-- `needs-review`: **30 / 131**;
-- historical-glyph passes: **101 / 131**;
+- visually verified: **103 / 131**;
+- `needs-review` / source-condition holds: **28 / 131**;
+- historical-glyph passes: **103 / 131**;
 - main-play source-visible scenes: **30**;
 - supplementary-comedy source-visible scenes: **3**;
 - checksum: **recorded**;
@@ -62,7 +60,7 @@ Current metrics:
 - scene assembly: **not started**;
 - English translation: **not authorized / not started**.
 
-**Exact next activity:** residual-hold re-audit batch 5 — scans **92, 94–95, 98–100, 112–113, 117, 128, 130**. Earlier unresolved residual scans **1, 21, 27, 43, 47, 48, 51, 52, 60, 61, 65, 69, 72–74, 77, 79, 88, 90** remain deferred pending genuinely stronger character evidence. Do not begin scene assembly or English translation during the residual source-closure phase.
+**Exact next activity:** terminal residual-hold/source-condition classification plus formal structural inventory. Preserve all 28 unresolved loci, verify the 30 main-play + 3 supplementary scene anchors against the page map, and prepare the scene-assembly plan without altering source wording. Do not begin English translation.
 
 ## Closed work safeguards
 
