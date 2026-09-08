@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — இரத்தக் கண்ணீர்
 
-Status: **H-GATE INITIALIZED — 0 / 188 FINAL PAGE GATES PASSED**
+Status: **BATCH 01 PASS — SCANS 1–10 / 10 OF 188 H-GATES COMPLETE; 10 FINAL `verified`**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -26,22 +26,6 @@ A family need not occur positively on every page. Absence of a positive witness 
 3. H-GATE at enlarged/native source pixels;
 4. final `verified` only after H-GATE PASS and closure of all other source issues.
 
-After initial visual verification but before H-GATE:
-
-```yaml
-status: "needs-review"
-initial_verification: "passed"
-historical_glyph_gate: "pending"
-```
-
-After a clean H-GATE:
-
-```yaml
-status: "verified"
-initial_verification: "passed"
-historical_glyph_gate: "passed"
-```
-
 ## Permanent rules
 
 1. source pixels control character identity;
@@ -60,71 +44,95 @@ historical_glyph_gate: "passed"
 | Measure | Count |
 |---|---:|
 | Physical scans | 188 |
-| Canonical page records created | 0 / 188 |
-| Initial visual verification PASS | 0 / 188 |
-| H-GATE checked | 0 / 188 |
-| Final `verified` | 0 / 188 |
+| Canonical page records created | 10 / 188 |
+| Initial visual verification PASS | 10 / 188 |
+| H-GATE checked / PASS | 10 / 188 |
+| Final `verified` | 10 / 188 |
 | `needs-review` after processing | 0 |
 | `blocked` | 0 |
 | Historical-glyph corrections recorded | 0 |
 
-Intake-only visual inspection is **not** counted as page verification or H-GATE completion.
+Batch authority: `BATCH_01_REVIEW.md` — **PASS / scans 1–10**.
 
 ## Secure same-edition reference bank
 
-No witness is promoted at P0 intake. Populate this section only from page records that have completed source review strongly enough to serve as comparison evidence.
+Only source-secure readings from completed page gates are promoted here.
 
 ### `ணா`
 
-_pending_
+- scans 1–2, 4–5: `கருணாநிதி`.
 
 ### `ணை`
 
-_pending_
+- scan 2: `பண்ணை`;
+- scan 5: `பண்ணையார்`.
 
 ### `ணொ`
 
-_pending_
+_no secure positive witness yet_
 
 ### `ணோ`
 
-_pending_
+_no secure positive witness yet_
 
 ### `லை`
 
-_pending_
+- scan 4: `தலைப்பில்`, `கலைஞரின்`;
+- scan 5: `நிலையின்`;
+- scan 6: `கலைத்துவிட்டு`;
+- scan 7: `தலைபெடுக்கவேண்டும்`, `தலைகுனிந்தபடி`;
+- scan 9: `ஓலைகள்`;
+- scan 10: `ஓலைகள்`.
 
 ### `ளை`
 
-_pending_
+- scan 6: `பாளையக்காரர்`, `படைகளை`;
+- scan 7: `பாளையக்காரர்`;
+- scan 8: `கரைகளைப்பற்றி`;
+- scan 9: `வீரக்களை`, `அவைகளை`;
+- scan 10: `ஓலைகளை`.
 
 ### `றா`
 
-_pending_
+_no secure positive witness yet_
 
 ### `றொ`
 
-_pending_
+_no secure positive witness yet_
 
 ### `றோ`
 
-_pending_
+_no secure positive witness yet_
 
 ### `னா`
 
-_pending_
+_no secure positive witness yet_
 
 ### `னை`
 
-_pending_
+- scan 5: `கற்பனை`;
+- scan 8: `அரண்மனையை`.
 
 ### `னொ`
 
-_pending_
+_no secure positive witness yet_
 
 ### `னோ`
 
-_pending_
+_no secure positive witness yet_
+
+## Batch 01 source-sensitive observations
+
+The following readings were deliberately source-controlled rather than normalized:
+
+- scan 5: `கற்பனை ஒன்றின்`;
+- scan 6: `பெற்றவர்களா யிருந்தார்கள்`, `படைகளை யெல்லாம்`;
+- scan 8: source bracket form `காட்சி 1]` / `[பழுதூர்`;
+- scan 8: `கல் வெறிந்து` after enlarged source-pixel inspection;
+- scan 9: `வயதுடையவனு அல்லது கிழவனு`;
+- scan 8→9 and scan 10→11: physical continuations remain explicit.
+
+These are not historical-glyph corrections; they are source-fidelity decisions recorded separately from the correction log.
 
 ## Correction log
 
@@ -132,8 +140,9 @@ _pending_
 |---:|:---:|---|---|---|---|---|
 | — | — | — | — | — | — | — |
 
-Do not populate this table from lexical expectation. A correction requires positive source-pixel evidence.
+No correction entry was required in scans 1–10 because the canonical text was produced from enlarged source pixels before finalization.
 
 ## Batch checkpoint
 
-Next H-GATE batch: **scans 1–10**, after each page's initial visual verification.
+- scans 1–10 — **PASS / COMPLETE**;
+- next H-GATE batch: **scans 11–20**, after each page's initial visual verification.
