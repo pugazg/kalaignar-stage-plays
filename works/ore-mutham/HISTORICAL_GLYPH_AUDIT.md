@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **OPEN FOR RESIDUAL-HOLD RE-AUDIT — 101 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 30 RETAIN OPEN TEXT/GLYPH HOLDS**
+Status: **RESIDUAL RE-AUDIT COMPLETE — 103 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 28 RETAIN EXPLICIT SOURCE-CONDITION TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -41,7 +41,7 @@ Secure witnesses include:
 - scans 75–76: `மலையன்`, `தலையெழுத்தை`, `வழியிலே`, `மலை`;
 - scan 80: `மாளிகை`;
 - scans 83–87: `மலையனை`, `மலையா`, `விடுதலை`, `மலையனைத்`, `கவலையில்லை`, `பிடிப்பதில்லை`, `பெருமையில்லை`;
-- scans 91, 93, 96–97: `தலையாவது`, `ஓலை`, `தலை`, `வேலை`;
+- scans 91–93, 96–97: `தலையாவது`, `ஓலை`, `தலை`, `வேலை`;
 - scan 104: `கலைகிறது`;
 - scan 105: `முளையிலேயே`;
 - scan 109: `வேலைகள்`;
@@ -81,7 +81,7 @@ Secure witnesses include:
 - scan 71: `மனக்கோட்டைகளை`;
 - scan 84: `இவளைப்`;
 - scan 89: `வாளை` — secure after residual batch 4 whole-page closure;
-- scans 91, 93, 96–97: `வாளை`;
+- scans 91–93, 96–97: `வாளை`;
 - scan 101: `இவளை`.
 
 ### `னை`
@@ -103,7 +103,8 @@ Secure witnesses include:
 - scan 91: `அவனைப்`;
 - scans 101–104: `தண்டனை`, `என்னை`, `என்னைக்`, `அரண்மனைத்`;
 - scan 110: `மனைவியையும்`;
-- scan 111: `மன்னனைச்`.
+- scan 111: `மன்னனைச்`;
+- scan 117: `என்னை` — secure after residual batch 5 whole-page closure.
 
 ### `றா`
 
@@ -170,14 +171,14 @@ After residual-hold batches 3–4:
 
 ### Scans 81–100
 
-After residual-hold batch 4:
+After residual-hold batches 4–5:
 
-- verified: scans **81–87, 89, 91, 93, 96–97**;
-- open: scans **88, 90, 92, 94–95, 98–100**;
+- verified: scans **81–87, 89, 91–93, 96–97**;
+- open: scans **88, 90, 94–95, 98–100**;
 - scan 82 resolves `பாவம் வறுமையின் கஷ்டம்,` and `உன் வாழ்க்கையைக் கெடுத்துக் கொண்டாய்.`;
 - scan 89 closes the held ambush direction with `வாளை` and supplies secure `விபீஷணா`, `வாளை`, `இவனை` reference material;
 - scan 91 corrects raw-pass `ஓஃகே!` → `ஓஹோ!` and `சுற்றுப்` → `சற்றுப்`;
-- scan 92 corrects `கூன` → `கூட` but retains a separate dense hold;
+- scan 92 closes the dense sword-action parenthetical in residual batch 5; earlier `கூன` → `கூட` remains authoritative;
 - scan 94 restores `வரி கொடுக்கமாட்டேன்னு` and `எழுத்துக்கள்` while its route parenthetical remains open;
 - scan 96 resolves `சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`;
 - scan 97 preserves the `பதார்த்தங்` / `களில்` physical boundary into scan 98.
@@ -188,7 +189,7 @@ All ten scans close **PASS / verified** after enlarged source review. Durable co
 
 ### Scans 111–120
 
-Seven pages PASS / verified: **111, 114–116, 118–120**. Scans **112, 113, 117** remain open on narrow explicit holds. Durable source forms include `பறைச்சியல்லவா?`, `கொய்யாக்கனி!`, `கலப்புமணம்`, `மக்களாட்சியாக மாற்றுவேன்`, `மன்னராட்சியை ஒழிப்பேன்`, the complete main-play ending, and the start of the separately numbered `நகைச் சுவைப் பகுதி.`
+Eight pages PASS / verified: **111, 114–120**. Scans **112–113** remain open on narrow explicit holds. Residual batch 5 closes scan 117's scene-opening cluster as **`சித்ராவும்`**. Durable source forms include `பறைச்சியல்லவா?`, `கொய்யாக்கனி!`, `கலப்புமணம்`, `மக்களாட்சியாக மாற்றுவேன்`, `மன்னராட்சியை ஒழிப்பேன்`, the complete main-play ending, and the start of the separately numbered `நகைச் சுவைப் பகுதி.`
 
 ### Scans 121–131
 
@@ -234,16 +235,26 @@ Reviewed scans **69, 72–74, 77–79, 88–90** directly from the controlling s
 - scan 89 resolves **`(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`**;
 - no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
 
+## Residual-hold re-audit — batch 5
+
+Reviewed scans **92, 94–95, 98–100, 112–113, 117, 128, 130** directly from the controlling source.
+
+- promoted: **92, 117** — **2 pages**;
+- remain open from this batch: **94–95, 98–100, 112–113, 128, 130**;
+- scan 92 closes the sword-action parenthetical **`(விபீஷணன் வாளை உருவிப் பொன்னியின் மேல் வீசுந்தோரணையில் நின்றுகொண்டு)`**;
+- scan 117 closes the scene-30 opening cluster as **`சித்ராவும்`**;
+- no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
+
 ## Current metrics
 
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- full historical-glyph passes: **101 / 131** (`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91`, `93`, `96–97`, `101–111`, `114–116`, `118–127`, `129`, `131`);
-- visually verified: **101 / 131**;
-- `needs-review`: **30 / 131** (`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `92`, `94–95`, `98–100`, `112–113`, `117`, `128`, `130`);
+- full historical-glyph passes: **103 / 131** (`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`);
+- visually verified: **103 / 131**;
+- `needs-review`: **28 / 131** (`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Run **residual-hold re-audit batch 5** over scans **92, 94–95, 98–100, 112–113, 117, 128, 130**. Revisit only explicit holds using stronger source evidence and close the complete 13-family gate page by page. Earlier unresolved residual scans **1, 21, 27, 43, 47, 48, 51, 52, 60, 61, 65, 69, 72–74, 77, 79, 88, 90** remain deferred until genuinely stronger character evidence appears. Do not begin scene assembly or English translation.
+Every current `needs-review` page has now received at least one residual re-audit directly against the controlling source. Next, perform a **terminal residual-hold/source-condition classification and formal structural inventory**: retain the remaining **28** exact unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
