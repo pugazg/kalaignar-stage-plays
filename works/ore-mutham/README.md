@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — 131 / 131 SOURCE-PROCESSED; 103 VERIFIED + 28 TERMINAL `blocked`; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY SCENES ASSEMBLED; FULL SCENE AUDIT PASS 33 / 33; ENGLISH TRANSLATION ACTIVE — BATCHES 4–5 PASS / LOCKED; 25 / 33 ENGLISH SCENES REVIEWED.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — 131 / 131 SOURCE-PROCESSED; 103 VERIFIED + 28 TERMINAL `blocked`; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY TAMIL SCENES ASSEMBLED; FULL TAMIL SCENE AUDIT PASS 33 / 33; ENGLISH TRANSLATION COMPLETE / CLOSED — 33 / 33 ENGLISH SCENES REVIEWED; 7 / 7 BATCHES PASS / LOCKED; FINAL ENGLISH REVIEW PASS.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -41,9 +41,10 @@ Supplementary scenes remain source-numbered **1–3**, never main scenes 31–33
 - [`SCENE_ASSEMBLY_PLAN.md`](SCENE_ASSEMBLY_PLAN.md) — closed scene-assembly rules/state;
 - [`SCENE_ASSEMBLY_AUDIT.md`](SCENE_ASSEMBLY_AUDIT.md) — full 33-scene consistency audit;
 - [`TAMIL_CLOSURE_REVIEW.md`](TAMIL_CLOSURE_REVIEW.md) — final work-level Tamil closure gate;
-- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md) — active English translation rules / batching / 10-scene iteration policy;
-- [`translations/en/README.md`](translations/en/README.md) — English artifact checkpoint;
-- `translations/en/BATCH_01_REVIEW.md` through `BATCH_05_REVIEW.md` — completed batch review authorities.
+- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md) — completed English translation rules / closure;
+- [`translations/en/README.md`](translations/en/README.md) — final English artifact state;
+- `translations/en/BATCH_01_REVIEW.md` through `BATCH_07_REVIEW.md` — **7 / 7 PASS / LOCKED**;
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) — **PASS / COMPLETE**.
 
 ## Final physical-page state
 
@@ -108,6 +109,8 @@ Scan 1 is the only terminal page outside the scene layer. All **27 scene-relevan
 
 Physical transition scans can contribute secure text to one scene while carrying a hold belonging only to the next. Important retained cases include main Scene 28 vs Scene 29 on scan 112, supplementary Scene 2 vs Scene 3 on scan 128, Scene 23 vs Scene 24 on scan 94, and Scene 18 vs Scene 19 on scan 72.
 
+The same segment-level rule is preserved in the completed English layer.
+
 ## Historical-glyph policy
 
 Mandatory family set:
@@ -167,9 +170,15 @@ This state is deliberately different from “131/131 verified”: **103** pages 
 
 Reopen Tamil source work only with genuinely stronger evidence: a materially better scan of the same edition/physical copy or a transparently used corroborating witness. Do not reopen from OCR expectation, familiar spelling, grammar, plot continuity, or another edition's wording.
 
-## English translation — ACTIVE
+## English translation — COMPLETE / CLOSED
 
-English translation was explicitly authorized after Tamil closure. Immediate authority remains the closed 33-scene Tamil layer.
+English translation was explicitly authorized after Tamil closure. Immediate authority throughout was the closed 33-scene Tamil layer.
+
+Final English artifacts:
+
+- main: `translations/en/main-01.md` through `main-30.md` — **30 / 30**;
+- supplementary: `translations/en/nagai-suvai-01.md` through `nagai-suvai-03.md` — **3 / 3**;
+- total: **33 / 33 present and reviewed**.
 
 Completed review batches:
 
@@ -177,36 +186,41 @@ Completed review batches:
 - Batch 2 — main **6–10** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
 - Batch 3 — main **11–15** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
 - Batch 4 — main **16–20** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- Batch 5 — main **21–25** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
+- Batch 5 — main **21–25** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- Batch 6 — main **26–30** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- Batch 7 — supplementary **1–3** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
 
-English progress:
+Final English review:
 
-- expected scene artifacts: **33**;
-- present: **25 / 33**;
-- reviewed: **25 / 33**;
-- completed batches: **5 / 7**;
-- source-hold-bearing English scenes completed: **15 / 18**;
+`translations/en/TRANSLATION_REVIEW.md` — **PASS / COMPLETE**.
+
+English closure metrics:
+
+- expected / present / reviewed scene artifacts: **33 / 33**;
+- completed batches: **7 / 7**;
+- source-hold-bearing English scenes completed: **18 / 18**;
 - Tamil terminal holds resolved by translation: **0**;
 - unresolved blocking English issues: **0**;
-- secondary-English witness used: **no**.
+- secondary-English witness contamination: **0**.
 
-Permanent translation safeguard: terminal Tamil source holds remain unresolved in English. Secure wording may be translated; held loci remain visibly marked rather than guessed.
+Permanent translation safeguard: terminal Tamil source holds remain unresolved in English. Secure wording is translated; held loci remain visibly marked rather than guessed.
 
-## User-directed 10-scene iteration policy
+Final English state:
 
-The user has directed **10 scenes per iteration**. The existing five-scene `BATCH_0N_REVIEW.md` review granularity is preserved, so one normal iteration executes two review batches where possible.
+**ENGLISH TRANSLATION COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE.**
 
-This iteration completed **10 scenes**:
+## User-directed 10-scene iteration policy — fulfilled
 
-- main Scenes **16–20** / Batch 4;
-- main Scenes **21–25** / Batch 5.
+The user directed **10 scenes per iteration**. The existing five-scene `BATCH_0N_REVIEW.md` granularity was preserved, so one normal ten-scene iteration executed two review batches where possible.
 
-Only **8 scenes remain**, so the next iteration is the final remainder iteration and should process all eight:
+The final remainder contained only **8** scenes and was completed in one go:
 
 - main **26–30** / Batch 6;
 - supplementary **1–3** / Batch 7;
-- then final `TRANSLATION_REVIEW.md` if both batch reviews pass.
+- final whole-work `TRANSLATION_REVIEW.md` — **PASS / COMPLETE**.
 
 ## Exact next activity
 
-Process **all remaining 8 English scenes in one go**, run `BATCH_06_REVIEW.md` and `BATCH_07_REVIEW.md`, then run the final 33-scene `TRANSLATION_REVIEW.md` if both pass. Do not reopen the closed Tamil source layer.
+**No next `ஒரே முத்தம்` activity is currently authorized.**
+
+Do not reopen the closed Tamil source layer or completed English layer from a generic `proceed` instruction. Wait for an explicitly named new phase such as a secondary-English-witness comparison, documented editorial refinement, stronger Tamil evidence, or a different stage play/work.
