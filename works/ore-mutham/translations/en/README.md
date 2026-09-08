@@ -1,6 +1,6 @@
 # ஒரே முத்தம் — English translation
 
-Status: **ACTIVE — BATCH 3 PASS / LOCKED; 15 / 33 ENGLISH SCENES REVIEWED**
+Status: **ACTIVE — BATCHES 4–5 PASS / LOCKED; 25 / 33 ENGLISH SCENES REVIEWED**
 
 This directory is the source-faithful English translation layer for the closed Tamil scene assemblies of **`ஒரே முத்தம்`**.
 
@@ -27,17 +27,19 @@ Supplementary numbering remains **1–3**, never main scenes 31–33.
 
 Present / reviewed:
 
-- `main-01.md` through `main-15.md` — **15 / 30 main scenes**.
+- `main-01.md` through `main-25.md` — **25 / 30 main scenes**.
 
-English scene progress: **15 / 33 present, 15 / 33 reviewed**.
+English scene progress: **25 / 33 present, 25 / 33 reviewed**.
 
 Batch reviews:
 
 - `BATCH_01_REVIEW.md` — **PASS / LOCKED**;
 - `BATCH_02_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- `BATCH_03_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
+- `BATCH_03_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- `BATCH_04_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- `BATCH_05_REVIEW.md` — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
 
-Completed batches: **3 / 7**.
+Completed batches: **5 / 7**.
 
 ## Source-hold policy
 
@@ -45,19 +47,22 @@ Hold-bearing Tamil scenes keep their unresolved loci visibly unresolved in Engli
 
 Hold-bearing English scenes completed so far:
 
-- `main-06.md` — scan 21;
-- `main-07.md` — scan 27;
-- `main-08.md` — scan 27;
-- `main-11.md` — scan 43;
-- `main-12.md` — scans 47, 48, 51;
-- `main-13.md` — scan 52;
-- `main-14.md` — scan 52.
+- main **6–8**;
+- main **11–14**;
+- main **16–20**;
+- main **23–25**.
 
-Total source-hold-bearing English scenes completed: **7 / 18**.
+Total source-hold-bearing English scenes completed: **15 / 18**.
 
 Tamil terminal holds resolved by English translation: **0**.
 
-## Stable terminology after Batch 3
+Remaining hold-bearing English scenes:
+
+- main Scene **26** → scan `[100]`;
+- main Scene **29** → `[112, 113]`;
+- supplementary Scene **3** → `[128, 130]`.
+
+## Stable terminology through Batch 5
 
 Core names / places:
 
@@ -65,36 +70,46 @@ Core names / places:
 - Ponni, Malayan, Chithra, Madhavan, Singanagan, Ellappan;
 - Inbapuri, Mullaikadu, Poonthottam, Pavalamalai.
 
-Source-sensitive recurring choices:
+Source-sensitive recurring choices include:
 
 - `Lightning` for Kumari's undercover alias `மின்னல்`;
 - recurring `மது, மங்கை` → `wine and women`;
 - *thali*, *kalakshepam*, *tandava* where the source-specific term itself matters;
 - `chandala` where the historically specific source insult itself matters;
-- *machan* when the exact Tamil kinship sense should remain non-narrowed;
+- *machan* and `Aththaan` where marked Tamil kinship/affection terms should not be narrowed silently;
 - `paraak` for the court/herald announcement form;
-- `Maharani` where the source title itself is used.
+- `Maharani` where the source title itself is used;
+- `naazhigai` for the source time-unit;
+- `Paraiyar` where the source explicitly names the caste community;
+- `Jai! Jai!` for `ஜே! ஜே!`.
 
-Reviewed mythic-name forms now include Ahalya, Nalayini, Savitri, Kumbakarna, Duryodhana and Draupadi.
+Reviewed mythic forms include Ahalya, Nalayini, Savitri, Kumbakarna, Duryodhana, Draupadi, Shakuntala, Dushyanta and Harishchandra.
 
-## Batch schedule
+## Review-batch schedule
 
 1. main 1–5 — **PASS / LOCKED**;
 2. main 6–10 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
 3. main 11–15 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-4. main 16–20 — **NEXT**;
-5. main 21–25;
-6. main 26–30;
-7. supplementary 1–3.
+4. main 16–20 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+5. main 21–25 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+6. main 26–30 — **NEXT**;
+7. supplementary 1–3 — **FINAL REMAINDER**.
 
-Each batch receives its own `BATCH_0N_REVIEW.md`. A final `TRANSLATION_REVIEW.md` will close the English layer only after all 33 scene artifacts pass Tamil→English fidelity review.
+## User-directed iteration policy
+
+The user has directed **10 scenes per iteration**. The durable five-scene batch-review structure is retained, so an ordinary ten-scene iteration executes two consecutive review batches.
+
+The just-completed iteration processed **10 scenes in one go**:
+
+- Batch 4: main 16–20;
+- Batch 5: main 21–25.
+
+Only **8 scenes remain**, so the next iteration should process the entire final remainder:
+
+- main **26–30**;
+- supplementary **1–3**;
+- then `BATCH_06_REVIEW.md`, `BATCH_07_REVIEW.md`, and final `TRANSLATION_REVIEW.md` if both batches pass.
 
 ## Exact next activity
 
-Translate and review **Batch 4 — main Scenes 16–20**. All five are hold-bearing and must preserve their Tamil terminal source holds transparently:
-
-- Scene 16 → `[60, 61]`;
-- Scene 17 → `[65]`;
-- Scene 18 → `[69]`;
-- Scene 19 → `[72, 73, 74]`;
-- Scene 20 → `[77, 79]`.
+Process **all remaining 8 English scenes in one final remainder iteration**. Preserve all terminal Tamil source holds transparently and do not reopen the closed Tamil source layer.
