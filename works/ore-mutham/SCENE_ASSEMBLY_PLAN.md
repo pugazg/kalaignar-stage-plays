@@ -1,6 +1,6 @@
 # Scene Assembly Plan — ஒரே முத்தம்
 
-Status: **BOUNDARY-AWARE PLAN ACTIVE — MAIN SCENES 1–5 ASSEMBLED / PAGE-RECORD-AUDITED**.
+Status: **SOURCE-SECURE ASSEMBLY BATCH COMPLETE / AUDITED — 13 MAIN + 2 SUPPLEMENTARY SCENES; HOLD-BEARING PHASE NEXT**.
 
 Authority chain:
 
@@ -8,7 +8,8 @@ Authority chain:
 2. canonical visually checked `pages/*.md` records;
 3. `SCENE_BOUNDARY_AUDIT.md` for shared transition-page segmentation;
 4. `STRUCTURAL_INVENTORY.md` for boundary-aware scene ranges;
-5. `TERMINAL_SOURCE_CONDITION_HOLDS.md` for unresolved-locus traceability.
+5. `TERMINAL_SOURCE_CONDITION_HOLDS.md` for unresolved-locus traceability;
+6. `SCENE_ASSEMBLY_AUDIT.md` for page-to-scene consistency of assembled files.
 
 This plan does not authorize English translation and does not authorize any repair of held wording.
 
@@ -48,7 +49,16 @@ source_condition_scans: []
 ---
 ```
 
-For a hold-bearing scene, use `assembled_from_verified_pages: false`, list the held scans, preserve the unresolved marker exactly, and keep scene status non-release-final until the source condition changes or the archival release policy explicitly accepts terminal holds.
+For a hold-bearing scene, use:
+
+```yaml
+status: "draft"
+assembled_from_verified_pages: false
+page_record_fidelity: "passed-with-source-hold"
+source_condition_scans: [<scene-relevant held scans>]
+```
+
+and preserve every `[source-held: ...]` or equivalent canonical page-layer marker exactly. A hold-bearing scene is not release-final merely because its secure text has been assembled.
 
 For a scene whose text is source-secure but whose final shared physical page is blocked only **after the next scene anchor** (main Scene 28; supplementary Scene 2), use `assembled_from_verified_pages: false`, `source_condition_scans: []`, and document the boundary-only blocked page in provenance.
 
@@ -106,39 +116,47 @@ For a scene whose text is source-secure but whose final shared physical page is 
 3. A transition scan may be split at the explicit next-scene heading; both adjacent scene files may cite the same physical scan.
 4. Physical page boundaries may be preserved as non-rendered archival comments. Documented word continuations must never be silently normalized.
 5. A terminal hold marker must survive assembly if the held locus belongs to that scene. Do not replace `[source-held: ...]` or equivalent page-layer markers with inferred words.
-6. Scenes containing a terminal unresolved locus use `assembled_from_verified_pages: false` and list every affected scene-relevant scan under `source_condition_scans`.
-7. Scenes with only verified page inputs may use `assembled_from_verified_pages: true` only after a page-to-scene consistency audit.
-8. Boundary-secure Scene 28 and supplementary Scene 2 use source-secure segments from a page whose later segment is blocked; provenance must state this and `assembled_from_verified_pages` remains false.
+6. Scenes containing a terminal unresolved locus use `assembled_from_verified_pages: false`, list every affected scene-relevant scan under `source_condition_scans`, and remain non-release-final.
+7. Scenes with only verified page inputs may use `assembled_from_verified_pages: true` only after page-to-scene consistency audit.
+8. Boundary-secure Scene 28 and supplementary Scene 2 use source-secure segments from a page whose later segment is blocked; provenance states this and `assembled_from_verified_pages` remains false.
 9. Supplementary scene numbering is independent and must display `நகைச் சுவைப் பகுதி. — காட்சி 1/2/3`, never 31/32/33.
 10. Scan 1 and scan 131 are not scene inputs. Front/back matter stay outside scene assembly.
 11. No Tamil wording may be altered as part of assembly. English translation remains a separate, later, explicitly authorized phase.
 
 ## Current assembly checkpoint
 
-Completed and page-record-audited:
+### Main play — 13 / 30 assembled and audited
 
-- main Scene 1 — `scenes/main-01.md` — scans 8–9;
-- main Scene 2 — `scenes/main-02.md` — scans 9–11;
-- main Scene 3 — `scenes/main-03.md` — scans 11–15;
-- main Scene 4 — `scenes/main-04.md` — scans 15–19;
-- main Scene 5 — `scenes/main-05.md` — scans 19–20.
+- `main-01.md` — scans 8–9;
+- `main-02.md` — scans 9–11;
+- `main-03.md` — scans 11–15;
+- `main-04.md` — scans 15–19;
+- `main-05.md` — scans 19–20;
+- `main-09.md` — scans 32–37;
+- `main-10.md` — scans 37–40;
+- `main-15.md` — scans 53–59;
+- `main-21.md` — scans 80–85;
+- `main-22.md` — scans 85–87;
+- `main-27.md` — scans 104–105;
+- `main-28.md` — scans 106–112, source-secure boundary case;
+- `main-30.md` — scans 117–118.
 
-These five scenes explicitly preserve shared transition pages and do not omit the closing text that precedes the next scene heading.
+### Supplementary — 2 / 3 assembled and audited
 
-## Corrected next assembly order
+- `nagai-suvai-01.md` — scans 119–125;
+- `nagai-suvai-02.md` — scans 125–128, source-secure boundary case.
 
-Continue with scenes whose **entire contributing physical page set is verified**:
+`SCENE_ASSEMBLY_AUDIT.md` records **PASS — 15 / 15** assembled source-secure scenes page-record-consistent. No terminal unresolved locus has been imported into any assembled scene.
 
-1. main scenes **9–10**;
-2. main scene **15**;
-3. main scenes **21–22**;
-4. main scene **27**;
-5. main scene **30**;
-6. supplementary Scene **1**.
+## Exact next assembly order — hold-bearing phase
 
-Then assemble the two source-secure boundary cases with special provenance:
+Proceed in source order so every terminal locus remains easy to trace:
 
-7. main Scene **28** using only the secure Scene-28 prefix of blocked scan 112;
-8. supplementary Scene **2** using only the secure Scene-2 prefix of blocked scan 128.
+1. main scenes **6–8**;
+2. main scenes **11–14**;
+3. main scenes **16–20**;
+4. main scenes **23–26**;
+5. main scene **29**;
+6. supplementary `நகைச் சுவைப் பகுதி.` **Scene 3**.
 
-After those are audited, proceed to hold-bearing scenes with explicit terminal-locus preservation. Main Scene **7 is no longer in the verified-only batch** because its closing portion on scan 27 contains held Scene-7 wording.
+For every hold-bearing scene: copy canonical page-record segments only; preserve every source-held marker exactly; set `assembled_from_verified_pages: false`; list all scene-relevant held scans in `source_condition_scans`; do not repair wording from context. Run another page-to-scene audit after the hold-bearing batch. Do **not** begin English translation.
