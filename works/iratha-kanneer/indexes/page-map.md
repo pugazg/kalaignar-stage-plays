@@ -1,6 +1,6 @@
 # Page map — இரத்தக் கண்ணீர்
 
-Status: **SCANS 1–70 FINAL VERIFIED / H-GATE PASS — 70 / 188 PHYSICAL SCANS COMPLETE**
+Status: **SCANS 1–80 FINAL VERIFIED / H-GATE PASS — 80 / 188 PHYSICAL SCANS COMPLETE**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -30,8 +30,10 @@ Every expanded row distinguishes canonical transcription, initial visual verific
 | 63–65 | 62–64 | Scene 17 | opener / drama / close | complete | PASS | PASS | `verified` | scan 63 `வீரப்பனா?`; source `அஞ்சல் மண் வேலையை`; star scan 65 |
 | 66–67 | 65–66 | Scene 18 | opener / close | complete | PASS | PASS | `verified` | `பாளையக்காரருக்கு`→`அதிகாரமில்லை`; star scan 67 |
 | 68 | 67 | Scene 19 | opener + close | complete | PASS | PASS | `verified` | single-page scene; `ஓலைபோன்றில்`; star |
-| 69–70 | 68–69 | Scene 20 | opener / continuation | complete | PASS | PASS | `verified` | scene continues; scan 70 retains source `முடிவு தற்குள்` |
-| 71–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
+| 69–70 | 68–69 | Scene 20 | opener / continuation | complete | PASS | PASS | `verified` | Batch 07; scan 70 retains source `முடிவு தற்குள்` |
+| 71–75 | 70–74 | Scene 20 | continuation / close | complete | PASS | PASS | `verified` | Batch 08; scan 75 `அவனை`; centred star scan 75 |
+| 76–80 | 75–79 | Scene 21 | opener / drama / close | complete | PASS | PASS | `verified` | Batch 08; scan 77 `மலைபோல்`; scan 78 `வீரனில்லை`; centred star scan 80 |
+| 81–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
 | 180 | 179 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 59]` |
 | 181–182 | visible | main dramatic text | drama pages | not-started | pending | pending | `not-started` | continuation; exact boundaries pending |
 | 183 | 182 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 60]` |
@@ -57,18 +59,19 @@ Batch reviews:
 - `../BATCH_04_REVIEW.md` — **PASS / scans 31–40**;
 - `../BATCH_05_REVIEW.md` — **PASS / scans 41–50**;
 - `../BATCH_06_REVIEW.md` — **PASS / scans 51–60**;
-- `../BATCH_07_REVIEW.md` — **PASS / scans 61–70**.
+- `../BATCH_07_REVIEW.md` — **PASS / scans 61–70**;
+- `../BATCH_08_REVIEW.md` — **PASS / scans 71–80**.
 
 ## Current totals
 
-- canonical page records: **70 / 188**;
-- initial visual verification PASS: **70 / 188**;
-- H-GATE PASS: **70 / 188**;
-- final `verified`: **70 / 188**;
-- historical-glyph corrections recorded: **18** total;
+- canonical page records: **80 / 188**;
+- initial visual verification PASS: **80 / 188**;
+- H-GATE PASS: **80 / 188**;
+- final `verified`: **80 / 188**;
+- historical-glyph corrections recorded: **20** total;
 - `needs-review`: **0**;
 - `blocked`: **0**.
 
 ## Next expansion batch
 
-Expand and process **scans 71–80** individually.
+Expand and process **scans 81–90** individually.

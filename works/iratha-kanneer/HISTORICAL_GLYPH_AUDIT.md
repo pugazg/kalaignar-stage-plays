@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — இரத்தக் கண்ணீர்
 
-Status: **BATCHES 01–07 PASS — SCANS 1–70 / 70 OF 188 H-GATES COMPLETE; 70 FINAL `verified`; 18 HISTORICAL-GLYPH CORRECTIONS RECORDED**
+Status: **BATCHES 01–08 PASS — SCANS 1–80 / 80 OF 188 H-GATES COMPLETE; 80 FINAL `verified`; 20 HISTORICAL-GLYPH CORRECTIONS RECORDED**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -44,13 +44,13 @@ This is a minimum, not a closed list. If another historical look-alike appears, 
 | Measure | Count |
 |---|---:|
 | Physical scans | 188 |
-| Canonical page records created | 70 / 188 |
-| Initial visual verification PASS | 70 / 188 |
-| H-GATE checked / PASS | 70 / 188 |
-| Final `verified` | 70 / 188 |
+| Canonical page records created | 80 / 188 |
+| Initial visual verification PASS | 80 / 188 |
+| H-GATE checked / PASS | 80 / 188 |
+| Final `verified` | 80 / 188 |
 | `needs-review` after processing | 0 |
 | `blocked` | 0 |
-| Historical-glyph corrections recorded | 18 |
+| Historical-glyph corrections recorded | 20 |
 
 Batch authorities:
 
@@ -60,7 +60,8 @@ Batch authorities:
 - `BATCH_04_REVIEW.md` — **PASS / scans 31–40**;
 - `BATCH_05_REVIEW.md` — **PASS / scans 41–50**;
 - `BATCH_06_REVIEW.md` — **PASS / scans 51–60**;
-- `BATCH_07_REVIEW.md` — **PASS / scans 61–70**.
+- `BATCH_07_REVIEW.md` — **PASS / scans 61–70**;
+- `BATCH_08_REVIEW.md` — **PASS / scans 71–80**.
 
 ## Secure same-edition reference bank
 
@@ -82,10 +83,10 @@ _no secure positive witness yet_
 _no secure positive witness yet_
 
 ### `லை`
-Established repeatedly through scans 1–70. Scan 61 adds the directly adjudicated `வேலை பார்த்தாய்`.
+Established repeatedly through scans 1–80. Secure adjudications include scan 61 `வேலை பார்த்தாய்`, scan 77 `மலைபோல்`, and scan 78 `வீரனில்லை`.
 
 ### `ளை`
-Established repeatedly through scans 1–70. Scan 53 retains the secure adjudicated reading `சொத்துக்களைப் பிடிக்கும்`.
+Established repeatedly through scans 1–80. Scan 53 retains the secure adjudicated reading `சொத்துக்களைப் பிடிக்கும்`.
 
 ### `றா`
 _no secure correction witness yet_
@@ -112,13 +113,14 @@ _no secure correction witness yet_
 - scan 11: `அஞ்சல் மனையில்`;
 - scans 12, 16: `அஞ்சல் மனை`;
 - scan 31: `யானை போல்`;
-- scan 61: `அஞ்சல் மனைக்கு`.
+- scan 61: `அஞ்சல் மனைக்கு`;
+- scan 75: Activity-1 / Batch-08 reconfirmed `அவனை`.
 
 ### `னொ`
 _no secure positive witness yet_
 
 ### `னோ`
-_no secure positive witness yet_
+- scan 72: `நானோ` — secure positive same-edition witness established in Batch 08.
 
 ### Supplemental `ளா`
 - scan 48: secure same-page witnesses including `உட்கார்ந்தாள்`, `எழுந்தாள்`, `நின்றாள்`, `உலவினாள்`, `அயர்ந்தாள்`, `சாய்ந்தாள்`, `முயன்றாள்`, `கொண்டாள்`, `துவங்கிறாள்`, `வைத்தாள்`, `அலறினாள்`;
@@ -146,10 +148,18 @@ _no secure positive witness yet_
 | 61 | 60 | `வேல் பார்த்தாய்` | `வேலை பார்த்தாய்` | `லை` | enlarged source cluster + same-edition `லை` evidence | PASS |
 | 61 | 60 | `அஞ்சல் மணிக்கு` | `அஞ்சல் மனைக்கு` | `னை` | enlarged source cluster + established same-edition `னை` witnesses | PASS |
 | 63 | 62 | `வீரப்பனு?` | `வீரப்பனா?` | `னா` | enlarged source cluster + established same-edition `னா` witnesses | PASS |
+| 77 | 76 | `மலபோல்` | `மலைபோல்` | `லை` | enlarged/native source cluster + same-edition `லை` witnesses | PASS |
+| 78 | 77 | `வீரனில்ல` | `வீரனில்லை` | `லை` | enlarged/native source cluster + same-edition `லை` witnesses; source phrase `வீரனில்லை யென்றீர்களே` | PASS |
 
-## Batch 07 source-sensitive observations
+## Batch 08 isolated adjudication not counted as a correction
 
-H-GATE did **not** authorize modernization of unusual source forms. Source-faithful readings retained in the batch include `பெண் கழுதைய புத்தி`, `வைதீக மனம்`, `அஞ்சல் மண் வேலையை`, `நாறு அடி`, `இளிச்ச வாயர்கள்`, `சாவு ஒன்றுதானய்யா`, `ஓலைபோன்றில்`, the source line-boundary wording `முடிவு தற்குள்`, `வெல்லத்தாலா`, `வெல்லமில்லை`, and `விழலுக்கு நீர் இறைக்காதே`.
+Scan 75 `அவனை` (`னை`) was adjudicated from source pixels before the canonical page record was committed. The canonical record therefore already contained the source-supported reading. Batch 08's full H-GATE reconfirmed it; it does not increase the correction count.
+
+## Batch 08 ordinary source reconciliation
+
+The enlarged H-GATE source pass also found ordinary transcription/source-fidelity mismatches. They are documented in `BATCH_08_REVIEW.md` and corrected in the page records. They are not counted as historical-glyph corrections.
+
+Source-sensitive readings retained include `உடம்புக் கென்ன?`, `வேலை போய்விட்ட தென்று`, `சோலைவன மல்ல`, `பாலைவன மென்று`, `அழகில்லை யென்று`, scan-75 `அஞ்சல் மண்`, `விலக, மறந்து விடாதீர்கள்`, `உன்னிஷ்டப்படி`, `பலிகொடேன்`, `தண்டப் பொருளைக்`, `நன்றுயிருக்கிறது`, and `குறுக்கே நிற்காதீர் நீர்!`.
 
 ## Batch checkpoint
 
@@ -161,5 +171,6 @@ H-GATE did **not** authorize modernization of unusual source forms. Source-faith
 - scans 41–50 — **PASS / COMPLETE**;
 - scans 51–60 — **PASS / COMPLETE**;
 - scans 61–70 — **PASS / COMPLETE**;
-- contiguous final-verified range — **scans 1–70**;
-- next H-GATE batch — **scans 71–80**, after each page's initial visual verification.
+- scans 71–80 — **PASS / COMPLETE**;
+- contiguous final-verified range — **scans 1–80**;
+- next H-GATE batch — **scans 81–90**, after each page's initial visual verification.
