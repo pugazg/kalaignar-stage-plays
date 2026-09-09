@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் scans 71–80
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் scans 81–90
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work:
 
@@ -23,8 +23,8 @@ Read completely before source-dependent work:
 7. `works/iratha-kanneer/metadata/source.md`
 8. `works/iratha-kanneer/indexes/page-map.md`
 9. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`
-10. `BATCH_01_REVIEW.md` through `BATCH_07_REVIEW.md`
-11. relevant page records through `pages/0070.md`
+10. `BATCH_01_REVIEW.md` through `BATCH_08_REVIEW.md`
+11. relevant page records through `pages/0080.md`
 
 Resolve / attach the controlling PDF before page-level visual work.
 
@@ -48,19 +48,21 @@ The conversation preview exposes only **150** pages, but raw-PDF inspection conf
 ## Durable checkpoint
 
 - P0 source intake — **PASS**
-- canonical page records — **70 / 188**
-- initial visual verification — **70 / 188**
-- post-verification historical-glyph H-GATE — **70 / 188**
-- final verified — **70 / 188**
-- contiguous verified range — **scans 1–70**
-- Batches 01–07 — **PASS / COMPLETE**
-- Batch 07 — **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**
-- historical-glyph corrections recorded — **18**
+- canonical page records — **80 / 188**
+- initial visual verification — **80 / 188**
+- post-verification historical-glyph H-GATE — **80 / 188**
+- final verified — **80 / 188**
+- contiguous verified range — **scans 1–80**
+- Batches 01–08 — **PASS / COMPLETE**
+- Batch 08 — **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**
+- historical-glyph corrections recorded — **20**
 - unresolved page-level source issues — **0**
+- `needs-review` — **0**
+- `blocked` — **0**
 - scene assembly — **not started / blocked on page layer**
 - English — **not authorized / not started**
 
-Verified structure through scan 70:
+Verified structure through scan 80:
 
 - Scene 1 scans 8–13;
 - Scene 2 scans 14–18;
@@ -81,7 +83,8 @@ Verified structure through scan 70:
 - Scene 17 scans 63–65;
 - Scene 18 scans 66–67;
 - Scene 19 scan 68 only;
-- Scene 20 begins scan 69 and continues beyond scan 70.
+- Scene 20 scans 69–75;
+- Scene 21 scans 76–80.
 
 Do not turn this partial evidence into a final whole-work scene inventory.
 
@@ -102,35 +105,26 @@ The family list is a minimum, not a ceiling. Batch 05 also established historica
 
 ## Established historical corrections — do not regress
 
-Eighteen corrections are recorded through scan 70. Batch-07 additions:
+Twenty corrections are recorded through scan 80. Latest Batch-08 additions:
 
-- scan 61 `மனிதனாயிற்றே` (`னா`) — never restore apparent `மனிதனுயிற்றே`;
-- scan 61 `வேலை பார்த்தாய்` (`லை`) — never restore apparent `வேல் பார்த்தாய்`;
-- scan 61 `அஞ்சல் மனைக்கு` (`னை`) — never restore apparent `அஞ்சல் மணிக்கு`;
-- scan 63 `வீரப்பனா?` (`னா`) — never restore apparent `வீரப்பனு?`.
+- scan 77 `மலைபோல்` (`லை`) — never restore apparent `மலபோல்`;
+- scan 78 `வீரனில்லை` (`லை`) — never restore apparent `வீரனில்ல`.
 
-The separately source-visible scan-63 `அஞ்சல் மண் வேலையை` remains authoritative and must not be globally replaced.
+Scan 75 `அவனை` (`னை`) was independently source-adjudicated before page creation and reconfirmed by the full Batch-08 gate. Scan 72 `நானோ` is a secure positive `னோ` witness.
 
-## Exact next activity — Batch 08 split into three activities
+The separately source-visible scan-63 `அஞ்சல் மண் வேலையை` and scan-75 `அஞ்சல் மண்` remain authoritative; never apply global replacements.
 
-Batch 08 is deliberately split so ordinary source transcription and historical-glyph adjudication do not contaminate one another.
+## Exact next activity — Batch 09 / scans 81–90
 
-### Activity 1 — scan 75 glyph adjudication
+1. Create `pages/0081.md` through `0090.md`.
+2. Establish any scan-80→81 continuation from scan-81 source pixels only.
+3. Transcribe all ten scans directly from native/enlarged source pixels.
+4. Preserve exact source wording, punctuation, line/scan boundaries, scene headings and centred scene-close stars. Do not normalize unusual forms.
+5. Complete ordinary initial visual verification.
+6. Run the independent full H-GATE on all ten pages, checking the complete mandatory family set plus any additional look-alikes.
+7. Record only corrections proven by the source pixels. No OCR authority, contextual guessing, grammar correction or global replacement.
+8. Promote only clean pages to final `verified`; leave unresolved glyph identity as `needs-review`.
+9. Create `BATCH_09_REVIEW.md` after the batch passes.
+10. Update `indexes/page-map.md`, `HISTORICAL_GLYPH_AUDIT.md`, work/root READMEs, root `HANDOVER.md`, and this prompt; then fetch final live `main` SHA.
 
-**COMPLETE as working source evidence.** Lock scan-75 reading `அவனை` (`னை`). This is not yet a durable page-count advance because `pages/0075.md` has not been committed.
-
-### Activity 2 — ACTIVE / do this next
-
-1. create `pages/0071.md` through `0080.md`;
-2. establish scan-70 continuation from scan 71 pixels only;
-3. transcribe all ten scans directly from source pixels;
-4. perform ordinary initial visual verification only;
-5. after initial PASS but before H-GATE, keep each page exactly as `status: needs-review`, `initial_verification: passed`, `historical_glyph_gate: pending`;
-6. preserve Scene 20 closure on scan 75 and Scene 21 scans 76–80, closing on scan 80;
-7. do **not** create `BATCH_08_REVIEW.md` yet and do **not** promote pages to final `verified`.
-
-### Activity 3 — only after Activity 2 is committed
-
-Run the separate full H-GATE on scans 71–80, including the complete mandatory family set and any additional look-alikes. Working candidates isolated for this activity include scan 77 apparent `மலபோல்` → source-supported `மலைபோல்` (`லை`) and scan 78 apparent `வீரனில்ல` → source-supported `வீரனில்லை` (`லை`). Record only corrections actually proven by source pixels. Then create `BATCH_08_REVIEW.md`, update page map/glyph audit/READMEs/handover/prompt, and fetch final live `main` SHA.
-
-Do not begin scene assembly or English translation merely because Batch 08 completes.
+Do not begin scene assembly or English translation merely because Batch 09 completes.
