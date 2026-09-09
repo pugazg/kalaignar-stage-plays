@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — இரத்தக் கண்ணீர்
 
-Status: **BATCHES 01–09 PASS — SCANS 1–90 / 90 OF 188 H-GATES COMPLETE; 90 FINAL `verified`; 23 HISTORICAL-GLYPH CORRECTIONS RECORDED**
+Status: **BATCHES 01–10 PASS — SCANS 1–100 / 100 OF 188 H-GATES COMPLETE; 100 FINAL `verified`; 23 HISTORICAL-GLYPH CORRECTIONS RECORDED**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -19,7 +19,7 @@ Every applicable Tamil page receives the complete minimum-family check:
 
 This is a minimum, not a closed list. If another historical look-alike appears, it must also be adjudicated. Batch 05 exposed supplemental `ளா` forms on scan 48.
 
-## Gate order
+## gate order
 
 1. canonical source transcription;
 2. initial visual verification;
@@ -44,10 +44,10 @@ This is a minimum, not a closed list. If another historical look-alike appears, 
 | Measure | Count |
 |---|---:|
 | Physical scans | 188 |
-| Canonical page records created | 90 / 188 |
-| Initial visual verification PASS | 90 / 188 |
-| H-GATE checked / PASS | 90 / 188 |
-| Final `verified` | 90 / 188 |
+| Canonical page records created | 100 / 188 |
+| Initial visual verification PASS | 100 / 188 |
+| H-GATE checked / PASS | 100 / 188 |
+| Final `verified` | 100 / 188 |
 | `needs-review` after processing | 0 |
 | `blocked` | 0 |
 | Historical-glyph corrections recorded | 23 |
@@ -62,7 +62,8 @@ Batch authorities:
 - `BATCH_06_REVIEW.md` — **PASS / scans 51–60**;
 - `BATCH_07_REVIEW.md` — **PASS / scans 61–70**;
 - `BATCH_08_REVIEW.md` — **PASS / scans 71–80**;
-- `BATCH_09_REVIEW.md` — **PASS / scans 81–90**.
+- `BATCH_09_REVIEW.md` — **PASS / scans 81–90**;
+- `BATCH_10_REVIEW.md` — **PASS / scans 91–100**.
 
 ## Secure same-edition reference bank
 
@@ -75,7 +76,8 @@ Batch authorities:
 - scan 2: `பண்ணை`;
 - scan 5: `பண்ணையார்`;
 - scan 29: `பெண்ணை`;
-- scan 36: `கண்ணையா!`.
+- scan 36: `கண்ணையா!`;
+- scan 95: `வீணை`.
 
 ### `ணொ`
 _no secure positive witness yet_
@@ -84,13 +86,13 @@ _no secure positive witness yet_
 _no secure positive witness yet_
 
 ### `லை`
-Established repeatedly through scans 1–90. Secure adjudications include scan 61 `வேலை பார்த்தாய்`, scan 77 `மலைபோல்`, and scan 78 `வீரனில்லை`.
+Established repeatedly through scans 1–100. Secure adjudications include scan 61 `வேலை பார்த்தாய்`, scan 77 `மலைபோல்`, and scan 78 `வீரனில்லை`.
 
 ### `ளை`
-Established repeatedly through scans 1–90. Scan 53 retains the secure adjudicated reading `சொத்துக்களைப் பிடிக்கும்`.
+Established repeatedly through scans 1–100. Scan 53 retains the secure adjudicated reading `சொத்துக்களைப் பிடிக்கும்`.
 
 ### `றா`
-_no secure correction witness yet_
+- scan 92: `புறாக்கள்` — secure positive same-edition witness; no correction-ledger entry required.
 
 ### `றொ`
 _no secure correction witness yet_
@@ -108,7 +110,9 @@ _no secure correction witness yet_
 - scan 61: `மனிதனாயிற்றே`;
 - scan 63: `வீரப்பனா?`;
 - scan 84: `முத்தனா?`, `நல்லவனாயிற்றே`;
-- scan 86: `இப்படித்தானா?`.
+- scan 86: `இப்படித்தானா?`;
+- scan 92: `அவள்தானா?`, `மாயனால்`;
+- scan 95: `என்னால்`, `மறப்பேனா`.
 
 ### `னை`
 - scan 5: `கற்பனை`;
@@ -128,7 +132,8 @@ _no secure positive witness yet_
 
 ### Supplemental `ளா`
 - scan 48: secure same-page witnesses including `உட்கார்ந்தாள்`, `எழுந்தாள்`, `நின்றாள்`, `உலவினாள்`, `அயர்ந்தாள்`, `சாய்ந்தாள்`, `முயன்றாள்`, `கொண்டாள்`, `துவங்கிறாள்`, `வைத்தாள்`, `அலறினாள்`;
-- scan 49: `விட்டாள்` confirms the same-edition identity.
+- scan 49: `விட்டாள்` confirms the same-edition identity;
+- scan 95: `பேசினாள்` confirms the same historical `ளா` identity in Batch 10.
 
 ## Correction log
 
@@ -164,11 +169,11 @@ Historical-glyph adjudication is local, never global. Source-visible readings su
 
 ## Ordinary source reconciliation
 
-Batch 08 and Batch 09 enlarged H-GATE passes also found ordinary transcription/source-fidelity mismatches. Those are documented in their batch reviews and corrected in page records. They are not counted as historical-glyph corrections.
+Batch 08, Batch 09 and Batch 10 enlarged H-GATE/final-proofread passes also found ordinary transcription/source-fidelity mismatches. Those are documented in their batch reviews and corrected in page records. They are not counted as historical-glyph corrections. Batch 10 added secure positive historical-family witnesses but **no new correction-ledger entry**, so the cumulative total remains 23.
 
 ## Current gate conclusion
 
-- scans 1–90: full H-GATE **PASS**;
+- scans 1–100: full H-GATE **PASS**;
 - unresolved historical-glyph loci: **0**;
 - historical-glyph corrections recorded: **23**;
-- next H-GATE scope: **scans 91–100**.
+- next H-GATE scope: **scans 101–110**.
