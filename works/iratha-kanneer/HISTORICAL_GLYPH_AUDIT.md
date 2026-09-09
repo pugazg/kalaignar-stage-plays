@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — இரத்தக் கண்ணீர்
 
-Status: **BATCHES 01–10 PASS — SCANS 1–100 / 100 OF 188 H-GATES COMPLETE; 100 FINAL `verified`; 23 HISTORICAL-GLYPH CORRECTIONS RECORDED**
+Status: **BATCHES 01–11 PASS — SCANS 1–110 / 110 OF 188 H-GATES COMPLETE; 110 FINAL `verified`; 23 HISTORICAL-GLYPH CORRECTIONS RECORDED**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -44,10 +44,10 @@ This is a minimum, not a closed list. If another historical look-alike appears, 
 | Measure | Count |
 |---|---:|
 | Physical scans | 188 |
-| Canonical page records created | 100 / 188 |
-| Initial visual verification PASS | 100 / 188 |
-| H-GATE checked / PASS | 100 / 188 |
-| Final `verified` | 100 / 188 |
+| Canonical page records created | 110 / 188 |
+| Initial visual verification PASS | 110 / 188 |
+| H-GATE checked / PASS | 110 / 188 |
+| Final `verified` | 110 / 188 |
 | `needs-review` after processing | 0 |
 | `blocked` | 0 |
 | Historical-glyph corrections recorded | 23 |
@@ -63,21 +63,24 @@ Batch authorities:
 - `BATCH_07_REVIEW.md` — **PASS / scans 61–70**;
 - `BATCH_08_REVIEW.md` — **PASS / scans 71–80**;
 - `BATCH_09_REVIEW.md` — **PASS / scans 81–90**;
-- `BATCH_10_REVIEW.md` — **PASS / scans 91–100**.
+- `BATCH_10_REVIEW.md` — **PASS / scans 91–100**;
+- `BATCH_11_REVIEW.md` — **PASS / scans 101–110**.
 
 ## Secure same-edition reference bank
 
 ### `ணா`
 - scans 1–2, 4–5: `கருணாநிதி`;
 - scan 19: `ஆணாகப்`;
-- scan 28: `அண்ணா`.
+- scan 28: `அண்ணா`;
+- scan 107: `கண்ணாடி`.
 
 ### `ணை`
 - scan 2: `பண்ணை`;
 - scan 5: `பண்ணையார்`;
 - scan 29: `பெண்ணை`;
 - scan 36: `கண்ணையா!`;
-- scan 95: `வீணை`.
+- scan 95: `வீணை`;
+- scan 101: `கண்ணை`.
 
 ### `ணொ`
 _no secure positive witness yet_
@@ -86,10 +89,10 @@ _no secure positive witness yet_
 _no secure positive witness yet_
 
 ### `லை`
-Established repeatedly through scans 1–100. Secure adjudications include scan 61 `வேலை பார்த்தாய்`, scan 77 `மலைபோல்`, and scan 78 `வீரனில்லை`.
+Established repeatedly through scans 1–110. Secure adjudications include scan 61 `வேலை பார்த்தாய்`, scan 77 `மலைபோல்`, and scan 78 `வீரனில்லை`.
 
 ### `ளை`
-Established repeatedly through scans 1–100. Scan 53 retains the secure adjudicated reading `சொத்துக்களைப் பிடிக்கும்`.
+Established repeatedly through scans 1–110. Scan 53 retains the secure adjudicated reading `சொத்துக்களைப் பிடிக்கும்`.
 
 ### `றா`
 - scan 92: `புறாக்கள்` — secure positive same-edition witness; no correction-ledger entry required.
@@ -112,7 +115,9 @@ _no secure correction witness yet_
 - scan 84: `முத்தனா?`, `நல்லவனாயிற்றே`;
 - scan 86: `இப்படித்தானா?`;
 - scan 92: `அவள்தானா?`, `மாயனால்`;
-- scan 95: `என்னால்`, `மறப்பேனா`.
+- scan 95: `என்னால்`, `மறப்பேனா`;
+- scan 101: `கிழவனானான்`;
+- scan 110: `என்னால்`.
 
 ### `னை`
 - scan 5: `கற்பனை`;
@@ -169,11 +174,13 @@ Historical-glyph adjudication is local, never global. Source-visible readings su
 
 ## Ordinary source reconciliation
 
-Batch 08, Batch 09 and Batch 10 enlarged H-GATE/final-proofread passes also found ordinary transcription/source-fidelity mismatches. Those are documented in their batch reviews and corrected in page records. They are not counted as historical-glyph corrections. Batch 10 added secure positive historical-family witnesses but **no new correction-ledger entry**, so the cumulative total remains 23.
+Batch 08, Batch 09 and Batch 10 enlarged H-GATE/final-proofread passes also found ordinary transcription/source-fidelity mismatches. Those are documented in their batch reviews and corrected in page records. They are not counted as historical-glyph corrections.
+
+Batch 11 added secure positive historical-family witnesses but **no new correction-ledger entry**, so the cumulative total remains 23. Its source-sensitive readings and final proofread decisions are documented in `BATCH_11_REVIEW.md`.
 
 ## Current gate conclusion
 
-- scans 1–100: full H-GATE **PASS**;
+- scans 1–110: full H-GATE **PASS**;
 - unresolved historical-glyph loci: **0**;
 - historical-glyph corrections recorded: **23**;
-- next H-GATE scope: **scans 101–110**.
+- next H-GATE scope: **scans 111–120**.
