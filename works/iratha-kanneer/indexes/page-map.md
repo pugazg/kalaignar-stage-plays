@@ -1,6 +1,6 @@
 # Page map — இரத்தக் கண்ணீர்
 
-Status: **SCANS 1–80 FINAL VERIFIED / H-GATE PASS — 80 / 188 PHYSICAL SCANS COMPLETE**
+Status: **SCANS 1–90 FINAL VERIFIED / H-GATE PASS — 90 / 188 PHYSICAL SCANS COMPLETE**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -33,7 +33,12 @@ Every expanded row distinguishes canonical transcription, initial visual verific
 | 69–70 | 68–69 | Scene 20 | opener / continuation | complete | PASS | PASS | `verified` | Batch 07; scan 70 retains source `முடிவு தற்குள்` |
 | 71–75 | 70–74 | Scene 20 | continuation / close | complete | PASS | PASS | `verified` | Batch 08; scan 75 `அவனை`; centred star scan 75 |
 | 76–80 | 75–79 | Scene 21 | opener / drama / close | complete | PASS | PASS | `verified` | Batch 08; scan 77 `மலைபோல்`; scan 78 `வீரனில்லை`; centred star scan 80 |
-| 81–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
+| 81 | 80 | Scene 22 | opener + close | complete | PASS | PASS | `verified` | one-page scene; source `அஞ்சல் மண்ணில் தான்`; centred star |
+| 82–83 | 81–82 | Scene 23 | opener / close | complete | PASS | PASS | `verified` | scan 82 `சேர்ந்` → scan 83 `துள்ள`; centred star scan 83 |
+| 84 | 83 | Scene 24 | opener + close | complete | PASS | PASS | `verified` | `முத்தனா?`, `நல்லவனாயிற்றே`; centred star |
+| 85–88 | 84–87 | Scene 25 | opener / drama / close | complete | PASS | PASS | `verified` | scan 86 `இப்படித்தானா?`; source `காவம் பிடித்த ஓநாயை`; centred star scan 88 |
+| 89–90 | 88–89 | Scene 26 | opener / close | complete | PASS | PASS | `verified` | scan 90 `உற்சாகம் பொழியும். சரிதான் வா`; centred star scan 90 |
+| 91–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
 | 180 | 179 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 59]` |
 | 181–182 | visible | main dramatic text | drama pages | not-started | pending | pending | `not-started` | continuation; exact boundaries pending |
 | 183 | 182 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 60]` |
@@ -60,18 +65,19 @@ Batch reviews:
 - `../BATCH_05_REVIEW.md` — **PASS / scans 41–50**;
 - `../BATCH_06_REVIEW.md` — **PASS / scans 51–60**;
 - `../BATCH_07_REVIEW.md` — **PASS / scans 61–70**;
-- `../BATCH_08_REVIEW.md` — **PASS / scans 71–80**.
+- `../BATCH_08_REVIEW.md` — **PASS / scans 71–80**;
+- `../BATCH_09_REVIEW.md` — **PASS / scans 81–90**.
 
 ## Current totals
 
-- canonical page records: **80 / 188**;
-- initial visual verification PASS: **80 / 188**;
-- H-GATE PASS: **80 / 188**;
-- final `verified`: **80 / 188**;
-- historical-glyph corrections recorded: **20** total;
+- canonical page records: **90 / 188**;
+- initial visual verification PASS: **90 / 188**;
+- H-GATE PASS: **90 / 188**;
+- final `verified`: **90 / 188**;
+- historical-glyph corrections recorded: **23** total;
 - `needs-review`: **0**;
 - `blocked`: **0**.
 
 ## Next expansion batch
 
-Expand and process **scans 81–90** individually.
+Expand and process **scans 91–100** individually.

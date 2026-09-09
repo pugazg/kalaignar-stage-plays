@@ -4,7 +4,7 @@ Archive slug: `iratha-kanneer`.
 
 ## Current status
 
-**ACTIVE — P0 SOURCE INTAKE PASS; SCANS 1–80 / 80 OF 188 CANONICAL + INITIAL-VERIFIED + H-GATE PASS + FINAL `verified`; BATCHES 01–08 PASS; NEXT SCANS 81–90.**
+**ACTIVE — P0 SOURCE INTAKE PASS; SCANS 1–90 / 90 OF 188 CANONICAL + INITIAL-VERIFIED + H-GATE PASS + FINAL `verified`; BATCHES 01–09 PASS; NEXT SCANS 91–100.**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -51,19 +51,21 @@ The minimum set is not exhaustive. Batch 05 additionally identified historical `
 - `BATCH_06_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 51–60**.
 - `BATCH_07_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 61–70**.
 - `BATCH_08_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 71–80**.
+- `BATCH_09_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 81–90**.
 
-Historical-glyph corrections recorded through scan 80: **20 total**.
+Historical-glyph corrections recorded through scan 90: **23 total**.
 
-Batch-08 historical additions:
+Batch-09 historical additions:
 
-- scan 77 `மலபோல்` → **`மலைபோல்`** (`லை`);
-- scan 78 `வீரனில்ல` → **`வீரனில்லை`** (`லை`).
+- scan 84 apparent `முத்தனு?` → **`முத்தனா?`** (`னா`);
+- scan 84 apparent `நல்லவனு யிற்றே` → **`நல்லவனாயிற்றே`** (`னா`);
+- scan 86 apparent `இப்படித்தானு?` → **`இப்படித்தானா?`** (`னா`).
 
-Scan 75 `அவனை` (`னை`) was source-adjudicated before its canonical page was committed and was reconfirmed by the full Batch-08 H-GATE; it is therefore not an additional correction-count entry. Scan 72 `நானோ` supplies a secure positive same-edition `னோ` witness.
+Batch 09 also resolved the difficult scan-82 source passage `ஏழையின் குரல் எஜமானின் காதில் எப்படி கேட்கும்?`, checked the scan-82→83 physical split `சேர்ந்` → `துள்ள`, and performed ordinary source reconciliation from enlarged pixels. Those ordinary fixes are documented separately in `BATCH_09_REVIEW.md` and are not counted as historical-glyph corrections.
 
-Batch 08 also performed ordinary source reconciliation from enlarged pixels. These source-fidelity fixes are documented separately in `BATCH_08_REVIEW.md` and are not counted as historical-glyph corrections.
+Source-sensitive local readings remain local: scan 81 `அஞ்சல் மண்ணில் தான்` must not be globally normalized from earlier `அஞ்சல் மனை` adjudications.
 
-## Verified structural evidence through scan 80
+## Verified structural evidence through scan 90
 
 - Scene 1: scans 8–13;
 - Scene 2: scans 14–18;
@@ -85,34 +87,39 @@ Batch 08 also performed ordinary source reconciliation from enlarged pixels. The
 - Scene 18: scans 66–67;
 - Scene 19: scan 68 only;
 - Scene 20: scans 69–75;
-- Scene 21: scans 76–80.
+- Scene 21: scans 76–80;
+- Scene 22: scan 81 only;
+- Scene 23: scans 82–83;
+- Scene 24: scan 84 only;
+- Scene 25: scans 85–88;
+- Scene 26: scans 89–90.
 
 This is page-level structural evidence only; no final work-level scene inventory is declared yet.
 
 ## Current progress
 
 - P0 source intake — **PASS**;
-- canonical page records — **80 / 188**;
-- initial visual verification — **80 / 188**;
-- historical-glyph H-GATE — **80 / 188**;
-- final verified pages — **80 / 188**;
-- contiguous verified range — **scans 1–80**;
-- historical-glyph corrections — **20 total**;
+- canonical page records — **90 / 188**;
+- initial visual verification — **90 / 188**;
+- historical-glyph H-GATE — **90 / 188**;
+- final verified pages — **90 / 188**;
+- contiguous verified range — **scans 1–90**;
+- historical-glyph corrections — **23 total**;
 - unresolved page-level source issues — **0**;
 - `needs-review` — **0**;
 - `blocked` — **0**;
 - structural / scene assembly — **not started / blocked on page layer**;
 - English translation — **not authorized / not started**.
 
-## Exact next activity — Batch 09 / scans 81–90
+## Exact next activity — Batch 10 / scans 91–100
 
 1. Resolve the controlling PDF before page-level visual work.
-2. Create `pages/0081.md` through `0090.md` directly from source pixels.
+2. Create `pages/0091.md` through `0100.md` directly from source pixels.
 3. Preserve physical page boundaries, scene headings, centred scene-close stars, source spelling, punctuation and historical forms exactly as visible.
 4. Complete ordinary initial visual verification.
 5. Run the independent full historical-glyph H-GATE on all ten pages, including the mandatory minimum family set and any additional historical look-alikes.
 6. Record only source-proven corrections. No global replacement or modernization.
 7. Promote only clean pages to final `verified`; unresolved character identity remains `needs-review`.
-8. Create `BATCH_09_REVIEW.md` and synchronize the page map, glyph audit, README/handover/checkpoint documents.
+8. Create `BATCH_10_REVIEW.md` and synchronize the page map, glyph audit, README/handover/checkpoint documents.
 
 Do not begin scene assembly or English translation merely because another page batch completes.
