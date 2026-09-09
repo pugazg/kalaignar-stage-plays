@@ -8,6 +8,9 @@
 - physical scans: **188**
 - source type: **image-only PDF**
 - source PDF committed to repository: **no**
+- source provenance: **downloaded from Tamil Digital Library (TDL) and supplied by the user**
+
+The Tamil Digital Library record is the provenance record for the exact controlling PDF supplied here; it is **not an independent secondary textual witness**. Any TDL catalogue metadata may corroborate provenance/bibliographic identity, but transcription authority remains the pixels of this supplied PDF.
 
 The conversation file preview currently reports / exposes only **150** page images. Direct raw-PDF inspection establishes **188 physical scans**. The raw PDF count controls all page processing; preview truncation must not shorten this work.
 

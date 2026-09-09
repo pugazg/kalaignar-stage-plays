@@ -19,6 +19,8 @@ Active work: `works/iratha-kanneer/`.
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
+Source provenance: the user-supplied controlling PDF was downloaded from the **Tamil Digital Library (TDL)**. The TDL catalogue/record therefore documents provenance for this exact supplied source; it is **not an independent secondary textual witness** and must not be treated as one.
+
 Current durable state:
 
 - P0 source intake: **PASS**;
@@ -115,20 +117,17 @@ Batch-07 additions:
 
 The source-visible scan-63 `அஞ்சல் மண் வேலையை` remains retained after independent re-reading; no global replacement was used.
 
-## Exact next activity — scans 71–80 / Batch 08
+## Exact next activity — Batch 08 split into three activities
 
-Process physical scans **71–80**:
+To reduce cross-contamination between ordinary transcription and glyph adjudication, Batch 08 is intentionally split:
 
-1. create `pages/0071.md` through `0080.md`;
-2. transcribe directly from source pixels;
-3. preserve scan-70 Scene 20 continuation and establish any page-boundary continuation only from scan 71 pixels;
-4. perform initial visual verification;
-5. run post-verification H-GATE on the full minimum family set plus any additional historical look-alike that appears;
-6. promote only clean H-GATE-passed pages to final `verified`;
-7. record every glyph correction / unresolved locus;
-8. create `BATCH_08_REVIEW.md` only after all ten scans complete the gate;
-9. update page map, glyph audit, work/root README, handover and next prompt;
-10. fetch final live `main` SHA.
+1. **Activity 1 — scan-75 glyph adjudication: COMPLETE as working source evidence.** Source-supported reading locked as `அவனை` (`னை`). This does not yet advance the durable page count because `0075.md` has not been committed.
+2. **Activity 2 — ACTIVE:** create `pages/0071.md` through `0080.md`, transcribe directly from source pixels, establish scan-70→71 continuation from scan 71 pixels only, and complete ordinary initial visual verification. While H-GATE is pending, each clean page must remain `status: needs-review`, `initial_verification: passed`, `historical_glyph_gate: pending`.
+3. **Activity 3 — only after Activity 2 is durably complete:** run the separate full H-GATE, adjudicate all mandatory families plus additional look-alikes, record genuine corrections/unresolved loci, promote only clean pages to final `verified`, create `BATCH_08_REVIEW.md`, and synchronize page map/audit/checkpoint documents.
+
+Working H-GATE candidates already isolated for Activity 3 include scan 77 apparent `மலபோல்` vs source-supported `மலைபோல்`, and scan 78 apparent `வீரனில்ல` vs source-supported `வீரனில்லை`; do not silently fold these into Activity 2.
+
+After Activity 3, fetch final live `main` SHA.
 
 Do not begin scene assembly or English translation merely because a page batch completes.
 

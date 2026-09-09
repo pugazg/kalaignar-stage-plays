@@ -8,6 +8,8 @@ Archive slug: `iratha-kanneer`.
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
+**Provenance:** the user-supplied controlling PDF was downloaded from the **Tamil Digital Library (TDL)**. The TDL catalogue is provenance for this exact source copy, not an independent textual witness.
+
 - SHA-256: `120428985bd327456df46b9e06271896b106332711f4c9063d4f0c7fe72b6441`;
 - file size: **319,220,349 bytes**;
 - physical scans: **188**;
@@ -106,8 +108,10 @@ Batch-07 scan-boundary continuity is explicitly preserved:
 - structural / scene assembly — **not started / blocked on page layer**;
 - English translation — **not authorized / not started**.
 
-## Exact next activity
+## Exact next activity — Batch 08 split workflow
 
-Process **scans 71–80** using the same source-first order, then create `BATCH_08_REVIEW.md` and synchronize page map, glyph audit and checkpoint documents.
+- **Activity 1 — COMPLETE as working source evidence:** scan 75 `அவனை` (`னை`) adjudicated from source pixels; no durable page-count advance yet.
+- **Activity 2 — ACTIVE:** create `pages/0071.md`–`0080.md`, complete canonical source transcription and ordinary initial visual verification only. H-GATE remains pending, so pages must stay `needs-review` after initial PASS.
+- **Activity 3 — PENDING:** run independent H-GATE for all ten pages, including isolated scan-77/78 `லை` candidates, then finalize statuses, create `BATCH_08_REVIEW.md`, and synchronize checkpoint documents.
 
 Do not begin scene assembly or English translation merely because a page batch completes.

@@ -32,6 +32,8 @@ Resolve / attach the controlling PDF before page-level visual work.
 
 `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`
 
+Source provenance: the user-supplied controlling PDF was downloaded from the **Tamil Digital Library (TDL)**. Treat the TDL record as provenance for this exact supplied source, not as an independent secondary textual witness.
+
 - title: **இரத்தக் கண்ணீர்**
 - author: **மு. கருணாநிதி**
 - publisher: **திராவிடப் பண்ணை**
@@ -109,20 +111,26 @@ Eighteen corrections are recorded through scan 70. Batch-07 additions:
 
 The separately source-visible scan-63 `அஞ்சல் மண் வேலையை` remains authoritative and must not be globally replaced.
 
-## Exact next activity — scans 71–80 / Batch 08
+## Exact next activity — Batch 08 split into three activities
 
-Process **scans 71–80** step by step:
+Batch 08 is deliberately split so ordinary source transcription and historical-glyph adjudication do not contaminate one another.
+
+### Activity 1 — scan 75 glyph adjudication
+
+**COMPLETE as working source evidence.** Lock scan-75 reading `அவனை` (`னை`). This is not yet a durable page-count advance because `pages/0075.md` has not been committed.
+
+### Activity 2 — ACTIVE / do this next
 
 1. create `pages/0071.md` through `0080.md`;
-2. establish any scan-70 continuation from scan 71 pixels only;
-3. transcribe every physical scan directly from source pixels;
-4. perform initial visual verification;
-5. run the separate post-verification historical-glyph H-GATE;
-6. finalize page status only after the gate;
-7. record every glyph correction / unresolved locus explicitly;
-8. create `BATCH_08_REVIEW.md` only when all ten scans complete the gate;
-9. update page map, glyph audit and work README;
-10. synchronize root README, `HANDOVER.md`, and this prompt;
-11. fetch final live `main` SHA.
+2. establish scan-70 continuation from scan 71 pixels only;
+3. transcribe all ten scans directly from source pixels;
+4. perform ordinary initial visual verification only;
+5. after initial PASS but before H-GATE, keep each page exactly as `status: needs-review`, `initial_verification: passed`, `historical_glyph_gate: pending`;
+6. preserve Scene 20 closure on scan 75 and Scene 21 scans 76–80, closing on scan 80;
+7. do **not** create `BATCH_08_REVIEW.md` yet and do **not** promote pages to final `verified`.
+
+### Activity 3 — only after Activity 2 is committed
+
+Run the separate full H-GATE on scans 71–80, including the complete mandatory family set and any additional look-alikes. Working candidates isolated for this activity include scan 77 apparent `மலபோல்` → source-supported `மலைபோல்` (`லை`) and scan 78 apparent `வீரனில்ல` → source-supported `வீரனில்லை` (`லை`). Record only corrections actually proven by source pixels. Then create `BATCH_08_REVIEW.md`, update page map/glyph audit/READMEs/handover/prompt, and fetch final live `main` SHA.
 
 Do not begin scene assembly or English translation merely because Batch 08 completes.

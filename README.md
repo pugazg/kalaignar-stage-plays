@@ -40,6 +40,8 @@ This is a minimum rather than a closed list: `இரத்தக் கண்ண
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
+Source provenance: the controlling PDF supplied by the user was downloaded from the **Tamil Digital Library (TDL)**. TDL is therefore the provenance/catalogue source for this exact PDF, not an independent secondary textual witness.
+
 - raw PDF physical scans: **188**;
 - file size: **319,220,349 bytes**;
 - SHA-256: **`120428985bd327456df46b9e06271896b106332711f4c9063d4f0c7fe72b6441`**;
@@ -82,7 +84,7 @@ Latest H-GATE additions:
 
 Verified page evidence through scan 70 establishes Scene 1 scans 8–13, Scene 2 scans 14–18, Scene 3 scans 19–21, Scene 4 scans 22–25, Scene 5 scans 26–29, Scene 6 scan 30, Scene 7 scans 31–33, Scene 8 scans 34–39, Scene 9 scans 40–41, Scene 10 scans 42–44, Scene 11 scans 45–46, Scene 12 scans 47–49, Scene 13 scans 50–51, Scene 14 scans 52–53, Scene 15 scans 54–57, Scene 16 scans 58–62, Scene 17 scans 63–65, Scene 18 scans 66–67, Scene 19 scan 68, and Scene 20 beginning on scan 69 and continuing beyond scan 70. This is not yet a final whole-work scene inventory.
 
-Exact next activity: process **scans 71–80** through transcription → initial verification → H-GATE → final verification where clean.
+Exact next activity uses a three-activity Batch-08 split: **Activity 1 complete** (`அவனை` on scan 75 locked as working source evidence); **Activity 2 active** (scans 71–80 canonical transcription + ordinary initial verification, leaving H-GATE pending); **Activity 3 pending** (independent H-GATE, final verification, Batch-08 review and checkpoint synchronization).
 
 ## ஒரே முத்தம் — Tamil closure checkpoint
 
