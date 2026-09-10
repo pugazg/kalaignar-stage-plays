@@ -15,7 +15,7 @@ Historical-type authority:
 
 Active-work anti-loop authority: `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் ACTIVE / SCANS 1–140 VERIFIED
+# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் ACTIVE / SCANS 1–150 VERIFIED
 
 Active work: `works/iratha-kanneer/`.
 
@@ -27,14 +27,14 @@ Current durable state:
 
 - P0 source intake: **PASS**;
 - physical scans: **188 / 188 confirmed**;
-- canonical page transcription: **140 / 188**;
-- initial visual verification: **140 / 188**;
-- historical-glyph H-GATE: **140 / 188**;
-- final verified pages: **140 / 188**;
-- contiguous final-verified range: **scans 1–140**;
-- Batches 01–14: **PASS / COMPLETE**;
-- Batch 14: **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**;
-- historical-glyph corrections recorded: **30**;
+- canonical page transcription: **150 / 188**;
+- initial visual verification: **150 / 188**;
+- historical-glyph H-GATE: **150 / 188**;
+- final verified pages: **150 / 188**;
+- contiguous final-verified range: **scans 1–150**;
+- Batches 01–15: **PASS / COMPLETE**;
+- Batch 15: **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**;
+- historical-glyph corrections recorded: **31**;
 - unresolved page-level source issues: **0**;
 - `needs-review`: **0**;
 - `blocked`: **0**;
@@ -57,8 +57,8 @@ Read completely before source-dependent work:
 8. `works/iratha-kanneer/metadata/source.md`;
 9. `works/iratha-kanneer/indexes/page-map.md`;
 10. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`;
-11. `BATCH_01_REVIEW.md` through `BATCH_14_REVIEW.md`;
-12. relevant page records through `pages/0140.md`.
+11. `BATCH_01_REVIEW.md` through `BATCH_15_REVIEW.md`;
+12. relevant page records through `pages/0150.md`.
 
 Resolve / attach the exact controlling PDF before source-dependent page work. If it is locally readable, do not detour to TDL/Wikisource for routine transcription or verification.
 
@@ -70,6 +70,7 @@ Resolve / attach the exact controlling PDF before source-dependent page work. If
 - edition **முதல் பதிப்பு — 1953**;
 - SHA-256 `120428985bd327456df46b9e06271896b106332711f4c9063d4f0c7fe72b6441`;
 - size **319,220,349 bytes**;
+- physical scans **188**;
 - image-only; source PDF not committed.
 
 ## Mandatory efficient batch workflow
@@ -86,7 +87,7 @@ Short rule:
 
 > **Local PDF → Pass A once → commit → targeted H-GATE → final commit. No external detour and no settled-text loop.**
 
-## Verified structural evidence through scan 140
+## Verified structural evidence through scan 150
 
 - Scene 1: scans 8–13;
 - Scene 2: scans 14–18;
@@ -129,9 +130,13 @@ Short rule:
 - Scene 39: scans **134–135**, centred close-star on scan 135;
 - Scene 40: scan **136** only, centred close-star;
 - Scene 41: scans **137–139**, centred close-star on scan 139;
-- Scene 42: opens scan **140**, is verified through scan 140, and **continues into scan 141**.
+- Scene 42: scans **140–141**; scan 141 has an internal `★ ★ ★` ornament and a final centred close-star;
+- Scene 43: scans **142–143**, centred close-star on scan 143;
+- Scene 44: scans **144–145**, centred close-star on scan 145;
+- Scene 45: scans **146–148**, centred close-star on scan 148;
+- Scene 46: scans **149–150**, centred close-star on scan 150.
 
-Scan 130→131 preserves the physical split `புறப்` → `படுகின்றனர்.`. Scan 141 was inspected during Batch 14 **only** to establish the Scene-42 continuation boundary. It is not verified and must be processed fully in Batch 15.
+Scan 130→131 preserves the physical split `புறப்` → `படுகின்றனர்.`. Scan 146→147 preserves `ஆரணங்கின்` → `மயக்கத்தால்...` as the same வேதாளம் utterance. Scan 150 closes Scene 46; no scan-150→151 textual continuation is implied by that source page.
 
 Do not declare a final whole-work scene inventory until the page layer closes.
 
@@ -147,38 +152,44 @@ Mandatory minimum family set:
 
 The list is a minimum, not a closed universe: Batch 05 additionally confirmed historical `ளா` look-alikes. Source pixels control. No global replacement. No grammar/spelling modernization. Same-edition comparison is preferred for doubtful clusters. Unresolved identity stays `needs-review`.
 
-## Historical-glyph corrections through scan 140
+## Historical-glyph corrections through scan 150
 
-Thirty corrections are durably recorded in `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`.
+Thirty-one corrections are durably recorded in `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`.
 
-Batch 13 added six new loci, advancing the count **23 → 29**. Batch 14 added one new locus:
+Batch 13 added six new loci, advancing the count **23 → 29**. Batch 14 added:
 
 30. scan 138 `கண்ண மறைக்கும் பேய்` → `கண்ணை மறைக்கும் பேய்` (`ணை`).
 
-This was a targeted character-identity adjudication from the controlling source, not lexical/grammar modernization. All other Batch-14 source-fidelity fixes are recorded separately in `BATCH_14_REVIEW.md`.
+Batch 15 added:
 
-## Batch 14 durable state
+31. scan 146 `இளஞரே` → `இளைஞரே` (`ளை`).
 
-- `BATCH_14_PASS_A.md` records Pass-A completion before H-GATE;
-- `pages/0131.md` through `pages/0140.md` are final `verified`;
-- `BATCH_14_REVIEW.md` is **PASS / COMPLETE / LOCKED**;
-- page map, glyph audit, work/root READMEs, this handover, and `NEXT_CHAT_PROMPT.md` are synchronized to the 140-page checkpoint.
+The Batch-15 reading was established from direct controlling-source pixels, with same-edition `இளைஞனை` on scan 138 as a supporting `ளை` witness. It is character-identity decoding, not lexical modernization.
 
-## Exact next activity — Batch 15 / scans 141–150
+## Batch 15 durable state
 
-Process scans **141–150** as the next ten-scan page batch:
+- `BATCH_15_PASS_A.md` records Pass-A completion before H-GATE;
+- Pass-A durable commit: `0b5238a97297bfd802dad00dec34e65945fa4090`;
+- `pages/0141.md` through `pages/0150.md` are final `verified` after targeted H-GATE;
+- `BATCH_15_REVIEW.md` is **PASS / COMPLETE / LOCKED**;
+- scan 146 carries the sole Batch-15 historical correction `இளஞரே` → `இளைஞரே` (`ளை`);
+- page map, glyph audit, work/root READMEs, this handover, and `NEXT_CHAT_PROMPT.md` are synchronized to the 150-page checkpoint.
 
-1. use the attached/local controlling PDF directly;
-2. Pass A: read each whole page once and create `pages/0141.md` through `0150.md`;
-3. scan 141 continues Scene 42 from scan 140; process the whole page and do not treat the prior boundary-only inspection as verification;
+## Exact next activity — Batch 16 / scans 151–160
+
+Process scans **151–160** as the next ten-scan page batch:
+
+1. resolve/read the raw local controlling PDF; do not treat preview page 150 as the source boundary;
+2. Pass A: read each whole page once and create `pages/0151.md` through `0160.md`;
+3. establish only source-proven scene boundaries and physical joins;
 4. immediately commit the Pass-A page records with H-GATE pending;
 5. Pass B: run only the targeted independent H-GATE on the mandatory family set plus actual candidate/source-sensitive loci and physical joins; do not retranscribe settled prose;
 6. create crops only for genuine unresolved character identity;
 7. promote clean pages to final `verified`; leave true unresolved identity as `needs-review`;
-8. create `BATCH_15_REVIEW.md`, synchronize page map, glyph audit, READMEs, this handover and `NEXT_CHAT_PROMPT.md`;
+8. create `BATCH_16_REVIEW.md`, synchronize page map, glyph audit, READMEs, this handover and `NEXT_CHAT_PROMPT.md`;
 9. fetch and report final live `main` SHA.
 
-Do not begin scene assembly or English translation merely because Batch 15 completes.
+Do not begin scene assembly or English translation merely because Batch 16 completes.
 
 # CLOSED WORK SAFEGUARDS
 

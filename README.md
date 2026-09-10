@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **ACTIVE — P0 PASS; scans 1–140 / 140 of 188 canonical + initial-verified + H-GATE PASS + final `verified`; 30 historical-glyph corrections recorded; next scans 141–150** |
+| [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **ACTIVE — P0 PASS; scans 1–150 / 150 of 188 canonical + initial-verified + H-GATE PASS + final `verified`; 31 historical-glyph corrections recorded; next scans 151–160** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
@@ -55,27 +55,27 @@ The conversation preview exposes only 150 page images; direct raw-PDF inspection
 Current durable state:
 
 - P0 source intake: **PASS**;
-- canonical page records: **140 / 188**;
-- initial visual verification: **140 / 188**;
-- historical-glyph H-GATE: **140 / 188**;
-- final verified pages: **140 / 188**;
-- contiguous final-verified range: **scans 1–140**;
-- historical-glyph corrections recorded: **30**;
+- canonical page records: **150 / 188**;
+- initial visual verification: **150 / 188**;
+- historical-glyph H-GATE: **150 / 188**;
+- final verified pages: **150 / 188**;
+- contiguous final-verified range: **scans 1–150**;
+- historical-glyph corrections recorded: **31**;
 - unresolved page-level source issues: **0**;
 - `needs-review`: **0**;
 - `blocked`: **0**;
 - scene assembly: **not started / blocked on page layer**;
 - English translation: **not authorized / not started**.
 
-Batch authorities now run through `works/iratha-kanneer/BATCH_14_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 131–140**.
+Batch authorities now run through `works/iratha-kanneer/BATCH_15_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 141–150**.
 
 The active work uses `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md`, requiring: **local PDF → Pass A whole-page once → durable Pass-A commit → targeted independent H-GATE → final closure commit**. Settled prose is not re-transcribed during H-GATE, and crops are created only for genuine uncertainty.
 
-Batch 14 followed that workflow. Pass B added one source-proven historical-glyph correction: scan 138 apparent `கண்ண மறைக்கும் பேய்` → `கண்ணை மறைக்கும் பேய்` (`ணை`), advancing the cumulative correction count **29 → 30**. Ordinary source-fidelity fixes are documented separately in `BATCH_14_REVIEW.md` and do not change that count.
+Batch 15 followed that workflow. Its Pass-A boundary was durably committed at `0b5238a97297bfd802dad00dec34e65945fa4090`. Pass B added one source-proven historical-glyph correction: scan 146 apparent `இளஞரே` → `இளைஞரே` (`ளை`), advancing the cumulative correction count **30 → 31**. No other ordinary source-fidelity correction was required in the targeted Batch-15 pass.
 
-Verified page evidence through scan 140 establishes Scene 37 scans **123–131**, Scene 38 scans **132–133**, Scene 39 scans **134–135**, Scene 40 scan **136**, Scene 41 scans **137–139**, and Scene 42 opens scan **140** and continues into scan **141**. Scan 141 was inspected only for the boundary and remains unprocessed/unverified.
+Verified page evidence through scan 150 establishes Scene 42 scans **140–141**, Scene 43 scans **142–143**, Scene 44 scans **144–145**, Scene 45 scans **146–148**, and Scene 46 scans **149–150**. Scan 141's internal `★ ★ ★` ornament is not a scene close; its final centred star closes Scene 42. Scan 146→147 preserves `ஆரணங்கின்` → `மயக்கத்தால்...` as a physical continuation. Scan 150 closes Scene 46 and does not imply a textual continuation into scan 151.
 
-Exact next activity: **Batch 15 / scans 141–150** using `BATCH_EXECUTION_WORKFLOW.md`: local controlling PDF, Pass A whole-page once and durable commit, then targeted H-GATE and final closure commit. Scene assembly and English remain blocked/not authorized while the page layer is incomplete.
+Exact next activity: **Batch 16 / scans 151–160** using `BATCH_EXECUTION_WORKFLOW.md`: raw local controlling PDF beyond the 150-page preview, Pass A whole-page once and durable commit, then targeted H-GATE and final closure commit. Scene assembly and English remain blocked/not authorized while the page layer is incomplete.
 
 ## ஒரே முத்தம் — Tamil closure checkpoint
 

@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் scans 141–150
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் scans 151–160
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work:
 
@@ -24,8 +24,8 @@ Read completely before source-dependent work:
 8. `works/iratha-kanneer/metadata/source.md`
 9. `works/iratha-kanneer/indexes/page-map.md`
 10. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`
-11. `BATCH_01_REVIEW.md` through `BATCH_14_REVIEW.md`
-12. relevant page records through `pages/0140.md`
+11. `BATCH_01_REVIEW.md` through `BATCH_15_REVIEW.md`
+12. relevant page records through `pages/0150.md`
 
 Resolve / attach the controlling PDF before page-level visual work.
 
@@ -51,23 +51,24 @@ The conversation preview exposes only **150** pages, but raw-PDF inspection conf
 ## Durable checkpoint
 
 - P0 source intake — **PASS**
-- canonical page records — **140 / 188**
-- initial visual verification — **140 / 188**
-- post-verification historical-glyph H-GATE — **140 / 188**
-- final verified — **140 / 188**
-- contiguous verified range — **scans 1–140**
-- Batches 01–14 — **PASS / COMPLETE**
-- Batch 14 — **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**
-- historical-glyph corrections recorded — **30**
+- canonical page records — **150 / 188**
+- initial visual verification — **150 / 188**
+- post-verification historical-glyph H-GATE — **150 / 188**
+- final verified — **150 / 188**
+- contiguous verified range — **scans 1–150**
+- Batches 01–15 — **PASS / COMPLETE**
+- Batch 15 — **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**
+- Batch-15 Pass-A durable commit — **`0b5238a97297bfd802dad00dec34e65945fa4090`**
+- historical-glyph corrections recorded — **31**
 - unresolved page-level source issues — **0**
 - `needs-review` — **0**
 - `blocked` — **0**
 - scene assembly — **not started / blocked on page layer**
 - English — **not authorized / not started**
 
-Batch 14 followed the mandatory two-commit anti-loop workflow: Pass A was durably persisted before H-GATE; Pass B re-read only targeted historical/source-sensitive loci and physical joins; settled prose was not retranscribed.
+Batch 15 followed the mandatory two-commit anti-loop workflow: Pass A was durably persisted before H-GATE; Pass B re-read only targeted historical/source-sensitive loci and physical joins; settled prose was not retranscribed.
 
-## Verified structure through scan 140
+## Verified structure through scan 150
 
 - Scene 1 scans 8–13;
 - Scene 2 scans 14–18;
@@ -110,18 +111,22 @@ Batch 14 followed the mandatory two-commit anti-loop workflow: Pass A was durabl
 - Scene 39 scans **134–135**;
 - Scene 40 scan **136** only;
 - Scene 41 scans **137–139**;
-- Scene 42 opens scan **140** and **continues into scan 141**.
+- Scene 42 scans **140–141**; scan 141 internal `★ ★ ★` is not the close, and the final centred star closes the scene;
+- Scene 43 scans **142–143**;
+- Scene 44 scans **144–145**;
+- Scene 45 scans **146–148**;
+- Scene 46 scans **149–150**.
 
-Scan 141 was inspected during Batch 14 only to establish the continuation boundary. It is **not** already verified and must be processed fully in Batch 15.
+Physical joins established through this checkpoint include scan 130 `புறப்` → scan 131 `படுகின்றனர்.` and scan 146 `ஆரணங்கின்` → scan 147 `மயக்கத்தால்...`.
 
 Do not turn this partial evidence into a final whole-work scene inventory.
 
 ## Mandatory efficient batch workflow
 
-For Batch 15 follow `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md` exactly:
+For Batch 16 follow `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md` exactly:
 
-1. **Pass A — whole-page once:** render/read scans 141–150 from the local controlling PDF, create canonical transcription, establish physical joins/scene boundaries, ordinary visual verification;
-2. **commit Pass A immediately:** persist `pages/0141.md` through `0150.md` as `status: needs-review`, `initial_verification: passed`, `historical_glyph_gate: pending` before any H-GATE work;
+1. **Pass A — whole-page once:** render/read scans 151–160 from the local controlling PDF, create canonical transcription, establish physical joins/scene boundaries, ordinary visual verification;
+2. **commit Pass A immediately:** persist `pages/0151.md` through `0160.md` as `status: needs-review`, `initial_verification: passed`, `historical_glyph_gate: pending` before any H-GATE work;
 3. **Pass B — targeted H-GATE only:** inspect mandatory historical families plus actual candidate/source-sensitive loci and joins; do not retranscribe settled prose;
 4. crop/enhance only an actual unresolved locus; stop once resolved or formally held;
 5. final closure commit only after clean pages receive H-GATE PASS / final `verified` and controls are synchronized.
@@ -140,20 +145,25 @@ The family list is a minimum, not a ceiling. Batch 05 also established historica
 
 ## Established historical corrections — do not regress
 
-Thirty corrections are recorded through scan 140. Batch 14 added:
+Thirty-one corrections are recorded through scan 150. Recent corrections include:
 
-- scan 138 `கண்ணை மறைக்கும் பேய்` (`ணை`) — never restore Pass-A apparent `கண்ண மறைக்கும் பேய்`.
+- scan 146 `இளைஞரே` (`ளை`) — never restore Pass-A apparent `இளஞரே`;
+- scan 138 `கண்ணை மறைக்கும் பேய்` (`ணை`) — never restore Pass-A apparent `கண்ண மறைக்கும் பேய்`;
+- scan 122 `இருப்பானா?`;
+- scan 124 `கண்ணாடி` ×2;
+- scan 127 `கண்ணாடியிடம்`;
+- scan 130 `பெண்ணாகவும்` / `ஆணாகவும்`.
 
-Batch-13 corrections including scan 122 `இருப்பானா?`, scan 124 `கண்ணாடி` ×2, scan 127 `கண்ணாடியிடம்`, and scan 130 `பெண்ணாகவும்` / `ஆணாகவும்` remain authoritative. Source-sensitive local readings remain local; do not globalize any historical-glyph adjudication.
+Source-sensitive local readings remain local; do not globalize any historical-glyph adjudication.
 
-## Exact next activity — Batch 15 / scans 141–150
+## Exact next activity — Batch 16 / scans 151–160
 
-1. Start scan 141 as the continuing Scene-42 page; establish the scan-140→141 physical continuation from source pixels.
-2. Process **all of scan 141** from source pixels; do not inherit verification from the prior boundary-only inspection.
-3. Perform Pass A once for scans 141–150 and make the mandatory Pass-A commit before H-GATE.
+1. Resolve/read the raw controlling PDF directly; the raw 188-scan source controls beyond the 150-page preview.
+2. Perform Pass A once for scans **151–160** and make the mandatory Pass-A commit before H-GATE.
+3. Establish source-proven scene boundaries and physical joins only; do not infer from the partial scene inventory.
 4. Perform targeted independent H-GATE only after that durable boundary.
-5. Create `BATCH_15_REVIEW.md` after full batch closure.
+5. Create `BATCH_16_REVIEW.md` after full batch closure.
 6. Synchronize `indexes/page-map.md`, `HISTORICAL_GLYPH_AUDIT.md`, work/root READMEs, root `HANDOVER.md`, and this prompt.
 7. Fetch and report final live `main` SHA.
 
-Do not begin scene assembly or English translation merely because Batch 15 completes.
+Do not begin scene assembly or English translation merely because Batch 16 completes.

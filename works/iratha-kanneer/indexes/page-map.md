@@ -1,6 +1,6 @@
 # Page map — இரத்தக் கண்ணீர்
 
-Status: **SCANS 1–140 FINAL VERIFIED / H-GATE PASS — 140 / 188 PHYSICAL SCANS COMPLETE**
+Status: **SCANS 1–150 FINAL VERIFIED / H-GATE PASS — 150 / 188 PHYSICAL SCANS COMPLETE**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -56,7 +56,12 @@ Every expanded row distinguishes canonical transcription, initial visual verific
 | 136 | 135 | Scene 40 | opener + close | complete | PASS | PASS | `verified` | one-page scene; source `போகிறானோ`; centred star |
 | 137–139 | 136–138 | Scene 41 | opener / drama / close | complete | PASS | PASS | `verified` | scan 138 `கண்ணை மறைக்கும் பேய்` H-GATE correction; scan 139 `கயிற்று வளையத்துக் குள்ளேயே`; centred star 139 |
 | 140 | 139 | Scene 42 | opener / continuation | complete | PASS | PASS | `verified` | source `நல்லவனைப்போல`, `காரியமல்லே`, `ராணி இறந்தேவிடுவாள்`; continues into scan 141 |
-| 141–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
+| 141 | 140 | Scene 42 | continuation + close | complete | PASS | PASS | `verified` | internal `★ ★ ★` is not close; final centred star closes Scene 42 |
+| 142–143 | 141–142 | Scene 43 | opener / close | complete | PASS | PASS | `verified` | aliases `பொன்னன்` / `பொன்னி` preserved; centred star scan 143 |
+| 144–145 | 143–144 | Scene 44 | opener / close | complete | PASS | PASS | `verified` | scan 144 source heading `காட்சி 44`; centred star scan 145 |
+| 146–148 | 145–147 | Scene 45 | opener / drama / close | complete | PASS | PASS | `verified` | scan 146 H-GATE `இளஞரே`→`இளைஞரே`; 146 `ஆரணங்கின்`→147 `மயக்கத்தால்...`; centred star scan 148 |
+| 149–150 | 148–149 | Scene 46 | opener / close | complete | PASS | PASS | `verified` | source name-building wordplay preserved; centred star scan 150; no textual continuation implied into 151 |
+| 151–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
 | 180 | 179 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 59]` |
 | 181–182 | visible | main dramatic text | drama pages | not-started | pending | pending | `not-started` | continuation; exact boundaries pending |
 | 183 | 182 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 60]` |
@@ -89,18 +94,19 @@ Batch reviews:
 - `../BATCH_11_REVIEW.md` — **PASS / scans 101–110**;
 - `../BATCH_12_REVIEW.md` — **PASS / scans 111–120**;
 - `../BATCH_13_REVIEW.md` — **PASS / scans 121–130**;
-- `../BATCH_14_REVIEW.md` — **PASS / scans 131–140**.
+- `../BATCH_14_REVIEW.md` — **PASS / scans 131–140**;
+- `../BATCH_15_REVIEW.md` — **PASS / scans 141–150**.
 
 ## Current totals
 
-- canonical page records: **140 / 188**;
-- initial visual verification PASS: **140 / 188**;
-- H-GATE PASS: **140 / 188**;
-- final `verified`: **140 / 188**;
-- historical-glyph corrections recorded: **30** total;
+- canonical page records: **150 / 188**;
+- initial visual verification PASS: **150 / 188**;
+- H-GATE PASS: **150 / 188**;
+- final `verified`: **150 / 188**;
+- historical-glyph corrections recorded: **31** total;
 - `needs-review`: **0**;
 - `blocked`: **0**.
 
 ## Next expansion batch
 
-Expand and process **scans 141–150** individually using `BATCH_EXECUTION_WORKFLOW.md`. Scan 141 must be processed fully even though it was inspected during Batch 14 only to establish the Scene-42 continuation boundary.
+Expand and process **scans 151–160** individually using `BATCH_EXECUTION_WORKFLOW.md`. The raw 188-scan PDF remains controlling even though the conversation preview stops at 150.
