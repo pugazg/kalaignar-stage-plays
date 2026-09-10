@@ -2,29 +2,40 @@
 
 Scope: physical scans **161–170**.
 
-Status: **PASS A IN PROGRESS — DURABLE CHECKPOINT CREATED BEFORE ANY FURTHER SOURCE RE-INSPECTION.**
+Result: **PASS A COMPLETE — 10 / 10 canonical page records created; 10 / 10 ordinary initial visual verification PASS; H-GATE pending.**
 
-This checkpoint exists specifically to prevent the previously observed inspection/cropping loop. No H-GATE adjudication is authorized from this file yet.
+Workflow: `BATCH_EXECUTION_WORKFLOW.md`.
 
-## Source-read structural evidence already established
+- whole-page source pass performed once per scan from the attached/local controlling PDF;
+- no external-source detour;
+- page records are intentionally persisted before the independent H-GATE;
+- all ten remain `needs-review` with `historical_glyph_gate: pending`.
 
-- Scene 54: scan **161**;
-- Scene 55: scans **162–163**;
-- Scene 56: scan **164**;
-- Scene 57 opens on scan **165** and continues through scan **170**;
-- scan 166 `வெளியிலிருந்து` → scan 167 `வேதாளமும்...` is a physical continuation;
-- scan 167 `ஏந்திக்` → scan 168 `கொண்டே` is a physical continuation;
-- scan 168 `★ ★ ★` is an internal ornament, not a scene close;
-- scan 170 ends mid-utterance at `பெண்கள்`, so Scene 57 continues into scan 171.
+## Structural evidence from Pass A
 
-## Pass-A handling rule from this checkpoint
+- Scene 54 opens and closes on scan **161**;
+- Scene 55 opens scan **162** and closes scan **163**;
+- Scene 56 opens and closes on scan **164**;
+- Scene 57 opens scan **165** and continues through scan **170** into scan 171;
+- scan 166 `வெளியிலிருந்து` → scan 167 `வேதாளமும்...` is a physical narrative continuation;
+- scan 167 `ஏந்திக்` → scan 168 `கொண்டே` is a physical split-word continuation;
+- scan 168's internal three-star ornament is a transition, not a scene close;
+- scan 170 ends mid-utterance at `பெண்கள்`, directly establishing continuation into scan 171.
 
-1. Finish `pages/0161.md` through `pages/0170.md` from the already completed whole-page reads.
-2. Do **not** reopen scans or make new crops merely to improve confidence during Pass A.
-3. Any genuinely uncertain word/glyph must be left explicitly unresolved for Pass B rather than repeatedly re-inspected now.
-4. When all ten page records are persisted, update this file to **PASS A COMPLETE** and commit immediately.
-5. Only after that durable Pass-A completion commit may the targeted historical-glyph H-GATE begin.
+These are page-level structural findings only; Scene 57 remains open beyond this batch.
 
-Current H-GATE candidates already noted from the completed whole-page reads include scan 169 apparent `இதுதானு` (`னா`) and scan 170 apparent `மில்ப்பாம்பே` (`லை`). These remain **unadjudicated Pass-A appearances** until Pass B.
+## Pass-B targeted loci
 
-No scene assembly or English translation is authorized while the page layer remains incomplete.
+H-GATE must cover the mandatory family set on all ten pages, plus actual source-sensitive/candidate loci already noted in the page records. Priority checks include:
+
+- scan 162 apparent/source-sensitive `முழுங்கிவிடே`, `நடத்தொரு நாராயணன்`, `என்றுல`;
+- scan 163 standalone apparent `நெருங்கிய` before the next speaker label;
+- scan 165 source-sensitive `வாசப்பூது`;
+- scan 166 `தர்பாரிலே` and adjacent source-sensitive period wording if character identity requires confirmation;
+- scan 169 apparent `இதுதானு` as a targeted `னா` candidate and apparent/source-sensitive `பொருத்தன்`;
+- scan 170 apparent `மில்ப்பாம்பே` as a targeted `லை` candidate, plus source-sensitive `பஞ்சணைப் பசியால்` and `சுக்கு நாறுக்கிவிடு`;
+- physical joins 166→167 and 167→168, and the 170→171 continuation boundary.
+
+Do not retranscribe settled prose. Crop/enhance only a genuinely unresolved locus during Pass B.
+
+Batch PASS is not yet declared.
