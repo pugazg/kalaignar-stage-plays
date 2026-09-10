@@ -1,6 +1,6 @@
 # Page map — இரத்தக் கண்ணீர்
 
-Status: **SCANS 1–120 FINAL VERIFIED / H-GATE PASS — 120 / 188 PHYSICAL SCANS COMPLETE**
+Status: **SCANS 1–130 FINAL VERIFIED / H-GATE PASS — 130 / 188 PHYSICAL SCANS COMPLETE**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -48,7 +48,9 @@ Every expanded row distinguishes canonical transcription, initial visual verific
 | 108–110 | 107–109 | Scene 34 | opener / drama / close | complete | PASS | PASS | `verified` | `வேரை`; `பாழும் பொருளாசையால்`; `அவர்கள் சுயநலம்`; scan 110 `என்னால்`; centred star scan 110 |
 | 111–115 | 110–114 | Scene 35 | opener / drama / close | complete | PASS | PASS | `verified` | no 110→111 continuation; scan 114 `உயிரினையானைக்`; centred star scan 115 |
 | 116–120 | 115–119 | Scene 36 | opener / continuation | complete | PASS | PASS | `verified` | scan 116 three internal star ornaments are not a close; 117→118 `எந்த அழகுக்`→`காகத் தவங்கிடக்கிறானே`; continues into scan 121 |
-| 121–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
+| 121–122 | 120–121 | Scene 36 | continuation / close | complete | PASS | PASS | `verified` | scan 122 `இருப்பானா?`; centred star scan 122 |
+| 123–130 | 122–129 | Scene 37 | opener / continuation | complete | PASS | PASS | `verified` | opens `[ஆனந்தபுரம்`; scan 124 `கண்ணாடி` ×2; scan 127 `கண்ணாடியிடம்`; scan 130 `பெண்ணாகவும்` / `ஆணாகவும்`; scan 130 `புறப்` → scan 131 `படுகின்றனர்.` |
+| 131–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
 | 180 | 179 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 59]` |
 | 181–182 | visible | main dramatic text | drama pages | not-started | pending | pending | `not-started` | continuation; exact boundaries pending |
 | 183 | 182 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 60]` |
@@ -79,18 +81,19 @@ Batch reviews:
 - `../BATCH_09_REVIEW.md` — **PASS / scans 81–90**;
 - `../BATCH_10_REVIEW.md` — **PASS / scans 91–100**;
 - `../BATCH_11_REVIEW.md` — **PASS / scans 101–110**;
-- `../BATCH_12_REVIEW.md` — **PASS / scans 111–120**.
+- `../BATCH_12_REVIEW.md` — **PASS / scans 111–120**;
+- `../BATCH_13_REVIEW.md` — **PASS / scans 121–130**.
 
 ## Current totals
 
-- canonical page records: **120 / 188**;
-- initial visual verification PASS: **120 / 188**;
-- H-GATE PASS: **120 / 188**;
-- final `verified`: **120 / 188**;
-- historical-glyph corrections recorded: **23** total;
+- canonical page records: **130 / 188**;
+- initial visual verification PASS: **130 / 188**;
+- H-GATE PASS: **130 / 188**;
+- final `verified`: **130 / 188**;
+- historical-glyph corrections recorded: **29** total;
 - `needs-review`: **0**;
 - `blocked`: **0**.
 
 ## Next expansion batch
 
-Expand and process **scans 121–130** individually using `BATCH_EXECUTION_WORKFLOW.md`.
+Expand and process **scans 131–140** individually using `BATCH_EXECUTION_WORKFLOW.md`. Scan 131 must be processed fully even though it was inspected during Batch 13 only to establish the `புறப்` → `படுகின்றனர்.` boundary and Scene-37 close.
