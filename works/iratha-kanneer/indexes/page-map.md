@@ -1,6 +1,6 @@
 # Page map — இரத்தக் கண்ணீர்
 
-Status: **SCANS 1–110 FINAL VERIFIED / H-GATE PASS — 110 / 188 PHYSICAL SCANS COMPLETE**
+Status: **SCANS 1–120 FINAL VERIFIED / H-GATE PASS — 120 / 188 PHYSICAL SCANS COMPLETE**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -46,7 +46,9 @@ Every expanded row distinguishes canonical transcription, initial visual verific
 | 105–106 | 104–105 | Scene 32 | opener / close | complete | PASS | PASS | `verified` | centred star scan 106; source `நில விலங்கு` retained |
 | 107 | 106 | Scene 33 | opener + close | complete | PASS | PASS | `verified` | one-page scene; letter has `ஐம்பது கல்`, `ஆனந்த நகரில்`, `கண்ணாடி மாளிகையை`; centred star |
 | 108–110 | 107–109 | Scene 34 | opener / drama / close | complete | PASS | PASS | `verified` | `வேரை`; `பாழும் பொருளாசையால்`; `அவர்கள் சுயநலம்`; scan 110 `என்னால்`; centred star scan 110 |
-| 111–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
+| 111–115 | 110–114 | Scene 35 | opener / drama / close | complete | PASS | PASS | `verified` | no 110→111 continuation; scan 114 `உயிரினையானைக்`; centred star scan 115 |
+| 116–120 | 115–119 | Scene 36 | opener / continuation | complete | PASS | PASS | `verified` | scan 116 three internal star ornaments are not a close; 117→118 `எந்த அழகுக்`→`காகத் தவங்கிடக்கிறானே`; continues into scan 121 |
+| 121–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
 | 180 | 179 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 59]` |
 | 181–182 | visible | main dramatic text | drama pages | not-started | pending | pending | `not-started` | continuation; exact boundaries pending |
 | 183 | 182 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 60]` |
@@ -76,18 +78,19 @@ Batch reviews:
 - `../BATCH_08_REVIEW.md` — **PASS / scans 71–80**;
 - `../BATCH_09_REVIEW.md` — **PASS / scans 81–90**;
 - `../BATCH_10_REVIEW.md` — **PASS / scans 91–100**;
-- `../BATCH_11_REVIEW.md` — **PASS / scans 101–110**.
+- `../BATCH_11_REVIEW.md` — **PASS / scans 101–110**;
+- `../BATCH_12_REVIEW.md` — **PASS / scans 111–120**.
 
 ## Current totals
 
-- canonical page records: **110 / 188**;
-- initial visual verification PASS: **110 / 188**;
-- H-GATE PASS: **110 / 188**;
-- final `verified`: **110 / 188**;
+- canonical page records: **120 / 188**;
+- initial visual verification PASS: **120 / 188**;
+- H-GATE PASS: **120 / 188**;
+- final `verified`: **120 / 188**;
 - historical-glyph corrections recorded: **23** total;
 - `needs-review`: **0**;
 - `blocked`: **0**.
 
 ## Next expansion batch
 
-Expand and process **scans 111–120** individually.
+Expand and process **scans 121–130** individually using `BATCH_EXECUTION_WORKFLOW.md`.
