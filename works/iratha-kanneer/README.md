@@ -4,7 +4,7 @@ Archive slug: `iratha-kanneer`.
 
 ## Current status
 
-**ACTIVE — P0 SOURCE INTAKE PASS; SCANS 1–170 / 170 OF 188 CANONICAL + INITIAL-VERIFIED + H-GATE PASS + FINAL `verified`; BATCHES 01–17 PASS; NEXT SCANS 171–180.**
+**ACTIVE — P0 SOURCE INTAKE PASS; SCANS 1–180 / 180 OF 188 CANONICAL + INITIAL-VERIFIED + H-GATE PASS + FINAL `verified`; BATCHES 01–18 PASS; NEXT FINAL SCANS 181–188.**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -70,8 +70,9 @@ The minimum set is not exhaustive. Batch 05 additionally identified historical `
 - `BATCH_15_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 141–150**.
 - `BATCH_16_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 151–160**.
 - `BATCH_17_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 161–170**.
+- `BATCH_18_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 171–180**.
 
-Historical-glyph corrections recorded through scan 170: **34 total**.
+Historical-glyph corrections recorded through scan 180: **36 total**.
 
 Recent corrections:
 
@@ -81,9 +82,9 @@ Recent corrections:
 - Batch 17: scan 169 `இதுதானு` → **`இதுதானா`** (`னா`);
 - Batch 17: scan 170 `மில்ப்பாம்பே` → **`மலைப்பாம்பே`** (`லை`).
 
-Batch 16 also required one ordinary source-fidelity correction, scan 151 `மில்கள் உருளுவது போல` → **`மலைகள் உருளுவது போல`**; ordinary corrections are not included in the historical-glyph count. Batch 17 required no separate ordinary source-fidelity correction.
+Batch 16 also required one ordinary source-fidelity correction, scan 151 `மில்கள் உருளுவது போல` → **`மலைகள் உருளுவது போல`**; ordinary corrections are not included in the historical-glyph count. Batch 17 required no separate ordinary source-fidelity correction. Batch 18 added historical corrections scan 172 `வரமாட்டானு?` → `வரமாட்டானா?` and scan 180 `முத்தனுள்` → `முத்தனால்`, advancing the historical count **34 → 36**; ordinary Batch-18 source-fidelity fixes are recorded in `BATCH_18_REVIEW.md`.
 
-## Verified structural evidence through scan 170
+## Verified structural evidence through scan 180
 
 - Scene 1: scans 8–13;
 - Scene 2: scans 14–18;
@@ -141,35 +142,35 @@ Batch 16 also required one ordinary source-fidelity correction, scan 151 `மி
 - Scene 54: scan **161** only, centred close-star;
 - Scene 55: scans **162–163**, centred close-star on scan 163;
 - Scene 56: scan **164** only, centred close-star;
-- Scene 57: opens scan **165** and continues through scan **170** into scan 171.
+- Scene 57: scans **165–171**, centred close-star on scan 171;
+- Scene 58: scans **172–179**, centred close-star on scan 179;
+- Scene 59: opens scan **180** and continues into scan 181.
 
-Physical joins include scan 130→131 `புறப்` → `படுகின்றனர்.`, scan 146→147 `ஆரணங்கின்` → `மயக்கத்தால்...`, scan 166→167 `வெளியிலிருந்து` → `வேதாளமும்...`, and scan 167→168 `ஏந்திக்` → `கொண்டே`. Scan 168's internal `* * *` is a transition, not a scene close. Scan 170 ends mid-utterance at `பெண்கள்`, directly establishing continuation into scan 171.
+Physical joins include scan 130→131 `புறப்` → `படுகின்றனர்.`, scan 146→147 `ஆரணங்கின்` → `மயக்கத்தால்...`, scan 166→167 `வெளியிலிருந்து` → `வேதாளமும்...`, and scan 167→168 `ஏந்திக்` → `கொண்டே`. Scan 168's internal `* * *` is a transition, not a scene close. Scan 170 ends mid-utterance at `பெண்கள்`, directly continuing into scan 171. Batch 18 also establishes scan 173→174 `உடனே போய்,` → `வைத்தியர் பூபதியை...` and scan 178→179 `அந்தக்` → `கதைகள்...`; scan 174 internal stars are transitions.
 
 Do not declare a final whole-work scene inventory until the page layer closes.
 
 ## Current progress
 
 - P0 source intake — **PASS**;
-- canonical page records — **170 / 188**;
-- initial visual verification — **170 / 188**;
-- historical-glyph H-GATE — **170 / 188**;
-- final verified pages — **170 / 188**;
-- contiguous verified range — **scans 1–170**;
-- historical-glyph corrections — **34 total**;
+- canonical page records — **180 / 188**;
+- initial visual verification — **180 / 188**;
+- historical-glyph H-GATE — **180 / 188**;
+- final verified pages — **180 / 188**;
+- contiguous verified range — **scans 1–180**;
+- historical-glyph corrections — **36 total**;
 - unresolved page-level source issues — **0**;
 - `needs-review` — **0**;
 - `blocked` — **0**;
 - structural / scene assembly — **not started / blocked on page layer**;
 - English translation — **not authorized / not started**.
 
-## Exact next activity — Batch 18 / scans 171–180
+## Exact next activity — Batch 19 / scans 181–188
 
-1. Resolve/read the attached/local controlling PDF directly; raw PDF range **188** controls even though the conversation preview stops at 150.
+1. Resolve/read the attached/local controlling PDF directly; raw PDF range **188** controls.
 2. Follow `BATCH_EXECUTION_WORKFLOW.md`.
-3. Pass A: process scans **171–180** whole-page once, creating `pages/0171.md` through `0180.md` and establishing only source-proven scene/physical boundaries.
-4. Commit Pass-A page records immediately with H-GATE pending.
-5. Pass B: run only the targeted independent H-GATE across the mandatory family set plus actual source-sensitive/candidate loci and physical joins; do not re-transcribe settled prose.
-6. Promote clean pages to final `verified`; unresolved identity remains `needs-review`.
-7. Create `BATCH_18_REVIEW.md`, synchronize page map, glyph audit, READMEs, handover and next prompt, then fetch final live `main` SHA.
-
-Do not begin scene assembly or English translation merely because another page batch completes.
+3. Pass A: process final scans **181–188** once, creating `pages/0181.md` through `0188.md`.
+4. Commit Pass A immediately before any H-GATE.
+5. Pass B: targeted independent H-GATE only, including actual source-sensitive loci and physical joins.
+6. Promote clean pages to final `verified`; create `BATCH_19_REVIEW.md`; synchronize controls.
+7. Only after the complete 188-scan page layer closes may a later scene-assembly phase be considered. English remains not authorized.

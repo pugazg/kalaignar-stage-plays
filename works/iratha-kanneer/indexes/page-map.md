@@ -1,6 +1,6 @@
 # Page map — இரத்தக் கண்ணீர்
 
-Status: **SCANS 1–170 FINAL VERIFIED / H-GATE PASS — 170 / 188 PHYSICAL SCANS COMPLETE**
+Status: **SCANS 1–180 FINAL VERIFIED / H-GATE PASS — 180 / 188 PHYSICAL SCANS COMPLETE**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -72,8 +72,9 @@ Every expanded row distinguishes canonical transcription, initial visual verific
 | 162–163 | 161–162 | Scene 55 | opener / close | complete | PASS | PASS | `verified` | source-sensitive period readings retained; centred close-star scan 163 |
 | 164 | 163 | Scene 56 | opener + close | complete | PASS | PASS | `verified` | single-page scene; source `ஏதோ என்னமோ`; centred close-star |
 | 165–170 | 164–169 | Scene 57 | opener / continuation | complete | PASS | PASS | `verified` | 166→167 narrative join; 167 `ஏந்திக்`→168 `கொண்டே`; scan 168 internal stars are transition; scan 169 `இதுதானா`; scan 170 `மலைப்பாம்பே`; ends `பெண்கள்` into 171 |
-| 171–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | begins by continuing scan 170 `பெண்கள்`; exact boundaries pending |
-| 180 | 179 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 59]`; process in Batch 18 |
+| 171 | 170 | Scene 57 | continuation + close | complete | PASS | PASS | `verified` | continues scan 170 `பெண்கள்`; centred star closes Scene 57 |
+| 172–179 | 171–178 | Scene 58 | opener / continuation / close | complete | PASS | PASS | `verified` | 173→174 and 178→179 physical joins; internal stars scan 174; centred star scan 179 |
+| 180 | 179 | Scene 59 | opener | complete | PASS | PASS | `verified` | `காட்சி 59] [சிறைச்சாலை`; Scene 59 continues into scan 181 |
 | 181–182 | visible | main dramatic text | drama pages | not-started | pending | pending | `not-started` | continuation; exact boundaries pending |
 | 183 | 182 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 60]` |
 | 184 | 183 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 61]` |
@@ -90,18 +91,18 @@ For historical-type pages, ordinary visual verification does **not** directly pr
 
 The gate is not limited to that minimum set. Batch 05 additionally caught source-historical `ளா` look-alikes.
 
-Batch reviews now run through `../BATCH_17_REVIEW.md` — **PASS / scans 161–170**.
+Batch reviews now run through `../BATCH_18_REVIEW.md` — **PASS / scans 171–180**.
 
 ## Current totals
 
-- canonical page records: **170 / 188**;
-- initial visual verification PASS: **170 / 188**;
-- H-GATE PASS: **170 / 188**;
-- final `verified`: **170 / 188**;
-- historical-glyph corrections recorded: **34** total;
+- canonical page records: **180 / 188**;
+- initial visual verification PASS: **180 / 188**;
+- H-GATE PASS: **180 / 188**;
+- final `verified`: **180 / 188**;
+- historical-glyph corrections recorded: **36** total;
 - `needs-review`: **0**;
 - `blocked`: **0**.
 
 ## Next expansion batch
 
-Expand and process **scans 171–180** individually using `BATCH_EXECUTION_WORKFLOW.md`. The raw 188-scan PDF remains controlling even though the conversation preview stops at 150.
+Expand and process final **scans 181–188** individually as Batch 19 using `BATCH_EXECUTION_WORKFLOW.md`. The raw 188-scan PDF remains controlling even though the conversation preview stops at 150.
