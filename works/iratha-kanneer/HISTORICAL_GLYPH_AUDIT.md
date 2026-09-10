@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — இரத்தக் கண்ணீர்
 
-Status: **BATCHES 01–13 PASS — SCANS 1–130 / 130 OF 188 H-GATES COMPLETE; 130 FINAL `verified`; 29 HISTORICAL-GLYPH CORRECTIONS RECORDED**
+Status: **BATCHES 01–14 PASS — SCANS 1–140 / 140 OF 188 H-GATES COMPLETE; 140 FINAL `verified`; 30 HISTORICAL-GLYPH CORRECTIONS RECORDED**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -8,8 +8,9 @@ Repository authorities:
 
 - `../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 - `../../HISTORICAL_TAMIL_GLYPH_GATE.md`
+- `BATCH_EXECUTION_WORKFLOW.md`
 
-This 1953 first-edition source visibly uses historical Tamil typeforms. A page may become finally `verified` only after both ordinary initial visual verification and the separate historical-glyph H-GATE pass.
+This 1953 first-edition source visibly uses historical Tamil typeforms. A page may become finally `verified` only after ordinary initial visual verification and the separate historical-glyph H-GATE both pass.
 
 ## Mandatory minimum family set
 
@@ -17,44 +18,44 @@ Every applicable Tamil page receives the complete minimum-family check:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-This is a minimum, not a closed list. If another historical look-alike appears, it must also be adjudicated. Batch 05 exposed supplemental `ளா` forms on scan 48.
+This is a minimum, not a closed list. Batch 05 additionally exposed historical `ளா` look-alikes.
 
 ## Gate order
 
 1. canonical source transcription;
 2. initial visual verification;
-3. H-GATE at enlarged/native source pixels;
-4. final `verified` only after H-GATE PASS and closure of all other source issues.
+3. independent H-GATE at enlarged/native source pixels;
+4. final `verified` only after H-GATE PASS and closure of all source issues.
 
 ## Permanent rules
 
 1. source pixels control character identity;
 2. read historical character identity, not the closest-looking modern glyph;
-3. inspect whole pages and complete glyph clusters at enlarged/native resolution;
-4. use clearer same-font / same-edition witnesses when a cluster is doubtful;
-5. OCR, grammar, common spelling and dramatic context are never proof of glyph identity;
-6. preserve source spelling, vocabulary, punctuation, grammar, speaker labels and spacing unless separate source evidence proves a correction;
-7. no global replacement of any glyph family;
-8. record historical-glyph corrections separately from ordinary transcription corrections;
-9. unresolved identity stays `needs-review`; `blocked` requires exhausted source-condition escalation;
-10. if a systematic glyph error is discovered later, reopen affected `verified` pages and re-run H-GATE.
+3. use clearer same-font / same-edition witnesses when a cluster is doubtful;
+4. OCR, grammar, common spelling and dramatic context are never proof of glyph identity;
+5. preserve source spelling, vocabulary, punctuation, grammar, speaker labels and spacing unless source evidence proves a correction;
+6. no global replacement of any glyph family;
+7. historical-glyph corrections are logged separately from ordinary transcription/source-fidelity fixes;
+8. unresolved identity remains `needs-review`; `blocked` requires exhausted source-condition escalation;
+9. if a systematic glyph error is discovered later, reopen affected pages and re-run H-GATE;
+10. for routine batches use the anti-loop workflow: local PDF → Pass A once → durable commit → targeted H-GATE → final closure.
 
 ## Work-level progress
 
 | Measure | Count |
 |---|---:|
 | Physical scans | 188 |
-| Canonical page records created | 130 / 188 |
-| Initial visual verification PASS | 130 / 188 |
-| H-GATE checked / PASS | 130 / 188 |
-| Final `verified` | 130 / 188 |
+| Canonical page records created | 140 / 188 |
+| Initial visual verification PASS | 140 / 188 |
+| H-GATE checked / PASS | 140 / 188 |
+| Final `verified` | 140 / 188 |
 | `needs-review` after processing | 0 |
 | `blocked` | 0 |
-| Historical-glyph corrections recorded | 29 |
+| Historical-glyph corrections recorded | 30 |
 
 Batch authorities:
 
-- `BATCH_01_REVIEW.md` — **PASS / scans 1–10**, including retrospective scan-9 reopen / correction / re-pass;
+- `BATCH_01_REVIEW.md` — **PASS / scans 1–10**;
 - `BATCH_02_REVIEW.md` — **PASS / scans 11–20**;
 - `BATCH_03_REVIEW.md` — **PASS / scans 21–30**;
 - `BATCH_04_REVIEW.md` — **PASS / scans 31–40**;
@@ -66,7 +67,8 @@ Batch authorities:
 - `BATCH_10_REVIEW.md` — **PASS / scans 91–100**;
 - `BATCH_11_REVIEW.md` — **PASS / scans 101–110**;
 - `BATCH_12_REVIEW.md` — **PASS / scans 111–120**;
-- `BATCH_13_REVIEW.md` — **PASS / scans 121–130**.
+- `BATCH_13_REVIEW.md` — **PASS / scans 121–130**;
+- `BATCH_14_REVIEW.md` — **PASS / scans 131–140**.
 
 ## Secure same-edition reference bank
 
@@ -77,9 +79,10 @@ Batch authorities:
 - scan 107: `கண்ணாடி`;
 - scans 112, 114, 116, 119: `கண்ணாடி`;
 - scan 118: `பண்ணாதே`;
-- scan 124: `கண்ணாடி` (two H-GATE-corrected loci);
+- scan 124: `கண்ணாடி` ×2;
 - scan 127: `கண்ணாடியிடம்`;
-- scan 130: `பெண்ணாகவும்`, `ஆணாகவும்`.
+- scan 130: `பெண்ணாகவும்`, `ஆணாகவும்`;
+- scan 138: `கண்ணாடி`.
 
 ### `ணை`
 - scan 2: `பண்ணை`;
@@ -89,7 +92,8 @@ Batch authorities:
 - scan 95: `வீணை`;
 - scan 101: `கண்ணை`;
 - scan 113: `கண்ணைத்`;
-- scan 118: `துணை`.
+- scan 118: `துணை`;
+- scan 138: H-GATE-corrected `கண்ணை மறைக்கும் பேய்`.
 
 ### `ணொ`
 _no secure positive witness yet_
@@ -98,14 +102,14 @@ _no secure positive witness yet_
 _no secure positive witness yet_
 
 ### `லை`
-Established repeatedly through scans 1–130. Secure adjudications include scan 61 `வேலை பார்த்தாய்`, scan 77 `மலைபோல்`, scan 78 `வீரனில்லை`, scan 120 `முடியவில்லை`, and scan 123 `நாலைந்து`.
+Established repeatedly through scans 1–140. Secure adjudications include scan 61 `வேலை பார்த்தாய்`, scan 77 `மலைபோல்`, scan 78 `வீரனில்லை`, scan 120 `முடியவில்லை`, and scan 123 `நாலைந்து`.
 
 ### `ளை`
-Established repeatedly through scans 1–130. Scan 53 retains the secure adjudicated reading `சொத்துக்களைப் பிடிக்கும்`; later batches reconfirm the family repeatedly.
+Established repeatedly through scans 1–140. Scan 53 retains source-adjudicated `சொத்துக்களைப் பிடிக்கும்`; later batches repeatedly reconfirm the family.
 
 ### `றா`
-- scan 92: `புறாக்கள்` — secure positive same-edition witness;
-- scans 111–112: repeated `புறா` — secure positive witnesses.
+- scan 92: `புறாக்கள்`;
+- scans 111–112: repeated `புறா`.
 
 ### `றொ`
 _no secure correction witness yet_
@@ -114,103 +118,72 @@ _no secure correction witness yet_
 _no secure correction witness yet_
 
 ### `னா`
-- scan 9: `வயதுடையவனா`, `கிழவனா`;
-- scan 17: `மருத்துவக் கிழவனார்`;
-- scan 18: `ஏன் வந்தேனா?`;
-- scan 21: `சரிதானா?`;
-- scan 40: `நானா?`;
-- scan 48: `வருவானா?`;
-- scan 61: `மனிதனாயிற்றே`;
-- scan 63: `வீரப்பனா?`;
-- scan 84: `முத்தனா?`, `நல்லவனாயிற்றே`;
-- scan 86: `இப்படித்தானா?`;
-- scan 92: `அவள்தானா?`, `மாயனால்`;
-- scan 95: `என்னால்`, `மறப்பேனா`;
-- scan 101: `கிழவனானான்`;
-- scan 110: `என்னால்`;
-- scan 111: `பேனா`;
-- scan 120: `என்னால்`;
-- scan 122: `இருப்பானா?`;
-- scan 125: `சுகதேவனா?`;
-- scan 128: `ஆண்டவனாயிருந்தால்`;
-- scan 129: `நானும்`.
+Secure witnesses include scans 9, 17, 18, 21, 40, 48, 61, 63, 84, 86, 92, 95, 101, 110, 111, 120, 122, 125, 128 and 130. Key adjudicated forms include `சரிதானா?`, `நானா?`, `வீரப்பனா?`, `முத்தனா?`, `இப்படித்தானா?`, and `இருப்பானா?`.
 
 ### `னை`
-- scan 5: `கற்பனை`;
-- scan 8 onward: repeated `அரண்மனை...` forms;
-- scan 11: `அஞ்சல் மனையில்`;
-- scans 12, 16: `அஞ்சல் மனை`;
-- scan 31: `யானை போல்`;
-- scan 61: `அஞ்சல் மனைக்கு`;
-- scan 75: source-adjudicated `அவனை`;
-- scan 82: source `முத்தனை நீர் பார்த்து`;
-- scan 112: `முத்தனை`, `அவனை`;
-- scan 114: `உயிரினையானைக்`;
-- scan 119: `தென்னை`, `யோசனைப்படி`;
-- scan 121: `அவனை`;
-- scan 126: `முத்தனை`.
+Secure witnesses include scan 5 `கற்பனை`, repeated `அரண்மனை...` forms, scans 11/12/16 `அஞ்சல் மனை...`, scan 31 `யானை போல்`, scan 75 `அவனை`, scan 82 `முத்தனை`, scan 112 `முத்தனை` / `அவனை`, scan 119 `தென்னை`, scan 126 `முத்தனை`, and scan 140 `நல்லவனைப்போல`.
 
 ### `னொ`
 _no secure positive witness yet_
 
 ### `னோ`
-- scan 72: `நானோ` — secure positive same-edition witness established in Batch 08.
+- scan 72: `நானோ`;
+- scan 136: `போகிறானோ`.
 
 ### Supplemental `ளா`
-- scan 48: secure same-page witnesses including `உட்கார்ந்தாள்`, `எழுந்தாள்`, `நின்றாள்`, `உலவினாள்`, `அயர்ந்தாள்`, `சாய்ந்தாள்`, `முயன்றாள்`, `கொண்டாள்`, `துவங்கிறாள்`, `வைத்தாள்`, `அலறினாள்`;
-- scan 49: `விட்டாள்` confirms the same-edition identity;
-- scan 95: `பேசினாள்` confirms the same historical `ளா` identity;
+- scan 48: same-page witnesses including `உட்கார்ந்தாள்`, `எழுந்தாள்`, `நின்றாள்`, `உலவினாள்`, `முயன்றாள்`, `அலறினாள்`;
+- scan 49: `விட்டாள்`;
+- scan 95: `பேசினாள்`;
 - scans 117–119 reconfirm the family in multiple forms.
 
 ## Correction log
 
-| Scan | Printed page | Apparent / earlier reading | Source-supported reading | Historical family | Evidence | Gate result |
-|---:|:---:|---|---|---|---|---|
-| 9 | 8 | `வயதுடையவனு அல்லது கிழவனு` | `வயதுடையவனா அல்லது கிழவனா` | `னா` | retrospective enlarged source-pixel review + same-edition comparison | PASS after reopen / re-audit |
-| 11 | 10 | `அஞ்சல் மண்ணில்` | `அஞ்சல் மனையில்` | `னை` | enlarged cluster + same-edition `னை` witnesses | PASS |
-| 12 | 11 | `அஞ்சல் மண்` | `அஞ்சல் மனை` | `னை` | repeated same-edition location wording | PASS |
-| 16 | 15 | `அஞ்சல் மண்` | `அஞ்சல் மனை` | `னை` | repeated same-edition location wording | PASS |
-| 17 | 16 | `மருத்துவக் கிழவனூர்` | `மருத்துவக் கிழவனார்` | `னா` | enlarged cluster + same-edition `னா` identity | PASS |
-| 18 | 17 | `ஏன் வந்தேனு?` | `ஏன் வந்தேனா?` | `னா` | enlarged cluster + same-edition `னா` identity | PASS |
-| 21 | 20 | `சரிதானு?` | `சரிதானா?` | `னா` | enlarged pixels + same-edition `னா` witnesses | PASS |
-| 29 | 28 | `பெண்ணு பெற்று வைத்திருக்கிறாய்` | `பெண்ணை பெற்று வைத்திருக்கிறாய்` | `ணை` | enlarged cluster + same-edition `பண்ணை` witness; not grammar | PASS |
-| 31 | 30 | `யானே போல்` | `யானை போல்` | `னை` | enlarged cluster + established same-edition `னை` witnesses | PASS |
-| 40 | 39 | `நானு?` | `நானா?` | `னா` | enlarged cluster + same-edition `னா` identity | PASS |
-| 48 | 47 | `முத்தன் வருவானு?` | `முத்தன் வருவானா?` | `னா` | enlarged source cluster + established same-edition `னா` witnesses | PASS |
-| 48 | 47 | `முயன்றுள்` | `முயன்றாள்` | supplemental `ளா` | enlarged cluster + same-page / adjacent-page `ளா` witnesses | PASS |
-| 48 | 47 | `அலறினுள்` | `அலறினாள்` | supplemental `ளா` | enlarged cluster + same-page / adjacent-page `ளா` witnesses | PASS |
-| 53 | 52 | `சொத்துக்கணைப் பிடிக்கும்` | `சொத்துக்களைப் பிடிக்கும்` | `ளை` | enlarged historical cluster + same-edition `ளை` evidence; not grammar | PASS |
-| 61 | 60 | `மனிதனுயிற்றே` | `மனிதனாயிற்றே` | `னா` | enlarged source cluster + established same-edition `னா` witnesses | PASS |
-| 61 | 60 | `வேல் பார்த்தாய்` | `வேலை பார்த்தாய்` | `லை` | enlarged source cluster + same-edition `லை` evidence | PASS |
-| 61 | 60 | `அஞ்சல் மணிக்கு` | `அஞ்சல் மனைக்கு` | `னை` | enlarged source cluster + established same-edition `னை` witnesses | PASS |
-| 63 | 62 | `வீரப்பனு?` | `வீரப்பனா?` | `னா` | enlarged source cluster + established same-edition `னா` witnesses | PASS |
-| 77 | 76 | `மலபோல்` | `மலைபோல்` | `லை` | enlarged/native source cluster + same-edition `லை` witnesses | PASS |
-| 78 | 77 | `வீரனில்ல` | `வீரனில்லை` | `லை` | enlarged/native source cluster + same-edition `லை` witnesses | PASS |
-| 84 | 83 | `முத்தனு?` | `முத்தனா?` | `னா` | enlarged/native source cluster + established same-edition `னா` witnesses | PASS |
-| 84 | 83 | `நல்லவனு யிற்றே` | `நல்லவனாயிற்றே` | `னா` | enlarged/native source cluster + established same-edition `னா` witnesses | PASS |
-| 86 | 85 | `இப்படித்தானு?` | `இப்படித்தானா?` | `னா` | enlarged/native source cluster + established same-edition `னா` witnesses | PASS |
-| 122 | 121 | `இருப்பானு?` | `இருப்பானா?` | `னா` | targeted Batch-13 enlarged source cluster + same-edition `னா` witnesses | PASS |
-| 124 | 123 | `கண்ணுடி மாளிகைக்குப்` | `கண்ணாடி மாளிகைக்குப்` | `ணா` | targeted Batch-13 source pixels + same-edition `கண்ணாடி` witnesses | PASS |
-| 124 | 123 | `கண்ணுடி மாளிகையை` | `கண்ணாடி மாளிகையை` | `ணா` | targeted Batch-13 source pixels + same-edition `கண்ணாடி` witnesses | PASS |
-| 127 | 126 | `கண்ணுடியிடம்` | `கண்ணாடியிடம்` | `ணா` | targeted Batch-13 source pixels + same-edition `கண்ணாடி` witnesses | PASS |
-| 130 | 129 | `பெண்ணுகவும்` | `பெண்ணாகவும்` | `ணா` | targeted Batch-13 source pixels + same-edition `ணா` witnesses | PASS |
-| 130 | 129 | `ஆணுகவும்` | `ஆணாகவும்` | `ணா` | targeted Batch-13 source pixels + same-edition `ணா` witnesses | PASS |
+| # | Scan | Printed page | Apparent / earlier reading | Source-supported reading | Historical family | Gate result |
+|---:|---:|:---:|---|---|---|---|
+| 1 | 9 | 8 | `வயதுடையவனு அல்லது கிழவனு` | `வயதுடையவனா அல்லது கிழவனா` | `னா` | PASS after retrospective reopen |
+| 2 | 11 | 10 | `அஞ்சல் மண்ணில்` | `அஞ்சல் மனையில்` | `னை` | PASS |
+| 3 | 12 | 11 | `அஞ்சல் மண்` | `அஞ்சல் மனை` | `னை` | PASS |
+| 4 | 16 | 15 | `அஞ்சல் மண்` | `அஞ்சல் மனை` | `னை` | PASS |
+| 5 | 17 | 16 | `மருத்துவக் கிழவனூர்` | `மருத்துவக் கிழவனார்` | `னா` | PASS |
+| 6 | 18 | 17 | `ஏன் வந்தேனு?` | `ஏன் வந்தேனா?` | `னா` | PASS |
+| 7 | 21 | 20 | `சரிதானு?` | `சரிதானா?` | `னா` | PASS |
+| 8 | 29 | 28 | `பெண்ணு பெற்று வைத்திருக்கிறாய்` | `பெண்ணை பெற்று வைத்திருக்கிறாய்` | `ணை` | PASS |
+| 9 | 31 | 30 | `யானே போல்` | `யானை போல்` | `னை` | PASS |
+| 10 | 40 | 39 | `நானு?` | `நானா?` | `னா` | PASS |
+| 11 | 48 | 47 | `முத்தன் வருவானு?` | `முத்தன் வருவானா?` | `னா` | PASS |
+| 12 | 48 | 47 | `முயன்றுள்` | `முயன்றாள்` | supplemental `ளா` | PASS |
+| 13 | 48 | 47 | `அலறினுள்` | `அலறினாள்` | supplemental `ளா` | PASS |
+| 14 | 53 | 52 | `சொத்துக்கணைப் பிடிக்கும்` | `சொத்துக்களைப் பிடிக்கும்` | `ளை` | PASS |
+| 15 | 61 | 60 | `மனிதனுயிற்றே` | `மனிதனாயிற்றே` | `னா` | PASS |
+| 16 | 61 | 60 | `வேல் பார்த்தாய்` | `வேலை பார்த்தாய்` | `லை` | PASS |
+| 17 | 61 | 60 | `அஞ்சல் மணிக்கு` | `அஞ்சல் மனைக்கு` | `னை` | PASS |
+| 18 | 63 | 62 | `வீரப்பனு?` | `வீரப்பனா?` | `னா` | PASS |
+| 19 | 77 | 76 | `மலபோல்` | `மலைபோல்` | `லை` | PASS |
+| 20 | 78 | 77 | `வீரனில்ல` | `வீரனில்லை` | `லை` | PASS |
+| 21 | 84 | 83 | `முத்தனு?` | `முத்தனா?` | `னா` | PASS |
+| 22 | 84 | 83 | `நல்லவனு யிற்றே` | `நல்லவனாயிற்றே` | `னா` | PASS |
+| 23 | 86 | 85 | `இப்படித்தானு?` | `இப்படித்தானா?` | `னா` | PASS |
+| 24 | 122 | 121 | `இருப்பானு?` | `இருப்பானா?` | `னா` | PASS |
+| 25 | 124 | 123 | first `கண்ணுடி` | `கண்ணாடி` | `ணா` | PASS |
+| 26 | 124 | 123 | second `கண்ணுடி` | `கண்ணாடி` | `ணா` | PASS |
+| 27 | 127 | 126 | `கண்ணுடியிடம்` | `கண்ணாடியிடம்` | `ணா` | PASS |
+| 28 | 130 | 129 | `பெண்ணுகவும்` | `பெண்ணாகவும்` | `ணா` | PASS |
+| 29 | 130 | 129 | `ஆணுகவும்` | `ஆணாகவும்` | `ணா` | PASS |
+| 30 | 138 | 137 | `கண்ண மறைக்கும் பேய்` | `கண்ணை மறைக்கும் பேய்` | `ணை` | PASS |
+
+All corrections above are local source-pixel character-identity adjudications. They are not grammar-driven normalizations and do not authorize global replacement.
 
 ## Source-sensitive non-global readings
 
-Historical-glyph adjudication is local, never global. Source-visible readings such as scan 63 `அஞ்சல் மண் வேலையை`, scan 75 `அஞ்சல் மண்`, and scan 81 `அஞ்சல் மண்ணில் தான்` remain authoritative where their own pixels support them.
+Historical-glyph adjudication remains local. Source-visible readings such as scan 63 `அஞ்சல் மண் வேலையை`, scan 75 `அஞ்சல் மண்`, and scan 81 `அஞ்சல் மண்ணில் தான்` remain authoritative where their own pixels support them.
 
 ## Ordinary source reconciliation
 
-Ordinary source-fidelity corrections discovered during enlarged final passes are documented in their batch reviews and are not counted as historical-glyph corrections.
-
-Batch 12 added secure positive witnesses but no correction-ledger entry, leaving the cumulative count at 23.
-
-Batch 13 added **6 source-proven historical-glyph correction loci**, advancing the cumulative count to **29**. The batch also confirmed the physical split scan 130 `புறப்` → scan 131 `படுகின்றனர்.` and established that Scene 37 closes on scan 131; scan 131 itself remains for full Batch-14 processing.
+Ordinary transcription/source-fidelity fixes discovered during final proofing are documented in the relevant batch review and are not included in the historical-glyph count. Batch 14 ordinary fixes include source-supported readings such as scan 131 `அதோ பார்`, scan 132 `தலைநகருக்கும்` / `குதிரையின் மீது இருக்கும் பெண்ணின்`, scan 133 `கண்ணே முத்தாயி`, scan 136 `போகிறானோ`, scan 139 `கயிற்று வளையத்துக் குள்ளேயே`, and scan 140 `நல்லவனைப்போல` / `காரியமல்லே`.
 
 ## Current gate conclusion
 
-- scans 1–130: full H-GATE **PASS**;
+- scans 1–140: full H-GATE **PASS**;
 - unresolved historical-glyph loci: **0**;
-- historical-glyph corrections recorded: **29**;
-- next H-GATE scope: **scans 131–140**.
+- historical-glyph corrections recorded: **30**;
+- next H-GATE scope: **scans 141–150**.
