@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — இரத்தக் கண்ணீர்
 
-Status: **BATCHES 01–15 PASS — SCANS 1–150 / 150 OF 188 H-GATES COMPLETE; 150 FINAL `verified`; 31 HISTORICAL-GLYPH CORRECTIONS RECORDED**
+Status: **BATCHES 01–16 PASS — SCANS 1–160 / 160 OF 188 H-GATES COMPLETE; 160 FINAL `verified`; 32 HISTORICAL-GLYPH CORRECTIONS RECORDED**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -45,13 +45,13 @@ This is a minimum, not a closed list. Batch 05 additionally exposed historical `
 | Measure | Count |
 |---|---:|
 | Physical scans | 188 |
-| Canonical page records created | 150 / 188 |
-| Initial visual verification PASS | 150 / 188 |
-| H-GATE checked / PASS | 150 / 188 |
-| Final `verified` | 150 / 188 |
+| Canonical page records created | 160 / 188 |
+| Initial visual verification PASS | 160 / 188 |
+| H-GATE checked / PASS | 160 / 188 |
+| Final `verified` | 160 / 188 |
 | `needs-review` after processing | 0 |
 | `blocked` | 0 |
-| Historical-glyph corrections recorded | 31 |
+| Historical-glyph corrections recorded | 32 |
 
 Batch authorities:
 
@@ -69,7 +69,8 @@ Batch authorities:
 - `BATCH_12_REVIEW.md` — **PASS / scans 111–120**;
 - `BATCH_13_REVIEW.md` — **PASS / scans 121–130**;
 - `BATCH_14_REVIEW.md` — **PASS / scans 131–140**;
-- `BATCH_15_REVIEW.md` — **PASS / scans 141–150**.
+- `BATCH_15_REVIEW.md` — **PASS / scans 141–150**;
+- `BATCH_16_REVIEW.md` — **PASS / scans 151–160**.
 
 ## Secure same-edition reference bank
 
@@ -103,10 +104,10 @@ _no secure positive witness yet_
 _no secure positive witness yet_
 
 ### `லை`
-Established repeatedly through scans 1–150. Secure adjudications include scan 61 `வேலை பார்த்தாய்`, scan 77 `மலைபோல்`, scan 78 `வீரனில்லை`, scan 120 `முடியவில்லை`, and scan 123 `நாலைந்து`.
+Established repeatedly through scans 1–160. Secure adjudications include scan 61 `வேலை பார்த்தாய்`, scan 77 `மலைபோல்`, scan 78 `வீரனில்லை`, scan 120 `முடியவில்லை`, scan 123 `நாலைந்து`, and scan 151 `மலைகள்`.
 
 ### `ளை`
-Established repeatedly through scans 1–150. Scan 53 retains source-adjudicated `சொத்துக்களைப் பிடிக்கும்`; scan 146 H-GATE-corrected `இளைஞரே`; scan 147 securely reads `அவளை`.
+Established repeatedly through scans 1–160. Scan 53 retains source-adjudicated `சொத்துக்களைப் பிடிக்கும்`; scan 146 H-GATE-corrected `இளைஞரே`; scans 147 and 154 securely read `அவளை` / `இளைஞனே`.
 
 ### `றா`
 - scan 92: `புறாக்கள்`;
@@ -119,10 +120,10 @@ _no secure correction witness yet_
 _no secure correction witness yet_
 
 ### `னா`
-Secure witnesses include scans 9, 17, 18, 21, 40, 48, 61, 63, 84, 86, 92, 95, 101, 110, 111, 120, 122, 125, 128 and 130. Key adjudicated forms include `சரிதானா?`, `நானா?`, `வீரப்பனா?`, `முத்தனா?`, `இப்படித்தானா?`, and `இருப்பானா?`.
+Secure witnesses include scans 9, 17, 18, 21, 40, 48, 61, 63, 84, 86, 92, 95, 101, 110, 111, 120, 122, 125, 128 and 130. Key adjudicated forms include `சரிதானா?`, `நானா?`, `வீரப்பனா?`, `முத்தனா?`, `இப்படித்தானா?`, and `இருப்பானா?`. Scan 160 adds source-confirmed `தானா` in `நீங்கள் தானா முத்தாயி?`.
 
 ### `னை`
-Secure witnesses include scan 5 `கற்பனை`, repeated `அரண்மனை...` forms, scans 11/12/16 `அஞ்சல் மனை...`, scan 31 `யானை போல்`, scan 75 `அவனை`, scan 82 `முத்தனை`, scan 112 `முத்தனை` / `அவனை`, scan 119 `தென்னை`, scan 126 `முத்தனை`, scan 140 `நல்லவனைப்போல`, scan 141 `முனையும்`, scan 142 `மனைவி`, scan 146 `அரண்மனைவாசி`, and scan 147 `அரண்மனையை`.
+Secure witnesses include scan 5 `கற்பனை`, repeated `அரண்மனை...` forms, scans 11/12/16 `அஞ்சல் மனை...`, scan 31 `யானை போல்`, scan 75 `அவனை`, scan 82 `முத்தனை`, scan 112 `முத்தனை` / `அவனை`, scan 119 `தென்னை`, scan 126 `முத்தனை`, scan 140 `நல்லவனைப்போல`, scan 141 `முனையும்`, scan 142 `மனைவி`, scan 146 `அரண்மனைவாசி`, scan 147 `அரண்மனையை`, and scan 157 `மனைக்கும்`.
 
 ### `னொ`
 _no secure positive witness yet_
@@ -174,6 +175,7 @@ _no secure positive witness yet_
 | 29 | 130 | 129 | `ஆணுகவும்` | `ஆணாகவும்` | `ணா` | PASS |
 | 30 | 138 | 137 | `கண்ண மறைக்கும் பேய்` | `கண்ணை மறைக்கும் பேய்` | `ணை` | PASS |
 | 31 | 146 | 145 | `இளஞரே` | `இளைஞரே` | `ளை` | PASS |
+| 32 | 160 | 159 | `நீங்கள் தானு முத்தாயி?` | `நீங்கள் தானா முத்தாயி?` | `னா` | PASS |
 
 All corrections above are local source-pixel character-identity adjudications. They are not grammar-driven normalizations and do not authorize global replacement.
 
@@ -187,9 +189,11 @@ Ordinary transcription/source-fidelity fixes discovered during final proofing ar
 
 Batch 15 required no additional ordinary source-fidelity correction distinct from the scan-146 historical-glyph correction.
 
+Batch 16 required one ordinary source-fidelity correction: scan 151 Pass-A `மில்கள் உருளுவது போல` → source-supported `மலைகள் உருளுவது போல`. This is not included in the historical-glyph count.
+
 ## Current gate conclusion
 
-- scans 1–150: full H-GATE **PASS**;
+- scans 1–160: full H-GATE **PASS**;
 - unresolved historical-glyph loci: **0**;
-- historical-glyph corrections recorded: **31**;
-- next H-GATE scope: **scans 151–160**.
+- historical-glyph corrections recorded: **32**;
+- next H-GATE scope: **scans 161–170**.

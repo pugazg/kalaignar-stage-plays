@@ -1,6 +1,6 @@
 # Page map — இரத்தக் கண்ணீர்
 
-Status: **SCANS 1–150 FINAL VERIFIED / H-GATE PASS — 150 / 188 PHYSICAL SCANS COMPLETE**
+Status: **SCANS 1–160 FINAL VERIFIED / H-GATE PASS — 160 / 188 PHYSICAL SCANS COMPLETE**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -29,7 +29,7 @@ Every expanded row distinguishes canonical transcription, initial visual verific
 | 58–62 | 57–61 | Scene 16 | opener / drama / close | complete | PASS | PASS | `verified` | scan 60→61 `உன்னால் நடத்த`→`முடியுமா`; scan 61 three glyph corrections; star scan 62 |
 | 63–65 | 62–64 | Scene 17 | opener / drama / close | complete | PASS | PASS | `verified` | scan 63 `வீரப்பனா?`; source `அஞ்சல் மண் வேலையை`; star scan 65 |
 | 66–67 | 65–66 | Scene 18 | opener / close | complete | PASS | PASS | `verified` | `பாளையக்காரருக்கு`→`அதிகாரமில்லை`; star scan 67 |
-| 68 | 67 | Scene 19 | opener + close | complete | PASS | PASS | `verified` | single-page scene; `ஓலைபோன்றில்`; star |
+| 68 | 67 | Scene 19 | opener + close | complete | PASS | PASS | `verified` | one-page scene; `ஓலைபோன்றில்`; star |
 | 69–70 | 68–69 | Scene 20 | opener / continuation | complete | PASS | PASS | `verified` | Batch 07; scan 70 retains source `முடிவு தற்குள்` |
 | 71–75 | 70–74 | Scene 20 | continuation / close | complete | PASS | PASS | `verified` | Batch 08; scan 75 `அவனை`; centred star scan 75 |
 | 76–80 | 75–79 | Scene 21 | opener / drama / close | complete | PASS | PASS | `verified` | Batch 08; scan 77 `மலைபோல்`; scan 78 `வீரனில்லை`; centred star scan 80 |
@@ -61,7 +61,14 @@ Every expanded row distinguishes canonical transcription, initial visual verific
 | 144–145 | 143–144 | Scene 44 | opener / close | complete | PASS | PASS | `verified` | scan 144 source heading `காட்சி 44`; centred star scan 145 |
 | 146–148 | 145–147 | Scene 45 | opener / drama / close | complete | PASS | PASS | `verified` | scan 146 H-GATE `இளஞரே`→`இளைஞரே`; 146 `ஆரணங்கின்`→147 `மயக்கத்தால்...`; centred star scan 148 |
 | 149–150 | 148–149 | Scene 46 | opener / close | complete | PASS | PASS | `verified` | source name-building wordplay preserved; centred star scan 150; no textual continuation implied into 151 |
-| 151–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
+| 151–152 | 150–151 | Scene 47 | opener / close | complete | PASS | PASS | `verified` | scan 151 fresh opener after Scene 46; scan 151 source `மலைகள் உருளுவது போல`; centred close-star scan 152 |
+| 153 | 152 | Scene 48 | opener + close | complete | PASS | PASS | `verified` | single-page scene; centred close-star |
+| 154–155 | 153–154 | Scene 49 | opener / close | complete | PASS | PASS | `verified` | scan 154 `இளைஞனே`; internal `★ ★ ★` on scan 155 is not close; final centred star closes Scene 49 |
+| 156–157 | 155–156 | Scene 50 | opener / close | complete | PASS | PASS | `verified` | source spacing `மருத்துவ மனையில்` / `மருத்துவ மனைக்கும்` preserved; centred close-star scan 157 |
+| 158 | 157 | Scene 51 | opener + close | complete | PASS | PASS | `verified` | single-page scene; source `முட்டாள்தா இரு!`; centred close-star |
+| 159 | 158 | Scene 52 | opener + close | complete | PASS | PASS | `verified` | single-page scene; source `உன்வீடு` / `அடுத்ததெரு`; centred close-star |
+| 160 | 159 | Scene 53 | opener + close | complete | PASS | PASS | `verified` | H-GATE correction `நீங்கள் தானு`→`நீங்கள் தானா`; centred close-star |
+| 161–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
 | 180 | 179 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 59]` |
 | 181–182 | visible | main dramatic text | drama pages | not-started | pending | pending | `not-started` | continuation; exact boundaries pending |
 | 183 | 182 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 60]` |
@@ -95,18 +102,19 @@ Batch reviews:
 - `../BATCH_12_REVIEW.md` — **PASS / scans 111–120**;
 - `../BATCH_13_REVIEW.md` — **PASS / scans 121–130**;
 - `../BATCH_14_REVIEW.md` — **PASS / scans 131–140**;
-- `../BATCH_15_REVIEW.md` — **PASS / scans 141–150**.
+- `../BATCH_15_REVIEW.md` — **PASS / scans 141–150**;
+- `../BATCH_16_REVIEW.md` — **PASS / scans 151–160**.
 
 ## Current totals
 
-- canonical page records: **150 / 188**;
-- initial visual verification PASS: **150 / 188**;
-- H-GATE PASS: **150 / 188**;
-- final `verified`: **150 / 188**;
-- historical-glyph corrections recorded: **31** total;
+- canonical page records: **160 / 188**;
+- initial visual verification PASS: **160 / 188**;
+- H-GATE PASS: **160 / 188**;
+- final `verified`: **160 / 188**;
+- historical-glyph corrections recorded: **32** total;
 - `needs-review`: **0**;
 - `blocked`: **0**.
 
 ## Next expansion batch
 
-Expand and process **scans 151–160** individually using `BATCH_EXECUTION_WORKFLOW.md`. The raw 188-scan PDF remains controlling even though the conversation preview stops at 150.
+Expand and process **scans 161–170** individually using `BATCH_EXECUTION_WORKFLOW.md`. The raw 188-scan PDF remains controlling even though the conversation preview stops at 150.
