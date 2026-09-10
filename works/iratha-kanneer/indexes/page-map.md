@@ -1,6 +1,6 @@
 # Page map — இரத்தக் கண்ணீர்
 
-Status: **SCANS 1–160 FINAL VERIFIED / H-GATE PASS — 160 / 188 PHYSICAL SCANS COMPLETE**
+Status: **SCANS 1–170 FINAL VERIFIED / H-GATE PASS — 170 / 188 PHYSICAL SCANS COMPLETE**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -61,15 +61,19 @@ Every expanded row distinguishes canonical transcription, initial visual verific
 | 144–145 | 143–144 | Scene 44 | opener / close | complete | PASS | PASS | `verified` | scan 144 source heading `காட்சி 44`; centred star scan 145 |
 | 146–148 | 145–147 | Scene 45 | opener / drama / close | complete | PASS | PASS | `verified` | scan 146 H-GATE `இளஞரே`→`இளைஞரே`; 146 `ஆரணங்கின்`→147 `மயக்கத்தால்...`; centred star scan 148 |
 | 149–150 | 148–149 | Scene 46 | opener / close | complete | PASS | PASS | `verified` | source name-building wordplay preserved; centred star scan 150; no textual continuation implied into 151 |
-| 151–152 | 150–151 | Scene 47 | opener / close | complete | PASS | PASS | `verified` | scan 151 fresh opener after Scene 46; scan 151 source `மலைகள் உருளுவது போல`; centred close-star scan 152 |
+| 151–152 | 150–151 | Scene 47 | opener / close | complete | PASS | PASS | `verified` | scan 151 fresh opener; source `மலைகள் உருளுவது போல`; centred close-star scan 152 |
 | 153 | 152 | Scene 48 | opener + close | complete | PASS | PASS | `verified` | single-page scene; centred close-star |
-| 154–155 | 153–154 | Scene 49 | opener / close | complete | PASS | PASS | `verified` | scan 154 `இளைஞனே`; internal `★ ★ ★` on scan 155 is not close; final centred star closes Scene 49 |
+| 154–155 | 153–154 | Scene 49 | opener / close | complete | PASS | PASS | `verified` | scan 154 `இளைஞனே`; internal `★ ★ ★` scan 155 is not close; final centred star closes scene |
 | 156–157 | 155–156 | Scene 50 | opener / close | complete | PASS | PASS | `verified` | source spacing `மருத்துவ மனையில்` / `மருத்துவ மனைக்கும்` preserved; centred close-star scan 157 |
 | 158 | 157 | Scene 51 | opener + close | complete | PASS | PASS | `verified` | single-page scene; source `முட்டாள்தா இரு!`; centred close-star |
 | 159 | 158 | Scene 52 | opener + close | complete | PASS | PASS | `verified` | single-page scene; source `உன்வீடு` / `அடுத்ததெரு`; centred close-star |
-| 160 | 159 | Scene 53 | opener + close | complete | PASS | PASS | `verified` | H-GATE correction `நீங்கள் தானு`→`நீங்கள் தானா`; centred close-star |
-| 161–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
-| 180 | 179 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 59]` |
+| 160 | 159 | Scene 53 | opener + close | complete | PASS | PASS | `verified` | H-GATE `நீங்கள் தானு`→`நீங்கள் தானா`; centred close-star |
+| 161 | 160 | Scene 54 | opener + close | complete | PASS | PASS | `verified` | single-page scene; centred close-star |
+| 162–163 | 161–162 | Scene 55 | opener / close | complete | PASS | PASS | `verified` | source-sensitive period readings retained; centred close-star scan 163 |
+| 164 | 163 | Scene 56 | opener + close | complete | PASS | PASS | `verified` | single-page scene; source `ஏதோ என்னமோ`; centred close-star |
+| 165–170 | 164–169 | Scene 57 | opener / continuation | complete | PASS | PASS | `verified` | 166→167 narrative join; 167 `ஏந்திக்`→168 `கொண்டே`; scan 168 internal stars are transition; scan 169 `இதுதானா`; scan 170 `மலைப்பாம்பே`; ends `பெண்கள்` into 171 |
+| 171–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | begins by continuing scan 170 `பெண்கள்`; exact boundaries pending |
+| 180 | 179 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 59]`; process in Batch 18 |
 | 181–182 | visible | main dramatic text | drama pages | not-started | pending | pending | `not-started` | continuation; exact boundaries pending |
 | 183 | 182 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 60]` |
 | 184 | 183 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 61]` |
@@ -86,35 +90,18 @@ For historical-type pages, ordinary visual verification does **not** directly pr
 
 The gate is not limited to that minimum set. Batch 05 additionally caught source-historical `ளா` look-alikes.
 
-Batch reviews:
-
-- `../BATCH_01_REVIEW.md` — **PASS / scans 1–10**;
-- `../BATCH_02_REVIEW.md` — **PASS / scans 11–20**;
-- `../BATCH_03_REVIEW.md` — **PASS / scans 21–30**;
-- `../BATCH_04_REVIEW.md` — **PASS / scans 31–40**;
-- `../BATCH_05_REVIEW.md` — **PASS / scans 41–50**;
-- `../BATCH_06_REVIEW.md` — **PASS / scans 51–60**;
-- `../BATCH_07_REVIEW.md` — **PASS / scans 61–70**;
-- `../BATCH_08_REVIEW.md` — **PASS / scans 71–80**;
-- `../BATCH_09_REVIEW.md` — **PASS / scans 81–90**;
-- `../BATCH_10_REVIEW.md` — **PASS / scans 91–100**;
-- `../BATCH_11_REVIEW.md` — **PASS / scans 101–110**;
-- `../BATCH_12_REVIEW.md` — **PASS / scans 111–120**;
-- `../BATCH_13_REVIEW.md` — **PASS / scans 121–130**;
-- `../BATCH_14_REVIEW.md` — **PASS / scans 131–140**;
-- `../BATCH_15_REVIEW.md` — **PASS / scans 141–150**;
-- `../BATCH_16_REVIEW.md` — **PASS / scans 151–160**.
+Batch reviews now run through `../BATCH_17_REVIEW.md` — **PASS / scans 161–170**.
 
 ## Current totals
 
-- canonical page records: **160 / 188**;
-- initial visual verification PASS: **160 / 188**;
-- H-GATE PASS: **160 / 188**;
-- final `verified`: **160 / 188**;
-- historical-glyph corrections recorded: **32** total;
+- canonical page records: **170 / 188**;
+- initial visual verification PASS: **170 / 188**;
+- H-GATE PASS: **170 / 188**;
+- final `verified`: **170 / 188**;
+- historical-glyph corrections recorded: **34** total;
 - `needs-review`: **0**;
 - `blocked`: **0**.
 
 ## Next expansion batch
 
-Expand and process **scans 161–170** individually using `BATCH_EXECUTION_WORKFLOW.md`. The raw 188-scan PDF remains controlling even though the conversation preview stops at 150.
+Expand and process **scans 171–180** individually using `BATCH_EXECUTION_WORKFLOW.md`. The raw 188-scan PDF remains controlling even though the conversation preview stops at 150.

@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் scans 161–170
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் scans 171–180
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work:
 
@@ -24,8 +24,8 @@ Read completely before source-dependent work:
 8. `works/iratha-kanneer/metadata/source.md`
 9. `works/iratha-kanneer/indexes/page-map.md`
 10. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`
-11. `BATCH_01_REVIEW.md` through `BATCH_16_REVIEW.md`
-12. relevant page records through `pages/0160.md`
+11. `BATCH_01_REVIEW.md` through `BATCH_17_REVIEW.md`
+12. relevant page records through `pages/0170.md`
 
 Resolve / attach the controlling PDF before page-level visual work.
 
@@ -35,7 +35,7 @@ Resolve / attach the controlling PDF before page-level visual work.
 
 Source provenance: the user-supplied controlling PDF was downloaded from the **Tamil Digital Library (TDL)**. The TDL record and Wikisource copy are provenance/transport routes for the **same scan set**, not independent secondary textual witnesses.
 
-**Operational source rule:** when this exact PDF is attached/readable locally, routine transcription and verification must use the local controlling PDF directly. Do not detour to TDL/Wikisource merely to re-check the same pixels. External transport is justified only if the local bytes are unavailable/unreadable or the user explicitly requests an outside comparison.
+**Operational source rule:** when this exact PDF is attached/readable locally, routine transcription and verification must use the local controlling PDF directly. Do not detour to TDL/Wikisource merely to re-check the same pixels.
 
 - title: **இரத்தக் கண்ணீர்**
 - author: **மு. கருணாநிதி**
@@ -51,89 +51,43 @@ The conversation preview exposes only **150** pages, but raw-PDF inspection conf
 ## Durable checkpoint
 
 - P0 source intake — **PASS**
-- canonical page records — **160 / 188**
-- initial visual verification — **160 / 188**
-- post-verification historical-glyph H-GATE — **160 / 188**
-- final verified — **160 / 188**
-- contiguous verified range — **scans 1–160**
-- Batches 01–16 — **PASS / COMPLETE**
-- Batch 16 — **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**
-- Batch-16 Pass-A durable commit — **`cc5c0e74c174a9aa0da517613ee6558ca0b71d36`**
-- historical-glyph corrections recorded — **32**
+- canonical page records — **170 / 188**
+- initial visual verification — **170 / 188**
+- post-verification historical-glyph H-GATE — **170 / 188**
+- final verified — **170 / 188**
+- contiguous verified range — **scans 1–170**
+- Batches 01–17 — **PASS / COMPLETE**
+- Batch 17 — **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**
+- Batch-17 Pass-A durable commit — **`d951cdfc913b375d0c99a3c602a0a0743ef5d091`**
+- earlier Batch-17 checkpoint — **`eadec47b4014962ddb4323b18f0d428b051f5b78`**
+- historical-glyph corrections recorded — **34**
 - unresolved page-level source issues — **0**
 - `needs-review` — **0**
 - `blocked` — **0**
 - scene assembly — **not started / blocked on page layer**
 - English — **not authorized / not started**
 
-Batch 16 followed the mandatory two-commit anti-loop workflow: Pass A was durably persisted before H-GATE; Pass B re-read only targeted historical/source-sensitive loci and physical joins; settled prose was not retranscribed.
+Batch 17 followed the mandatory two-commit anti-loop workflow: Pass A was durably persisted before H-GATE; Pass B re-read only targeted historical/source-sensitive loci and physical joins; settled prose was not retranscribed.
 
-## Verified structure through scan 160
+## Verified Batch-17 structure
 
-- Scene 1 scans 8–13;
-- Scene 2 scans 14–18;
-- Scene 3 scans 19–21;
-- Scene 4 scans 22–25;
-- Scene 5 scans 26–29;
-- Scene 6 scan 30 only;
-- Scene 7 scans 31–33;
-- Scene 8 scans 34–39;
-- Scene 9 scans 40–41;
-- Scene 10 scans 42–44;
-- Scene 11 scans 45–46;
-- Scene 12 scans 47–49;
-- Scene 13 scans 50–51;
-- Scene 14 scans 52–53;
-- Scene 15 scans 54–57;
-- Scene 16 scans 58–62;
-- Scene 17 scans 63–65;
-- Scene 18 scans 66–67;
-- Scene 19 scan 68 only;
-- Scene 20 scans 69–75;
-- Scene 21 scans 76–80;
-- Scene 22 scan 81 only;
-- Scene 23 scans 82–83;
-- Scene 24 scan 84 only;
-- Scene 25 scans 85–88;
-- Scene 26 scans 89–90;
-- Scene 27 scans 91–94;
-- Scene 28 scans 95–96;
-- Scene 29 scans 97–98;
-- Scene 30 scans 99–100;
-- Scene 31 scans 101–104;
-- Scene 32 scans 105–106;
-- Scene 33 scan 107 only;
-- Scene 34 scans 108–110;
-- Scene 35 scans 111–115;
-- Scene 36 scans 116–122;
-- Scene 37 scans **123–131**;
-- Scene 38 scans **132–133**;
-- Scene 39 scans **134–135**;
-- Scene 40 scan **136** only;
-- Scene 41 scans **137–139**;
-- Scene 42 scans **140–141**;
-- Scene 43 scans **142–143**;
-- Scene 44 scans **144–145**;
-- Scene 45 scans **146–148**;
-- Scene 46 scans **149–150**;
-- Scene 47 scans **151–152**;
-- Scene 48 scan **153** only;
-- Scene 49 scans **154–155**;
-- Scene 50 scans **156–157**;
-- Scene 51 scan **158** only;
-- Scene 52 scan **159** only;
-- Scene 53 scan **160** only.
-
-Physical joins established through this checkpoint include scan 130 `புறப்` → scan 131 `படுகின்றனர்.` and scan 146 `ஆரணங்கின்` → scan 147 `மயக்கத்தால்...`.
+- Scene 54: scan **161** only, centred close-star;
+- Scene 55: scans **162–163**, centred close-star on scan 163;
+- Scene 56: scan **164** only, centred close-star;
+- Scene 57: opens scan **165** and remains open through scan **170**, continuing into scan 171;
+- scan 166 `வெளியிலிருந்து` → scan 167 `வேதாளமும்...` is a physical continuation;
+- scan 167 `ஏந்திக்` → scan 168 `கொண்டே` is a physical split-word continuation;
+- scan 168's internal `* * *` is a transition, not a scene close;
+- scan 170 ends mid-utterance at `பெண்கள்`, directly establishing continuation into scan 171.
 
 Do not turn this partial evidence into a final whole-work scene inventory.
 
 ## Mandatory efficient batch workflow
 
-For Batch 17 follow `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md` exactly:
+For Batch 18 follow `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md` exactly:
 
-1. **Pass A — whole-page once:** render/read scans 161–170 from the local controlling PDF, create canonical transcription, establish physical joins/scene boundaries, ordinary visual verification;
-2. **commit Pass A immediately:** persist `pages/0161.md` through `0170.md` as `status: needs-review`, `initial_verification: passed`, `historical_glyph_gate: pending` before any H-GATE work;
+1. **Pass A — whole-page once:** render/read scans 171–180 from the local controlling PDF, create canonical transcription, establish physical joins/scene boundaries, ordinary visual verification;
+2. **commit Pass A immediately:** persist `pages/0171.md` through `0180.md` as `status: needs-review`, `initial_verification: passed`, `historical_glyph_gate: pending` before any H-GATE work;
 3. **Pass B — targeted H-GATE only:** inspect mandatory historical families plus actual candidate/source-sensitive loci and joins; do not retranscribe settled prose;
 4. crop/enhance only an actual unresolved locus; stop once resolved or formally held;
 5. final closure commit only after clean pages receive H-GATE PASS / final `verified` and controls are synchronized.
@@ -152,26 +106,25 @@ The family list is a minimum, not a ceiling. Batch 05 also established historica
 
 ## Established historical corrections — do not regress
 
-Thirty-two corrections are recorded through scan 160. Recent corrections include:
+Thirty-four corrections are recorded through scan 170. Recent corrections include:
 
-- scan 160 `நீங்கள் தானா முத்தாயி?` (`னா`) — source-confirmed from the controlling scan;
-- scan 146 `இளைஞரே` (`ளை`) — never restore Pass-A apparent `இளஞரே`;
-- scan 138 `கண்ணை மறைக்கும் பேய்` (`ணை`) — never restore Pass-A apparent `கண்ண மறைக்கும் பேய்`;
-- scan 122 `இருப்பானா?`;
-- scan 124 `கண்ணாடி` ×2;
-- scan 127 `கண்ணாடியிடம்`;
-- scan 130 `பெண்ணாகவும்` / `ஆணாகவும்`.
+- scan 170 `மலைப்பாம்பே` (`லை`) — never restore Pass-A apparent `மில்ப்பாம்பே`;
+- scan 169 `இதுதானா` (`னா`) — never restore Pass-A apparent `இதுதானு`;
+- scan 160 `நீங்கள் தானா முத்தாயி?` (`னா`);
+- scan 146 `இளைஞரே` (`ளை`);
+- scan 138 `கண்ணை மறைக்கும் பேய்` (`ணை`).
 
-Source-sensitive local readings remain local; do not globalize any historical-glyph adjudication.
+Source-sensitive local readings remain local; do not globalize any historical-glyph adjudication. Batch 17 retained source-visible readings including scan 162 `முழுங்கிவிடே`, `நடத்தொரு நாராயணன்`, `என்றுல`; scan 163 standalone `நெருங்கிய`; scan 165 `வாசப்பூது`; scan 169 `பொருத்தன்`; scan 170 `சொன்னுளாமே`, `பஞ்சணைப் பசியால்`, `சுக்கு நாறுக்கிவிடு`.
 
-## Exact next activity — Batch 17 / scans 161–170
+## Exact next activity — Batch 18 / scans 171–180
 
 1. Resolve/read the raw controlling PDF directly; the raw 188-scan source controls beyond the 150-page preview.
-2. Perform Pass A once for scans **161–170** and make the mandatory Pass-A commit before H-GATE.
-3. Establish source-proven scene boundaries and physical joins only; do not infer from the partial scene inventory.
-4. Perform targeted independent H-GATE only after that durable boundary.
-5. Create `BATCH_17_REVIEW.md` after full batch closure.
-6. Synchronize `indexes/page-map.md`, `HISTORICAL_GLYPH_AUDIT.md`, work/root READMEs, root `HANDOVER.md`, and this prompt.
-7. Fetch and report final live `main` SHA.
+2. Begin scan 171 by preserving the direct continuation from scan 170 `பெண்கள்`.
+3. Perform Pass A once for scans **171–180** and make the mandatory Pass-A commit before H-GATE.
+4. Establish source-proven scene boundaries and physical joins only; note intake spot-check evidence that scan 180 visibly opens `காட்சி 59]`, but verify it from the source during Pass A rather than inferring surrounding boundaries.
+5. Perform targeted independent H-GATE only after the durable Pass-A boundary.
+6. Create `BATCH_18_REVIEW.md` after full batch closure.
+7. Synchronize `indexes/page-map.md`, `HISTORICAL_GLYPH_AUDIT.md`, work/root READMEs, root `HANDOVER.md`, and this prompt.
+8. Fetch and report final live `main` SHA.
 
-Do not begin scene assembly or English translation merely because Batch 17 completes.
+Do not begin scene assembly or English translation merely because Batch 18 completes.

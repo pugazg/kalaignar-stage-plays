@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — இரத்தக் கண்ணீர்
 
-Status: **BATCHES 01–16 PASS — SCANS 1–160 / 160 OF 188 H-GATES COMPLETE; 160 FINAL `verified`; 32 HISTORICAL-GLYPH CORRECTIONS RECORDED**
+Status: **BATCHES 01–17 PASS — SCANS 1–170 / 170 OF 188 H-GATES COMPLETE; 170 FINAL `verified`; 34 HISTORICAL-GLYPH CORRECTIONS RECORDED**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -45,32 +45,15 @@ This is a minimum, not a closed list. Batch 05 additionally exposed historical `
 | Measure | Count |
 |---|---:|
 | Physical scans | 188 |
-| Canonical page records created | 160 / 188 |
-| Initial visual verification PASS | 160 / 188 |
-| H-GATE checked / PASS | 160 / 188 |
-| Final `verified` | 160 / 188 |
+| Canonical page records created | 170 / 188 |
+| Initial visual verification PASS | 170 / 188 |
+| H-GATE checked / PASS | 170 / 188 |
+| Final `verified` | 170 / 188 |
 | `needs-review` after processing | 0 |
 | `blocked` | 0 |
-| Historical-glyph corrections recorded | 32 |
+| Historical-glyph corrections recorded | 34 |
 
-Batch authorities:
-
-- `BATCH_01_REVIEW.md` — **PASS / scans 1–10**;
-- `BATCH_02_REVIEW.md` — **PASS / scans 11–20**;
-- `BATCH_03_REVIEW.md` — **PASS / scans 21–30**;
-- `BATCH_04_REVIEW.md` — **PASS / scans 31–40**;
-- `BATCH_05_REVIEW.md` — **PASS / scans 41–50**;
-- `BATCH_06_REVIEW.md` — **PASS / scans 51–60**;
-- `BATCH_07_REVIEW.md` — **PASS / scans 61–70**;
-- `BATCH_08_REVIEW.md` — **PASS / scans 71–80**;
-- `BATCH_09_REVIEW.md` — **PASS / scans 81–90**;
-- `BATCH_10_REVIEW.md` — **PASS / scans 91–100**;
-- `BATCH_11_REVIEW.md` — **PASS / scans 101–110**;
-- `BATCH_12_REVIEW.md` — **PASS / scans 111–120**;
-- `BATCH_13_REVIEW.md` — **PASS / scans 121–130**;
-- `BATCH_14_REVIEW.md` — **PASS / scans 131–140**;
-- `BATCH_15_REVIEW.md` — **PASS / scans 141–150**;
-- `BATCH_16_REVIEW.md` — **PASS / scans 151–160**.
+Batch authorities now run through `BATCH_17_REVIEW.md` — **PASS / scans 161–170**.
 
 ## Secure same-edition reference bank
 
@@ -104,10 +87,10 @@ _no secure positive witness yet_
 _no secure positive witness yet_
 
 ### `லை`
-Established repeatedly through scans 1–160. Secure adjudications include scan 61 `வேலை பார்த்தாய்`, scan 77 `மலைபோல்`, scan 78 `வீரனில்லை`, scan 120 `முடியவில்லை`, scan 123 `நாலைந்து`, and scan 151 `மலைகள்`.
+Established repeatedly through scans 1–170. Secure adjudications include scan 61 `வேலை பார்த்தாய்`, scan 77 `மலைபோல்`, scan 78 `வீரனில்லை`, scan 120 `முடியவில்லை`, scan 123 `நாலைந்து`, scan 151 `மலைகள்`, and scan 170 H-GATE-corrected `மலைப்பாம்பே`.
 
 ### `ளை`
-Established repeatedly through scans 1–160. Scan 53 retains source-adjudicated `சொத்துக்களைப் பிடிக்கும்`; scan 146 H-GATE-corrected `இளைஞரே`; scans 147 and 154 securely read `அவளை` / `இளைஞனே`.
+Established repeatedly through scans 1–170. Scan 53 retains source-adjudicated `சொத்துக்களைப் பிடிக்கும்`; scan 146 H-GATE-corrected `இளைஞரே`; scans 147 and 154 securely read `அவளை` / `இளைஞனே`.
 
 ### `றா`
 - scan 92: `புறாக்கள்`;
@@ -120,7 +103,7 @@ _no secure correction witness yet_
 _no secure correction witness yet_
 
 ### `னா`
-Secure witnesses include scans 9, 17, 18, 21, 40, 48, 61, 63, 84, 86, 92, 95, 101, 110, 111, 120, 122, 125, 128 and 130. Key adjudicated forms include `சரிதானா?`, `நானா?`, `வீரப்பனா?`, `முத்தனா?`, `இப்படித்தானா?`, and `இருப்பானா?`. Scan 160 adds source-confirmed `தானா` in `நீங்கள் தானா முத்தாயி?`.
+Secure witnesses include scans 9, 17, 18, 21, 40, 48, 61, 63, 84, 86, 92, 95, 101, 110, 111, 120, 122, 125, 128 and 130. Key adjudicated forms include `சரிதானா?`, `நானா?`, `வீரப்பனா?`, `முத்தனா?`, `இப்படித்தானா?`, and `இருப்பானா?`. Scan 160 adds `தானா` in `நீங்கள் தானா முத்தாயி?`; scan 169 adds `இதுதானா`.
 
 ### `னை`
 Secure witnesses include scan 5 `கற்பனை`, repeated `அரண்மனை...` forms, scans 11/12/16 `அஞ்சல் மனை...`, scan 31 `யானை போல்`, scan 75 `அவனை`, scan 82 `முத்தனை`, scan 112 `முத்தனை` / `அவனை`, scan 119 `தென்னை`, scan 126 `முத்தனை`, scan 140 `நல்லவனைப்போல`, scan 141 `முனையும்`, scan 142 `மனைவி`, scan 146 `அரண்மனைவாசி`, scan 147 `அரண்மனையை`, and scan 157 `மனைக்கும்`.
@@ -176,12 +159,14 @@ _no secure positive witness yet_
 | 30 | 138 | 137 | `கண்ண மறைக்கும் பேய்` | `கண்ணை மறைக்கும் பேய்` | `ணை` | PASS |
 | 31 | 146 | 145 | `இளஞரே` | `இளைஞரே` | `ளை` | PASS |
 | 32 | 160 | 159 | `நீங்கள் தானு முத்தாயி?` | `நீங்கள் தானா முத்தாயி?` | `னா` | PASS |
+| 33 | 169 | 168 | `இதுதானு` | `இதுதானா` | `னா` | PASS |
+| 34 | 170 | 169 | `மில்ப்பாம்பே` | `மலைப்பாம்பே` | `லை` | PASS |
 
 All corrections above are local source-pixel character-identity adjudications. They are not grammar-driven normalizations and do not authorize global replacement.
 
 ## Source-sensitive non-global readings
 
-Historical-glyph adjudication remains local. Source-visible readings such as scan 63 `அஞ்சல் மண் வேலையை`, scan 75 `அஞ்சல் மண்`, and scan 81 `அஞ்சல் மண்ணில் தான்` remain authoritative where their own pixels support them.
+Historical-glyph adjudication remains local. Source-visible readings such as scan 63 `அஞ்சல் மண் வேலையை`, scan 75 `அஞ்சல் மண்`, scan 81 `அஞ்சல் மண்ணில் தான்`, scan 162 `முழுங்கிவிடே` / `நடத்தொரு நாராயணன்` / `என்றுல`, scan 163 standalone `நெருங்கிய`, scan 165 `வாசப்பூது`, scan 169 `பொருத்தன்`, and scan 170 `சொன்னுளாமே` / `பஞ்சணைப் பசியால்` / `சுக்கு நாறுக்கிவிடு` remain authoritative where their own pixels support them.
 
 ## Ordinary source reconciliation
 
@@ -191,9 +176,11 @@ Batch 15 required no additional ordinary source-fidelity correction distinct fro
 
 Batch 16 required one ordinary source-fidelity correction: scan 151 Pass-A `மில்கள் உருளுவது போல` → source-supported `மலைகள் உருளுவது போல`. This is not included in the historical-glyph count.
 
+Batch 17 required no ordinary source-fidelity correction distinct from the two historical-glyph corrections on scans 169 and 170.
+
 ## Current gate conclusion
 
-- scans 1–160: full H-GATE **PASS**;
+- scans 1–170: full H-GATE **PASS**;
 - unresolved historical-glyph loci: **0**;
-- historical-glyph corrections recorded: **32**;
-- next H-GATE scope: **scans 161–170**.
+- historical-glyph corrections recorded: **34**;
+- next H-GATE scope: **scans 171–180**.
