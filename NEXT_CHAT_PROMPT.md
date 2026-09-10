@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் scans 111–120
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் scans 121–130
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work:
 
@@ -19,12 +19,13 @@ Read completely before source-dependent work:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`
 4. root `HANDOVER.md`
 5. this `NEXT_CHAT_PROMPT.md`
-6. `works/iratha-kanneer/README.md`
-7. `works/iratha-kanneer/metadata/source.md`
-8. `works/iratha-kanneer/indexes/page-map.md`
-9. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`
-10. `BATCH_01_REVIEW.md` through `BATCH_11_REVIEW.md`
-11. relevant page records through `pages/0110.md`
+6. `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md`
+7. `works/iratha-kanneer/README.md`
+8. `works/iratha-kanneer/metadata/source.md`
+9. `works/iratha-kanneer/indexes/page-map.md`
+10. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`
+11. `BATCH_01_REVIEW.md` through `BATCH_12_REVIEW.md`
+12. relevant page records through `pages/0120.md`
 
 Resolve / attach the controlling PDF before page-level visual work.
 
@@ -32,7 +33,9 @@ Resolve / attach the controlling PDF before page-level visual work.
 
 `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`
 
-Source provenance: the user-supplied controlling PDF was downloaded from the **Tamil Digital Library (TDL)**. Treat the TDL record as provenance for this exact supplied source, not as an independent secondary textual witness.
+Source provenance: the user-supplied controlling PDF was downloaded from the **Tamil Digital Library (TDL)**. The TDL record and Wikisource copy are provenance/transport routes for the **same scan set**, not independent secondary textual witnesses.
+
+**Operational source rule:** when this exact PDF is attached/readable locally, routine transcription and verification must use the local controlling PDF directly. Do not detour to TDL/Wikisource merely to re-check the same pixels. External transport is justified only if the local bytes are unavailable/unreadable or the user explicitly requests an outside comparison.
 
 - title: **இரத்தக் கண்ணீர்**
 - author: **மு. கருணாநிதி**
@@ -48,13 +51,13 @@ The conversation preview exposes only **150** pages, but raw-PDF inspection conf
 ## Durable checkpoint
 
 - P0 source intake — **PASS**
-- canonical page records — **110 / 188**
-- initial visual verification — **110 / 188**
-- post-verification historical-glyph H-GATE — **110 / 188**
-- final verified — **110 / 188**
-- contiguous verified range — **scans 1–110**
-- Batches 01–11 — **PASS / COMPLETE**
-- Batch 11 — **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**
+- canonical page records — **120 / 188**
+- initial visual verification — **120 / 188**
+- post-verification historical-glyph H-GATE — **120 / 188**
+- final verified — **120 / 188**
+- contiguous verified range — **scans 1–120**
+- Batches 01–12 — **PASS / COMPLETE**
+- Batch 12 — **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**
 - historical-glyph corrections recorded — **23**
 - unresolved page-level source issues — **0**
 - `needs-review` — **0**
@@ -62,7 +65,9 @@ The conversation preview exposes only **150** pages, but raw-PDF inspection conf
 - scene assembly — **not started / blocked on page layer**
 - English — **not authorized / not started**
 
-Verified structure through scan 110:
+Batch 12 was executed using the mandatory two-commit anti-loop workflow: Pass A was durably committed before H-GATE; Pass B re-read only targeted historical/source-sensitive loci; settled prose was not retranscribed.
+
+Verified structure through scan 120:
 
 - Scene 1 scans 8–13;
 - Scene 2 scans 14–18;
@@ -97,28 +102,37 @@ Verified structure through scan 110:
 - Scene 31 scans 101–104;
 - Scene 32 scans 105–106;
 - Scene 33 scan 107 only;
-- Scene 34 scans 108–110.
+- Scene 34 scans 108–110;
+- Scene 35 scans **111–115**;
+- Scene 36 opens scan **116**, is verified through scan **120**, and **continues into scan 121**.
 
-Do not turn this partial evidence into a final whole-work scene inventory.
+Do not treat scan 120 as a scene close. The three star ornaments at the bottom of scan 116 are an internal decorative transition, not a scene close. Do not turn this partial evidence into a final whole-work scene inventory.
+
+## Mandatory efficient batch workflow
+
+For Batch 13 follow `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md` exactly:
+
+1. **Pass A — whole-page once:** render/read scans 121–130 from the local controlling PDF, create canonical transcription, establish physical joins/scene boundaries, ordinary visual verification;
+2. **commit Pass A immediately:** persist `pages/0121.md` through `0130.md` as `status: needs-review`, `initial_verification: passed`, `historical_glyph_gate: pending` before any H-GATE work;
+3. **Pass B — targeted H-GATE only:** inspect mandatory historical families plus actual candidate/source-sensitive loci and joins; do not retranscribe settled prose;
+4. crop/enhance only an actual unresolved locus; stop once resolved or formally held;
+5. final closure commit only after clean pages receive H-GATE PASS / final `verified` and controls are synchronized.
+
+Short rule:
+
+> **Local PDF → Pass A once → commit → targeted H-GATE → final commit. No external detour and no settled-text loop.**
 
 ## Mandatory historical-glyph gate
-
-For every page:
-
-1. canonical transcription;
-2. initial visual verification;
-3. H-GATE at enlarged/native source pixels;
-4. only then final `verified` if clean.
 
 Mandatory minimum family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-The family list is a minimum, not a ceiling. Batch 05 also established historical `ளா` look-alikes and future additional historical look-alikes must be adjudicated similarly. No global replacement. No spelling/grammar/punctuation modernization. OCR and expected wording are not glyph authority. Prefer same-edition comparison for doubtful clusters.
+The family list is a minimum, not a ceiling. Batch 05 also established historical `ளா` look-alikes. No global replacement. No spelling/grammar/punctuation modernization. OCR and expected wording are not glyph authority. Prefer same-edition comparison for doubtful clusters.
 
 ## Established historical corrections — do not regress
 
-Twenty-three corrections are recorded through scan 110. The latest correction-ledger additions remain Batch 09:
+Twenty-three corrections are recorded through scan 120. The latest correction-ledger additions remain Batch 09:
 
 - scan 84 `முத்தனா?` (`னா`) — never restore apparent `முத்தனு?`;
 - scan 84 `நல்லவனாயிற்றே` (`னா`) — never restore apparent `நல்லவனு யிற்றே`;
@@ -126,23 +140,15 @@ Twenty-three corrections are recorded through scan 110. The latest correction-le
 
 Scan 81 source `அஞ்சல் மண்ணில் தான்` is separately source-visible and authoritative. Do not globally convert it to `அஞ்சல் மனை` based on older loci.
 
-Batch 09 also established scan-82 difficult source wording `ஏழையின் குரல் எஜமானின் காதில் எப்படி கேட்கும்?` and the physical scan split `சேர்ந்` → `துள்ள` across scans 82–83.
+Batch 12 added **no new correction-ledger entry**. Secure positive witnesses include scan 111 `புறா` / `பேனா`, scan 112 `கண்ணாடி` / `முத்தனை` / `அவனை`, scan 113 `கண்ணைத்`, scan 118 `பண்ணாதே` / `துணை`, scan 119 `கண்ணாடி` / `தென்னை`, and scan 120 `என்னால்`. Ordinary source reconciliation restored scan 111 quotation marks around `“முத்தாயி முத்தாயி”` and corrected scan 114 to `உயிரினையானைக்`; these do not change the historical-glyph count.
 
-Batch 10 added **no new historical-glyph correction-ledger entry**. Secure positive witnesses include scan 92 `புறாக்கள்` (`றா`), `அவள்தானா?` / `மாயனால்` (`னா`), scan 95 `வீணை` (`ணை`), `என்னால்` / `மறப்பேனா` (`னா`) and `பேசினாள்` (supplemental `ளா`). The difficult scan-97 opening is resolved as `மாயங்காத சாமியார்`. Preserve physical continuations `அசை` → `யாமல்` (91→92) and `வண்டுகளாக` → `வும்` (95→96).
+## Exact next activity — Batch 13 / scans 121–130
 
-Batch 11 also added **no new correction-ledger entry**. Secure positive witnesses include scan 101 `கண்ணை` (`ணை`) / `கிழவனானான்` (`னா`), scan 107 `கண்ணாடி` (`ணா`), and scan 110 `என்னால்` (`னா`). Preserve source-sensitive readings scan 103 `தீண்டேன் தீண்டேன்`, scan 104 `சமாதான மடைந்துவிடுவார்`, scan 106 `நில விலங்கு` / `ஆறுதலாகயிருந்தது`, scan 107 `ஐம்பது கல்` / `ஆனந்த நகரில்`, scan 108 `வேரை`, scan 109 `பாழும் பொருளாசையால்` / `அவர்கள் சுயநலம்`, and scan 110 `ஆனந்தபுரம்`.
+1. Start from scan 121 as the continuing Scene-36 page; establish scan-120→121 continuation from source pixels.
+2. Perform Pass A once for scans 121–130 and make the mandatory Pass-A commit before H-GATE.
+3. Perform targeted independent H-GATE only after that durable boundary.
+4. Create `BATCH_13_REVIEW.md` after full batch closure.
+5. Synchronize `indexes/page-map.md`, `HISTORICAL_GLYPH_AUDIT.md`, work/root READMEs, root `HANDOVER.md`, and this prompt.
+6. Fetch and report final live `main` SHA.
 
-## Exact next activity — Batch 12 / scans 111–120
-
-1. Create `pages/0111.md` through `0120.md`.
-2. Establish any scan-110→111 continuation from scan-111 source pixels only.
-3. Transcribe all ten scans directly from native/enlarged source pixels.
-4. Preserve exact source wording, punctuation, line/scan boundaries, scene headings and centred scene-close stars. Do not normalize unusual forms.
-5. Complete ordinary initial visual verification.
-6. Run the independent full H-GATE on all ten pages, checking the complete mandatory family set plus any additional look-alikes.
-7. Record only corrections proven by the source pixels. No OCR authority, contextual guessing, grammar correction or global replacement.
-8. Promote only clean pages to final `verified`; leave unresolved glyph identity as `needs-review`.
-9. Create `BATCH_12_REVIEW.md` after the batch passes.
-10. Update `indexes/page-map.md`, `HISTORICAL_GLYPH_AUDIT.md`, work/root READMEs, root `HANDOVER.md`, and this prompt; then fetch final live `main` SHA.
-
-Do not begin scene assembly or English translation merely because Batch 12 completes.
+Do not begin scene assembly or English translation merely because Batch 13 completes.
