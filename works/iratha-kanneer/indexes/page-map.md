@@ -1,6 +1,6 @@
 # Page map — இரத்தக் கண்ணீர்
 
-Status: **SCANS 1–130 FINAL VERIFIED / H-GATE PASS — 130 / 188 PHYSICAL SCANS COMPLETE**
+Status: **SCANS 1–140 FINAL VERIFIED / H-GATE PASS — 140 / 188 PHYSICAL SCANS COMPLETE**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -50,7 +50,13 @@ Every expanded row distinguishes canonical transcription, initial visual verific
 | 116–120 | 115–119 | Scene 36 | opener / continuation | complete | PASS | PASS | `verified` | scan 116 three internal star ornaments are not a close; 117→118 `எந்த அழகுக்`→`காகத் தவங்கிடக்கிறானே`; continues into scan 121 |
 | 121–122 | 120–121 | Scene 36 | continuation / close | complete | PASS | PASS | `verified` | scan 122 `இருப்பானா?`; centred star scan 122 |
 | 123–130 | 122–129 | Scene 37 | opener / continuation | complete | PASS | PASS | `verified` | opens `[ஆனந்தபுரம்`; scan 124 `கண்ணாடி` ×2; scan 127 `கண்ணாடியிடம்`; scan 130 `பெண்ணாகவும்` / `ஆணாகவும்`; scan 130 `புறப்` → scan 131 `படுகின்றனர்.` |
-| 131–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
+| 131 | 130 | Scene 37 | continuation + close | complete | PASS | PASS | `verified` | preserves `புறப்`→`படுகின்றனர்.`; source `அதோ பார்`; centred star |
+| 132–133 | 131–132 | Scene 38 | opener / close | complete | PASS | PASS | `verified` | scan 132 source `தலைநகருக்கும்`, `குதிரையின் மீது இருக்கும் பெண்ணின்`; scan 133 `கண்ணே முத்தாயி`; centred star 133 |
+| 134–135 | 133–134 | Scene 39 | opener / close | complete | PASS | PASS | `verified` | centred star scan 135 |
+| 136 | 135 | Scene 40 | opener + close | complete | PASS | PASS | `verified` | one-page scene; source `போகிறானோ`; centred star |
+| 137–139 | 136–138 | Scene 41 | opener / drama / close | complete | PASS | PASS | `verified` | scan 138 `கண்ணை மறைக்கும் பேய்` H-GATE correction; scan 139 `கயிற்று வளையத்துக் குள்ளேயே`; centred star 139 |
+| 140 | 139 | Scene 42 | opener / continuation | complete | PASS | PASS | `verified` | source `நல்லவனைப்போல`, `காரியமல்லே`, `ராணி இறந்தேவிடுவாள்`; continues into scan 141 |
+| 141–179 | varies | main dramatic text | drama pages | not-started | pending | pending | `not-started` | full scene-boundary inventory pending page processing |
 | 180 | 179 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 59]` |
 | 181–182 | visible | main dramatic text | drama pages | not-started | pending | pending | `not-started` | continuation; exact boundaries pending |
 | 183 | 182 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 60]` |
@@ -82,18 +88,19 @@ Batch reviews:
 - `../BATCH_10_REVIEW.md` — **PASS / scans 91–100**;
 - `../BATCH_11_REVIEW.md` — **PASS / scans 101–110**;
 - `../BATCH_12_REVIEW.md` — **PASS / scans 111–120**;
-- `../BATCH_13_REVIEW.md` — **PASS / scans 121–130**.
+- `../BATCH_13_REVIEW.md` — **PASS / scans 121–130**;
+- `../BATCH_14_REVIEW.md` — **PASS / scans 131–140**.
 
 ## Current totals
 
-- canonical page records: **130 / 188**;
-- initial visual verification PASS: **130 / 188**;
-- H-GATE PASS: **130 / 188**;
-- final `verified`: **130 / 188**;
-- historical-glyph corrections recorded: **29** total;
+- canonical page records: **140 / 188**;
+- initial visual verification PASS: **140 / 188**;
+- H-GATE PASS: **140 / 188**;
+- final `verified`: **140 / 188**;
+- historical-glyph corrections recorded: **30** total;
 - `needs-review`: **0**;
 - `blocked`: **0**.
 
 ## Next expansion batch
 
-Expand and process **scans 131–140** individually using `BATCH_EXECUTION_WORKFLOW.md`. Scan 131 must be processed fully even though it was inspected during Batch 13 only to establish the `புறப்` → `படுகின்றனர்.` boundary and Scene-37 close.
+Expand and process **scans 141–150** individually using `BATCH_EXECUTION_WORKFLOW.md`. Scan 141 must be processed fully even though it was inspected during Batch 14 only to establish the Scene-42 continuation boundary.
