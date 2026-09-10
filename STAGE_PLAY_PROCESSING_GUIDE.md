@@ -263,3 +263,24 @@ When a chat ends after source inspection but before a durable commit, use the fo
 6. A provisional page may be promoted to `verified` only after the fresh chat has either directly rechecked the controlling scan or has durable, source-reconciled page text already committed in the repository.
 7. Final-batch closure requires: page records for the entire remaining physical range, zero unresolved readings or explicit `needs-review` records, a batch/final verification record, synchronized page map/work README/root README/handover/prompt, a Git commit, and a final live-`main` verification.
 8. Do not begin scene assembly or English translation merely because page-level transcription reaches 100%; those remain separate phases requiring their own authorization/checkpoint.
+
+### 13B. Efficient batch execution — mandatory anti-loop workflow
+
+This section governs routine page batches and exists specifically to prevent repeated re-reading, unnecessary crop generation, and long uncommitted inspection loops.
+
+1. **Use the batch size recorded in the active work handover/prompt.** Do not silently enlarge a batch. A smaller batch may be used when the user explicitly asks for it or source condition requires it.
+2. **Pass A — whole-page source pass, once.** For every scan in the batch, inspect the whole page once at a usable enlarged/native view, create the canonical transcription, preserve physical boundaries/layout, and complete ordinary visual verification. Do not repeatedly restart the full-page transcription because one later glyph is difficult.
+3. **Write durable page records immediately after Pass A.** If the independent historical-glyph pass will not finish in the same execution window, commit the source-reconciled pages with `status: "needs-review"`, `initial_verification: "passed"`, and `historical_glyph_gate: "pending"`. Durable partial progress is preferred to an uncommitted inspection loop.
+4. **Pass B — independent H-GATE, not a second transcription pass.** Re-read only the mandatory historical families, candidate historical-type clusters, source-sensitive loci, and any physical joins that require confirmation. Do not re-transcribe already-settled prose from scratch.
+5. **Create crops/enhancements only for an actual unresolved locus.** A clean, readable word or page must not trigger extra crops merely for reassurance. One useful crop is preferred; additional variants are justified only when the first does not resolve character identity.
+6. **No crop loop.** Once a locus is positively resolved from controlling-source pixels or is formally left `needs-review`, stop generating further variants for that locus during the same batch unless new evidence appears.
+7. **Promote clean pages promptly.** After Pass B, pages with initial verification PASS, H-GATE PASS, and no other source issue become `verified`. A genuinely unresolved page remains `needs-review`; do not hold clean page records out of the repository merely because another page in the batch is unresolved.
+8. **Batch PASS is stricter than page persistence.** `BATCH_nn_REVIEW.md` may say PASS only when every page required by that batch satisfies its closure rule. Until then, persist the page records and record the exact remaining locus without falsely closing the batch.
+9. **Synchronize controls and commit at each durable boundary.** At minimum: after a completed Pass A when Pass B is deferred, and after final batch closure. Prefer one atomic commit for each durable boundary when Git tooling permits.
+10. **Report results after the commit, not a running inspection diary.** Intermediate narration should be minimal. The normal user-facing result is: pages processed, corrections/holds, commit SHA, and exact next activity.
+11. **Do not reopen settled pages without new evidence.** Once a page/locus passed in the current controlling source, revisit it only for a new source/provenance discrepancy, a user correction, or a systematic error discovered later.
+12. **Source-first standards remain unchanged.** Efficiency never permits OCR authority, contextual guessing, modernization, global replacement, skipped H-GATE families, or invented text.
+
+Short operational rule:
+
+> **Whole page once → durable page record → targeted independent H-GATE → crop only uncertainty → synchronize and commit. Do not loop over settled text.**
