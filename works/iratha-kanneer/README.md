@@ -4,7 +4,7 @@ Archive slug: `iratha-kanneer`.
 
 ## Current status
 
-**ACTIVE — P0 SOURCE INTAKE PASS; SCANS 1–130 / 130 OF 188 CANONICAL + INITIAL-VERIFIED + H-GATE PASS + FINAL `verified`; BATCHES 01–13 PASS; NEXT SCANS 131–140.**
+**ACTIVE — P0 SOURCE INTAKE PASS; SCANS 1–140 / 140 OF 188 CANONICAL + INITIAL-VERIFIED + H-GATE PASS + FINAL `verified`; BATCHES 01–14 PASS; NEXT SCANS 141–150.**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -66,20 +66,17 @@ The minimum set is not exhaustive. Batch 05 additionally identified historical `
 - `BATCH_11_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 101–110**.
 - `BATCH_12_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 111–120**.
 - `BATCH_13_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 121–130**.
+- `BATCH_14_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 131–140**.
 
-Historical-glyph corrections recorded through scan 130: **29 total**.
+Historical-glyph corrections recorded through scan 140: **30 total**.
 
-Batch 13 added **6 source-proven historical-glyph correction loci**:
+Batch 13 added six source-proven historical-glyph correction loci, advancing the cumulative count **23 → 29**. Batch 14 added one source-proven historical-glyph correction locus:
 
-- scan 122 `இருப்பானு?` → `இருப்பானா?` (`னா`);
-- scan 124 `கண்ணுடி` → `கண்ணாடி` twice (`ணா`);
-- scan 127 `கண்ணுடியிடம்` → `கண்ணாடியிடம்` (`ணா`);
-- scan 130 `பெண்ணுகவும்` → `பெண்ணாகவும்` (`ணா`);
-- scan 130 `ஆணுகவும்` → `ஆணாகவும்` (`ணா`).
+- scan 138 apparent/Pass-A `கண்ண மறைக்கும் பேய்` → **`கண்ணை மறைக்கும் பேய்`** (`ணை`).
 
-The cumulative correction count advances **23 → 29**. No unresolved textual or glyph loci remain in scans 121–130.
+The cumulative correction count therefore advances **29 → 30**. No unresolved textual or glyph loci remain in scans 131–140.
 
-## Verified structural evidence through scan 130
+## Verified structural evidence through scan 140
 
 - Scene 1: scans 8–13;
 - Scene 2: scans 14–18;
@@ -115,35 +112,40 @@ The cumulative correction count advances **23 → 29**. No unresolved textual or
 - Scene 32: scans 105–106;
 - Scene 33: scan 107 only;
 - Scene 34: scans 108–110;
-- Scene 35: scans **111–115**;
-- Scene 36: scans **116–122**, centred close-star on scan 122;
-- Scene 37: opens scan **123**, verified through scan **130**, and continues into scan **131**.
+- Scene 35: scans 111–115;
+- Scene 36: scans 116–122;
+- Scene 37: scans **123–131**, centred close-star on scan 131;
+- Scene 38: scans **132–133**, centred close-star on scan 133;
+- Scene 39: scans **134–135**, centred close-star on scan 135;
+- Scene 40: scan **136** only, centred close-star;
+- Scene 41: scans **137–139**, centred close-star on scan 139;
+- Scene 42: opens scan **140**, verified through scan 140, and **continues into scan 141**.
 
-Scan 130 preserves the physical split `புறப்` → scan 131 `படுகின்றனர்.`. Scan 131 was inspected only to establish this boundary and the Scene-37 close; it remains unprocessed for Batch 14.
+Scan 130→131 preserves the physical split `புறப்` → `படுகின்றனர்.`. Scan 141 was inspected only for the Batch-14 boundary and remains unprocessed/unverified for Batch 15.
 
 ## Current progress
 
 - P0 source intake — **PASS**;
-- canonical page records — **130 / 188**;
-- initial visual verification — **130 / 188**;
-- historical-glyph H-GATE — **130 / 188**;
-- final verified pages — **130 / 188**;
-- contiguous verified range — **scans 1–130**;
-- historical-glyph corrections — **29 total**;
+- canonical page records — **140 / 188**;
+- initial visual verification — **140 / 188**;
+- historical-glyph H-GATE — **140 / 188**;
+- final verified pages — **140 / 188**;
+- contiguous verified range — **scans 1–140**;
+- historical-glyph corrections — **30 total**;
 - unresolved page-level source issues — **0**;
 - `needs-review` — **0**;
 - `blocked` — **0**;
 - structural / scene assembly — **not started / blocked on page layer**;
 - English translation — **not authorized / not started**.
 
-## Exact next activity — Batch 14 / scans 131–140
+## Exact next activity — Batch 15 / scans 141–150
 
 1. Use the attached/local controlling PDF directly.
 2. Follow `BATCH_EXECUTION_WORKFLOW.md`.
-3. Pass A: process scans **131–140** whole-page once. Scan 131 begins with the physical continuation `படுகின்றனர்.` from scan 130 and closes Scene 37 with the centred star; process the whole page rather than treating the earlier boundary inspection as verification.
+3. Pass A: process scans **141–150** whole-page once. Scan 141 continues Scene 42 from scan 140; process the entire page rather than inheriting verification from the prior boundary-only inspection.
 4. Commit Pass-A page records immediately with H-GATE pending.
-5. Pass B: run only the targeted independent H-GATE across the mandatory family set plus actual source-sensitive/candidate loci; do not re-transcribe settled prose.
+5. Pass B: run only the targeted independent H-GATE across the mandatory family set plus actual source-sensitive/candidate loci and physical joins; do not re-transcribe settled prose.
 6. Promote clean pages to final `verified`; unresolved identity remains `needs-review`.
-7. Create `BATCH_14_REVIEW.md`, synchronize page map, glyph audit, READMEs, handover and next prompt, then fetch final live `main` SHA.
+7. Create `BATCH_15_REVIEW.md`, synchronize page map, glyph audit, READMEs, handover and next prompt, then fetch final live `main` SHA.
 
 Do not begin scene assembly or English translation merely because another page batch completes.
