@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — இரத்தக் கண்ணீர்
 
-Status: **BATCHES 01–12 PASS — SCANS 1–120 / 120 OF 188 H-GATES COMPLETE; 120 FINAL `verified`; 23 HISTORICAL-GLYPH CORRECTIONS RECORDED**
+Status: **BATCHES 01–13 PASS — SCANS 1–130 / 130 OF 188 H-GATES COMPLETE; 130 FINAL `verified`; 29 HISTORICAL-GLYPH CORRECTIONS RECORDED**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -19,7 +19,7 @@ Every applicable Tamil page receives the complete minimum-family check:
 
 This is a minimum, not a closed list. If another historical look-alike appears, it must also be adjudicated. Batch 05 exposed supplemental `ளா` forms on scan 48.
 
-## gate order
+## Gate order
 
 1. canonical source transcription;
 2. initial visual verification;
@@ -44,13 +44,13 @@ This is a minimum, not a closed list. If another historical look-alike appears, 
 | Measure | Count |
 |---|---:|
 | Physical scans | 188 |
-| Canonical page records created | 120 / 188 |
-| Initial visual verification PASS | 120 / 188 |
-| H-GATE checked / PASS | 120 / 188 |
-| Final `verified` | 120 / 188 |
+| Canonical page records created | 130 / 188 |
+| Initial visual verification PASS | 130 / 188 |
+| H-GATE checked / PASS | 130 / 188 |
+| Final `verified` | 130 / 188 |
 | `needs-review` after processing | 0 |
 | `blocked` | 0 |
-| Historical-glyph corrections recorded | 23 |
+| Historical-glyph corrections recorded | 29 |
 
 Batch authorities:
 
@@ -65,7 +65,8 @@ Batch authorities:
 - `BATCH_09_REVIEW.md` — **PASS / scans 81–90**;
 - `BATCH_10_REVIEW.md` — **PASS / scans 91–100**;
 - `BATCH_11_REVIEW.md` — **PASS / scans 101–110**;
-- `BATCH_12_REVIEW.md` — **PASS / scans 111–120**.
+- `BATCH_12_REVIEW.md` — **PASS / scans 111–120**;
+- `BATCH_13_REVIEW.md` — **PASS / scans 121–130**.
 
 ## Secure same-edition reference bank
 
@@ -75,7 +76,10 @@ Batch authorities:
 - scan 28: `அண்ணா`;
 - scan 107: `கண்ணாடி`;
 - scans 112, 114, 116, 119: `கண்ணாடி`;
-- scan 118: `பண்ணாதே`.
+- scan 118: `பண்ணாதே`;
+- scan 124: `கண்ணாடி` (two H-GATE-corrected loci);
+- scan 127: `கண்ணாடியிடம்`;
+- scan 130: `பெண்ணாகவும்`, `ஆணாகவும்`.
 
 ### `ணை`
 - scan 2: `பண்ணை`;
@@ -94,14 +98,14 @@ _no secure positive witness yet_
 _no secure positive witness yet_
 
 ### `லை`
-Established repeatedly through scans 1–120. Secure adjudications include scan 61 `வேலை பார்த்தாய்`, scan 77 `மலைபோல்`, scan 78 `வீரனில்லை`, and scan 120 `முடியவில்லை`.
+Established repeatedly through scans 1–130. Secure adjudications include scan 61 `வேலை பார்த்தாய்`, scan 77 `மலைபோல்`, scan 78 `வீரனில்லை`, scan 120 `முடியவில்லை`, and scan 123 `நாலைந்து`.
 
 ### `ளை`
-Established repeatedly through scans 1–120. Scan 53 retains the secure adjudicated reading `சொத்துக்களைப் பிடிக்கும்`; Batch 12 reconfirmed identities such as scan 115 `அவளைத்` and scan 120 `அவளை`.
+Established repeatedly through scans 1–130. Scan 53 retains the secure adjudicated reading `சொத்துக்களைப் பிடிக்கும்`; later batches reconfirm the family repeatedly.
 
 ### `றா`
-- scan 92: `புறாக்கள்` — secure positive same-edition witness; no correction-ledger entry required;
-- scans 111–112: repeated `புறா` — secure positive Batch-12 witnesses.
+- scan 92: `புறாக்கள்` — secure positive same-edition witness;
+- scans 111–112: repeated `புறா` — secure positive witnesses.
 
 ### `றொ`
 _no secure correction witness yet_
@@ -125,7 +129,11 @@ _no secure correction witness yet_
 - scan 101: `கிழவனானான்`;
 - scan 110: `என்னால்`;
 - scan 111: `பேனா`;
-- scan 120: `என்னால்`.
+- scan 120: `என்னால்`;
+- scan 122: `இருப்பானா?`;
+- scan 125: `சுகதேவனா?`;
+- scan 128: `ஆண்டவனாயிருந்தால்`;
+- scan 129: `நானும்`.
 
 ### `னை`
 - scan 5: `கற்பனை`;
@@ -138,7 +146,9 @@ _no secure correction witness yet_
 - scan 82: source `முத்தனை நீர் பார்த்து`;
 - scan 112: `முத்தனை`, `அவனை`;
 - scan 114: `உயிரினையானைக்`;
-- scan 119: `தென்னை`, `யோசனைப்படி`.
+- scan 119: `தென்னை`, `யோசனைப்படி`;
+- scan 121: `அவனை`;
+- scan 126: `முத்தனை`.
 
 ### `னொ`
 _no secure positive witness yet_
@@ -149,8 +159,8 @@ _no secure positive witness yet_
 ### Supplemental `ளா`
 - scan 48: secure same-page witnesses including `உட்கார்ந்தாள்`, `எழுந்தாள்`, `நின்றாள்`, `உலவினாள்`, `அயர்ந்தாள்`, `சாய்ந்தாள்`, `முயன்றாள்`, `கொண்டாள்`, `துவங்கிறாள்`, `வைத்தாள்`, `அலறினாள்`;
 - scan 49: `விட்டாள்` confirms the same-edition identity;
-- scan 95: `பேசினாள்` confirms the same historical `ளா` identity in Batch 10;
-- scans 117–119: Batch 12 reconfirms the family in forms including `கண்விழிக்கிறாள்`, `விடுகிறாள்`, `மகளாயிருந்தால்`, `விடுவாளா`, `விழுகிறாள்`, and `மறுக்கிறாள்`.
+- scan 95: `பேசினாள்` confirms the same historical `ளா` identity;
+- scans 117–119 reconfirm the family in multiple forms.
 
 ## Correction log
 
@@ -179,6 +189,12 @@ _no secure positive witness yet_
 | 84 | 83 | `முத்தனு?` | `முத்தனா?` | `னா` | enlarged/native source cluster + established same-edition `னா` witnesses | PASS |
 | 84 | 83 | `நல்லவனு யிற்றே` | `நல்லவனாயிற்றே` | `னா` | enlarged/native source cluster + established same-edition `னா` witnesses | PASS |
 | 86 | 85 | `இப்படித்தானு?` | `இப்படித்தானா?` | `னா` | enlarged/native source cluster + established same-edition `னா` witnesses | PASS |
+| 122 | 121 | `இருப்பானு?` | `இருப்பானா?` | `னா` | targeted Batch-13 enlarged source cluster + same-edition `னா` witnesses | PASS |
+| 124 | 123 | `கண்ணுடி மாளிகைக்குப்` | `கண்ணாடி மாளிகைக்குப்` | `ணா` | targeted Batch-13 source pixels + same-edition `கண்ணாடி` witnesses | PASS |
+| 124 | 123 | `கண்ணுடி மாளிகையை` | `கண்ணாடி மாளிகையை` | `ணா` | targeted Batch-13 source pixels + same-edition `கண்ணாடி` witnesses | PASS |
+| 127 | 126 | `கண்ணுடியிடம்` | `கண்ணாடியிடம்` | `ணா` | targeted Batch-13 source pixels + same-edition `கண்ணாடி` witnesses | PASS |
+| 130 | 129 | `பெண்ணுகவும்` | `பெண்ணாகவும்` | `ணா` | targeted Batch-13 source pixels + same-edition `ணா` witnesses | PASS |
+| 130 | 129 | `ஆணுகவும்` | `ஆணாகவும்` | `ணா` | targeted Batch-13 source pixels + same-edition `ணா` witnesses | PASS |
 
 ## Source-sensitive non-global readings
 
@@ -186,15 +202,15 @@ Historical-glyph adjudication is local, never global. Source-visible readings su
 
 ## Ordinary source reconciliation
 
-Batch 08, Batch 09 and Batch 10 enlarged H-GATE/final-proofread passes also found ordinary transcription/source-fidelity mismatches. Those are documented in their batch reviews and corrected in page records. They are not counted as historical-glyph corrections.
+Ordinary source-fidelity corrections discovered during enlarged final passes are documented in their batch reviews and are not counted as historical-glyph corrections.
 
-Batch 11 added secure positive historical-family witnesses but **no new correction-ledger entry**, so the cumulative total remained 23. Its source-sensitive readings and final proofread decisions are documented in `BATCH_11_REVIEW.md`.
+Batch 12 added secure positive witnesses but no correction-ledger entry, leaving the cumulative count at 23.
 
-Batch 12 also added secure positive historical-family witnesses but **no new correction-ledger entry**, so the cumulative total remains **23**. Targeted Pass-B reconciliation made two ordinary source-fidelity fixes — scan 111 quotation marks and scan 114 `உயிரினையானைக்` — documented in `BATCH_12_REVIEW.md`; neither is counted as a historical-glyph correction.
+Batch 13 added **6 source-proven historical-glyph correction loci**, advancing the cumulative count to **29**. The batch also confirmed the physical split scan 130 `புறப்` → scan 131 `படுகின்றனர்.` and established that Scene 37 closes on scan 131; scan 131 itself remains for full Batch-14 processing.
 
 ## Current gate conclusion
 
-- scans 1–120: full H-GATE **PASS**;
+- scans 1–130: full H-GATE **PASS**;
 - unresolved historical-glyph loci: **0**;
-- historical-glyph corrections recorded: **23**;
-- next H-GATE scope: **scans 121–130**.
+- historical-glyph corrections recorded: **29**;
+- next H-GATE scope: **scans 131–140**.
