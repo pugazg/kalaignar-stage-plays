@@ -10,7 +10,7 @@ Method: every visible publication-text token is compared in reading order agains
 
 | Fidelity batch | Scans | Result |
 |---|---:|---|
-| 01 | 1–5 | **3 PASS / 2 NEEDS-REVIEW** |
+| 01 | 1–5 | **5 PASS / COMPLETE** |
 | 02 | 6–10 | next |
 | 03 | 11–15 | pending |
 | 04 | 16–20 | pending |
@@ -27,16 +27,16 @@ Method: every visible publication-text token is compared in reading order agains
 Current coverage: **5 / 63 scans**.
 
 Current fidelity results:
-- PASS: **3** — scans **1, 2, 5**;
-- NEEDS-REVIEW: **2** — scans **3, 4**;
-- source-proven text corrections in fidelity phase: **0**.
+- PASS: **5** — scans **1–5**;
+- NEEDS-REVIEW: **0** in scans 1–5;
+- source-proven text corrections in fidelity phase: **3**.
 
 ## Batch 01 summary
 
 - scan 1 — PASS; all publication-text tokens match; later stamps remain excluded;
 - scan 2 — PASS; all publication-text tokens match after mechanical line-wrap joining; presentation/library mark remains separate;
-- scan 3 — NEEDS-REVIEW; all readable text through `என்றுமுங்கள்,` matches; final publisher/sign-off line remains visually unresolved;
-- scan 4 — NEEDS-REVIEW; all readable names match except unresolved `திகேசவலு முதலியார்` and `ஷெசிஷ்யன்`;
+- scan 3 — PASS after source-proven sign-off repair: `திராவிடன் பதிப்பகத்தார்`;
+- scan 4 — PASS after source-proven name repairs: `ஆதிகேசவலு முதலியார்`, `சிஷ்யன்`;
 - scan 5 — PASS; full printed p.1 literary text matches; accession mark `14063` remains excluded.
 
 Next fidelity batch: **scans 6–10**.

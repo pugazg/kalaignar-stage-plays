@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / WORD-BY-WORD VISUAL FIDELITY BATCH 01 COMPLETE
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / FIDELITY BATCH 01 CLOSED / BATCH 02 NEXT
 
 Active work: `works/nachuk-koppai/`.
 
@@ -40,9 +40,9 @@ Current durable state:
 - user-supplied first-pass baseline: **ingested for scans 1–10** at `works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
 - H-GATE checked: **63 / 63 — COMPLETE**;
-- H-GATE PASS: **6 / 63**;
-- H-GATE needs-review: **57 / 63**;
-- final verified pages: **6 / 63**;
+- H-GATE PASS: **8 / 63**;
+- H-GATE needs-review: **55 / 63**;
+- final verified pages: **8 / 63**;
 - Batch 07 Pass A: **COMPLETE — scans 61–63**;
 - Batch 07 H-GATE: **CHECKED — 1 PASS / 2 needs-review; scan 63 verified**;
 - Batch 06 Pass A: **COMPLETE — scans 51–60**;
@@ -57,8 +57,8 @@ Current durable state:
 - Batch 02 H-GATE: **CHECKED — 1 PASS / 9 needs-review**;
 - visual text fidelity audit: **ACTIVE — 5 scans per iteration**;
 - fidelity coverage: **5 / 63 scans**;
-- fidelity PASS: **3 — scans 1, 2, 5**;
-- fidelity needs-review: **2 — scans 3, 4**;
+- fidelity PASS: **5 — scans 1–5**;
+- fidelity needs-review in completed coverage: **0**;
 - scene assembly: **not started**;
 - English translation: **not started**.
 

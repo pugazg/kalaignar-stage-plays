@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE LAYER 63/63 CANONICAL + INITIAL PASS; H-GATE 63/63 CHECKED — 6 VERIFIED / 57 NEEDS-REVIEW; FULL PAGE-STATE RECONCILIATION NEXT**
+Status: **PAGE LAYER 63/63; H-GATE 63/63 CHECKED — 8 VERIFIED / 55 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 5/63 COMPLETE, NEXT 6–10**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -10,8 +10,8 @@ This preliminary map records physical scan identity and visually located scene o
 |---:|---|---|---|---|---|---|---|
 | 1 | front matter | cover | complete | PASS | PASS | `verified` | H-GATE clean |
 | 2 | front matter | edition/front matter | complete | PASS | PASS | `verified` | H-GATE clean; library mark remains non-authorial |
-| 3 | front matter | front matter | complete | PASS | NEEDS-REVIEW | `needs-review` | final publisher/sign-off line unresolved |
-| 4 | front matter | dramatis personae | complete | PASS | NEEDS-REVIEW | `needs-review` | two name forms unresolved |
+| 3 | front matter | front matter | complete | PASS | PASS | `verified` | fidelity repair: `திராவிடன் பதிப்பகத்தார்` |
+| 4 | front matter | dramatis personae | complete | PASS | PASS | `verified` | fidelity repairs: `ஆதிகேசவலு முதலியார்`; `சிஷ்யன்` |
 | 5 | Scene 1 | drama | complete | PASS | PASS | `verified` | Scene 1 opener; printed p.1 |
 | 6 | Scene 1 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | speaker/punctuation/word-form holds remain |
 | 7 | Scene 1 | drama | complete | PASS | PASS | `verified` | printed p.3; H-GATE clean |

@@ -26,10 +26,10 @@ For each page:
 - canonical page layer: **63 / 63 COMPLETE**;
 - H-GATE coverage: **63 / 63 COMPLETE**;
 - word-by-word fidelity coverage: **5 / 63**;
-- fidelity Batch 01 scans 1–5: **3 PASS / 2 needs-review**;
-- PASS: scans **1, 2, 5**;
-- needs-review: scans **3, 4**;
-- fidelity corrections so far: **0**;
+- fidelity Batch 01 scans 1–5: **CLOSED — 5 PASS / 0 needs-review**;
+- scan 3 resolved: `திராவிடன் பதிப்பகத்தார்`;
+- scan 4 resolved: `ஆதிகேசவலு முதலியார்`, `சிஷ்யன்`;
+- fidelity corrections so far: **3**;
 - scene assembly: **blocked until full fidelity pass + reconciliation**.
 
 ## Exact next activity
@@ -38,4 +38,4 @@ Process **Visual text fidelity Batch 02 — scans 6–10**.
 
 Check every word/token on all five source pages. Update the five page records with `visual_text_fidelity`, write a durable Batch 02 fidelity report, update the master fidelity audit and controls, and commit immediately.
 
-Do not reopen scans 1–5 in the same iteration unless genuinely stronger source evidence appears.
+Scans 1–5 are closed for the fidelity phase. Do not reopen them unless genuinely stronger source evidence appears.

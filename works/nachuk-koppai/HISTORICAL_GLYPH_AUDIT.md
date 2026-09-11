@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை — Historical Glyph Audit
 
-Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — 6 PASS / 57 NEEDS-REVIEW; WORK-LEVEL RECONCILIATION PENDING**
+Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — 8 PASS / 55 NEEDS-REVIEW; WORD-BY-WORD FIDELITY AUDIT ACTIVE**
 
 Authority: attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` only.
 
@@ -14,8 +14,8 @@ Mandatory family set checked per applicable page:
 |---:|---|---|---|---|
 | 1 | PASS | PASS | verified | cover text clean |
 | 2 | PASS | PASS | verified | front matter clean; library presentation mark remains non-authorial |
-| 3 | PASS | NEEDS-REVIEW | needs-review | final publisher/sign-off line unresolved |
-| 4 | PASS | NEEDS-REVIEW | needs-review | two character-name forms unresolved |
+| 3 | PASS | PASS | verified | sign-off resolved in word-fidelity pass: `திராவிடன் பதிப்பகத்தார்` |
+| 4 | PASS | PASS | verified | names resolved: `ஆதிகேசவலு முதலியார்`; `சிஷ்யன்` |
 | 5 | PASS | PASS | verified | Scene 1 opener clean |
 | 6 | PASS | NEEDS-REVIEW | needs-review | speaker-label / punctuation / word-form holds |
 | 7 | PASS | PASS | verified | Scene 1 continuation clean |
@@ -32,15 +32,15 @@ No TDL/Wikisource/alternate-copy text was consulted.
 ## Current totals
 
 - H-GATE checked: **10 / 63**;
-- H-GATE PASS: **4 / 63**;
-- H-GATE NEEDS-REVIEW: **6 / 63**;
-- final verified: **4 / 63**;
-- historical-glyph corrections committed in Batch 01: **0**;
-- source-sensitive holds: **6 scans**.
+- H-GATE PASS: **6 / 10 within Batch 01**;
+- H-GATE NEEDS-REVIEW: **4 / 10 within Batch 01**;
+- final verified in Batch 01: **6 / 10**;
+- post-gate source-fidelity repairs resolving earlier holds: **3**;
+- source-sensitive holds: **4 scans**.
 
 ## Next activity
 
-Adjudicate the six hold-bearing scans **3, 4, 6, 8, 9, 10** from the attached source pixels only. If a locus cannot be proved, retain the first-pass reading and leave that page `needs-review`. Batch 01 final PASS remains blocked until all six are resolved.
+Scans **3 and 4 are now resolved** from the attached source during the word-by-word fidelity phase. Remaining Batch 01 holds are scans **6, 8, 9, 10**. Batch 01 final PASS remains blocked until those four are resolved.
 
 
 # Batch 02 — scans 11–20
@@ -205,8 +205,8 @@ Repository-wide page-layer totals:
 - canonical: **63 / 63**;
 - initial verification: **63 / 63 PASS**;
 - H-GATE checked: **63 / 63**;
-- H-GATE PASS: **6 / 63**;
-- H-GATE NEEDS-REVIEW: **57 / 63**;
-- final verified pages: **6 / 63**.
+- H-GATE PASS: **8 / 63**;
+- H-GATE NEEDS-REVIEW: **55 / 63**;
+- final verified pages: **8 / 63**.
 
 The page layer has now completed both Pass A and H-GATE coverage. Work-level page-state reconciliation is the next gate before scene assembly.

@@ -2,7 +2,7 @@
 
 Scope: physical scans **1–5**.
 
-Status: **COMPLETE — 3 PASS / 2 NEEDS-REVIEW**
+Status: **COMPLETE / CLOSED — 5 PASS / 0 NEEDS-REVIEW**
 
 ## Method
 
@@ -14,13 +14,13 @@ Every visible publication-text word/token was compared directly against the atta
 |---:|---|---:|---|
 | 1 | PASS | 0 | none |
 | 2 | PASS | 0 | none |
-| 3 | NEEDS-REVIEW | 0 | final publisher/sign-off line |
-| 4 | NEEDS-REVIEW | 0 | `திகேசவலு முதலியார்`; `ஷெசிஷ்யன்` |
+| 3 | PASS | 1 | `திராவிடன் பதிப்பகத்தார்` resolved |
+| 4 | PASS | 2 | `ஆதிகேசவலு முதலியார்`; `சிஷ்யன்` resolved |
 | 5 | PASS | 0 | none |
 
 ## Important distinction
 
-This audit did **not** treat unusual wording as an error. A word was changed only if the attached source visually proved a mismatch. No canonical Tamil text was changed in this batch.
+This audit did **not** treat unusual wording as an error. A word was changed only if the attached source visually proved a mismatch. Three canonical source-fidelity repairs are now committed: one on scan 3 and two on scan 4. All five scans are source-secure for this fidelity phase.
 
 ## Next
 
