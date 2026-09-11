@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **BATCHES 01–06 H-GATE OPEN; BATCH 06 CHECKED — 0 VERIFIED / 10 NEEDS-REVIEW; BATCH 06 NOT CLOSED**
+Status: **PAGE-LAYER PASS A COMPLETE — 63 / 63 CANONICAL + INITIAL PASS; BATCH 07 H-GATE PENDING; EARLIER H-GATE HOLDS REMAIN OPEN**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -68,12 +68,12 @@ This preliminary map records physical scan identity and visually located scene o
 | 58 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.54; multilingual police dialogue |
 | 59 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.55; police/sub-inspector dialogue |
 | 60 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.56; Sivaguru speech continues to scan 61 |
-| 61 | Scene 18 | drama | pending | pending | pending | `not-started` |  |
-| 62 | Scene 18 | drama | pending | pending | pending | `not-started` |  |
-| 63 | Scene 18 | drama / literary close | pending | pending | pending | `not-started` | Scene 18 close / `முற்றும்` |
+| 61 | Scene 18 | drama | complete | PASS | pending | `needs-review` | printed p.57; Sivaguru speech continues |
+| 62 | Scene 18 | scene close | complete | PASS | pending | `needs-review` | printed p.58; final Scene 18 dialogue; accession mark excluded |
+| 63 | Scene 18 | literary close / imprint | complete | PASS | pending | `needs-review` | final scan; `முற்றும்`; printer imprint |
 
 ## Intake cautions
 
-- Scene boundaries after scan 10 remain preliminary visual intake only. Scan 8 has now been directly corrected to a shared Scene 1 / Scene 2 boundary page.
-- Scans 43, 44, 50 and 55 visibly contain more than one scene boundary/segment.
-- Exact printed page labels, joins, close ornaments and scene coverage must be derived from canonical page records before scene assembly is authorized.
+- Canonical page records now cover **all 63 physical scans**; source-processed scene boundaries in those records supersede the original intake-only guesses.
+- Scene assembly remains unauthorized until the page-layer H-GATE/hold state is explicitly dispositioned.
+- Scan 63 is the source-proven literary close with **முற்றும்** and printer imprint.

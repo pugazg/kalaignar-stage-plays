@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — BATCH 01: 4 VERIFIED / 6 NEEDS-REVIEW; BATCH 02: 1 VERIFIED / 9 NEEDS-REVIEW; BATCHES 03–06: 0 VERIFIED / 10 NEEDS-REVIEW EACH; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — PAGE-LAYER PASS A COMPLETE 63/63; H-GATE 60/63 CHECKED (5 VERIFIED / 55 NEEDS-REVIEW); FINAL BATCH 07 H-GATE PENDING; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -39,11 +39,11 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - P0 source intake: **PARTIAL**;
 - exact byte size: **18,459,068 bytes**;
 - SHA-256: **pending**;
-- page records created: **60 / 63**;
-- fully canonical page records: **60 / 63** (scans 1–60);
+- page records created: **63 / 63 — COMPLETE**;
+- fully canonical page records: **63 / 63 — COMPLETE**;
 - partial page records: **0 / 63 within Batch 01**;
 - user-supplied first-pass baseline: **available for scans 1–10** at `first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
-- initial visual verification PASS: **60 / 63**;
+- initial visual verification PASS: **63 / 63 — COMPLETE**;
 - historical-glyph H-GATE checked: **60 / 63**;
 - H-GATE PASS: **5 / 63**;
 - H-GATE needs-review: **55 / 63**;
@@ -64,14 +64,8 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 ## Next activity
 
 1. compute the remaining SHA-256 fingerprint of the attached PDF when local-byte checksum execution is available;
-2. Batch 01 holds remain open on scans **3, 4, 6, 8, 9, 10**;
-3. Batch 02 holds remain open on scans **11, 13, 14, 15, 16, 17, 18, 19, 20**;
-4. do not loop those reduced-image holds without stronger attached-source readability;
-5. Batch 03 H-GATE is **CHECKED — 0 PASS / 10 needs-review**;
-6. preserve Batch 03 scans **21–30** as durable holds without looping reduced renders;
-7. Batch 04 H-GATE is **CHECKED — 0 PASS / 10 needs-review**;
-8. preserve scans **31–40** as durable holds without looping reduced renders;
-9. Batch 05 H-GATE is **CHECKED — 0 PASS / 10 needs-review**;
-10. preserve scans **41–50** as durable holds without looping reduced renders;
-11. Batch 06 Pass A is **COMPLETE — scans 51–60**;
-12. next run **Batch 06 H-GATE for scans 51–60**.
+2. page-layer Pass A is now **COMPLETE — 63 / 63 canonical and initial PASS**;
+3. run final partial **Batch 07 H-GATE — scans 61–63**;
+4. preserve the existing Batch 01–06 hold-bearing pages without looping reduced renders;
+5. after Batch 07 H-GATE, perform a work-level page-state reconciliation before authorizing scene assembly;
+6. do not begin English translation.

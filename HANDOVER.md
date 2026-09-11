@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / BATCH 06 H-GATE CHECKPOINT
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / PAGE-LAYER PASS A COMPLETE / BATCH 07 H-GATE NEXT
 
 Active work: `works/nachuk-koppai/`.
 
@@ -34,8 +34,8 @@ Current durable state:
 - edition: **முதல் பதிப்பு — 1951**;
 - preliminary numbered scenes: **18**;
 - scan 63: **முற்றும்**;
-- page records created: **60 / 63**;
-- full canonical records: **60 / 63** (scans 1–60);
+- page records created: **63 / 63 — COMPLETE**;
+- full canonical records: **63 / 63 — COMPLETE**;
 - partial records in Batch 01: **0**;
 - user-supplied first-pass baseline: **ingested for scans 1–10** at `works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
@@ -43,6 +43,7 @@ Current durable state:
 - H-GATE PASS: **5 / 63**;
 - H-GATE needs-review: **55 / 63**;
 - final verified pages: **5 / 63**;
+- Batch 07 Pass A: **COMPLETE — scans 61–63 / 3 of 3 initial verification PASS; H-GATE pending**;
 - Batch 06 Pass A: **COMPLETE — scans 51–60**;
 - Batch 06 H-GATE: **CHECKED — 0 PASS / 10 needs-review**;
 - Batch 05 Pass A: **COMPLETE — scans 41–50**;
@@ -68,12 +69,12 @@ Current durable state:
 
 ## Exact next activity
 
-1. proceed to final partial **Batch 07 Pass A — scans 61–63** using the user-supplied transcription as comparison baseline and attached PDF as sole authority;
-2. preserve all Batch 01–06 unresolved scans as durable holds and do not re-loop reduced renders;
-3. write pages 0061–0063 and ordinary initial verification, including the source-visible `முற்றும்` on scan 63;
-4. commit Batch 07 Pass A before its H-GATE;
+1. run independent **Batch 07 H-GATE — scans 61–63** using only the attached PDF;
+2. preserve all Batch 01–06 unresolved scans as durable holds without looping reduced renders;
+3. promote only source-secure Batch 07 pages to verified;
+4. after Batch 07 H-GATE, perform a work-level reconciliation of all 63 page states and decide whether unresolved pages should remain needs-review or receive a terminal source-condition disposition before scene assembly;
 5. SHA-256 remains a separate P0 fingerprint hold;
-6. do not begin scene assembly or English translation.
+6. do not begin scene assembly or English translation until that reconciliation is committed.
 
 ## Closed work safeguards
 
