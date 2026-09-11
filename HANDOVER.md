@@ -15,7 +15,7 @@ Historical-type authority:
 
 Active-work anti-loop authority: `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் PAGE LAYER CLOSED / SCENE ASSEMBLY 24 OF 61
+# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் PAGE LAYER CLOSED / SCENE ASSEMBLY 27 OF 61
 
 Active work: `works/iratha-kanneer/`.
 
@@ -40,7 +40,7 @@ Current durable state:
 - unresolved page-level source issues: **0**;
 - `needs-review`: **0**;
 - `blocked`: **0**;
-- structural / scene assembly: **IN PROGRESS — Scenes 1–24 / 61 assembly-reviewed; no open draft; Scene Assembly Batches 01–06 PASS**;
+- structural / scene assembly: **IN PROGRESS — Scenes 1–27 / 61 assembly-reviewed; no open draft; Scene Assembly Batches 01–07 PASS**;
 - English translation: **not authorized / not started**.
 
 The conversation preview exposes only 150 images; direct raw-PDF inspection established **188 physical scans**. Never stop at preview page 150.
@@ -165,15 +165,15 @@ The page layer is **188 / 188 COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**. D
 
 Scene Assembly Batches 01–06 are durably recorded under the user-directed **10 source scans per iteration** rule:
 
-- `scenes/01.md` through `scenes/24.md` are `assembly-reviewed`;
+- `scenes/01.md` through `scenes/27.md` are `assembly-reviewed`;
 - no scene is currently open as a draft;
-- assembly scans **8–84** are represented exactly once;
+- assembly scans **8–94** are represented exactly once;
 - unresolved assembly discrepancies: **0**;
 - when a ten-scan boundary cuts a future scene, keep that scene as `draft` and complete it in the next iteration; do not pull in an eleventh scan.
 
-## Exact next activity — fixed 10-scan assembly iteration / scans 85–94
+## Exact next activity — fixed 10-scan assembly iteration / scans 95–104
 
-Use only verified page records **0085.md–0094.md**. Assemble Scene 25 with scans 85–88, Scene 26 with scans 89–90, and Scene 27 with scans 91–94. English remains not authorized / not started.
+Use only verified page records **0095.md–0104.md**. Assemble Scene 28 with scans 95–96, Scene 29 with scans 97–98, Scene 30 with scans 99–100, and Scene 31 with scans 101–104. English remains not authorized / not started.
 
 # CLOSED WORK SAFEGUARDS
 

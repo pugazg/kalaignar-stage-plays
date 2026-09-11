@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் fixed 10-scan assembly iteration 85–94
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் fixed 10-scan assembly iteration 95–104
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/iratha-kanneer/`.
 
@@ -21,7 +21,6 @@ Scene assembly must use the verified page records. Do not reopen page transcript
 User directive: **assemble 10 source scans in each iteration**.
 
 Permanent rule:
-
 1. each iteration consumes exactly the next **10 source scans**;
 2. do not extend the batch merely to finish a scene;
 3. if scan 10 lands inside a scene, persist that scene as an explicit `draft`;
@@ -31,29 +30,28 @@ Permanent rule:
 
 ## Durable checkpoint
 
-- Batches 01–06 are durably recorded;
-- Scenes **1–24**: `assembly-reviewed`;
+- Batches 01–07 are durably recorded;
+- Scenes **1–27**: `assembly-reviewed`;
 - no open draft scene;
-- processed assembly scan range: **8–84**, contiguous;
-- completed reviewed-scene coverage: **8–84**, contiguous;
+- processed assembly scan range: **8–94**, contiguous;
+- completed reviewed-scene coverage: **8–94**, contiguous;
 - duplicate processed-scan coverage: **0**;
 - omitted processed scans: **0**;
 - unresolved assembly discrepancies: **0**.
 
-Batch 06 mechanical joins:
-- Scene 20: 74→75 `பூட்டி வைத்` + `திருக்கிறார்.` → `பூட்டி வைத்திருக்கிறார்.`;
-- Scene 23: 82→83 `சேர்ந்` + `துள்ள` → `சேர்ந்துள்ள`.
+Batch 07 mechanical join:
+- Scene 27: 91→92 `அவள் அசை` + `யாமல்` → `அவள் அசையாமல்`.
 
-## Exact next activity — scans 85–94 only
+## Exact next activity — scans 95–104 only
 
-Use only verified page records `0085.md` through `0094.md`.
+Use only verified page records `0095.md` through `0104.md`.
 
 Expected handling from the verified page map:
+- Scene 28: scans **95–96**;
+- Scene 29: scans **97–98**;
+- Scene 30: scans **99–100**;
+- Scene 31: scans **101–104**.
 
-- Scene 25: assemble scans **85–88** completely;
-- Scene 26: assemble scans **89–90** completely;
-- Scene 27: assemble scans **91–94** completely.
-
-Then create `SCENE_ASSEMBLY_BATCH_07_REVIEW.md`, update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt, and commit durably.
+Then create `SCENE_ASSEMBLY_BATCH_08_REVIEW.md`, update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt, and commit durably.
 
 Do not start English translation.

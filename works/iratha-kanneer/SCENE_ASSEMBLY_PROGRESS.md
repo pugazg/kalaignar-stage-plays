@@ -1,6 +1,6 @@
 # இரத்தக் கண்ணீர் — Scene assembly progress
 
-Status: **IN PROGRESS — Scenes 1–24 / 61 ASSEMBLY-REVIEWED; Batches 01–06 PASS**
+Status: **IN PROGRESS — Scenes 1–27 / 61 ASSEMBLY-REVIEWED; Batches 01–07 PASS**
 
 Page-layer authority: **188 / 188 final verified / CLOSED FOR CURRENT SOURCE EVIDENCE**.
 
@@ -36,32 +36,33 @@ If the tenth scan lands inside a scene:
 | 04 | 55–64 | Scene 15 completed; Scene 16 reviewed; Scene 17 draft through scan 64 | **PASS / ITERATION COMPLETE / CARRY-FORWARD** | `SCENE_ASSEMBLY_BATCH_04_REVIEW.md` |
 | 05 | 65–74 | Scene 17 completed; Scenes 18–19 reviewed; Scene 20 draft through scan 74 | **PASS / ITERATION COMPLETE / CARRY-FORWARD** | `SCENE_ASSEMBLY_BATCH_05_REVIEW.md` |
 | 06 | 75–84 | Scene 20 completed; Scenes 21–24 reviewed | **PASS / COMPLETE / LOCKED** | `SCENE_ASSEMBLY_BATCH_06_REVIEW.md` |
+| 07 | 85–94 | Scenes 25–27 reviewed | **PASS / COMPLETE / LOCKED** | `SCENE_ASSEMBLY_BATCH_07_REVIEW.md` |
 
 ## Current coverage
 
 - numbered scenes expected: **61**;
-- fully assembled/reviewed scene artifacts: **24 / 61**;
+- fully assembled/reviewed scene artifacts: **27 / 61**;
 - open boundary scene: **none**;
-- assembly source scans processed: **8–84**, contiguous;
-- completed reviewed-scene coverage: **8–84**, contiguous;
+- assembly source scans processed: **8–94**, contiguous;
+- completed reviewed-scene coverage: **8–94**, contiguous;
 - duplicate dramatic-page coverage: **0**;
 - omitted processed dramatic scans: **0**;
 - unresolved assembly discrepancies: **0**.
 
-## Batch 06 mechanical joins
+## Batch 07 mechanical joins
 
-- Scene 20: scan 74→75 `பூட்டி வைத்` / `திருக்கிறார்.` → `பூட்டி வைத்திருக்கிறார்.`;
-- Scene 21: no lexical page-boundary join required;
-- Scene 22 and Scene 24 are one-page scenes;
-- Scene 23: scan 82→83 `சேர்ந்` / `துள்ள` → `சேர்ந்துள்ள`.
+- Scene 25: no lexical page-boundary join required;
+- Scene 26: no lexical page-boundary join required;
+- Scene 27: scan 91→92 `அவள் அசை` / `யாமல்` → `அவள் அசையாமல்`.
 
 ## Next 10-scan assembly iteration
 
-Process **scans 85–94 only**.
+Process **scans 95–104 only**.
 
 Expected source-span effect from the verified page map:
-- Scene 25: scans **85–88**;
-- Scene 26: scans **89–90**;
-- Scene 27: scans **91–94**.
+- Scene 28: scans **95–96**;
+- Scene 29: scans **97–98**;
+- Scene 30: scans **99–100**;
+- Scene 31: scans **101–104**.
 
-This iteration should close all three scenes with no carry-forward if the verified page map remains authoritative.
+This iteration should close all four scenes with no carry-forward if the verified page map remains authoritative.
