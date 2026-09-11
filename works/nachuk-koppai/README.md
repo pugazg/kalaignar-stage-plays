@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — BATCH 01 PASS A COMPLETE / H-GATE PENDING; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — BATCH 01 H-GATE CHECKED; 4 VERIFIED / 6 NEEDS-REVIEW; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -44,8 +44,10 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - partial page records: **0 / 63 within Batch 01**;
 - user-supplied first-pass baseline: **available for scans 1–10** at `first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - initial visual verification PASS: **10 / 63**;
-- historical-glyph H-GATE: **0 / 63**;
-- final verified pages: **0 / 63**;
+- historical-glyph H-GATE checked: **10 / 63**;
+- H-GATE PASS: **4 / 63**;
+- H-GATE needs-review: **6 / 63**;
+- final verified pages: **4 / 63**;
 - scene assembly: **not started**;
 - English translation: **not started**.
 
@@ -62,6 +64,6 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 ## Next activity
 
 1. compute the remaining SHA-256 fingerprint of the attached PDF when local-byte checksum execution is available;
-2. run **Batch 01 Pass B / H-GATE for scans 1–10** against the attached PDF only;
-3. adjudicate the explicit source-sensitive holds recorded in BATCH_01_PASS_A.md only where the attached pixels prove a different reading;
-4. create BATCH_01_REVIEW.md and promote clean pages only after the gate passes.
+2. adjudicate the remaining Batch 01 hold-bearing scans **3, 4, 6, 8, 9, 10** against the attached PDF only;
+3. change a retained first-pass reading only where the source pixels unambiguously prove it;
+4. create BATCH_01_REVIEW.md only after all six holds resolve and all 10 scans pass.

@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / BATCH 01 PASS A COMPLETE
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / BATCH 01 H-GATE CHECKPOINT
 
 Active work: `works/nachuk-koppai/`.
 
@@ -39,8 +39,10 @@ Current durable state:
 - partial records in Batch 01: **0**;
 - user-supplied first-pass baseline: **ingested for scans 1–10** at `works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
-- H-GATE: **0 / 63**;
-- final verified pages: **0 / 63**;
+- H-GATE checked: **10 / 63**;
+- H-GATE PASS: **4 / 63**;
+- H-GATE needs-review: **6 / 63**;
+- final verified pages: **4 / 63**;
 - scene assembly: **not started**;
 - English translation: **not started**.
 
@@ -56,14 +58,12 @@ Current durable state:
 
 ## Exact next activity
 
-1. run targeted independent **H-GATE / Pass B for scans 1–10** using only the attached PDF;
-2. check the complete mandatory family set and the explicit source-sensitive holds in works/nachuk-koppai/BATCH_01_PASS_A.md;
-3. change a retained first-pass reading only where attached-source pixels unambiguously prove the replacement;
-4. promote clean pages to verified;
-5. create BATCH_01_REVIEW.md only if all 10 scans satisfy closure;
-6. synchronize controls and commit;
-7. SHA-256 remains a separate P0 fingerprint hold; do not block page work on it;
-8. do not begin scene assembly or English translation.
+1. revisit only hold-bearing scans **3, 4, 6, 8, 9, 10** using the attached PDF;
+2. resolve each listed locus only where attached-source pixels are unambiguous;
+3. retain the first-pass reading and `needs-review` status wherever ambiguity remains;
+4. create `BATCH_01_REVIEW.md` only if all 10 scans ultimately pass;
+5. SHA-256 remains a separate P0 fingerprint hold and does not block page adjudication;
+6. do not begin scene assembly or English translation.
 
 ## Closed work safeguards
 

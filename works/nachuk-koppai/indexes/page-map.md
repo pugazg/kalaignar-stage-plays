@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **BATCH 01 PASS A COMPLETE — SCANS 1–10 CANONICAL BASELINES COMPLETE; INITIAL VERIFICATION 10 / 10 PASS; H-GATE 0 / 63**
+Status: **BATCH 01 H-GATE CHECKED — SCANS 1–10; 4 PASS / VERIFIED, 6 NEEDS-REVIEW; BATCH NOT CLOSED**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -8,16 +8,16 @@ This preliminary map records physical scan identity and visually located scene o
 
 | Scan | Preliminary section / scene | Page type | Canonical | Initial verification | H-GATE | Final status | Intake note |
 |---:|---|---|---|---|---|---|---|
-| 1 | front matter | cover | complete | PASS | pending | `needs-review` | cover text source-secure; H-GATE pending |
-| 2 | front matter | edition/front matter | complete | PASS | pending | `needs-review` | user first-pass reconciled; library mark separated; H-GATE pending |
-| 3 | front matter | front matter | complete | PASS | pending | `needs-review` | body baseline complete; final sign-off retained as explicit source-sensitive hold |
-| 4 | front matter | dramatis personae | complete | PASS | pending | `needs-review` | full supplied list retained; two name forms held for targeted review |
-| 5 | Scene 1 | drama | complete | PASS | pending | `needs-review` | Scene 1 opener; printed p.1; H-GATE pending |
-| 6 | Scene 1 | drama | complete | PASS | pending | `needs-review` | printed p.2; explicit speaker/punctuation/source holds retained |
-| 7 | Scene 1 | drama | complete | PASS | pending | `needs-review` | printed p.3; Scene 1 continues; H-GATE pending |
-| 8 | Scenes 1 / 2 | shared scene-boundary page | complete | PASS | pending | `needs-review` | printed p.4; Scene 1 closes; Scene 2 opens; `சாந்தர்` retained as hold |
-| 9 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.5; ambiguous first-pass wording retained for targeted review |
-| 10 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.6; `மூக் ஞக் கண்ணாடி` retained as source-sensitive hold |
+| 1 | front matter | cover | complete | PASS | PASS | `verified` | H-GATE clean |
+| 2 | front matter | edition/front matter | complete | PASS | PASS | `verified` | H-GATE clean; library mark remains non-authorial |
+| 3 | front matter | front matter | complete | PASS | NEEDS-REVIEW | `needs-review` | final publisher/sign-off line unresolved |
+| 4 | front matter | dramatis personae | complete | PASS | NEEDS-REVIEW | `needs-review` | two name forms unresolved |
+| 5 | Scene 1 | drama | complete | PASS | PASS | `verified` | Scene 1 opener; printed p.1 |
+| 6 | Scene 1 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | speaker/punctuation/word-form holds remain |
+| 7 | Scene 1 | drama | complete | PASS | PASS | `verified` | printed p.3; H-GATE clean |
+| 8 | Scenes 1 / 2 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.4; `சாந்தர்` / unlabelled invocation unresolved |
+| 9 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | several first-pass/source-sensitive phrases unresolved |
+| 10 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.6; `மூக் ஞக் கண்ணாடி` unresolved |
 | 11 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
 | 12 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
 | 13 | Scene 2 | drama | pending | pending | pending | `not-started` |  |

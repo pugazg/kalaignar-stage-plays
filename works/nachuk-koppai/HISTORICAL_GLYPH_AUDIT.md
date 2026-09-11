@@ -1,0 +1,43 @@
+# நச்சுக்கோப்பை — Historical Glyph Audit
+
+Status: **IN PROGRESS — BATCH 01 SCANS 1–10 CHECKED; 4 PASS / 6 NEEDS-REVIEW**
+
+Authority: attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` only.
+
+Mandatory family set checked per applicable page:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+## Batch 01 result
+
+| Scan | Initial verification | H-GATE | Final status | Notes |
+|---:|---|---|---|---|
+| 1 | PASS | PASS | verified | cover text clean |
+| 2 | PASS | PASS | verified | front matter clean; library presentation mark remains non-authorial |
+| 3 | PASS | NEEDS-REVIEW | needs-review | final publisher/sign-off line unresolved |
+| 4 | PASS | NEEDS-REVIEW | needs-review | two character-name forms unresolved |
+| 5 | PASS | PASS | verified | Scene 1 opener clean |
+| 6 | PASS | NEEDS-REVIEW | needs-review | speaker-label / punctuation / word-form holds |
+| 7 | PASS | PASS | verified | Scene 1 continuation clean |
+| 8 | PASS | NEEDS-REVIEW | needs-review | `சாந்தர்` entrance-direction reading and unlabelled invocation |
+| 9 | PASS | NEEDS-REVIEW | needs-review | several first-pass/source-sensitive phrases |
+| 10 | PASS | NEEDS-REVIEW | needs-review | `மூக் ஞக் கண்ணாடி` |
+
+## Integrity decision
+
+The gate was executed as a **targeted second pass**, not a retranscription. No retained first-pass reading was replaced merely because a more familiar modern spelling or expected speaker/name seemed likely.
+
+No TDL/Wikisource/alternate-copy text was consulted.
+
+## Current totals
+
+- H-GATE checked: **10 / 63**;
+- H-GATE PASS: **4 / 63**;
+- H-GATE NEEDS-REVIEW: **6 / 63**;
+- final verified: **4 / 63**;
+- historical-glyph corrections committed in Batch 01: **0**;
+- source-sensitive holds: **6 scans**.
+
+## Next activity
+
+Adjudicate the six hold-bearing scans **3, 4, 6, 8, 9, 10** from the attached source pixels only. If a locus cannot be proved, retain the first-pass reading and leave that page `needs-review`. Batch 01 final PASS remains blocked until all six are resolved.

@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — Batch 01 Pass A COMPLETE (scans 1–10 canonical / initial verification PASS); H-GATE 0/10 pending; P0 SHA-256 hold remains** |
+| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — Batch 01 H-GATE CHECKED: 4/10 PASS+verified (scans 1,2,5,7), 6/10 needs-review (3,4,6,8,9,10); batch not closed; P0 SHA-256 hold remains** |
 | [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page layer 188/188; Tamil scenes 61/61; English 61/61 reviewed; 13/13 translation batches PASS/LOCKED; final English review PASS** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
@@ -113,10 +113,10 @@ Current intake state:
 - page records: **10 / 63 canonical — scans 1–10 complete baselines**;
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
 - user-supplied first-pass baseline: **INGESTED for scans 1–10** (`works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`);
-- H-GATE: **not started**;
+- H-GATE: **10 / 63 checked — 4 PASS / 6 needs-review**;
 - scene assembly: **not started**;
 - English translation: **not started / not authorized as an active phase yet**.
 
 The user's contextual description (1943 origin/performance history, alternate title `சாந்தா (அ) பழனியப்பன்`, and thematic summary) is recorded separately as **user-supplied context**, not as controlling-scan text.
 
-Exact next activity: run the independent **Batch 01 H-GATE / Pass B for scans 1–10** using only the attached PDF; adjudicate the explicit holds in works/nachuk-koppai/BATCH_01_PASS_A.md; close the batch only if all 10 scans pass. SHA-256 remains a separate P0 fingerprint hold.
+Exact next activity: adjudicate Batch 01 hold-bearing scans **3, 4, 6, 8, 9, 10** using only the attached PDF; do not infer corrections. Close Batch 01 only when all six holds resolve. SHA-256 remains a separate P0 fingerprint hold.
