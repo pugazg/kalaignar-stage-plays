@@ -21,7 +21,7 @@ The supplied scan is the controlling textual authority. OCR, catalogue prose, la
 - source type: **image-only PDF / no usable parsed text layer**
 - source PDF committed: **no**
 
-Exact SHA-256 and byte size remain **pending** and must be computed from the exact supplied PDF before P0 can be marked PASS.
+Exact file size is now **18,459,068 bytes**. SHA-256 remains **pending** and must be computed from the exact supplied PDF before P0 can be marked PASS.
 
 ## Preliminary physical structure
 
@@ -37,9 +37,12 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 ## Current durable phase
 
 - P0 source intake: **PARTIAL**;
-- exact byte identity: **pending**;
-- canonical page records: **0 / 63**;
-- initial visual verification: **0 / 63**;
+- exact byte size: **18,459,068 bytes**;
+- SHA-256: **pending**;
+- page records created: **10 / 63**;
+- fully canonical page records: **1 / 63** (scan 1);
+- partial page records: **9 / 63** (scans 2–10);
+- initial visual verification PASS: **1 / 63**;
 - historical-glyph H-GATE: **0 / 63**;
 - final verified pages: **0 / 63**;
 - scene assembly: **not started**;
@@ -53,9 +56,9 @@ This contextual note is useful project metadata but is **not promoted into contr
 
 ## Next activity
 
-1. compute SHA-256 and exact byte size of the attached PDF;
-2. close P0 source intake if byte identity is resolved;
-3. process **scans 1–10** as Batch 01:
+1. compute the remaining SHA-256 fingerprint of the attached PDF;
+2. complete the existing **scans 2–10** partial records so Batch 01 Pass A can close;
+3. then continue Batch 01:
    - Pass A whole-page transcription / ordinary visual verification;
    - durable Pass-A commit;
    - targeted independent H-GATE;

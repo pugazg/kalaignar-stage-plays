@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / நச்சுக்கோப்பை P0 closure + Batch 01 scans 1–10
+# Next Chat Prompt — Kalaignar Stage Plays / நச்சுக்கோப்பை Batch 01 complete Pass A
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work:
 
@@ -12,48 +12,34 @@ Fetch live `main` first and preserve newer durable state.
 
 `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`
 
-Confirmed visual intake:
+Durable identity:
 
 - physical scans: **63**;
-- image-only;
-- source title: **நச்சுக்கோப்பை**;
+- exact file size: **18,459,068 bytes**;
+- SHA-256: **PENDING**;
+- title: **நச்சுக்கோப்பை**;
 - author: **மு. கருணாநிதி**;
 - publisher: **திராவிடன் பதிப்பகம்**;
-- edition: **முதல் பதிப்பு — 1951**;
-- preliminary numbered-scene inventory: **18**;
-- scan 63: **முற்றும்**.
+- edition: **முதல் பதிப்பு — 1951**.
 
-P0 remains **PARTIAL** only because exact SHA-256 and byte size are still pending.
+## Current Batch 01 state
 
-## Mandatory startup
-
-Read:
-
-1. `STAGE_PLAY_PROCESSING_GUIDE.md`;
-2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
-4. root `HANDOVER.md`;
-5. this prompt;
-6. `works/nachuk-koppai/README.md`;
-7. `works/nachuk-koppai/SOURCE_INTAKE.md`;
-8. `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`;
-9. `works/nachuk-koppai/metadata/source.md`;
-10. `works/nachuk-koppai/metadata/context.md`;
-11. `works/nachuk-koppai/indexes/page-map.md`.
+- `pages/0001.md` through `pages/0010.md` exist;
+- scan 1 is full / ordinary verification PASS / H-GATE pending;
+- scans 2–10 are conservative **partial** records;
+- `BATCH_01_SOURCE_INSPECTION.md` is a durable partial checkpoint;
+- **Pass A is NOT complete**;
+- **do not create a PASS batch review from this state**;
+- scan 8 is a shared boundary: Scene 1 closes in the upper portion; Scene 2 opens below the separator.
 
 ## Exact next activity
 
-First compute the exact SHA-256 and byte size of the attached PDF and close P0 if they match this source identity.
+1. compute SHA-256 if checksum execution is available;
+2. use the exact controlling attachment at native/full resolution to complete scans **2–10** verbatim;
+3. preserve source spelling, old glyphs, punctuation, speaker labels and stage directions;
+4. once all scans 1–10 have complete canonical text and ordinary visual verification PASS, record Batch 01 Pass A COMPLETE;
+5. then run the independent historical-glyph H-GATE;
+6. create `BATCH_01_REVIEW.md` only after the gate passes;
+7. synchronize page map / README / handover / prompt and commit.
 
-Then process **Batch 01 — physical scans 1–10**:
-
-- Pass A whole-page read once;
-- create canonical page records `pages/0001.md` through `pages/0010.md`;
-- ordinary visual verification;
-- durable Pass-A commit with H-GATE pending;
-- targeted independent H-GATE;
-- create `BATCH_01_REVIEW.md`;
-- update page map / work README / root README / handover / prompt;
-- final closure commit if the entire batch passes.
-
-Do not silently modernize Tamil. Do not use OCR, later editions or context to repair source pixels. Do not begin scene assembly or English translation yet.
+Do not use the unproofread Wikisource transcription, later editions, plot summaries or semantic expectation to fill source text. Do not begin scene assembly or English translation.

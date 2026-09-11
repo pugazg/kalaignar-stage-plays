@@ -6,13 +6,13 @@ Status: **P0 PARTIAL — VISUAL IDENTITY CONFIRMED; BYTE FINGERPRINT PENDING**
 
 - filename: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`
 - SHA-256: **PENDING — must be computed from the exact supplied PDF bytes**
-- file size: **PENDING — must be read from the exact supplied PDF bytes**
+- file size: **18,459,068 bytes** (exact conversation-upload metadata)
 - physical scans: **63**
 - source type: **image-only PDF / no usable parsed text layer**
 - source PDF committed to repository: **no**
 - source provenance: **supplied by the user in ChatGPT**
 
-P0 must remain open until SHA-256 and byte size are durably recorded. Do not guess either value.
+P0 remains open only for the SHA-256 fingerprint. Exact byte size is now durably known from the uploaded file service. Do not guess the remaining checksum.
 
 ## Source-visible bibliographic identity
 
@@ -28,6 +28,13 @@ From the supplied scan:
 
 The edition statement on scan 2 directly supports **1951** as the edition year.
 
+## Byte identity checkpoint
+
+- conversation file id: `file_000000007a78820885b161bf144d9bd9`;
+- exact byte size: **18,459,068 bytes**;
+- SHA-256: **pending** because local checksum execution was unavailable in this runtime;
+- this technical checksum hold does not authorize substituting another source copy.
+
 ## Front matter / dramatic-body intake
 
 | Scan | Classification | Source-visible note |
@@ -36,8 +43,11 @@ The edition statement on scan 2 directly supports **1951** as the edition year.
 | 2 | edition / introductory page | `முதற்பதிப்பு 1951`; price; `ஒரு துளி`; author signature/date area |
 | 3 | front matter | `பதிப்புரை` |
 | 4 | dramatis personae | `கதையில் வருபவர்கள்` |
-| 5 | dramatic body begins | `நச்சுக்கோப்பை`; Scene 1 |
-| 6–62 | dramatic body | numbered scenes continue |
+| 5 | dramatic body begins | `நச்சுக்கோப்பை`; Scene 1; printed page 1 |
+| 6–7 | dramatic body | Scene 1 continuation; printed pp.2–3 |
+| 8 | shared scene-boundary page | Scene 1 closes in upper portion; Scene 2 opens in lower portion; printed p.4 |
+| 9–10 | dramatic body | Scene 2 continuation; printed pp.5–6 |
+| 11–62 | dramatic body | numbered scenes continue |
 | 63 | dramatic close | source-visible `முற்றும்`; printer/imprint line below |
 
 ## Preliminary scene-opening inventory
@@ -46,8 +56,8 @@ This is an intake-only structural map from direct page-image inspection. It is *
 
 | Scene | Opening scan | Preliminary coverage |
 |---:|---:|---|
-| 1 | 5 | 5–7 |
-| 2 | 8 | 8–17 |
+| 1 | 5 | 5–8 (closes in upper portion of scan 8) |
+| 2 | 8 | 8–17 (opens in lower portion of scan 8) |
 | 3 | 18 | 18–19 |
 | 4 | 20 | 20–21 |
 | 5 | 22 | 22–23 |

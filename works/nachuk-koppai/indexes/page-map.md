@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **P0 INTAKE ONLY — 63 PHYSICAL SCANS CONFIRMED; 0 / 63 PAGE RECORDS TRANSCRIBED**
+Status: **BATCH 01 SOURCE INSPECTION IN PROGRESS — 10 / 63 PAGE RECORDS CREATED; 1 FULL + 9 PARTIAL; H-GATE 0 / 63**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -8,16 +8,16 @@ This preliminary map records physical scan identity and visually located scene o
 
 | Scan | Preliminary section / scene | Page type | Canonical | Initial verification | H-GATE | Final status | Intake note |
 |---:|---|---|---|---|---|---|---|
-| 1 | front matter | cover | pending | pending | pending | `not-started` | front cover |
-| 2 | front matter | edition/front matter | pending | pending | pending | `not-started` | edition / `ஒரு துளி` |
-| 3 | front matter | front matter | pending | pending | pending | `not-started` | `பதிப்புரை` |
-| 4 | front matter | dramatis personae | pending | pending | pending | `not-started` | `கதையில் வருபவர்கள்` |
-| 5 | Scene 1 | drama | pending | pending | pending | `not-started` | Scene 1 opener |
-| 6 | Scene 1 | drama | pending | pending | pending | `not-started` |  |
-| 7 | Scene 1 | drama | pending | pending | pending | `not-started` |  |
-| 8 | Scene 2 | drama | pending | pending | pending | `not-started` | Scene 2 opener |
-| 9 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
-| 10 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
+| 1 | front matter | cover | complete | PASS | pending | `needs-review` | cover text source-secure; H-GATE pending |
+| 2 | front matter | edition/front matter | partial | partial | pending | `partial` | edition/year/price/`ஒரு துளி` secure; body pending |
+| 3 | front matter | front matter | partial | partial | pending | `partial` | `பதிப்புரை` heading secure; body pending |
+| 4 | front matter | dramatis personae | partial | partial | pending | `partial` | heading secure; two-column names pending |
+| 5 | Scene 1 | drama | partial | partial | pending | `partial` | Scene 1 opener; printed p.1; `இடம் : நந்தவனம்` |
+| 6 | Scene 1 | drama | partial | partial | pending | `partial` | printed p.2; Scene 1 continues |
+| 7 | Scene 1 | drama | partial | partial | pending | `partial` | printed p.3; Scene 1 continues |
+| 8 | Scenes 1 / 2 | shared scene-boundary page | partial | partial | pending | `partial` | printed p.4; Scene 1 closes above separator; Scene 2 opens below |
+| 9 | Scene 2 | drama | partial | partial | pending | `partial` | printed p.5 |
+| 10 | Scene 2 | drama | partial | partial | pending | `partial` | printed p.6; continues |
 | 11 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
 | 12 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
 | 13 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
@@ -74,6 +74,6 @@ This preliminary map records physical scan identity and visually located scene o
 
 ## Intake cautions
 
-- Scene boundaries above are preliminary visual intake only.
+- Scene boundaries after scan 10 remain preliminary visual intake only. Scan 8 has now been directly corrected to a shared Scene 1 / Scene 2 boundary page.
 - Scans 43, 44, 50 and 55 visibly contain more than one scene boundary/segment.
 - Exact printed page labels, joins, close ornaments and scene coverage must be derived from canonical page records before scene assembly is authorized.

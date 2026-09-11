@@ -13,17 +13,21 @@ Status: **P0 PARTIAL / NOT CLOSED**
 - numbered scenes visibly run through **Scene 18**;
 - scan 63 carries **முற்றும்**.
 
+## Byte identity
+
+- exact file size: **18,459,068 bytes**;
+- conversation file id: `file_000000007a78820885b161bf144d9bd9`.
+
 ## Pending before P0 PASS
 
-- exact SHA-256 of the supplied PDF;
-- exact byte size of the supplied PDF.
+- exact SHA-256 of the supplied PDF.
 
 These values must be computed from the supplied bytes. They must not be inferred or invented.
 
 ## P0 decision
 
-**PARTIAL / HOLD ONLY ON BYTE IDENTITY.**
+**PARTIAL / HOLD ONLY ON SHA-256 FINGERPRINT.**
 
-The source is otherwise suitable to begin archival processing after the exact byte identity is recorded.
+The source is otherwise identified. Batch 01 source inspection has begun conservatively while the checksum hold remains.
 
-Next after P0 closure: **Batch 01 — scans 1–10**.
+Current Batch 01 checkpoint: **scans 1–10 page records created, but Pass A is not complete**. Continue those records; do not restart them.
