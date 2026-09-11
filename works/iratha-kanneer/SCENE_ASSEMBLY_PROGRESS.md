@@ -1,6 +1,6 @@
 # இரத்தக் கண்ணீர் — Scene assembly progress
 
-Status: **IN PROGRESS — Scenes 1–14 / 61 ASSEMBLY-REVIEWED; Scene 15 DRAFT through scan 54; Batches 01–03 PASS**
+Status: **IN PROGRESS — Scenes 1–16 / 61 ASSEMBLY-REVIEWED; Scene 17 DRAFT through scan 64; Batches 01–04 PASS**
 
 Page-layer authority: **188 / 188 final verified / CLOSED FOR CURRENT SOURCE EVIDENCE**.
 
@@ -18,10 +18,10 @@ Page-layer authority: **188 / 188 final verified / CLOSED FOR CURRENT SOURCE EVI
 
 ## Fixed assembly iteration size
 
-Per user direction, scene assembly now advances by **exactly 10 source scans per iteration**.
+Per user direction, scene assembly advances by **exactly 10 source scans per iteration**.
 
-This may cut across a scene boundary. In that case:
-- do not pull text from the next iteration;
+If the tenth scan lands inside a scene:
+- do not pull text from the next scan;
 - keep the boundary scene as `draft`;
 - resume it from the next ten-scan block;
 - only mark the scene `assembly-reviewed` after its full source span is included.
@@ -33,34 +33,36 @@ This may cut across a scene boundary. In that case:
 | 01 | 8–29 | Scenes 1–5 reviewed | **PASS / COMPLETE / LOCKED** | `SCENE_ASSEMBLY_BATCH_01_REVIEW.md` |
 | 02 | 30–44 | Scenes 6–10 reviewed | **PASS / COMPLETE / LOCKED** | `SCENE_ASSEMBLY_BATCH_02_REVIEW.md` |
 | 03 | 45–54 | Scenes 11–14 reviewed; Scene 15 draft through scan 54 | **PASS / ITERATION COMPLETE / CARRY-FORWARD** | `SCENE_ASSEMBLY_BATCH_03_REVIEW.md` |
+| 04 | 55–64 | Scene 15 completed; Scene 16 reviewed; Scene 17 draft through scan 64 | **PASS / ITERATION COMPLETE / CARRY-FORWARD** | `SCENE_ASSEMBLY_BATCH_04_REVIEW.md` |
 
 ## Current coverage
 
 - numbered scenes expected: **61**;
-- fully assembled/reviewed scene artifacts: **14 / 61**;
-- open boundary scene: **Scene 15 draft through scan 54**;
-- assembly source scans processed: **8–54**, contiguous;
-- completed reviewed-scene coverage: **8–53**, contiguous;
-- scan 54 is represented once in the Scene-15 draft and nowhere else;
+- fully assembled/reviewed scene artifacts: **16 / 61**;
+- open boundary scene: **Scene 17 draft through scan 64**;
+- assembly source scans processed: **8–64**, contiguous;
+- completed reviewed-scene coverage: **8–62**, contiguous;
+- scans **63–64** are represented once in the Scene-17 draft and nowhere else;
 - duplicate dramatic-page coverage: **0**;
 - omitted processed dramatic scans: **0**;
 - unresolved assembly discrepancies: **0**.
 
-## Batch 03 mechanical joins
+## Batch 04 mechanical joins
 
-- Scene 12: scan 47→48 `அவள் கண்கள் அடிக்கடி` + `வாயிற் புறத்தை...` joined into one sentence;
-- Scene 12: scan 48→49 `நிற்க` / `வில்லை` → `நிற்கவில்லை`;
-- Scene 14: scan 52→53 `தோன்றுகிற` / `கிறேன்` → `தோன்றுகிறேன்`;
-- Scene 11 and Scene 13 require no lexical page-boundary join;
-- Scene 15 is intentionally incomplete after scan 54 and carries forward.
+- Scene 15: scan 54→55 `எதைக் குறிக்` / `கின்றன—` → `எதைக் குறிக்கின்றன—`;
+- Scene 15: scan 56→57 `நீயே மரண` / `படும்போது` → `நீயே மரணப்படும்போது`;
+- Scene 16: scan 60→61 `உன்னால் நடத்த` / `முடியுமா` → `உன்னால் நடத்த முடியுமா`;
+- Scene 17 requires no lexical join between scans 63 and 64;
+- Scene 17 is intentionally incomplete after scan 64 and carries forward.
 
 ## Next 10-scan assembly iteration
 
-Process **scans 55–64 only**.
+Process **scans 65–74 only**.
 
 Expected source-span effect from the verified page map:
-- complete Scene 15 with scans **55–57**;
-- assemble Scene 16 from scans **58–62**;
-- begin Scene 17 with scans **63–64** and leave it draft because Scene 17 closes on scan 65.
+- complete Scene 17 with scan **65**;
+- assemble Scene 18 from scans **66–67**;
+- assemble Scene 19 from scan **68**;
+- begin Scene 20 with scans **69–74** and leave it draft because Scene 20 closes on scan 75.
 
-Do not read or assemble scan 65 in that iteration.
+Do not read or assemble scan 75 in that iteration.

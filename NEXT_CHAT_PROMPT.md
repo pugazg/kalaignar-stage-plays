@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் fixed 10-scan assembly iteration 55–64
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் fixed 10-scan assembly iteration 65–74
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/iratha-kanneer/`.
 
@@ -20,41 +20,42 @@ Scene assembly must use the verified page records. Do not reopen page transcript
 
 User directive: **assemble 10 source scans in each iteration**.
 
-Permanent rule for this phase:
+Permanent rule:
 
 1. each iteration consumes exactly the next **10 source scans**;
 2. do not extend the batch merely to finish a scene;
 3. if scan 10 lands inside a scene, persist that scene as an explicit `draft`;
-4. next iteration resumes the draft from the next scan;
+4. next iteration resumes that draft from the next scan;
 5. promote a scene to `assembly-reviewed` only after its full source span is assembled;
-6. do not pull text from scan 11 of the iteration.
+6. never pull text from scan 11 of an iteration.
 
 ## Durable checkpoint
 
-- Batches 01–02: Scenes 1–10 assembly-reviewed, scans 8–44;
-- Batch 03 processed exactly scans **45–54**;
-- Scenes **11–14**: `assembly-reviewed`;
-- Scene **15**: `scenes/15.md` is `draft` through scan **54 only**;
-- processed assembly scan range: **8–54**, contiguous;
+- Batches 01–04 are durably recorded;
+- Scenes **1–16**: `assembly-reviewed`;
+- Scene **17**: `scenes/17.md` is `draft` through scans **63–64** only;
+- processed assembly scan range: **8–64**, contiguous;
+- completed reviewed-scene coverage: **8–62**, contiguous;
 - duplicate processed-scan coverage: **0**;
 - omitted processed scans: **0**;
 - unresolved assembly discrepancies: **0**.
 
-Batch 03 mechanical joins:
-- Scene 12: 47→48 sentence continuation;
-- Scene 12: 48→49 `நிற்க` + `வில்லை` → `நிற்கவில்லை`;
-- Scene 14: 52→53 `தோன்றுகிற` + `கிறேன்` → `தோன்றுகிறேன்`.
+Batch 04 mechanical joins:
+- Scene 15: 54→55 `எதைக் குறிக்` + `கின்றன—` → `எதைக் குறிக்கின்றன—`;
+- Scene 15: 56→57 `நீயே மரண` + `படும்போது` → `நீயே மரணப்படும்போது`;
+- Scene 16: 60→61 `உன்னால் நடத்த` + `முடியுமா` → `உன்னால் நடத்த முடியுமா`.
 
-## Exact next activity — scans 55–64 only
+## Exact next activity — scans 65–74 only
 
-Use only verified page records `0055.md` through `0064.md`.
+Use only verified page records `0065.md` through `0074.md`.
 
-Expected scene-span handling from the verified page map:
+Expected handling from the verified page map:
 
-- Scene 15: add scans **55–57**, join only source-proven mechanical page continuations, then promote `scenes/15.md` to `assembly-reviewed`;
-- Scene 16: assemble scans **58–62** completely and mark `assembly-reviewed`;
-- Scene 17: assemble scans **63–64** only into `scenes/17.md` as `draft`; Scene 17 closes on scan 65, so **do not include scan 65** in this iteration.
+- Scene 17: append scan **65**, resolve only page-record-proven continuation if any, then promote `scenes/17.md` to `assembly-reviewed`;
+- Scene 18: assemble scans **66–67** completely;
+- Scene 19: assemble scan **68** completely;
+- Scene 20: assemble scans **69–74** only into `scenes/20.md` as a `draft`; Scene 20 closes on scan 75, so **do not include scan 75**.
 
-Then create the next assembly batch review, update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt, and commit durably.
+Then create `SCENE_ASSEMBLY_BATCH_05_REVIEW.md`, update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt, and commit durably.
 
 Do not start English translation.

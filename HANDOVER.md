@@ -15,7 +15,7 @@ Historical-type authority:
 
 Active-work anti-loop authority: `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் PAGE LAYER CLOSED / SCENE ASSEMBLY 14 OF 61 + SCENE 15 DRAFT
+# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் PAGE LAYER CLOSED / SCENE ASSEMBLY 16 OF 61 + SCENE 17 DRAFT
 
 Active work: `works/iratha-kanneer/`.
 
@@ -40,7 +40,7 @@ Current durable state:
 - unresolved page-level source issues: **0**;
 - `needs-review`: **0**;
 - `blocked`: **0**;
-- structural / scene assembly: **IN PROGRESS — Scenes 1–14 / 61 assembly-reviewed; Scene 15 draft through scan 54; Scene Assembly Batches 01–03 PASS**;
+- structural / scene assembly: **IN PROGRESS — Scenes 1–16 / 61 assembly-reviewed; Scene 17 draft through scan 64; Scene Assembly Batches 01–04 PASS**;
 - English translation: **not authorized / not started**.
 
 The conversation preview exposes only 150 images; direct raw-PDF inspection established **188 physical scans**. Never stop at preview page 150.
@@ -163,17 +163,17 @@ Batch 16 recorded one ordinary source-fidelity correction, scan 151 `மில�
 
 The page layer is **188 / 188 COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**. Do not reopen it without genuinely new source evidence.
 
-Scene Assembly Batches 01–03 are durably recorded. Batch 03 changes the assembly cadence to the user-directed **10 source scans per iteration**:
+Scene Assembly Batches 01–04 are durably recorded under the user-directed **10 source scans per iteration** rule:
 
-- `scenes/01.md` through `scenes/14.md` are `assembly-reviewed`;
-- `scenes/15.md` is `draft` and contains scan **54 only**;
-- assembly scans **8–54** are represented exactly once;
+- `scenes/01.md` through `scenes/16.md` are `assembly-reviewed`;
+- `scenes/17.md` is `draft` and contains scans **63–64** only;
+- assembly scans **8–64** are represented exactly once;
 - unresolved assembly discrepancies: **0**;
 - when a ten-scan boundary cuts a scene, keep that scene as `draft` and complete it in the next iteration; do not pull in an eleventh scan.
 
-## Exact next activity — fixed 10-scan assembly iteration / scans 55–64
+## Exact next activity — fixed 10-scan assembly iteration / scans 65–74
 
-Use only verified page records **0055.md–0064.md**. Complete Scene 15 with scans 55–57, assemble Scene 16 with scans 58–62, and begin Scene 17 with scans 63–64 as a draft carry-forward. Do **not** include scan 65. English remains not authorized / not started.
+Use only verified page records **0065.md–0074.md**. Complete Scene 17 with scan 65, assemble Scene 18 with 66–67 and Scene 19 with 68, then begin Scene 20 with scans 69–74 as a draft carry-forward. Do **not** include scan 75. English remains not authorized / not started.
 
 # CLOSED WORK SAFEGUARDS
 
