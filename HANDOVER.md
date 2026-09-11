@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / PAGE-LAYER H-GATE COMPLETE / RECONCILIATION NEXT
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / WORD-BY-WORD VISUAL FIDELITY BATCH 01 COMPLETE
 
 Active work: `works/nachuk-koppai/`.
 
@@ -55,6 +55,10 @@ Current durable state:
 - Batch 03 H-GATE: **CHECKED — 0 PASS / 10 needs-review**;
 - Batch 02 Pass A: **COMPLETE — scans 11–20**;
 - Batch 02 H-GATE: **CHECKED — 1 PASS / 9 needs-review**;
+- visual text fidelity audit: **ACTIVE — 5 scans per iteration**;
+- fidelity coverage: **5 / 63 scans**;
+- fidelity PASS: **3 — scans 1, 2, 5**;
+- fidelity needs-review: **2 — scans 3, 4**;
 - scene assembly: **not started**;
 - English translation: **not started**.
 
@@ -70,14 +74,14 @@ Current durable state:
 
 ## Exact next activity
 
-1. perform a **full 63-page page-state reconciliation**;
-2. enumerate all **57** hold-bearing pages and classify each hold as genuine unresolved textual/glyph ambiguity vs source-preserved unusual-but-readable wording/formatting;
-3. do **not** change Tamil text during reconciliation;
-4. decide, under repository policy, whether each hold remains `needs-review` or receives a terminal source-condition disposition;
-5. synchronize page map, audit, README, handover and next prompt;
-6. only after reconciliation may scene assembly be considered;
-7. SHA-256 remains a separate P0 fingerprint hold;
-8. do not begin English translation.
+1. continue the user-directed **word-by-word visual text fidelity audit**;
+2. process exactly **5 physical scans per iteration**;
+3. next range: **scans 6–10**;
+4. compare every visible publication-text token, speaker label, stage direction, punctuation and numeral against the attached PDF;
+5. make only source-proven corrections; retain unresolved words without guessing;
+6. commit immediately after the five-page batch;
+7. postpone full 63-page state reconciliation until fidelity coverage reaches 63/63;
+8. do not begin scene assembly or English translation.
 
 ## Closed work safeguards
 

@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — PAGE LAYER 63/63 CANONICAL + INITIAL PASS + H-GATE CHECKED; 6 VERIFIED / 57 NEEDS-REVIEW; WORK-LEVEL PAGE-STATE RECONCILIATION NEXT; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — WORD-BY-WORD VISUAL FIDELITY AUDIT 5/63 SCANS; BATCH SIZE 5; BATCH 01 = 3 PASS / 2 NEEDS-REVIEW; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -48,6 +48,9 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - H-GATE PASS: **6 / 63**;
 - H-GATE needs-review: **57 / 63**;
 - final verified pages: **6 / 63**;
+- visual text fidelity audit: **5 / 63 scans checked — scans 1–5**;
+- fidelity PASS: **3 / 63 — scans 1, 2, 5**;
+- fidelity needs-review: **2 / 63 — scans 3, 4**;
 - scene assembly: **not started**;
 - English translation: **not started**.
 
@@ -67,6 +70,8 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 2. page-layer Pass A is now **COMPLETE — 63 / 63 canonical and initial PASS**;
 3. Batch 07 H-GATE is **CHECKED — scan 63 PASS / verified; scans 61–62 needs-review**;
 4. H-GATE coverage is now **63 / 63 COMPLETE**;
-5. perform a **full 63-page state reconciliation** before authorizing scene assembly;
-6. preserve source text exactly during reconciliation; do not loop reduced renders;
-7. do not begin English translation.
+5. user-directed word-by-word visual fidelity phase is now active at **5 scans per iteration**;
+6. Batch 01 scans **1–5 COMPLETE — 3 PASS / 2 needs-review**;
+7. next process **scans 6–10**, comparing every word/token visually;
+8. full page-state reconciliation is postponed until the 63-page fidelity pass is complete;
+9. do not begin scene assembly or English translation.

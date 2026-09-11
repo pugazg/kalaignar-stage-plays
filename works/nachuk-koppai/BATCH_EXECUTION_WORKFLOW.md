@@ -52,3 +52,47 @@ For each routine batch:
 Short rule:
 
 > **Controlling PDF → Pass A once → durable commit → targeted H-GATE → final commit. No settled-text loop.**
+
+
+# Word-by-word visual text fidelity phase
+
+Status: **ACTIVE / USER-DIRECTED**
+
+This phase begins after canonical page coverage and H-GATE coverage. It is a fresh, exhaustive source-fidelity pass and supersedes the previously planned immediate 63-page state reconciliation.
+
+## Iteration size
+
+**Exactly 5 physical scans per iteration**, except the final remainder.
+
+Do not enlarge the batch.
+
+## Required method
+
+For each of the five scans:
+
+1. inspect the attached controlling page visually;
+2. compare **every visible publication-text token in reading order** against the canonical page record;
+3. include headings, speaker labels, stage directions, numerals, Latin-script tokens, punctuation and printed page numbers;
+4. mechanical line-wrap joining is permitted only when it does not change token identity;
+5. separately verify that library/accession/presentation marks are not silently merged into authorial/publication text;
+6. do not use OCR, context, grammar, familiar spelling, TDL, Wikisource or another edition as authority;
+7. when the scan clearly proves a mismatch, correct the canonical text and record the exact before → after change;
+8. when any word/glyph remains visually uncertain, retain the current reading and mark the fidelity result `needs-review`;
+9. do not reopen unrelated older holds outside the current five-page iteration;
+10. commit immediately after each five-page fidelity batch.
+
+## Page metadata
+
+Use:
+
+`visual_text_fidelity: "passed"`
+
+or
+
+`visual_text_fidelity: "needs-review"`.
+
+This phase is independent of H-GATE. A page is clean for downstream reconciliation only when its visual-text-fidelity state and historical-glyph/source state are both explicitly known.
+
+Short rule:
+
+> **5 scans → every word visually compared → source-proven corrections only → commit → next 5 scans.**
