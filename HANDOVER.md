@@ -15,7 +15,7 @@ Historical-type authority:
 
 Active-work anti-loop authority: `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் ENGLISH TRANSLATION IN PROGRESS / TAMIL ARCHIVAL CLOSED
+# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் TAMIL + ENGLISH COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE
 
 Active work: `works/iratha-kanneer/`.
 
@@ -41,7 +41,7 @@ Current durable state:
 - `needs-review`: **0**;
 - `blocked`: **0**;
 - structural / scene assembly: **COMPLETE / CLOSED — Scenes 1–61 / 61 assembly-reviewed; Scene Assembly Batches 01–11 PASS; final consistency review PASS**;
-- English translation: **IN PROGRESS — 50 / 61 scenes reviewed; Batches 1–10 PASS / LOCKED**.
+- English translation: **COMPLETE / CLOSED — 61 / 61 scenes reviewed; 13 / 13 batches PASS / LOCKED; final whole-English review PASS**.
 
 The conversation preview exposes only 150 images; direct raw-PDF inspection established **188 physical scans**. Never stop at preview page 150.
 
@@ -181,7 +181,7 @@ Scene Assembly Batches 01–11 are durably recorded. The final user direction to
 - dramatic scan coverage: **8–185 exactly once**;
 - unresolved assembly discrepancies: **0**.
 
-No further Tamil page-layer or scene-assembly work remains unless genuinely new source evidence reopens the verified layer. English translation is now **AUTHORIZED / IN PROGRESS** from the closed Tamil scene layer: Scenes **1–50 / 61** are reviewed and Batches **1–10** are **PASS / LOCKED**. Only **11 scenes remain (51–61)**, so the next and final translation iteration is the terminal remainder rather than a full 15.
+No further Tamil page-layer or scene-assembly work remains unless genuinely new source evidence reopens the verified layer. English translation is now **AUTHORIZED / IN PROGRESS** from the closed Tamil scene layer: Scenes **1–61 / 61** are reviewed; Batches **1–13** are **PASS / LOCKED**; `translations/en/TRANSLATION_REVIEW.md` is **PASS / COMPLETE / CLOSED**.
 
 ## English translation phase — active
 
@@ -202,10 +202,10 @@ Durable English state:
 
 - `works/iratha-kanneer/TRANSLATION_PLAN.md` — active plan;
 - `works/iratha-kanneer/translations/en/README.md` — progress control;
-- English Scenes **1–50 / 61** — **translation-reviewed**;
-- `translations/en/BATCH_01_REVIEW.md` through `BATCH_10_REVIEW.md` — **PASS / LOCKED**;
+- English Scenes **1–61 / 61** — **translation-reviewed**;
+- `translations/en/BATCH_01_REVIEW.md` through `BATCH_13_REVIEW.md` — **PASS / LOCKED**;
 - unresolved blocking English issues: **0**;
-- exact next/final iteration: English Scenes **51–61** (11-scene terminal remainder).
+- no English translation scene remains pending; final review: `translations/en/TRANSLATION_REVIEW.md` — **PASS / COMPLETE / CLOSED**.
 
 Default durable review batch: **5 consecutive scenes**. Finish and lock one batch before advancing.
 

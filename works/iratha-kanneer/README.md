@@ -4,7 +4,7 @@ Archive slug: `iratha-kanneer`.
 
 ## Current status
 
-**TAMIL ARCHIVAL + SCENE ASSEMBLY COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — PAGE LAYER 188 / 188 VERIFIED; SCENES 1–61 / 61 ASSEMBLY-REVIEWED; ENGLISH TRANSLATION IN PROGRESS — 50 / 61 REVIEWED; BATCHES 1–10 PASS / LOCKED.**
+**COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — TAMIL PAGE LAYER 188 / 188 VERIFIED; TAMIL SCENES 61 / 61 ASSEMBLY-REVIEWED; ENGLISH 61 / 61 TRANSLATION-REVIEWED; 13 / 13 ENGLISH BATCHES PASS / LOCKED; FINAL ENGLISH REVIEW PASS.**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -169,7 +169,7 @@ Do not declare a final whole-work scene inventory until the page layer closes.
 - `needs-review` — **0**;
 - `blocked` — **0**;
 - structural / scene assembly — **COMPLETE / CLOSED — Scenes 1–61 / 61 assembly-reviewed; Batches 01–11 PASS; final consistency review PASS**;
-- English translation — **IN PROGRESS — 50 / 61 scenes reviewed; Batches 1–10 PASS / LOCKED; final remainder Scenes 51–61**.
+- English translation — **COMPLETE / CLOSED — 61 / 61 scenes reviewed; Batches 1–13 PASS / LOCKED; final review PASS**.
 
 ## Tamil scene assembly checkpoint
 
@@ -179,7 +179,7 @@ Assembly authority: `SCENE_ASSEMBLY_PROGRESS.md`. `SCENE_ASSEMBLY_BATCH_11_REVIE
 
 Completed reviewed scene artifacts: `scenes/01.md` through `scenes/61.md`; there are **0 draft scenes**. Dramatic scans **8–185** are covered exactly once. Scans **1–7** remain front matter; scans **186–188** remain non-dramatic terminal material outside the scene layer.
 
-No further Tamil page-layer or scene-assembly work remains for the current source evidence. English translation is **AUTHORIZED / IN PROGRESS** from the closed Tamil scene layer: **50 / 61 scenes reviewed**, Batches 1–10 **PASS / LOCKED**. Only **11 scenes remain**, so the next/final iteration is Scenes **51–61**.
+No further Tamil page-layer or scene-assembly work remains for the current source evidence. English translation is **COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE**: **61 / 61 scenes reviewed**, Batches 1–13 **PASS / LOCKED**, final `TRANSLATION_REVIEW.md` **PASS / COMPLETE**.
 
 
 ## Final Tamil scene-assembly closure
@@ -200,9 +200,9 @@ English translation is a separate derivative layer and does not reopen the close
 - authority: `scenes/01.md` through `scenes/61.md`;
 - translation plan: `TRANSLATION_PLAN.md`;
 - English progress control: `translations/en/README.md`;
-- completed: Scenes **1–50 / 61**;
-- `translations/en/BATCH_01_REVIEW.md` through `BATCH_10_REVIEW.md`: **PASS / LOCKED**;
+- completed: Scenes **1–61 / 61**;
+- `translations/en/BATCH_01_REVIEW.md` through `BATCH_13_REVIEW.md`: **PASS / LOCKED**;
 - secondary English witness used: **no**;
 - unresolved blocking English issues: **0**;
-- exact next/final iteration: Scenes **51–61** (11-scene terminal remainder);
+- final English review: `translations/en/TRANSLATION_REVIEW.md` — **PASS / COMPLETE / CLOSED**;
 - user iteration cadence: **15 scenes**; retain **5-scene durable review batches**, three per routine iteration.
