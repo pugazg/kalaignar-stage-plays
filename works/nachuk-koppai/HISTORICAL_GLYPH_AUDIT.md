@@ -41,3 +41,32 @@ No TDL/Wikisource/alternate-copy text was consulted.
 ## Next activity
 
 Adjudicate the six hold-bearing scans **3, 4, 6, 8, 9, 10** from the attached source pixels only. If a locus cannot be proved, retain the first-pass reading and leave that page `needs-review`. Batch 01 final PASS remains blocked until all six are resolved.
+
+
+# Batch 02 — scans 11–20
+
+Status: **CHECKED — 1 PASS / VERIFIED, 9 NEEDS-REVIEW**
+
+| Scan | Initial verification | H-GATE | Final status | Notes |
+|---:|---|---|---|---|
+| 11 | PASS | NEEDS-REVIEW | needs-review | word-form holds |
+| 12 | PASS | PASS | verified | clean; cross-page split preserved |
+| 13 | PASS | NEEDS-REVIEW | needs-review | wording / quotation holds |
+| 14 | PASS | NEEDS-REVIEW | needs-review | punctuation / `இருக்கோன்னோ?` |
+| 15 | PASS | NEEDS-REVIEW | needs-review | header / time forms |
+| 16 | PASS | NEEDS-REVIEW | needs-review | header / speaker label |
+| 17 | PASS | NEEDS-REVIEW | needs-review | speaker label |
+| 18 | PASS | NEEDS-REVIEW | needs-review | header / scene heading / speaker |
+| 19 | PASS | NEEDS-REVIEW | needs-review | labels / source-sensitive forms |
+| 20 | PASS | NEEDS-REVIEW | needs-review | missing/odd labels and isolated fragment |
+
+Batch 02 historical-glyph corrections committed: **0**.
+
+Repository-wide current totals for this work:
+
+- H-GATE checked: **20 / 63**;
+- H-GATE PASS: **5 / 63**;
+- H-GATE NEEDS-REVIEW: **15 / 63**;
+- final verified pages: **5 / 63**.
+
+Batch 02 is **not closed**. No final `BATCH_02_REVIEW.md` PASS artifact exists.

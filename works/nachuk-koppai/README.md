@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — BATCH 01 H-GATE CHECKED; 4 VERIFIED / 6 NEEDS-REVIEW; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — BATCH 01: 4 VERIFIED / 6 NEEDS-REVIEW; BATCH 02: 1 VERIFIED / 9 NEEDS-REVIEW; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -44,10 +44,10 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - partial page records: **0 / 63 within Batch 01**;
 - user-supplied first-pass baseline: **available for scans 1–10** at `first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - initial visual verification PASS: **20 / 63**;
-- historical-glyph H-GATE checked: **10 / 63**;
-- H-GATE PASS: **4 / 63**;
-- H-GATE needs-review: **6 / 63**;
-- final verified pages: **4 / 63**;
+- historical-glyph H-GATE checked: **20 / 63**;
+- H-GATE PASS: **5 / 63**;
+- H-GATE needs-review: **15 / 63**;
+- final verified pages: **5 / 63**;
 - scene assembly: **not started**;
 - English translation: **not started**.
 
@@ -64,6 +64,7 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 ## Next activity
 
 1. compute the remaining SHA-256 fingerprint of the attached PDF when local-byte checksum execution is available;
-2. Batch 01 holds remain formally open on scans **3, 4, 6, 8, 9, 10**; do not loop over them without better source readability;
-3. run **Batch 02 H-GATE for scans 11–20** using only the attached PDF;
-4. retain any unresolved Batch 02 locus as needs-review rather than guessing.
+2. Batch 01 holds remain open on scans **3, 4, 6, 8, 9, 10**;
+3. Batch 02 holds remain open on scans **11, 13, 14, 15, 16, 17, 18, 19, 20**;
+4. do not loop those reduced-image holds without stronger attached-source readability;
+5. proceed to **Batch 03 Pass A — scans 21–30** using the user first-pass baseline plus attached PDF.

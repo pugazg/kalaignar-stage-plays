@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **BATCH 01 H-GATE OPEN (4 VERIFIED / 6 NEEDS-REVIEW); BATCH 02 PASS A COMPLETE — SCANS 11–20 INITIAL VERIFIED / H-GATE PENDING**
+Status: **BATCH 01 H-GATE OPEN (4 VERIFIED / 6 NEEDS-REVIEW); BATCH 02 H-GATE CHECKED — 1 VERIFIED / 9 NEEDS-REVIEW; BATCH 02 NOT CLOSED**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -18,16 +18,16 @@ This preliminary map records physical scan identity and visually located scene o
 | 8 | Scenes 1 / 2 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.4; `சாந்தர்` / unlabelled invocation unresolved |
 | 9 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | several first-pass/source-sensitive phrases unresolved |
 | 10 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.6; `மூக் ஞக் கண்ணாடி` unresolved |
-| 11 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.7; Batch 02 Pass A complete |
-| 12 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.8; Batch 02 Pass A complete |
-| 13 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.9; Batch 02 Pass A complete |
-| 14 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.10; Batch 02 Pass A complete |
-| 15 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.11; Batch 02 Pass A complete |
-| 16 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.12; Batch 02 Pass A complete |
-| 17 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.13; Batch 02 Pass A complete |
-| 18 | Scenes 2 / 3 | shared scene-boundary page | complete | PASS | pending | `needs-review` | Scene 2 closes / Scene 3 opens; Batch 02 Pass A complete |
-| 19 | Scene 3 | drama | complete | PASS | pending | `needs-review` | printed p.15; Batch 02 Pass A complete |
-| 20 | Scenes 3 / 4 | shared scene-boundary page | complete | PASS | pending | `needs-review` | Scene 3 closes / Scene 4 opens; Batch 02 Pass A complete |
+| 11 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.7; source-sensitive word forms unresolved |
+| 12 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.8; cross-page `மண்` boundary preserved; H-GATE clean |
+| 13 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.9; multiple source-sensitive forms unresolved |
+| 14 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.10; punctuation / `இருக்கோன்னோ?` hold |
+| 15 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.11; header / time-form holds |
+| 16 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.12; header / speaker-label holds |
+| 17 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.13; opening speaker label unresolved |
+| 18 | Scenes 2 / 3 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | Scene 2/3 boundary; header/scene/speaker holds |
+| 19 | Scene 3 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.15; several source-sensitive labels/forms |
+| 20 | Scenes 3 / 4 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | Scene 3/4 boundary; multiple label/text holds |
 | 21 | Scene 4 | drama | pending | pending | pending | `not-started` |  |
 | 22 | Scene 5 | drama | pending | pending | pending | `not-started` | Scene 5 opener |
 | 23 | Scene 5 | drama | pending | pending | pending | `not-started` |  |

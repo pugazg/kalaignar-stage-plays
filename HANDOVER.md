@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / BATCH 02 PASS A COMPLETE
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / BATCH 02 H-GATE CHECKPOINT
 
 Active work: `works/nachuk-koppai/`.
 
@@ -39,11 +39,12 @@ Current durable state:
 - partial records in Batch 01: **0**;
 - user-supplied first-pass baseline: **ingested for scans 1–10** at `works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
-- H-GATE checked: **10 / 63**;
-- H-GATE PASS: **4 / 63**;
-- H-GATE needs-review: **6 / 63**;
-- final verified pages: **4 / 63**;
-- Batch 02 Pass A: **COMPLETE — scans 11–20 / 10 of 10 initial verification PASS; H-GATE pending**;
+- H-GATE checked: **20 / 63**;
+- H-GATE PASS: **5 / 63**;
+- H-GATE needs-review: **15 / 63**;
+- final verified pages: **5 / 63**;
+- Batch 02 Pass A: **COMPLETE — scans 11–20**;
+- Batch 02 H-GATE: **CHECKED — 1 PASS / 9 needs-review**;
 - scene assembly: **not started**;
 - English translation: **not started**.
 
@@ -59,11 +60,11 @@ Current durable state:
 
 ## Exact next activity
 
-1. run targeted independent **Batch 02 H-GATE for scans 11–20** using only the attached PDF;
-2. preserve Batch 01 unresolved scans **3, 4, 6, 8, 9, 10** as open holds; do not loop them without better attached-source readability;
-3. retain first-pass readings wherever Batch 02 source pixels remain ambiguous;
-4. promote only clean Batch 02 pages to verified;
-5. do not create a Batch 02 final PASS unless all ten scans close;
+1. proceed to **Batch 03 Pass A — scans 21–30**;
+2. use the user-supplied first-pass as comparison baseline and the attached PDF as sole authority;
+3. preserve Batch 01 unresolved scans **3, 4, 6, 8, 9, 10** and Batch 02 unresolved scans **11, 13, 14, 15, 16, 17, 18, 19, 20** as durable holds;
+4. do not loop those holds without stronger attached-source readability;
+5. after Batch 03 Pass A, commit before its H-GATE;
 6. SHA-256 remains a separate P0 fingerprint hold;
 7. do not begin scene assembly or English translation.
 
