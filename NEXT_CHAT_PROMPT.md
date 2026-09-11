@@ -1,33 +1,38 @@
-# Next Chat Prompt — நச்சுக்கோப்பை final word-by-word visual fidelity / scans 61–63
+# Next Chat Prompt — நச்சுக்கோப்பை full page-state reconciliation
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/nachuk-koppai/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
-Fetch live main first.
+
+Fetch live `main` first and preserve newer durable work.
 
 ## Controlling source
+
 Use only attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
-## Active workflow
-Word-by-word visual text fidelity checking, **5 physical scans per iteration**.
-
-For every page compare every visible publication-text token, speaker label, stage direction, punctuation, numeral and Latin-script token against the attached PDF. Make only source-proven corrections. Do not normalize from context, grammar, OCR, TDL, Wikisource or another edition.
-
 ## Durable state
-- canonical page layer: **63 / 63 COMPLETE**;
-- H-GATE coverage: **63 / 63 COMPLETE**;
-- H-GATE PASS / verified: **58 / 63**;
-- H-GATE needs-review: **5 / 63**;
-- word-by-word fidelity coverage: **60 / 63**;
-- fidelity PASS: **57** — scans **1–19, 21, 23–34, 36–60**;
-- fidelity needs-review: **3** — scan **20** (`வேணும்லும்`), scan **22** (two adjacent unidentified source glyph clusters after `சாந்தா`), and scan **35** (damaged overinked word before `சூர்ய நாராயண`, provisionally `சுடகோடி`);
-- fidelity correction loci so far: **270**;
-- structural warning: **Batches 07–12 confirmed and repaired one-page drift through physical scan 60. Do not assume that offset for the final scans 61–63; re-anchor all three independently. Scan 63 was separately source-confirmed earlier**;
-- scene assembly remains blocked until full fidelity coverage + reconciliation.
+
+- canonical page records: **63 / 63 present**;
+- word-by-word visual fidelity: **63 / 63 COMPLETE**;
+- fidelity PASS: **60** — scans **1–19, 21, 23–34, 36–63**;
+- remaining fidelity holds: **3** — scan **20** (`வேணும்லும்`), scan **22** (two adjacent unidentified source glyph clusters after `சாந்தா`), scan **35** (damaged/overinked word before `சூர்ய நாராயண`, provisionally `சுடகோடி`);
+- H-GATE PASS / verified: **60 / 63**;
+- H-GATE needs-review: **3 / 63** — the same scans **20, 22, 35**;
+- cumulative source-proven fidelity correction loci: **280**;
+- downstream physical-page drift has been repaired through scan 63;
+- final physical scan **63** contains the **final dialogue + முற்றும் + printer imprint**;
+- P0 SHA-256 remains **pending** and is outside this reconciliation unless separately authorized;
+- scene assembly and English translation remain blocked.
 
 ## Exact next activity
-Process **Visual text fidelity Batch 13 — final scans 61–63**.
 
-Re-anchor physical scans **61–63** independently from the attached PDF before comparing them with the existing records; do not infer a continuing offset. Rebuild/update `pages/0061.md` through `pages/0063.md` as required, write `VISUAL_FIDELITY_BATCH_13.md`, update the master fidelity audit and synchronized controls, then commit immediately. After reaching 63/63 coverage, the next phase is full page-state reconciliation of remaining holds before scene assembly.
+Perform the **full 63-page state reconciliation**.
 
-Do not reopen scans 1–60 in the same iteration unless genuinely stronger source evidence or user confirmation appears.
+1. Reinspect the three remaining holds on scans **20, 22 and 35** against the strongest attached-source pixels available. Resolve a locus only if the attached source itself is secure; otherwise preserve it explicitly.
+2. Reconcile all **63 page records** against the completed fidelity results: front matter, printed-page values, scene boundaries, page types, H-GATE, `status`, and `visual_text_fidelity`.
+3. Remove stale pre-fidelity / pre-realignment notes and ensure no downstream record still assumes the old one-page drift.
+4. Reconcile `indexes/page-map.md`, `README.md`, `VISUAL_TEXT_FIDELITY_AUDIT.md`, root `HANDOVER.md`, and this prompt.
+5. Write a durable reconciliation record, e.g. `PAGE_STATE_RECONCILIATION.md`.
+6. Commit atomically.
+
+Do **not** start scene assembly or English translation in the same iteration unless reconciliation is fully complete and a later user instruction authorizes the next phase.

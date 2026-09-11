@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / FIDELITY BATCH 12 COMPLETE / FINAL BATCH 13 NEXT
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / WORD-BY-WORD FIDELITY 63/63 COMPLETE / PAGE-STATE RECONCILIATION NEXT
 
 Active work: `works/nachuk-koppai/`.
 
@@ -36,14 +36,14 @@ Current durable state:
 - scan 63: **முற்றும்**;
 - page records created: **63 / 63 — COMPLETE**;
 - page-record files present: **63 / 63**;
-- source-aligned records fidelity-confirmed: **60 / 63**; final scans 61–63 remain to be independently re-anchored;
+- source-aligned records fidelity-confirmed: **63 / 63 — COMPLETE**;
 - partial records in Batch 01: **0**;
 - user-supplied first-pass baseline: **ingested for scans 1–10** at `works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
 - H-GATE checked: **63 / 63 — COMPLETE**;
-- H-GATE PASS: **58 / 63**;
-- H-GATE needs-review: **5 / 63**;
-- final verified pages: **58 / 63**;
+- H-GATE PASS: **60 / 63**;
+- H-GATE needs-review: **3 / 63 — scans 20, 22 and 35**;
+- final verified pages: **60 / 63**;
 - Batch 07 Pass A: **COMPLETE — scans 61–63**;
 - Batch 07 H-GATE: **CHECKED — 1 PASS / 2 needs-review; scan 63 verified**;
 - Batch 06 Pass A: **COMPLETE — scans 51–60**;
@@ -57,10 +57,10 @@ Current durable state:
 - Batch 02 Pass A: **COMPLETE — scans 11–20**;
 - Batch 02 H-GATE: **CHECKED — 1 PASS / 9 needs-review**;
 - visual text fidelity audit: **ACTIVE — 5 scans per iteration**;
-- fidelity coverage: **60 / 63 scans**;
-- fidelity PASS: **57 — scans 1–19, 21, 23–34, 36–60**;
-- fidelity needs-review in completed coverage: **3 — scan 20 (`வேணும்லும்`), scan 22 (two adjacent unidentified source glyph clusters after `சாந்தா`), and scan 35 (damaged overinked word before `சூர்ய நாராயண`, provisionally `சுடகோடி`)**;
-- fidelity source-proven correction loci: **270**;
+- fidelity coverage: **63 / 63 scans — COMPLETE**;
+- fidelity PASS: **60 — scans 1–19, 21, 23–34, 36–63**;
+- fidelity needs-review: **3 — scan 20 (`வேணும்லும்`), scan 22 (two adjacent unidentified source glyph clusters after `சாந்தா`), and scan 35 (damaged overinked word before `சூர்ய நாராயண`, provisionally `சுடகோடி`)**;
+- fidelity source-proven correction loci: **280**;
 - Fidelity Batch 05: **COMPLETE — 4 PASS / 1 needs-review**;
 - Fidelity Batch 06: **COMPLETE — 5 PASS / 0 needs-review**;
 - Fidelity Batch 07: **COMPLETE — 4 PASS / 1 needs-review; 24 textual repairs + 5 physical-page realignments**;
@@ -69,7 +69,8 @@ Current durable state:
 - Fidelity Batch 10: **COMPLETE — 5 PASS / 0 needs-review; 26 textual repairs + 5 physical-page realignments**;
 - Fidelity Batch 11: **COMPLETE — 5 PASS / 0 needs-review; 29 textual repairs + 5 physical-page realignments**;
 - Fidelity Batch 12: **COMPLETE — 5 PASS / 0 needs-review; 35 textual repairs + 5 physical-page realignments**;
-- structural finding: **records 31–60 have now been rebuilt/re-anchored source-first; scans 56–60 independently confirmed the prior one-page drift, but do not extrapolate it onto scans 61–63 — re-anchor all final scans independently**;
+- Fidelity Batch 13: **COMPLETE — 3 PASS / 0 needs-review; 10 textual repairs + 3 final physical-page/closure reconciliations**;
+- structural finding: **records 31–63 have now been rebuilt/re-anchored source-first; scan 63 is the source-proven combined final dialogue / literary close / imprint page**;
 - scene assembly: **not started**;
 - English translation: **not started**.
 
@@ -87,12 +88,12 @@ Current durable state:
 
 1. continue the user-directed **word-by-word visual text fidelity audit**;
 2. process exactly **5 physical scans per iteration**;
-3. next range: **scans 61–63 — final fidelity batch**;
-4. rebuild/re-anchor physical scans **61–63** independently from the attached PDF before trusting the existing page records; Batches 07–12 proved drift through scan 60, while scan 63 was separately source-confirmed earlier, so no final offset may be assumed;
-5. compare every visible publication-text token, speaker label, stage direction, punctuation and numeral against the attached PDF; make only source-proven corrections and retain unresolved words without guessing;
-6. commit immediately after the five-page batch;
-7. postpone full 63-page state reconciliation until fidelity coverage reaches 63/63;
-8. do not begin scene assembly or English translation.
+3. perform **full 63-page state reconciliation**;
+4. begin with the three remaining holds on scans **20, 22 and 35**, using only the attached PDF and stronger/enlarged source pixels; resolve only if source-secure, otherwise preserve the hold;
+5. reconcile every page record / page-map / H-GATE / fidelity status against the now-complete 63/63 source-aligned layer and remove stale pre-fidelity metadata or boundary assumptions;
+6. write a durable page-state reconciliation record and synchronize README, page-map, HANDOVER and NEXT_CHAT_PROMPT;
+7. commit the reconciliation atomically;
+8. do not begin scene assembly or English translation until reconciliation is complete.
 
 ## Closed work safeguards
 

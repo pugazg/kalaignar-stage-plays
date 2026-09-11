@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE RECORDS 63/63 PRESENT; H-GATE 63/63 HISTORICALLY CHECKED — 58 CURRENTLY VERIFIED / 5 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 60/63, 57 PASS / 3 HOLDS, FINAL BATCH 61–63 NEXT**
+Status: **PAGE RECORDS 63/63 PRESENT; H-GATE 63/63 CHECKED — 60 VERIFIED / 3 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 63/63 COMPLETE, 60 PASS / 3 HOLDS; PAGE-STATE RECONCILIATION NEXT**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -68,12 +68,12 @@ This preliminary map records physical scan identity and visually located scene o
 | 58 | Scene 18 | drama | complete | PASS | PASS | `verified` | printed p.54; source-first realigned; prior non-Tamil cluster disproved; Karuppan confrontation |
 | 59 | Scene 18 | drama | complete | PASS | PASS | `verified` | printed p.55; source-first realigned; Pazhani death / police arrival; phonetic dialogue source-checked |
 | 60 | Scene 18 | drama | complete | PASS | PASS | `verified` | printed p.56; source-first realigned; police/sub-inspector dialogue; Sivaguru speech is not on this scan |
-| 61 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.57; source-sensitive forms remain |
-| 62 | Scene 18 | scene close | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.58; final dialogue; speaker/word-form holds remain |
-| 63 | Scene 18 | literary close / imprint | complete | PASS | PASS | `verified` | final scan; `முற்றும்`; printer imprint; H-GATE clean |
+| 61 | Scene 18 | drama | complete | PASS | PASS | `verified` | printed p.57; source-first realigned; police close / Sivaguru lament begins |
+| 62 | Scene 18 | drama | complete | PASS | PASS | `verified` | printed p.58; source-first realigned; Sivaguru lament continues; closes with `(சாந்தா வரல்)` |
+| 63 | Scene 18 | scene close / literary close / imprint | complete | PASS | PASS | `verified` | final scan; final dialogue + `முற்றும்` + printer imprint; non-authorial `4063` separated |
 
 ## Intake cautions
 
-- Page-record files exist for **all 63 physical scans**, but the fidelity pass is authoritative over earlier scene-boundary guesses. Batches 07–12 confirmed and repaired one-page drift through physical scan 60. This does **not** authorize assuming the same offset for the final three scans: scans 61–63 must be re-anchored independently, especially because scan 63 was previously source-confirmed on its own.
-- Scene assembly remains unauthorized until the page-layer H-GATE/hold state is explicitly dispositioned.
-- Scan 63 is the source-proven literary close with **முற்றும்** and printer imprint.
+- Page-record files exist for **all 63 physical scans**, and the word-by-word fidelity pass is now authoritative across **63 / 63**. Batches 07–13 repaired the downstream physical-page drift and independently reconciled the final three scans.
+- Three page-level holds remain: scans **20, 22 and 35**. Full page-state reconciliation is required before scene assembly.
+- Scan 63 is source-proven as the combined **final dialogue + முற்றும் + printer imprint** physical page.

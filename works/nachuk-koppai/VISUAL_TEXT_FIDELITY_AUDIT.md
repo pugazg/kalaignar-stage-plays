@@ -22,14 +22,14 @@ Method: every visible publication-text token is compared in reading order agains
 | 10 | 46–50 | **5 PASS / COMPLETE** |
 | 11 | 51–55 | **5 PASS / COMPLETE** |
 | 12 | 56–60 | **5 PASS / COMPLETE** |
-| 13 | 61–63 | pending |
+| 13 | 61–63 | **3 PASS / COMPLETE** |
 
-Current coverage: **60 / 63 scans**.
+Current coverage: **63 / 63 scans — COMPLETE**.
 
 Current fidelity results:
-- PASS: **57** — scans **1–19, 21, 23–34, 36–60**;
+- PASS: **60** — scans **1–19, 21, 23–34, 36–63**;
 - NEEDS-REVIEW: **3** — scans **20, 22, 35**;
-- source-proven correction loci in fidelity phase: **270**.
+- source-proven correction loci in fidelity phase: **280**.
 
 ## Batch 01 summary
 
@@ -139,4 +139,16 @@ Current fidelity results:
 - cumulative fidelity correction loci: **270**;
 - final fidelity batch remains **scans 61–63**; re-anchor all three independently because scan 63 was separately source-confirmed earlier and no offset may be presumed.
 
-Next fidelity batch: **scans 61–63**.
+## Batch 13 summary
+
+- scans 61–63 — **3 PASS / COMPLETE**;
+- all three final physical scans were independently re-anchored rather than inheriting the earlier offset;
+- scan 61 confirms the drift continued one more page and source-disproves both the non-Tamil cluster after `மணியப்ப முதலியாருக்கும்` and the standalone `C`;
+- scan 62 is the continuation of Sivaguru's lament and closes with `(சாந்தா வரல்)`;
+- scan 63 contains the **final dialogue + `முற்றும்` + printer imprint on the same physical scan**; the stale `ரகா:` label is source-resolved as `ஏகா :`;
+- Batch 13 source-proven textual correction loci: **10**;
+- structural physical-page realignments / closure reconciliations: **3**;
+- cumulative fidelity correction loci: **280**;
+- word-by-word visual fidelity coverage is now **63 / 63 COMPLETE**.
+
+Next phase: **full 63-page state reconciliation**, beginning with the three remaining fidelity holds at scans **20, 22 and 35**. Do not begin scene assembly yet.
