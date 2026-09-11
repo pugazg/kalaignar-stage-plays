@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — BATCH 01: 4 VERIFIED / 6 NEEDS-REVIEW; BATCH 02: 1 VERIFIED / 9 NEEDS-REVIEW; BATCH 03: 0 VERIFIED / 10 NEEDS-REVIEW; BATCH 04: 0 VERIFIED / 10 NEEDS-REVIEW; BATCH 05: 0 VERIFIED / 10 NEEDS-REVIEW; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — BATCH 01: 4 VERIFIED / 6 NEEDS-REVIEW; BATCH 02: 1 VERIFIED / 9 NEEDS-REVIEW; BATCHES 03–06: 0 VERIFIED / 10 NEEDS-REVIEW EACH; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -44,9 +44,9 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - partial page records: **0 / 63 within Batch 01**;
 - user-supplied first-pass baseline: **available for scans 1–10** at `first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - initial visual verification PASS: **60 / 63**;
-- historical-glyph H-GATE checked: **50 / 63**;
+- historical-glyph H-GATE checked: **60 / 63**;
 - H-GATE PASS: **5 / 63**;
-- H-GATE needs-review: **45 / 63**;
+- H-GATE needs-review: **55 / 63**;
 - final verified pages: **5 / 63**;
 - scene assembly: **not started**;
 - English translation: **not started**.

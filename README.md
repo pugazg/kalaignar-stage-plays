@@ -113,7 +113,7 @@ Current intake state:
 - page records: **60 / 63 canonical — scans 1–60 complete baselines**;
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
 - user-supplied first-pass baseline: **INGESTED for scans 1–10** (`works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`);
-- H-GATE: **50 / 63 checked — 5 PASS / 45 needs-review**;
+- H-GATE: **60 / 63 checked — 5 PASS / 55 needs-review**;
 - scene assembly: **not started**;
 - English translation: **not started / not authorized as an active phase yet**.
 

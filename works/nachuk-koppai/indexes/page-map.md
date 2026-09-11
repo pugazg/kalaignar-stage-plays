@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **BATCHES 01–05 H-GATE OPEN; BATCH 06 PASS A COMPLETE — SCANS 51–60 / H-GATE PENDING**
+Status: **BATCHES 01–06 H-GATE OPEN; BATCH 06 CHECKED — 0 VERIFIED / 10 NEEDS-REVIEW; BATCH 06 NOT CLOSED**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -58,16 +58,16 @@ This preliminary map records physical scan identity and visually located scene o
 | 48 | Scene 15 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.44 |
 | 49 | Scenes 15 / 16 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.45; Scene 15 closes / Scene 16 opens |
 | 50 | Scene 16 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.46; Scene 16 continues |
-| 51 | Scene 16 | drama | complete | PASS | pending | `needs-review` | printed p.47; Scene 16 continues |
-| 52 | Scene 16 | drama | complete | PASS | pending | `needs-review` | printed p.48; terminal `விப` continues to scan 53 |
-| 53 | Scenes 16 / 17 | shared scene-boundary page | complete | PASS | pending | `needs-review` | printed p.49; Scene 17 opens; corrects preliminary intake |
-| 54 | Scenes 17 / 18 | shared scene-boundary page | complete | PASS | pending | `needs-review` | printed p.50; Scene 17 closes / Scene 18 opens; corrects preliminary intake |
-| 55 | Scene 18 | drama | complete | PASS | pending | `needs-review` | printed p.51 |
-| 56 | Scene 18 | drama | complete | PASS | pending | `needs-review` | printed p.52; stage-direction fragment continues |
-| 57 | Scene 18 | drama | complete | PASS | pending | `needs-review` | printed p.53; unresolved non-Tamil glyph cluster retained |
-| 58 | Scene 18 | drama | complete | PASS | pending | `needs-review` | printed p.54; multilingual police dialogue |
-| 59 | Scene 18 | drama | complete | PASS | pending | `needs-review` | printed p.55; police/sub-inspector dialogue |
-| 60 | Scene 18 | drama | complete | PASS | pending | `needs-review` | printed p.56; Sivaguru speech continues to scan 61 |
+| 51 | Scene 16 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.47; Scene 16 continues |
+| 52 | Scene 16 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.48; terminal `விப` continues to scan 53 |
+| 53 | Scenes 16 / 17 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.49; Scene 17 opens; corrects preliminary intake |
+| 54 | Scenes 17 / 18 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.50; Scene 17 closes / Scene 18 opens; corrects preliminary intake |
+| 55 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.51 |
+| 56 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.52; stage-direction fragment continues |
+| 57 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.53; unresolved non-Tamil glyph cluster retained |
+| 58 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.54; multilingual police dialogue |
+| 59 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.55; police/sub-inspector dialogue |
+| 60 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.56; Sivaguru speech continues to scan 61 |
 | 61 | Scene 18 | drama | pending | pending | pending | `not-started` |  |
 | 62 | Scene 18 | drama | pending | pending | pending | `not-started` |  |
 | 63 | Scene 18 | drama / literary close | pending | pending | pending | `not-started` | Scene 18 close / `முற்றும்` |
