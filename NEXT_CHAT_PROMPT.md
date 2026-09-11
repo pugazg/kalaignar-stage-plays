@@ -20,7 +20,9 @@ Durable identity:
 - title: **நச்சுக்கோப்பை**;
 - author: **மு. கருணாநிதி**;
 - publisher: **திராவிடன் பதிப்பகம்**;
-- edition: **முதல் பதிப்பு — 1951**.
+- edition: **முதல் பதிப்பு — 1951**;
+- provenance: **attached PDF was downloaded from Tamil Digital Library**;
+- route note: **Wikisource carries the same scan/copy; neither TDL nor Wikisource is an independent textual witness**.
 
 ## Current Batch 01 state
 
@@ -35,11 +37,11 @@ Durable identity:
 ## Exact next activity
 
 1. compute SHA-256 if checksum execution is available;
-2. use the exact controlling attachment at native/full resolution to complete scans **2–10** verbatim;
+2. use **only the exact attached controlling PDF** at native/full resolution to complete scans **2–10** verbatim;
 3. preserve source spelling, old glyphs, punctuation, speaker labels and stage directions;
 4. once all scans 1–10 have complete canonical text and ordinary visual verification PASS, record Batch 01 Pass A COMPLETE;
 5. then run the independent historical-glyph H-GATE;
 6. create `BATCH_01_REVIEW.md` only after the gate passes;
 7. synchronize page map / README / handover / prompt and commit.
 
-Do not use the unproofread Wikisource transcription, later editions, plot summaries or semantic expectation to fill source text. Do not begin scene assembly or English translation.
+Do not browse or use TDL/Wikisource/another download to fill source text. They are same-copy provenance/transport routes only. Do not use the unproofread Wikisource transcription, later editions, plot summaries or semantic expectation to fill source text. Do not begin scene assembly or English translation.

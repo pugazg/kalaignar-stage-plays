@@ -8,7 +8,7 @@ Repository work id: `nachuk-koppai`.
 
 `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`
 
-The supplied scan is the controlling textual authority. OCR, catalogue prose, later editions, web transcriptions, familiar spelling and plot knowledge are not controlling.
+The supplied scan is the controlling textual authority. The user confirms it was downloaded from Tamil Digital Library and that Wikisource carries the same scan/copy; those are provenance/transport routes only, not independent witnesses. OCR, catalogue prose, later editions, web transcriptions, familiar spelling and plot knowledge are not controlling.
 
 ## Source-visible identity
 
@@ -54,9 +54,13 @@ The user supplied contextual information that this work was written/performed in
 
 This contextual note is useful project metadata but is **not promoted into controlling-source transcription** unless the scan itself supports the same wording/fact.
 
+## Source-route safeguard
+
+All source-dependent work must use the **attached PDF only**. Do not visit TDL/Wikisource or another copy to complete unreadable text. Preserve an unresolved locus until the attached scan itself is readable enough.
+
 ## Next activity
 
-1. compute the remaining SHA-256 fingerprint of the attached PDF;
+1. compute the remaining SHA-256 fingerprint of the attached PDF when local-byte checksum execution is available;
 2. complete the existing **scans 2–10** partial records so Batch 01 Pass A can close;
 3. then continue Batch 01:
    - Pass A whole-page transcription / ordinary visual verification;

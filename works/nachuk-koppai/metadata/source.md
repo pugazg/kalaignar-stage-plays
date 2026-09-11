@@ -10,9 +10,14 @@ Status: **P0 PARTIAL — VISUAL IDENTITY CONFIRMED; BYTE FINGERPRINT PENDING**
 - physical scans: **63**
 - source type: **image-only PDF / no usable parsed text layer**
 - source PDF committed to repository: **no**
-- source provenance: **supplied by the user in ChatGPT**
+- source provenance: **user-supplied PDF downloaded from Tamil Digital Library (TDL)**
+- same-copy route note: **the user confirms Wikisource carries the same scan/copy; TDL and Wikisource are transport/provenance routes for this scan, not independent textual witnesses**
 
 P0 remains open only for the SHA-256 fingerprint. Exact byte size is now durably known from the uploaded file service. Do not guess the remaining checksum.
+
+## Controlling-copy rule
+
+For transcription, verification, historical-glyph adjudication, page boundaries and scene assembly, **the attached PDF in this conversation is the sole controlling copy**. Do not browse TDL, Wikisource, web transcriptions or another download to fill or repair text. The TDL/Wikisource relationship is recorded only as provenance/transport metadata. If a locus is unreadable in the attached scan, retain it as unresolved until the attached-source pixels can be inspected adequately.
 
 ## Source-visible bibliographic identity
 

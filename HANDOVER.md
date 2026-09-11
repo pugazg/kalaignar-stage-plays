@@ -26,6 +26,8 @@ Current durable state:
 - conversation file id: `file_000000007a78820885b161bf144d9bd9`;
 - SHA-256: **PENDING** — sole P0 byte-fingerprint hold;
 - source type: **image-only / no usable parsed text layer**;
+- provenance: **attached PDF downloaded from Tamil Digital Library; Wikisource carries the same scan/copy**;
+- witness rule: **attached PDF only is controlling; TDL/Wikisource are same-copy transport routes, not secondary witnesses**;
 - title: **நச்சுக்கோப்பை**;
 - author: **மு. கருணாநிதி**;
 - publisher: **திராவிடன் பதிப்பகம்**;
@@ -53,7 +55,7 @@ Current durable state:
 ## Exact next activity
 
 1. compute SHA-256 from the exact attached bytes when checksum execution is available;
-2. re-read scans **2–10** at full/native resolution and replace placeholders with complete source-faithful text;
+2. re-read scans **2–10 from the attached PDF only** at full/native resolution and replace placeholders with complete source-faithful text;
 3. declare Batch 01 Pass A complete only when all 10 page records are canonical and ordinary visual verification passes;
 4. run targeted independent H-GATE for scans 1–10;
 5. create `BATCH_01_REVIEW.md` only if the full batch passes;
