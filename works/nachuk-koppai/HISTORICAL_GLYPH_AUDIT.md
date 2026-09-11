@@ -99,3 +99,32 @@ Repository-wide current totals:
 - final verified pages: **5 / 63**.
 
 Batch 03 remains **open**; no final PASS artifact exists.
+
+
+# Batch 04 — scans 31–40
+
+Status: **CHECKED — 0 PASS / 10 NEEDS-REVIEW**
+
+| Scan | Initial verification | H-GATE | Final status |
+|---:|---|---|---|
+| 31 | PASS | NEEDS-REVIEW | needs-review |
+| 32 | PASS | NEEDS-REVIEW | needs-review |
+| 33 | PASS | NEEDS-REVIEW | needs-review |
+| 34 | PASS | NEEDS-REVIEW | needs-review |
+| 35 | PASS | NEEDS-REVIEW | needs-review |
+| 36 | PASS | NEEDS-REVIEW | needs-review |
+| 37 | PASS | NEEDS-REVIEW | needs-review |
+| 38 | PASS | NEEDS-REVIEW | needs-review |
+| 39 | PASS | NEEDS-REVIEW | needs-review |
+| 40 | PASS | NEEDS-REVIEW | needs-review |
+
+Batch 04 corrections committed: **0**.
+
+Repository-wide current totals:
+
+- H-GATE checked: **40 / 63**;
+- H-GATE PASS: **5 / 63**;
+- H-GATE NEEDS-REVIEW: **35 / 63**;
+- final verified pages: **5 / 63**.
+
+Batch 04 remains **open**; no final PASS artifact exists.

@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **BATCHES 01–03 H-GATE OPEN; BATCH 04 PASS A COMPLETE — SCANS 31–40 / H-GATE PENDING**
+Status: **BATCHES 01–04 H-GATE OPEN; BATCH 04 CHECKED — 0 VERIFIED / 10 NEEDS-REVIEW; BATCH 04 NOT CLOSED**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -38,16 +38,16 @@ This preliminary map records physical scan identity and visually located scene o
 | 28 | Scene 7 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.24 |
 | 29 | Scene 7 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.25 |
 | 30 | Scene 7 | scene close | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.26; `சீன் முடிவு.` |
-| 31 | Scene 8 | scene opener | complete | PASS | pending | `needs-review` | printed p.27; Scene 8 opener; corrects preliminary intake |
-| 32 | Scene 8 | scene close | complete | PASS | pending | `needs-review` | printed p.28; Scene 8 closes |
-| 33 | Scene 9 | scene opener | complete | PASS | pending | `needs-review` | printed p.29; Scene 9 opener; corrects preliminary intake |
-| 34 | Scene 9 | drama | complete | PASS | pending | `needs-review` | printed p.30 |
-| 35 | Scene 9 | drama | complete | PASS | pending | `needs-review` | printed p.31 |
-| 36 | Scene 9 | drama | complete | PASS | pending | `needs-review` | printed p.32; stray first-pass page tokens ignored for pagination |
-| 37 | Scene 9 | drama | complete | PASS | pending | `needs-review` | printed p.33 |
-| 38 | Scene 9 | drama | complete | PASS | pending | `needs-review` | printed p.34 |
-| 39 | Scene 9 | drama | complete | PASS | pending | `needs-review` | printed p.35 |
-| 40 | Scenes 9 / 10 | shared scene-boundary page | complete | PASS | pending | `needs-review` | printed p.36; Scene 10 opens; corrects preliminary intake |
+| 31 | Scene 8 | scene opener | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.27; Scene 8 opener; corrects preliminary intake |
+| 32 | Scene 8 | scene close | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.28; Scene 8 closes |
+| 33 | Scene 9 | scene opener | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.29; Scene 9 opener; corrects preliminary intake |
+| 34 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.30 |
+| 35 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.31 |
+| 36 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.32; stray first-pass page tokens ignored for pagination |
+| 37 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.33 |
+| 38 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.34 |
+| 39 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.35 |
+| 40 | Scenes 9 / 10 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.36; Scene 10 opens; corrects preliminary intake |
 | 41 | Scene 10 | drama | pending | pending | pending | `not-started` | Scene 10 opener |
 | 42 | Scene 10 | drama | pending | pending | pending | `not-started` |  |
 | 43 | Scenes 11 / 12 | drama | pending | pending | pending | `not-started` | Scene 11 opener + Scene 12 opener later on same scan |
