@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE LAYER 63/63; H-GATE 63/63 CHECKED — 20 VERIFIED / 43 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 20/63, 19 PASS / 1 HOLD, NEXT 21–25**
+Status: **PAGE LAYER 63/63; H-GATE 63/63 CHECKED — 24 VERIFIED / 39 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 25/63, 23 PASS / 2 HOLDS, NEXT 26–30**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -28,11 +28,11 @@ This preliminary map records physical scan identity and visually located scene o
 | 18 | Scenes 2 / 3 | shared scene-boundary page | complete | PASS | PASS | `verified` | Scene 2/3 boundary; header/scene/speaker source-resolved |
 | 19 | Scene 3 | drama | complete | PASS | PASS | `verified` | printed p.15; speaker/name repaired; unusual forms confirmed |
 | 20 | Scenes 3 / 4 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | Scene 3/4 boundary; only `வேணும்லும்` remains unresolved |
-| 21 | Scene 4 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.17; Batch 03 Pass A complete |
-| 22 | Scene 5 | scene opener | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.18; Scene 5 opener |
-| 23 | Scene 5 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.19 |
-| 24 | Scenes 5 / 6 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.20; Scene 5 closes / Scene 6 opens |
-| 25 | Scenes 6 / 7 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.21; Scene 6 closes / Scene 7 opens |
+| 21 | Scene 4 | drama | complete | PASS | PASS | `verified` | printed p.17; fidelity repairs resolved header/labels/source forms |
+| 22 | Scene 5 | scene opener | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.18; Scene 5 opener; two adjacent source glyph clusters after `சாந்தா` remain unresolved |
+| 23 | Scene 5 | drama | complete | PASS | PASS | `verified` | printed p.19; fidelity wording/punctuation repairs source-resolved |
+| 24 | Scenes 5 / 6 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.20; Scene 5 closes / Scene 6 opens; speaker/spacing source-resolved |
+| 25 | Scenes 6 / 7 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.21; Scene 6 closes / Scene 7 opens; wording/scene/name holds resolved |
 | 26 | Scene 7 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.22; first-pass page marker `29` is OCR discrepancy |
 | 27 | Scene 7 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.23 |
 | 28 | Scene 7 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.24 |

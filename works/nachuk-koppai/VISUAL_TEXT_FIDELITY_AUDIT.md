@@ -14,7 +14,7 @@ Method: every visible publication-text token is compared in reading order agains
 | 02 | 6–10 | **5 PASS / COMPLETE** |
 | 03 | 11–15 | **5 PASS / COMPLETE** |
 | 04 | 16–20 | **4 PASS / 1 NEEDS-REVIEW** |
-| 05 | 21–25 | next |
+| 05 | 21–25 | **4 PASS / 1 NEEDS-REVIEW** |
 | 06 | 26–30 | pending |
 | 07 | 31–35 | pending |
 | 08 | 36–40 | pending |
@@ -24,12 +24,12 @@ Method: every visible publication-text token is compared in reading order agains
 | 12 | 56–60 | pending |
 | 13 | 61–63 | pending |
 
-Current coverage: **20 / 63 scans**.
+Current coverage: **25 / 63 scans**.
 
 Current fidelity results:
-- PASS: **19** — scans **1–19**;
-- NEEDS-REVIEW: **1** — scan **20**;
-- source-proven correction loci in fidelity phase: **37**.
+- PASS: **23** — scans **1–19, 21, 23–25**;
+- NEEDS-REVIEW: **2** — scans **20, 22**;
+- source-proven correction loci in fidelity phase: **73**.
 
 ## Batch 01 summary
 
@@ -60,4 +60,11 @@ Current fidelity results:
 - scans 16–19 — PASS after source-secure label/header/word repairs;
 - scan 20 — NEEDS-REVIEW after three source-secure repairs; only `வேணும்லும்` remains unresolved.
 
-Next fidelity batch: **scans 21–25**.
+## Batch 05 summary
+
+- scans 21, 23, 24 and 25 — PASS after **28** source-proven correction loci;
+- scan 22 — NEEDS-REVIEW after **8** source-proven corrections; the only remaining locus is the pair of adjacent unidentified source glyph clusters after `சாந்தா`;
+- Batch 05 total source-proven correction loci: **36**;
+- cumulative fidelity correction loci: **73**.
+
+Next fidelity batch: **scans 26–30**.
