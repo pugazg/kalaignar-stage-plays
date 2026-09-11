@@ -1,6 +1,6 @@
 # இரத்தக் கண்ணீர் — Scene assembly progress
 
-Status: **IN PROGRESS — Scenes 1–36 / 61 ASSEMBLY-REVIEWED; Scene 37 DRAFT through scan 124; Batches 01–09 PASS**
+Status: **IN PROGRESS — Scenes 1–43 / 61 ASSEMBLY-REVIEWED; Scene 44 DRAFT through scan 144; Batches 01–10 PASS**
 
 Page-layer authority: **188 / 188 final verified / CLOSED FOR CURRENT SOURCE EVIDENCE**.
 
@@ -18,7 +18,7 @@ Page-layer authority: **188 / 188 final verified / CLOSED FOR CURRENT SOURCE EVI
 
 ## Fixed assembly iteration size
 
-Per user direction, scene assembly now advances by **exactly 20 source scans per iteration**.
+Per user direction, scene assembly advances by **exactly 20 source scans per iteration**.
 
 If the twentieth scan lands inside a scene:
 - do not pull text from the next scan;
@@ -39,40 +39,46 @@ If the twentieth scan lands inside a scene:
 | 07 | 85–94 | Scenes 25–27 reviewed | **PASS / COMPLETE / LOCKED** | `SCENE_ASSEMBLY_BATCH_07_REVIEW.md` |
 | 08 | 95–104 | Scenes 28–31 reviewed | **PASS / COMPLETE / LOCKED** | `SCENE_ASSEMBLY_BATCH_08_REVIEW.md` |
 | 09 | 105–124 | Scenes 32–36 reviewed; Scene 37 draft through scan 124 | **PASS / ITERATION COMPLETE / CARRY-FORWARD** | `SCENE_ASSEMBLY_BATCH_09_REVIEW.md` |
+| 10 | 125–144 | Scene 37 completed; Scenes 38–43 reviewed; Scene 44 draft through scan 144 | **PASS / ITERATION COMPLETE / CARRY-FORWARD** | `SCENE_ASSEMBLY_BATCH_10_REVIEW.md` |
 
 ## Current coverage
 
 - numbered scenes expected: **61**;
-- fully assembled/reviewed scene artifacts: **36 / 61**;
-- open boundary scene: **Scene 37 draft through scan 124**;
-- assembly source scans processed: **8–124**, contiguous;
-- completed reviewed-scene coverage: **8–122**, contiguous;
-- scans **123–124** are represented once in the Scene-37 draft and nowhere else;
+- fully assembled/reviewed scene artifacts: **43 / 61**;
+- open boundary scene: **Scene 44 draft through scan 144**;
+- assembly source scans processed: **8–144**, contiguous;
+- completed reviewed-scene coverage: **8–143**, contiguous;
+- scan **144** is represented once in the Scene-44 draft and nowhere else;
 - duplicate dramatic-page coverage: **0**;
 - omitted processed dramatic scans: **0**;
 - unresolved assembly discrepancies: **0**.
 
-## Batch 09 mechanical joins
+## Batch 10 mechanical joins / structural handling
 
-- Scene 35: 111→112 `இப்போது,` + `சுகதேவன்...`;
-- Scene 35: 112→113 `முத்தன்` + `அடைக்கப்பட்டிருக்கிறான்.`;
-- Scene 35: 113→114 `உன்பால்` + `எனக்கு அன்பு ஏற்பட்டது.`;
-- Scene 36: 117→118 `எந்த அழகுக்` + `காகத்` → `எந்த அழகுக்காகத்`;
-- Scene 36 preserves scan-116 internal `* * *` as an internal transition;
-- Scene 37 is intentionally incomplete after scan 124.
+- Scene 37: scan 130→131 `புறப்` / `படுகின்றனர்.` → `புறப்படுகின்றனர்.`;
+- Scene 38: scan 132→133 `பள்ளி` / `யறைக்` → `பள்ளியறைக்`;
+- Scene 39: scan 134→135 sentence continuation `வேங்கை புரத்தானுக்கு` / `விரோதமான நாடு!`;
+- Scene 41 preserves verified H-GATE form `கண்ணை மறைக்கும் பேய்`;
+- Scene 42 preserves scan-141 internal `★ ★ ★` as an internal transition; final centred star closes the scene;
+- Scene 44 is intentionally incomplete after scan 144.
 
 ## Next 20-scan assembly iteration
 
-Process **scans 125–144 only**.
+Process **scans 145–164 only**.
 
 Expected source-span effect from the verified page map:
-- complete Scene 37 with scans **125–131**;
-- Scene 38: scans **132–133**;
-- Scene 39: scans **134–135**;
-- Scene 40: scan **136**;
-- Scene 41: scans **137–139**;
-- Scene 42: scans **140–141**;
-- Scene 43: scans **142–143**;
-- begin Scene 44 with scan **144** only and leave it draft because Scene 44 closes on scan 145.
+- complete Scene 44 with scan **145**;
+- Scene 45: scans **146–148**;
+- Scene 46: scans **149–150**;
+- Scene 47: scans **151–152**;
+- Scene 48: scan **153**;
+- Scene 49: scans **154–155**;
+- Scene 50: scans **156–157**;
+- Scene 51: scan **158**;
+- Scene 52: scan **159**;
+- Scene 53: scan **160**;
+- Scene 54: scan **161**;
+- Scene 55: scans **162–163**;
+- Scene 56: scan **164**.
 
-Do not read or assemble scan 145 in that iteration.
+This iteration should close Scene 44 and fully assemble Scenes 45–56 with no carry-forward if the verified page map remains authoritative.

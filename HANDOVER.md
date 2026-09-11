@@ -15,7 +15,7 @@ Historical-type authority:
 
 Active-work anti-loop authority: `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் PAGE LAYER CLOSED / SCENE ASSEMBLY 36 OF 61 + SCENE 37 DRAFT
+# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் PAGE LAYER CLOSED / SCENE ASSEMBLY 43 OF 61 + SCENE 44 DRAFT
 
 Active work: `works/iratha-kanneer/`.
 
@@ -40,7 +40,7 @@ Current durable state:
 - unresolved page-level source issues: **0**;
 - `needs-review`: **0**;
 - `blocked`: **0**;
-- structural / scene assembly: **IN PROGRESS — Scenes 1–36 / 61 assembly-reviewed; Scene 37 draft through scan 124; Scene Assembly Batches 01–09 PASS; cadence now 20 scans/iteration**;
+- structural / scene assembly: **IN PROGRESS — Scenes 1–43 / 61 assembly-reviewed; Scene 44 draft through scan 144; Scene Assembly Batches 01–10 PASS; cadence 20 scans/iteration**;
 - English translation: **not authorized / not started**.
 
 The conversation preview exposes only 150 images; direct raw-PDF inspection established **188 physical scans**. Never stop at preview page 150.
@@ -163,17 +163,17 @@ Batch 16 recorded one ordinary source-fidelity correction, scan 151 `மில�
 
 The page layer is **188 / 188 COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**. Do not reopen it without genuinely new source evidence.
 
-Scene Assembly Batches 01–06 are durably recorded under the user-directed **10 source scans per iteration** rule:
+Scene Assembly Batches 01–10 are durably recorded; the active assembly cadence is the user-directed **20 source scans per iteration** rule:
 
-- `scenes/01.md` through `scenes/36.md` are `assembly-reviewed`;
-- `scenes/37.md` is `draft` through scans **123–124** only;
-- assembly scans **8–124** are represented exactly once;
+- `scenes/01.md` through `scenes/43.md` are `assembly-reviewed`;
+- `scenes/44.md` is `draft` through scan **144** only;
+- assembly scans **8–144** are represented exactly once;
 - unresolved assembly discrepancies: **0**;
 - when a ten-scan boundary cuts a future scene, keep that scene as `draft` and complete it in the next iteration; do not pull in an eleventh scan.
 
-## Exact next activity — fixed 20-scan assembly iteration / scans 125–144
+## Exact next activity — fixed 20-scan assembly iteration / scans 145–164
 
-Use only verified page records **0125.md–0144.md**. Complete Scene 37 with scans 125–131, assemble Scene 38 with 132–133, Scene 39 with 134–135, Scene 40 with 136, Scene 41 with 137–139, Scene 42 with 140–141, Scene 43 with 142–143, and begin Scene 44 with scan 144 as a draft carry-forward. Do **not** include scan 145. English remains not authorized / not started.
+Use only verified page records **0145.md–0164.md**. Complete Scene 44 with scan 145, then fully assemble Scene 45 (146–148), Scene 46 (149–150), Scene 47 (151–152), Scene 48 (153), Scene 49 (154–155), Scene 50 (156–157), Scene 51 (158), Scene 52 (159), Scene 53 (160), Scene 54 (161), Scene 55 (162–163), and Scene 56 (164). English remains not authorized / not started.
 
 # CLOSED WORK SAFEGUARDS
 
@@ -182,4 +182,4 @@ Keep completed `ஒரே முத்தம்` Tamil + English, `திரு�
 
 ## Scene assembly cadence update
 
-User directive now supersedes the earlier ten-scan cadence: process exactly **20 source scans per iteration**. If the twentieth scan lands inside a scene, keep that scene as `draft` and resume it in the next 20-scan iteration; never pull scan 21 forward merely to close the scene.
+User directive supersedes the earlier ten-scan cadence: process exactly **20 source scans per iteration**. If the twentieth scan lands inside a scene, keep that scene as `draft` and resume it in the next 20-scan iteration; never pull scan 21 forward merely to close the scene.

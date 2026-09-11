@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் fixed 20-scan assembly iteration 125–144
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் fixed 20-scan assembly iteration 145–164
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/iratha-kanneer/`.
 
@@ -14,13 +14,11 @@ Fetch live `main` first and preserve newer durable state. Keep all previously cl
 - historical-glyph corrections: **37**
 - page-level unresolved / needs-review / blocked: **0 / 0 / 0**
 
-Scene assembly must use the verified page records. Do not reopen page transcription or H-GATE merely for assembly.
+Scene assembly must use only the verified page records. Do not reopen page transcription or H-GATE merely for assembly.
 
 ## Fixed assembly cadence
 
 Latest user directive: **process 20 source scans in each iteration**.
-
-This supersedes the earlier 10-scan cadence.
 
 Permanent rule:
 1. each iteration consumes exactly the next **20 source scans**;
@@ -32,37 +30,42 @@ Permanent rule:
 
 ## Durable checkpoint
 
-- Scene Assembly Batches 01–09 are durably recorded;
-- Scenes **1–36**: `assembly-reviewed`;
-- Scene **37**: `scenes/37.md` is `draft` through scans **123–124** only;
-- processed assembly scan range: **8–124**, contiguous;
-- completed reviewed-scene coverage: **8–122**, contiguous;
+- Scene Assembly Batches 01–10 are durably recorded;
+- Scenes **1–43**: `assembly-reviewed`;
+- Scene **44**: `scenes/44.md` is `draft` through scan **144** only;
+- processed assembly scan range: **8–144**, contiguous;
+- completed reviewed-scene coverage: **8–143**, contiguous;
 - duplicate processed-scan coverage: **0**;
 - omitted processed scans: **0**;
 - unresolved assembly discrepancies: **0**.
 
-Batch 09 processed exactly scans **105–124** and established the new 20-scan cadence.
+Batch 10 key handling:
+- Scene 37: 130→131 `புறப்` + `படுகின்றனர்.` → `புறப்படுகின்றனர்.`;
+- Scene 38: 132→133 `பள்ளி` + `யறைக்` → `பள்ளியறைக்`;
+- Scene 39: 134→135 sentence continuation;
+- Scene 41 preserves `கண்ணை மறைக்கும் பேய்`;
+- Scene 42 preserves scan-141 internal `★ ★ ★` as an internal transition;
+- Scene 44 contains scan 144 only and is still open.
 
-Key Batch-09 mechanical joins:
-- Scene 35: 111→112 `இப்போது,` + `சுகதேவன்...`;
-- Scene 35: 112→113 `முத்தன்` + `அடைக்கப்பட்டிருக்கிறான்.`;
-- Scene 35: 113→114 `உன்பால்` + `எனக்கு அன்பு ஏற்பட்டது.`;
-- Scene 36: 117→118 `எந்த அழகுக்` + `காகத்` → `எந்த அழகுக்காகத்`.
+## Exact next activity — scans 145–164 only
 
-## Exact next activity — scans 125–144 only
-
-Use only verified page records `0125.md` through `0144.md`.
+Use only verified page records `0145.md` through `0164.md`.
 
 Expected handling from the verified page map:
-- complete Scene 37 with scans **125–131**;
-- Scene 38: scans **132–133**;
-- Scene 39: scans **134–135**;
-- Scene 40: scan **136**;
-- Scene 41: scans **137–139**;
-- Scene 42: scans **140–141**;
-- Scene 43: scans **142–143**;
-- Scene 44: assemble scan **144** only as a `draft`; Scene 44 closes on scan 145, so **do not include scan 145**.
+- complete Scene 44 with scan **145**;
+- Scene 45: scans **146–148**;
+- Scene 46: scans **149–150**;
+- Scene 47: scans **151–152**;
+- Scene 48: scan **153**;
+- Scene 49: scans **154–155**;
+- Scene 50: scans **156–157**;
+- Scene 51: scan **158**;
+- Scene 52: scan **159**;
+- Scene 53: scan **160**;
+- Scene 54: scan **161**;
+- Scene 55: scans **162–163**;
+- Scene 56: scan **164**.
 
-Then create `SCENE_ASSEMBLY_BATCH_10_REVIEW.md`, update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt, and commit durably.
+Then create `SCENE_ASSEMBLY_BATCH_11_REVIEW.md`, update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt, and commit durably.
 
 Do not start English translation.
