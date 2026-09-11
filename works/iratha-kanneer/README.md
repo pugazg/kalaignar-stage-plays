@@ -4,7 +4,7 @@ Archive slug: `iratha-kanneer`.
 
 ## Current status
 
-**ACTIVE — PAGE LAYER COMPLETE / CLOSED; TAMIL SCENE ASSEMBLY IN PROGRESS — SCENES 1–31 / 61 ASSEMBLY-REVIEWED; NO OPEN DRAFT; FIXED 10-SCAN ITERATIONS; NEXT SCANS 105–114.**
+**ACTIVE — PAGE LAYER COMPLETE / CLOSED; TAMIL SCENE ASSEMBLY IN PROGRESS — SCENES 1–36 / 61 ASSEMBLY-REVIEWED; SCENE 37 DRAFT THROUGH SCAN 124; FIXED 20-SCAN ITERATIONS; NEXT SCANS 125–144.**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -168,15 +168,15 @@ Do not declare a final whole-work scene inventory until the page layer closes.
 - unresolved page-level source issues — **0**;
 - `needs-review` — **0**;
 - `blocked` — **0**;
-- structural / scene assembly — **IN PROGRESS — Scenes 1–31 / 61 assembly-reviewed; no open draft; Batches 01–08 PASS**;
+- structural / scene assembly — **IN PROGRESS — Scenes 1–36 / 61 assembly-reviewed; Scene 37 draft through scan 124; Batches 01–09 PASS**;
 - English translation — **not authorized / not started**.
 
 ## Tamil scene assembly checkpoint
 
 The physical page layer is **188 / 188 COMPLETE / CLOSED**. Do not reopen scans without genuinely new source evidence.
 
-Assembly authority: `SCENE_ASSEMBLY_PROGRESS.md`. Fixed cadence remains **10 source scans per iteration**. `SCENE_ASSEMBLY_BATCH_08_REVIEW.md` records scans **95–104**: Scenes 28–31 reviewed.
+Assembly authority: `SCENE_ASSEMBLY_PROGRESS.md`. Fixed cadence is now **20 source scans per iteration**. `SCENE_ASSEMBLY_BATCH_09_REVIEW.md` records scans **105–124**: Scenes 32–36 reviewed and Scene 37 carried forward as a draft.
 
-Completed reviewed scene artifacts: `scenes/01.md` through `scenes/31.md`; there is no open draft scene.
+Completed reviewed scene artifacts: `scenes/01.md` through `scenes/36.md`. `scenes/37.md` is intentionally `draft` through verified scan 124 only.
 
-Exact next assembly iteration: **scans 105–114 only** — assemble Scene 32 from 105–106, Scene 33 from 107, Scene 34 from 108–110, and begin Scene 35 with 111–114 as a draft; do not include scan 115. English remains **not authorized / not started**.
+Exact next assembly iteration: **scans 125–144 only** — complete Scene 37, assemble Scenes 38–43, then begin Scene 44 with scan 144 only; do not include scan 145. English remains **not authorized / not started**.

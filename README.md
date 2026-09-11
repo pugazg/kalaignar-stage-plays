@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **ACTIVE — page layer COMPLETE / CLOSED; Tamil scene assembly 31/61 reviewed; no open draft; fixed 10-scan iterations; next scans 105–114** |
+| [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **ACTIVE — page layer COMPLETE / CLOSED; Tamil scene assembly 36/61 reviewed + Scene 37 draft through scan 124; fixed 20-scan iterations; next scans 125–144** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
@@ -64,7 +64,7 @@ Current durable state:
 - unresolved page-level source issues: **0**;
 - `needs-review`: **0**;
 - `blocked`: **0**;
-- scene assembly: **IN PROGRESS — Scenes 1–31 / 61 assembly-reviewed; no open draft; Batches 01–08 PASS**;
+- scene assembly: **IN PROGRESS — Scenes 1–36 / 61 assembly-reviewed; Scene 37 draft through scan 124; Batches 01–09 PASS; cadence 20 scans/iteration**;
 - English translation: **not authorized / not started**.
 
 Batch authorities now run through `works/iratha-kanneer/BATCH_19_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 181–188**.
@@ -75,7 +75,7 @@ Recent historical-glyph corrections include scan 146 `இளஞரே` → `இ�
 
 Verified page evidence through scan 188 establishes Scene 59 scans **180–182**, Scene 60 scan **183**, Scene 61 scans **184–185**, scan 186 `முடிவு`, scan 187 publisher catalogue, and scan 188 back wrapper/imprint. The complete numbered scene range is now source-proven through Scene **61**.
 
-Exact next activity: **Tamil scene assembly scans 105–114 only (fixed 10-scan iteration)** using only final verified page records; do not reopen the closed page layer or start English translation.
+Exact next activity: **Tamil scene assembly scans 125–144 only (fixed 20-scan iteration)** using only final verified page records; do not reopen the closed page layer or start English translation.
 
 ## ஒரே முத்தம் — Tamil closure checkpoint
 
