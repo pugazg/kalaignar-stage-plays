@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE RECORDS 63/63 PRESENT; H-GATE 63/63 HISTORICALLY CHECKED — 38 CURRENTLY VERIFIED / 25 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 40/63, 37 PASS / 3 HOLDS, NEXT 41–45**
+Status: **PAGE RECORDS 63/63 PRESENT; H-GATE 63/63 HISTORICALLY CHECKED — 43 CURRENTLY VERIFIED / 20 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 45/63, 42 PASS / 3 HOLDS, NEXT 46–50**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -48,11 +48,11 @@ This preliminary map records physical scan identity and visually located scene o
 | 38 | Scene 9 | drama | complete | PASS | PASS | `verified` | printed p.34; source-first realigned; Santha letter begins |
 | 39 | Scene 9 | drama | complete | PASS | PASS | `verified` | printed p.35; source-first realigned; letter closes / telegram arrives |
 | 40 | Scene 9 | drama | complete | PASS | PASS | `verified` | printed p.36; source-first realigned; telegram exchange continues; no Scene 10 boundary on this physical scan |
-| 41 | Scene 10 | scene close | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.37; Scene 10 closes |
-| 42 | Scenes 11 / 12 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.38; Scene 11 closes / Scene 12 opens |
-| 43 | Scenes 12 / 13 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.39; Scene 12 closes / Scene 13 opens |
-| 44 | Scene 13 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.40 |
-| 45 | Scenes 13 / 14 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.41; Scene 13 closes / Scene 14 opens |
+| 41 | Scenes 9 / 10 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.37; source-first realigned; Scene 10 opens |
+| 42 | Scene 10 | scene close | complete | PASS | PASS | `verified` | printed numeral not source-secure/not inferred; source-first realigned; Scene 10 closes |
+| 43 | Scenes 11 / 12 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.39; source-first realigned; Scene 11 closes / Scene 12 opens |
+| 44 | Scenes 12 / 13 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.40; source-first realigned; Scene 12 closes / Scene 13 opens |
+| 45 | Scene 13 | drama | complete | PASS | PASS | `verified` | printed p.41; source-first realigned; Scene 13 continues; no Scene 14 boundary on this physical scan |
 | 46 | Scene 14 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.42; first-pass page token `48` treated as OCR noise |
 | 47 | Scenes 14 / 15 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.43; Scene 14 closes / Scene 15 opens |
 | 48 | Scene 15 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.44 |
@@ -74,6 +74,6 @@ This preliminary map records physical scan identity and visually located scene o
 
 ## Intake cautions
 
-- Page-record files exist for **all 63 physical scans**, but the fidelity pass is authoritative over earlier scene-boundary guesses. Batches 07–08 confirmed and repaired one-page drift through physical scan 40. This does **not** authorize assuming the same offset downstream: scans 41 onward must still be re-anchored individually during their fidelity batches; scan 63 remains independently source-confirmed.
+- Page-record files exist for **all 63 physical scans**, but the fidelity pass is authoritative over earlier scene-boundary guesses. Batches 07–09 confirmed and repaired one-page drift through physical scan 45. This does **not** authorize assuming the same offset downstream: scans 46 onward must still be re-anchored individually during their fidelity batches; scan 63 remains independently source-confirmed.
 - Scene assembly remains unauthorized until the page-layer H-GATE/hold state is explicitly dispositioned.
 - Scan 63 is the source-proven literary close with **முற்றும்** and printer imprint.
