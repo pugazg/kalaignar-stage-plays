@@ -15,22 +15,22 @@ The attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` rem
 - canonical page records: **63 / 63**;
 - word-by-word fidelity: **63 / 63 COMPLETE**;
 - full page-state reconciliation: **COMPLETE**;
-- verified pages: **61 / 63**;
-- terminal source-condition holds: **2 / 63** — scans **22, 35**;
+- verified pages: **62 / 63**;
+- terminal source-condition hold: **1 / 63** — scan **22**;
 - blocked pages: **0**;
 - physical-page drift: **fully repaired through scan 63**;
 - final scan 63: **final dialogue + முற்றும் + printer imprint**;
 - P0 SHA-256: **still pending / separate hold**;
 - English translation: **not started**.
 
-Terminal holds must not be guessed away:
+Terminal hold must not be guessed away:
 
-- scan 22 — two unidentified source clusters after `சாந்தா` in the `ஏகா — பாட்டு.` line;
-- scan 35 — damaged word before `சூர்ய நாராயண`, provisionally carried as `சுடகோடி`.
+- scan 22 — two unidentified source clusters after `சாந்தா` in the `ஏகா — பாட்டு.` line. The user's interpretation is that this likely marks a song being played/performed, but that is a performance hypothesis only, not a transcription of the clusters.
 
-Resolved user correction:
+Resolved user corrections:
 
-- scan 20 — **`வேணும்னாலும்`**; page is now verified and Scene 3 carries no hold.
+- scan 20 — **`வேணும்னாலும்`**; page verified;
+- scan 35 — **`சுடகோடி`**; page verified. Preserve exactly as printed even though its meaning is not established.
 
 ## Exact next activity
 

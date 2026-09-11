@@ -32,3 +32,10 @@ Status: **CHECK COMPLETE / BATCH NOT CLOSED — 0 PASS, 10 NEEDS-REVIEW**
 The reduced attached-page renders do not support source-secure replacement of these loci. Preserve all ten pages as durable `needs-review` holds and continue forward.
 
 Proceed to **Batch 05 Pass A — scans 41–50** without reopening Batch 01–04 holds unless genuinely stronger attached-source evidence becomes available.
+
+
+## Later reconciliation override
+
+This file preserves the original Batch 04 checkpoint state. Later word-by-word fidelity work resolved scans 31–34 and 36–40. The final remaining scan-35 word was subsequently confirmed directly by the user from the source as **`சுடகோடி`**.
+
+Current Batch 04 scan state: **10 / 10 H-GATE PASS / verified**.

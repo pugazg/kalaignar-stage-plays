@@ -56,7 +56,7 @@ Short rule:
 
 # Word-by-word visual text fidelity phase
 
-Status: **COMPLETE — 63/63 CHECKED; 61 PASS + 2 TERMINAL SOURCE-CONDITION HOLDS**
+Status: **COMPLETE — 63/63 CHECKED; 62 PASS + 1 TERMINAL SOURCE-CONDITION HOLD**
 
 This phase begins after canonical page coverage and H-GATE coverage. It is a fresh, exhaustive source-fidelity pass and supersedes the previously planned immediate 63-page state reconciliation.
 
@@ -107,12 +107,12 @@ The completed 63/63 fidelity layer was reconciled against all 63 canonical page 
 Final page-layer state:
 
 - verified: **60 / 63**;
-- terminal source-condition `needs-review`: **2 / 63** — scans **22, 35**;
+- terminal source-condition `needs-review`: **1 / 63** — scan **22**;
 - blocked: **0**;
 - downstream one-page drift: **fully repaired through scan 63**;
 - final closure: scan **63** contains final dialogue + `முற்றும்` + printer imprint.
 
-Scan 20 was subsequently resolved by the user's direct source reading as `வேணும்னாலும்`. The two remaining holds on scans 22 and 35 are terminal for current source evidence and must be propagated into scene assembly rather than silently corrected.
+Scan 20 was subsequently resolved as `வேணும்னாலும்` and scan 35 as `சுடகோடி` by direct user/source confirmation. The sole remaining hold on scan 22 is terminal for current source evidence and must be propagated into Scene 5 rather than silently corrected.
 
 # Tamil scene assembly phase
 
@@ -127,7 +127,7 @@ Rules:
 3. remove only mechanical physical-page breaks when joining a scene;
 4. record `source_scan_pages` in each scene file;
 5. on shared boundary pages, include only the text belonging to that scene;
-6. propagate terminal source-condition holds from scans 22 and 35 explicitly;
+6. propagate the terminal source-condition hold from scan 22 explicitly into Scene 5;
 7. do not resolve a page hold during assembly unless genuinely stronger controlling-source evidence appears;
 8. use `scenes/01.md`, `02.md`, etc.;
 9. review assembled scene text against the source page records before marking the scene assembly PASS;

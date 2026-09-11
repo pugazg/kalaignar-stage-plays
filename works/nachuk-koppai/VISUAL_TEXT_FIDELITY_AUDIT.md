@@ -16,7 +16,7 @@ Method: every visible publication-text token is compared in reading order agains
 | 04 | 16–20 | **5 PASS / COMPLETE** |
 | 05 | 21–25 | **4 PASS / 1 NEEDS-REVIEW** |
 | 06 | 26–30 | **5 PASS / COMPLETE** |
-| 07 | 31–35 | **4 PASS / 1 NEEDS-REVIEW** |
+| 07 | 31–35 | **5 PASS / COMPLETE** |
 | 08 | 36–40 | **5 PASS / COMPLETE** |
 | 09 | 41–45 | **5 PASS / COMPLETE** |
 | 10 | 46–50 | **5 PASS / COMPLETE** |
@@ -27,9 +27,9 @@ Method: every visible publication-text token is compared in reading order agains
 Current coverage: **63 / 63 scans — COMPLETE**.
 
 Current fidelity results:
-- PASS: **61** — scans **1–21, 23–34, 36–63**;
-- TERMINAL SOURCE-CONDITION HOLDS: **2** — scans **22, 35**;
-- source-proven / user-confirmed correction loci in fidelity phase: **281**.
+- PASS: **62** — scans **1–21, 23–63**;
+- TERMINAL SOURCE-CONDITION HOLD: **1** — scan **22**;
+- source-proven / user-confirmed textual correction loci in fidelity phase: **281**.
 
 ## Batch 01 summary
 
@@ -79,7 +79,7 @@ Current fidelity results:
 ## Batch 07 summary
 
 - scans 31–34 — **4 PASS**;
-- scan 35 — **NEEDS-REVIEW** at one damaged/overinked source word immediately before `சூர்ய நாராயண`; prior first-pass `சுடகோடி` is retained provisionally only;
+- scan 35 — **PASS** after the user directly confirmed the previously disputed source word before `சூர்ய நாராயண` as `சுடகோடி`; the printed form is preserved without lexical normalization;
 - all five page records 31–35 were rebuilt source-first because the earlier records were shifted one physical scan ahead;
 - Batch 07 source-proven textual correction loci: **24**;
 - structural physical-page realignments: **5**;
@@ -165,15 +165,15 @@ Reconciliation actions:
 - stale early Pass-A notes on scans **6, 8, 9 and 10** were repaired so they no longer claim H-GATE `NEEDS-REVIEW` after later PASS closure;
 - the repaired downstream page alignment is now authoritative through scan **63**;
 - scan **63** remains the source-proven combined **final dialogue + முற்றும் + printer imprint** page;
-- the remaining loci on scans **20, 22 and 35** were re-read during reconciliation; scan 20 was subsequently resolved by the user's direct source reading as `வேணும்னாலும்`;
-- scans **22 and 35** remain explicit **terminal source-condition holds for the current attached PDF**.
+- the remaining loci on scans **20, 22 and 35** were re-read during reconciliation; scan 20 was subsequently resolved as `வேணும்னாலும்` and scan 35 as `சுடகோடி` by direct user/source confirmation;
+- scan **22** remains the sole **terminal source-condition hold for the current attached PDF**.
 
 Reconciled page state:
 
-- verified / PASS: **61 / 63**;
-- terminal source-condition `needs-review`: **2 / 63** — scans **22, 35**;
+- verified / PASS: **62 / 63**;
+- terminal source-condition `needs-review`: **1 / 63** — scan **22**;
 - blocked: **0**;
 - word-by-word fidelity coverage: **63 / 63 COMPLETE**;
 - page-state reconciliation: **COMPLETE**.
 
-Scene assembly may now begin from the reconciled page layer. Scene 3 is clean after the scan 20 resolution; assembled scenes intersecting scans 22 or 35 must carry those remaining holds forward explicitly.
+Scene assembly may now begin from the reconciled page layer. Scene 3 is clean after scan 20 and Scene 9 is clean after scan 35; only Scene 5 must carry the scan 22 source-cluster hold.

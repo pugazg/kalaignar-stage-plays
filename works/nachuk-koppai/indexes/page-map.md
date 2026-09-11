@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE-STATE RECONCILIATION COMPLETE — 63/63; 61 VERIFIED / 2 TERMINAL SOURCE-CONDITION HOLDS (22, 35); SCENE ASSEMBLY NEXT**
+Status: **PAGE-STATE RECONCILIATION COMPLETE — 63/63; 62 VERIFIED / 1 TERMINAL SOURCE-CONDITION HOLD (22); SCENE ASSEMBLY NEXT**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -42,7 +42,7 @@ This preliminary map records physical scan identity and visually located scene o
 | 32 | Scene 8 | scene opener | complete | PASS | PASS | `verified` | printed p.28; source-first realigned; Scene 8 opens |
 | 33 | Scene 8 | scene close | complete | PASS | PASS | `verified` | printed numeral not visible/not inferred; source-first realigned; Scene 8 closes |
 | 34 | Scene 9 | scene opener | complete | PASS | PASS | `verified` | printed p.30; source-first realigned; Scene 9 opens |
-| 35 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.31; terminal source-condition hold: damaged word before `சூர்ய நாராயண`, provisional `சுடகோடி`; non-authorial `4062` excluded |
+| 35 | Scene 9 | drama | complete | PASS | PASS | `verified` | printed p.31; user-confirmed source reading `சுடகோடி` before `சூர்ய நாராயண`; non-authorial `4062` excluded |
 | 36 | Scene 9 | drama | complete | PASS | PASS | `verified` | printed p.32; source-first realigned; Nondi/Maniyappar dialogue; page continues from scan 35 |
 | 37 | Scene 9 | drama | complete | PASS | PASS | `verified` | printed p.33; source-first realigned; Nondi exit / Pazhani dialogue |
 | 38 | Scene 9 | drama | complete | PASS | PASS | `verified` | printed p.34; source-first realigned; Santha letter begins |
@@ -75,6 +75,6 @@ This preliminary map records physical scan identity and visually located scene o
 ## Intake cautions
 
 - Page-record files exist for **all 63 physical scans**, and the word-by-word fidelity pass is now authoritative across **63 / 63**. Batches 07–13 repaired the downstream physical-page drift and independently reconciled the final three scans.
-- Two page-level holds remain on scans **22 and 35**. Scan **20** is resolved by the user's direct source reading as **`வேணும்னாலும்`**.
+- One page-level hold remains on scan **22**. Scan **20** is resolved as **`வேணும்னாலும்`** and scan **35** as **`சுடகோடி`** by direct user/source confirmation.
 - Full page-state reconciliation is **COMPLETE**. Scene assembly may proceed only with explicit hold propagation.
 - Scan 63 is source-proven as the combined **final dialogue + முற்றும் + printer imprint** physical page.

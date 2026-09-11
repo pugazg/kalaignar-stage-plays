@@ -36,11 +36,15 @@ Disposition: **TERMINAL SOURCE-CONDITION HOLD**.
 
 ### Scan 35 — printed p.31
 
-Location: damaged / overinked word immediately before `சூர்ய நாராயண`.
+The user has directly confirmed from the controlling scan that the disputed word is:
 
-The source securely establishes the existence and position of the word, but not the full character sequence. The earlier first-pass `சுடகோடி` is retained only provisionally and is not promoted to verified source text.
+`சுடகோடி`
 
-Disposition: **TERMINAL SOURCE-CONDITION HOLD**.
+Canonical disposition:
+
+**`சுடகோடி` — RESOLVED / VERIFIED by user-confirmed source reading.**
+
+The word is preserved exactly as printed. Its lexical meaning is not inferred or normalized from context.
 
 ## 63-page metadata reconciliation
 
@@ -59,8 +63,8 @@ All 63 page files were checked for:
 
 Result:
 
-- verified: **61 / 63**;
-- terminal source-condition `needs-review`: **2 / 63** — scans **22, 35**;
+- verified: **62 / 63**;
+- terminal source-condition `needs-review`: **1 / 63** — scan **22**;
 - blocked: **0**;
 - missing page records: **0**;
 - fidelity coverage: **63 / 63**;
@@ -97,10 +101,9 @@ Shared physical pages must be split at their source-visible scene headings durin
 
 Terminal-hold propagation:
 
-- scan 22 hold belongs to **Scene 5**;
-- scan 35 hold belongs to **Scene 9**.
+- scan 22 hold belongs to **Scene 5**.
 
-Scan 20 is resolved as `வேணும்னாலும்`; **Scene 3 has no remaining page-level hold**.
+Scan 20 is resolved as `வேணும்னாலும்`; **Scene 3 has no remaining page-level hold**. Scan 35 is resolved as `சுடகோடி`; **Scene 9 has no remaining page-level hold**.
 
 ## Final-page closure
 
@@ -115,9 +118,9 @@ The non-authorial mark remains separate from literary text.
 
 ## Reconciliation result
 
-**PASS / COMPLETE FOR CURRENT SOURCE EVIDENCE, WITH 2 EXPLICIT TERMINAL SOURCE-CONDITION HOLDS.**
+**PASS / COMPLETE FOR CURRENT SOURCE EVIDENCE, WITH 1 EXPLICIT TERMINAL SOURCE-CONDITION HOLD.**
 
-The Tamil page layer is now ready for scene assembly. The two remaining holds are not permission to guess: affected scene files must carry them forward explicitly.
+The Tamil page layer is now ready for scene assembly. The one remaining hold on scan 22 is not permission to guess and must be carried into Scene 5 explicitly.
 
 P0 SHA-256 remains separately pending and was not expanded into this reconciliation.
 
@@ -135,3 +138,22 @@ Current reconciled page state:
 - fidelity PASS: **61 / 63**;
 - H-GATE PASS: **61 / 63**;
 - cumulative fidelity/user-confirmed correction loci: **281**.
+
+
+## Post-reconciliation user correction — scan 35
+
+The user directly confirmed scan 35 as **`சுடகோடி`**.
+
+This resolves the former provisional-word hold without changing the already retained canonical spelling.
+
+The user also noted that the meaning of `சுடகோடி` is unknown. The archive therefore preserves the printed form and does not substitute a contextual or Sanskritized alternative.
+
+Scan 22 remains unresolved at the character level. The user's interpretation that the two marks may indicate a song being played is recorded as a performance hypothesis only, because the marks themselves are not source-secure Unicode text.
+
+Current reconciled page state:
+
+- verified: **62 / 63**;
+- terminal source-condition holds: **1 / 63 — scan 22**;
+- fidelity PASS: **62 / 63**;
+- H-GATE PASS: **62 / 63**;
+- cumulative textual correction loci remain **281**; scan 35 is a hold-resolution without a canonical text change.

@@ -2,7 +2,7 @@
 
 Scope: physical scans **31–35**.
 
-Status: **COMPLETE — 4 PASS / 1 NEEDS-REVIEW**
+Status: **COMPLETE — 5 PASS / 0 NEEDS-REVIEW AFTER LATER USER CONFIRMATION**
 
 ## Method
 
@@ -28,7 +28,7 @@ This finding is not extrapolated past scan 35. Downstream pages must be re-ancho
 | 32 | PASS | 5 | source-first rebuild | none |
 | 33 | PASS | 3 | source-first rebuild | none |
 | 34 | PASS | 6 | source-first rebuild | none |
-| 35 | NEEDS-REVIEW | 6 | source-first rebuild | damaged word before `சூர்ய நாராயண` |
+| 35 | PASS | 6 | source-first rebuild | none — later user-confirmed `சுடகோடி` |
 
 Batch source-proven textual correction loci: **24**.
 
@@ -81,15 +81,17 @@ Source-secure repairs:
 - `உங்கர்த்திலேயே` → `உங்காத்திலேயே`;
 - `குத்ராளுக்குக்` → `சூத்ராளுக்குக்`.
 
-One source locus remains unresolved: the word immediately before `சூர்ய நாராயண` is damaged/overinked. The existing first-pass reading `சுடகோடி` is retained provisionally and is **not** treated as source-secure. No guessed alternative is inserted.
+The word immediately before `சூர்ய நாராயண` was initially retained provisionally as `சுடகோடி`. The user later directly confirmed from the source scan that it is **`சுடகோடி`**. The archival text therefore preserves that exact printed form; no contextual alternative is substituted.
 
 The visible non-authorial mark `4062` remains outside literary text.
 
-## Durable holds after Batch 07
+## Durable holds after later reconciliation
 
-- scan 20 — `வேணும்லும்`;
-- scan 22 — two adjacent unidentified source glyph clusters after `சாந்தா`;
-- scan 35 — damaged overinked word before `சூர்ய நாராயண`, provisionally `சுடகோடி`.
+- scan 22 — two adjacent unidentified source glyph clusters after `சாந்தா`.
+
+Resolved later:
+- scan 20 — user-confirmed `வேணும்னாலும்`;
+- scan 35 — user-confirmed `சுடகோடி`.
 
 ## Next
 

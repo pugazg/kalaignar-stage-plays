@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை — Historical Glyph Audit
 
-Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — CURRENT STATE 61 PASS / 2 TERMINAL SOURCE-CONDITION NEEDS-REVIEW (SCANS 22, 35)**
+Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — CURRENT STATE 62 PASS / 1 TERMINAL SOURCE-CONDITION NEEDS-REVIEW (SCAN 22)**
 
 Authority: attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` only.
 
@@ -9,9 +9,10 @@ Authority: attached `ACL-TDD_00314_நச்சுக்_கோப்பை.p
 The batch tables below preserve historical checkpoint states. The authoritative current state after the 63-page fidelity pass, page-state reconciliation, and the user's scan-20 correction is:
 
 - H-GATE checked: **63 / 63**;
-- H-GATE PASS / verified: **61 / 63**;
-- terminal source-condition needs-review: **2 / 63 — scans 22 and 35**;
-- scan 20 is resolved as **`வேணும்னாலும்`** and is verified.
+- H-GATE PASS / verified: **62 / 63**;
+- terminal source-condition needs-review: **1 / 63 — scan 22**;
+- scan 20 is resolved as **`வேணும்னாலும்`** and verified;
+- scan 35 is resolved as **`சுடகோடி`** by direct user/source confirmation and verified.
 
 
 Mandatory family set checked per applicable page:

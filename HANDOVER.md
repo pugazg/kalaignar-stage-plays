@@ -41,9 +41,9 @@ Current durable state:
 - user-supplied first-pass baseline: **ingested for scans 1–10** at `works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
 - H-GATE checked: **63 / 63 — COMPLETE**;
-- H-GATE PASS: **61 / 63**;
-- H-GATE needs-review: **2 / 63 — terminal source-condition holds on scans 22 and 35**;
-- final verified pages: **61 / 63**;
+- H-GATE PASS: **62 / 63**;
+- H-GATE needs-review: **1 / 63 — terminal source-condition hold on scan 22**;
+- final verified pages: **62 / 63**;
 - Batch 07 Pass A: **COMPLETE — scans 61–63**;
 - Batch 07 H-GATE: **CHECKED — 1 PASS / 2 needs-review; scan 63 verified**;
 - Batch 06 Pass A: **COMPLETE — scans 51–60**;
@@ -58,8 +58,8 @@ Current durable state:
 - Batch 02 H-GATE: **CHECKED — 1 PASS / 9 needs-review**;
 - visual text fidelity audit: **ACTIVE — 5 scans per iteration**;
 - fidelity coverage: **63 / 63 scans — COMPLETE**;
-- fidelity PASS: **61 — scans 1–21, 23–34, 36–63**;
-- fidelity terminal source-condition holds: **2 — scan 22 (two adjacent unidentified source clusters after `சாந்தா`) and scan 35 (damaged word before `சூர்ய நாராயண`, provisional `சுடகோடி`)**;
+- fidelity PASS: **62 — scans 1–21, 23–63**;
+- fidelity terminal source-condition hold: **1 — scan 22 (two adjacent unidentified source clusters after `சாந்தா`)**;
 - fidelity source-proven / user-confirmed correction loci: **281**;
 - Fidelity Batch 05: **COMPLETE — 4 PASS / 1 needs-review**;
 - Fidelity Batch 06: **COMPLETE — 5 PASS / 0 needs-review**;
@@ -71,7 +71,9 @@ Current durable state:
 - Fidelity Batch 12: **COMPLETE — 5 PASS / 0 needs-review; 35 textual repairs + 5 physical-page realignments**;
 - Fidelity Batch 13: **COMPLETE — 3 PASS / 0 needs-review; 10 textual repairs + 3 final physical-page/closure reconciliations**;
 - structural finding: **records 31–63 have now been rebuilt/re-anchored source-first; scan 63 is the source-proven combined final dialogue / literary close / imprint page**;
-- full page-state reconciliation: **COMPLETE — 63 / 63; 61 verified + 2 terminal source-condition holds**;
+- full page-state reconciliation: **COMPLETE — 63 / 63; 62 verified + 1 terminal source-condition hold**;
+- scan 35 user-confirmed source reading: **`சுடகோடி` — VERIFIED**;
+- scan 22 user interpretation: likely a song/performance cue, recorded as interpretation only; unidentified marks remain unresolved textually;
 - scene assembly: **not started — NEXT**;
 - English translation: **not started**.
 
