@@ -1,78 +1,74 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் Tamil scene assembly
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் Scene Assembly Batch 02
 
-Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work:
-
-`works/iratha-kanneer/`
+Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/iratha-kanneer/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
 Fetch live `main` first and preserve newer durable state. Keep all previously closed works closed.
 
-## Controlling source and closed page layer
+## Closed page layer
 
-`TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`
+The controlling source remains `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`, but ordinary scene assembly must use the already verified page records rather than re-transcribing the PDF.
 
-- first edition: **1953**
-- publisher: **திராவிடப் பண்ணை**
-- physical scans: **188**
-- SHA-256: `120428985bd327456df46b9e06271896b106332711f4c9063d4f0c7fe72b6441`
-- image-only
-- source PDF is not committed
-- raw 188-scan PDF controls even though conversation preview stops at 150
-
-Page layer is **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**:
-
-- canonical page records: **188 / 188**
-- initial visual verification: **188 / 188 PASS**
-- historical-glyph H-GATE: **188 / 188 PASS**
-- final `verified`: **188 / 188**
-- Batches 01–19: **PASS / COMPLETE**
-- Batch 19: **PASS / COMPLETE / LOCKED**
-- Batch-19 Pass-A durable commit: **`64343c46ae14791dfde44155f1543768081b6c8c`**
+- physical scans: **188 / 188**
+- canonical pages: **188 / 188**
+- initial visual verification: **PASS 188 / 188**
+- H-GATE: **PASS 188 / 188**
+- final verified pages: **188 / 188**
+- page layer: **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**
 - historical-glyph corrections: **37**
-- unresolved page-level source issues: **0**
-- `needs-review`: **0**
-- `blocked`: **0**
+- page-level unresolved / needs-review / blocked: **0 / 0 / 0**
 
-Do **not** reopen page transcription or H-GATE unless genuinely new source evidence appears.
+Do not reopen page transcription or H-GATE without genuinely new source evidence.
 
 ## Mandatory startup
 
-Read completely:
+Read:
 
 1. `STAGE_PLAY_PROCESSING_GUIDE.md`
-2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-3. `HISTORICAL_TAMIL_GLYPH_GATE.md`
-4. root `HANDOVER.md`
-5. this `NEXT_CHAT_PROMPT.md`
-6. `works/iratha-kanneer/README.md`
-7. `works/iratha-kanneer/indexes/page-map.md`
-8. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`
-9. `works/iratha-kanneer/BATCH_19_REVIEW.md`
-10. verified page records `pages/0001.md` through `pages/0188.md`
+2. root `HANDOVER.md`
+3. this `NEXT_CHAT_PROMPT.md`
+4. `works/iratha-kanneer/README.md`
+5. `works/iratha-kanneer/indexes/page-map.md`
+6. `works/iratha-kanneer/SCENE_ASSEMBLY_PROGRESS.md`
+7. `works/iratha-kanneer/SCENE_ASSEMBLY_BATCH_01_REVIEW.md`
+8. assembled `scenes/01.md` through `scenes/05.md`
+9. verified page records needed for the next batch only.
 
-## Final source-proven ending structure
+## Durable assembly checkpoint
 
-- Scene 59: scans **180–182**, closes on scan 182;
-- Scene 60: scan **183** only; internal `* * *` transition plus final centred close-star;
-- Scene 61: scans **184–185**, with physical join `மாளிகை கெளரவத்` → `தைப் பாதுகாக்கும் தாய்...`; closes on scan 185;
-- scan **186**: source-visible `முடிவு` prose, outside numbered scenes;
-- scan **187**: publisher catalogue;
-- scan **188**: back wrapper / printer imprint.
+Scene Assembly Batch 01: **PASS / COMPLETE / LOCKED**.
 
-The numbered dramatic scene range is source-proven through **Scene 61**.
+- assembled/reviewed scenes: **1–5 / 61**
+- scene files: `scenes/01.md` through `scenes/05.md`
+- source dramatic scans covered: **8–29**, exactly once
+- unresolved assembly discrepancies: **0**
 
-## Exact next eligible phase — Tamil scene assembly / page-to-scene audit
+Known mechanical joins already closed in Batch 01:
 
-Do not translate yet.
+- Scene 1: 8→9 `முகப்பிலே` + `‘அஞ்சல் மீன்’`; 10→11 `குதிரை` + `தேய்த்துக்கொண்டிருந்த`; 11→12 `பிறகு,` + `“அப்பாடா!”`;
+- Scene 2: 15→16 `ஆரம்பிக்` + `கலாம்` → `ஆரம்பிக்கலாம்`;
+- Scene 5: 26→27 `என்று அவன் சொல்லி` + `முடிப்பதற்குள்`.
 
-1. Inventory all numbered Scenes **1–61** from the verified page map and verified page records.
-2. Assemble canonical Tamil scene files strictly from verified page text; do not re-read or rewrite settled page transcription.
-3. Preserve source punctuation, speaker labels, stage directions, source-visible spellings, and every documented physical join.
-4. Preserve the distinction between internal star transitions and actual centred scene-closing stars.
-5. Run a full page-to-scene coverage audit proving every main dramatic page is represented exactly once, with no omissions or duplicate coverage.
-6. Keep front matter, scan 186 `முடிவு`, scan 187 catalogue, and scan 188 wrapper outside the numbered scene layer.
-7. Commit assembly in durable batches rather than attempting all scene files plus audit in one uncontrolled iteration.
-8. English translation remains **not authorized / not started**.
+## Exact next activity — Scene Assembly Batch 02 / Scenes 6–10
 
-The first assembly activity should determine an efficient durable batch size from the repository guide and begin with the earliest numbered scenes, without reopening the closed page layer.
+Source spans from the verified page map:
+
+- Scene 6: scan **30**
+- Scene 7: scans **31–33**
+- Scene 8: scans **34–39**
+- Scene 9: scans **40–41**
+- Scene 10: scans **42–44**
+
+Workflow:
+
+1. fetch only verified page records **0030.md–0044.md**;
+2. assemble `scenes/06.md` through `scenes/10.md`;
+3. remove only proven mechanical physical-page interruptions;
+4. preserve lexical wording, punctuation, speaker labels, stage directions, historical/source forms, heading punctuation and scene-closing stars;
+5. set each scene to `status: "assembly-reviewed"`, `assembled_from_verified_pages: true`, `page_record_fidelity: "passed"`;
+6. verify scans **30–44** are covered exactly once across Scenes 6–10;
+7. create `SCENE_ASSEMBLY_BATCH_02_REVIEW.md` and update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt;
+8. commit the batch durably before proceeding further.
+
+Do not start English translation.
