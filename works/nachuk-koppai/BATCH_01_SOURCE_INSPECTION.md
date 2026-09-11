@@ -14,6 +14,14 @@ Status: **DURABLE PARTIAL CHECKPOINT — NOT PASS A COMPLETE**
 - scan 8 structural correction established: **Scene 1 closes on scan 8 and Scene 2 opens later on the same physical scan**;
 - printed page sequence for dramatic scans 5–10 directly visible as **1–6**.
 
+## New first-pass baseline received
+
+The user supplied a transcription file for the work. Batch 01 content for scans 1–10 is now durably preserved in:
+
+`first-pass/BATCH_01_USER_TRANSCRIPTION.md`
+
+Per repository policy, this is a **comparison baseline, not controlling authority**. The attached PDF remains controlling. The next work is comparison repair, not blind import or retranscription from scratch.
+
 ## Not completed
 
 - exact SHA-256 remains pending because the runtime currently cannot execute a local-byte checksum;
@@ -27,4 +35,4 @@ Status: **DURABLE PARTIAL CHECKPOINT — NOT PASS A COMPLETE**
 
 No missing body text was reconstructed from plot knowledge, a later edition, OCR, or the unproofread Wikisource transcription.
 
-The next source-dependent pass must continue the exact same Batch 01 records rather than starting over: obtain a full-resolution direct read of scans 2–10, complete Pass A, commit it durably, then run targeted H-GATE.
+The next source-dependent pass must compare the new user-supplied first-pass baseline against the attached PDF for scans 2–10, correct only source-proven mismatches, complete Pass A, commit it durably, then run targeted H-GATE.

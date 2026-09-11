@@ -37,6 +37,7 @@ Current durable state:
 - page records created: **10 / 63**;
 - full canonical records: **1 / 63** (scan 1);
 - partial records: **9 / 63** (scans 2–10);
+- user-supplied first-pass baseline: **ingested for scans 1–10** at `works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - Batch 01 Pass A: **IN PROGRESS / NOT COMPLETE**;
 - H-GATE: **0 / 63**;
 - final verified pages: **0 / 63**;
@@ -50,12 +51,13 @@ Current durable state:
 - scans 2–10 have conservative partial records only; no uncertain body wording was guessed;
 - dramatic printed pagination: scan 5=p.1, 6=p.2, 7=p.3, 8=p.4, 9=p.5, 10=p.6;
 - structural correction: **scan 8 contains the close of Scene 1 and the opening of Scene 2**;
-- `BATCH_01_SOURCE_INSPECTION.md` records this partial checkpoint.
+- `BATCH_01_SOURCE_INSPECTION.md` records this partial checkpoint;
+- the user has now supplied a first-pass transcription, so the next step is **comparison repair**, not retranscription from scratch.
 
 ## Exact next activity
 
 1. compute SHA-256 from the exact attached bytes when checksum execution is available;
-2. re-read scans **2–10 from the attached PDF only** at full/native resolution and replace placeholders with complete source-faithful text;
+2. compare `first-pass/BATCH_01_USER_TRANSCRIPTION.md` against scans **2–10 from the attached PDF only** and replace placeholders with source-reconciled text; change the first-pass reading only where the scan unambiguously proves a mismatch;
 3. declare Batch 01 Pass A complete only when all 10 page records are canonical and ordinary visual verification passes;
 4. run targeted independent H-GATE for scans 1–10;
 5. create `BATCH_01_REVIEW.md` only if the full batch passes;

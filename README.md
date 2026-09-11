@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — P0 checksum hold; 63 scans; exact size 18,459,068 bytes; SHA-256 pending; Batch 01 scans 1–10 page records created (1 full + 9 partial); Pass A not yet complete; H-GATE pending** |
+| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — P0 checksum hold; 63 scans; exact size 18,459,068 bytes; SHA-256 pending; Batch 01 scans 1–10 page records created (1 full + 9 partial); user first-pass for scans 1–10 ingested; next: comparison repair against attached PDF; H-GATE pending** |
 | [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page layer 188/188; Tamil scenes 61/61; English 61/61 reviewed; 13/13 translation batches PASS/LOCKED; final English review PASS** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
@@ -112,10 +112,11 @@ Current intake state:
 - P0 status: **PARTIAL / NOT CLOSED**;
 - page records: **10 / 63 created — scan 1 full; scans 2–10 partial**;
 - Batch 01 Pass A: **IN PROGRESS / NOT CLOSED**;
+- user-supplied first-pass baseline: **INGESTED for scans 1–10** (`works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`);
 - H-GATE: **not started**;
 - scene assembly: **not started**;
 - English translation: **not started / not authorized as an active phase yet**.
 
 The user's contextual description (1943 origin/performance history, alternate title `சாந்தா (அ) பழனியப்பன்`, and thematic summary) is recorded separately as **user-supplied context**, not as controlling-scan text.
 
-Exact next activity: compute the remaining SHA-256 fingerprint and complete the existing **scans 2–10** partial transcriptions; then close Batch 01 Pass A and run targeted H-GATE.
+Exact next activity: compare the user-supplied Batch 01 first-pass against the **attached PDF only** for scans 2–10, repair only source-proven mismatches, close Pass A, then run targeted H-GATE. SHA-256 remains a separate P0 fingerprint hold.
