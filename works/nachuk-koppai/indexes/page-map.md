@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE RECORDS 63/63 PRESENT; H-GATE 63/63 HISTORICALLY CHECKED — 53 CURRENTLY VERIFIED / 10 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 55/63, 52 PASS / 3 HOLDS, NEXT 56–60**
+Status: **PAGE RECORDS 63/63 PRESENT; H-GATE 63/63 HISTORICALLY CHECKED — 58 CURRENTLY VERIFIED / 5 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 60/63, 57 PASS / 3 HOLDS, FINAL BATCH 61–63 NEXT**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -63,17 +63,17 @@ This preliminary map records physical scan identity and visually located scene o
 | 53 | Scene 16 | drama | complete | PASS | PASS | `verified` | printed p.49; source-first realigned; terminal `விப` continues to scan 54 |
 | 54 | Scenes 16 / 17 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.50; source-first realigned; Scene 16 closes / Scene 17 opens |
 | 55 | Scenes 17 / 18 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.51; source-first realigned; Scene 17 closes / Scene 18 opens |
-| 56 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.52; stage-direction fragment continues |
-| 57 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.53; unresolved non-Tamil glyph cluster retained |
-| 58 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.54; multilingual police dialogue |
-| 59 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.55; police/sub-inspector dialogue |
-| 60 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.56; Sivaguru speech continues to scan 61 |
+| 56 | Scene 18 | drama | complete | PASS | PASS | `verified` | printed p.52; source-first realigned; Sivaguru/Pazhani discussion continues |
+| 57 | Scene 18 | drama | complete | PASS | PASS | `verified` | printed p.53; source-first realigned; poison/letter sequence; terminal stage direction continues |
+| 58 | Scene 18 | drama | complete | PASS | PASS | `verified` | printed p.54; source-first realigned; prior non-Tamil cluster disproved; Karuppan confrontation |
+| 59 | Scene 18 | drama | complete | PASS | PASS | `verified` | printed p.55; source-first realigned; Pazhani death / police arrival; phonetic dialogue source-checked |
+| 60 | Scene 18 | drama | complete | PASS | PASS | `verified` | printed p.56; source-first realigned; police/sub-inspector dialogue; Sivaguru speech is not on this scan |
 | 61 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.57; source-sensitive forms remain |
 | 62 | Scene 18 | scene close | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.58; final dialogue; speaker/word-form holds remain |
 | 63 | Scene 18 | literary close / imprint | complete | PASS | PASS | `verified` | final scan; `முற்றும்`; printer imprint; H-GATE clean |
 
 ## Intake cautions
 
-- Page-record files exist for **all 63 physical scans**, but the fidelity pass is authoritative over earlier scene-boundary guesses. Batches 07–11 confirmed and repaired one-page drift through physical scan 55. This does **not** authorize assuming the same offset downstream: scans 56 onward must still be re-anchored individually during their fidelity batches; scan 63 remains independently source-confirmed.
+- Page-record files exist for **all 63 physical scans**, but the fidelity pass is authoritative over earlier scene-boundary guesses. Batches 07–12 confirmed and repaired one-page drift through physical scan 60. This does **not** authorize assuming the same offset for the final three scans: scans 61–63 must be re-anchored independently, especially because scan 63 was previously source-confirmed on its own.
 - Scene assembly remains unauthorized until the page-layer H-GATE/hold state is explicitly dispositioned.
 - Scan 63 is the source-proven literary close with **முற்றும்** and printer imprint.

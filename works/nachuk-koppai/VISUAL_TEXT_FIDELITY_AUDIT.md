@@ -21,15 +21,15 @@ Method: every visible publication-text token is compared in reading order agains
 | 09 | 41–45 | **5 PASS / COMPLETE** |
 | 10 | 46–50 | **5 PASS / COMPLETE** |
 | 11 | 51–55 | **5 PASS / COMPLETE** |
-| 12 | 56–60 | pending |
+| 12 | 56–60 | **5 PASS / COMPLETE** |
 | 13 | 61–63 | pending |
 
-Current coverage: **55 / 63 scans**.
+Current coverage: **60 / 63 scans**.
 
 Current fidelity results:
-- PASS: **52** — scans **1–19, 21, 23–34, 36–55**;
+- PASS: **57** — scans **1–19, 21, 23–34, 36–60**;
 - NEEDS-REVIEW: **3** — scans **20, 22, 35**;
-- source-proven correction loci in fidelity phase: **235**.
+- source-proven correction loci in fidelity phase: **270**.
 
 ## Batch 01 summary
 
@@ -127,4 +127,16 @@ Current fidelity results:
 - cumulative fidelity correction loci: **235**;
 - downstream warning remains: re-anchor each next physical scan independently; do not infer the offset.
 
-Next fidelity batch: **scans 56–60**.
+## Batch 12 summary
+
+- scans 56–60 — **5 PASS / COMPLETE**;
+- each physical page was independently re-anchored to source; all five confirmed the one-page record drift continued through scan 60;
+- Batch 12 source-proven textual correction loci: **35**;
+- structural physical-page realignments: **5**;
+- scan 57 source-proves `என் தங்கையைக் கொலை செய்து`, correcting the stale `என் தந்தையைக்...` reading;
+- scan 58 disproves the prior non-Tamil glyph cluster as a first-pass/OCR artefact;
+- scans 59–60 preserve multilingual / phonetic police dialogue directly from source pixels without normalization;
+- cumulative fidelity correction loci: **270**;
+- final fidelity batch remains **scans 61–63**; re-anchor all three independently because scan 63 was separately source-confirmed earlier and no offset may be presumed.
+
+Next fidelity batch: **scans 61–63**.
