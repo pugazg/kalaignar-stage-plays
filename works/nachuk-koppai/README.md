@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — PAGE-LAYER PASS A COMPLETE 63/63; H-GATE 60/63 CHECKED (5 VERIFIED / 55 NEEDS-REVIEW); FINAL BATCH 07 H-GATE PENDING; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — PAGE LAYER 63/63 CANONICAL + INITIAL PASS + H-GATE CHECKED; 6 VERIFIED / 57 NEEDS-REVIEW; WORK-LEVEL PAGE-STATE RECONCILIATION NEXT; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -44,10 +44,10 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - partial page records: **0 / 63 within Batch 01**;
 - user-supplied first-pass baseline: **available for scans 1–10** at `first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - initial visual verification PASS: **63 / 63 — COMPLETE**;
-- historical-glyph H-GATE checked: **60 / 63**;
-- H-GATE PASS: **5 / 63**;
-- H-GATE needs-review: **55 / 63**;
-- final verified pages: **5 / 63**;
+- historical-glyph H-GATE checked: **63 / 63 — COMPLETE**;
+- H-GATE PASS: **6 / 63**;
+- H-GATE needs-review: **57 / 63**;
+- final verified pages: **6 / 63**;
 - scene assembly: **not started**;
 - English translation: **not started**.
 
@@ -65,7 +65,8 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 
 1. compute the remaining SHA-256 fingerprint of the attached PDF when local-byte checksum execution is available;
 2. page-layer Pass A is now **COMPLETE — 63 / 63 canonical and initial PASS**;
-3. run final partial **Batch 07 H-GATE — scans 61–63**;
-4. preserve the existing Batch 01–06 hold-bearing pages without looping reduced renders;
-5. after Batch 07 H-GATE, perform a work-level page-state reconciliation before authorizing scene assembly;
-6. do not begin English translation.
+3. Batch 07 H-GATE is **CHECKED — scan 63 PASS / verified; scans 61–62 needs-review**;
+4. H-GATE coverage is now **63 / 63 COMPLETE**;
+5. perform a **full 63-page state reconciliation** before authorizing scene assembly;
+6. preserve source text exactly during reconciliation; do not loop reduced renders;
+7. do not begin English translation.

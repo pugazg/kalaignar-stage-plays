@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை — Historical Glyph Audit
 
-Status: **IN PROGRESS — BATCH 01 SCANS 1–10 CHECKED; 4 PASS / 6 NEEDS-REVIEW**
+Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — 6 PASS / 57 NEEDS-REVIEW; WORK-LEVEL RECONCILIATION PENDING**
 
 Authority: attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` only.
 
@@ -186,3 +186,27 @@ Repository-wide current totals:
 - final verified pages: **5 / 63**.
 
 Batch 06 remains **open**; no final PASS artifact exists.
+
+
+# Batch 07 — scans 61–63
+
+Status: **CHECKED — 1 PASS / 2 NEEDS-REVIEW**
+
+| Scan | Initial verification | H-GATE | Final status | Notes |
+|---:|---|---|---|---|
+| 61 | PASS | NEEDS-REVIEW | needs-review | source-sensitive word forms / punctuation |
+| 62 | PASS | NEEDS-REVIEW | needs-review | speaker / word-form / punctuation holds |
+| 63 | PASS | PASS | verified | `முற்றும்` + printer imprint source-secure |
+
+Batch 07 corrections committed: **0**.
+
+Repository-wide page-layer totals:
+
+- canonical: **63 / 63**;
+- initial verification: **63 / 63 PASS**;
+- H-GATE checked: **63 / 63**;
+- H-GATE PASS: **6 / 63**;
+- H-GATE NEEDS-REVIEW: **57 / 63**;
+- final verified pages: **6 / 63**.
+
+The page layer has now completed both Pass A and H-GATE coverage. Work-level page-state reconciliation is the next gate before scene assembly.

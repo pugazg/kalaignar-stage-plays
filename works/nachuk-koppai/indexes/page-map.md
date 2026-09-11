@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE-LAYER PASS A COMPLETE — 63 / 63 CANONICAL + INITIAL PASS; BATCH 07 H-GATE PENDING; EARLIER H-GATE HOLDS REMAIN OPEN**
+Status: **PAGE LAYER 63/63 CANONICAL + INITIAL PASS; H-GATE 63/63 CHECKED — 6 VERIFIED / 57 NEEDS-REVIEW; FULL PAGE-STATE RECONCILIATION NEXT**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -68,9 +68,9 @@ This preliminary map records physical scan identity and visually located scene o
 | 58 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.54; multilingual police dialogue |
 | 59 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.55; police/sub-inspector dialogue |
 | 60 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.56; Sivaguru speech continues to scan 61 |
-| 61 | Scene 18 | drama | complete | PASS | pending | `needs-review` | printed p.57; Sivaguru speech continues |
-| 62 | Scene 18 | scene close | complete | PASS | pending | `needs-review` | printed p.58; final Scene 18 dialogue; accession mark excluded |
-| 63 | Scene 18 | literary close / imprint | complete | PASS | pending | `needs-review` | final scan; `முற்றும்`; printer imprint |
+| 61 | Scene 18 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.57; source-sensitive forms remain |
+| 62 | Scene 18 | scene close | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.58; final dialogue; speaker/word-form holds remain |
+| 63 | Scene 18 | literary close / imprint | complete | PASS | PASS | `verified` | final scan; `முற்றும்`; printer imprint; H-GATE clean |
 
 ## Intake cautions
 

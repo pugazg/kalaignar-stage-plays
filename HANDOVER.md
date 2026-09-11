@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / PAGE-LAYER PASS A COMPLETE / BATCH 07 H-GATE NEXT
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / PAGE-LAYER H-GATE COMPLETE / RECONCILIATION NEXT
 
 Active work: `works/nachuk-koppai/`.
 
@@ -39,11 +39,12 @@ Current durable state:
 - partial records in Batch 01: **0**;
 - user-supplied first-pass baseline: **ingested for scans 1–10** at `works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
-- H-GATE checked: **60 / 63**;
-- H-GATE PASS: **5 / 63**;
-- H-GATE needs-review: **55 / 63**;
-- final verified pages: **5 / 63**;
-- Batch 07 Pass A: **COMPLETE — scans 61–63 / 3 of 3 initial verification PASS; H-GATE pending**;
+- H-GATE checked: **63 / 63 — COMPLETE**;
+- H-GATE PASS: **6 / 63**;
+- H-GATE needs-review: **57 / 63**;
+- final verified pages: **6 / 63**;
+- Batch 07 Pass A: **COMPLETE — scans 61–63**;
+- Batch 07 H-GATE: **CHECKED — 1 PASS / 2 needs-review; scan 63 verified**;
 - Batch 06 Pass A: **COMPLETE — scans 51–60**;
 - Batch 06 H-GATE: **CHECKED — 0 PASS / 10 needs-review**;
 - Batch 05 Pass A: **COMPLETE — scans 41–50**;
@@ -69,12 +70,14 @@ Current durable state:
 
 ## Exact next activity
 
-1. run independent **Batch 07 H-GATE — scans 61–63** using only the attached PDF;
-2. preserve all Batch 01–06 unresolved scans as durable holds without looping reduced renders;
-3. promote only source-secure Batch 07 pages to verified;
-4. after Batch 07 H-GATE, perform a work-level reconciliation of all 63 page states and decide whether unresolved pages should remain needs-review or receive a terminal source-condition disposition before scene assembly;
-5. SHA-256 remains a separate P0 fingerprint hold;
-6. do not begin scene assembly or English translation until that reconciliation is committed.
+1. perform a **full 63-page page-state reconciliation**;
+2. enumerate all **57** hold-bearing pages and classify each hold as genuine unresolved textual/glyph ambiguity vs source-preserved unusual-but-readable wording/formatting;
+3. do **not** change Tamil text during reconciliation;
+4. decide, under repository policy, whether each hold remains `needs-review` or receives a terminal source-condition disposition;
+5. synchronize page map, audit, README, handover and next prompt;
+6. only after reconciliation may scene assembly be considered;
+7. SHA-256 remains a separate P0 fingerprint hold;
+8. do not begin English translation.
 
 ## Closed work safeguards
 
