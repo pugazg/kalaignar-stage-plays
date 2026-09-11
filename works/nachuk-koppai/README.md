@@ -39,11 +39,11 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - P0 source intake: **PARTIAL**;
 - exact byte size: **18,459,068 bytes**;
 - SHA-256: **pending**;
-- page records created: **20 / 63**;
-- fully canonical page records: **20 / 63** (scans 1–20);
+- page records created: **30 / 63**;
+- fully canonical page records: **30 / 63** (scans 1–30);
 - partial page records: **0 / 63 within Batch 01**;
 - user-supplied first-pass baseline: **available for scans 1–10** at `first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
-- initial visual verification PASS: **20 / 63**;
+- initial visual verification PASS: **30 / 63**;
 - historical-glyph H-GATE checked: **20 / 63**;
 - H-GATE PASS: **5 / 63**;
 - H-GATE needs-review: **15 / 63**;
@@ -67,4 +67,5 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 2. Batch 01 holds remain open on scans **3, 4, 6, 8, 9, 10**;
 3. Batch 02 holds remain open on scans **11, 13, 14, 15, 16, 17, 18, 19, 20**;
 4. do not loop those reduced-image holds without stronger attached-source readability;
-5. proceed to **Batch 03 Pass A — scans 21–30** using the user first-pass baseline plus attached PDF.
+5. Batch 03 Pass A is **COMPLETE — scans 21–30**;
+6. next run **Batch 03 H-GATE for scans 21–30** using only the attached PDF.

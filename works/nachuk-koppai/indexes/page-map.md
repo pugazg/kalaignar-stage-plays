@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **BATCH 01 H-GATE OPEN (4 VERIFIED / 6 NEEDS-REVIEW); BATCH 02 H-GATE CHECKED — 1 VERIFIED / 9 NEEDS-REVIEW; BATCH 02 NOT CLOSED**
+Status: **BATCH 01 OPEN (4 VERIFIED / 6 NEEDS-REVIEW); BATCH 02 OPEN (1 VERIFIED / 9 NEEDS-REVIEW); BATCH 03 PASS A COMPLETE — SCANS 21–30 H-GATE PENDING**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -28,16 +28,16 @@ This preliminary map records physical scan identity and visually located scene o
 | 18 | Scenes 2 / 3 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | Scene 2/3 boundary; header/scene/speaker holds |
 | 19 | Scene 3 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.15; several source-sensitive labels/forms |
 | 20 | Scenes 3 / 4 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | Scene 3/4 boundary; multiple label/text holds |
-| 21 | Scene 4 | drama | pending | pending | pending | `not-started` |  |
-| 22 | Scene 5 | drama | pending | pending | pending | `not-started` | Scene 5 opener |
-| 23 | Scene 5 | drama | pending | pending | pending | `not-started` |  |
-| 24 | Scene 6 | drama | pending | pending | pending | `not-started` | Scene 6 opener |
-| 25 | Scene 7 | drama | pending | pending | pending | `not-started` | Scene 7 opener |
-| 26 | Scene 7 | drama | pending | pending | pending | `not-started` |  |
-| 27 | Scene 7 | drama | pending | pending | pending | `not-started` |  |
-| 28 | Scene 7 | drama | pending | pending | pending | `not-started` |  |
-| 29 | Scene 7 | drama | pending | pending | pending | `not-started` |  |
-| 30 | Scene 7 | drama | pending | pending | pending | `not-started` |  |
+| 21 | Scene 4 | drama | complete | PASS | pending | `needs-review` | printed p.17; Batch 03 Pass A complete |
+| 22 | Scene 5 | scene opener | complete | PASS | pending | `needs-review` | printed p.18; Scene 5 opener |
+| 23 | Scene 5 | drama | complete | PASS | pending | `needs-review` | printed p.19 |
+| 24 | Scenes 5 / 6 | shared scene-boundary page | complete | PASS | pending | `needs-review` | printed p.20; Scene 5 closes / Scene 6 opens |
+| 25 | Scenes 6 / 7 | shared scene-boundary page | complete | PASS | pending | `needs-review` | printed p.21; Scene 6 closes / Scene 7 opens |
+| 26 | Scene 7 | drama | complete | PASS | pending | `needs-review` | printed p.22; first-pass page marker `29` is OCR discrepancy |
+| 27 | Scene 7 | drama | complete | PASS | pending | `needs-review` | printed p.23 |
+| 28 | Scene 7 | drama | complete | PASS | pending | `needs-review` | printed p.24 |
+| 29 | Scene 7 | drama | complete | PASS | pending | `needs-review` | printed p.25 |
+| 30 | Scene 7 | scene close | complete | PASS | pending | `needs-review` | printed p.26; `சீன் முடிவு.` |
 | 31 | Scene 7 | drama | pending | pending | pending | `not-started` |  |
 | 32 | Scene 8 | drama | pending | pending | pending | `not-started` | Scene 8 opener |
 | 33 | Scene 8 | drama | pending | pending | pending | `not-started` |  |
