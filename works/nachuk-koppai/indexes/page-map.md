@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **BATCHES 01–04 H-GATE OPEN; BATCH 04 CHECKED — 0 VERIFIED / 10 NEEDS-REVIEW; BATCH 04 NOT CLOSED**
+Status: **BATCHES 01–04 H-GATE OPEN; BATCH 05 PASS A COMPLETE — SCANS 41–50 / H-GATE PENDING**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -48,16 +48,16 @@ This preliminary map records physical scan identity and visually located scene o
 | 38 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.34 |
 | 39 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.35 |
 | 40 | Scenes 9 / 10 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.36; Scene 10 opens; corrects preliminary intake |
-| 41 | Scene 10 | drama | pending | pending | pending | `not-started` | Scene 10 opener |
-| 42 | Scene 10 | drama | pending | pending | pending | `not-started` |  |
-| 43 | Scenes 11 / 12 | drama | pending | pending | pending | `not-started` | Scene 11 opener + Scene 12 opener later on same scan |
-| 44 | Scenes 12 / 13 | drama | pending | pending | pending | `not-started` | Scene 12 continuation + Scene 13 opener |
-| 45 | Scene 13 | drama | pending | pending | pending | `not-started` |  |
-| 46 | Scene 14 | drama | pending | pending | pending | `not-started` | Scene 14 opener |
-| 47 | Scene 14 | drama | pending | pending | pending | `not-started` |  |
-| 48 | Scene 14 | drama | pending | pending | pending | `not-started` |  |
-| 49 | Scene 15 | drama | pending | pending | pending | `not-started` | Scene 15 opener |
-| 50 | Scenes 15 / 16 | drama | pending | pending | pending | `not-started` | Scene 15 continuation + Scene 16 opener |
+| 41 | Scene 10 | scene close | complete | PASS | pending | `needs-review` | printed p.37; Scene 10 closes |
+| 42 | Scenes 11 / 12 | shared scene-boundary page | complete | PASS | pending | `needs-review` | printed p.38; Scene 11 closes / Scene 12 opens |
+| 43 | Scenes 12 / 13 | shared scene-boundary page | complete | PASS | pending | `needs-review` | printed p.39; Scene 12 closes / Scene 13 opens |
+| 44 | Scene 13 | drama | complete | PASS | pending | `needs-review` | printed p.40 |
+| 45 | Scenes 13 / 14 | shared scene-boundary page | complete | PASS | pending | `needs-review` | printed p.41; Scene 13 closes / Scene 14 opens |
+| 46 | Scene 14 | drama | complete | PASS | pending | `needs-review` | printed p.42; first-pass page token `48` treated as OCR noise |
+| 47 | Scenes 14 / 15 | shared scene-boundary page | complete | PASS | pending | `needs-review` | printed p.43; Scene 14 closes / Scene 15 opens |
+| 48 | Scene 15 | drama | complete | PASS | pending | `needs-review` | printed p.44 |
+| 49 | Scenes 15 / 16 | shared scene-boundary page | complete | PASS | pending | `needs-review` | printed p.45; Scene 15 closes / Scene 16 opens |
+| 50 | Scene 16 | drama | complete | PASS | pending | `needs-review` | printed p.46; Scene 16 continues |
 | 51 | Scene 16 | drama | pending | pending | pending | `not-started` |  |
 | 52 | Scene 16 | drama | pending | pending | pending | `not-started` |  |
 | 53 | Scene 16 | drama | pending | pending | pending | `not-started` |  |
