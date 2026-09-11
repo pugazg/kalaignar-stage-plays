@@ -39,11 +39,11 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - P0 source intake: **PARTIAL**;
 - exact byte size: **18,459,068 bytes**;
 - SHA-256: **pending**;
-- page records created: **10 / 63**;
-- fully canonical page records: **10 / 63** (scans 1–10);
+- page records created: **20 / 63**;
+- fully canonical page records: **20 / 63** (scans 1–20);
 - partial page records: **0 / 63 within Batch 01**;
 - user-supplied first-pass baseline: **available for scans 1–10** at `first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
-- initial visual verification PASS: **10 / 63**;
+- initial visual verification PASS: **20 / 63**;
 - historical-glyph H-GATE checked: **10 / 63**;
 - H-GATE PASS: **4 / 63**;
 - H-GATE needs-review: **6 / 63**;
@@ -64,6 +64,6 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 ## Next activity
 
 1. compute the remaining SHA-256 fingerprint of the attached PDF when local-byte checksum execution is available;
-2. adjudicate the remaining Batch 01 hold-bearing scans **3, 4, 6, 8, 9, 10** against the attached PDF only;
-3. change a retained first-pass reading only where the source pixels unambiguously prove it;
-4. create BATCH_01_REVIEW.md only after all six holds resolve and all 10 scans pass.
+2. Batch 01 holds remain formally open on scans **3, 4, 6, 8, 9, 10**; do not loop over them without better source readability;
+3. run **Batch 02 H-GATE for scans 11–20** using only the attached PDF;
+4. retain any unresolved Batch 02 locus as needs-review rather than guessing.

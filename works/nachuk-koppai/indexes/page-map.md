@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **BATCH 01 H-GATE CHECKED — SCANS 1–10; 4 PASS / VERIFIED, 6 NEEDS-REVIEW; BATCH NOT CLOSED**
+Status: **BATCH 01 H-GATE OPEN (4 VERIFIED / 6 NEEDS-REVIEW); BATCH 02 PASS A COMPLETE — SCANS 11–20 INITIAL VERIFIED / H-GATE PENDING**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -18,16 +18,16 @@ This preliminary map records physical scan identity and visually located scene o
 | 8 | Scenes 1 / 2 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.4; `சாந்தர்` / unlabelled invocation unresolved |
 | 9 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | several first-pass/source-sensitive phrases unresolved |
 | 10 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.6; `மூக் ஞக் கண்ணாடி` unresolved |
-| 11 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
-| 12 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
-| 13 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
-| 14 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
-| 15 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
-| 16 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
-| 17 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
-| 18 | Scene 3 | drama | pending | pending | pending | `not-started` | Scene 3 opener |
-| 19 | Scene 3 | drama | pending | pending | pending | `not-started` |  |
-| 20 | Scene 4 | drama | pending | pending | pending | `not-started` | Scene 4 opener |
+| 11 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.7; Batch 02 Pass A complete |
+| 12 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.8; Batch 02 Pass A complete |
+| 13 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.9; Batch 02 Pass A complete |
+| 14 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.10; Batch 02 Pass A complete |
+| 15 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.11; Batch 02 Pass A complete |
+| 16 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.12; Batch 02 Pass A complete |
+| 17 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.13; Batch 02 Pass A complete |
+| 18 | Scenes 2 / 3 | shared scene-boundary page | complete | PASS | pending | `needs-review` | Scene 2 closes / Scene 3 opens; Batch 02 Pass A complete |
+| 19 | Scene 3 | drama | complete | PASS | pending | `needs-review` | printed p.15; Batch 02 Pass A complete |
+| 20 | Scenes 3 / 4 | shared scene-boundary page | complete | PASS | pending | `needs-review` | Scene 3 closes / Scene 4 opens; Batch 02 Pass A complete |
 | 21 | Scene 4 | drama | pending | pending | pending | `not-started` |  |
 | 22 | Scene 5 | drama | pending | pending | pending | `not-started` | Scene 5 opener |
 | 23 | Scene 5 | drama | pending | pending | pending | `not-started` |  |
