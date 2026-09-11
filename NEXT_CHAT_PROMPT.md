@@ -1,4 +1,4 @@
-# Next Chat Prompt — நச்சுக்கோப்பை Tamil scene assembly / Scenes 1–5
+# Next Chat Prompt — நச்சுக்கோப்பை Tamil scene assembly / Scenes 6–10
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/nachuk-koppai/`.
 
@@ -6,59 +6,46 @@ Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work 
 
 Fetch live `main` first and preserve newer durable work.
 
-## Controlling authority
+## Durable state
 
-The attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` remains the controlling source, but routine scene assembly must assemble from the now-reconciled canonical page records rather than retranscribing the PDF from scratch.
-
-## Durable page-layer state
-
-- canonical page records: **63 / 63**;
-- word-by-word fidelity: **63 / 63 COMPLETE**;
-- full page-state reconciliation: **COMPLETE**;
+- canonical page layer: **63 / 63 reconciled**;
 - verified pages: **62 / 63**;
-- terminal source-condition hold: **1 / 63** — scan **22**;
-- blocked pages: **0**;
-- physical-page drift: **fully repaired through scan 63**;
-- final scan 63: **final dialogue + முற்றும் + printer imprint**;
-- P0 SHA-256: **still pending / separate hold**;
-- English translation: **not started**.
-
-Terminal hold must not be guessed away:
-
-- scan 22 — two unidentified source clusters after `சாந்தா` in the `ஏகா — பாட்டு.` line. The user's interpretation is that this likely marks a song being played/performed, but that is a performance hypothesis only, not a transcription of the clusters.
-
-Resolved user corrections:
-
-- scan 20 — **`வேணும்னாலும்`**; page verified;
-- scan 35 — **`சுடகோடி`**; page verified. Preserve exactly as printed even though its meaning is not established.
+- sole terminal page-layer hold: **scan 22**;
+- Tamil scene assembly: **5 / 18 COMPLETE / REVIEWED**;
+- Scenes **1–4** — assembly-reviewed / clean;
+- Scene **5** — assembly-reviewed with inherited scan-22 source-cluster hold;
+- scan 20 — user-confirmed `வேணும்னாலும்`;
+- scan 35 — user-confirmed `சுடகோடி`;
+- English translation: **not started / blocked until Tamil scene assembly review completes**;
+- P0 SHA-256: **pending / separate hold**.
 
 ## Exact next activity
 
-Assemble **Scenes 1–5** into:
+Assemble **Scenes 6–10** into:
 
-- `works/nachuk-koppai/scenes/01.md`
-- `works/nachuk-koppai/scenes/02.md`
-- `works/nachuk-koppai/scenes/03.md`
-- `works/nachuk-koppai/scenes/04.md`
-- `works/nachuk-koppai/scenes/05.md`
+- `works/nachuk-koppai/scenes/06.md`
+- `works/nachuk-koppai/scenes/07.md`
+- `works/nachuk-koppai/scenes/08.md`
+- `works/nachuk-koppai/scenes/09.md`
+- `works/nachuk-koppai/scenes/10.md`
 
 Source scan spans:
 
-- Scene 1 — scans **5–8**;
-- Scene 2 — scans **8–18**;
-- Scene 3 — scans **18–20**;
-- Scene 4 — scans **20–21**;
-- Scene 5 — scans **22–24**.
+- Scene 6 — scans **24–25**;
+- Scene 7 — scans **25–31**;
+- Scene 8 — scans **32–33**;
+- Scene 9 — scans **34–41**;
+- Scene 10 — scans **41–42**.
 
 Assembly rules:
 
-1. assemble only from canonical page records;
-2. on shared boundary pages, take only the text belonging to the target scene;
-3. remove mechanical page breaks only; do not alter wording, punctuation, labels or stage directions;
-4. include `source_scan_pages` provenance in scene front matter;
-5. propagate the scan 22 terminal hold into **Scene 5**; Scene 3 is clean after scan 20 was resolved as `வேணும்னாலும்`;
-6. do not use OCR, TDL, Wikisource, another edition, grammar or context to repair source wording;
-7. review all five assembled scenes against the page records;
-8. write a durable assembly-review checkpoint, update README/page-map/HANDOVER/NEXT_CHAT_PROMPT, and commit atomically.
+1. assemble only from reconciled canonical page records;
+2. on shared boundary pages, include only text belonging to the target scene;
+3. remove only mechanical physical-page breaks;
+4. preserve wording, punctuation, speaker labels, stage directions and unusual source forms;
+5. running headers and non-authorial marks do not enter scene text;
+6. this batch has **no unresolved page-layer hold**; preserve scan 35 exactly as `சுடகோடி`;
+7. review all five scenes against their page records;
+8. write `SCENE_ASSEMBLY_BATCH_02.md`, update controls, and commit atomically.
 
 Do not start English translation in this iteration.

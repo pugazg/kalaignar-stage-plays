@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE-STATE RECONCILIATION COMPLETE — 63/63; 62 VERIFIED / 1 TERMINAL SOURCE-CONDITION HOLD (22); SCENE ASSEMBLY NEXT**
+Status: **PAGE-STATE RECONCILIATION COMPLETE — 63/63; SCENE ASSEMBLY 5/18 REVIEWED; SCENES 6–10 NEXT; ONLY SCAN-22 HOLD REMAINS**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -78,3 +78,15 @@ This preliminary map records physical scan identity and visually located scene o
 - One page-level hold remains on scan **22**. Scan **20** is resolved as **`வேணும்னாலும்`** and scan **35** as **`சுடகோடி`** by direct user/source confirmation.
 - Full page-state reconciliation is **COMPLETE**. Scene assembly may proceed only with explicit hold propagation.
 - Scan 63 is source-proven as the combined **final dialogue + முற்றும் + printer imprint** physical page.
+
+
+## Scene assembly progress
+
+- Batch 01 — **Scenes 1–5 COMPLETE / REVIEWED**;
+- Scene 1 — scans 5–8;
+- Scene 2 — scans 8–18;
+- Scene 3 — scans 18–20;
+- Scene 4 — scans 20–21;
+- Scene 5 — scans 22–24, **assembly-reviewed with inherited scan-22 source hold**;
+- shared boundaries were split at source-visible scene headings;
+- next: **Scenes 6–10**.

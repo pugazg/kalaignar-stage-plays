@@ -116,7 +116,7 @@ Scan 20 was subsequently resolved as `வேணும்னாலும்` and 
 
 # Tamil scene assembly phase
 
-Status: **NEXT**
+Status: **IN PROGRESS — 5 / 18 SCENES ASSEMBLED / REVIEWED**
 
 Assembly authority is the reconciled page layer, not OCR or a new retranscription.
 
@@ -133,4 +133,6 @@ Rules:
 9. review assembled scene text against the source page records before marking the scene assembly PASS;
 10. English translation remains a later phase.
 
-First assembly batch: **Scenes 1–5**.
+Assembly Batch 01: **Scenes 1–5 COMPLETE / REVIEWED**.
+
+Next assembly batch: **Scenes 6–10**.

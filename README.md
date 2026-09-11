@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — Tamil page layer reconciled 63/63; 62 verified + 1 terminal source-condition hold; scene assembly next; P0 SHA-256 hold remains** |
+| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — Tamil page layer reconciled 63/63; scene assembly 5/18 reviewed; Scene 5 carries sole scan-22 hold; Scenes 6–10 next; P0 SHA-256 hold remains** |
 | [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page layer 188/188; Tamil scenes 61/61; English 61/61 reviewed; 13/13 translation batches PASS/LOCKED; final English review PASS** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
@@ -116,9 +116,9 @@ Current intake state:
 - H-GATE: **63 / 63 checked — 62 PASS / 1 terminal source-condition needs-review**;
 - word-by-word visual fidelity: **63 / 63 COMPLETE — 62 PASS / 1 terminal hold**;
 - full page-state reconciliation: **COMPLETE — 63 / 63**;
-- scene assembly: **not started — NEXT**;
+- scene assembly: **5 / 18 reviewed — Scenes 1–5 complete; Scene 5 carries the inherited scan-22 hold**;
 - English translation: **not started / not authorized as an active phase yet**.
 
 The user's contextual description (1943 origin/performance history, alternate title `சாந்தா (அ) பழனியப்பன்`, and thematic summary) is recorded separately as **user-supplied context**, not as controlling-scan text.
 
-Exact next activity: begin **Tamil scene assembly, Scenes 1–5**, from the reconciled canonical page layer. The sole terminal source-condition hold is scan **22** and must be propagated into Scene 5. Scan 20 is resolved as **`வேணும்னாலும்`** and scan 35 as **`சுடகோடி`**. SHA-256 remains a separate P0 fingerprint hold.
+Exact next activity: continue **Tamil scene assembly with Scenes 6–10** from the reconciled canonical page layer. This batch has no unresolved page hold; scan 35 remains verified as **`சுடகோடி`**. SHA-256 remains a separate P0 fingerprint hold.

@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / PAGE-STATE RECONCILIATION COMPLETE / SCENE ASSEMBLY NEXT
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / SCENE ASSEMBLY BATCH 01 COMPLETE / SCENES 6–10 NEXT
 
 Active work: `works/nachuk-koppai/`.
 
@@ -74,7 +74,7 @@ Current durable state:
 - full page-state reconciliation: **COMPLETE — 63 / 63; 62 verified + 1 terminal source-condition hold**;
 - scan 35 user-confirmed source reading: **`சுடகோடி` — VERIFIED**;
 - scan 22 user interpretation: likely a song/performance cue, recorded as interpretation only; unidentified marks remain unresolved textually;
-- scene assembly: **not started — NEXT**;
+- scene assembly: **5 / 18 assembled / reviewed — Scenes 1–5 COMPLETE; Scene 5 carries inherited scan-22 hold**;
 - English translation: **not started**.
 
 ## Batch 01 durable findings
@@ -89,13 +89,18 @@ Current durable state:
 
 ## Exact next activity
 
-1. begin **Tamil scene assembly** from the reconciled page layer;
-2. first batch: **Scenes 1–5**;
-3. create `works/nachuk-koppai/scenes/01.md` through `05.md`;
-4. source spans: Scene 1 scans **5–8**; Scene 2 **8–18**; Scene 3 **18–20**; Scene 4 **20–21**; Scene 5 **22–24**;
-5. split shared boundary pages at the source-visible scene headings and do not duplicate unrelated text;
-6. propagate terminal holds: scan 22 unresolved clusters belong to Scene 5; scan 20 is resolved as `வேணும்னாலும்`, so Scene 3 has no hold;
-7. compare assembled scenes against their canonical page records, write a durable assembly-review checkpoint, synchronize controls, and commit atomically;
+1. continue **Tamil scene assembly** from the reconciled page layer;
+2. next batch: **Scenes 6–10**;
+3. create `works/nachuk-koppai/scenes/06.md` through `10.md`;
+4. source spans:
+   - Scene 6 — scans **24–25**;
+   - Scene 7 — scans **25–31**;
+   - Scene 8 — scans **32–33**;
+   - Scene 9 — scans **34–41**;
+   - Scene 10 — scans **41–42**;
+5. split shared physical pages only at source-visible scene headings;
+6. no unresolved page-layer hold occurs in this batch; scan 35 is verified as `சுடகோடி`;
+7. compare all five assembled scenes against their canonical page records, write Assembly Batch 02 review, synchronize controls, and commit atomically;
 8. do not start English translation.
 
 ## Closed work safeguards
