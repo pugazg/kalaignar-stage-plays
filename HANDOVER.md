@@ -15,7 +15,7 @@ Historical-type authority:
 
 Active-work anti-loop authority: `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் PAGE LAYER CLOSED / SCENE ASSEMBLY 5 OF 61
+# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் PAGE LAYER CLOSED / SCENE ASSEMBLY 10 OF 61
 
 Active work: `works/iratha-kanneer/`.
 
@@ -40,7 +40,7 @@ Current durable state:
 - unresolved page-level source issues: **0**;
 - `needs-review`: **0**;
 - `blocked`: **0**;
-- structural / scene assembly: **IN PROGRESS — Scenes 1–5 / 61 assembly-reviewed; Scene Assembly Batch 01 PASS**;
+- structural / scene assembly: **IN PROGRESS — Scenes 1–10 / 61 assembly-reviewed; Scene Assembly Batches 01–02 PASS**;
 - English translation: **not authorized / not started**.
 
 The conversation preview exposes only 150 images; direct raw-PDF inspection established **188 physical scans**. Never stop at preview page 150.
@@ -163,16 +163,16 @@ Batch 16 recorded one ordinary source-fidelity correction, scan 151 `மில�
 
 The page layer is **188 / 188 COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**. Do not reopen it without genuinely new source evidence.
 
-Scene Assembly Batch 01 is **PASS / COMPLETE / LOCKED**:
+Scene Assembly Batches 01–02 are **PASS / COMPLETE / LOCKED**:
 
-- `scenes/01.md` through `scenes/05.md` are `assembly-reviewed`;
-- source scans **8–29** are covered exactly once by these scene artifacts;
+- `scenes/01.md` through `scenes/10.md` are `assembly-reviewed`;
+- source scans **8–44** are covered exactly once by these scene artifacts;
 - unresolved assembly discrepancies: **0**;
-- durable authorities: `SCENE_ASSEMBLY_PROGRESS.md` and `SCENE_ASSEMBLY_BATCH_01_REVIEW.md`.
+- durable authorities: `SCENE_ASSEMBLY_PROGRESS.md`, `SCENE_ASSEMBLY_BATCH_01_REVIEW.md`, and `SCENE_ASSEMBLY_BATCH_02_REVIEW.md`.
 
-## Exact next activity — Scene Assembly Batch 02 / Scenes 6–10
+## Exact next activity — Scene Assembly Batch 03 / Scenes 11–15
 
-Assemble Scenes **6–10** from verified source scans **30–44**. Do not re-read the PDF or reopen the closed page layer merely for assembly. Collapse only page-record-proven mechanical joins, preserve source scene-heading forms and closing stars, then update the assembly progress/review controls. English remains not authorized / not started.
+Assemble Scenes **11–15** from verified source scans **45–57**. Do not re-read the PDF or reopen the closed page layer merely for assembly. Collapse only page-record-proven mechanical joins, preserve source scene-heading forms and closing stars, then update the assembly progress/review controls. English remains not authorized / not started.
 
 # CLOSED WORK SAFEGUARDS
 

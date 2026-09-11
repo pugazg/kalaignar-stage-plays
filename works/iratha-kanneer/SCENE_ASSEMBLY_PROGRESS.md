@@ -1,6 +1,6 @@
 # இரத்தக் கண்ணீர் — Scene assembly progress
 
-Status: **IN PROGRESS — Scenes 1–5 / 61 ASSEMBLY-REVIEWED; Batch 01 PASS**
+Status: **IN PROGRESS — Scenes 1–10 / 61 ASSEMBLY-REVIEWED; Batches 01–02 PASS**
 
 Page-layer authority: **188 / 188 final verified / CLOSED FOR CURRENT SOURCE EVIDENCE**.
 
@@ -20,16 +20,23 @@ Page-layer authority: **188 / 188 final verified / CLOSED FOR CURRENT SOURCE EVI
 | Batch | Scenes | Source scans | Status | Review |
 |---|---:|---:|---|---|
 | 01 | 1–5 | 8–29 | **PASS / COMPLETE / LOCKED** | `SCENE_ASSEMBLY_BATCH_01_REVIEW.md` |
+| 02 | 6–10 | 30–44 | **PASS / COMPLETE / LOCKED** | `SCENE_ASSEMBLY_BATCH_02_REVIEW.md` |
 
 ## Current coverage
 
 - numbered scenes expected: **61**;
-- scene artifacts assembled/reviewed: **5 / 61**;
-- source dramatic scans covered by completed scene artifacts: **8–29**, contiguous;
-- duplicate dramatic-page coverage within completed batch: **0**;
-- omitted dramatic pages within completed batch: **0**;
+- scene artifacts assembled/reviewed: **10 / 61**;
+- source dramatic scans covered by completed scene artifacts: **8–44**, contiguous;
+- duplicate dramatic-page coverage within completed batches: **0**;
+- omitted dramatic pages within completed batches: **0**;
 - unresolved assembly discrepancies: **0**.
+
+## Batch 02 mechanical joins
+
+- Scene 8: scan 37→38 `அக்கரை எடுத்துக்` / `கொண்டிருக்கிறான்` joined into one sentence;
+- Scene 9: scan 40→41 `சேர்க்` / `கும்` → `சேர்க்கும்`;
+- Scene 10: scan 42→43 `அடித்` / `தாய்` → `அடித்தாய்`.
 
 ## Next assembly batch
 
-Assemble and review **Scenes 6–10**, source scans **30–44**, from the already verified page records. Do not re-read the PDF or reopen page-level verification merely for assembly.
+Assemble and review **Scenes 11–15**, source scans **45–57**, from the already verified page records. Do not re-read the PDF or reopen page-level verification merely for assembly.

@@ -4,7 +4,7 @@ Archive slug: `iratha-kanneer`.
 
 ## Current status
 
-**ACTIVE — PAGE LAYER COMPLETE / CLOSED; TAMIL SCENE ASSEMBLY IN PROGRESS — SCENES 1–5 / 61 ASSEMBLY-REVIEWED; SCENE ASSEMBLY BATCH 01 PASS; NEXT SCENES 6–10.**
+**ACTIVE — PAGE LAYER COMPLETE / CLOSED; TAMIL SCENE ASSEMBLY IN PROGRESS — SCENES 1–10 / 61 ASSEMBLY-REVIEWED; SCENE ASSEMBLY BATCHES 01–02 PASS; NEXT SCENES 11–15.**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -168,15 +168,15 @@ Do not declare a final whole-work scene inventory until the page layer closes.
 - unresolved page-level source issues — **0**;
 - `needs-review` — **0**;
 - `blocked` — **0**;
-- structural / scene assembly — **IN PROGRESS — Scenes 1–5 / 61 assembly-reviewed; Batch 01 PASS**;
+- structural / scene assembly — **IN PROGRESS — Scenes 1–10 / 61 assembly-reviewed; Batches 01–02 PASS**;
 - English translation — **not authorized / not started**.
 
 ## Tamil scene assembly checkpoint
 
 The physical page layer is **188 / 188 COMPLETE / CLOSED**. Do not reopen scans without genuinely new source evidence.
 
-Assembly authority: `SCENE_ASSEMBLY_PROGRESS.md`. Batch 01 review: `SCENE_ASSEMBLY_BATCH_01_REVIEW.md` — **PASS / Scenes 1–5 / scans 8–29**.
+Assembly authority: `SCENE_ASSEMBLY_PROGRESS.md`. Batch reviews: `SCENE_ASSEMBLY_BATCH_01_REVIEW.md` — **PASS / Scenes 1–5 / scans 8–29**; `SCENE_ASSEMBLY_BATCH_02_REVIEW.md` — **PASS / Scenes 6–10 / scans 30–44**.
 
-Completed scene artifacts: `scenes/01.md` through `scenes/05.md`, all `assembly-reviewed` with `assembled_from_verified_pages: true` and page-record fidelity PASS.
+Completed scene artifacts: `scenes/01.md` through `scenes/10.md`, all `assembly-reviewed` with `assembled_from_verified_pages: true` and page-record fidelity PASS.
 
-Exact next assembly batch: **Scenes 6–10 / scans 30–44**. Assemble only from verified page records; collapse only proven mechanical page joins; then update `SCENE_ASSEMBLY_PROGRESS.md` and create the next batch review. English remains **not authorized / not started**.
+Exact next assembly batch: **Scenes 11–15 / scans 45–57**. Assemble only from verified page records; collapse only proven mechanical page joins; then update `SCENE_ASSEMBLY_PROGRESS.md` and create the next batch review. English remains **not authorized / not started**.

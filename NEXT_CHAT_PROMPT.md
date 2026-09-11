@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் Scene Assembly Batch 02
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் Scene Assembly Batch 03
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/iratha-kanneer/`.
 
@@ -32,43 +32,44 @@ Read:
 5. `works/iratha-kanneer/indexes/page-map.md`
 6. `works/iratha-kanneer/SCENE_ASSEMBLY_PROGRESS.md`
 7. `works/iratha-kanneer/SCENE_ASSEMBLY_BATCH_01_REVIEW.md`
-8. assembled `scenes/01.md` through `scenes/05.md`
-9. verified page records needed for the next batch only.
+8. `works/iratha-kanneer/SCENE_ASSEMBLY_BATCH_02_REVIEW.md`
+9. assembled `scenes/01.md` through `scenes/10.md`
+10. verified page records needed for the next batch only.
 
 ## Durable assembly checkpoint
 
-Scene Assembly Batch 01: **PASS / COMPLETE / LOCKED**.
+Scene Assembly Batches 01–02: **PASS / COMPLETE / LOCKED**.
 
-- assembled/reviewed scenes: **1–5 / 61**
-- scene files: `scenes/01.md` through `scenes/05.md`
-- source dramatic scans covered: **8–29**, exactly once
+- assembled/reviewed scenes: **1–10 / 61**
+- scene files: `scenes/01.md` through `scenes/10.md`
+- source dramatic scans covered: **8–44**, exactly once
 - unresolved assembly discrepancies: **0**
 
-Known mechanical joins already closed in Batch 01:
+Batch 02 mechanical joins:
 
-- Scene 1: 8→9 `முகப்பிலே` + `‘அஞ்சல் மீன்’`; 10→11 `குதிரை` + `தேய்த்துக்கொண்டிருந்த`; 11→12 `பிறகு,` + `“அப்பாடா!”`;
-- Scene 2: 15→16 `ஆரம்பிக்` + `கலாம்` → `ஆரம்பிக்கலாம்`;
-- Scene 5: 26→27 `என்று அவன் சொல்லி` + `முடிப்பதற்குள்`.
+- Scene 8: scan 37→38 `அக்கரை எடுத்துக்` / `கொண்டிருக்கிறான்`;
+- Scene 9: scan 40→41 `சேர்க்` / `கும்` → `சேர்க்கும்`;
+- Scene 10: scan 42→43 `அடித்` / `தாய்` → `அடித்தாய்`.
 
-## Exact next activity — Scene Assembly Batch 02 / Scenes 6–10
+## Exact next activity — Scene Assembly Batch 03 / Scenes 11–15
 
 Source spans from the verified page map:
 
-- Scene 6: scan **30**
-- Scene 7: scans **31–33**
-- Scene 8: scans **34–39**
-- Scene 9: scans **40–41**
-- Scene 10: scans **42–44**
+- Scene 11: scans **45–46**
+- Scene 12: scans **47–49**
+- Scene 13: scans **50–51**
+- Scene 14: scans **52–53**
+- Scene 15: scans **54–57**
 
 Workflow:
 
-1. fetch only verified page records **0030.md–0044.md**;
-2. assemble `scenes/06.md` through `scenes/10.md`;
+1. fetch only verified page records **0045.md–0057.md**;
+2. assemble `scenes/11.md` through `scenes/15.md`;
 3. remove only proven mechanical physical-page interruptions;
 4. preserve lexical wording, punctuation, speaker labels, stage directions, historical/source forms, heading punctuation and scene-closing stars;
 5. set each scene to `status: "assembly-reviewed"`, `assembled_from_verified_pages: true`, `page_record_fidelity: "passed"`;
-6. verify scans **30–44** are covered exactly once across Scenes 6–10;
-7. create `SCENE_ASSEMBLY_BATCH_02_REVIEW.md` and update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt;
+6. verify scans **45–57** are covered exactly once across Scenes 11–15;
+7. create `SCENE_ASSEMBLY_BATCH_03_REVIEW.md` and update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt;
 8. commit the batch durably before proceeding further.
 
 Do not start English translation.
