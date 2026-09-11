@@ -41,7 +41,7 @@ Current durable state:
 - `needs-review`: **0**;
 - `blocked`: **0**;
 - structural / scene assembly: **COMPLETE / CLOSED — Scenes 1–61 / 61 assembly-reviewed; Scene Assembly Batches 01–11 PASS; final consistency review PASS**;
-- English translation: **IN PROGRESS — 35 / 61 scenes reviewed; Batches 1–7 PASS / LOCKED**.
+- English translation: **IN PROGRESS — 50 / 61 scenes reviewed; Batches 1–10 PASS / LOCKED**.
 
 The conversation preview exposes only 150 images; direct raw-PDF inspection established **188 physical scans**. Never stop at preview page 150.
 
@@ -181,7 +181,7 @@ Scene Assembly Batches 01–11 are durably recorded. The final user direction to
 - dramatic scan coverage: **8–185 exactly once**;
 - unresolved assembly discrepancies: **0**.
 
-No further Tamil page-layer or scene-assembly work remains unless genuinely new source evidence reopens the verified layer. English translation is now **AUTHORIZED / IN PROGRESS** from the closed Tamil scene layer: Scenes **1–35 / 61** are reviewed and Batches **1–7** are **PASS / LOCKED**; user cadence is **15 scenes per iteration**; exact next iteration is Scenes **36–50**.
+No further Tamil page-layer or scene-assembly work remains unless genuinely new source evidence reopens the verified layer. English translation is now **AUTHORIZED / IN PROGRESS** from the closed Tamil scene layer: Scenes **1–50 / 61** are reviewed and Batches **1–10** are **PASS / LOCKED**. Only **11 scenes remain (51–61)**, so the next and final translation iteration is the terminal remainder rather than a full 15.
 
 ## English translation phase — active
 
@@ -202,10 +202,10 @@ Durable English state:
 
 - `works/iratha-kanneer/TRANSLATION_PLAN.md` — active plan;
 - `works/iratha-kanneer/translations/en/README.md` — progress control;
-- English Scenes **1–35 / 61** — **translation-reviewed**;
-- `translations/en/BATCH_01_REVIEW.md` through `BATCH_07_REVIEW.md` — **PASS / LOCKED**;
+- English Scenes **1–50 / 61** — **translation-reviewed**;
+- `translations/en/BATCH_01_REVIEW.md` through `BATCH_10_REVIEW.md` — **PASS / LOCKED**;
 - unresolved blocking English issues: **0**;
-- exact next 15-scene iteration: English Scenes **36–50**.
+- exact next/final iteration: English Scenes **51–61** (11-scene terminal remainder).
 
 Default durable review batch: **5 consecutive scenes**. Finish and lock one batch before advancing.
 

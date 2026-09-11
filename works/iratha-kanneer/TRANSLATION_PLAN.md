@@ -1,6 +1,6 @@
 # இரத்தக் கண்ணீர் — English translation plan
 
-Status: **IN PROGRESS — 35 / 61 ENGLISH SCENES REVIEWED; BATCHES 1–7 PASS / LOCKED**
+Status: **IN PROGRESS — 50 / 61 ENGLISH SCENES REVIEWED; BATCHES 1–10 PASS / LOCKED**
 
 The Tamil archival and scene-assembly layers remain **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**. English is a separate derivative layer and must never reopen, normalize or overwrite the Tamil source text.
 
@@ -8,8 +8,8 @@ The Tamil archival and scene-assembly layers remain **COMPLETE / CLOSED FOR CURR
 
 Immediate drafting authority is the closed Tamil scene layer:
 
-- scenes/01.md through scenes/61.md;
-- all 61 scene artifacts are assembly-reviewed;
+- `scenes/01.md` through `scenes/61.md`;
+- all 61 scene artifacts are `assembly-reviewed`;
 - source page layer is 188 / 188 final verified;
 - unresolved Tamil page / scene issues: 0.
 
@@ -20,6 +20,7 @@ Translation choices do not authorize edits to Tamil page or scene files.
 ## 2. Translation goals
 
 Each English scene must preserve:
+
 - scene order, setting and dramatic structure;
 - speaker identity and turn order;
 - stage directions, entrances, exits and source-supported action;
@@ -33,25 +34,30 @@ Readable English is preferred over mechanical word-for-word syntax, but no sourc
 
 ## 3. Review metadata
 
-Reviewed source-secure translations use status “translation-reviewed”, translation_review “passed”, secondary_english_witness_used false, and an empty source_condition_scans list.
+Reviewed source-secure translations use:
+
+- `status: "translation-reviewed"`;
+- `translation_review: "passed"`;
+- `secondary_english_witness_used: false`;
+- `source_condition_scans: []`.
 
 If a later scene exposes a genuine inherited Tamil source hold, preserve it visibly rather than guessing. Translation must never resolve a Tamil hold.
 
-## 4. Stable naming / terminology through Scene 35
+## 4. Stable names / terminology through Scene 50
 
 Reviewed baseline includes:
 
-Pazhuthur; Muthan; Vedhalam; Maykanatha Swamigal where that source form appears; Mayangatha Swamigal in Scene 29 where that distinct source-visible form appears; Baladevar; Sukadev/Sukadevan according to source context; Thirusangu; Boopathy; Muthayi; Poongavanam; Sumathi; Kaveri; Vetrivelan; Veerappan; Siruthaiyuran; Palaiyakkarar; Thendral Palace; Vengai/Vengaipuram/Vengaiyur according to source form; Sandhana Cheri; Ananda Nagar in Scene 33; Anandapuram in Scenes 34–35; varagan; Thiruchitrambalam; aththan where kinship wordplay matters; Margazhi; kal for the source distance unit.
+Pazhuthur; Muthan; Muthayi; Vedhalam; Maykanatha Swamigal where that source form appears; Mayangatha Swamigal where that distinct source-visible form appears; Baladevar; Sukadev/Sukadevan; Thirusangu; Boopathy; Poongavanam; Sumathi; Kaveri; Vetrivelan; Veerappan; Siruthaiyuran; Palaiyakkarar; Thendral Palace; Vengai/Vengaipuram/Vengaiyur according to source form; Sandhana Cheri; Ananda Nagar / Anandapuram according to source form; Adaikkalapuri; Ponni and Ponnan as aliases; varagan; Thiruchitrambalam; aththan; Margazhi; kal; thali.
 
-Scene 1 source-visible அஞ்சல் மீன் remains transliterated as Anjal Meen. Scene 16 source-visible அருசல் மண் remains transliterated as Arusal Man. Source-visible unusual forms are not silently harmonized through English.
+Source-visible unusual forms are not silently harmonized through English.
 
 ## 5. User-directed iteration cadence
 
 User directive: process **15 English scenes per iteration**.
 
-Durable review artifacts remain **5 consecutive scenes per batch**. Therefore one routine user iteration executes **three consecutive five-scene review batches** and synchronizes controls after all three are complete.
+Durable review artifacts remain **5 consecutive scenes per batch**, so each normal iteration completes three five-scene review batches.
 
-Do not enlarge beyond 15 scenes unless the final remainder contains fewer than 15.
+The project now has only **11 scenes remaining**. Therefore the next iteration is the **terminal remainder Scenes 51–61**, not an artificial 15-scene expansion.
 
 ## 6. Durable progress
 
@@ -62,10 +68,13 @@ Do not enlarge beyond 15 scenes unless the final remainder contains fewer than 1
 - Batch 5 — Scenes 21–25 — PASS / LOCKED
 - Batch 6 — Scenes 26–30 — PASS / LOCKED
 - Batch 7 — Scenes 31–35 — PASS / LOCKED
+- Batch 8 — Scenes 36–40 — PASS / LOCKED
+- Batch 9 — Scenes 41–45 — PASS / LOCKED
+- Batch 10 — Scenes 46–50 — PASS / LOCKED
 
-English scenes present/reviewed: **35 / 61**.
+English scenes present/reviewed: **50 / 61**.
 Source-hold-bearing completed scenes: **0**.
 Unresolved blocking English issues: **0**.
 Secondary English witness used: **no**.
 
-Exact next 15-scene iteration: **Scenes 36–50**, producing Batches 8–10.
+Exact next/final iteration: **Scenes 51–61**.
