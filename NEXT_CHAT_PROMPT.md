@@ -15,8 +15,8 @@ The attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` rem
 - canonical page records: **63 / 63**;
 - word-by-word fidelity: **63 / 63 COMPLETE**;
 - full page-state reconciliation: **COMPLETE**;
-- verified pages: **60 / 63**;
-- terminal source-condition holds: **3 / 63** — scans **20, 22, 35**;
+- verified pages: **61 / 63**;
+- terminal source-condition holds: **2 / 63** — scans **22, 35**;
 - blocked pages: **0**;
 - physical-page drift: **fully repaired through scan 63**;
 - final scan 63: **final dialogue + முற்றும் + printer imprint**;
@@ -25,9 +25,12 @@ The attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` rem
 
 Terminal holds must not be guessed away:
 
-- scan 20 — retained provisional `வேணும்லும்`; source has an overinked unresolved cluster at the line boundary;
 - scan 22 — two unidentified source clusters after `சாந்தா` in the `ஏகா — பாட்டு.` line;
 - scan 35 — damaged word before `சூர்ய நாராயண`, provisionally carried as `சுடகோடி`.
+
+Resolved user correction:
+
+- scan 20 — **`வேணும்னாலும்`**; page is now verified and Scene 3 carries no hold.
 
 ## Exact next activity
 
@@ -53,7 +56,7 @@ Assembly rules:
 2. on shared boundary pages, take only the text belonging to the target scene;
 3. remove mechanical page breaks only; do not alter wording, punctuation, labels or stage directions;
 4. include `source_scan_pages` provenance in scene front matter;
-5. propagate the scan 20 terminal hold into **Scene 3** and the scan 22 terminal hold into **Scene 5**;
+5. propagate the scan 22 terminal hold into **Scene 5**; Scene 3 is clean after scan 20 was resolved as `வேணும்னாலும்`;
 6. do not use OCR, TDL, Wikisource, another edition, grammar or context to repair source wording;
 7. review all five assembled scenes against the page records;
 8. write a durable assembly-review checkpoint, update README/page-map/HANDOVER/NEXT_CHAT_PROMPT, and commit atomically.

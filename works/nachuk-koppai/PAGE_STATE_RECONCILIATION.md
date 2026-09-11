@@ -16,17 +16,15 @@ Base fidelity state entering reconciliation:
 
 ### Scan 20 — printed p.16
 
-Retained provisional reading: `வேணும்லும்`.
+The reconciliation initially retained a terminal hold at the disputed word. The user has now supplied the direct source reading:
 
-Strongest-pixel reinspection confirms:
+`வேணும்னாலும்`
 
-- visible `வேணும்`;
-- an overinked / unreadable source cluster at the physical line end;
-- `லும்` begins the following source line.
+Canonical correction:
 
-The intervening character identity cannot be established securely from the attached scan. Same-edition historical-glyph comparison does not remove the ambiguity.
+`வேணும்லும்` → **`வேணும்னாலும்`**
 
-Disposition: **TERMINAL SOURCE-CONDITION HOLD**.
+Disposition: **RESOLVED / VERIFIED by user-confirmed source reading**.
 
 ### Scan 22 — printed p.18
 
@@ -61,8 +59,8 @@ All 63 page files were checked for:
 
 Result:
 
-- verified: **60 / 63**;
-- terminal source-condition `needs-review`: **3 / 63** — scans **20, 22, 35**;
+- verified: **61 / 63**;
+- terminal source-condition `needs-review`: **2 / 63** — scans **22, 35**;
 - blocked: **0**;
 - missing page records: **0**;
 - fidelity coverage: **63 / 63**;
@@ -99,9 +97,10 @@ Shared physical pages must be split at their source-visible scene headings durin
 
 Terminal-hold propagation:
 
-- scan 20 hold belongs to **Scene 3**;
 - scan 22 hold belongs to **Scene 5**;
 - scan 35 hold belongs to **Scene 9**.
+
+Scan 20 is resolved as `வேணும்னாலும்`; **Scene 3 has no remaining page-level hold**.
 
 ## Final-page closure
 
@@ -116,8 +115,23 @@ The non-authorial mark remains separate from literary text.
 
 ## Reconciliation result
 
-**PASS / COMPLETE FOR CURRENT SOURCE EVIDENCE, WITH 3 EXPLICIT TERMINAL SOURCE-CONDITION HOLDS.**
+**PASS / COMPLETE FOR CURRENT SOURCE EVIDENCE, WITH 2 EXPLICIT TERMINAL SOURCE-CONDITION HOLDS.**
 
-The Tamil page layer is now ready for scene assembly. The three holds are not permission to guess: affected scene files must carry them forward explicitly.
+The Tamil page layer is now ready for scene assembly. The two remaining holds are not permission to guess: affected scene files must carry them forward explicitly.
 
 P0 SHA-256 remains separately pending and was not expanded into this reconciliation.
+
+
+## Post-reconciliation user correction
+
+The user directly confirmed scan 20 as **`வேணும்னாலும்`**.
+
+This supersedes the earlier provisional `வேணும்லும்` hold.
+
+Current reconciled page state:
+
+- verified: **61 / 63**;
+- terminal source-condition holds: **2 / 63 — scans 22 and 35**;
+- fidelity PASS: **61 / 63**;
+- H-GATE PASS: **61 / 63**;
+- cumulative fidelity/user-confirmed correction loci: **281**.

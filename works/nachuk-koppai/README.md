@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — TAMIL PAGE LAYER RECONCILED 63/63; 60 VERIFIED + 3 TERMINAL SOURCE-CONDITION HOLDS (SCANS 20, 22, 35); SCENE ASSEMBLY NEXT; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — TAMIL PAGE LAYER RECONCILED 63/63; 61 VERIFIED + 2 TERMINAL SOURCE-CONDITION HOLDS (SCANS 22, 35); SCENE ASSEMBLY NEXT; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -46,15 +46,15 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - user-supplied first-pass baseline: **available for scans 1–10** at `first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - initial visual verification PASS: **63 / 63 — COMPLETE**;
 - historical-glyph H-GATE checked: **63 / 63 — COMPLETE**;
-- H-GATE PASS: **60 / 63**;
-- H-GATE needs-review: **3 / 63 — terminal source-condition holds on scans 20, 22 and 35**;
-- final verified pages: **60 / 63**;
+- H-GATE PASS: **61 / 63**;
+- H-GATE needs-review: **2 / 63 — terminal source-condition holds on scans 22 and 35**;
+- final verified pages: **61 / 63**;
 - visual text fidelity audit: **63 / 63 scans checked — COMPLETE**;
-- fidelity PASS: **60 / 63 — scans 1–19, 21, 23–34, 36–63**;
-- fidelity terminal source-condition holds: **3 — scans 20, 22 and 35**;
-- fidelity source-proven correction loci: **280**;
+- fidelity PASS: **61 / 63 — scans 1–21, 23–34, 36–63**;
+- fidelity terminal source-condition holds: **2 — scans 22 and 35**;
+- fidelity source-proven / user-confirmed correction loci: **281**;
 - alignment repair: **physical page records 31–63 have now been rebuilt/re-anchored source-first; final scan 63 is source-confirmed as the combined final dialogue / literary close / imprint page**;
-- full page-state reconciliation: **COMPLETE — 63 / 63; 60 verified + 3 terminal source-condition holds**;
+- full page-state reconciliation: **COMPLETE — 63 / 63; 61 verified + 2 terminal source-condition holds**;
 - scene assembly: **not started — NEXT**;
 - English translation: **not started**.
 
@@ -88,7 +88,7 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 16. Batch 11 scans **51–55 COMPLETE — 5 PASS / 0 needs-review**; all five records were independently source-first realigned;
 17. Batch 12 scans **56–60 COMPLETE — 5 PASS / 0 needs-review**; all five records were independently source-first realigned;
 18. Batch 13 scans **61–63 COMPLETE — 3 PASS / 0 needs-review**; final alignment and closure are source-reconciled;
-19. full 63-page state reconciliation: **COMPLETE**; scans 20, 22 and 35 are explicit terminal source-condition holds for current source evidence; scans 6, 8, 9 and 10 stale Pass-A dispositions were repaired;
+19. full 63-page state reconciliation: **COMPLETE**; scan 20 was subsequently resolved by user-confirmed source reading `வேணும்னாலும்`; scans 22 and 35 remain terminal source-condition holds; scans 6, 8, 9 and 10 stale Pass-A dispositions were repaired;
 20. next begin **Tamil scene assembly**, first batch **Scenes 1–5** from the reconciled page layer;
-21. scene assembly must propagate the scan 20 hold into Scene 3 and the scan 22 hold into Scene 5; no silent normalization;
+21. scene assembly batch Scenes 1–5 has only one remaining hold to propagate: the scan 22 clusters into Scene 5; Scene 3 is clean after scan 20 was resolved as `வேணும்னாலும்`;
 22. English translation remains blocked until Tamil scene assembly/review is complete.

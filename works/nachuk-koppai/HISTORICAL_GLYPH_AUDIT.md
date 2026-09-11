@@ -1,8 +1,18 @@
 # நச்சுக்கோப்பை — Historical Glyph Audit
 
-Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — 20 PASS / 43 NEEDS-REVIEW; WORD-BY-WORD FIDELITY AUDIT ACTIVE**
+Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — CURRENT STATE 61 PASS / 2 TERMINAL SOURCE-CONDITION NEEDS-REVIEW (SCANS 22, 35)**
 
 Authority: attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` only.
+
+## Current reconciled override
+
+The batch tables below preserve historical checkpoint states. The authoritative current state after the 63-page fidelity pass, page-state reconciliation, and the user's scan-20 correction is:
+
+- H-GATE checked: **63 / 63**;
+- H-GATE PASS / verified: **61 / 63**;
+- terminal source-condition needs-review: **2 / 63 — scans 22 and 35**;
+- scan 20 is resolved as **`வேணும்னாலும்`** and is verified.
+
 
 Mandatory family set checked per applicable page:
 
@@ -45,7 +55,7 @@ Batch 01 scans **1–10 are fully resolved** for current source evidence. Scan 8
 
 # Batch 02 — scans 11–20
 
-Status: **CHECKED — 9 PASS / VERIFIED, 1 NEEDS-REVIEW**
+Status: **CLOSED — 10 PASS / VERIFIED AFTER LATER USER-CONFIRMED SCAN-20 RESOLUTION**
 
 | Scan | Initial verification | H-GATE | Final status | Notes |
 |---:|---|---|---|---|
@@ -58,7 +68,7 @@ Status: **CHECKED — 9 PASS / VERIFIED, 1 NEEDS-REVIEW**
 | 17 | PASS | PASS | verified | opening speaker repaired |
 | 18 | PASS | PASS | verified | header / heading / speaker repaired |
 | 19 | PASS | PASS | verified | speaker/name repaired; unusual source forms confirmed |
-| 20 | PASS | NEEDS-REVIEW | needs-review | labels/layout repaired; only `வேணும்லும்` unresolved |
+| 20 | PASS | PASS | verified | labels/layout repaired; later user-confirmed `வேணும்னாலும்` |
 
 Batch 02 post-gate source-fidelity repairs so far: **12 correction loci**.
 
@@ -69,7 +79,7 @@ Repository-wide current totals for this work:
 - H-GATE NEEDS-REVIEW: **43 / 63**;
 - final verified pages: **20 / 63**.
 
-Batch 02 is **not closed**. No final `BATCH_02_REVIEW.md` PASS artifact exists.
+Batch 02 is **closed for current source evidence** after the later fidelity/reconciliation work and user's direct scan-20 reading.
 
 
 # Batch 03 — scans 21–30

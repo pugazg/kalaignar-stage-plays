@@ -2,7 +2,7 @@
 
 Scope: physical scans **16–20**.
 
-Status: **COMPLETE — 4 PASS / 1 NEEDS-REVIEW**
+Status: **COMPLETE — 5 PASS / 0 NEEDS-REVIEW**
 
 ## Method
 
@@ -16,7 +16,7 @@ Every visible publication-text token was compared directly against the attached 
 | 17 | PASS | 1 | none |
 | 18 | PASS | 4 | none |
 | 19 | PASS | 2 | none |
-| 20 | NEEDS-REVIEW | 3 | `வேணும்லும்` |
+| 20 | PASS | 4 | none |
 
 ## Source-proven repairs
 
@@ -42,8 +42,8 @@ Every visible publication-text token was compared directly against the attached 
 - missing speaker before `பின்னே என்ன களவா?` → `கந்:`;
 - `ய்:` → `அய்:`;
 - misplaced isolated `கள்.` restored to `சாமான்கள்.`;
-- `வேணும்லும்` remains unresolved and is not guessed.
+- later user-confirmed source reading: `வேணும்லும்` → **`வேணும்னாலும்`**.
 
 ## Next
 
-Proceed to **Visual text fidelity Batch 05 — scans 21–25**. Scan 20 remains a durable single-locus hold and should not be re-looped without stronger readability or user/source confirmation.
+Batch 04 is now fully closed. Scan 20 was later resolved by direct user/source confirmation as `வேணும்னாலும்`.

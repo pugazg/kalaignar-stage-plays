@@ -13,7 +13,7 @@ Method: every visible publication-text token is compared in reading order agains
 | 01 | 1–5 | **5 PASS / COMPLETE** |
 | 02 | 6–10 | **5 PASS / COMPLETE** |
 | 03 | 11–15 | **5 PASS / COMPLETE** |
-| 04 | 16–20 | **4 PASS / 1 NEEDS-REVIEW** |
+| 04 | 16–20 | **5 PASS / COMPLETE** |
 | 05 | 21–25 | **4 PASS / 1 NEEDS-REVIEW** |
 | 06 | 26–30 | **5 PASS / COMPLETE** |
 | 07 | 31–35 | **4 PASS / 1 NEEDS-REVIEW** |
@@ -27,9 +27,9 @@ Method: every visible publication-text token is compared in reading order agains
 Current coverage: **63 / 63 scans — COMPLETE**.
 
 Current fidelity results:
-- PASS: **60** — scans **1–19, 21, 23–34, 36–63**;
-- TERMINAL SOURCE-CONDITION HOLDS: **3** — scans **20, 22, 35**;
-- source-proven correction loci in fidelity phase: **280**.
+- PASS: **61** — scans **1–21, 23–34, 36–63**;
+- TERMINAL SOURCE-CONDITION HOLDS: **2** — scans **22, 35**;
+- source-proven / user-confirmed correction loci in fidelity phase: **281**.
 
 ## Batch 01 summary
 
@@ -58,7 +58,7 @@ Current fidelity results:
 ## Batch 04 summary
 
 - scans 16–19 — PASS after source-secure label/header/word repairs;
-- scan 20 — NEEDS-REVIEW after three source-secure repairs; only `வேணும்லும்` remains unresolved.
+- scan 20 — PASS; three earlier source-secure repairs plus later user-confirmed source reading `வேணும்லும்` → `வேணும்னாலும்`.
 
 ## Batch 05 summary
 
@@ -165,15 +165,15 @@ Reconciliation actions:
 - stale early Pass-A notes on scans **6, 8, 9 and 10** were repaired so they no longer claim H-GATE `NEEDS-REVIEW` after later PASS closure;
 - the repaired downstream page alignment is now authoritative through scan **63**;
 - scan **63** remains the source-proven combined **final dialogue + முற்றும் + printer imprint** page;
-- the three remaining loci on scans **20, 22 and 35** were re-read from the strongest attached-source pixels available and remain unresolved without guessing;
-- those three are now explicitly classified as **terminal source-condition holds for the current attached PDF**, rather than unfinished routine review.
+- the remaining loci on scans **20, 22 and 35** were re-read during reconciliation; scan 20 was subsequently resolved by the user's direct source reading as `வேணும்னாலும்`;
+- scans **22 and 35** remain explicit **terminal source-condition holds for the current attached PDF**.
 
 Reconciled page state:
 
-- verified / PASS: **60 / 63**;
-- terminal source-condition `needs-review`: **3 / 63** — scans **20, 22, 35**;
+- verified / PASS: **61 / 63**;
+- terminal source-condition `needs-review`: **2 / 63** — scans **22, 35**;
 - blocked: **0**;
 - word-by-word fidelity coverage: **63 / 63 COMPLETE**;
 - page-state reconciliation: **COMPLETE**.
 
-Scene assembly may now begin from the reconciled page layer, but every assembled scene that intersects a terminal hold must carry that hold forward explicitly.
+Scene assembly may now begin from the reconciled page layer. Scene 3 is clean after the scan 20 resolution; assembled scenes intersecting scans 22 or 35 must carry those remaining holds forward explicitly.
