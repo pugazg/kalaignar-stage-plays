@@ -17,19 +17,19 @@ Method: every visible publication-text token is compared in reading order agains
 | 05 | 21–25 | **4 PASS / 1 NEEDS-REVIEW** |
 | 06 | 26–30 | **5 PASS / COMPLETE** |
 | 07 | 31–35 | **4 PASS / 1 NEEDS-REVIEW** |
-| 08 | 36–40 | pending |
+| 08 | 36–40 | **5 PASS / COMPLETE** |
 | 09 | 41–45 | pending |
 | 10 | 46–50 | pending |
 | 11 | 51–55 | pending |
 | 12 | 56–60 | pending |
 | 13 | 61–63 | pending |
 
-Current coverage: **35 / 63 scans**.
+Current coverage: **40 / 63 scans**.
 
 Current fidelity results:
-- PASS: **32** — scans **1–19, 21, 23–34**;
+- PASS: **37** — scans **1–19, 21, 23–34, 36–40**;
 - NEEDS-REVIEW: **3** — scans **20, 22, 35**;
-- source-proven correction loci in fidelity phase: **125**.
+- source-proven correction loci in fidelity phase: **153**.
 
 ## Batch 01 summary
 
@@ -86,4 +86,14 @@ Current fidelity results:
 - cumulative fidelity correction loci: **125**;
 - downstream warning: do not assume a fixed offset beyond scan 35; each next page must be re-anchored directly to its physical source scan.
 
-Next fidelity batch: **scans 36–40**.
+## Batch 08 summary
+
+- scans 36–40 — **5 PASS / COMPLETE**;
+- each physical page was independently re-anchored to source; all five confirmed the prior one-page record drift continued through scan 40;
+- Batch 08 source-proven textual correction loci: **28**;
+- structural physical-page realignments: **5**;
+- scan 40 is source-confirmed as a Scene 9 continuation, not the Scene 9 / Scene 10 boundary;
+- cumulative fidelity correction loci: **153**;
+- downstream warning remains: re-anchor each next physical scan independently; do not infer the offset.
+
+Next fidelity batch: **scans 41–45**.
