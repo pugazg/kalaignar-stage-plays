@@ -16,7 +16,7 @@ Method: every visible publication-text token is compared in reading order agains
 | 04 | 16–20 | **4 PASS / 1 NEEDS-REVIEW** |
 | 05 | 21–25 | **4 PASS / 1 NEEDS-REVIEW** |
 | 06 | 26–30 | **5 PASS / COMPLETE** |
-| 07 | 31–35 | pending |
+| 07 | 31–35 | **4 PASS / 1 NEEDS-REVIEW** |
 | 08 | 36–40 | pending |
 | 09 | 41–45 | pending |
 | 10 | 46–50 | pending |
@@ -24,12 +24,12 @@ Method: every visible publication-text token is compared in reading order agains
 | 12 | 56–60 | pending |
 | 13 | 61–63 | pending |
 
-Current coverage: **30 / 63 scans**.
+Current coverage: **35 / 63 scans**.
 
 Current fidelity results:
-- PASS: **28** — scans **1–19, 21, 23–30**;
-- NEEDS-REVIEW: **2** — scans **20, 22**;
-- source-proven correction loci in fidelity phase: **101**.
+- PASS: **32** — scans **1–19, 21, 23–34**;
+- NEEDS-REVIEW: **3** — scans **20, 22, 35**;
+- source-proven correction loci in fidelity phase: **125**.
 
 ## Batch 01 summary
 
@@ -76,4 +76,14 @@ Current fidelity results:
 - cumulative fidelity correction loci: **101**;
 - known follow-up: existing `pages/0031.md` is stale/misaligned and must be rebuilt from physical scan 31 before downstream scene mapping is trusted.
 
-Next fidelity batch: **scans 31–35**.
+## Batch 07 summary
+
+- scans 31–34 — **4 PASS**;
+- scan 35 — **NEEDS-REVIEW** at one damaged/overinked source word immediately before `சூர்ய நாராயண`; prior first-pass `சுடகோடி` is retained provisionally only;
+- all five page records 31–35 were rebuilt source-first because the earlier records were shifted one physical scan ahead;
+- Batch 07 source-proven textual correction loci: **24**;
+- structural physical-page realignments: **5**;
+- cumulative fidelity correction loci: **125**;
+- downstream warning: do not assume a fixed offset beyond scan 35; each next page must be re-anchored directly to its physical source scan.
+
+Next fidelity batch: **scans 36–40**.

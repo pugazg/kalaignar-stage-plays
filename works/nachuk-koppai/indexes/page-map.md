@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE LAYER 63/63; H-GATE 63/63 CHECKED — 29 VERIFIED / 34 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 30/63, 28 PASS / 2 HOLDS, NEXT 31–35**
+Status: **PAGE RECORDS 63/63 PRESENT; H-GATE 63/63 HISTORICALLY CHECKED — 33 CURRENTLY VERIFIED / 30 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 35/63, 32 PASS / 3 HOLDS, NEXT 36–40**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -38,11 +38,11 @@ This preliminary map records physical scan identity and visually located scene o
 | 28 | Scene 7 | drama | complete | PASS | PASS | `verified` | printed p.24; token / speaker / punctuation repairs source-resolved |
 | 29 | Scene 7 | drama | complete | PASS | PASS | `verified` | printed p.25; transliteration/abbreviated label confirmed; word forms repaired |
 | 30 | Scene 7 | drama | complete | PASS | PASS | `verified` | printed p.26; physical page ends at `(சாந்தா கோட்டை எடுத்து வரல்)`; stale next-scan overrun removed |
-| 31 | boundary repair pending | pending source recheck | complete | PASS | NEEDS-REVIEW | `needs-review` | existing page record is known stale after scan-30 overrun repair; rebuild from physical scan 31 in Fidelity Batch 07 |
-| 32 | Scene 8 | scene close | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.28; Scene 8 closes |
-| 33 | Scene 9 | scene opener | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.29; Scene 9 opener; corrects preliminary intake |
-| 34 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.30 |
-| 35 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.31 |
+| 31 | Scene 7 | scene close | complete | PASS | PASS | `verified` | source-first rebuilt; printed numeral unreadable/not inferred; physical scan ends `சீன் முடிவு.` |
+| 32 | Scene 8 | scene opener | complete | PASS | PASS | `verified` | printed p.28; source-first realigned; Scene 8 opens |
+| 33 | Scene 8 | scene close | complete | PASS | PASS | `verified` | printed numeral not visible/not inferred; source-first realigned; Scene 8 closes |
+| 34 | Scene 9 | scene opener | complete | PASS | PASS | `verified` | printed p.30; source-first realigned; Scene 9 opens |
+| 35 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.31; source-first realigned; damaged word before `சூர்ய நாராயண` held provisionally as `சுடகோடி`; non-authorial `4062` excluded |
 | 36 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.32; stray first-pass page tokens ignored for pagination |
 | 37 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.33 |
 | 38 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.34 |
@@ -74,6 +74,6 @@ This preliminary map records physical scan identity and visually located scene o
 
 ## Intake cautions
 
-- Page-record files exist for **all 63 physical scans**, but the fidelity pass is authoritative over earlier scene-boundary guesses. Batch 06 proved that the old scan-30 record had absorbed the following physical scan; scan 31 is therefore explicitly pending source rebuild before downstream scene mapping is trusted.
+- Page-record files exist for **all 63 physical scans**, but the fidelity pass is authoritative over earlier scene-boundary guesses. Batch 07 confirmed that records 31–35 were each one physical scan ahead and rebuilt all five directly from source. This does **not** authorize assuming the same offset downstream: scans 36 onward must be re-anchored individually during their fidelity batches; scan 63 remains independently source-confirmed.
 - Scene assembly remains unauthorized until the page-layer H-GATE/hold state is explicitly dispositioned.
 - Scan 63 is the source-proven literary close with **முற்றும்** and printer imprint.
