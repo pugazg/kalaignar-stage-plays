@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / நச்சுக்கோப்பை Batch 03 H-GATE
+# Next Chat Prompt — Kalaignar Stage Plays / நச்சுக்கோப்பை Batch 04 Pass A
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/nachuk-koppai/`.
 
@@ -10,31 +10,27 @@ Fetch live main first.
 
 Use only attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
-The user-supplied `koppai.md` transcription is the comparison baseline; the attached PDF is the sole authority.
+The user-supplied `koppai.md` transcription is the comparison baseline. The attached PDF is the sole authority.
 
 ## Durable state
 
 - canonical page records: **30 / 63**;
 - initial verification PASS: **30 / 63**;
-- H-GATE checked: **20 / 63**;
+- H-GATE checked: **30 / 63**;
 - H-GATE PASS / final verified: **5 / 63**;
-- H-GATE needs-review: **15 / 63**;
-- Batch 01 unresolved scans: **3, 4, 6, 8, 9, 10**;
-- Batch 02 unresolved scans: **11, 13, 14, 15, 16, 17, 18, 19, 20**;
-- Batch 03 Pass A: **COMPLETE — scans 21–30**;
-- Batch 03 H-GATE: **0 / 10**;
+- H-GATE needs-review: **25 / 63**;
+- Batch 01: **4 verified / 6 needs-review**;
+- Batch 02: **1 verified / 9 needs-review**;
+- Batch 03: **0 verified / 10 needs-review**;
+- Batch 03 H-GATE checkpoint: `works/nachuk-koppai/BATCH_03_HGATE_CHECKPOINT.md`;
 - P0 SHA-256: **pending**.
-
-## Batch 03 structure
-
-- scan 22 — Scene 5 opener;
-- scan 24 — Scene 5 / Scene 6 boundary;
-- scan 25 — Scene 6 / Scene 7 boundary;
-- scan 30 — Scene 7 close;
-- scan 26 — printed p.22; user first-pass page marker `29` recorded as OCR discrepancy.
 
 ## Exact next activity
 
-Run independent H-GATE on scans **21–30** only. Check the mandatory family set and explicit source-sensitive loci recorded in the page files. Do not retranscribe settled text, use another copy, or normalize from context.
+Process **Batch 04 Pass A — scans 31–40**.
 
-Promote clean Batch 03 pages individually. If any remain unresolved, keep them `needs-review` and leave Batch 03 open.
+Use the user first-pass as comparison baseline, compare each physical page against the attached PDF, preserve page boundaries, scene boundaries and source-sensitive forms, and write `pages/0031.md` through `pages/0040.md`.
+
+Do not reopen the existing 25 hold-bearing scans in the same turn unless genuinely stronger attached-source evidence appears.
+
+After Pass A, synchronize page map / README / handover / prompt and commit before running Batch 04 H-GATE.

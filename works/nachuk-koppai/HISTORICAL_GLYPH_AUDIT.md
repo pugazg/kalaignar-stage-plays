@@ -70,3 +70,32 @@ Repository-wide current totals for this work:
 - final verified pages: **5 / 63**.
 
 Batch 02 is **not closed**. No final `BATCH_02_REVIEW.md` PASS artifact exists.
+
+
+# Batch 03 — scans 21–30
+
+Status: **CHECKED — 0 PASS / 10 NEEDS-REVIEW**
+
+| Scan | Initial verification | H-GATE | Final status |
+|---:|---|---|---|
+| 21 | PASS | NEEDS-REVIEW | needs-review |
+| 22 | PASS | NEEDS-REVIEW | needs-review |
+| 23 | PASS | NEEDS-REVIEW | needs-review |
+| 24 | PASS | NEEDS-REVIEW | needs-review |
+| 25 | PASS | NEEDS-REVIEW | needs-review |
+| 26 | PASS | NEEDS-REVIEW | needs-review |
+| 27 | PASS | NEEDS-REVIEW | needs-review |
+| 28 | PASS | NEEDS-REVIEW | needs-review |
+| 29 | PASS | NEEDS-REVIEW | needs-review |
+| 30 | PASS | NEEDS-REVIEW | needs-review |
+
+Batch 03 corrections committed: **0**.
+
+Repository-wide current totals:
+
+- H-GATE checked: **30 / 63**;
+- H-GATE PASS: **5 / 63**;
+- H-GATE NEEDS-REVIEW: **25 / 63**;
+- final verified pages: **5 / 63**.
+
+Batch 03 remains **open**; no final PASS artifact exists.
