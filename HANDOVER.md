@@ -181,7 +181,7 @@ Scene Assembly Batches 01–11 are durably recorded. The final user direction to
 - dramatic scan coverage: **8–185 exactly once**;
 - unresolved assembly discrepancies: **0**.
 
-No further Tamil page-layer or scene-assembly work remains unless genuinely new source evidence reopens the verified layer. English translation is now **AUTHORIZED / IN PROGRESS** from the closed Tamil scene layer: Scenes **1–61 / 61** are reviewed; Batches **1–13** are **PASS / LOCKED**; `translations/en/TRANSLATION_REVIEW.md` is **PASS / COMPLETE / CLOSED**.
+No further Tamil page-layer, scene-assembly, or English-translation work remains for current source evidence. English translation is **COMPLETE / CLOSED** from the closed Tamil scene layer: Scenes **1–61 / 61** are reviewed; Batches **1–13** are **PASS / LOCKED**; `translations/en/TRANSLATION_REVIEW.md` is **PASS / COMPLETE / CLOSED**.
 
 ## English translation phase — active
 

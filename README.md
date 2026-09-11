@@ -36,7 +36,7 @@ Initial visual verification alone does not permit final `verified`. The mandator
 
 This is a minimum rather than a closed list: `இரத்தக் கண்ணீர்` Batch 05 additionally exposed historical `ளா` look-alikes. No global replacement and no spelling modernization are permitted.
 
-## இரத்தக் கண்ணீர் — active English-translation checkpoint
+## இரத்தக் கண்ணீர் — closure checkpoint
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
