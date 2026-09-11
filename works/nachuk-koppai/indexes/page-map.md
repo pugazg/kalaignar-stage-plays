@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE LAYER 63/63; H-GATE 63/63 CHECKED — 16 VERIFIED / 47 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 15/63 ALL PASS, NEXT 16–20**
+Status: **PAGE LAYER 63/63; H-GATE 63/63 CHECKED — 20 VERIFIED / 43 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 20/63, 19 PASS / 1 HOLD, NEXT 21–25**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -23,11 +23,11 @@ This preliminary map records physical scan identity and visually located scene o
 | 13 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.9; wording / quotation holds resolved |
 | 14 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.10; source punctuation / dialect confirmed |
 | 15 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.11; header / `கருடன்` / time forms resolved |
-| 16 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.12; header / speaker-label holds |
-| 17 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.13; opening speaker label unresolved |
-| 18 | Scenes 2 / 3 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | Scene 2/3 boundary; header/scene/speaker holds |
-| 19 | Scene 3 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.15; several source-sensitive labels/forms |
-| 20 | Scenes 3 / 4 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | Scene 3/4 boundary; multiple label/text holds |
+| 16 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.12; header / speaker source-resolved |
+| 17 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.13; opening speaker source-resolved |
+| 18 | Scenes 2 / 3 | shared scene-boundary page | complete | PASS | PASS | `verified` | Scene 2/3 boundary; header/scene/speaker source-resolved |
+| 19 | Scene 3 | drama | complete | PASS | PASS | `verified` | printed p.15; speaker/name repaired; unusual forms confirmed |
+| 20 | Scenes 3 / 4 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | Scene 3/4 boundary; only `வேணும்லும்` remains unresolved |
 | 21 | Scene 4 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.17; Batch 03 Pass A complete |
 | 22 | Scene 5 | scene opener | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.18; Scene 5 opener |
 | 23 | Scene 5 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.19 |

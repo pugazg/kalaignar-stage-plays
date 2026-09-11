@@ -13,8 +13,8 @@ Method: every visible publication-text token is compared in reading order agains
 | 01 | 1–5 | **5 PASS / COMPLETE** |
 | 02 | 6–10 | **5 PASS / COMPLETE** |
 | 03 | 11–15 | **5 PASS / COMPLETE** |
-| 04 | 16–20 | next |
-| 05 | 21–25 | pending |
+| 04 | 16–20 | **4 PASS / 1 NEEDS-REVIEW** |
+| 05 | 21–25 | next |
 | 06 | 26–30 | pending |
 | 07 | 31–35 | pending |
 | 08 | 36–40 | pending |
@@ -24,12 +24,12 @@ Method: every visible publication-text token is compared in reading order agains
 | 12 | 56–60 | pending |
 | 13 | 61–63 | pending |
 
-Current coverage: **15 / 63 scans**.
+Current coverage: **20 / 63 scans**.
 
 Current fidelity results:
-- PASS: **15** — scans **1–15**;
-- NEEDS-REVIEW: **0** within completed fidelity coverage;
-- source-proven correction loci in fidelity phase: **25**.
+- PASS: **19** — scans **1–19**;
+- NEEDS-REVIEW: **1** — scan **20**;
+- source-proven correction loci in fidelity phase: **37**.
 
 ## Batch 01 summary
 
@@ -55,4 +55,9 @@ Current fidelity results:
 - scan 14 — PASS, source confirms unusual punctuation/dialect;
 - scan 15 — PASS after 3 source-proven repairs.
 
-Next fidelity batch: **scans 16–20**.
+## Batch 04 summary
+
+- scans 16–19 — PASS after source-secure label/header/word repairs;
+- scan 20 — NEEDS-REVIEW after three source-secure repairs; only `வேணும்லும்` remains unresolved.
+
+Next fidelity batch: **scans 21–25**.

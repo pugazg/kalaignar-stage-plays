@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை — Historical Glyph Audit
 
-Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — 16 PASS / 47 NEEDS-REVIEW; WORD-BY-WORD FIDELITY AUDIT ACTIVE**
+Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — 20 PASS / 43 NEEDS-REVIEW; WORD-BY-WORD FIDELITY AUDIT ACTIVE**
 
 Authority: attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` only.
 
@@ -45,7 +45,7 @@ Batch 01 scans **1–10 are fully resolved** for current source evidence. Scan 8
 
 # Batch 02 — scans 11–20
 
-Status: **CHECKED — 5 PASS / VERIFIED, 5 NEEDS-REVIEW**
+Status: **CHECKED — 9 PASS / VERIFIED, 1 NEEDS-REVIEW**
 
 | Scan | Initial verification | H-GATE | Final status | Notes |
 |---:|---|---|---|---|
@@ -54,20 +54,20 @@ Status: **CHECKED — 5 PASS / VERIFIED, 5 NEEDS-REVIEW**
 | 13 | PASS | PASS | verified | fidelity pass resolved wording / quotation holds |
 | 14 | PASS | PASS | verified | source confirms punctuation / `இருக்கோன்னோ?` |
 | 15 | PASS | PASS | verified | fidelity pass resolved header / `கருடன்` / time forms |
-| 16 | PASS | NEEDS-REVIEW | needs-review | header / speaker label |
-| 17 | PASS | NEEDS-REVIEW | needs-review | speaker label |
-| 18 | PASS | NEEDS-REVIEW | needs-review | header / scene heading / speaker |
-| 19 | PASS | NEEDS-REVIEW | needs-review | labels / source-sensitive forms |
-| 20 | PASS | NEEDS-REVIEW | needs-review | missing/odd labels and isolated fragment |
+| 16 | PASS | PASS | verified | header / speaker repaired from fidelity pass |
+| 17 | PASS | PASS | verified | opening speaker repaired |
+| 18 | PASS | PASS | verified | header / heading / speaker repaired |
+| 19 | PASS | PASS | verified | speaker/name repaired; unusual source forms confirmed |
+| 20 | PASS | NEEDS-REVIEW | needs-review | labels/layout repaired; only `வேணும்லும்` unresolved |
 
 Batch 02 post-gate source-fidelity repairs so far: **12 correction loci**.
 
 Repository-wide current totals for this work:
 
 - H-GATE checked: **20 / 63**;
-- H-GATE PASS: **16 / 63**;
-- H-GATE NEEDS-REVIEW: **47 / 63**;
-- final verified pages: **16 / 63**.
+- H-GATE PASS: **20 / 63**;
+- H-GATE NEEDS-REVIEW: **43 / 63**;
+- final verified pages: **20 / 63**.
 
 Batch 02 is **not closed**. No final `BATCH_02_REVIEW.md` PASS artifact exists.
 
