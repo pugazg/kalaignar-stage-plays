@@ -8,6 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
+| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — P0 SOURCE INTAKE PARTIAL; 63 physical scans; source-visible title/author/publisher/first-edition year confirmed; 18 numbered scenes visually located; SHA-256 + byte size still pending before P0 closure; next: resolve byte identity, then scans 1–10 Pass A** |
 | [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page layer 188/188; Tamil scenes 61/61; English 61/61 reviewed; 13/13 translation batches PASS/LOCKED; final English review PASS** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
@@ -90,3 +91,30 @@ Final English state: **33 / 33** scenes reviewed; **7 / 7 PASS / LOCKED** batche
 ## Closed work safeguards
 
 `ஒரே முத்தம்` Tamil and English workflows, `திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened with genuinely new source evidence or a separately authorized phase.
+
+
+## நச்சுக்கோப்பை — active source-intake checkpoint
+
+Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
+
+Current intake state:
+
+- physical scans: **63**;
+- source type: **image-only / no usable parsed text layer**;
+- title visible on source: **நச்சுக்கோப்பை**;
+- author: **மு. கருணாநிதி**;
+- publisher: **திராவிடன் பதிப்பகம்**;
+- edition: **முதல் பதிப்பு — 1951**;
+- numbered dramatic scenes visually located: **18**;
+- literary close: scan **63**, source-visible **முற்றும்**;
+- SHA-256: **PENDING exact-byte calculation**;
+- file size: **PENDING exact-byte calculation**;
+- P0 status: **PARTIAL / NOT CLOSED**;
+- Tamil page transcription: **not started**;
+- H-GATE: **not started**;
+- scene assembly: **not started**;
+- English translation: **not started / not authorized as an active phase yet**.
+
+The user's contextual description (1943 origin/performance history, alternate title `சாந்தா (அ) பழனியப்பன்`, and thematic summary) is recorded separately as **user-supplied context**, not as controlling-scan text.
+
+Exact next activity: complete byte identity for the attached PDF, then process **scans 1–10** under the source-first Pass-A → durable commit → targeted H-GATE workflow.

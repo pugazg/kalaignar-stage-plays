@@ -6,219 +6,61 @@ Repository: `pugazg/kalaignar-stage-plays`, branch `main`.
 
 Always fetch live `main` first and preserve newer durable state.
 
-Permanent source-first workflow: `STAGE_PLAY_PROCESSING_GUIDE.md`.
+Permanent authorities:
 
-Historical-type authority:
+1. `STAGE_PLAY_PROCESSING_GUIDE.md`;
+2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
+4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-1. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-2. `HISTORICAL_TAMIL_GLYPH_GATE.md`.
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை P0 SOURCE INTAKE
 
-Active-work anti-loop authority: `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md`.
+Active work: `works/nachuk-koppai/`.
 
-# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் TAMIL + ENGLISH COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE
-
-Active work: `works/iratha-kanneer/`.
-
-Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
-
-Source provenance: the user-supplied controlling PDF was downloaded from the **Tamil Digital Library (TDL)**. The TDL catalogue and Wikisource transport copy refer to this same scan set; they are **not independent secondary textual witnesses**. When the exact PDF is attached/readable locally, routine transcription and verification must use the local controlling PDF directly.
+Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
 Current durable state:
 
-- P0 source intake: **PASS**;
-- physical scans: **188 / 188 confirmed**;
-- canonical page transcription: **188 / 188**;
-- initial visual verification: **188 / 188**;
-- historical-glyph H-GATE: **188 / 188**;
-- final verified pages: **188 / 188**;
-- contiguous final-verified range: **scans 1–188**;
-- Batches 01–19: **PASS / COMPLETE**;
-- Batch 19: **PASS / COMPLETE / LOCKED FOR CURRENT SOURCE EVIDENCE**;
-- Batch-17 Pass-A durable commit: **`d951cdfc913b375d0c99a3c602a0a0743ef5d091`**;
-- earlier Batch-17 checkpoint commit: **`eadec47b4014962ddb4323b18f0d428b051f5b78`**;
-- historical-glyph corrections recorded: **37**;
-- unresolved page-level source issues: **0**;
-- `needs-review`: **0**;
-- `blocked`: **0**;
-- structural / scene assembly: **COMPLETE / CLOSED — Scenes 1–61 / 61 assembly-reviewed; Scene Assembly Batches 01–11 PASS; final consistency review PASS**;
-- English translation: **COMPLETE / CLOSED — 61 / 61 scenes reviewed; 13 / 13 batches PASS / LOCKED; final whole-English review PASS**.
+- physical scans: **63 confirmed**;
+- source type: **image-only / no usable parsed text layer**;
+- title: **நச்சுக்கோப்பை**;
+- author: **மு. கருணாநிதி**;
+- publisher: **திராவிடன் பதிப்பகம்**;
+- edition: **முதல் பதிப்பு — 1951**;
+- visually located numbered scenes: **18**;
+- scan 63: **முற்றும்**;
+- SHA-256: **PENDING**;
+- file size: **PENDING**;
+- P0: **PARTIAL / NOT CLOSED**;
+- page records: **0 / 63**;
+- H-GATE: **0 / 63**;
+- scene assembly: **not started**;
+- English translation: **not started**.
 
-The conversation preview exposes only 150 images; direct raw-PDF inspection established **188 physical scans**. Never stop at preview page 150.
+## Mandatory startup for next source-dependent turn
 
-## Mandatory startup
-
-Read completely before source-dependent work:
+Read completely:
 
 1. `STAGE_PLAY_PROCESSING_GUIDE.md`;
 2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. this `HANDOVER.md`;
 5. `NEXT_CHAT_PROMPT.md`;
-6. `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md`;
-7. `works/iratha-kanneer/README.md`;
-8. `works/iratha-kanneer/metadata/source.md`;
-9. `works/iratha-kanneer/indexes/page-map.md`;
-10. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`;
-11. `BATCH_01_REVIEW.md` through `BATCH_17_REVIEW.md`;
-12. relevant page records through `pages/0188.md` and `BATCH_19_REVIEW.md`.
+6. `works/nachuk-koppai/README.md`;
+7. `works/nachuk-koppai/SOURCE_INTAKE.md`;
+8. `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`;
+9. `works/nachuk-koppai/metadata/source.md`;
+10. `works/nachuk-koppai/metadata/context.md`;
+11. `works/nachuk-koppai/indexes/page-map.md`.
 
-Resolve / attach the exact controlling PDF before source-dependent page work. If it is locally readable, do not detour to TDL/Wikisource for routine transcription or verification.
+## Exact next activity
 
-## Source identity
+1. resolve exact SHA-256 and byte size from the attached controlling PDF;
+2. update `metadata/source.md` and `SOURCE_INTAKE.md`;
+3. mark P0 **PASS** if no identity conflict appears;
+4. process **Batch 01 — scans 1–10** using the two-pass workflow;
+5. do not begin scene assembly or English translation.
 
-- title **இரத்தக் கண்ணீர்**;
-- author **மு. கருணாநிதி**;
-- publisher **திராவிடப் பண்ணை**;
-- edition **முதல் பதிப்பு — 1953**;
-- SHA-256 `120428985bd327456df46b9e06271896b106332711f4c9063d4f0c7fe72b6441`;
-- size **319,220,349 bytes**;
-- physical scans **188**;
-- image-only; source PDF not committed.
+## Closed work safeguards
 
-## Mandatory efficient batch workflow
-
-For this work, each routine ten-scan batch follows a hard two-commit boundary:
-
-1. **Pass A:** whole-page source read once from the local controlling PDF; canonical transcription + physical joins/scene structure + ordinary visual verification;
-2. **durable Pass-A commit:** persist every processed page as `needs-review`, `initial_verification: passed`, `historical_glyph_gate: pending` before beginning H-GATE;
-3. **Pass B:** targeted independent H-GATE only — mandatory historical families plus actual candidate/source-sensitive loci and joins; do not retranscribe settled prose;
-4. create crops/enhancements only for a genuine unresolved locus and stop once resolved/held;
-5. **final closure commit:** promote clean pages to `verified`, create batch review, synchronize controls.
-
-Short rule:
-
-> **Local PDF → Pass A once → commit → targeted H-GATE → final commit. No external detour and no settled-text loop.**
-
-## Verified structural evidence through scan 188
-
-Scenes 1–53 remain as previously closed through scan 160. New Batch-17 evidence:
-
-- Scene 54: scan **161** only, centred close-star;
-- Scene 55: scans **162–163**, centred close-star on scan 163;
-- Scene 56: scan **164** only, centred close-star;
-- Scene 57: scans **165–171**, centred close-star on scan 171;
-- Scene 58: scans **172–179**, centred close-star on scan 179;
-- Scene 59: scans **180–182**, centred close-star on scan 182;
-- Scene 60: scan **183** only, internal `* * *` transition plus centred close-star;
-- Scene 61: scans **184–185**, centred close-star on scan 185;
-- scan 186: source-visible `முடிவு` prose;
-- scan 187: publisher catalogue;
-- scan 188: final back wrapper / imprint.
-
-Important physical joins:
-
-- scan 130 `புறப்` → scan 131 `படுகின்றனர்.`;
-- scan 146 `ஆரணங்கின்` → scan 147 `மயக்கத்தால்...`;
-- scan 166 `வெளியிலிருந்து` → scan 167 `வேதாளமும்...`;
-- scan 167 `ஏந்திக்` → scan 168 `கொண்டே`;
-- scan 170 `பெண்கள்` → scan 171 `விபசாரப் பதுமைகளாக...`;
-- scan 173 `உடனே போய்,` → scan 174 `வைத்தியர் பூபதியை...`;
-- scan 178 `அந்தக்` → scan 179 `கதைகள்...`.
-
-Scan 168's internal `* * *` ornament is a transition, not a scene close. Do not declare a final whole-work scene inventory until the page layer closes.
-
-## Historical-glyph gate
-
-Required order:
-
-**canonical transcription → initial visual verification → H-GATE → final verification.**
-
-Mandatory minimum family set:
-
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-
-The list is a minimum, not a closed universe: Batch 05 additionally confirmed historical `ளா` look-alikes. Source pixels control. No global replacement. No grammar/spelling modernization. Same-edition comparison is preferred for doubtful clusters. Unresolved identity stays `needs-review`.
-
-## Historical-glyph corrections through scan 188
-
-Thirty-four corrections are durably recorded in `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`.
-
-Recent additions:
-
-30. scan 138 `கண்ண மறைக்கும் பேய்` → `கண்ணை மறைக்கும் பேய்` (`ணை`);
-31. scan 146 `இளஞரே` → `இளைஞரே` (`ளை`);
-32. scan 160 `நீங்கள் தானு முத்தாயி?` → `நீங்கள் தானா முத்தாயி?` (`னா`);
-33. scan 169 `இதுதானு` → `இதுதானா` (`னா`);
-34. scan 170 `மில்ப்பாம்பே` → `மலைப்பாம்பே` (`லை`).
-35. scan 172 `வரமாட்டானு?` → `வரமாட்டானா?` (`னா`).
-36. scan 180 `முத்தனுள்` → `முத்தனால்` (`னா`).
-37. scan 183 `முத்தன் மீட்டு` → `முத்தனை மீட்டு` (`னை`).
-
-Batch 16 recorded one ordinary source-fidelity correction, scan 151 `மில்கள் உருளுவது போல` → `மலைகள் உருளுவது போல`; it is not part of the historical-glyph count. Batch 17 required no separate ordinary source-fidelity correction. Batch 18 and Batch 19 ordinary source-fidelity corrections are recorded in their reviews.
-
-## Batch 19 durable state
-
-- `BATCH_17_PASS_A.md` records Pass-A completion before H-GATE;
-- Pass-A durable commit: `d951cdfc913b375d0c99a3c602a0a0743ef5d091`;
-- Pass-A durable commit: `64343c46ae14791dfde44155f1543768081b6c8c`;
-- `pages/0181.md` through `pages/0188.md` are final `verified` after targeted H-GATE;
-- `BATCH_19_REVIEW.md` is **PASS / COMPLETE / LOCKED**;
-- whole physical page layer: **188 / 188 COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**;
-- `BATCH_17_REVIEW.md` is **PASS / COMPLETE / LOCKED**;
-- scan 169 carries historical correction `இதுதானு` → `இதுதானா` (`னா`);
-- scan 170 carries historical correction `மில்ப்பாம்பே` → `மலைப்பாம்பே` (`லை`);
-- unusual source-visible readings retained after targeted checking include scan 162 `முழுங்கிவிடே`, `நடத்தொரு நாராயணன்`, `என்றுல`; scan 163 standalone `நெருங்கிய`; scan 165 `வாசப்பூது`; scan 169 `பொருத்தன்`; scan 170 `சொன்னுளாமே`, `பஞ்சணைப் பசியால்`, `சுக்கு நாறுக்கிவிடு`.
-
-## Scene assembly durable state
-
-The page layer is **188 / 188 COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**. Do not reopen it without genuinely new source evidence.
-
-Scene Assembly Batches 01–11 are durably recorded. The final user direction to **process remaining scans** superseded the 20-scan cadence for the terminal batch:
-
-- `scenes/01.md` through `scenes/61.md` are `assembly-reviewed`;
-- open draft scenes: **0**;
-- dramatic assembly scans **8–185** are represented exactly once;
-- scans **1–7** remain front matter outside the scene layer;
-- scans **186–188** remain terminal non-dramatic material outside the scene layer;
-- unresolved assembly discrepancies: **0**;
-- when a ten-scan boundary cuts a future scene, keep that scene as `draft` and complete it in the next iteration; do not pull in an eleventh scan.
-
-## Tamil scene-assembly closure
-
-- `SCENE_ASSEMBLY_BATCH_11_REVIEW.md` — **PASS / COMPLETE / LOCKED / remaining scans 145–188**;
-- `SCENE_ASSEMBLY_FINAL_REVIEW.md` — **PASS / COMPLETE / CLOSED**;
-- numbered scenes: **61 / 61 assembly-reviewed**;
-- dramatic scan coverage: **8–185 exactly once**;
-- unresolved assembly discrepancies: **0**.
-
-No further Tamil page-layer, scene-assembly, or English-translation work remains for current source evidence. English translation is **COMPLETE / CLOSED** from the closed Tamil scene layer: Scenes **1–61 / 61** are reviewed; Batches **1–13** are **PASS / LOCKED**; `translations/en/TRANSLATION_REVIEW.md` is **PASS / COMPLETE / CLOSED**.
-
-## English translation phase — active
-
-User translation cadence: **15 scenes per iteration**. Preserve five-scene durable review artifacts; each routine user iteration completes three consecutive review batches.
-
-User authorization to proceed with the next eligible phase is recorded.
-
-Translation authority and safeguards:
-
-- immediate drafting authority: closed Tamil scene artifacts `works/iratha-kanneer/scenes/01.md` through `61.md`;
-- Tamil page transcription, H-GATE and Tamil scene assembly remain CLOSED;
-- do not draft English from OCR, web text, a later edition, plot memory, or the PDF as a substitute for the closed Tamil scene artifact;
-- translation choices must never retroactively alter Tamil source text;
-- preserve speaker order, stage directions, rhetorical repetition, satire, social/religious criticism, colloquial register and source-supported uncertainty;
-- secondary English witness used: **no**.
-
-Durable English state:
-
-- `works/iratha-kanneer/TRANSLATION_PLAN.md` — active plan;
-- `works/iratha-kanneer/translations/en/README.md` — progress control;
-- English Scenes **1–61 / 61** — **translation-reviewed**;
-- `translations/en/BATCH_01_REVIEW.md` through `BATCH_13_REVIEW.md` — **PASS / LOCKED**;
-- unresolved blocking English issues: **0**;
-- no English translation scene remains pending; final review: `translations/en/TRANSLATION_REVIEW.md` — **PASS / COMPLETE / CLOSED**.
-
-Default durable review batch: **5 consecutive scenes**. Finish and lock one batch before advancing.
-
-# CLOSED WORK SAFEGUARDS
-
-Keep completed `ஒரே முத்தம்` Tamil + English, `திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components closed unless explicitly reopened with genuinely new source evidence or a separately authorized phase.
-
-
-## Scene assembly cadence update
-
-User directive supersedes the earlier ten-scan cadence: process exactly **20 source scans per iteration**. If the twentieth scan lands inside a scene, keep that scene as `draft` and resume it in the next 20-scan iteration; never pull scan 21 forward merely to close the scene.
-
-
-## Terminal scene-assembly result
-
-Final Scene 61 closes on scan **185**. Scan **186** is `முடிவு` prose, scan **187** is publisher catalogue back matter, and scan **188** is the back wrapper / printer imprint. These remain outside the numbered scene layer by design.
+`இரத்தக் கண்ணீர்`, `ஒரே முத்தம்`, `திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `சிலப்பதிகாரம் — நாடகக் காப்பியம்`, `பரதாயணம்`, `அனார்கலி`, `சாக்ரடீஸ்`, `சேரன் செங்குட்டுவன்` and `மணிமகுடம்` remain closed unless separately authorized or genuinely stronger source evidence appears.
