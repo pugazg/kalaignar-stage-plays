@@ -15,7 +15,7 @@ Method: every visible publication-text token is compared in reading order agains
 | 03 | 11–15 | **5 PASS / COMPLETE** |
 | 04 | 16–20 | **4 PASS / 1 NEEDS-REVIEW** |
 | 05 | 21–25 | **4 PASS / 1 NEEDS-REVIEW** |
-| 06 | 26–30 | pending |
+| 06 | 26–30 | **5 PASS / COMPLETE** |
 | 07 | 31–35 | pending |
 | 08 | 36–40 | pending |
 | 09 | 41–45 | pending |
@@ -24,12 +24,12 @@ Method: every visible publication-text token is compared in reading order agains
 | 12 | 56–60 | pending |
 | 13 | 61–63 | pending |
 
-Current coverage: **25 / 63 scans**.
+Current coverage: **30 / 63 scans**.
 
 Current fidelity results:
-- PASS: **23** — scans **1–19, 21, 23–25**;
+- PASS: **28** — scans **1–19, 21, 23–30**;
 - NEEDS-REVIEW: **2** — scans **20, 22**;
-- source-proven correction loci in fidelity phase: **73**.
+- source-proven correction loci in fidelity phase: **101**.
 
 ## Batch 01 summary
 
@@ -67,4 +67,13 @@ Current fidelity results:
 - Batch 05 total source-proven correction loci: **36**;
 - cumulative fidelity correction loci: **73**.
 
-Next fidelity batch: **scans 26–30**.
+## Batch 06 summary
+
+- scans 26–30 — **5 PASS / COMPLETE**;
+- Batch 06 source-proven correction loci: **28**;
+- scan 30 received a physical-boundary repair: stale text from the following scan was removed and the page is correctly a Scene 7 continuation, not the scene close;
+- the source-supported historical `னா` identity in `படைக்குறானா?` was checked against same-edition evidence and preserved;
+- cumulative fidelity correction loci: **101**;
+- known follow-up: existing `pages/0031.md` is stale/misaligned and must be rebuilt from physical scan 31 before downstream scene mapping is trusted.
+
+Next fidelity batch: **scans 31–35**.

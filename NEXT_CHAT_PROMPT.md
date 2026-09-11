@@ -1,4 +1,4 @@
-# Next Chat Prompt — நச்சுக்கோப்பை word-by-word visual fidelity / scans 26–30
+# Next Chat Prompt — நச்சுக்கோப்பை word-by-word visual fidelity / scans 31–35
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/nachuk-koppai/`.
 
@@ -16,17 +16,18 @@ For every page compare every visible publication-text token, speaker label, stag
 ## Durable state
 - canonical page layer: **63 / 63 COMPLETE**;
 - H-GATE coverage: **63 / 63 COMPLETE**;
-- H-GATE PASS / verified: **24 / 63**;
-- H-GATE needs-review: **39 / 63**;
-- word-by-word fidelity coverage: **25 / 63**;
-- fidelity PASS: **23** — scans **1–19, 21, 23–25**;
+- H-GATE PASS / verified: **29 / 63**;
+- H-GATE needs-review: **34 / 63**;
+- word-by-word fidelity coverage: **30 / 63**;
+- fidelity PASS: **28** — scans **1–19, 21, 23–30**;
 - fidelity needs-review: **2** — scan **20** (`வேணும்லும்`) and scan **22** (two adjacent unidentified source glyph clusters after `சாந்தா`);
-- fidelity correction loci so far: **73**;
+- fidelity correction loci so far: **101**;
+- structural warning: **physical scan 30 ends before the Scene 7 close; stale next-scan text was removed from `pages/0030.md`, and the current `pages/0031.md` is known stale/misaligned**;
 - scene assembly remains blocked until full fidelity coverage + reconciliation.
 
 ## Exact next activity
-Process **Visual text fidelity Batch 06 — scans 26–30**.
+Process **Visual text fidelity Batch 07 — scans 31–35**.
 
-Update `pages/0026.md` through `pages/0030.md` with `visual_text_fidelity`, write `VISUAL_FIDELITY_BATCH_06.md`, update the master fidelity audit and synchronized controls, then commit immediately.
+Start by rebuilding `pages/0031.md` directly from physical scan 31 of the attached PDF; do not trust its current stale content. Then process `pages/0032.md` through `pages/0035.md`, write `VISUAL_FIDELITY_BATCH_07.md`, update the master fidelity audit and synchronized controls, then commit immediately.
 
-Do not reopen scans 1–25 in the same iteration unless genuinely stronger source evidence or user confirmation appears.
+Do not reopen scans 1–30 in the same iteration unless genuinely stronger source evidence or user confirmation appears.

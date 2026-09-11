@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE LAYER 63/63; H-GATE 63/63 CHECKED — 24 VERIFIED / 39 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 25/63, 23 PASS / 2 HOLDS, NEXT 26–30**
+Status: **PAGE LAYER 63/63; H-GATE 63/63 CHECKED — 29 VERIFIED / 34 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 30/63, 28 PASS / 2 HOLDS, NEXT 31–35**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -33,12 +33,12 @@ This preliminary map records physical scan identity and visually located scene o
 | 23 | Scene 5 | drama | complete | PASS | PASS | `verified` | printed p.19; fidelity wording/punctuation repairs source-resolved |
 | 24 | Scenes 5 / 6 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.20; Scene 5 closes / Scene 6 opens; speaker/spacing source-resolved |
 | 25 | Scenes 6 / 7 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.21; Scene 6 closes / Scene 7 opens; wording/scene/name holds resolved |
-| 26 | Scene 7 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.22; first-pass page marker `29` is OCR discrepancy |
-| 27 | Scene 7 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.23 |
-| 28 | Scene 7 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.24 |
-| 29 | Scene 7 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.25 |
-| 30 | Scene 7 | scene close | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.26; `சீன் முடிவு.` |
-| 31 | Scene 8 | scene opener | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.27; Scene 8 opener; corrects preliminary intake |
+| 26 | Scene 7 | drama | complete | PASS | PASS | `verified` | printed p.22; malformed labels / source forms fidelity-resolved; first-pass `29` remains OCR-only |
+| 27 | Scene 7 | drama | complete | PASS | PASS | `verified` | printed p.23; missing sentence and source wording fidelity-resolved |
+| 28 | Scene 7 | drama | complete | PASS | PASS | `verified` | printed p.24; token / speaker / punctuation repairs source-resolved |
+| 29 | Scene 7 | drama | complete | PASS | PASS | `verified` | printed p.25; transliteration/abbreviated label confirmed; word forms repaired |
+| 30 | Scene 7 | drama | complete | PASS | PASS | `verified` | printed p.26; physical page ends at `(சாந்தா கோட்டை எடுத்து வரல்)`; stale next-scan overrun removed |
+| 31 | boundary repair pending | pending source recheck | complete | PASS | NEEDS-REVIEW | `needs-review` | existing page record is known stale after scan-30 overrun repair; rebuild from physical scan 31 in Fidelity Batch 07 |
 | 32 | Scene 8 | scene close | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.28; Scene 8 closes |
 | 33 | Scene 9 | scene opener | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.29; Scene 9 opener; corrects preliminary intake |
 | 34 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.30 |
@@ -74,6 +74,6 @@ This preliminary map records physical scan identity and visually located scene o
 
 ## Intake cautions
 
-- Canonical page records now cover **all 63 physical scans**; source-processed scene boundaries in those records supersede the original intake-only guesses.
+- Page-record files exist for **all 63 physical scans**, but the fidelity pass is authoritative over earlier scene-boundary guesses. Batch 06 proved that the old scan-30 record had absorbed the following physical scan; scan 31 is therefore explicitly pending source rebuild before downstream scene mapping is trusted.
 - Scene assembly remains unauthorized until the page-layer H-GATE/hold state is explicitly dispositioned.
 - Scan 63 is the source-proven literary close with **முற்றும்** and printer imprint.
