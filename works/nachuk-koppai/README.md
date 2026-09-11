@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — P0 SOURCE INTAKE PARTIAL / NOT CLOSED**
+Status: **ACTIVE — BATCH 01 PASS A COMPLETE / H-GATE PENDING; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -40,10 +40,10 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - exact byte size: **18,459,068 bytes**;
 - SHA-256: **pending**;
 - page records created: **10 / 63**;
-- fully canonical page records: **1 / 63** (scan 1);
-- partial page records: **9 / 63** (scans 2–10);
+- fully canonical page records: **10 / 63** (scans 1–10);
+- partial page records: **0 / 63 within Batch 01**;
 - user-supplied first-pass baseline: **available for scans 1–10** at `first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
-- initial visual verification PASS: **1 / 63**;
+- initial visual verification PASS: **10 / 63**;
 - historical-glyph H-GATE: **0 / 63**;
 - final verified pages: **0 / 63**;
 - scene assembly: **not started**;
@@ -62,9 +62,6 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 ## Next activity
 
 1. compute the remaining SHA-256 fingerprint of the attached PDF when local-byte checksum execution is available;
-2. compare the user-supplied Batch 01 first-pass against the **attached PDF only** for scans 2–10 and repair only source-proven mismatches so Pass A can close;
-3. then continue Batch 01:
-   - Pass A whole-page transcription / ordinary visual verification;
-   - durable Pass-A commit;
-   - targeted independent H-GATE;
-   - Batch 01 closure commit if every scan passes.
+2. run **Batch 01 Pass B / H-GATE for scans 1–10** against the attached PDF only;
+3. adjudicate the explicit source-sensitive holds recorded in BATCH_01_PASS_A.md only where the attached pixels prove a different reading;
+4. create BATCH_01_REVIEW.md and promote clean pages only after the gate passes.

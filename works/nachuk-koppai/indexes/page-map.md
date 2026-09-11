@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **BATCH 01 SOURCE INSPECTION IN PROGRESS — 10 / 63 PAGE RECORDS CREATED; 1 FULL + 9 PARTIAL; H-GATE 0 / 63**
+Status: **BATCH 01 PASS A COMPLETE — SCANS 1–10 CANONICAL BASELINES COMPLETE; INITIAL VERIFICATION 10 / 10 PASS; H-GATE 0 / 63**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -9,15 +9,15 @@ This preliminary map records physical scan identity and visually located scene o
 | Scan | Preliminary section / scene | Page type | Canonical | Initial verification | H-GATE | Final status | Intake note |
 |---:|---|---|---|---|---|---|---|
 | 1 | front matter | cover | complete | PASS | pending | `needs-review` | cover text source-secure; H-GATE pending |
-| 2 | front matter | edition/front matter | partial | partial | pending | `partial` | edition/year/price/`ஒரு துளி` secure; body pending |
-| 3 | front matter | front matter | partial | partial | pending | `partial` | `பதிப்புரை` heading secure; body pending |
-| 4 | front matter | dramatis personae | partial | partial | pending | `partial` | heading secure; two-column names pending |
-| 5 | Scene 1 | drama | partial | partial | pending | `partial` | Scene 1 opener; printed p.1; `இடம் : நந்தவனம்` |
-| 6 | Scene 1 | drama | partial | partial | pending | `partial` | printed p.2; Scene 1 continues |
-| 7 | Scene 1 | drama | partial | partial | pending | `partial` | printed p.3; Scene 1 continues |
-| 8 | Scenes 1 / 2 | shared scene-boundary page | partial | partial | pending | `partial` | printed p.4; Scene 1 closes above separator; Scene 2 opens below |
-| 9 | Scene 2 | drama | partial | partial | pending | `partial` | printed p.5 |
-| 10 | Scene 2 | drama | partial | partial | pending | `partial` | printed p.6; continues |
+| 2 | front matter | edition/front matter | complete | PASS | pending | `needs-review` | user first-pass reconciled; library mark separated; H-GATE pending |
+| 3 | front matter | front matter | complete | PASS | pending | `needs-review` | body baseline complete; final sign-off retained as explicit source-sensitive hold |
+| 4 | front matter | dramatis personae | complete | PASS | pending | `needs-review` | full supplied list retained; two name forms held for targeted review |
+| 5 | Scene 1 | drama | complete | PASS | pending | `needs-review` | Scene 1 opener; printed p.1; H-GATE pending |
+| 6 | Scene 1 | drama | complete | PASS | pending | `needs-review` | printed p.2; explicit speaker/punctuation/source holds retained |
+| 7 | Scene 1 | drama | complete | PASS | pending | `needs-review` | printed p.3; Scene 1 continues; H-GATE pending |
+| 8 | Scenes 1 / 2 | shared scene-boundary page | complete | PASS | pending | `needs-review` | printed p.4; Scene 1 closes; Scene 2 opens; `சாந்தர்` retained as hold |
+| 9 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.5; ambiguous first-pass wording retained for targeted review |
+| 10 | Scene 2 | drama | complete | PASS | pending | `needs-review` | printed p.6; `மூக் ஞக் கண்ணாடி` retained as source-sensitive hold |
 | 11 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
 | 12 | Scene 2 | drama | pending | pending | pending | `not-started` |  |
 | 13 | Scene 2 | drama | pending | pending | pending | `not-started` |  |

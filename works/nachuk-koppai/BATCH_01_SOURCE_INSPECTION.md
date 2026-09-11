@@ -36,3 +36,16 @@ Per repository policy, this is a **comparison baseline, not controlling authorit
 No missing body text was reconstructed from plot knowledge, a later edition, OCR, or the unproofread Wikisource transcription.
 
 The next source-dependent pass must compare the new user-supplied first-pass baseline against the attached PDF for scans 2–10, correct only source-proven mismatches, complete Pass A, commit it durably, then run targeted H-GATE.
+
+
+## Pass-A completion
+
+The user's supplied transcription has now been reconciled into full canonical baselines for scans **1–10**. See BATCH_01_PASS_A.md.
+
+- full canonical baselines: **10 / 10**;
+- initial verification: **10 / 10 PASS**;
+- status after Pass A: **10 / 10 needs-review**;
+- H-GATE: **pending**;
+- final Batch 01 review: **not yet created**.
+
+The earlier partial checkpoint is superseded for Pass-A completeness but remains useful as history.

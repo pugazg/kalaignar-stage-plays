@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / BATCH 01 SOURCE INSPECTION
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / BATCH 01 PASS A COMPLETE
 
 Active work: `works/nachuk-koppai/`.
 
@@ -35,10 +35,10 @@ Current durable state:
 - preliminary numbered scenes: **18**;
 - scan 63: **முற்றும்**;
 - page records created: **10 / 63**;
-- full canonical records: **1 / 63** (scan 1);
-- partial records: **9 / 63** (scans 2–10);
+- full canonical records: **10 / 63** (scans 1–10);
+- partial records in Batch 01: **0**;
 - user-supplied first-pass baseline: **ingested for scans 1–10** at `works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
-- Batch 01 Pass A: **IN PROGRESS / NOT COMPLETE**;
+- Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
 - H-GATE: **0 / 63**;
 - final verified pages: **0 / 63**;
 - scene assembly: **not started**;
@@ -56,12 +56,14 @@ Current durable state:
 
 ## Exact next activity
 
-1. compute SHA-256 from the exact attached bytes when checksum execution is available;
-2. compare `first-pass/BATCH_01_USER_TRANSCRIPTION.md` against scans **2–10 from the attached PDF only** and replace placeholders with source-reconciled text; change the first-pass reading only where the scan unambiguously proves a mismatch;
-3. declare Batch 01 Pass A complete only when all 10 page records are canonical and ordinary visual verification passes;
-4. run targeted independent H-GATE for scans 1–10;
-5. create `BATCH_01_REVIEW.md` only if the full batch passes;
-6. do not begin scene assembly or English translation.
+1. run targeted independent **H-GATE / Pass B for scans 1–10** using only the attached PDF;
+2. check the complete mandatory family set and the explicit source-sensitive holds in works/nachuk-koppai/BATCH_01_PASS_A.md;
+3. change a retained first-pass reading only where attached-source pixels unambiguously prove the replacement;
+4. promote clean pages to verified;
+5. create BATCH_01_REVIEW.md only if all 10 scans satisfy closure;
+6. synchronize controls and commit;
+7. SHA-256 remains a separate P0 fingerprint hold; do not block page work on it;
+8. do not begin scene assembly or English translation.
 
 ## Closed work safeguards
 
