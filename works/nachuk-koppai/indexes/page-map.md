@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE RECORDS 63/63 PRESENT; H-GATE 63/63 CHECKED — 60 VERIFIED / 3 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 63/63 COMPLETE, 60 PASS / 3 HOLDS; PAGE-STATE RECONCILIATION NEXT**
+Status: **PAGE-STATE RECONCILIATION COMPLETE — 63/63; 60 VERIFIED / 3 TERMINAL SOURCE-CONDITION HOLDS (20, 22, 35); SCENE ASSEMBLY NEXT**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -27,9 +27,9 @@ This preliminary map records physical scan identity and visually located scene o
 | 17 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.13; opening speaker source-resolved |
 | 18 | Scenes 2 / 3 | shared scene-boundary page | complete | PASS | PASS | `verified` | Scene 2/3 boundary; header/scene/speaker source-resolved |
 | 19 | Scene 3 | drama | complete | PASS | PASS | `verified` | printed p.15; speaker/name repaired; unusual forms confirmed |
-| 20 | Scenes 3 / 4 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | Scene 3/4 boundary; only `வேணும்லும்` remains unresolved |
+| 20 | Scenes 3 / 4 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | terminal source-condition hold: overinked cluster in retained provisional `வேணும்லும்`; Scene 3/4 boundary secure |
 | 21 | Scene 4 | drama | complete | PASS | PASS | `verified` | printed p.17; fidelity repairs resolved header/labels/source forms |
-| 22 | Scene 5 | scene opener | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.18; Scene 5 opener; two adjacent source glyph clusters after `சாந்தா` remain unresolved |
+| 22 | Scene 5 | scene opener | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.18; terminal source-condition hold: two adjacent source clusters after `சாந்தா`; Scene 5 opener secure |
 | 23 | Scene 5 | drama | complete | PASS | PASS | `verified` | printed p.19; fidelity wording/punctuation repairs source-resolved |
 | 24 | Scenes 5 / 6 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.20; Scene 5 closes / Scene 6 opens; speaker/spacing source-resolved |
 | 25 | Scenes 6 / 7 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.21; Scene 6 closes / Scene 7 opens; wording/scene/name holds resolved |
@@ -42,7 +42,7 @@ This preliminary map records physical scan identity and visually located scene o
 | 32 | Scene 8 | scene opener | complete | PASS | PASS | `verified` | printed p.28; source-first realigned; Scene 8 opens |
 | 33 | Scene 8 | scene close | complete | PASS | PASS | `verified` | printed numeral not visible/not inferred; source-first realigned; Scene 8 closes |
 | 34 | Scene 9 | scene opener | complete | PASS | PASS | `verified` | printed p.30; source-first realigned; Scene 9 opens |
-| 35 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.31; source-first realigned; damaged word before `சூர்ய நாராயண` held provisionally as `சுடகோடி`; non-authorial `4062` excluded |
+| 35 | Scene 9 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.31; terminal source-condition hold: damaged word before `சூர்ய நாராயண`, provisional `சுடகோடி`; non-authorial `4062` excluded |
 | 36 | Scene 9 | drama | complete | PASS | PASS | `verified` | printed p.32; source-first realigned; Nondi/Maniyappar dialogue; page continues from scan 35 |
 | 37 | Scene 9 | drama | complete | PASS | PASS | `verified` | printed p.33; source-first realigned; Nondi exit / Pazhani dialogue |
 | 38 | Scene 9 | drama | complete | PASS | PASS | `verified` | printed p.34; source-first realigned; Santha letter begins |
@@ -75,5 +75,6 @@ This preliminary map records physical scan identity and visually located scene o
 ## Intake cautions
 
 - Page-record files exist for **all 63 physical scans**, and the word-by-word fidelity pass is now authoritative across **63 / 63**. Batches 07–13 repaired the downstream physical-page drift and independently reconciled the final three scans.
-- Three page-level holds remain: scans **20, 22 and 35**. Full page-state reconciliation is required before scene assembly.
+- Three page-level holds remain on scans **20, 22 and 35**, and strongest-pixel reconciliation classifies all three as **terminal source-condition holds for the current attached PDF**.
+- Full page-state reconciliation is **COMPLETE**. Scene assembly may proceed only with explicit hold propagation.
 - Scan 63 is source-proven as the combined **final dialogue + முற்றும் + printer imprint** physical page.

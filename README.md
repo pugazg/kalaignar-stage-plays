@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — word-by-word visual fidelity audit 20/63 scans: 19 PASS / scan 20 one hold; next scans 21–25; H-GATE now 20 verified / 43 needs-review; P0 SHA-256 hold remains** |
+| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — Tamil page layer reconciled 63/63; 60 verified + 3 terminal source-condition holds; scene assembly next; P0 SHA-256 hold remains** |
 | [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page layer 188/188; Tamil scenes 61/61; English 61/61 reviewed; 13/13 translation batches PASS/LOCKED; final English review PASS** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
@@ -93,7 +93,7 @@ Final English state: **33 / 33** scenes reviewed; **7 / 7 PASS / LOCKED** batche
 `ஒரே முத்தம்` Tamil and English workflows, `திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened with genuinely new source evidence or a separately authorized phase.
 
 
-## நச்சுக்கோப்பை — active source-intake checkpoint
+## நச்சுக்கோப்பை — reconciled Tamil page-layer checkpoint
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -113,10 +113,12 @@ Current intake state:
 - page records: **63 / 63 canonical — PAGE-LAYER PASS A COMPLETE**;
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
 - user-supplied first-pass baseline: **INGESTED for scans 1–10** (`works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`);
-- H-GATE: **63 / 63 checked — 20 PASS / 43 needs-review — COMPLETE COVERAGE**;
-- scene assembly: **not started**;
+- H-GATE: **63 / 63 checked — 60 PASS / 3 terminal source-condition needs-review**;
+- word-by-word visual fidelity: **63 / 63 COMPLETE — 60 PASS / 3 terminal holds**;
+- full page-state reconciliation: **COMPLETE — 63 / 63**;
+- scene assembly: **not started — NEXT**;
 - English translation: **not started / not authorized as an active phase yet**.
 
 The user's contextual description (1943 origin/performance history, alternate title `சாந்தா (அ) பழனியப்பன்`, and thematic summary) is recorded separately as **user-supplied context**, not as controlling-scan text.
 
-Exact next activity: continue the **word-by-word visual text fidelity audit in 5-page iterations**, next scans **21–25**. Scan 20 retains one unresolved fidelity locus: `வேணும்லும்`. Full 63-page state reconciliation is postponed until this exhaustive fidelity pass is complete. SHA-256 remains a separate P0 fingerprint hold.
+Exact next activity: begin **Tamil scene assembly, Scenes 1–5**, from the reconciled canonical page layer. The terminal source-condition holds on scans **20, 22 and 35** must be propagated explicitly into any affected assembled scenes. SHA-256 remains a separate P0 fingerprint hold.

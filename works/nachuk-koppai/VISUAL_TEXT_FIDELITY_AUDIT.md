@@ -28,7 +28,7 @@ Current coverage: **63 / 63 scans — COMPLETE**.
 
 Current fidelity results:
 - PASS: **60** — scans **1–19, 21, 23–34, 36–63**;
-- NEEDS-REVIEW: **3** — scans **20, 22, 35**;
+- TERMINAL SOURCE-CONDITION HOLDS: **3** — scans **20, 22, 35**;
 - source-proven correction loci in fidelity phase: **280**.
 
 ## Batch 01 summary
@@ -152,3 +152,28 @@ Current fidelity results:
 - word-by-word visual fidelity coverage is now **63 / 63 COMPLETE**.
 
 Next phase: **full 63-page state reconciliation**, beginning with the three remaining fidelity holds at scans **20, 22 and 35**. Do not begin scene assembly yet.
+
+
+## Full page-state reconciliation
+
+Status: **COMPLETE / 63 OF 63 PAGE STATES RECONCILED**
+
+Reconciliation actions:
+
+- all 63 page-file metadata blocks were checked against the completed word-by-word fidelity layer;
+- `scan_page`, section/scene state, page type, final `status`, `historical_glyph_gate`, and `visual_text_fidelity` are internally aligned;
+- stale early Pass-A notes on scans **6, 8, 9 and 10** were repaired so they no longer claim H-GATE `NEEDS-REVIEW` after later PASS closure;
+- the repaired downstream page alignment is now authoritative through scan **63**;
+- scan **63** remains the source-proven combined **final dialogue + முற்றும் + printer imprint** page;
+- the three remaining loci on scans **20, 22 and 35** were re-read from the strongest attached-source pixels available and remain unresolved without guessing;
+- those three are now explicitly classified as **terminal source-condition holds for the current attached PDF**, rather than unfinished routine review.
+
+Reconciled page state:
+
+- verified / PASS: **60 / 63**;
+- terminal source-condition `needs-review`: **3 / 63** — scans **20, 22, 35**;
+- blocked: **0**;
+- word-by-word fidelity coverage: **63 / 63 COMPLETE**;
+- page-state reconciliation: **COMPLETE**.
+
+Scene assembly may now begin from the reconciled page layer, but every assembled scene that intersects a terminal hold must carry that hold forward explicitly.

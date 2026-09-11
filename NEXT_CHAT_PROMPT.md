@@ -1,4 +1,4 @@
-# Next Chat Prompt — நச்சுக்கோப்பை full page-state reconciliation
+# Next Chat Prompt — நச்சுக்கோப்பை Tamil scene assembly / Scenes 1–5
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/nachuk-koppai/`.
 
@@ -6,33 +6,56 @@ Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work 
 
 Fetch live `main` first and preserve newer durable work.
 
-## Controlling source
+## Controlling authority
 
-Use only attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
+The attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` remains the controlling source, but routine scene assembly must assemble from the now-reconciled canonical page records rather than retranscribing the PDF from scratch.
 
-## Durable state
+## Durable page-layer state
 
-- canonical page records: **63 / 63 present**;
-- word-by-word visual fidelity: **63 / 63 COMPLETE**;
-- fidelity PASS: **60** — scans **1–19, 21, 23–34, 36–63**;
-- remaining fidelity holds: **3** — scan **20** (`வேணும்லும்`), scan **22** (two adjacent unidentified source glyph clusters after `சாந்தா`), scan **35** (damaged/overinked word before `சூர்ய நாராயண`, provisionally `சுடகோடி`);
-- H-GATE PASS / verified: **60 / 63**;
-- H-GATE needs-review: **3 / 63** — the same scans **20, 22, 35**;
-- cumulative source-proven fidelity correction loci: **280**;
-- downstream physical-page drift has been repaired through scan 63;
-- final physical scan **63** contains the **final dialogue + முற்றும் + printer imprint**;
-- P0 SHA-256 remains **pending** and is outside this reconciliation unless separately authorized;
-- scene assembly and English translation remain blocked.
+- canonical page records: **63 / 63**;
+- word-by-word fidelity: **63 / 63 COMPLETE**;
+- full page-state reconciliation: **COMPLETE**;
+- verified pages: **60 / 63**;
+- terminal source-condition holds: **3 / 63** — scans **20, 22, 35**;
+- blocked pages: **0**;
+- physical-page drift: **fully repaired through scan 63**;
+- final scan 63: **final dialogue + முற்றும் + printer imprint**;
+- P0 SHA-256: **still pending / separate hold**;
+- English translation: **not started**.
+
+Terminal holds must not be guessed away:
+
+- scan 20 — retained provisional `வேணும்லும்`; source has an overinked unresolved cluster at the line boundary;
+- scan 22 — two unidentified source clusters after `சாந்தா` in the `ஏகா — பாட்டு.` line;
+- scan 35 — damaged word before `சூர்ய நாராயண`, provisionally carried as `சுடகோடி`.
 
 ## Exact next activity
 
-Perform the **full 63-page state reconciliation**.
+Assemble **Scenes 1–5** into:
 
-1. Reinspect the three remaining holds on scans **20, 22 and 35** against the strongest attached-source pixels available. Resolve a locus only if the attached source itself is secure; otherwise preserve it explicitly.
-2. Reconcile all **63 page records** against the completed fidelity results: front matter, printed-page values, scene boundaries, page types, H-GATE, `status`, and `visual_text_fidelity`.
-3. Remove stale pre-fidelity / pre-realignment notes and ensure no downstream record still assumes the old one-page drift.
-4. Reconcile `indexes/page-map.md`, `README.md`, `VISUAL_TEXT_FIDELITY_AUDIT.md`, root `HANDOVER.md`, and this prompt.
-5. Write a durable reconciliation record, e.g. `PAGE_STATE_RECONCILIATION.md`.
-6. Commit atomically.
+- `works/nachuk-koppai/scenes/01.md`
+- `works/nachuk-koppai/scenes/02.md`
+- `works/nachuk-koppai/scenes/03.md`
+- `works/nachuk-koppai/scenes/04.md`
+- `works/nachuk-koppai/scenes/05.md`
 
-Do **not** start scene assembly or English translation in the same iteration unless reconciliation is fully complete and a later user instruction authorizes the next phase.
+Source scan spans:
+
+- Scene 1 — scans **5–8**;
+- Scene 2 — scans **8–18**;
+- Scene 3 — scans **18–20**;
+- Scene 4 — scans **20–21**;
+- Scene 5 — scans **22–24**.
+
+Assembly rules:
+
+1. assemble only from canonical page records;
+2. on shared boundary pages, take only the text belonging to the target scene;
+3. remove mechanical page breaks only; do not alter wording, punctuation, labels or stage directions;
+4. include `source_scan_pages` provenance in scene front matter;
+5. propagate the scan 20 terminal hold into **Scene 3** and the scan 22 terminal hold into **Scene 5**;
+6. do not use OCR, TDL, Wikisource, another edition, grammar or context to repair source wording;
+7. review all five assembled scenes against the page records;
+8. write a durable assembly-review checkpoint, update README/page-map/HANDOVER/NEXT_CHAT_PROMPT, and commit atomically.
+
+Do not start English translation in this iteration.

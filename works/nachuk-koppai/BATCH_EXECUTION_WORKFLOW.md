@@ -56,7 +56,7 @@ Short rule:
 
 # Word-by-word visual text fidelity phase
 
-Status: **ACTIVE / USER-DIRECTED**
+Status: **COMPLETE — 63/63 CHECKED; 60 PASS + 3 TERMINAL SOURCE-CONDITION HOLDS**
 
 This phase begins after canonical page coverage and H-GATE coverage. It is a fresh, exhaustive source-fidelity pass and supersedes the previously planned immediate 63-page state reconciliation.
 
@@ -96,3 +96,41 @@ This phase is independent of H-GATE. A page is clean for downstream reconciliati
 Short rule:
 
 > **5 scans → every word visually compared → source-proven corrections only → commit → next 5 scans.**
+
+
+# Full page-state reconciliation
+
+Status: **COMPLETE**
+
+The completed 63/63 fidelity layer was reconciled against all 63 canonical page files.
+
+Final page-layer state:
+
+- verified: **60 / 63**;
+- terminal source-condition `needs-review`: **3 / 63** — scans **20, 22, 35**;
+- blocked: **0**;
+- downstream one-page drift: **fully repaired through scan 63**;
+- final closure: scan **63** contains final dialogue + `முற்றும்` + printer imprint.
+
+The three holds were re-read at the strongest attached-source resolution available and remain unresolved without guessing. They are terminal for current source evidence and must be propagated into scene assembly rather than silently corrected.
+
+# Tamil scene assembly phase
+
+Status: **NEXT**
+
+Assembly authority is the reconciled page layer, not OCR or a new retranscription.
+
+Rules:
+
+1. assemble from canonical page records only;
+2. preserve source wording, punctuation, speaker labels and stage directions;
+3. remove only mechanical physical-page breaks when joining a scene;
+4. record `source_scan_pages` in each scene file;
+5. on shared boundary pages, include only the text belonging to that scene;
+6. propagate terminal source-condition holds from scans 20, 22 and 35 explicitly;
+7. do not resolve a page hold during assembly unless genuinely stronger controlling-source evidence appears;
+8. use `scenes/01.md`, `02.md`, etc.;
+9. review assembled scene text against the source page records before marking the scene assembly PASS;
+10. English translation remains a later phase.
+
+First assembly batch: **Scenes 1–5**.

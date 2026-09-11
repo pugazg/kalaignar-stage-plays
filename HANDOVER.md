@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / WORD-BY-WORD FIDELITY 63/63 COMPLETE / PAGE-STATE RECONCILIATION NEXT
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / PAGE-STATE RECONCILIATION COMPLETE / SCENE ASSEMBLY NEXT
 
 Active work: `works/nachuk-koppai/`.
 
@@ -42,7 +42,7 @@ Current durable state:
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
 - H-GATE checked: **63 / 63 — COMPLETE**;
 - H-GATE PASS: **60 / 63**;
-- H-GATE needs-review: **3 / 63 — scans 20, 22 and 35**;
+- H-GATE needs-review: **3 / 63 — terminal source-condition holds on scans 20, 22 and 35**;
 - final verified pages: **60 / 63**;
 - Batch 07 Pass A: **COMPLETE — scans 61–63**;
 - Batch 07 H-GATE: **CHECKED — 1 PASS / 2 needs-review; scan 63 verified**;
@@ -59,7 +59,7 @@ Current durable state:
 - visual text fidelity audit: **ACTIVE — 5 scans per iteration**;
 - fidelity coverage: **63 / 63 scans — COMPLETE**;
 - fidelity PASS: **60 — scans 1–19, 21, 23–34, 36–63**;
-- fidelity needs-review: **3 — scan 20 (`வேணும்லும்`), scan 22 (two adjacent unidentified source glyph clusters after `சாந்தா`), and scan 35 (damaged overinked word before `சூர்ய நாராயண`, provisionally `சுடகோடி`)**;
+- fidelity terminal source-condition holds: **3 — scan 20 (`வேணும்லும்` provisional), scan 22 (two adjacent unidentified source clusters after `சாந்தா`), and scan 35 (damaged word before `சூர்ய நாராயண`, provisional `சுடகோடி`)**;
 - fidelity source-proven correction loci: **280**;
 - Fidelity Batch 05: **COMPLETE — 4 PASS / 1 needs-review**;
 - Fidelity Batch 06: **COMPLETE — 5 PASS / 0 needs-review**;
@@ -71,7 +71,8 @@ Current durable state:
 - Fidelity Batch 12: **COMPLETE — 5 PASS / 0 needs-review; 35 textual repairs + 5 physical-page realignments**;
 - Fidelity Batch 13: **COMPLETE — 3 PASS / 0 needs-review; 10 textual repairs + 3 final physical-page/closure reconciliations**;
 - structural finding: **records 31–63 have now been rebuilt/re-anchored source-first; scan 63 is the source-proven combined final dialogue / literary close / imprint page**;
-- scene assembly: **not started**;
+- full page-state reconciliation: **COMPLETE — 63 / 63; 60 verified + 3 terminal source-condition holds**;
+- scene assembly: **not started — NEXT**;
 - English translation: **not started**.
 
 ## Batch 01 durable findings
@@ -86,14 +87,14 @@ Current durable state:
 
 ## Exact next activity
 
-1. continue the user-directed **word-by-word visual text fidelity audit**;
-2. process exactly **5 physical scans per iteration**;
-3. perform **full 63-page state reconciliation**;
-4. begin with the three remaining holds on scans **20, 22 and 35**, using only the attached PDF and stronger/enlarged source pixels; resolve only if source-secure, otherwise preserve the hold;
-5. reconcile every page record / page-map / H-GATE / fidelity status against the now-complete 63/63 source-aligned layer and remove stale pre-fidelity metadata or boundary assumptions;
-6. write a durable page-state reconciliation record and synchronize README, page-map, HANDOVER and NEXT_CHAT_PROMPT;
-7. commit the reconciliation atomically;
-8. do not begin scene assembly or English translation until reconciliation is complete.
+1. begin **Tamil scene assembly** from the reconciled page layer;
+2. first batch: **Scenes 1–5**;
+3. create `works/nachuk-koppai/scenes/01.md` through `05.md`;
+4. source spans: Scene 1 scans **5–8**; Scene 2 **8–18**; Scene 3 **18–20**; Scene 4 **20–21**; Scene 5 **22–24**;
+5. split shared boundary pages at the source-visible scene headings and do not duplicate unrelated text;
+6. propagate terminal holds: scan 20 hold belongs to Scene 3; scan 22 unresolved clusters belong to Scene 5;
+7. compare assembled scenes against their canonical page records, write a durable assembly-review checkpoint, synchronize controls, and commit atomically;
+8. do not start English translation.
 
 ## Closed work safeguards
 

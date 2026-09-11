@@ -1,0 +1,123 @@
+# நச்சுக்கோப்பை — Full 63-page state reconciliation
+
+Status: **COMPLETE / CURRENT SOURCE EVIDENCE**
+
+Controlling authority: attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` only.
+
+Base fidelity state entering reconciliation:
+
+- canonical page records: **63 / 63**;
+- word-by-word visual fidelity coverage: **63 / 63 COMPLETE**;
+- fidelity PASS: **60**;
+- open holds entering reconciliation: **3** — scans **20, 22, 35**;
+- cumulative fidelity correction loci: **280**.
+
+## Hold reinspection
+
+### Scan 20 — printed p.16
+
+Retained provisional reading: `வேணும்லும்`.
+
+Strongest-pixel reinspection confirms:
+
+- visible `வேணும்`;
+- an overinked / unreadable source cluster at the physical line end;
+- `லும்` begins the following source line.
+
+The intervening character identity cannot be established securely from the attached scan. Same-edition historical-glyph comparison does not remove the ambiguity.
+
+Disposition: **TERMINAL SOURCE-CONDITION HOLD**.
+
+### Scan 22 — printed p.18
+
+Location: two adjacent source clusters after `சாந்தா` in the `ஏகா — பாட்டு.` line.
+
+Strongest-pixel reinspection confirms both marks are physically present, but their character identity is not secure enough for Unicode transcription. The former guessed reading remains withdrawn.
+
+Disposition: **TERMINAL SOURCE-CONDITION HOLD**.
+
+### Scan 35 — printed p.31
+
+Location: damaged / overinked word immediately before `சூர்ய நாராயண`.
+
+The source securely establishes the existence and position of the word, but not the full character sequence. The earlier first-pass `சுடகோடி` is retained only provisionally and is not promoted to verified source text.
+
+Disposition: **TERMINAL SOURCE-CONDITION HOLD**.
+
+## 63-page metadata reconciliation
+
+All 63 page files were checked for:
+
+- physical `scan_page`;
+- printed-page value where source-visible;
+- section / scene;
+- page type;
+- `initial_verification`;
+- `historical_glyph_gate`;
+- `visual_text_fidelity`;
+- final `status`;
+- downstream physical-page alignment;
+- scene-boundary placement.
+
+Result:
+
+- verified: **60 / 63**;
+- terminal source-condition `needs-review`: **3 / 63** — scans **20, 22, 35**;
+- blocked: **0**;
+- missing page records: **0**;
+- fidelity coverage: **63 / 63**;
+- H-GATE coverage: **63 / 63**.
+
+Stale early disposition notes were found on scans **6, 8, 9 and 10**: their front matter already correctly said H-GATE/fidelity PASS, while their older Pass-A narrative still said `NEEDS-REVIEW`. Those stale narrative notes were repaired.
+
+No remaining page file assumes the pre-fidelity one-page downstream drift.
+
+## Reconciled scene-to-scan map
+
+| Scene | Physical scans |
+|---:|---|
+| 1 | 5–8 |
+| 2 | 8–18 |
+| 3 | 18–20 |
+| 4 | 20–21 |
+| 5 | 22–24 |
+| 6 | 24–25 |
+| 7 | 25–31 |
+| 8 | 32–33 |
+| 9 | 34–41 |
+| 10 | 41–42 |
+| 11 | 43 |
+| 12 | 43–44 |
+| 13 | 44–46 |
+| 14 | 46–48 |
+| 15 | 49–50 |
+| 16 | 50–54 |
+| 17 | 54–55 |
+| 18 | 55–63 |
+
+Shared physical pages must be split at their source-visible scene headings during scene assembly.
+
+Terminal-hold propagation:
+
+- scan 20 hold belongs to **Scene 3**;
+- scan 22 hold belongs to **Scene 5**;
+- scan 35 hold belongs to **Scene 9**.
+
+## Final-page closure
+
+Physical scan **63** is source-proven as one combined page containing:
+
+1. the final Scene 18 dialogue;
+2. the non-authorial handwritten/accession mark `4063`;
+3. `முற்றும்`;
+4. `ராஜன் எலக்டிரிக் பிரஸ், சென்னை 1.`
+
+The non-authorial mark remains separate from literary text.
+
+## Reconciliation result
+
+**PASS / COMPLETE FOR CURRENT SOURCE EVIDENCE, WITH 3 EXPLICIT TERMINAL SOURCE-CONDITION HOLDS.**
+
+The Tamil page layer is now ready for scene assembly. The three holds are not permission to guess: affected scene files must carry them forward explicitly.
+
+P0 SHA-256 remains separately pending and was not expanded into this reconciliation.
