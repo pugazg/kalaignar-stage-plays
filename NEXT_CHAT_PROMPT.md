@@ -1,62 +1,78 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் final scans 181–188
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் Tamil scene assembly
 
-Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/iratha-kanneer/`.
+Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work:
+
+`works/iratha-kanneer/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
 Fetch live `main` first and preserve newer durable state. Keep all previously closed works closed.
 
-## Controlling source
+## Controlling source and closed page layer
 
 `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`
 
 - first edition: **1953**
 - publisher: **திராவிடப் பண்ணை**
 - physical scans: **188**
-- image-only
 - SHA-256: `120428985bd327456df46b9e06271896b106332711f4c9063d4f0c7fe72b6441`
+- image-only
 - source PDF is not committed
 - raw 188-scan PDF controls even though conversation preview stops at 150
 
-## Mandatory startup
+Page layer is **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**:
 
-Read `STAGE_PLAY_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_GATE.md`, root `HANDOVER.md`, this prompt, `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md`, work `README.md`, `metadata/source.md`, `indexes/page-map.md`, `HISTORICAL_GLYPH_AUDIT.md`, `BATCH_18_REVIEW.md`, and page records through `pages/0180.md`.
-
-## Durable checkpoint
-
-- P0 source intake: **PASS**
-- canonical page records: **180 / 188**
-- initial visual verification: **180 / 188**
-- H-GATE: **180 / 188**
-- final verified: **180 / 188**
-- contiguous verified range: **scans 1–180**
-- Batches 01–18: **PASS / COMPLETE**
-- Batch 18: **PASS / COMPLETE / LOCKED**
-- Batch-18 Pass-A commit: **`56c86aa145a44c443c0fb314ea06bdfffe96c538`**
-- historical-glyph corrections: **36**
+- canonical page records: **188 / 188**
+- initial visual verification: **188 / 188 PASS**
+- historical-glyph H-GATE: **188 / 188 PASS**
+- final `verified`: **188 / 188**
+- Batches 01–19: **PASS / COMPLETE**
+- Batch 19: **PASS / COMPLETE / LOCKED**
+- Batch-19 Pass-A durable commit: **`64343c46ae14791dfde44155f1543768081b6c8c`**
+- historical-glyph corrections: **37**
 - unresolved page-level source issues: **0**
 - `needs-review`: **0**
 - `blocked`: **0**
-- scene assembly: **not started / blocked until page layer closes**
-- English: **not authorized / not started**
 
-## Batch 18 structure
+Do **not** reopen page transcription or H-GATE unless genuinely new source evidence appears.
 
-- scan 171 closes Scene 57 after continuing scan 170 `பெண்கள்`;
-- Scene 58 spans scans **172–179** and closes on scan 179;
-- scan 173→174 preserves `உடனே போய்,` → `வைத்தியர் பூபதியை...`;
-- scan 174 has two internal star transitions, not scene closes;
-- scan 178→179 preserves `அந்தக்` → `கதைகள்...`;
-- Scene 59 opens on scan **180** and continues into scan 181.
+## Mandatory startup
 
-Historical corrections added: scan 172 `வரமாட்டானு?` → **`வரமாட்டானா?`** (`னா`); scan 180 `முத்தனுள்` → **`முத்தனால்`** (`னா`). Do not globalize local glyph adjudications.
+Read completely:
 
-## Exact next activity — Batch 19 / scans 181–188
+1. `STAGE_PLAY_PROCESSING_GUIDE.md`
+2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+3. `HISTORICAL_TAMIL_GLYPH_GATE.md`
+4. root `HANDOVER.md`
+5. this `NEXT_CHAT_PROMPT.md`
+6. `works/iratha-kanneer/README.md`
+7. `works/iratha-kanneer/indexes/page-map.md`
+8. `works/iratha-kanneer/HISTORICAL_GLYPH_AUDIT.md`
+9. `works/iratha-kanneer/BATCH_19_REVIEW.md`
+10. verified page records `pages/0001.md` through `pages/0188.md`
 
-1. **Pass A once:** render/read scans **181–188** from the local PDF; create `pages/0181.md` through `0188.md`; establish source-proven joins/scene boundaries only.
-2. **Commit Pass A immediately before any H-GATE.**
-3. **Pass B targeted H-GATE only:** mandatory families plus actual candidate/source-sensitive loci and physical joins. Do not retranscribe settled prose.
-4. Crop/enhance only a genuine unresolved locus.
-5. Final closure: promote clean pages, create `BATCH_19_REVIEW.md`, synchronize page map, glyph audit, READMEs, handover and this prompt.
-6. Fetch and report final live `main` SHA.
-7. Only after the page layer reaches **188 / 188** may scene assembly be considered as the next separately authorized phase. Do not start English translation.
+## Final source-proven ending structure
+
+- Scene 59: scans **180–182**, closes on scan 182;
+- Scene 60: scan **183** only; internal `* * *` transition plus final centred close-star;
+- Scene 61: scans **184–185**, with physical join `மாளிகை கெளரவத்` → `தைப் பாதுகாக்கும் தாய்...`; closes on scan 185;
+- scan **186**: source-visible `முடிவு` prose, outside numbered scenes;
+- scan **187**: publisher catalogue;
+- scan **188**: back wrapper / printer imprint.
+
+The numbered dramatic scene range is source-proven through **Scene 61**.
+
+## Exact next eligible phase — Tamil scene assembly / page-to-scene audit
+
+Do not translate yet.
+
+1. Inventory all numbered Scenes **1–61** from the verified page map and verified page records.
+2. Assemble canonical Tamil scene files strictly from verified page text; do not re-read or rewrite settled page transcription.
+3. Preserve source punctuation, speaker labels, stage directions, source-visible spellings, and every documented physical join.
+4. Preserve the distinction between internal star transitions and actual centred scene-closing stars.
+5. Run a full page-to-scene coverage audit proving every main dramatic page is represented exactly once, with no omissions or duplicate coverage.
+6. Keep front matter, scan 186 `முடிவு`, scan 187 catalogue, and scan 188 wrapper outside the numbered scene layer.
+7. Commit assembly in durable batches rather than attempting all scene files plus audit in one uncontrolled iteration.
+8. English translation remains **not authorized / not started**.
+
+The first assembly activity should determine an efficient durable batch size from the repository guide and begin with the earliest numbered scenes, without reopening the closed page layer.

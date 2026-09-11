@@ -1,6 +1,6 @@
 # Page map — இரத்தக் கண்ணீர்
 
-Status: **SCANS 1–180 FINAL VERIFIED / H-GATE PASS — 180 / 188 PHYSICAL SCANS COMPLETE**
+Status: **SCANS 1–188 FINAL VERIFIED / H-GATE PASS — 188 / 188 PHYSICAL SCANS COMPLETE / PAGE LAYER CLOSED**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -75,13 +75,13 @@ Every expanded row distinguishes canonical transcription, initial visual verific
 | 171 | 170 | Scene 57 | continuation + close | complete | PASS | PASS | `verified` | continues scan 170 `பெண்கள்`; centred star closes Scene 57 |
 | 172–179 | 171–178 | Scene 58 | opener / continuation / close | complete | PASS | PASS | `verified` | 173→174 and 178→179 physical joins; internal stars scan 174; centred star scan 179 |
 | 180 | 179 | Scene 59 | opener | complete | PASS | PASS | `verified` | `காட்சி 59] [சிறைச்சாலை`; Scene 59 continues into scan 181 |
-| 181–182 | visible | main dramatic text | drama pages | not-started | pending | pending | `not-started` | continuation; exact boundaries pending |
-| 183 | 182 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 60]` |
-| 184 | 183 visible | main dramatic text | scene opener | not-started | pending | pending | `not-started` | intake spot check: `காட்சி 61]` |
-| 185 | 184 visible | main dramatic text | drama page | not-started | pending | pending | `not-started` | continuation |
-| 186 | — | literary close | `முடிவு` | not-started | pending | pending | `not-started` | closing prose |
-| 187 | — | back matter | publisher catalogue | not-started | pending | pending | `not-started` | publisher advertisement |
-| 188 | — | back wrapper | wrapper / imprint | not-started | pending | pending | `not-started` | `திராவிடப் பண்ணை திருச்சி` |
+| 181–182 | 180–181 | Scene 59 | continuation / close | complete | PASS | PASS | `verified` | centred star closes Scene 59 on scan 182 |
+| 183 | 182 | Scene 60 | opener + close | complete | PASS | PASS | `verified` | internal `* * *` transition; centred close-star; `முத்தனை` H-GATE correction |
+| 184–185 | 183–184 | Scene 61 | opener / close | complete | PASS | PASS | `verified` | physical join `மாளிகை கெளரவத்` → `தைப் பாதுகாக்கும் தாய்...`; centred star scan 185 |
+
+| 186 | — | literary close | `முடிவு` | complete | PASS | PASS | `verified` | source-visible closing prose; `பழுதூர்...` readings reconciled |
+| 187 | — | back matter | publisher catalogue | complete | PASS | PASS | `verified` | seven listed works |
+| 188 | — | back wrapper | wrapper / imprint | complete | PASS | PASS | `verified` | final physical scan; `திராவிடப்பண்ணை / திருச்சி`; Madras Ripon Press imprint |
 
 ## Historical-glyph gate rule
 
@@ -91,18 +91,18 @@ For historical-type pages, ordinary visual verification does **not** directly pr
 
 The gate is not limited to that minimum set. Batch 05 additionally caught source-historical `ளா` look-alikes.
 
-Batch reviews now run through `../BATCH_18_REVIEW.md` — **PASS / scans 171–180**.
+Batch reviews now run through `../BATCH_19_REVIEW.md` — **PASS / scans 181–188**.
 
 ## Current totals
 
-- canonical page records: **180 / 188**;
-- initial visual verification PASS: **180 / 188**;
-- H-GATE PASS: **180 / 188**;
-- final `verified`: **180 / 188**;
-- historical-glyph corrections recorded: **36** total;
+- canonical page records: **188 / 188**;
+- initial visual verification PASS: **188 / 188**;
+- H-GATE PASS: **188 / 188**;
+- final `verified`: **188 / 188**;
+- historical-glyph corrections recorded: **37** total;
 - `needs-review`: **0**;
 - `blocked`: **0**.
 
-## Next expansion batch
+## Page-layer closure
 
-Expand and process final **scans 181–188** individually as Batch 19 using `BATCH_EXECUTION_WORKFLOW.md`. The raw 188-scan PDF remains controlling even though the conversation preview stops at 150.
+All **188 / 188** physical scans are canonical, initial-verified, H-GATE PASS and final `verified`. The page layer is **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**. Next eligible phase is whole-work Tamil scene assembly / page-to-scene audit; do not reopen page records without genuinely new source evidence.

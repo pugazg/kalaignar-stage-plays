@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — இரத்தக் கண்ணீர்
 
-Status: **BATCHES 01–18 PASS — SCANS 1–180 / 180 OF 188 H-GATES COMPLETE; 180 FINAL `verified`; 36 HISTORICAL-GLYPH CORRECTIONS RECORDED**
+Status: **BATCHES 01–19 PASS — SCANS 1–188 / 188 OF 188 H-GATES COMPLETE; 188 FINAL `verified`; 37 HISTORICAL-GLYPH CORRECTIONS RECORDED; PAGE LAYER CLOSED**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -45,15 +45,15 @@ This is a minimum, not a closed list. Batch 05 additionally exposed historical `
 | Measure | Count |
 |---|---:|
 | Physical scans | 188 |
-| Canonical page records created | 180 / 188 |
-| Initial visual verification PASS | 180 / 188 |
-| H-GATE checked / PASS | 180 / 188 |
-| Final `verified` | 180 / 188 |
+| Canonical page records created | 188 / 188 |
+| Initial visual verification PASS | 188 / 188 |
+| H-GATE checked / PASS | 188 / 188 |
+| Final `verified` | 188 / 188 |
 | `needs-review` after processing | 0 |
 | `blocked` | 0 |
-| Historical-glyph corrections recorded | 36 |
+| Historical-glyph corrections recorded | 37 |
 
-Batch authorities now run through `BATCH_18_REVIEW.md` — **PASS / scans 171–180**.
+Batch authorities now run through `BATCH_19_REVIEW.md` — **PASS / scans 181–188**.
 
 ## Secure same-edition reference bank
 
@@ -163,6 +163,7 @@ _no secure positive witness yet_
 | 34 | 170 | 169 | `மில்ப்பாம்பே` | `மலைப்பாம்பே` | `லை` | PASS |
 | 35 | 172 | 171 | `வரமாட்டானு?` | `வரமாட்டானா?` | `னா` | PASS |
 | 36 | 180 | 179 | `முத்தனுள்` | `முத்தனால்` | `னா` | PASS |
+| 37 | 183 | 182 | `முத்தன் மீட்டு` | `முத்தனை மீட்டு` | `னை` | PASS |
 
 All corrections above are local source-pixel character-identity adjudications. They are not grammar-driven normalizations and do not authorize global replacement.
 
@@ -182,9 +183,11 @@ Batch 17 required no ordinary source-fidelity correction distinct from the two h
 
 Batch 18 ordinary source-fidelity reconciliation corrected scans 171, 172, 175, 179 and 180 as documented in `BATCH_18_REVIEW.md`; these are not included in the historical-glyph count.
 
+Batch 19 ordinary source-fidelity reconciliation corrected scans 184, 185 and 186 as documented in `BATCH_19_REVIEW.md`; these are not included in the historical-glyph count.
+
 ## Current gate conclusion
 
-- scans 1–180: full H-GATE **PASS**;
+- scans 1–188: full H-GATE **PASS**;
 - unresolved historical-glyph loci: **0**;
-- historical-glyph corrections recorded: **36**;
-- next H-GATE scope: **scans 181–188**.
+- historical-glyph corrections recorded: **37**;
+- next H-GATE scope: **none — page layer closed at 188 / 188**.
