@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் fixed 10-scan assembly iteration 95–104
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் fixed 10-scan assembly iteration 105–114
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/iratha-kanneer/`.
 
@@ -30,28 +30,30 @@ Permanent rule:
 
 ## Durable checkpoint
 
-- Batches 01–07 are durably recorded;
-- Scenes **1–27**: `assembly-reviewed`;
+- Batches 01–08 are durably recorded;
+- Scenes **1–31**: `assembly-reviewed`;
 - no open draft scene;
-- processed assembly scan range: **8–94**, contiguous;
-- completed reviewed-scene coverage: **8–94**, contiguous;
+- processed assembly scan range: **8–104**, contiguous;
+- completed reviewed-scene coverage: **8–104**, contiguous;
 - duplicate processed-scan coverage: **0**;
 - omitted processed scans: **0**;
 - unresolved assembly discrepancies: **0**.
 
-Batch 07 mechanical join:
-- Scene 27: 91→92 `அவள் அசை` + `யாமல்` → `அவள் அசையாமல்`.
+Batch 08 mechanical joins:
+- Scene 28: 95→96 `வண்டுகளாக` + `வும்` → `வண்டுகளாகவும்`;
+- Scene 29: 97→98 sentence continuation `அவன் நம்` + `வீட்டில்`;
+- Scene 30: 99→100 `தேடித் தந்திருப்பேனே` + `உனக்கு!` joined into one sentence.
 
-## Exact next activity — scans 95–104 only
+## Exact next activity — scans 105–114 only
 
-Use only verified page records `0095.md` through `0104.md`.
+Use only verified page records `0105.md` through `0114.md`.
 
 Expected handling from the verified page map:
-- Scene 28: scans **95–96**;
-- Scene 29: scans **97–98**;
-- Scene 30: scans **99–100**;
-- Scene 31: scans **101–104**.
+- Scene 32: scans **105–106**;
+- Scene 33: scan **107**;
+- Scene 34: scans **108–110**;
+- Scene 35: assemble scans **111–114** only into a `draft`; Scene 35 closes on scan 115, so **do not include scan 115**.
 
-Then create `SCENE_ASSEMBLY_BATCH_08_REVIEW.md`, update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt, and commit durably.
+Then create `SCENE_ASSEMBLY_BATCH_09_REVIEW.md`, update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt, and commit durably.
 
 Do not start English translation.
