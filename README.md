@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **TAMIL COMPLETE / CLOSED — page layer 188/188 verified; scenes 61/61 assembly-reviewed; dramatic scans 8–185 covered exactly once; English not authorized/not started** |
+| [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **TAMIL COMPLETE / CLOSED — page layer 188/188 verified; scenes 61/61 assembly-reviewed; English translation IN PROGRESS — 5/61 reviewed; Batch 1 (Scenes 1–5) PASS/LOCKED** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
@@ -36,7 +36,7 @@ Initial visual verification alone does not permit final `verified`. The mandator
 
 This is a minimum rather than a closed list: `இரத்தக் கண்ணீர்` Batch 05 additionally exposed historical `ளா` look-alikes. No global replacement and no spelling modernization are permitted.
 
-## இரத்தக் கண்ணீர் — active page-layer checkpoint
+## இரத்தக் கண்ணீர் — active English-translation checkpoint
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -65,7 +65,7 @@ Current durable state:
 - `needs-review`: **0**;
 - `blocked`: **0**;
 - scene assembly: **COMPLETE / CLOSED — Scenes 1–61 / 61 assembly-reviewed; Batches 01–11 PASS; final consistency review PASS**;
-- English translation: **not authorized / not started**.
+- English translation: **IN PROGRESS — 5 / 61 scenes reviewed; Batch 1 (Scenes 1–5) PASS / LOCKED; next Scenes 6–10**.
 
 Batch authorities now run through `works/iratha-kanneer/BATCH_19_REVIEW.md` — **PASS / COMPLETE / LOCKED / scans 181–188**.
 

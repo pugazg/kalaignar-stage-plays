@@ -15,7 +15,7 @@ Historical-type authority:
 
 Active-work anti-loop authority: `works/iratha-kanneer/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் TAMIL ARCHIVAL + SCENE ASSEMBLY COMPLETE / CLOSED
+# CURRENT CHECKPOINT — இரத்தக் கண்ணீர் ENGLISH TRANSLATION IN PROGRESS / TAMIL ARCHIVAL CLOSED
 
 Active work: `works/iratha-kanneer/`.
 
@@ -41,7 +41,7 @@ Current durable state:
 - `needs-review`: **0**;
 - `blocked`: **0**;
 - structural / scene assembly: **COMPLETE / CLOSED — Scenes 1–61 / 61 assembly-reviewed; Scene Assembly Batches 01–11 PASS; final consistency review PASS**;
-- English translation: **not authorized / not started**.
+- English translation: **IN PROGRESS — 5 / 61 scenes reviewed; Batch 1 (Scenes 1–5) PASS / LOCKED**.
 
 The conversation preview exposes only 150 images; direct raw-PDF inspection established **188 physical scans**. Never stop at preview page 150.
 
@@ -181,7 +181,31 @@ Scene Assembly Batches 01–11 are durably recorded. The final user direction to
 - dramatic scan coverage: **8–185 exactly once**;
 - unresolved assembly discrepancies: **0**.
 
-No further Tamil page-layer or scene-assembly work remains unless genuinely new source evidence reopens the verified layer. English translation remains **not authorized / not started** and requires separate user authorization.
+No further Tamil page-layer or scene-assembly work remains unless genuinely new source evidence reopens the verified layer. English translation is now **AUTHORIZED / IN PROGRESS** from the closed Tamil scene layer: Scenes **1–5 / 61** are reviewed and Batch 1 is **PASS / LOCKED**; exact next batch is Scenes **6–10**.
+
+## English translation phase — active
+
+User authorization to proceed with the next eligible phase is recorded.
+
+Translation authority and safeguards:
+
+- immediate drafting authority: closed Tamil scene artifacts `works/iratha-kanneer/scenes/01.md` through `61.md`;
+- Tamil page transcription, H-GATE and Tamil scene assembly remain CLOSED;
+- do not draft English from OCR, web text, a later edition, plot memory, or the PDF as a substitute for the closed Tamil scene artifact;
+- translation choices must never retroactively alter Tamil source text;
+- preserve speaker order, stage directions, rhetorical repetition, satire, social/religious criticism, colloquial register and source-supported uncertainty;
+- secondary English witness used: **no**.
+
+Durable English state:
+
+- `works/iratha-kanneer/TRANSLATION_PLAN.md` — active plan;
+- `works/iratha-kanneer/translations/en/README.md` — progress control;
+- English Scenes **1–5 / 61** — **translation-reviewed**;
+- `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
+- unresolved blocking English issues: **0**;
+- exact next batch: English Scenes **6–10**.
+
+Default durable review batch: **5 consecutive scenes**. Finish and lock one batch before advancing.
 
 # CLOSED WORK SAFEGUARDS
 

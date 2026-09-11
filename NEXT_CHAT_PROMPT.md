@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் Tamil closure complete
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் English Translation Batch 2
 
 Continue in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/iratha-kanneer/`.
 
@@ -6,45 +6,48 @@ Continue in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/ir
 
 Fetch live `main` first and preserve newer durable state.
 
-## Current durable state
+## Tamil authority — CLOSED
 
-The Tamil source/archive workflow for `இரத்தக் கண்ணீர்` is now **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**.
+The Tamil source/archive layer remains **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**:
 
-Page layer:
-- physical scans: **188 / 188**
-- canonical records: **188 / 188**
-- initial visual verification: **188 / 188 PASS**
-- H-GATE: **188 / 188 PASS**
-- final verified pages: **188 / 188**
-- historical-glyph corrections: **37**
-- unresolved / needs-review / blocked: **0 / 0 / 0**
+- page records: **188 / 188 verified**;
+- H-GATE: **188 / 188 PASS**;
+- Tamil scenes: **61 / 61 assembly-reviewed**;
+- dramatic scans: **8–185 exactly once**;
+- unresolved Tamil issues: **0**.
 
-Tamil scene layer:
-- numbered scenes: **61 / 61**
-- scene artifacts: `scenes/01.md` through `scenes/61.md`
-- all scene artifacts: **assembly-reviewed**
-- dramatic physical scan coverage: **8–185 exactly once**
-- open draft scenes: **0**
-- duplicate dramatic scan coverage: **0**
-- omitted dramatic scans: **0**
-- unresolved assembly discrepancies: **0**
-- final consistency review: `SCENE_ASSEMBLY_FINAL_REVIEW.md` — **PASS / COMPLETE / CLOSED**
-- final remaining-scan batch review: `SCENE_ASSEMBLY_BATCH_11_REVIEW.md` — **PASS / COMPLETE / LOCKED**
+Do not reopen Tamil transcription, H-GATE, or Tamil scene assembly without genuinely new source evidence.
 
-Non-scene material:
-- scans **1–7** — front matter;
-- scan **186** — `முடிவு` prose;
-- scan **187** — publisher catalogue;
-- scan **188** — back wrapper / printer imprint.
+## English translation — AUTHORIZED / IN PROGRESS
 
-## Closed-state rule
+Immediate translation authority is the closed Tamil scene layer, not OCR, web text, a later edition, plot memory, or the PDF as a substitute.
 
-Do not reopen page transcription, H-GATE, or Tamil scene assembly unless genuinely new source evidence appears.
+Durable English state:
 
-Do not begin English translation automatically.
+- `TRANSLATION_PLAN.md` — active;
+- `translations/en/README.md` — active progress control;
+- Scenes **1–5 / 61** — **translation-reviewed**;
+- `translations/en/BATCH_01_REVIEW.md` — **PASS / LOCKED**;
+- secondary English witness used: **no**;
+- unresolved blocking English issues: **0**.
 
-## Next eligible phase
+## Next activity
 
-English translation is **not authorized / not started**. Begin it only if the user separately authorizes an English translation phase.
+Translate and review **Scenes 6–10** from:
 
-Until then, there is no further Tamil source-processing activity remaining for this work.
+- `scenes/06.md`
+- `scenes/07.md`
+- `scenes/08.md`
+- `scenes/09.md`
+- `scenes/10.md`
+
+Create `translations/en/06.md` through `10.md`, complete `translations/en/BATCH_02_REVIEW.md`, synchronize `TRANSLATION_PLAN.md`, `translations/en/README.md`, work/root controls, and commit the completed batch.
+
+## Translation safeguards
+
+- preserve every speaker turn and source-secure stage direction;
+- preserve rhetorical repetition, satire, social/religious criticism and colloquial register;
+- do not normalize or repair the closed Tamil text through English;
+- do not use a secondary English witness unless separately authorized;
+- if an English rendering is interpretively difficult but the Tamil is source-secure, document the translation choice rather than reopening Tamil;
+- default durable review batch: **5 consecutive scenes**.

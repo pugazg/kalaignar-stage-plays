@@ -4,7 +4,7 @@ Archive slug: `iratha-kanneer`.
 
 ## Current status
 
-**TAMIL ARCHIVAL + SCENE ASSEMBLY COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — PAGE LAYER 188 / 188 VERIFIED; SCENES 1–61 / 61 ASSEMBLY-REVIEWED; DRAMATIC SCANS 8–185 COVERED EXACTLY ONCE; ENGLISH NOT AUTHORIZED / NOT STARTED.**
+**TAMIL ARCHIVAL + SCENE ASSEMBLY COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — PAGE LAYER 188 / 188 VERIFIED; SCENES 1–61 / 61 ASSEMBLY-REVIEWED; ENGLISH TRANSLATION IN PROGRESS — 5 / 61 REVIEWED; BATCH 1 PASS / LOCKED.**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -169,7 +169,7 @@ Do not declare a final whole-work scene inventory until the page layer closes.
 - `needs-review` — **0**;
 - `blocked` — **0**;
 - structural / scene assembly — **COMPLETE / CLOSED — Scenes 1–61 / 61 assembly-reviewed; Batches 01–11 PASS; final consistency review PASS**;
-- English translation — **not authorized / not started**.
+- English translation — **IN PROGRESS — 5 / 61 scenes reviewed; Batch 1 (Scenes 1–5) PASS / LOCKED; next Scenes 6–10**.
 
 ## Tamil scene assembly checkpoint
 
@@ -179,7 +179,7 @@ Assembly authority: `SCENE_ASSEMBLY_PROGRESS.md`. `SCENE_ASSEMBLY_BATCH_11_REVIE
 
 Completed reviewed scene artifacts: `scenes/01.md` through `scenes/61.md`; there are **0 draft scenes**. Dramatic scans **8–185** are covered exactly once. Scans **1–7** remain front matter; scans **186–188** remain non-dramatic terminal material outside the scene layer.
 
-No further Tamil page-layer or scene-assembly work remains for the current source evidence. English remains **not authorized / not started**.
+No further Tamil page-layer or scene-assembly work remains for the current source evidence. English translation is **AUTHORIZED / IN PROGRESS** from the closed Tamil scene layer: **5 / 61 scenes reviewed**, Batch 1 **PASS / LOCKED**; exact next batch is Scenes **6–10**.
 
 
 ## Final Tamil scene-assembly closure
@@ -191,3 +191,18 @@ No further Tamil page-layer or scene-assembly work remains for the current sourc
 - front matter excluded from scene layer: **1–7**;
 - terminal non-dramatic material excluded from scene layer: **186–188**;
 - unresolved assembly discrepancies: **0**.
+
+
+## English translation checkpoint
+
+English translation is a separate derivative layer and does not reopen the closed Tamil archive.
+
+- authority: `scenes/01.md` through `scenes/61.md`;
+- translation plan: `TRANSLATION_PLAN.md`;
+- English progress control: `translations/en/README.md`;
+- completed: Scenes **1–5 / 61**;
+- `translations/en/BATCH_01_REVIEW.md`: **PASS / LOCKED**;
+- secondary English witness used: **no**;
+- unresolved blocking English issues: **0**;
+- exact next batch: Scenes **6–10**;
+- default durable review batch: **5 consecutive scenes**.
