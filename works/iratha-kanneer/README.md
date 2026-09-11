@@ -4,7 +4,7 @@ Archive slug: `iratha-kanneer`.
 
 ## Current status
 
-**ACTIVE — PAGE LAYER COMPLETE / CLOSED; TAMIL SCENE ASSEMBLY IN PROGRESS — SCENES 1–10 / 61 ASSEMBLY-REVIEWED; SCENE ASSEMBLY BATCHES 01–02 PASS; NEXT SCENES 11–15.**
+**ACTIVE — PAGE LAYER COMPLETE / CLOSED; TAMIL SCENE ASSEMBLY IN PROGRESS — SCENES 1–14 / 61 ASSEMBLY-REVIEWED; SCENE 15 DRAFT THROUGH SCAN 54; FIXED 10-SCAN ITERATIONS; NEXT SCANS 55–64.**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -168,15 +168,15 @@ Do not declare a final whole-work scene inventory until the page layer closes.
 - unresolved page-level source issues — **0**;
 - `needs-review` — **0**;
 - `blocked` — **0**;
-- structural / scene assembly — **IN PROGRESS — Scenes 1–10 / 61 assembly-reviewed; Batches 01–02 PASS**;
+- structural / scene assembly — **IN PROGRESS — Scenes 1–14 / 61 assembly-reviewed; Scene 15 draft through scan 54; Batches 01–03 PASS**;
 - English translation — **not authorized / not started**.
 
 ## Tamil scene assembly checkpoint
 
 The physical page layer is **188 / 188 COMPLETE / CLOSED**. Do not reopen scans without genuinely new source evidence.
 
-Assembly authority: `SCENE_ASSEMBLY_PROGRESS.md`. Batch reviews: `SCENE_ASSEMBLY_BATCH_01_REVIEW.md` — **PASS / Scenes 1–5 / scans 8–29**; `SCENE_ASSEMBLY_BATCH_02_REVIEW.md` — **PASS / Scenes 6–10 / scans 30–44**.
+Assembly authority: `SCENE_ASSEMBLY_PROGRESS.md`. Batch 03 adopts the user-directed **10 source scans per iteration** rule. `SCENE_ASSEMBLY_BATCH_03_REVIEW.md` records scans **45–54** with Scenes 11–14 reviewed and Scene 15 carried forward as a draft.
 
-Completed scene artifacts: `scenes/01.md` through `scenes/10.md`, all `assembly-reviewed` with `assembled_from_verified_pages: true` and page-record fidelity PASS.
+Completed reviewed scene artifacts: `scenes/01.md` through `scenes/14.md`. `scenes/15.md` is intentionally `draft` through verified scan 54 only.
 
-Exact next assembly batch: **Scenes 11–15 / scans 45–57**. Assemble only from verified page records; collapse only proven mechanical page joins; then update `SCENE_ASSEMBLY_PROGRESS.md` and create the next batch review. English remains **not authorized / not started**.
+Exact next assembly iteration: **scans 55–64 only**. Complete Scene 15 using 55–57, assemble Scene 16 using 58–62, and begin Scene 17 using 63–64; do not include scan 65. English remains **not authorized / not started**.
