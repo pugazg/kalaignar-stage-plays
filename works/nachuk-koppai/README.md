@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — WORD-BY-WORD VISUAL FIDELITY AUDIT 50/63 SCANS; 47 PASS / 3 HOLDS (SCANS 20, 22, 35); NEXT SCANS 51–55; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — WORD-BY-WORD VISUAL FIDELITY AUDIT 55/63 SCANS; 52 PASS / 3 HOLDS (SCANS 20, 22, 35); NEXT SCANS 56–60; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -41,19 +41,19 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - SHA-256: **pending**;
 - page records created: **63 / 63 — COMPLETE**;
 - page-record files present: **63 / 63**;
-- source-aligned page records confirmed by word-by-word fidelity: **50 / 63**; downstream pre-fidelity alignment remains provisional;
+- source-aligned page records confirmed by word-by-word fidelity: **55 / 63**; downstream pre-fidelity alignment remains provisional;
 - partial page records: **0 / 63 within Batch 01**;
 - user-supplied first-pass baseline: **available for scans 1–10** at `first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - initial visual verification PASS: **63 / 63 — COMPLETE**;
 - historical-glyph H-GATE checked: **63 / 63 — COMPLETE**;
-- H-GATE PASS: **48 / 63**;
-- H-GATE needs-review: **15 / 63**;
-- final verified pages: **48 / 63**;
-- visual text fidelity audit: **50 / 63 scans checked — scans 1–50**;
-- fidelity PASS: **47 / 63 — scans 1–19, 21, 23–34, 36–50**;
+- H-GATE PASS: **53 / 63**;
+- H-GATE needs-review: **10 / 63**;
+- final verified pages: **53 / 63**;
+- visual text fidelity audit: **55 / 63 scans checked — scans 1–55**;
+- fidelity PASS: **52 / 63 — scans 1–19, 21, 23–34, 36–55**;
 - fidelity needs-review within completed fidelity coverage: **3 — scans 20, 22 and 35**;
-- fidelity source-proven correction loci: **206**;
-- alignment repair: **physical page records 31–50 have now been rebuilt/re-anchored source-first; scans 46–50 independently confirmed the prior one-page drift, but downstream records still must be re-anchored page-by-page rather than assuming the offset continues**;
+- fidelity source-proven correction loci: **235**;
+- alignment repair: **physical page records 31–55 have now been rebuilt/re-anchored source-first; scans 51–55 independently confirmed the prior one-page drift, but downstream records still must be re-anchored page-by-page rather than assuming the offset continues**;
 - scene assembly: **not started**;
 - English translation: **not started**.
 
@@ -84,6 +84,7 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 13. Batch 08 scans **36–40 COMPLETE — 5 PASS / 0 needs-review**; all five records were independently source-first realigned;
 14. Batch 09 scans **41–45 COMPLETE — 5 PASS / 0 needs-review**; all five records were independently source-first realigned;
 15. Batch 10 scans **46–50 COMPLETE — 5 PASS / 0 needs-review**; all five records were independently source-first realigned;
-16. next process **scans 51–55**, re-anchoring each physical scan directly from the attached source before comparison;
-17. full page-state reconciliation is postponed until the 63-page fidelity pass is complete;
-18. do not begin scene assembly or English translation.
+16. Batch 11 scans **51–55 COMPLETE — 5 PASS / 0 needs-review**; all five records were independently source-first realigned;
+17. next process **scans 56–60**, re-anchoring each physical scan directly from the attached source before comparison;
+18. full page-state reconciliation is postponed until the 63-page fidelity pass is complete;
+19. do not begin scene assembly or English translation.
