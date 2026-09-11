@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் English Translation Scenes 21–35
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் English Translation Scenes 36–50
 
 Continue in pugazg/kalaignar-stage-plays, branch main, active work works/iratha-kanneer/.
 
@@ -26,8 +26,8 @@ Durable English state:
 
 - TRANSLATION_PLAN.md — active;
 - translations/en/README.md — active progress control;
-- Scenes 1–20 / 61 — translation-reviewed;
-- Batches 1–4 — PASS / LOCKED;
+- Scenes 1–35 / 61 — translation-reviewed;
+- Batches 1–7 — PASS / LOCKED;
 - secondary English witness used: no;
 - unresolved blocking English issues: 0.
 
@@ -37,17 +37,17 @@ Process **15 scenes per iteration**.
 
 Retain the established five-scene durable review artifacts. Therefore this next iteration must complete three consecutive review batches:
 
-- Batch 5 — Scenes 21–25;
-- Batch 6 — Scenes 26–30;
-- Batch 7 — Scenes 31–35.
+- Batch 8 — Scenes 36–40;
+- Batch 9 — Scenes 41–45;
+- Batch 10 — Scenes 46–50.
 
 Do not stop after only one five-scene batch unless a genuine blocking issue appears.
 
 ## Next activity
 
-Translate and review Scenes **21–35** from scenes/21.md through scenes/35.md.
+Translate and review Scenes **36–50** from scenes/36.md through scenes/50.md.
 
-Create translations/en/21.md through 35.md, complete BATCH_05_REVIEW.md through BATCH_07_REVIEW.md, synchronize TRANSLATION_PLAN.md, translations/en/README.md, work/root controls, and commit the completed 15-scene iteration.
+Create translations/en/36.md through 50.md, complete BATCH_08_REVIEW.md through BATCH_10_REVIEW.md, synchronize TRANSLATION_PLAN.md, translations/en/README.md, work/root controls, and commit the completed 15-scene iteration.
 
 ## Translation safeguards
 

@@ -1,6 +1,6 @@
 # இரத்தக் கண்ணீர் — English translation plan
 
-Status: **IN PROGRESS — 20 / 61 ENGLISH SCENES REVIEWED; BATCHES 1–4 PASS / LOCKED**
+Status: **IN PROGRESS — 35 / 61 ENGLISH SCENES REVIEWED; BATCHES 1–7 PASS / LOCKED**
 
 The Tamil archival and scene-assembly layers remain **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**. English is a separate derivative layer and must never reopen, normalize or overwrite the Tamil source text.
 
@@ -37,13 +37,13 @@ Reviewed source-secure translations use status “translation-reviewed”, trans
 
 If a later scene exposes a genuine inherited Tamil source hold, preserve it visibly rather than guessing. Translation must never resolve a Tamil hold.
 
-## 4. Stable naming / terminology through Scene 20
+## 4. Stable naming / terminology through Scene 35
 
-Current reviewed baseline includes:
+Reviewed baseline includes:
 
-Pazhuthur; Muthan; Vedhalam; Maykanatha Swamigal; Baladevar; Sukadev; Thirusangu; Boopathy; Muthayi; Poongavanam; Mayanur; Vetrivelan; Siruthaiyuran; Veerappan; Sumathi; Kaveri; Palaiyakkarar; Thendral Palace; Vengai / Vengaipuram / Vengaiyur according to source form; varagan; Thiruchitrambalam; aththan where kinship wordplay matters; Margazhi.
+Pazhuthur; Muthan; Vedhalam; Maykanatha Swamigal where that source form appears; Mayangatha Swamigal in Scene 29 where that distinct source-visible form appears; Baladevar; Sukadev/Sukadevan according to source context; Thirusangu; Boopathy; Muthayi; Poongavanam; Sumathi; Kaveri; Vetrivelan; Veerappan; Siruthaiyuran; Palaiyakkarar; Thendral Palace; Vengai/Vengaipuram/Vengaiyur according to source form; Sandhana Cheri; Ananda Nagar in Scene 33; Anandapuram in Scenes 34–35; varagan; Thiruchitrambalam; aththan where kinship wordplay matters; Margazhi; kal for the source distance unit.
 
-Scene 1 source-visible அஞ்சல் மீன் remains transliterated as Anjal Meen. Scene 16 source-visible அருசல் மண் remains transliterated as Arusal Man rather than being silently normalized.
+Scene 1 source-visible அஞ்சல் மீன் remains transliterated as Anjal Meen. Scene 16 source-visible அருசல் மண் remains transliterated as Arusal Man. Source-visible unusual forms are not silently harmonized through English.
 
 ## 5. User-directed iteration cadence
 
@@ -59,10 +59,13 @@ Do not enlarge beyond 15 scenes unless the final remainder contains fewer than 1
 - Batch 2 — Scenes 6–10 — PASS / LOCKED
 - Batch 3 — Scenes 11–15 — PASS / LOCKED
 - Batch 4 — Scenes 16–20 — PASS / LOCKED
+- Batch 5 — Scenes 21–25 — PASS / LOCKED
+- Batch 6 — Scenes 26–30 — PASS / LOCKED
+- Batch 7 — Scenes 31–35 — PASS / LOCKED
 
-English scenes present/reviewed: **20 / 61**.
+English scenes present/reviewed: **35 / 61**.
 Source-hold-bearing completed scenes: **0**.
 Unresolved blocking English issues: **0**.
 Secondary English witness used: **no**.
 
-Exact next 15-scene iteration: **Scenes 21–35**, producing Batches 5–7.
+Exact next 15-scene iteration: **Scenes 36–50**, producing Batches 8–10.
