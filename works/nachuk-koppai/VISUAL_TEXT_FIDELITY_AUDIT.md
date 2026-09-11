@@ -11,7 +11,7 @@ Method: every visible publication-text token is compared in reading order agains
 | Fidelity batch | Scans | Result |
 |---|---:|---|
 | 01 | 1–5 | **5 PASS / COMPLETE** |
-| 02 | 6–10 | **4 PASS / 1 NEEDS-REVIEW** |
+| 02 | 6–10 | **5 PASS / COMPLETE** |
 | 03 | 11–15 | next |
 | 04 | 16–20 | pending |
 | 05 | 21–25 | pending |
@@ -27,9 +27,9 @@ Method: every visible publication-text token is compared in reading order agains
 Current coverage: **10 / 63 scans**.
 
 Current fidelity results:
-- PASS: **9** — scans **1–7, 9, 10**;
-- NEEDS-REVIEW: **1** — scan **8**;
-- source-proven correction loci in fidelity phase: **12**.
+- PASS: **10** — scans **1–10**;
+- NEEDS-REVIEW: **0** within completed fidelity coverage;
+- source-proven correction loci in fidelity phase: **13**.
 
 ## Batch 01 summary
 
@@ -43,7 +43,7 @@ Current fidelity results:
 
 - scan 6 — PASS after 3 source-proven repairs;
 - scan 7 — PASS, no changes;
-- scan 8 — NEEDS-REVIEW; entrance-direction / invocation-label ambiguity remains;
+- scan 8 — PASS after `சாந்தர்` → `சாந்தா`; devotional invocation confirmed source-unlabelled;
 - scan 9 — PASS after 5 correction loci;
 - scan 10 — PASS after `மூக்குக் கண்ணாடி` repair.
 

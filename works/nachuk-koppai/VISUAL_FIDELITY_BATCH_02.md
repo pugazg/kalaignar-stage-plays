@@ -2,7 +2,7 @@
 
 Scope: physical scans **6–10**.
 
-Status: **COMPLETE — 4 PASS / 1 NEEDS-REVIEW**
+Status: **COMPLETE / CLOSED — 5 PASS / 0 NEEDS-REVIEW**
 
 ## Method
 
@@ -14,7 +14,7 @@ Every visible publication-text token was compared directly against the attached 
 |---:|---|---:|---|
 | 6 | PASS | 3 | none |
 | 7 | PASS | 0 | none |
-| 8 | NEEDS-REVIEW | 0 | entrance direction + unlabelled invocation |
+| 8 | PASS | 1 | `சாந்தர்` → `சாந்தா`; invocation correctly unlabelled |
 | 9 | PASS | 5 | none |
 | 10 | PASS | 1 | none |
 
@@ -31,18 +31,18 @@ Every visible publication-text token was compared directly against the attached 
 - `நாம கரணத்துக்கும்` → `நாமகரணத்துக்கும்`;
 - `கர்ண பூஷணத்துக்கும்` → `கர்ணபூஷணத்துக்கும்`;
 - `கூப்பிடடேள்` → `கூப்பிட்டேள்`;
-- `கொண்டுவால்` → `கொண்டுவரல்`.
+- `கொண்டுவால்` → `கொண்டுவரல`.
 
 The table counts the compound-spacing repairs as one grouped source locus, hence **5** scan-9 correction loci.
 
 ### Scan 10
 - `மூக் ஞக் கண்ணாடி` → `மூக்குக் கண்ணாடி`.
 
-## Remaining Batch-02 fidelity hold
+## Scan 8 resolution
 
-Only scan **8** remains open:
-- entrance direction `(அய்யர், பழனியப்பன், சாந்தர் வருகை)`;
-- speaker identity for the devotional invocation remains source-insufficient at the current attached render.
+- entrance direction is `(அய்யர், பழனியப்பன், சாந்தா வருகை)`;
+- the devotional invocation has **no source speaker label** and is correctly retained unlabelled;
+- Batch 02 therefore has no remaining fidelity hold.
 
 ## Next
 

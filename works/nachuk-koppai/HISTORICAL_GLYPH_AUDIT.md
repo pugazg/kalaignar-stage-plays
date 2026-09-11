@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை — Historical Glyph Audit
 
-Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — 11 PASS / 52 NEEDS-REVIEW; WORD-BY-WORD FIDELITY AUDIT ACTIVE**
+Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — 12 PASS / 51 NEEDS-REVIEW; WORD-BY-WORD FIDELITY AUDIT ACTIVE**
 
 Authority: attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` only.
 
@@ -19,7 +19,7 @@ Mandatory family set checked per applicable page:
 | 5 | PASS | PASS | verified | Scene 1 opener clean |
 | 6 | PASS | PASS | verified | fidelity pass resolved label/punctuation/`ஆச்சர்யம்` holds |
 | 7 | PASS | PASS | verified | Scene 1 continuation clean |
-| 8 | PASS | NEEDS-REVIEW | needs-review | `சாந்தர்` entrance-direction reading and unlabelled invocation |
+| 8 | PASS | PASS | verified | entrance corrected to `சாந்தா`; invocation source-unlabelled |
 | 9 | PASS | PASS | verified | fidelity pass resolved all listed source-sensitive phrases |
 | 10 | PASS | PASS | verified | corrected to `மூக்குக் கண்ணாடி` from source |
 
@@ -32,15 +32,15 @@ No TDL/Wikisource/alternate-copy text was consulted.
 ## Current totals
 
 - H-GATE checked: **10 / 63**;
-- H-GATE PASS: **9 / 10 within Batch 01**;
-- H-GATE NEEDS-REVIEW: **1 / 10 within Batch 01**;
-- final verified in Batch 01: **9 / 10**;
-- post-gate source-fidelity repairs resolving earlier holds: **12 correction loci**;
-- source-sensitive holds: **1 scan**.
+- H-GATE PASS: **10 / 10 within Batch 01**;
+- H-GATE NEEDS-REVIEW: **0 / 10 within Batch 01**;
+- final verified in Batch 01: **10 / 10**;
+- post-gate source-fidelity repairs resolving earlier holds: **13 correction loci**;
+- source-sensitive holds: **0 scans**.
 
 ## Next activity
 
-Scans **3, 4, 6, 9 and 10** are now resolved from the attached source during the word-by-word fidelity phase. The only remaining Batch 01 hold is scan **8**. Batch 01 final PASS remains blocked until scan 8 is resolved.
+Batch 01 scans **1–10 are fully resolved** for current source evidence. Scan 8 was closed with `சாந்தா` in the entrance direction and confirmation that the devotional invocation is source-unlabelled.
 
 
 # Batch 02 — scans 11–20
@@ -205,8 +205,8 @@ Repository-wide page-layer totals:
 - canonical: **63 / 63**;
 - initial verification: **63 / 63 PASS**;
 - H-GATE checked: **63 / 63**;
-- H-GATE PASS: **11 / 63**;
-- H-GATE NEEDS-REVIEW: **52 / 63**;
-- final verified pages: **11 / 63**.
+- H-GATE PASS: **12 / 63**;
+- H-GATE NEEDS-REVIEW: **51 / 63**;
+- final verified pages: **12 / 63**.
 
 The page layer has now completed both Pass A and H-GATE coverage. Work-level page-state reconciliation is the next gate before scene assembly.

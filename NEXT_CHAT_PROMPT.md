@@ -16,13 +16,13 @@ For every page compare every visible publication-text token, speaker label, stag
 ## Durable state
 - canonical page layer: **63 / 63 COMPLETE**;
 - H-GATE coverage: **63 / 63 COMPLETE**;
-- H-GATE PASS / verified: **11 / 63**;
-- H-GATE needs-review: **52 / 63**;
+- H-GATE PASS / verified: **12 / 63**;
+- H-GATE needs-review: **51 / 63**;
 - word-by-word fidelity coverage: **10 / 63**;
-- fidelity PASS: **9** — scans **1–7, 9, 10**;
-- fidelity needs-review: **1** — scan **8**;
-- fidelity correction loci so far: **12**;
-- scan 8 remains open only for its entrance direction and unlabelled devotional invocation;
+- fidelity PASS: **10** — scans **1–10**;
+- fidelity needs-review: **0** within completed coverage;
+- fidelity correction loci so far: **13**;
+- scan 8 is closed: entrance uses `சாந்தா`; devotional invocation is source-unlabelled;
 - scene assembly remains blocked until full fidelity coverage + reconciliation.
 
 ## Exact next activity
