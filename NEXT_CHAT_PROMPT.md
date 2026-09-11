@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் fixed 10-scan assembly iteration 65–74
+# Next Chat Prompt — Kalaignar Stage Plays / இரத்தக் கண்ணீர் fixed 10-scan assembly iteration 75–84
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/iratha-kanneer/`.
 
@@ -31,31 +31,32 @@ Permanent rule:
 
 ## Durable checkpoint
 
-- Batches 01–04 are durably recorded;
-- Scenes **1–16**: `assembly-reviewed`;
-- Scene **17**: `scenes/17.md` is `draft` through scans **63–64** only;
-- processed assembly scan range: **8–64**, contiguous;
-- completed reviewed-scene coverage: **8–62**, contiguous;
+- Batches 01–05 are durably recorded;
+- Scenes **1–19**: `assembly-reviewed`;
+- Scene **20**: `scenes/20.md` is `draft` through scans **69–74** only;
+- processed assembly scan range: **8–74**, contiguous;
+- completed reviewed-scene coverage: **8–68**, contiguous;
 - duplicate processed-scan coverage: **0**;
 - omitted processed scans: **0**;
 - unresolved assembly discrepancies: **0**.
 
-Batch 04 mechanical joins:
-- Scene 15: 54→55 `எதைக் குறிக்` + `கின்றன—` → `எதைக் குறிக்கின்றன—`;
-- Scene 15: 56→57 `நீயே மரண` + `படும்போது` → `நீயே மரணப்படும்போது`;
-- Scene 16: 60→61 `உன்னால் நடத்த` + `முடியுமா` → `உன்னால் நடத்த முடியுமா`.
+Batch 05 mechanical joins:
+- Scene 18: 66→67 `பாளையக்காரருக்கு` + `அதிகாரமில்லை.`;
+- Scene 20: 72→73 `வேண்` + `டியவள்` → `வேண்டியவள்`;
+- Scene 20: 73→74 sentence continuation joined into one paragraph.
 
-## Exact next activity — scans 65–74 only
+## Exact next activity — scans 75–84 only
 
-Use only verified page records `0065.md` through `0074.md`.
+Use only verified page records `0075.md` through `0084.md`.
 
 Expected handling from the verified page map:
 
-- Scene 17: append scan **65**, resolve only page-record-proven continuation if any, then promote `scenes/17.md` to `assembly-reviewed`;
-- Scene 18: assemble scans **66–67** completely;
-- Scene 19: assemble scan **68** completely;
-- Scene 20: assemble scans **69–74** only into `scenes/20.md` as a `draft`; Scene 20 closes on scan 75, so **do not include scan 75**.
+- Scene 20: append scan **75**, resolve only page-record-proven continuation if any, then promote `scenes/20.md` to `assembly-reviewed`;
+- Scene 21: assemble scans **76–80** completely;
+- Scene 22: assemble scan **81** completely;
+- Scene 23: assemble scans **82–83** completely;
+- Scene 24: assemble scan **84** completely.
 
-Then create `SCENE_ASSEMBLY_BATCH_05_REVIEW.md`, update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt, and commit durably.
+Then create `SCENE_ASSEMBLY_BATCH_06_REVIEW.md`, update `SCENE_ASSEMBLY_PROGRESS.md`, README, HANDOVER and this prompt, and commit durably.
 
 Do not start English translation.
