@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — WORD-BY-WORD VISUAL FIDELITY AUDIT 5/63 SCANS; BATCH 01 CLOSED 5/5 PASS; NEXT SCANS 6–10; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — WORD-BY-WORD VISUAL FIDELITY AUDIT 10/63 SCANS; BATCH 02 = 4 PASS / 1 NEEDS-REVIEW; NEXT SCANS 11–15; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -45,12 +45,12 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - user-supplied first-pass baseline: **available for scans 1–10** at `first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - initial visual verification PASS: **63 / 63 — COMPLETE**;
 - historical-glyph H-GATE checked: **63 / 63 — COMPLETE**;
-- H-GATE PASS: **8 / 63**;
-- H-GATE needs-review: **55 / 63**;
-- final verified pages: **8 / 63**;
-- visual text fidelity audit: **5 / 63 scans checked — scans 1–5**;
-- fidelity PASS: **5 / 63 — scans 1–5**;
-- fidelity needs-review within completed fidelity coverage: **0**;
+- H-GATE PASS: **11 / 63**;
+- H-GATE needs-review: **52 / 63**;
+- final verified pages: **11 / 63**;
+- visual text fidelity audit: **10 / 63 scans checked — scans 1–10**;
+- fidelity PASS: **9 / 63 — scans 1–7, 9, 10**;
+- fidelity needs-review within completed fidelity coverage: **1 — scan 8**;
 - scene assembly: **not started**;
 - English translation: **not started**.
 
@@ -72,6 +72,7 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 4. H-GATE coverage is now **63 / 63 COMPLETE**;
 5. user-directed word-by-word visual fidelity phase is now active at **5 scans per iteration**;
 6. Batch 01 scans **1–5 CLOSED — 5 PASS / 0 needs-review**, after resolving scans 3–4 from source pixels;
-7. next process **scans 6–10**, comparing every word/token visually;
-8. full page-state reconciliation is postponed until the 63-page fidelity pass is complete;
-9. do not begin scene assembly or English translation.
+7. Batch 02 scans **6–10 COMPLETE — 4 PASS / 1 needs-review (scan 8)**;
+8. next process **scans 11–15**, comparing every word/token visually;
+9. full page-state reconciliation is postponed until the 63-page fidelity pass is complete;
+10. do not begin scene assembly or English translation.

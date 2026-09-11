@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / FIDELITY BATCH 01 CLOSED / BATCH 02 NEXT
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / FIDELITY BATCH 02 COMPLETE / BATCH 03 NEXT
 
 Active work: `works/nachuk-koppai/`.
 
@@ -40,9 +40,9 @@ Current durable state:
 - user-supplied first-pass baseline: **ingested for scans 1–10** at `works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
 - H-GATE checked: **63 / 63 — COMPLETE**;
-- H-GATE PASS: **8 / 63**;
-- H-GATE needs-review: **55 / 63**;
-- final verified pages: **8 / 63**;
+- H-GATE PASS: **11 / 63**;
+- H-GATE needs-review: **52 / 63**;
+- final verified pages: **11 / 63**;
 - Batch 07 Pass A: **COMPLETE — scans 61–63**;
 - Batch 07 H-GATE: **CHECKED — 1 PASS / 2 needs-review; scan 63 verified**;
 - Batch 06 Pass A: **COMPLETE — scans 51–60**;
@@ -56,9 +56,9 @@ Current durable state:
 - Batch 02 Pass A: **COMPLETE — scans 11–20**;
 - Batch 02 H-GATE: **CHECKED — 1 PASS / 9 needs-review**;
 - visual text fidelity audit: **ACTIVE — 5 scans per iteration**;
-- fidelity coverage: **5 / 63 scans**;
-- fidelity PASS: **5 — scans 1–5**;
-- fidelity needs-review in completed coverage: **0**;
+- fidelity coverage: **10 / 63 scans**;
+- fidelity PASS: **9 — scans 1–7, 9, 10**;
+- fidelity needs-review in completed coverage: **1 — scan 8**;
 - scene assembly: **not started**;
 - English translation: **not started**.
 
@@ -76,7 +76,7 @@ Current durable state:
 
 1. continue the user-directed **word-by-word visual text fidelity audit**;
 2. process exactly **5 physical scans per iteration**;
-3. next range: **scans 6–10**;
+3. next range: **scans 11–15**;
 4. compare every visible publication-text token, speaker label, stage direction, punctuation and numeral against the attached PDF;
 5. make only source-proven corrections; retain unresolved words without guessing;
 6. commit immediately after the five-page batch;

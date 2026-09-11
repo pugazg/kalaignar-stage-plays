@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — word-by-word visual fidelity audit 5/63 scans; Batch 01 scans 1–5 CLOSED 5/5 PASS; next scans 6–10; H-GATE now 8 verified / 55 needs-review; P0 SHA-256 hold remains** |
+| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — word-by-word visual fidelity audit 10/63 scans; Batch 02 scans 6–10 = 4 PASS / 1 needs-review; next scans 11–15; H-GATE now 11 verified / 52 needs-review; P0 SHA-256 hold remains** |
 | [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page layer 188/188; Tamil scenes 61/61; English 61/61 reviewed; 13/13 translation batches PASS/LOCKED; final English review PASS** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
@@ -113,10 +113,10 @@ Current intake state:
 - page records: **63 / 63 canonical — PAGE-LAYER PASS A COMPLETE**;
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
 - user-supplied first-pass baseline: **INGESTED for scans 1–10** (`works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`);
-- H-GATE: **63 / 63 checked — 8 PASS / 55 needs-review — COMPLETE COVERAGE**;
+- H-GATE: **63 / 63 checked — 11 PASS / 52 needs-review — COMPLETE COVERAGE**;
 - scene assembly: **not started**;
 - English translation: **not started / not authorized as an active phase yet**.
 
 The user's contextual description (1943 origin/performance history, alternate title `சாந்தா (அ) பழனியப்பன்`, and thematic summary) is recorded separately as **user-supplied context**, not as controlling-scan text.
 
-Exact next activity: continue the **word-by-word visual text fidelity audit in 5-page iterations**, next scans **6–10**. Full 63-page state reconciliation is postponed until this exhaustive fidelity pass is complete. SHA-256 remains a separate P0 fingerprint hold.
+Exact next activity: continue the **word-by-word visual text fidelity audit in 5-page iterations**, next scans **11–15**. Full 63-page state reconciliation is postponed until this exhaustive fidelity pass is complete. SHA-256 remains a separate P0 fingerprint hold.

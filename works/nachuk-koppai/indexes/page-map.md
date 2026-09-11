@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE LAYER 63/63; H-GATE 63/63 CHECKED — 8 VERIFIED / 55 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 5/63 COMPLETE, NEXT 6–10**
+Status: **PAGE LAYER 63/63; H-GATE 63/63 CHECKED — 11 VERIFIED / 52 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 10/63, NEXT 11–15**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -13,11 +13,11 @@ This preliminary map records physical scan identity and visually located scene o
 | 3 | front matter | front matter | complete | PASS | PASS | `verified` | fidelity repair: `திராவிடன் பதிப்பகத்தார்` |
 | 4 | front matter | dramatis personae | complete | PASS | PASS | `verified` | fidelity repairs: `ஆதிகேசவலு முதலியார்`; `சிஷ்யன்` |
 | 5 | Scene 1 | drama | complete | PASS | PASS | `verified` | Scene 1 opener; printed p.1 |
-| 6 | Scene 1 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | speaker/punctuation/word-form holds remain |
+| 6 | Scene 1 | drama | complete | PASS | PASS | `verified` | fidelity repairs resolved prior holds |
 | 7 | Scene 1 | drama | complete | PASS | PASS | `verified` | printed p.3; H-GATE clean |
 | 8 | Scenes 1 / 2 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.4; `சாந்தர்` / unlabelled invocation unresolved |
-| 9 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | several first-pass/source-sensitive phrases unresolved |
-| 10 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.6; `மூக் ஞக் கண்ணாடி` unresolved |
+| 9 | Scene 2 | drama | complete | PASS | PASS | `verified` | fidelity repairs resolved prior wording/stage-direction holds |
+| 10 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.6; `மூக்குக் கண்ணாடி` source-secure |
 | 11 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.7; source-sensitive word forms unresolved |
 | 12 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.8; cross-page `மண்` boundary preserved; H-GATE clean |
 | 13 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.9; multiple source-sensitive forms unresolved |
