@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை — Historical Glyph Audit
 
-Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — 12 PASS / 51 NEEDS-REVIEW; WORD-BY-WORD FIDELITY AUDIT ACTIVE**
+Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — 16 PASS / 47 NEEDS-REVIEW; WORD-BY-WORD FIDELITY AUDIT ACTIVE**
 
 Authority: attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` only.
 
@@ -45,29 +45,29 @@ Batch 01 scans **1–10 are fully resolved** for current source evidence. Scan 8
 
 # Batch 02 — scans 11–20
 
-Status: **CHECKED — 1 PASS / VERIFIED, 9 NEEDS-REVIEW**
+Status: **CHECKED — 5 PASS / VERIFIED, 5 NEEDS-REVIEW**
 
 | Scan | Initial verification | H-GATE | Final status | Notes |
 |---:|---|---|---|---|
-| 11 | PASS | NEEDS-REVIEW | needs-review | word-form holds |
+| 11 | PASS | PASS | verified | fidelity pass resolved four word-form holds |
 | 12 | PASS | PASS | verified | clean; cross-page split preserved |
-| 13 | PASS | NEEDS-REVIEW | needs-review | wording / quotation holds |
-| 14 | PASS | NEEDS-REVIEW | needs-review | punctuation / `இருக்கோன்னோ?` |
-| 15 | PASS | NEEDS-REVIEW | needs-review | header / time forms |
+| 13 | PASS | PASS | verified | fidelity pass resolved wording / quotation holds |
+| 14 | PASS | PASS | verified | source confirms punctuation / `இருக்கோன்னோ?` |
+| 15 | PASS | PASS | verified | fidelity pass resolved header / `கருடன்` / time forms |
 | 16 | PASS | NEEDS-REVIEW | needs-review | header / speaker label |
 | 17 | PASS | NEEDS-REVIEW | needs-review | speaker label |
 | 18 | PASS | NEEDS-REVIEW | needs-review | header / scene heading / speaker |
 | 19 | PASS | NEEDS-REVIEW | needs-review | labels / source-sensitive forms |
 | 20 | PASS | NEEDS-REVIEW | needs-review | missing/odd labels and isolated fragment |
 
-Batch 02 historical-glyph corrections committed: **0**.
+Batch 02 post-gate source-fidelity repairs so far: **12 correction loci**.
 
 Repository-wide current totals for this work:
 
 - H-GATE checked: **20 / 63**;
-- H-GATE PASS: **5 / 63**;
-- H-GATE NEEDS-REVIEW: **15 / 63**;
-- final verified pages: **5 / 63**.
+- H-GATE PASS: **16 / 63**;
+- H-GATE NEEDS-REVIEW: **47 / 63**;
+- final verified pages: **16 / 63**.
 
 Batch 02 is **not closed**. No final `BATCH_02_REVIEW.md` PASS artifact exists.
 
@@ -205,8 +205,8 @@ Repository-wide page-layer totals:
 - canonical: **63 / 63**;
 - initial verification: **63 / 63 PASS**;
 - H-GATE checked: **63 / 63**;
-- H-GATE PASS: **12 / 63**;
-- H-GATE NEEDS-REVIEW: **51 / 63**;
-- final verified pages: **12 / 63**.
+- H-GATE PASS: **16 / 63**;
+- H-GATE NEEDS-REVIEW: **47 / 63**;
+- final verified pages: **16 / 63**.
 
 The page layer has now completed both Pass A and H-GATE coverage. Work-level page-state reconciliation is the next gate before scene assembly.

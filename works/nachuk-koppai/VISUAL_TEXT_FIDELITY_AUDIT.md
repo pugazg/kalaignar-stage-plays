@@ -12,8 +12,8 @@ Method: every visible publication-text token is compared in reading order agains
 |---|---:|---|
 | 01 | 1–5 | **5 PASS / COMPLETE** |
 | 02 | 6–10 | **5 PASS / COMPLETE** |
-| 03 | 11–15 | next |
-| 04 | 16–20 | pending |
+| 03 | 11–15 | **5 PASS / COMPLETE** |
+| 04 | 16–20 | next |
 | 05 | 21–25 | pending |
 | 06 | 26–30 | pending |
 | 07 | 31–35 | pending |
@@ -24,12 +24,12 @@ Method: every visible publication-text token is compared in reading order agains
 | 12 | 56–60 | pending |
 | 13 | 61–63 | pending |
 
-Current coverage: **10 / 63 scans**.
+Current coverage: **15 / 63 scans**.
 
 Current fidelity results:
-- PASS: **10** — scans **1–10**;
+- PASS: **15** — scans **1–15**;
 - NEEDS-REVIEW: **0** within completed fidelity coverage;
-- source-proven correction loci in fidelity phase: **13**.
+- source-proven correction loci in fidelity phase: **25**.
 
 ## Batch 01 summary
 
@@ -47,4 +47,12 @@ Current fidelity results:
 - scan 9 — PASS after 5 correction loci;
 - scan 10 — PASS after `மூக்குக் கண்ணாடி` repair.
 
-Next fidelity batch: **scans 11–15**.
+## Batch 03 summary
+
+- scan 11 — PASS after 4 source-proven repairs;
+- scan 12 — PASS, no changes;
+- scan 13 — PASS after 5 source-proven repairs;
+- scan 14 — PASS, source confirms unusual punctuation/dialect;
+- scan 15 — PASS after 3 source-proven repairs.
+
+Next fidelity batch: **scans 16–20**.

@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE LAYER 63/63; H-GATE 63/63 CHECKED — 12 VERIFIED / 51 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 10/63 ALL PASS, NEXT 11–15**
+Status: **PAGE LAYER 63/63; H-GATE 63/63 CHECKED — 16 VERIFIED / 47 NEEDS-REVIEW; WORD-BY-WORD FIDELITY 15/63 ALL PASS, NEXT 16–20**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -15,14 +15,14 @@ This preliminary map records physical scan identity and visually located scene o
 | 5 | Scene 1 | drama | complete | PASS | PASS | `verified` | Scene 1 opener; printed p.1 |
 | 6 | Scene 1 | drama | complete | PASS | PASS | `verified` | fidelity repairs resolved prior holds |
 | 7 | Scene 1 | drama | complete | PASS | PASS | `verified` | printed p.3; H-GATE clean |
-| 8 | Scenes 1 / 2 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.4; `சாந்தர்` / unlabelled invocation unresolved |
+| 8 | Scenes 1 / 2 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.4; `சாந்தா` source-secure; invocation source-unlabelled |
 | 9 | Scene 2 | drama | complete | PASS | PASS | `verified` | fidelity repairs resolved prior wording/stage-direction holds |
 | 10 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.6; `மூக்குக் கண்ணாடி` source-secure |
-| 11 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.7; source-sensitive word forms unresolved |
+| 11 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.7; fidelity repairs resolved word-form holds |
 | 12 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.8; cross-page `மண்` boundary preserved; H-GATE clean |
-| 13 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.9; multiple source-sensitive forms unresolved |
-| 14 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.10; punctuation / `இருக்கோன்னோ?` hold |
-| 15 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.11; header / time-form holds |
+| 13 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.9; wording / quotation holds resolved |
+| 14 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.10; source punctuation / dialect confirmed |
+| 15 | Scene 2 | drama | complete | PASS | PASS | `verified` | printed p.11; header / `கருடன்` / time forms resolved |
 | 16 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.12; header / speaker-label holds |
 | 17 | Scene 2 | drama | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.13; opening speaker label unresolved |
 | 18 | Scenes 2 / 3 | shared scene-boundary page | complete | PASS | NEEDS-REVIEW | `needs-review` | Scene 2/3 boundary; header/scene/speaker holds |

@@ -2,24 +2,20 @@
 
 Scope: scans **11–20**.
 
-Status: **CHECK COMPLETE / BATCH NOT CLOSED — 1 PASS, 9 NEEDS-REVIEW**
+Status: **CHECK COMPLETE / BATCH NOT CLOSED — 5 PASS, 5 NEEDS-REVIEW**
 
 ## Result
 
 - Pass A: **10 / 10 complete**;
 - H-GATE checked: **10 / 10**;
-- H-GATE PASS / final verified: **1 / 10** — scan **12**;
-- H-GATE NEEDS-REVIEW: **9 / 10** — scans **11, 13, 14, 15, 16, 17, 18, 19, 20**;
-- historical-glyph corrections committed: **0**;
+- H-GATE PASS / final verified: **5 / 10** — scans **11, 12, 13, 14, 15**;
+- H-GATE NEEDS-REVIEW: **5 / 10** — scans **16, 17, 18, 19, 20**;
+- source-fidelity corrections resolving earlier H-GATE holds: **12 loci across scans 11, 13 and 15**;
 - outside-witness use: **0**;
 - final `BATCH_02_REVIEW.md`: **not created**.
 
 ## Remaining Batch 02 holds
 
-- scan 11 — `தோனறும்`, `தருதலையே`, `கலியாணத் நிற்கு`, `தனக்குப`;
-- scan 13 — `அகியாயம்`, pseudo-kural quotation/bracketing, terminal `தெரிஞ்சமாதிரிதரன்`;
-- scan 14 — punctuation after `பேசுது.`, `இருக்கோன்னோ?`;
-- scan 15 — running header `மு. கருணாதிதி`, `கெருடன்`, time forms `51 - / 61 -`;
 - scan 16 — running header `தச்சுக்கோப்பை`, speaker `சாத் :`;
 - scan 17 — opening speaker `சாத் :`;
 - scan 18 — running header `ஆச்சுக்கோப்பை`, scene heading `. 3.`, speaker `அணி:`;

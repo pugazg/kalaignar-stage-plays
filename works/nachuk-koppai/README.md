@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — WORD-BY-WORD VISUAL FIDELITY AUDIT 10/63 SCANS; BATCHES 01–02 CLOSED 10/10 PASS; NEXT SCANS 11–15; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — WORD-BY-WORD VISUAL FIDELITY AUDIT 15/63 SCANS; BATCHES 01–03 CLOSED 15/15 PASS; NEXT SCANS 16–20; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -45,11 +45,11 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - user-supplied first-pass baseline: **available for scans 1–10** at `first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - initial visual verification PASS: **63 / 63 — COMPLETE**;
 - historical-glyph H-GATE checked: **63 / 63 — COMPLETE**;
-- H-GATE PASS: **12 / 63**;
-- H-GATE needs-review: **51 / 63**;
-- final verified pages: **12 / 63**;
-- visual text fidelity audit: **10 / 63 scans checked — scans 1–10**;
-- fidelity PASS: **10 / 63 — scans 1–10**;
+- H-GATE PASS: **16 / 63**;
+- H-GATE needs-review: **47 / 63**;
+- final verified pages: **16 / 63**;
+- visual text fidelity audit: **15 / 63 scans checked — scans 1–15**;
+- fidelity PASS: **15 / 63 — scans 1–15**;
 - fidelity needs-review within completed fidelity coverage: **0**;
 - scene assembly: **not started**;
 - English translation: **not started**.
@@ -73,6 +73,7 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 5. user-directed word-by-word visual fidelity phase is now active at **5 scans per iteration**;
 6. Batch 01 scans **1–5 CLOSED — 5 PASS / 0 needs-review**, after resolving scans 3–4 from source pixels;
 7. Batch 02 scans **6–10 CLOSED — 5 PASS / 0 needs-review**, after resolving scan 8;
-8. next process **scans 11–15**, comparing every word/token visually;
-9. full page-state reconciliation is postponed until the 63-page fidelity pass is complete;
-10. do not begin scene assembly or English translation.
+8. Batch 03 scans **11–15 CLOSED — 5 PASS / 0 needs-review**;
+9. next process **scans 16–20**, comparing every word/token visually;
+10. full page-state reconciliation is postponed until the 63-page fidelity pass is complete;
+11. do not begin scene assembly or English translation.
