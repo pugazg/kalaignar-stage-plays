@@ -4,7 +4,7 @@ Archive slug: `iratha-kanneer`.
 
 ## Current status
 
-**ACTIVE — PAGE LAYER COMPLETE / CLOSED; TAMIL SCENE ASSEMBLY IN PROGRESS — SCENES 1–43 / 61 ASSEMBLY-REVIEWED; SCENE 44 DRAFT THROUGH SCAN 144; FIXED 20-SCAN ITERATIONS; NEXT SCANS 145–164.**
+**TAMIL ARCHIVAL + SCENE ASSEMBLY COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — PAGE LAYER 188 / 188 VERIFIED; SCENES 1–61 / 61 ASSEMBLY-REVIEWED; DRAMATIC SCANS 8–185 COVERED EXACTLY ONCE; ENGLISH NOT AUTHORIZED / NOT STARTED.**
 
 Controlling source: `TVA_BOK_0064189_இரத்தக்_கண்ணீர்.pdf`.
 
@@ -168,15 +168,26 @@ Do not declare a final whole-work scene inventory until the page layer closes.
 - unresolved page-level source issues — **0**;
 - `needs-review` — **0**;
 - `blocked` — **0**;
-- structural / scene assembly — **IN PROGRESS — Scenes 1–43 / 61 assembly-reviewed; Scene 44 draft through scan 144; Batches 01–10 PASS**;
+- structural / scene assembly — **COMPLETE / CLOSED — Scenes 1–61 / 61 assembly-reviewed; Batches 01–11 PASS; final consistency review PASS**;
 - English translation — **not authorized / not started**.
 
 ## Tamil scene assembly checkpoint
 
 The physical page layer is **188 / 188 COMPLETE / CLOSED**. Do not reopen scans without genuinely new source evidence.
 
-Assembly authority: `SCENE_ASSEMBLY_PROGRESS.md`. Fixed cadence is now **20 source scans per iteration**. `SCENE_ASSEMBLY_BATCH_10_REVIEW.md` records scans **125–144**: Scene 37 completed, Scenes 38–43 reviewed, and Scene 44 carried forward as a draft.
+Assembly authority: `SCENE_ASSEMBLY_PROGRESS.md`. `SCENE_ASSEMBLY_BATCH_11_REVIEW.md` records the remaining scans **145–188**. `SCENE_ASSEMBLY_FINAL_REVIEW.md` is **PASS / COMPLETE / CLOSED**.
 
-Completed reviewed scene artifacts: `scenes/01.md` through `scenes/43.md`. `scenes/44.md` is intentionally `draft` through verified scan 144 only.
+Completed reviewed scene artifacts: `scenes/01.md` through `scenes/61.md`; there are **0 draft scenes**. Dramatic scans **8–185** are covered exactly once. Scans **1–7** remain front matter; scans **186–188** remain non-dramatic terminal material outside the scene layer.
 
-Exact next assembly iteration: **scans 145–164 only** — complete Scene 44 and fully assemble Scenes 45–56. English remains **not authorized / not started**.
+No further Tamil page-layer or scene-assembly work remains for the current source evidence. English remains **not authorized / not started**.
+
+
+## Final Tamil scene-assembly closure
+
+- `SCENE_ASSEMBLY_BATCH_11_REVIEW.md` — **PASS / COMPLETE / LOCKED / remaining scans 145–188**;
+- `SCENE_ASSEMBLY_FINAL_REVIEW.md` — **PASS — TAMIL SCENE ASSEMBLY COMPLETE / CLOSED**;
+- numbered scenes: **61 / 61 assembly-reviewed**;
+- dramatic scan coverage: **8–185 exactly once**;
+- front matter excluded from scene layer: **1–7**;
+- terminal non-dramatic material excluded from scene layer: **186–188**;
+- unresolved assembly discrepancies: **0**.
