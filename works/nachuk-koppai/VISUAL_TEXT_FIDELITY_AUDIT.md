@@ -19,17 +19,17 @@ Method: every visible publication-text token is compared in reading order agains
 | 07 | 31–35 | **4 PASS / 1 NEEDS-REVIEW** |
 | 08 | 36–40 | **5 PASS / COMPLETE** |
 | 09 | 41–45 | **5 PASS / COMPLETE** |
-| 10 | 46–50 | pending |
+| 10 | 46–50 | **5 PASS / COMPLETE** |
 | 11 | 51–55 | pending |
 | 12 | 56–60 | pending |
 | 13 | 61–63 | pending |
 
-Current coverage: **45 / 63 scans**.
+Current coverage: **50 / 63 scans**.
 
 Current fidelity results:
-- PASS: **42** — scans **1–19, 21, 23–34, 36–45**;
+- PASS: **47** — scans **1–19, 21, 23–34, 36–50**;
 - NEEDS-REVIEW: **3** — scans **20, 22, 35**;
-- source-proven correction loci in fidelity phase: **180**.
+- source-proven correction loci in fidelity phase: **206**.
 
 ## Batch 01 summary
 
@@ -106,4 +106,14 @@ Current fidelity results:
 - cumulative fidelity correction loci: **180**;
 - downstream warning remains: re-anchor each next physical scan independently; do not infer the offset.
 
-Next fidelity batch: **scans 46–50**.
+## Batch 10 summary
+
+- scans 46–50 — **5 PASS / COMPLETE**;
+- each physical page was independently re-anchored to source; all five confirmed the prior one-page record drift continued through scan 50;
+- Batch 10 source-proven textual correction loci: **26**;
+- structural physical-page realignments: **5**;
+- physical scan 46 contains the Scene 13 / Scene 14 boundary; scan 48 closes Scene 14; scan 49 opens Scene 15; scan 50 contains the Scene 15 / Scene 16 boundary;
+- cumulative fidelity correction loci: **206**;
+- downstream warning remains: re-anchor each next physical scan independently; do not infer the offset.
+
+Next fidelity batch: **scans 51–55**.
