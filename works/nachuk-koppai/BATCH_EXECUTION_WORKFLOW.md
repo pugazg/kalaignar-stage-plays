@@ -148,7 +148,7 @@ Next phase: **English translation from the closed Tamil scene layer**. Scene 5's
 
 # English translation phase
 
-Status: **IN PROGRESS — 15 / 18 REVIEWED**
+Status: **BATCH TRANSLATION COMPLETE — 18 / 18 REVIEWED; 4 / 4 BATCHES PASS / LOCKED; FINAL WHOLE-WORK REVIEW NEXT**
 
 Authority: the closed Tamil scene layer under `scenes/`.
 
@@ -169,4 +169,6 @@ Batch 02 — **Scenes 6–10 PASS / LOCKED**.
 
 Batch 03 — **Scenes 11–15 PASS / LOCKED**.
 
-Next: **Scenes 16–18 — terminal remainder**, followed by final whole-work translation review.
+Batch 04 — **Scenes 16–18 PASS / LOCKED — terminal remainder complete**.
+
+Next: **final whole-work Tamil→English translation review**.

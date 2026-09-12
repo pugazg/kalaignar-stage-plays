@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / ENGLISH BATCHES 01–03 PASS / SCENES 16–18 NEXT
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / ENGLISH 18/18 BATCHED / FINAL WHOLE-WORK REVIEW NEXT
 
 Active work: `works/nachuk-koppai/`.
 
@@ -77,7 +77,7 @@ Current durable state:
 - scene assembly: **18 / 18 assembled / reviewed — COMPLETE; 17 clean + Scene 5 carrying inherited scan-22 hold**;
 - final scene consistency audit: **PASS / COMPLETE**;
 - Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**;
-- English translation: **15 / 18 reviewed — Batches 01–03 PASS / LOCKED; Scene 5 source hold preserved**.
+- English translation: **18 / 18 reviewed — Batches 01–04 PASS / LOCKED; Scene 5 source hold preserved; final whole-work review pending**.
 
 ## Batch 01 durable findings
 
@@ -91,15 +91,18 @@ Current durable state:
 
 ## Exact next activity
 
-1. continue the **English translation phase** from the closed Tamil scene layer;
-2. terminal translation batch: **Scenes 16–18**;
-3. create `works/nachuk-koppai/translations/en/16.md` through `18.md`;
-4. translate only from `works/nachuk-koppai/scenes/16.md` through `18.md`;
-5. preserve every source-secure speaker turn, stage direction, caste/gender/social rhetoric, police-language comedy and final political rhetoric;
-6. Scene 18 must retain the literary close as `The End` corresponding to source `முற்றும்`, while keeping non-authorial marks/imprint out of the English dramatic body;
-7. create `translations/en/BATCH_04_REVIEW.md`, update `TRANSLATION_PLAN.md`, synchronize controls, and commit atomically;
-8. after Batch 04, the next phase is the final whole-work Tamil→English review; do not close English before that review passes;
-9. do not reopen the closed Tamil layer.
+1. perform the **final whole-work Tamil→English translation review**;
+2. audit all `translations/en/01.md` through `18.md` against the closed Tamil scene layer;
+3. confirm every Tamil scene has exactly one English counterpart and no scene is omitted or duplicated;
+4. verify naming / terminology consistency across all four batches;
+5. verify Scene 5 alone carries the scan-22 source hold and that no guessed characters entered English;
+6. verify Scene 9 preserves `சுடகோடி` as conservative `Sudakodi` without invented meaning;
+7. verify Scene 18:
+   - multilingual police dialogue remains source-sensitive and not externally normalized;
+   - non-authorial `4063` and printer imprint are absent;
+   - source `முற்றும்` is represented as **The End**;
+8. write `translations/en/TRANSLATION_REVIEW.md`, synchronize controls, and commit atomically;
+9. only after a PASS may English be marked COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE.
 
 P0 SHA-256 remains a separate pending fingerprint hold.
 

@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — TAMIL SCENE LAYER CLOSED / PASS; ENGLISH 15/18 REVIEWED — BATCHES 01–03 PASS/LOCKED; SCENE-5 SOURCE HOLD PRESERVED; SCENES 16–18 NEXT; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — TAMIL SCENE LAYER CLOSED / PASS; ENGLISH 18/18 REVIEWED — BATCHES 01–04 PASS/LOCKED; FINAL WHOLE-WORK ENGLISH REVIEW NEXT; SCENE-5 SOURCE HOLD PRESERVED; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -58,7 +58,7 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - scene assembly: **18 / 18 assembled and reviewed — COMPLETE; 17 clean scenes + Scene 5 carrying the sole inherited scan-22 source hold**;
 - final scene consistency audit: **PASS / COMPLETE**;
 - Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**;
-- English translation: **15 / 18 reviewed — Batches 01–03 PASS / LOCKED; Scene 5 preserves the sole scan-22 source hold**.
+- English translation: **18 / 18 reviewed — Batches 01–04 PASS / LOCKED; Scene 5 preserves the sole scan-22 source hold; final whole-work translation review pending**.
 
 ## User-supplied contextual note
 
@@ -100,6 +100,8 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 26. English Translation Batch 01 — **Scenes 1–5 COMPLETE / REVIEWED / PASS / LOCKED**; Scene 5 preserves scan 22 as an explicit source hold;
 27. English Translation Batch 02 — **Scenes 6–10 COMPLETE / REVIEWED / PASS / LOCKED**; Scene 9 preserves user-confirmed `சுடகோடி` as `Sudakodi` without invented meaning;
 28. English Translation Batch 03 — **Scenes 11–15 COMPLETE / REVIEWED / PASS / LOCKED**; widow-remarriage, alcohol and social-reform rhetoric preserved;
-29. next translate terminal remainder **Scenes 16–18**;
-30. after Batch 04, perform the final whole-work Tamil→English translation review before closure;
-31. do not reopen or edit the closed Tamil scene layer during translation.
+29. English Translation Batch 04 — **Scenes 16–18 COMPLETE / REVIEWED / PASS / LOCKED**;
+30. total English scene coverage: **18 / 18 COMPLETE; 4 / 4 batches PASS / LOCKED**;
+31. next perform the **final whole-work Tamil→English translation review** across all 18 English scene artifacts, terminology, source-hold transparency, coverage and final-scene closure;
+32. do not close English until that final review passes;
+33. do not reopen or edit the closed Tamil scene layer during translation review.
