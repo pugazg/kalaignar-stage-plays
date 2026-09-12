@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / SCENE ASSEMBLY BATCH 01 COMPLETE / SCENES 6–10 NEXT
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / TAMIL SCENE ASSEMBLY 18/18 COMPLETE / FINAL CONSISTENCY AUDIT NEXT
 
 Active work: `works/nachuk-koppai/`.
 
@@ -74,7 +74,7 @@ Current durable state:
 - full page-state reconciliation: **COMPLETE — 63 / 63; 62 verified + 1 terminal source-condition hold**;
 - scan 35 user-confirmed source reading: **`சுடகோடி` — VERIFIED**;
 - scan 22 user interpretation: likely a song/performance cue, recorded as interpretation only; unidentified marks remain unresolved textually;
-- scene assembly: **5 / 18 assembled / reviewed — Scenes 1–5 COMPLETE; Scene 5 carries inherited scan-22 hold**;
+- scene assembly: **18 / 18 assembled / reviewed — COMPLETE; 17 clean + Scene 5 carrying inherited scan-22 hold**;
 - English translation: **not started**.
 
 ## Batch 01 durable findings
@@ -89,19 +89,14 @@ Current durable state:
 
 ## Exact next activity
 
-1. continue **Tamil scene assembly** from the reconciled page layer;
-2. next batch: **Scenes 6–10**;
-3. create `works/nachuk-koppai/scenes/06.md` through `10.md`;
-4. source spans:
-   - Scene 6 — scans **24–25**;
-   - Scene 7 — scans **25–31**;
-   - Scene 8 — scans **32–33**;
-   - Scene 9 — scans **34–41**;
-   - Scene 10 — scans **41–42**;
-5. split shared physical pages only at source-visible scene headings;
-6. no unresolved page-layer hold occurs in this batch; scan 35 is verified as `சுடகோடி`;
-7. compare all five assembled scenes against their canonical page records, write Assembly Batch 02 review, synchronize controls, and commit atomically;
-8. do not start English translation.
+1. perform a **full 18-scene assembly consistency audit / Tamil scene-layer closure review**;
+2. compare every scene file against the reconciled scene-to-scan map and confirm complete physical-page coverage without duplication or omission;
+3. verify all shared boundary splits, documented cross-page word joins, running-header exclusions and non-authorial-mark exclusions;
+4. confirm Scene 5 alone carries the scan-22 unresolved-source-cluster hold and that no guessed characters entered the scene layer;
+5. confirm scan 35 `சுடகோடி`, scan 20 `வேணும்னாலும்`, and final Scene 18 `முற்றும்` are preserved correctly;
+6. write a durable final Tamil scene consistency/closure record and synchronize controls;
+7. commit atomically;
+8. do not start English translation in the same iteration.
 
 ## Closed work safeguards
 

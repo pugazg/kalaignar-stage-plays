@@ -1,4 +1,4 @@
-# Next Chat Prompt — நச்சுக்கோப்பை Tamil scene assembly / Scenes 6–10
+# Next Chat Prompt — நச்சுக்கோப்பை final Tamil scene consistency audit
 
 Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/nachuk-koppai/`.
 
@@ -11,41 +11,34 @@ Fetch live `main` first and preserve newer durable work.
 - canonical page layer: **63 / 63 reconciled**;
 - verified pages: **62 / 63**;
 - sole terminal page-layer hold: **scan 22**;
-- Tamil scene assembly: **5 / 18 COMPLETE / REVIEWED**;
-- Scenes **1–4** — assembly-reviewed / clean;
-- Scene **5** — assembly-reviewed with inherited scan-22 source-cluster hold;
-- scan 20 — user-confirmed `வேணும்னாலும்`;
-- scan 35 — user-confirmed `சுடகோடி`;
-- English translation: **not started / blocked until Tamil scene assembly review completes**;
+- Tamil scenes assembled / reviewed: **18 / 18 COMPLETE**;
+- clean scenes: **17 / 18**;
+- hold-bearing scene: **Scene 5 only**, inheriting scan 22;
+- scene assembly iteration rule: **up to 15 scenes per iteration**;
+- scan 20: **`வேணும்னாலும்` verified**;
+- scan 35: **`சுடகோடி` verified**;
+- final Scene 18 includes source-visible **`முற்றும்`**;
+- English translation: **not started / blocked until final Tamil scene consistency audit closes**;
 - P0 SHA-256: **pending / separate hold**.
 
 ## Exact next activity
 
-Assemble **Scenes 6–10** into:
+Perform the **full 18-scene assembly consistency audit / Tamil scene-layer closure review**.
 
-- `works/nachuk-koppai/scenes/06.md`
-- `works/nachuk-koppai/scenes/07.md`
-- `works/nachuk-koppai/scenes/08.md`
-- `works/nachuk-koppai/scenes/09.md`
-- `works/nachuk-koppai/scenes/10.md`
+Check:
 
-Source scan spans:
-
-- Scene 6 — scans **24–25**;
-- Scene 7 — scans **25–31**;
-- Scene 8 — scans **32–33**;
-- Scene 9 — scans **34–41**;
-- Scene 10 — scans **41–42**.
-
-Assembly rules:
-
-1. assemble only from reconciled canonical page records;
-2. on shared boundary pages, include only text belonging to the target scene;
-3. remove only mechanical physical-page breaks;
-4. preserve wording, punctuation, speaker labels, stage directions and unusual source forms;
-5. running headers and non-authorial marks do not enter scene text;
-6. this batch has **no unresolved page-layer hold**; preserve scan 35 exactly as `சுடகோடி`;
-7. review all five scenes against their page records;
-8. write `SCENE_ASSEMBLY_BATCH_02.md`, update controls, and commit atomically.
+1. all `scenes/01.md` through `18.md` are present;
+2. each scene's `source_scan_pages` matches the reconciled scene-to-scan map;
+3. shared pages are split only at source-visible scene headings, with no duplicated or omitted dramatic text;
+4. documented mechanical joins are correct, especially:
+   - Scene 2: `மண்` + `ணில்` → `மண்ணில்`;
+   - Scene 2: `செய்` + `திட்டான்` → `செய்திட்டான்`;
+   - Scene 12: `எத்` + `தனையோ` → `எத்தனையோ`;
+   - Scene 16: `விப` + `சாரமா?` → `விபசாரமா?`;
+   - Scene 18: `அறிஞர் அண்ணா` + `வின்` → `அறிஞர் அண்ணாவின்`;
+5. Scene 5 alone retains the scan-22 source-cluster hold and the user's song/performance interpretation only as a note;
+6. running headers, accession marks and printer imprint are excluded appropriately;
+7. Scene 18 retains `முற்றும்` but excludes non-authorial `4063` and the printer imprint from the dramatic body;
+8. write the final Tamil scene consistency / closure record, update README/page-map/HANDOVER/NEXT_CHAT_PROMPT, and commit atomically.
 
 Do not start English translation in this iteration.

@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — TAMIL PAGE LAYER RECONCILED 63/63; SCENE ASSEMBLY 5/18 REVIEWED; SCENE 5 CARRIES SCAN-22 HOLD; SCENES 6–10 NEXT; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — TAMIL PAGE LAYER RECONCILED 63/63; SCENE ASSEMBLY 18/18 COMPLETE / REVIEWED; 17 CLEAN + SCENE 5 HOLD-BEARING; FINAL SCENE CONSISTENCY AUDIT NEXT; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -55,7 +55,7 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - fidelity source-proven / user-confirmed correction loci: **281**;
 - alignment repair: **physical page records 31–63 have now been rebuilt/re-anchored source-first; final scan 63 is source-confirmed as the combined final dialogue / literary close / imprint page**;
 - full page-state reconciliation: **COMPLETE — 63 / 63; 62 verified + 1 terminal source-condition hold**;
-- scene assembly: **5 / 18 assembled and reviewed — Scenes 1–5 COMPLETE; Scene 5 carries the sole inherited scan-22 source hold**;
+- scene assembly: **18 / 18 assembled and reviewed — COMPLETE; 17 clean scenes + Scene 5 carrying the sole inherited scan-22 source hold**;
 - English translation: **not started**.
 
 ## User-supplied contextual note
@@ -91,6 +91,7 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 19. full 63-page state reconciliation: **COMPLETE**; scan 20 is user-confirmed as `வேணும்னாலும்`; scan 35 is user-confirmed as `சுடகோடி`; only scan 22 remains a terminal source-condition hold; scans 6, 8, 9 and 10 stale Pass-A dispositions were repaired;
 20. Tamil scene assembly Batch 01: **Scenes 1–5 COMPLETE / REVIEWED**;
 21. Scene 5 explicitly carries the scan 22 unresolved-cluster hold and the user's song/performance interpretation as a non-transcription note;
-22. next assemble **Scenes 6–10** — Scene 6 scans 24–25; Scene 7 scans 25–31; Scene 8 scans 32–33; Scene 9 scans 34–41; Scene 10 scans 41–42;
-23. no unresolved page-layer hold occurs in Scenes 6–10; scan 35 is verified as `சுடகோடி`;
-24. English translation remains blocked until Tamil scene assembly/review is complete.
+22. Scene assembly Batch 02: **Scenes 6–18 COMPLETE / REVIEWED** — all 13 remaining scenes processed in one iteration under the new up-to-15-scenes rule;
+23. total Tamil scene assembly: **18 / 18 COMPLETE**; Scene 5 is the only hold-bearing scene, inheriting scan 22;
+24. next perform a **full 18-scene assembly consistency audit / Tamil scene-layer closure review** against the reconciled page map;
+25. English translation remains blocked until that final Tamil scene audit closes.
