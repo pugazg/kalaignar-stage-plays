@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — TAMIL SCENE LAYER CLOSED / PASS; ENGLISH 18/18 REVIEWED — BATCHES 01–04 PASS/LOCKED; FINAL WHOLE-WORK ENGLISH REVIEW NEXT; SCENE-5 SOURCE HOLD PRESERVED; P0 CHECKSUM HOLD REMAINS**
+Status: **TEXTUAL WORK CLOSED / PASS — TAMIL 18/18 CLOSED; ENGLISH 18/18 CLOSED WITH FINAL REVIEW PASS; SCENE-5 SOURCE HOLD PRESERVED; P0 SHA-256 FINGERPRINT REMAINS SEPARATELY PENDING**
 
 Repository work id: `nachuk-koppai`.
 
@@ -58,7 +58,7 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - scene assembly: **18 / 18 assembled and reviewed — COMPLETE; 17 clean scenes + Scene 5 carrying the sole inherited scan-22 source hold**;
 - final scene consistency audit: **PASS / COMPLETE**;
 - Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**;
-- English translation: **18 / 18 reviewed — Batches 01–04 PASS / LOCKED; Scene 5 preserves the sole scan-22 source hold; final whole-work translation review pending**.
+- English translation: **18 / 18 reviewed — Batches 01–04 PASS / LOCKED; final whole-work translation review PASS; English CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE; Scene 5 preserves the sole scan-22 source hold**.
 
 ## User-supplied contextual note
 
@@ -102,6 +102,7 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 28. English Translation Batch 03 — **Scenes 11–15 COMPLETE / REVIEWED / PASS / LOCKED**; widow-remarriage, alcohol and social-reform rhetoric preserved;
 29. English Translation Batch 04 — **Scenes 16–18 COMPLETE / REVIEWED / PASS / LOCKED**;
 30. total English scene coverage: **18 / 18 COMPLETE; 4 / 4 batches PASS / LOCKED**;
-31. next perform the **final whole-work Tamil→English translation review** across all 18 English scene artifacts, terminology, source-hold transparency, coverage and final-scene closure;
-32. do not close English until that final review passes;
-33. do not reopen or edit the closed Tamil scene layer during translation review.
+31. final whole-work Tamil→English translation review — **PASS / COMPLETE**;
+32. English layer — **COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE**;
+33. no Tamil or English textual activity remains pending;
+34. the only remaining repository-state item is the separate **P0 SHA-256 fingerprint**, which must not be computed/promoted unless separately authorized.

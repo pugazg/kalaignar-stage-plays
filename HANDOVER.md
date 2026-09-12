@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / ENGLISH 18/18 BATCHED / FINAL WHOLE-WORK REVIEW NEXT
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / TAMIL + ENGLISH TEXTUAL WORK CLOSED / P0 SHA-256 HOLD ONLY
 
 Active work: `works/nachuk-koppai/`.
 
@@ -77,7 +77,7 @@ Current durable state:
 - scene assembly: **18 / 18 assembled / reviewed — COMPLETE; 17 clean + Scene 5 carrying inherited scan-22 hold**;
 - final scene consistency audit: **PASS / COMPLETE**;
 - Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**;
-- English translation: **18 / 18 reviewed — Batches 01–04 PASS / LOCKED; Scene 5 source hold preserved; final whole-work review pending**.
+- English translation: **18 / 18 reviewed — Batches 01–04 PASS / LOCKED; final whole-work review PASS; CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE; Scene 5 source hold preserved**.
 
 ## Batch 01 durable findings
 
@@ -91,20 +91,18 @@ Current durable state:
 
 ## Exact next activity
 
-1. perform the **final whole-work Tamil→English translation review**;
-2. audit all `translations/en/01.md` through `18.md` against the closed Tamil scene layer;
-3. confirm every Tamil scene has exactly one English counterpart and no scene is omitted or duplicated;
-4. verify naming / terminology consistency across all four batches;
-5. verify Scene 5 alone carries the scan-22 source hold and that no guessed characters entered English;
-6. verify Scene 9 preserves `சுடகோடி` as conservative `Sudakodi` without invented meaning;
-7. verify Scene 18:
-   - multilingual police dialogue remains source-sensitive and not externally normalized;
-   - non-authorial `4063` and printer imprint are absent;
-   - source `முற்றும்` is represented as **The End**;
-8. write `translations/en/TRANSLATION_REVIEW.md`, synchronize controls, and commit atomically;
-9. only after a PASS may English be marked COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE.
+No Tamil transcription, Tamil scene assembly, English translation or English review activity remains pending for current source evidence.
 
-P0 SHA-256 remains a separate pending fingerprint hold.
+The only remaining repository-state item is the separate **P0 SHA-256 byte fingerprint** for the exact supplied PDF.
+
+**Do not compute or promote that checksum automatically.** It remains pending until the user separately authorizes the P0 checksum activity.
+
+Until then:
+
+- keep the Tamil page/scene layers closed;
+- keep the English layer closed;
+- preserve Scene 5's scan-22 terminal source-condition hold;
+- do not smooth or reopen settled text merely for stylistic preference.
 
 ## Closed work safeguards
 

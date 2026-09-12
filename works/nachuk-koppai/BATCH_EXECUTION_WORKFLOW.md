@@ -148,7 +148,7 @@ Next phase: **English translation from the closed Tamil scene layer**. Scene 5's
 
 # English translation phase
 
-Status: **BATCH TRANSLATION COMPLETE — 18 / 18 REVIEWED; 4 / 4 BATCHES PASS / LOCKED; FINAL WHOLE-WORK REVIEW NEXT**
+Status: **COMPLETE / CLOSED — 18 / 18 REVIEWED; 4 / 4 BATCHES PASS / LOCKED; FINAL WHOLE-WORK REVIEW PASS**
 
 Authority: the closed Tamil scene layer under `scenes/`.
 
@@ -171,4 +171,8 @@ Batch 03 — **Scenes 11–15 PASS / LOCKED**.
 
 Batch 04 — **Scenes 16–18 PASS / LOCKED — terminal remainder complete**.
 
-Next: **final whole-work Tamil→English translation review**.
+Final whole-work Tamil→English review — **PASS / COMPLETE**.
+
+English layer — **CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE**.
+
+No English translation activity remains pending. P0 SHA-256 is a separate fingerprint hold and is outside this closed textual workflow.

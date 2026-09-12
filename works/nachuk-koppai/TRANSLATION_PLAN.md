@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை — English translation plan
 
-Status: **BATCH TRANSLATION COMPLETE — 18 / 18 ENGLISH SCENES REVIEWED; BATCHES 01–04 PASS / LOCKED; FINAL WHOLE-WORK REVIEW NEXT**
+Status: **COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE — 18 / 18 ENGLISH SCENES REVIEWED; 4 / 4 BATCHES PASS / LOCKED; FINAL WHOLE-WORK REVIEW PASS**
 
 The Tamil archival page layer and Tamil scene layer remain closed for current source evidence. English is a separate derivative archival layer and does not reopen, normalize or overwrite the Tamil source text.
 
@@ -78,4 +78,8 @@ Stable unless a later batch review documents a justified refinement:
 - secondary-English contamination: **0**;
 - Tamil files altered by translation: **0**.
 
-Next phase: **final whole-work Tamil→English translation review**.
+Final whole-work Tamil→English translation review: **PASS / COMPLETE**.
+
+English translation layer: **CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE**.
+
+No English scene remains pending. Reopen only for a separately authorized editorial / witness-comparison phase or stronger Tamil source evidence.

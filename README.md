@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — Tamil scene layer CLOSED/PASS; English 18/18 reviewed, Batches 01–04 PASS/LOCKED; final whole-work English review next; Scene 5 source hold preserved; P0 SHA-256 hold remains** |
+| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **TEXTUAL WORK CLOSED / PASS — Tamil 18/18 CLOSED; English 18/18 CLOSED, 4/4 batches PASS/LOCKED, final English review PASS; Scene 5 source hold preserved; P0 SHA-256 fingerprint separately pending** |
 | [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page layer 188/188; Tamil scenes 61/61; English 61/61 reviewed; 13/13 translation batches PASS/LOCKED; final English review PASS** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
@@ -119,8 +119,8 @@ Current intake state:
 - scene assembly: **18 / 18 reviewed — COMPLETE; Scene 5 alone carries the inherited scan-22 hold**;
 - final scene consistency audit: **PASS / COMPLETE**;
 - Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**;
-- English translation: **18 / 18 reviewed — Batches 01–04 PASS / LOCKED; final whole-work review pending; Scene 5 source hold preserved**.
+- English translation: **18 / 18 reviewed — Batches 01–04 PASS / LOCKED; final whole-work review PASS; CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE; Scene 5 source hold preserved**.
 
 The user's contextual description (1943 origin/performance history, alternate title `சாந்தா (அ) பழனியப்பன்`, and thematic summary) is recorded separately as **user-supplied context**, not as controlling-scan text.
 
-Exact next activity: perform the **final whole-work Tamil→English translation review** across all 18 English scene artifacts; if PASS, close English for current Tamil source evidence. SHA-256 remains a separate P0 fingerprint hold.
+No Tamil or English textual activity remains pending for current source evidence. The only remaining item is the separate **P0 SHA-256 fingerprint**, which must not be computed/promoted unless separately authorized.
