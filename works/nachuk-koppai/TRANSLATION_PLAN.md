@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை — English translation plan
 
-Status: **IN PROGRESS — 10 / 18 ENGLISH SCENES REVIEWED; BATCHES 01–02 PASS / LOCKED**
+Status: **IN PROGRESS — 15 / 18 ENGLISH SCENES REVIEWED; BATCHES 01–03 PASS / LOCKED**
 
 The Tamil archival page layer and Tamil scene layer remain closed for current source evidence. English is a separate derivative archival layer and does not reopen, normalize or overwrite the Tamil source text.
 
@@ -18,8 +18,8 @@ Planned inventory:
 
 1. Scenes 1–5 — **PASS / LOCKED**
 2. Scenes 6–10 — **PASS / LOCKED**
-3. Scenes 11–15 — next
-4. Scenes 16–18 — terminal remainder
+3. Scenes 11–15 — **PASS / LOCKED**
+4. Scenes 16–18 — next / terminal remainder
 
 ## Translation goals
 
@@ -43,7 +43,7 @@ The closed Tamil layer contains one terminal source-condition hold:
 
 English Scene 5 must visibly preserve that hold. Translation may not resolve, downgrade or infer characters for it. The user's interpretation that it probably marks a song/performance cue remains an interpretation note only.
 
-## Naming / terminology lock through Batch 02
+## Naming / terminology lock through Batch 03
 
 Stable unless a later batch review documents a justified refinement:
 
@@ -63,16 +63,17 @@ Stable unless a later batch review documents a justified refinement:
 - Sivaguru, Jambu, Ganapathi, Chinnaiya Pillai, Kannaiya Chetti;
 - Sudakodi Surya Narayana Ayyar — `சுடகோடி` transliterated only, without invented meaning;
 - Radha Kalyanam, `katha-kalakshepam`, `marakkal`, `dharmakartha`, `kumbabhishekam`, Nalayini, `tiruppani`;
-- `thuthivannam` retained where the closed Tamil meaning is insecure.
+- `thuthivannam` retained where the closed Tamil meaning is insecure;
+- Subramania Swami, `soma-panam`, Tamilagam, `orthodoxy`, `thali`, `shastra` where the scene requires them.
 
 ## Current state
 
 - expected English scenes: **18**;
-- present / reviewed: **10 / 18**;
-- completed batches: **2 / 4**;
+- present / reviewed: **15 / 18**;
+- completed batches: **3 / 4**;
 - source-hold-bearing English scenes: **1 — Scene 5**;
 - unresolved blocking English issues: **0**;
 - secondary-English contamination: **0**;
 - Tamil files altered by translation: **0**.
 
-Next batch: **Scenes 11–15**.
+Next batch: **Scenes 16–18 — terminal remainder**.

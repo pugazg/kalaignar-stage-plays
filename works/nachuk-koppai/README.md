@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — TAMIL SCENE LAYER CLOSED / PASS; ENGLISH 10/18 REVIEWED — BATCHES 01–02 PASS/LOCKED; SCENE-5 SOURCE HOLD PRESERVED; SCENES 11–15 NEXT; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — TAMIL SCENE LAYER CLOSED / PASS; ENGLISH 15/18 REVIEWED — BATCHES 01–03 PASS/LOCKED; SCENE-5 SOURCE HOLD PRESERVED; SCENES 16–18 NEXT; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -58,7 +58,7 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - scene assembly: **18 / 18 assembled and reviewed — COMPLETE; 17 clean scenes + Scene 5 carrying the sole inherited scan-22 source hold**;
 - final scene consistency audit: **PASS / COMPLETE**;
 - Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**;
-- English translation: **10 / 18 reviewed — Batches 01–02 PASS / LOCKED; Scene 5 preserves the sole scan-22 source hold**.
+- English translation: **15 / 18 reviewed — Batches 01–03 PASS / LOCKED; Scene 5 preserves the sole scan-22 source hold**.
 
 ## User-supplied contextual note
 
@@ -99,5 +99,7 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 25. Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE** with Scene 5 carrying the sole scan-22 terminal source-condition hold;
 26. English Translation Batch 01 — **Scenes 1–5 COMPLETE / REVIEWED / PASS / LOCKED**; Scene 5 preserves scan 22 as an explicit source hold;
 27. English Translation Batch 02 — **Scenes 6–10 COMPLETE / REVIEWED / PASS / LOCKED**; Scene 9 preserves user-confirmed `சுடகோடி` as `Sudakodi` without invented meaning;
-28. next translate **Scenes 11–15** from the closed Tamil scene layer;
-29. do not reopen or edit the closed Tamil scene layer during translation.
+28. English Translation Batch 03 — **Scenes 11–15 COMPLETE / REVIEWED / PASS / LOCKED**; widow-remarriage, alcohol and social-reform rhetoric preserved;
+29. next translate terminal remainder **Scenes 16–18**;
+30. after Batch 04, perform the final whole-work Tamil→English translation review before closure;
+31. do not reopen or edit the closed Tamil scene layer during translation.
