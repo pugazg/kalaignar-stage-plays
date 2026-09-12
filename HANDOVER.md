@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / TAMIL + ENGLISH TEXTUAL WORK CLOSED / P0 SHA-256 HOLD ONLY
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / FULL CURRENT-SOURCE CLOSURE — P0 + TAMIL + ENGLISH PASS
 
 Active work: `works/nachuk-koppai/`.
 
@@ -24,7 +24,7 @@ Current durable state:
 - physical scans: **63 confirmed**;
 - file size: **18,459,068 bytes**;
 - conversation file id: `file_000000007a78820885b161bf144d9bd9`;
-- SHA-256: **PENDING** — sole P0 byte-fingerprint hold;
+- SHA-256: **`a2794d34304feff5618e6ac91eaa93149340f40820b334b713de588295b04bc4` — VERIFIED / P0 PASS**;
 - source type: **image-only / no usable parsed text layer**;
 - provenance: **attached PDF downloaded from Tamil Digital Library; Wikisource carries the same scan/copy**;
 - witness rule: **attached PDF only is controlling; TDL/Wikisource are same-copy transport routes, not secondary witnesses**;
@@ -91,18 +91,18 @@ Current durable state:
 
 ## Exact next activity
 
-No Tamil transcription, Tamil scene assembly, English translation or English review activity remains pending for current source evidence.
+No routine activity remains for `நச்சுக்கோப்பை` under current source evidence.
 
-The only remaining repository-state item is the separate **P0 SHA-256 byte fingerprint** for the exact supplied PDF.
+Closed state:
 
-**Do not compute or promote that checksum automatically.** It remains pending until the user separately authorizes the P0 checksum activity.
+- P0 source intake — **PASS / COMPLETE / CLOSED**;
+- exact source size — **18,459,068 bytes**;
+- SHA-256 — `a2794d34304feff5618e6ac91eaa93149340f40820b334b713de588295b04bc4`;
+- Tamil page / scene layers — **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE**;
+- English translation — **18 / 18 COMPLETE / CLOSED; final whole-work review PASS**;
+- sole transparent textual source-condition hold — **scan 22 / Scene 5**.
 
-Until then:
-
-- keep the Tamil page/scene layers closed;
-- keep the English layer closed;
-- preserve Scene 5's scan-22 terminal source-condition hold;
-- do not smooth or reopen settled text merely for stylistic preference.
+Do not reopen settled Tamil or English merely for wording polish. Reopen only for genuinely stronger source evidence or a separately authorized editorial / witness-comparison phase.
 
 ## Closed work safeguards
 

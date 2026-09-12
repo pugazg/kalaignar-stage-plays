@@ -1,32 +1,35 @@
-# Next Chat Prompt — நச்சுக்கோப்பை textual closure / P0 SHA-256 hold only
+# Next Chat Prompt — நச்சுக்கோப்பை fully closed for current source evidence
 
-Continue directly in `pugazg/kalaignar-stage-plays`, branch `main`, active work `works/nachuk-koppai/`.
+Continue in `pugazg/kalaignar-stage-plays`, branch `main`, only if a new authorized phase is requested.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
 Fetch live `main` first and preserve newer durable work.
 
-## Durable closed textual state
+## Durable closed state
 
+- controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`;
+- exact size: **18,459,068 bytes**;
+- SHA-256: `a2794d34304feff5618e6ac91eaa93149340f40820b334b713de588295b04bc4`;
+- P0 source intake: **PASS / COMPLETE / CLOSED**;
 - Tamil page layer: **63 / 63 reconciled**;
-- verified pages: **62 / 63**;
 - sole terminal Tamil source-condition hold: **scan 22**;
-- Tamil scenes: **18 / 18 assembled / reviewed / CLOSED**;
-- final Tamil scene consistency audit: **PASS**;
-- English scenes: **18 / 18 translated / reviewed / CLOSED**;
+- Tamil scenes: **18 / 18 CLOSED / final consistency PASS**;
+- English scenes: **18 / 18 CLOSED**;
 - English batches: **4 / 4 PASS / LOCKED**;
 - final whole-work Tamil→English review: **PASS / COMPLETE**;
-- source-hold-bearing English scene: **Scene 5 only**, preserving scan 22 transparently;
+- source-hold-bearing English scene: **Scene 5 only**;
 - secondary-English contamination: **0**;
-- Tamil files changed during English phase: **0**;
-- P0 SHA-256: **PENDING / SEPARATE HOLD**.
+- Tamil scene files changed during English phase: **0**.
 
-## No automatic next textual activity
+## No pending routine activity
 
-There is no pending Tamil or English textual task for current source evidence.
+No source-intake, Tamil transcription, scene assembly, English translation, review or checksum task remains pending for current source evidence.
 
-The only remaining repository-state item is the exact-source **SHA-256 fingerprint**.
+Reopen only for:
 
-Do **not** compute or promote the SHA-256 unless the user separately authorizes that P0 checksum activity.
+- genuinely stronger controlling-source evidence;
+- a separately authorized editorial-refinement phase;
+- a separately authorized comparison against an independent witness.
 
-Reopen Tamil or English only for genuinely stronger source evidence or a separately authorized editorial / witness-comparison phase.
+Do not reopen merely to smooth wording.

@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **TEXTUAL WORK CLOSED / PASS — Tamil 18/18 CLOSED; English 18/18 CLOSED, 4/4 batches PASS/LOCKED, final English review PASS; Scene 5 source hold preserved; P0 SHA-256 fingerprint separately pending** |
+| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — P0 PASS; Tamil 18/18 CLOSED; English 18/18 CLOSED, 4/4 batches PASS/LOCKED, final English review PASS; Scene 5 source hold preserved** |
 | [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page layer 188/188; Tamil scenes 61/61; English 61/61 reviewed; 13/13 translation batches PASS/LOCKED; final English review PASS** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
@@ -107,9 +107,9 @@ Current intake state:
 - edition: **முதல் பதிப்பு — 1951**;
 - numbered dramatic scenes visually located: **18**;
 - literary close: scan **63**, source-visible **முற்றும்**;
-- SHA-256: **PENDING checksum calculation**;
+- SHA-256: `a2794d34304feff5618e6ac91eaa93149340f40820b334b713de588295b04bc4`;
 - file size: **18,459,068 bytes**;
-- P0 status: **PARTIAL / NOT CLOSED**;
+- P0 status: **PASS / COMPLETE / CLOSED**;
 - page records: **63 / 63 canonical — PAGE-LAYER PASS A COMPLETE**;
 - Batch 01 Pass A: **COMPLETE — 10 / 10 initial verification PASS**;
 - user-supplied first-pass baseline: **INGESTED for scans 1–10** (`works/nachuk-koppai/first-pass/BATCH_01_USER_TRANSCRIPTION.md`);
@@ -123,4 +123,4 @@ Current intake state:
 
 The user's contextual description (1943 origin/performance history, alternate title `சாந்தா (அ) பழனியப்பன்`, and thematic summary) is recorded separately as **user-supplied context**, not as controlling-scan text.
 
-No Tamil or English textual activity remains pending for current source evidence. The only remaining item is the separate **P0 SHA-256 fingerprint**, which must not be computed/promoted unless separately authorized.
+No routine activity remains pending for current source evidence. P0, Tamil and English layers are closed; reopen only for genuinely stronger source evidence or a separately authorized new phase.

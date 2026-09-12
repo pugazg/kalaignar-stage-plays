@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை — Source intake
 
-Status: **P0 PARTIAL / NOT CLOSED**
+Status: **P0 PASS / COMPLETE / CLOSED**
 
 ## Confirmed directly from supplied scan
 
@@ -18,16 +18,17 @@ Status: **P0 PARTIAL / NOT CLOSED**
 - exact file size: **18,459,068 bytes**;
 - conversation file id: `file_000000007a78820885b161bf144d9bd9`.
 
-## Pending before P0 PASS
+## SHA-256 closure
 
-- exact SHA-256 of the supplied PDF.
-
-These values must be computed from the supplied bytes. They must not be inferred or invented.
+- exact SHA-256: `a2794d34304feff5618e6ac91eaa93149340f40820b334b713de588295b04bc4`;
+- exact file size: **18,459,068 bytes**;
+- checksum computed from the exact supplied conversation PDF bytes;
+- an independent local working copy of the same supplied file produced the identical SHA-256 and byte size.
 
 ## P0 decision
 
-**PARTIAL / HOLD ONLY ON SHA-256 FINGERPRINT.**
+**PASS / COMPLETE / CLOSED.**
 
-The source is otherwise identified. Batch 01 source inspection has begun conservatively while the checksum hold remains.
+The byte fingerprint, file size, physical scan count and source-visible bibliographic identity are all durably recorded. No P0 intake hold remains.
 
-Current Batch 01 checkpoint: **scans 1–10 page records created, but Pass A is not complete**. Continue those records; do not restart them.
+This P0 closure does not alter the separate terminal textual source-condition hold on scan 22 / Scene 5.

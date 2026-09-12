@@ -1,11 +1,11 @@
 # Source metadata — நச்சுக்கோப்பை
 
-Status: **P0 PARTIAL — VISUAL IDENTITY CONFIRMED; BYTE FINGERPRINT PENDING**
+Status: **P0 PASS / COMPLETE — VISUAL IDENTITY + BYTE FINGERPRINT CONFIRMED**
 
 ## Controlling source
 
 - filename: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`
-- SHA-256: **PENDING — must be computed from the exact supplied PDF bytes**
+- SHA-256: `a2794d34304feff5618e6ac91eaa93149340f40820b334b713de588295b04bc4`
 - file size: **18,459,068 bytes** (exact conversation-upload metadata)
 - physical scans: **63**
 - source type: **image-only PDF / no usable parsed text layer**
@@ -13,7 +13,7 @@ Status: **P0 PARTIAL — VISUAL IDENTITY CONFIRMED; BYTE FINGERPRINT PENDING**
 - source provenance: **user-supplied PDF downloaded from Tamil Digital Library (TDL)**
 - same-copy route note: **the user confirms Wikisource carries the same scan/copy; TDL and Wikisource are transport/provenance routes for this scan, not independent textual witnesses**
 
-P0 remains open only for the SHA-256 fingerprint. Exact byte size is now durably known from the uploaded file service. Do not guess the remaining checksum.
+P0 is **PASS / COMPLETE**. Exact byte size and SHA-256 are durably confirmed from the supplied file bytes.
 
 ## Controlling-copy rule
 
@@ -37,8 +37,10 @@ The edition statement on scan 2 directly supports **1951** as the edition year.
 
 - conversation file id: `file_000000007a78820885b161bf144d9bd9`;
 - exact byte size: **18,459,068 bytes**;
-- SHA-256: **pending** because local checksum execution was unavailable in this runtime;
-- this technical checksum hold does not authorize substituting another source copy.
+- SHA-256: `a2794d34304feff5618e6ac91eaa93149340f40820b334b713de588295b04bc4`;
+- checksum computed from the exact supplied conversation PDF bytes;
+- an independent local working copy of the same supplied file matched the same SHA-256 and exact byte size;
+- P0 byte identity: **PASS / CLOSED**.
 
 ## Front matter / dramatic-body intake
 

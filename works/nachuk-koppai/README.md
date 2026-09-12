@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **TEXTUAL WORK CLOSED / PASS — TAMIL 18/18 CLOSED; ENGLISH 18/18 CLOSED WITH FINAL REVIEW PASS; SCENE-5 SOURCE HOLD PRESERVED; P0 SHA-256 FINGERPRINT REMAINS SEPARATELY PENDING**
+Status: **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — P0 PASS; TAMIL 18/18 CLOSED; ENGLISH 18/18 CLOSED WITH FINAL REVIEW PASS; SCENE-5 SOURCE HOLD PRESERVED**
 
 Repository work id: `nachuk-koppai`.
 
@@ -21,7 +21,7 @@ The supplied scan is the controlling textual authority. The user confirms it was
 - source type: **image-only PDF / no usable parsed text layer**
 - source PDF committed: **no**
 
-Exact file size is now **18,459,068 bytes**. SHA-256 remains **pending** and must be computed from the exact supplied PDF before P0 can be marked PASS.
+Exact file size: **18,459,068 bytes**. SHA-256: `a2794d34304feff5618e6ac91eaa93149340f40820b334b713de588295b04bc4`. P0 source intake is **PASS / COMPLETE / CLOSED**.
 
 ## Preliminary physical structure
 
@@ -36,9 +36,9 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 
 ## Current durable phase
 
-- P0 source intake: **PARTIAL**;
+- P0 source intake: **PASS / COMPLETE / CLOSED**;
 - exact byte size: **18,459,068 bytes**;
-- SHA-256: **pending**;
+- SHA-256: `a2794d34304feff5618e6ac91eaa93149340f40820b334b713de588295b04bc4`;
 - page records created: **63 / 63 — COMPLETE**;
 - page-record files present: **63 / 63**;
 - source-aligned page records confirmed by word-by-word fidelity: **63 / 63 — COMPLETE**;
@@ -104,5 +104,6 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 30. total English scene coverage: **18 / 18 COMPLETE; 4 / 4 batches PASS / LOCKED**;
 31. final whole-work Tamil→English translation review — **PASS / COMPLETE**;
 32. English layer — **COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE**;
-33. no Tamil or English textual activity remains pending;
-34. the only remaining repository-state item is the separate **P0 SHA-256 fingerprint**, which must not be computed/promoted unless separately authorized.
+33. P0 SHA-256 fingerprint — **PASS / COMPLETE**: `a2794d34304feff5618e6ac91eaa93149340f40820b334b713de588295b04bc4`;
+34. no Tamil, English, source-intake or checksum activity remains pending under current source evidence;
+35. reopen only for genuinely stronger source evidence or a separately authorized editorial / witness-comparison phase.

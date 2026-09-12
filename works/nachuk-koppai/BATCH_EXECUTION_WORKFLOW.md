@@ -175,4 +175,6 @@ Final whole-work Tamil→English review — **PASS / COMPLETE**.
 
 English layer — **CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE**.
 
-No English translation activity remains pending. P0 SHA-256 is a separate fingerprint hold and is outside this closed textual workflow.
+No English translation activity remains pending.
+
+P0 source intake is also now **PASS / CLOSED** with SHA-256 `a2794d34304feff5618e6ac91eaa93149340f40820b334b713de588295b04bc4` for the exact supplied PDF. No routine workflow activity remains pending under current source evidence.
