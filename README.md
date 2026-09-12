@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — Tamil scene layer CLOSED/PASS: 18/18 scenes + final consistency audit PASS; Scene 5 carries sole scan-22 hold; English translation next; P0 SHA-256 hold remains** |
+| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — Tamil scene layer CLOSED/PASS; English 5/18 reviewed, Batch 01 PASS/LOCKED; Scene 5 source hold preserved; Scenes 6–10 next; P0 SHA-256 hold remains** |
 | [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page layer 188/188; Tamil scenes 61/61; English 61/61 reviewed; 13/13 translation batches PASS/LOCKED; final English review PASS** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
@@ -119,8 +119,8 @@ Current intake state:
 - scene assembly: **18 / 18 reviewed — COMPLETE; Scene 5 alone carries the inherited scan-22 hold**;
 - final scene consistency audit: **PASS / COMPLETE**;
 - Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**;
-- English translation: **not started — NEXT**.
+- English translation: **5 / 18 reviewed — Batch 01 Scenes 1–5 PASS / LOCKED; Scene 5 source hold preserved**.
 
 The user's contextual description (1943 origin/performance history, alternate title `சாந்தா (அ) பழனியப்பன்`, and thematic summary) is recorded separately as **user-supplied context**, not as controlling-scan text.
 
-Exact next activity: begin the **English translation phase** from the closed 18-scene Tamil layer, following established repository translation conventions. Scene 5's scan-22 uncertainty must remain explicit. SHA-256 remains a separate P0 fingerprint hold.
+Exact next activity: continue **English translation with Scenes 6–10**, using only the closed Tamil scene artifacts. Scene 9 must preserve `சுடகோடி` conservatively. SHA-256 remains a separate P0 fingerprint hold.

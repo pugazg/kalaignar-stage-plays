@@ -144,3 +144,25 @@ Final consistency audit: **PASS / COMPLETE**.
 Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**.
 
 Next phase: **English translation from the closed Tamil scene layer**. Scene 5's inherited scan-22 hold must remain explicit and must not be guessed away.
+
+
+# English translation phase
+
+Status: **IN PROGRESS — 5 / 18 REVIEWED**
+
+Authority: the closed Tamil scene layer under `scenes/`.
+
+Rules:
+
+1. normal English batch size is **5 scenes**, following repository precedent;
+2. draft only from closed Tamil scene artifacts;
+3. do not use OCR, the PDF as a substitute, a later edition, web text or a secondary English witness;
+4. preserve every source-secure speaker turn, stage direction, rhetorical repetition and politically/socially charged wording;
+5. culturally specific source terms may be retained/transliterated when English substitution would erase the dramatic object or wordplay;
+6. inherited Tamil source holds must remain explicit in English and may not be repaired through translation;
+7. each completed batch receives a `translations/en/BATCH_XX_REVIEW.md` record and is locked after review;
+8. translation must not alter closed Tamil files.
+
+Batch 01 — **Scenes 1–5 PASS / LOCKED — Scene 5 source hold preserved**.
+
+Next: **Scenes 6–10**.

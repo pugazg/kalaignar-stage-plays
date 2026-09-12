@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / TAMIL SCENE LAYER CLOSED / ENGLISH TRANSLATION NEXT
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / ENGLISH BATCH 01 PASS / SCENES 6–10 NEXT
 
 Active work: `works/nachuk-koppai/`.
 
@@ -77,7 +77,7 @@ Current durable state:
 - scene assembly: **18 / 18 assembled / reviewed — COMPLETE; 17 clean + Scene 5 carrying inherited scan-22 hold**;
 - final scene consistency audit: **PASS / COMPLETE**;
 - Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**;
-- English translation: **not started — NEXT**.
+- English translation: **5 / 18 reviewed — Batch 01 Scenes 1–5 PASS / LOCKED; Scene 5 source hold preserved**.
 
 ## Batch 01 durable findings
 
@@ -91,16 +91,16 @@ Current durable state:
 
 ## Exact next activity
 
-1. begin the **English translation phase** from the closed Tamil scene layer;
-2. first read / follow the repository's existing English-translation conventions from already closed stage-play works before creating new translation artifacts;
-3. translate **Scenes 1–5** as the first English batch unless a live repository translation workflow specifies a different batch size;
-4. translate from the assembled Tamil scene files, not from OCR or a new source transcription;
-5. preserve names, speaker structure, stage directions, rhetorical force and source-sensitive wording without silently smoothing away meaning;
-6. Scene 5 must preserve the scan-22 uncertainty explicitly: do not translate or invent the unreadable source clusters; retain the performance-interpretation note separately;
-7. create the appropriate English scene files and a durable Batch 01 review/checkpoint;
-8. synchronize README / HANDOVER / NEXT_CHAT_PROMPT and commit atomically.
+1. continue the **English translation phase** from the closed Tamil scene layer;
+2. next batch: **Scenes 6–10**;
+3. create `works/nachuk-koppai/translations/en/06.md` through `10.md`;
+4. translate only from `works/nachuk-koppai/scenes/06.md` through `10.md`;
+5. preserve names, speaker structure, stage directions, rhetorical force, satire and source-sensitive cultural terms;
+6. Scene 9 must preserve user-confirmed `சுடகோடி` conservatively; do not invent an external meaning if the closed Tamil layer does not establish one;
+7. create `translations/en/BATCH_02_REVIEW.md`, update `TRANSLATION_PLAN.md`, synchronize controls, and commit atomically;
+8. do not reopen the closed Tamil layer.
 
-P0 SHA-256 remains a separate pending fingerprint hold and does not block translation from the closed Tamil scene layer.
+P0 SHA-256 remains a separate pending fingerprint hold.
 
 ## Closed work safeguards
 
