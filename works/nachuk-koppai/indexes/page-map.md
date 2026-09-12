@@ -1,6 +1,6 @@
 # Page map — நச்சுக்கோப்பை
 
-Status: **PAGE-STATE RECONCILIATION COMPLETE — 63/63; SCENE ASSEMBLY 18/18 COMPLETE / REVIEWED; FINAL SCENE CONSISTENCY AUDIT NEXT; ONLY SCAN-22 HOLD REMAINS**
+Status: **PAGE-STATE RECONCILIATION 63/63 COMPLETE; TAMIL SCENES 18/18 CLOSED / CONSISTENCY AUDIT PASS; ONLY SCAN-22 / SCENE-5 HOLD REMAINS**
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -83,9 +83,12 @@ This preliminary map records physical scan identity and visually located scene o
 ## Scene assembly progress
 
 - Batch 01 — **Scenes 1–5 COMPLETE / REVIEWED**;
-- Batch 02 — **Scenes 6–18 COMPLETE / REVIEWED** — all 13 remaining scenes processed in one iteration;
+- Batch 02 — **Scenes 6–18 COMPLETE / REVIEWED**;
 - total — **18 / 18 COMPLETE**;
+- final consistency audit — **PASS / COMPLETE**;
+- dramatic physical scan coverage — **5–63 complete / no omissions**;
+- shared scene-boundary pages — **12 / 12 correctly split**;
 - clean scenes — **17 / 18**;
 - hold-bearing scene — **Scene 5**, inherited from scan 22;
-- shared page boundaries were split only at source-visible scene headings;
-- next: **full 18-scene assembly consistency audit / Tamil scene-layer closure review**.
+- Tamil scene layer — **CLOSED FOR CURRENT SOURCE EVIDENCE**;
+- next phase — **English translation**.

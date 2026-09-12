@@ -13,7 +13,7 @@ Permanent authorities:
 3. `HISTORICAL_TAMIL_GLYPH_GATE.md`;
 4. active work workflow `works/nachuk-koppai/BATCH_EXECUTION_WORKFLOW.md`.
 
-# CURRENT CHECKPOINT — நச்சுக்கோப்பை / TAMIL SCENE ASSEMBLY 18/18 COMPLETE / FINAL CONSISTENCY AUDIT NEXT
+# CURRENT CHECKPOINT — நச்சுக்கோப்பை / TAMIL SCENE LAYER CLOSED / ENGLISH TRANSLATION NEXT
 
 Active work: `works/nachuk-koppai/`.
 
@@ -75,7 +75,9 @@ Current durable state:
 - scan 35 user-confirmed source reading: **`சுடகோடி` — VERIFIED**;
 - scan 22 user interpretation: likely a song/performance cue, recorded as interpretation only; unidentified marks remain unresolved textually;
 - scene assembly: **18 / 18 assembled / reviewed — COMPLETE; 17 clean + Scene 5 carrying inherited scan-22 hold**;
-- English translation: **not started**.
+- final scene consistency audit: **PASS / COMPLETE**;
+- Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**;
+- English translation: **not started — NEXT**.
 
 ## Batch 01 durable findings
 
@@ -89,14 +91,16 @@ Current durable state:
 
 ## Exact next activity
 
-1. perform a **full 18-scene assembly consistency audit / Tamil scene-layer closure review**;
-2. compare every scene file against the reconciled scene-to-scan map and confirm complete physical-page coverage without duplication or omission;
-3. verify all shared boundary splits, documented cross-page word joins, running-header exclusions and non-authorial-mark exclusions;
-4. confirm Scene 5 alone carries the scan-22 unresolved-source-cluster hold and that no guessed characters entered the scene layer;
-5. confirm scan 35 `சுடகோடி`, scan 20 `வேணும்னாலும்`, and final Scene 18 `முற்றும்` are preserved correctly;
-6. write a durable final Tamil scene consistency/closure record and synchronize controls;
-7. commit atomically;
-8. do not start English translation in the same iteration.
+1. begin the **English translation phase** from the closed Tamil scene layer;
+2. first read / follow the repository's existing English-translation conventions from already closed stage-play works before creating new translation artifacts;
+3. translate **Scenes 1–5** as the first English batch unless a live repository translation workflow specifies a different batch size;
+4. translate from the assembled Tamil scene files, not from OCR or a new source transcription;
+5. preserve names, speaker structure, stage directions, rhetorical force and source-sensitive wording without silently smoothing away meaning;
+6. Scene 5 must preserve the scan-22 uncertainty explicitly: do not translate or invent the unreadable source clusters; retain the performance-interpretation note separately;
+7. create the appropriate English scene files and a durable Batch 01 review/checkpoint;
+8. synchronize README / HANDOVER / NEXT_CHAT_PROMPT and commit atomically.
+
+P0 SHA-256 remains a separate pending fingerprint hold and does not block translation from the closed Tamil scene layer.
 
 ## Closed work safeguards
 

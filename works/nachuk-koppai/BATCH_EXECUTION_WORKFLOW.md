@@ -106,7 +106,7 @@ The completed 63/63 fidelity layer was reconciled against all 63 canonical page 
 
 Final page-layer state:
 
-- verified: **60 / 63**;
+- verified: **62 / 63**;
 - terminal source-condition `needs-review`: **1 / 63** — scan **22**;
 - blocked: **0**;
 - downstream one-page drift: **fully repaired through scan 63**;
@@ -116,7 +116,7 @@ Scan 20 was subsequently resolved as `வேணும்னாலும்` and 
 
 # Tamil scene assembly phase
 
-Status: **ASSEMBLY COMPLETE — 18 / 18 SCENES ASSEMBLED / REVIEWED; FINAL CONSISTENCY AUDIT NEXT**
+Status: **COMPLETE / CLOSED — 18 / 18 SCENES ASSEMBLED / REVIEWED; FINAL CONSISTENCY AUDIT PASS**
 
 Assembly authority is the reconciled page layer, not OCR or a new retranscription.
 
@@ -139,4 +139,8 @@ Assembly Batch 02: **Scenes 6–18 COMPLETE / REVIEWED**.
 
 Iteration-size rule: **up to 15 scenes per iteration**. Batch 02 processed all 13 remaining scenes.
 
-Next: **full 18-scene consistency audit / Tamil scene-layer closure review**.
+Final consistency audit: **PASS / COMPLETE**.
+
+Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**.
+
+Next phase: **English translation from the closed Tamil scene layer**. Scene 5's inherited scan-22 hold must remain explicit and must not be guessed away.

@@ -8,7 +8,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 
 | Work | Status |
 |---|---|
-| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — Tamil page layer reconciled 63/63; Tamil scenes 18/18 assembled/reviewed; Scene 5 carries sole scan-22 hold; final scene consistency audit next; P0 SHA-256 hold remains** |
+| [நச்சுக்கோப்பை](works/nachuk-koppai/) | **ACTIVE — Tamil scene layer CLOSED/PASS: 18/18 scenes + final consistency audit PASS; Scene 5 carries sole scan-22 hold; English translation next; P0 SHA-256 hold remains** |
 | [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page layer 188/188; Tamil scenes 61/61; English 61/61 reviewed; 13/13 translation batches PASS/LOCKED; final English review PASS** |
 | [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 103 verified + 28 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
@@ -93,7 +93,7 @@ Final English state: **33 / 33** scenes reviewed; **7 / 7 PASS / LOCKED** batche
 `ஒரே முத்தம்` Tamil and English workflows, `திருவாளர் தேசீயம்பிள்ளை`, `காகிதப்பூ`, `மணிமகுடம்`, and closed `கலைஞரின் நான்மணி மாலை` components remain closed unless explicitly reopened with genuinely new source evidence or a separately authorized phase.
 
 
-## நச்சுக்கோப்பை — reconciled Tamil page-layer checkpoint
+## நச்சுக்கோப்பை — Tamil scene-layer closure checkpoint
 
 Controlling source: `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf`.
 
@@ -117,8 +117,10 @@ Current intake state:
 - word-by-word visual fidelity: **63 / 63 COMPLETE — 62 PASS / 1 terminal hold**;
 - full page-state reconciliation: **COMPLETE — 63 / 63**;
 - scene assembly: **18 / 18 reviewed — COMPLETE; Scene 5 alone carries the inherited scan-22 hold**;
-- English translation: **not started / not authorized as an active phase yet**.
+- final scene consistency audit: **PASS / COMPLETE**;
+- Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**;
+- English translation: **not started — NEXT**.
 
 The user's contextual description (1943 origin/performance history, alternate title `சாந்தா (அ) பழனியப்பன்`, and thematic summary) is recorded separately as **user-supplied context**, not as controlling-scan text.
 
-Exact next activity: perform the **full 18-scene assembly consistency audit / Tamil scene-layer closure review**. English translation remains blocked until that audit passes. SHA-256 remains a separate P0 fingerprint hold.
+Exact next activity: begin the **English translation phase** from the closed 18-scene Tamil layer, following established repository translation conventions. Scene 5's scan-22 uncertainty must remain explicit. SHA-256 remains a separate P0 fingerprint hold.

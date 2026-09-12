@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — TAMIL PAGE LAYER RECONCILED 63/63; SCENE ASSEMBLY 18/18 COMPLETE / REVIEWED; 17 CLEAN + SCENE 5 HOLD-BEARING; FINAL SCENE CONSISTENCY AUDIT NEXT; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — TAMIL SCENE LAYER CLOSED / PASS: 18/18 ASSEMBLED + FINAL CONSISTENCY AUDIT PASS; 17 CLEAN + SCENE 5 HOLD-BEARING; ENGLISH TRANSLATION NEXT; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -56,7 +56,9 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - alignment repair: **physical page records 31–63 have now been rebuilt/re-anchored source-first; final scan 63 is source-confirmed as the combined final dialogue / literary close / imprint page**;
 - full page-state reconciliation: **COMPLETE — 63 / 63; 62 verified + 1 terminal source-condition hold**;
 - scene assembly: **18 / 18 assembled and reviewed — COMPLETE; 17 clean scenes + Scene 5 carrying the sole inherited scan-22 source hold**;
-- English translation: **not started**.
+- final scene consistency audit: **PASS / COMPLETE**;
+- Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**;
+- English translation: **not started — NEXT**.
 
 ## User-supplied contextual note
 
@@ -93,5 +95,6 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 21. Scene 5 explicitly carries the scan 22 unresolved-cluster hold and the user's song/performance interpretation as a non-transcription note;
 22. Scene assembly Batch 02: **Scenes 6–18 COMPLETE / REVIEWED** — all 13 remaining scenes processed in one iteration under the new up-to-15-scenes rule;
 23. total Tamil scene assembly: **18 / 18 COMPLETE**; Scene 5 is the only hold-bearing scene, inheriting scan 22;
-24. next perform a **full 18-scene assembly consistency audit / Tamil scene-layer closure review** against the reconciled page map;
-25. English translation remains blocked until that final Tamil scene audit closes.
+24. full 18-scene assembly consistency audit: **PASS / COMPLETE** — 18/18 files present, physical dramatic scan coverage 5–63 complete, 12 shared boundaries correctly split, documented cross-page joins verified, no running headers/non-authorial marks in dramatic bodies;
+25. Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE** with Scene 5 carrying the sole scan-22 terminal source-condition hold;
+26. next begin the **English translation phase** from the closed Tamil scene layer; preserve Scene 5's hold explicitly.
