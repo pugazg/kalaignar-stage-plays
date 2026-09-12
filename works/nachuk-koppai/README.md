@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **ACTIVE — TAMIL SCENE LAYER CLOSED / PASS; ENGLISH 5/18 REVIEWED — BATCH 01 PASS/LOCKED WITH SCENE-5 SOURCE HOLD PRESERVED; SCENES 6–10 NEXT; P0 CHECKSUM HOLD REMAINS**
+Status: **ACTIVE — TAMIL SCENE LAYER CLOSED / PASS; ENGLISH 10/18 REVIEWED — BATCHES 01–02 PASS/LOCKED; SCENE-5 SOURCE HOLD PRESERVED; SCENES 11–15 NEXT; P0 CHECKSUM HOLD REMAINS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -58,7 +58,7 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - scene assembly: **18 / 18 assembled and reviewed — COMPLETE; 17 clean scenes + Scene 5 carrying the sole inherited scan-22 source hold**;
 - final scene consistency audit: **PASS / COMPLETE**;
 - Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**;
-- English translation: **5 / 18 reviewed — Batch 01 Scenes 1–5 PASS / LOCKED; Scene 5 preserves the sole scan-22 source hold**.
+- English translation: **10 / 18 reviewed — Batches 01–02 PASS / LOCKED; Scene 5 preserves the sole scan-22 source hold**.
 
 ## User-supplied contextual note
 
@@ -98,5 +98,6 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 24. full 18-scene assembly consistency audit: **PASS / COMPLETE** — 18/18 files present, physical dramatic scan coverage 5–63 complete, 12 shared boundaries correctly split, documented cross-page joins verified, no running headers/non-authorial marks in dramatic bodies;
 25. Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE** with Scene 5 carrying the sole scan-22 terminal source-condition hold;
 26. English Translation Batch 01 — **Scenes 1–5 COMPLETE / REVIEWED / PASS / LOCKED**; Scene 5 preserves scan 22 as an explicit source hold;
-27. next translate **Scenes 6–10** from the closed Tamil scene layer using the established 5-scene English batch convention;
-28. do not reopen or edit the closed Tamil scene layer during translation.
+27. English Translation Batch 02 — **Scenes 6–10 COMPLETE / REVIEWED / PASS / LOCKED**; Scene 9 preserves user-confirmed `சுடகோடி` as `Sudakodi` without invented meaning;
+28. next translate **Scenes 11–15** from the closed Tamil scene layer;
+29. do not reopen or edit the closed Tamil scene layer during translation.

@@ -148,7 +148,7 @@ Next phase: **English translation from the closed Tamil scene layer**. Scene 5's
 
 # English translation phase
 
-Status: **IN PROGRESS — 5 / 18 REVIEWED**
+Status: **IN PROGRESS — 10 / 18 REVIEWED**
 
 Authority: the closed Tamil scene layer under `scenes/`.
 
@@ -165,4 +165,6 @@ Rules:
 
 Batch 01 — **Scenes 1–5 PASS / LOCKED — Scene 5 source hold preserved**.
 
-Next: **Scenes 6–10**.
+Batch 02 — **Scenes 6–10 PASS / LOCKED**.
+
+Next: **Scenes 11–15**.
