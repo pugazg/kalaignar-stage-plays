@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **RESIDUAL RE-AUDIT COMPLETE — 104 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 27 RETAIN EXPLICIT SOURCE-CONDITION TEXT/GLYPH HOLDS**
+Status: **RESIDUAL RE-AUDIT COMPLETE — 105 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 26 RETAIN EXPLICIT SOURCE-CONDITION TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -141,7 +141,8 @@ No positive same-edition reference is yet promoted for `ணொ / ணோ / றொ
 After residual-hold batches 1–2:
 
 - verified: scans **22–26, 28–40**;
-- open: scans **21, 27**;
+- verified: scan **21** after user source adjudication of the opening stage direction on 2026-09-18;
+- open: scan **27**;
 - batch 1 scan 23 resolves **`ஏழைகள்!`** and rejects provisional `ஏமைகள்`; `கடித்துத் தின்றுவிடுவார்` closes; `ஆனா` establishes secure `னா`;
 - batch 1 scans 28–32 and 34 close their recorded lexical/action/historical-type holds;
 - batch 2 scans 35–36 and 38–39 close their residual holds; scan 36 corrects earlier `மின்னலை` to **`மன்னனைக்`** and scan 39 resolves **`புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`**;
@@ -203,7 +204,7 @@ Eight pages PASS / verified: **111, 114–120**. Scans **112–113** remain open
 Reviewed scans **1, 21, 23, 27–32, 34** with stronger source renderings.
 
 - promoted: **23, 28–32, 34** — **7 pages**;
-- remain open: **1, 21, 27**;
+- historical batch result originally left **1, 21, 27** open; scans **1** and **21** were subsequently user-adjudicated and verified on 2026-09-18; scan **27** remains open;
 - no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
 
 ## Residual-hold re-audit — batch 2
@@ -250,11 +251,11 @@ Reviewed scans **92, 94–95, 98–100, 112–113, 117, 128, 130** directly from
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- full historical-glyph passes: **104 / 131** (`1–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`);
-- visually verified: **104 / 131**;
-- `needs-review`: **27 / 131** (`21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
+- full historical-glyph passes: **105 / 131** (`1–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`);
+- visually verified: **105 / 131**;
+- `needs-review`: **26 / 131** (`27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Every current `needs-review` page has now received at least one residual re-audit directly against the controlling source. Next, perform a **terminal residual-hold/source-condition classification and formal structural inventory**: retain the remaining **27** exact unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
+Every current `needs-review` page has now received at least one residual re-audit directly against the controlling source. Next, perform a **terminal residual-hold/source-condition classification and formal structural inventory**: retain the remaining **26** exact unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
