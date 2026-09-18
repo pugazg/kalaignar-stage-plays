@@ -25,9 +25,9 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 | 13 | 51–52 | 51 with Scene 12; 52 with Scene 14 | no |
 | 14 | 52–53 | 52 with Scene 13; 53 with Scene 15 | no |
 | 15 | 53–59 | 53 with Scene 14; 59 with Scene 16 | no |
-| 16 | 59–64 | 59 with Scene 15; 64 with Scene 17 | **scans 60, 61** |
-| 17 | 64–68 | 64 with Scene 16; 68 with Scene 18 | **scan 65** |
-| 18 | 68–72 | 68 with Scene 17; 72 with Scene 19 | **scan 69**; the scan-72 hold is after the Scene-19 anchor |
+| 16 | 59–64 | 59 with Scene 15; 64 with Scene 17 | no |
+| 17 | 64–68 | 64 with Scene 16; 68 with Scene 18 | no |
+| 18 | 68–72 | 68 with Scene 17; 72 with Scene 19 | **no Scene-18 unresolved locus**; scan 72 is blocked only for Scene-19 text after the anchor |
 | 19 | 72–75 | 72 with Scene 18; 75 with Scene 20 | **scans 72, 73, 74** |
 | 20 | 75–80 | 75 with Scene 19; 80 with Scene 21 | **scans 77, 79** |
 | 21 | 80–85 | 80 with Scene 20; 85 with Scene 22 | no |
@@ -62,7 +62,7 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 
 ### Fully verified physical-page inputs
 
-Main: **1–15, 21–22, 27, 30**.
+Main: **1–17, 21–22, 27, 30**.
 
 Supplementary: **Scene 1**.
 
@@ -73,7 +73,7 @@ Supplementary: **Scene 1**.
 
 ### Hold-bearing scenes
 
-Main: **16–20, 23–26, 29**.
+Main: **19–20, 23–26, 29**.
 
 Supplementary: **Scene 3**.
 
