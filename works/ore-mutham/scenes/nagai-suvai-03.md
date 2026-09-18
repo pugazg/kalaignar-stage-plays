@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "supplementary-comedy"
 source_scan_pages: [128, 129, 130]
 printed_pages: [126, 127, 128]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-holds"
-source_condition_scans: [128, 130]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -16,7 +16,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 இடம்:- சந்தேகம் வீடு.
 
-[source-held: `காட்சி 3.` opening parenthetical — source-visible household/prop/action direction is structurally secure, but several dense exact-character clusters remain unresolved; do not reconstruct from comic context or modern spelling.]
+(பெரிய குதிர், கோழி, ஏர், கலப்பை, விரட்டி அடுக்கு. கோழியை வைத்துக்கொண்டு "புறாப் பாட்டு" மெட்டில் கோழியால் தப்பித்ததை சமயோசிதமும், அதிர்ஷ்டமும் பாடிக் கொண்டிருக்கையில், சந்தேகம் கதவைத் தட்டிக் கூப்பிடுகிறான். அதிர்ஷ்டத்தைக் குதிரில் ஒளியவைத்துக் கதவைத் திறக்கிறாள்)
 
 <!-- source boundary: scan 128 / p.126 -> scan 129 / p.127 -->
 
@@ -74,14 +74,14 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 சந்:- அப்ப தூக்கிக் கொள்ளுங்க!
 
-[source-held: dense concluding action parenthetical immediately following this line; the action sequence is source-visible but several exact historical-type clusters remain unresolved.]
+(அதிர்ஷ்டம் சமயோசிதத்தை தூக்கிக்கொண்டு மெய்மறந்து ஆடுகிறான். இருவரும் ஆனந்தத்தில் இருக்கின்றனர். சந்தேகம் குதிருக்குள் வெளியே தலையை நீட்டுகிறான்)
 
-[source-held: final bold bracketed epilogue beginning `முடிவில் சமயோசிதம் குஷ்டரோகி ஆகிறாள்.`; publication-ending bracket, ellipsis pattern and final wording remain exact-character held rather than reconstructed.]
+[முடிவில் சமயோசிதம் குஷ்டரோகி ஆகிறாள். தன் கேவல நடத்தையை நினைத்து வருந்துகிறாள்.......... துறவியான சித்ராவைச் சந்தித்து....... அவள் வழி பின்பற்றுகிறாள்]
 
 ## Assembly provenance
 
 - assembled only from canonical supplementary Scene-3 segments of `0128.md`–`0130.md`;
-- terminal source-condition scans 128 and 130 retain all three scene-relevant source-held markers verbatim;
+- scans 128 and 130 are fully verified after user source adjudication on 2026-09-18; no supplementary Scene-3 source hold remains;
 - scan 128 is shared with supplementary Scene 2; only text after source heading `காட்சி 3.` is imported;
 - scan 130 remains the final dramatic-text page of the publication;
-- no held wording is reconstructed from comic context, OCR, grammar, modern spelling or another edition.
+- the resolved wording comes from user source adjudication against the supplied scans; no comic-context reconstruction was used.
