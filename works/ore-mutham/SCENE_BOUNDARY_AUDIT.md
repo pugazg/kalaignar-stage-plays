@@ -15,7 +15,7 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 | 3 | 11–15 | 11 with Scene 2; 15 with Scene 4 | no |
 | 4 | 15–19 | 15 with Scene 3; 19 with Scene 5 | no |
 | 5 | 19–20 | 19 with Scene 4 | no |
-| 6 | 21–24 | 24 with Scene 7 | **scan 21** |
+| 6 | 21–24 | 24 with Scene 7 | no |
 | 7 | 24–27 | 24 with Scene 6; 27 with Scene 8 | **scan 27 — Scene-7 material itself includes held parenthetical wording** |
 | 8 | 27–32 | 27 with Scene 7; 32 with Scene 9 | **scan 27** |
 | 9 | 32–37 | 32 with Scene 8; 37 with Scene 10 | no |
@@ -63,7 +63,7 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 
 ### Fully verified physical-page inputs
 
-Main: **1–5, 9–10, 15, 21–22, 27, 30**.
+Main: **1–6, 9–10, 15, 21–22, 27, 30**.
 
 Supplementary: **Scene 1**.
 
