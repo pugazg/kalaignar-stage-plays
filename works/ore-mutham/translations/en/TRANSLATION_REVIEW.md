@@ -75,9 +75,6 @@ Main:
 - 26 → `[100]`
 - 29 → `[112, 113]`
 
-Supplementary:
-
-
 Source-hold-bearing English scenes reviewed: **7 / 7**.
 
 Tamil terminal source holds resolved by English translation: **0**.
