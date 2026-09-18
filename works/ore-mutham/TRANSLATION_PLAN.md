@@ -77,7 +77,7 @@ Future editorial refinement must be explicit and globally consistent; it must no
 
 ## 5. Terminal-source-hold rule — final state
 
-The Tamil closure currently contains **16 terminal current-source-condition blocked pages** and **8 hold-bearing scene artifacts**. Scans 1, 21, 27, 43, 47, 48, 51 and 52 were subsequently fully verified by user source adjudication on 2026-09-18. Scenes 7, 8, 12–18 are now source-secure.
+The Tamil closure currently contains **14 terminal current-source-condition blocked pages** and **7 hold-bearing scene artifacts**. Scans 1, 21, 27, 43, 47, 48, 51 and 52 were subsequently fully verified by user source adjudication on 2026-09-18. Scenes 7, 8, 12–18 are now source-secure.
 
 Permanent English rule remains:
 
@@ -89,10 +89,10 @@ Permanent English rule remains:
 
 Final result:
 
-- hold-bearing English scenes reviewed: **8 / 8**;
+- hold-bearing English scenes reviewed: **7 / 7**;
 - Tamil terminal holds resolved through translation: **0**.
 
-Source-secure shared-boundary main Scene 28 and supplementary Scene 2 remain source-secure because their globally blocked transition-page loci belong only to the following scenes.
+Source-secure shared-boundary main Scenes 18 and 28 remain source-secure because their globally blocked transition-page loci belong only to the following scenes. Supplementary Scenes 1–3 are now fully source-secure after scans 128 and 130 were user-adjudicated.
 
 ## 6. Review front matter
 
@@ -122,7 +122,7 @@ source_condition_scans: [<same scene-relevant terminal scans>]
 4. Batch 4 — main **16–20** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
 5. Batch 5 — main **21–25** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
 6. Batch 6 — main **26–30** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-7. Batch 7 — supplementary **1–3** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
+7. Batch 7 — supplementary **1–3** — **PASS / LOCKED**.
 
 Completed batches: **7 / 7**.
 
@@ -143,7 +143,7 @@ The penultimate iteration completed main **16–25** as Batches 4–5. The final
 - main: **30 / 30**;
 - supplementary: **3 / 3**;
 - batches: **7 / 7 PASS / LOCKED**;
-- hold-bearing English scenes: **8 / 8**;
+- hold-bearing English scenes: **7 / 7**;
 - unresolved blocking English issues: **0**;
 - Tamil source holds resolved by English translation: **0**;
 - secondary-English contamination: **0**.
