@@ -62,7 +62,7 @@ These use `status: "assembly-held"`, `assembled_from_verified_pages: false`, `pa
 | 24 | 94–95 | `[94, 95]` |
 | 25 | 96–99 | `[98, 99]` |
 | 26 | 100–104 | `[100]` |
-| 29 | 112–117 | `[112, 113]` |
+| 29 | 112–117 | `[112]` |
 
 ## Assembly rules — permanent
 
@@ -97,7 +97,7 @@ Scene assembly is closed. Do not create a second scene layer and do not begin En
 Next:
 
 1. verify the scene-file inventory is exactly main `01–30` plus supplementary `01–03`, with no duplicate/missing files or numbering leakage;
-2. verify all 14 remaining terminal physical-page holds remain traceable through page records and scene files;
+2. verify all 13 remaining terminal physical-page holds remain traceable through page records and scene files;
 3. reconcile stale secondary index labels such as legacy `needs-review` entries with the terminal `blocked` classification without altering canonical page text;
 4. run the work-level Tamil release/closure decision under the repository's terminal-source-condition policy;
 5. synchronize README / handover / next-chat prompt with that closure outcome;
