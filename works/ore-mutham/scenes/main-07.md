@@ -100,12 +100,12 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 இமய:- பேசவில்லை.
 
-[scene-7 closing parenthetical stage direction remains held at the exact-word level]
+(இமயா வாயில் கைவைத்து பொத்திக் கொள்கிறான்)
 
 ## Assembly provenance
 
 - assembled from canonical Scene-7 segments of `0024.md`–`0027.md`;
-- scan 27 is terminally `blocked`; both Scene-7 hold markers are retained verbatim and no held wording is reconstructed;
+- scan 27 remains terminally `blocked` only for the Scene-7 opening parenthetical beyond secure `குமரி வருகை.`; the Scene-7 closing direction is user-adjudicated and closed;
 - scan 24 is shared with Scene 6 and scan 27 is shared with Scene 8; only the source-visible Scene-7 segments are imported;
 - source wording, speaker-label punctuation, historical spelling and stage-direction form remain unchanged;
 - no OCR, plot continuity, modern spelling, grammar repair or another-edition completion was used.
