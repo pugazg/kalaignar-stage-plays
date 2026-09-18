@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — 131 / 131 SOURCE-PROCESSED; 103 VERIFIED + 28 TERMINAL `blocked`; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY TAMIL SCENES ASSEMBLED; FULL TAMIL SCENE AUDIT PASS 33 / 33; ENGLISH TRANSLATION COMPLETE / CLOSED — 33 / 33 ENGLISH SCENES REVIEWED; 7 / 7 BATCHES PASS / LOCKED; FINAL ENGLISH REVIEW PASS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — 131 / 131 SOURCE-PROCESSED; 104 VERIFIED + 27 TERMINAL `blocked`; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY TAMIL SCENES ASSEMBLED; FULL TAMIL SCENE AUDIT PASS 33 / 33; ENGLISH TRANSLATION COMPLETE / CLOSED — 33 / 33 ENGLISH SCENES REVIEWED; 7 / 7 BATCHES PASS / LOCKED; FINAL ENGLISH REVIEW PASS.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -48,17 +48,17 @@ Supplementary scenes remain source-numbered **1–3**, never main scenes 31–33
 
 ## Final physical-page state
 
-Verified scans — **103 / 131**:
+Verified scans — **104 / 131**:
 
-`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`.
+`1–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`.
 
-Terminal current-source-condition / `blocked` scans — **28 / 131**:
+Terminal current-source-condition / `blocked` scans — **27 / 131**:
 
-`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
+`21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
 
 Ordinary `needs-review`: **0**.
 
-All 28 terminal records were directly reviewed and received difficult-reading/residual escalation. They are not pending ordinary review. Reopen only with genuinely stronger source evidence.
+All 27 terminal records were directly reviewed and received difficult-reading/residual escalation. They are not pending ordinary review. Reopen only with genuinely stronger source evidence.
 
 ## Tamil scene layer — COMPLETE
 
@@ -96,7 +96,7 @@ Scene-relevant terminal dependencies:
 - 29 → `112, 113`
 - supplementary 3 → `128, 130`.
 
-Scan 1 is the only terminal page outside the scene layer. All **27 scene-relevant blocked physical scans** remain traceable through scene files.
+All **27 remaining blocked physical scans** are scene-relevant and remain traceable through scene files. Scan 1 is now fully verified after user adjudication of `மு.கருணாநிதி` and `Anand` on 2026-09-18.
 
 `SCENE_ASSEMBLY_AUDIT.md`: **PASS — 33 / 33**.
 
@@ -123,7 +123,7 @@ Historical glyphs are decoded by character identity, never global replacement. T
 
 Do not revert prior source-closed corrections, including:
 
-- scan 1 vertical author lettering `மு.கருணாநிதி` (user source adjudication, 2026-09-18); the separate tiny lower-left artist/signature mark remains held;
+- scan 1 vertical author lettering `மு.கருணாநிதி` and lower-left artist/signature `Anand` (user source adjudication, 2026-09-18); scan 1 is fully verified;
 - scan 23 `ஏழைகள்!`, `கடித்துத் தின்றுவிடுவார்`, `ஆனா`;
 - scan 36 `மன்னனைக்`;
 - scan 39 `புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`;
@@ -163,9 +163,9 @@ Do not revert prior source-closed corrections, including:
 
 Work-level state:
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 28 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 27 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
 
-This state is deliberately different from “131/131 verified”: **103** pages are verified; **28** remain terminally blocked by current source condition. Every page/scene has been processed, every difficult locus revisited, every remaining ambiguity explicitly documented, and no ambiguity fabricated away.
+This state is deliberately different from “131/131 verified”: **104** pages are verified; **27** remain terminally blocked by current source condition. Every page/scene has been processed, every difficult locus revisited, every remaining ambiguity explicitly documented, and no ambiguity fabricated away.
 
 ## Reopening rule
 
