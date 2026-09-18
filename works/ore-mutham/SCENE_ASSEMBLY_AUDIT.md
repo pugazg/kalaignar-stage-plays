@@ -61,16 +61,14 @@ For every assembled scene:
 | Scene | Scene file | Contributing scans | Source-condition scans inside scene | Result |
 |---:|---|---:|---|---|
 | 1 | `scenes/nagai-suvai-01.md` | 119–125 | — | PASS |
-| 2 | `scenes/nagai-suvai-02.md` | 125–128 | — * | PASS — source-secure boundary case |
-| 3 | `scenes/nagai-suvai-03.md` | 128–130 | 128, 130 | PASS — holds preserved |
-
-`*` Supplementary Scene 2 uses only the secure pre-`காட்சி 3.` segment of globally blocked scan 128. The scan-128 held locus belongs to supplementary Scene 3 and is not imported into Scene 2.
+| 2 | `scenes/nagai-suvai-02.md` | 125–128 | — | PASS |
+| 3 | `scenes/nagai-suvai-03.md` | 128–130 | — | PASS |
 
 ## Front-matter audit
 
-- **22 / 33** scenes use only globally `verified` physical page records and correctly use `assembled_from_verified_pages: true`, `page_record_fidelity: "passed"`, `source_condition_scans: []`.
-- **3 / 33** source-secure boundary cases — main Scenes **18**, **28** and supplementary Scene **2** — correctly use `assembled_from_verified_pages: false`, `page_record_fidelity: "passed"`, `source_condition_scans: []` because a shared contributing physical page is globally blocked only for later-scene text.
-- **8 / 33** hold-bearing scenes correctly use `assembled_from_verified_pages: false`, `status: "assembly-held"`, and list their scene-relevant terminal scans under `source_condition_scans`.
+- **24 / 33** scenes use only globally `verified` physical page records and correctly use `assembled_from_verified_pages: true`, `page_record_fidelity: "passed"`, `source_condition_scans: []`.
+- **2 / 33** source-secure boundary cases — main Scenes **18** and **28** — correctly use `assembled_from_verified_pages: false`, `page_record_fidelity: "passed"`, `source_condition_scans: []` because a shared contributing physical page is globally blocked only for later-scene text.
+- **7 / 33** hold-bearing scenes correctly use `assembled_from_verified_pages: false`, `status: "assembly-held"`, and list their scene-relevant terminal scans under `source_condition_scans`.
 - No hold-bearing scene is falsely promoted to source-verified/release-final status.
 
 ## Terminal-hold traceability audit
@@ -84,7 +82,6 @@ Scene-relevant hold ownership is preserved as follows:
 - Scene 25 → `98, 99`;
 - Scene 26 → `100`;
 - Scene 29 → `112, 113`;
-- supplementary Scene 3 → `128, 130`.
 
 This ownership is segment-aware. Globally blocked transition scans are not automatically attributed to both adjacent scenes.
 
@@ -126,8 +123,8 @@ Documented physical continuations remain explicit through archival boundary comm
 - main scene files assembled: **30 / 30**;
 - supplementary scene files assembled: **3 / 3**;
 - total Tamil scene files assembled: **33 / 33**;
-- source-secure scene files: **25 / 33**;
-- hold-bearing scene files: **8 / 33**;
+- source-secure scene files: **26 / 33**;
+- hold-bearing scene files: **7 / 33**;
 - all scene files page-record-consistency audited: **33 / 33 — PASS**;
 - terminal source-condition loci repaired from context: **0**;
 - source wording normalized by assembly: **0**;
@@ -140,7 +137,7 @@ Documented physical continuations remain explicit through archival boundary comm
 The Tamil page layer, structural layer and scene-assembly layer are now complete for the current source evidence. The **next archival activity is a Tamil pre-release / work-level closure gate**:
 
 1. verify scene-file inventory is exactly main `01–30` plus supplementary `01–03` with no duplicates or numbering leakage;
-2. verify all 16 remaining terminal physical-page holds remain traceable from page records through the scene layer; scans 1, 21, 27, 43, 47, 48, 51 and 52 are now fully verified after user adjudication;
+2. verify all 14 remaining terminal physical-page holds remain traceable from page records through the scene layer; scans 1, 21, 27, 43, 47, 48, 51 and 52 are now fully verified after user adjudication;
 3. reconcile README / handover / prompt status and any stale `needs-review` labels in secondary indexes without changing the canonical page records or pretending terminal holds are resolved;
 4. decide/document the work-level Tamil release state under the repository's terminal-source-condition policy;
 5. do **not** begin English translation unless explicitly authorized.
