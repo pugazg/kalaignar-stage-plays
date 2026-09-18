@@ -10,7 +10,7 @@ The controlling authority is the supplied scan. OCR/Gemini may assist discovery 
 |---|---|
 | [நச்சுக்கோப்பை](works/nachuk-koppai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — P0 PASS; Tamil 18/18 CLOSED; English 18/18 CLOSED, 4/4 batches PASS/LOCKED, final English review PASS; Scene 5 source hold preserved** |
 | [இரத்தக் கண்ணீர்](works/iratha-kanneer/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page layer 188/188; Tamil scenes 61/61; English 61/61 reviewed; 13/13 translation batches PASS/LOCKED; final English review PASS** |
-| [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 104 verified + 27 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 18/18 hold-bearing English scenes preserve holds** |
+| [ஒரே முத்தம்](works/ore-mutham/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil source/closure 131/131; 105 verified + 26 terminal `blocked`; 30/30 main + 3/3 supplementary Tamil scenes; scene audit PASS 33/33; Tamil closure PASS; English 33/33 reviewed; 7/7 batches PASS/LOCKED; final English review PASS; 17/17 current hold-bearing English scenes preserve holds** |
 | [திருவாளர் தேசீயம்பிள்ளை](works/thiruvalar-desiyampillai/) | **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — Tamil page pass 49/49; historical-glyph pass 49/49; 40 verified; 9 source-condition needs-review; 7/7 Tamil SRUs assembled/reviewed PASS; independent English 7/7 reviewed; 4/4 batches PASS/LOCKED; final English review PASS** |
 | [காகிதப்பூ](works/kagithapoo/) | **COMPLETE / CLOSED — Tamil 41/41; scene layer 23/23; English 23/23; final reviews PASS** |
 | [சிலப்பதிகாரம் — நாடகக் காப்பியம்](works/silappathikaram-nataka-kappiyam/) | **Tamil archive PASS; English COMPLETE; secondary-witness comparison PASS** |
@@ -82,9 +82,9 @@ No further Tamil page-layer or scene-assembly activity remains for current sourc
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
-Physical-page state: source-processed / closure-audited **131 / 131 — COMPLETE**; verified **104 / 131**; terminal `blocked` **27 / 131**; ordinary `needs-review` **0**; historical-glyph PASS **104 / 131**.
+Physical-page state: source-processed / closure-audited **131 / 131 — COMPLETE**; verified **105 / 131**; terminal `blocked` **26 / 131**; ordinary `needs-review` **0**; historical-glyph PASS **105 / 131**.
 
-Tamil scene layer: main **30 / 30**; supplementary **3 / 3**; full page-to-scene audit **PASS — 33 / 33**. Work-level Tamil state: **TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 27 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
+Tamil scene layer: main **30 / 30**; supplementary **3 / 3**; full page-to-scene audit **PASS — 33 / 33**. Work-level Tamil state: **TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 26 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
 
 Final English state: **33 / 33** scenes reviewed; **7 / 7 PASS / LOCKED** batches; final `TRANSLATION_REVIEW.md` **PASS / COMPLETE**. Work-level English state: **ENGLISH TRANSLATION COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE.**
 
