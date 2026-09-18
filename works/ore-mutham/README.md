@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — 131 / 131 SOURCE-PROCESSED; 111 VERIFIED + 20 TERMINAL `blocked`; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY TAMIL SCENES ASSEMBLED; FULL TAMIL SCENE AUDIT PASS 33 / 33; ENGLISH TRANSLATION COMPLETE / CLOSED — 33 / 33 ENGLISH SCENES REVIEWED; 7 / 7 BATCHES PASS / LOCKED; FINAL ENGLISH REVIEW PASS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — 131 / 131 SOURCE-PROCESSED; 115 VERIFIED + 16 TERMINAL `blocked`; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY TAMIL SCENES ASSEMBLED; FULL TAMIL SCENE AUDIT PASS 33 / 33; ENGLISH TRANSLATION COMPLETE / CLOSED — 33 / 33 ENGLISH SCENES REVIEWED; 7 / 7 BATCHES PASS / LOCKED; FINAL ENGLISH REVIEW PASS.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -48,17 +48,17 @@ Supplementary scenes remain source-numbered **1–3**, never main scenes 31–33
 
 ## Final physical-page state
 
-Verified scans — **111 / 131**:
+Verified scans — **115 / 131**:
 
-`1–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`.
+`1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`.
 
-Terminal current-source-condition / `blocked` scans — **20 / 131**:
+Terminal current-source-condition / `blocked` scans — **16 / 131**:
 
-`60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
+`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
 
 Ordinary `needs-review`: **0**.
 
-All 20 terminal records were directly reviewed and received difficult-reading/residual escalation. They are not pending ordinary review. Reopen only with genuinely stronger source evidence.
+All 16 terminal records were directly reviewed and received difficult-reading/residual escalation. They are not pending ordinary review. Reopen only with genuinely stronger source evidence.
 
 ## Tamil scene layer — COMPLETE
 
@@ -71,15 +71,12 @@ Total: **33 / 33**.
 
 Assembly classes:
 
-- fully verified-input scenes: **20** — main `1–15, 21–22, 27, 30` + supplementary 1;
-- source-secure shared-boundary scenes: **2** — main 28 and supplementary 2;
-- hold-bearing scenes: **11** — main `16–20, 23–26, 29` + supplementary 3.
+- fully verified-input scenes: **22** — main `1–17, 21–22, 27, 30` + supplementary 1;
+- source-secure shared-boundary scenes: **3** — main 18, main 28 and supplementary 2;
+- hold-bearing scenes: **8** — main `19–20, 23–26, 29` + supplementary 3.
 
 Scene-relevant terminal dependencies:
 
-- 16 → `60, 61`
-- 17 → `65`
-- 18 → `69`
 - 19 → `72, 73, 74`
 - 20 → `77, 79`
 - 23 → `88, 90`
@@ -89,7 +86,7 @@ Scene-relevant terminal dependencies:
 - 29 → `112, 113`
 - supplementary 3 → `128, 130`.
 
-All **20 remaining blocked physical scans** are scene-relevant and remain traceable through scene files. Scans 1, 21, 27, 43, 47, 48, 51 and 52 are now fully verified after user adjudication on 2026-09-18; Scenes 7, 8, 12, 13 and 14 are source-secure.
+All **16 remaining blocked physical scans** are scene-relevant and remain traceable through scene files. Scans 1, 21, 27, 43, 47, 48, 51 and 52 are now fully verified after user adjudication on 2026-09-18; Scenes 7, 8, 12, 13 and 14 are source-secure.
 
 `SCENE_ASSEMBLY_AUDIT.md`: **PASS — 33 / 33**.
 
@@ -100,7 +97,7 @@ All **20 remaining blocked physical scans** are scene-relevant and remain tracea
 
 ## Boundary-aware rule
 
-Physical transition scans can contribute secure text to one scene while carrying a hold belonging only to the next. Important retained cases include main Scene 28 vs Scene 29 on scan 112, supplementary Scene 2 vs Scene 3 on scan 128, Scene 23 vs Scene 24 on scan 94, and Scene 18 vs Scene 19 on scan 72.
+Physical transition scans can contribute secure text to one scene while carrying a hold belonging only to the next. Important retained cases include Scene 18 vs Scene 19 on scan 72, main Scene 28 vs Scene 29 on scan 112, supplementary Scene 2 vs Scene 3 on scan 128, and Scene 23 vs Scene 24 on scan 94.
 
 The same segment-level rule is preserved in the completed English layer.
 
@@ -159,9 +156,9 @@ Do not revert prior source-closed corrections, including:
 
 Work-level state:
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 20 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 16 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
 
-This state is deliberately different from “131/131 verified”: **111** pages are verified; **20** remain terminally blocked by current source condition. Every page/scene has been processed, every difficult locus revisited, every remaining ambiguity explicitly documented, and no ambiguity fabricated away.
+This state is deliberately different from “131/131 verified”: **115** pages are verified; **16** remain terminally blocked by current source condition. Every page/scene has been processed, every difficult locus revisited, every remaining ambiguity explicitly documented, and no ambiguity fabricated away.
 
 ## Reopening rule
 
@@ -195,7 +192,7 @@ English closure metrics:
 
 - expected / present / reviewed scene artifacts: **33 / 33**;
 - completed batches: **7 / 7**;
-- source-hold-bearing English scenes completed: **11 / 11**;
+- source-hold-bearing English scenes completed: **8 / 8**;
 - Tamil terminal holds resolved by translation: **0**;
 - unresolved blocking English issues: **0**;
 - secondary-English witness contamination: **0**.
