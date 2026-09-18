@@ -9,7 +9,7 @@ status: "translation-reviewed-with-source-holds"
 translation_review: "passed-with-source-holds"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [112, 113]
+source_condition_scans: [112]
 ---
 
 # Scene 29
@@ -30,7 +30,7 @@ Puthan: Do not grieve. At the moment you betrayed your husband, you saved this c
 
 Chithra: Prince! Women through generation after generation will revile me as “the woman who betrayed her husband, the woman who betrayed him.” This alone is my atonement.
 
-Puthan: In that case, I will arrange a place for you to stay [Source-held: one exact place/compound word in this clause remains unresolved].
+Puthan: In that case, I will arrange a place for you to stay in the capital itself.
 
 Chithra: Everyone who deceives the town in the guise of a renunciant needs a place to sit! As long as the desires in my mind keep roaring, I will remain adorned like this. Prince! One request. Kumari, who laboured without rest to unite the two of you, lies on her deathbed. Do not forget her.
 
@@ -117,7 +117,7 @@ Puthan: Ah!...
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-29.md`.
-- Scans 112 and 113 remain terminal Tamil source holds. The opening direction and one place/compound word in Puthan's accommodation line remain visibly unresolved; no completion is supplied from costume, plot or grammar.
+- Scan 112 remains the sole terminal Tamil source hold for Scene 29. Scan 113 is fully verified after user source adjudication of `தலைநகரிலேயே`; the accommodation line is translated directly as `in the capital itself`.
 - The source's caste terminology and `கலப்புமணம்` argument are translated directly. `பறைச்சி` is represented as `Paraiyar woman` to preserve the caste reference without replacing the Tamil artifact.
 - `மக்களாட்சி` is rendered `democracy` and `மன்னராட்சி` as `monarchy`; the source explicitly develops popular representation, removal of abusive rulers and a people's movement.
 - The scene's anti-caste, republican and popular-sovereignty argument is not softened or summarized away.
