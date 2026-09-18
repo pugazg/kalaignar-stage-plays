@@ -31,9 +31,9 @@ When a shared page is terminally `blocked`, hold ownership is segment-level:
 
 ## Final assembly classes
 
-### Fully verified physical-page inputs — 20 scenes
+### Fully verified physical-page inputs — 22 scenes
 
-Main: **1–15, 21–22, 27, 30**.
+Main: **1–17, 21–22, 27, 30**.
 
 Supplementary: **Scene 1**.
 
@@ -41,6 +41,7 @@ These use `status: "assembly-reviewed"`, `assembled_from_verified_pages: true`, 
 
 ### Source-secure shared-boundary cases — 2 scenes
 
+- main Scene **18** — secure pre-`காட்சி 19.` segment of blocked scan 72;
 - main Scene **28** — secure pre-`காட்சி 29.` segment of blocked scan 112;
 - supplementary Scene **2** — secure pre-`காட்சி 3.` segment of blocked scan 128.
 
@@ -48,7 +49,7 @@ These use `assembled_from_verified_pages: false`, `page_record_fidelity: "passed
 
 ### Hold-bearing scenes — 18 scenes
 
-Main: **16–20, 23–26, 29**.
+Main: **19–20, 23–26, 29**.
 
 Supplementary: **Scene 3**.
 
@@ -56,9 +57,6 @@ These use `status: "assembly-held"`, `assembled_from_verified_pages: false`, `pa
 
 | Scene | Contributing scans | `source_condition_scans` |
 |---:|---:|---|
-| 16 | 59–64 | `[60, 61]` |
-| 17 | 64–68 | `[65]` |
-| 18 | 68–72 | `[69]` |
 | 19 | 72–75 | `[72, 73, 74]` |
 | 20 | 75–80 | `[77, 79]` |
 | 23 | 87–94 | `[88, 90]` |
@@ -86,9 +84,9 @@ These use `status: "assembly-held"`, `assembled_from_verified_pages: false`, `pa
 - main scene files: **30 / 30 assembled**;
 - supplementary scene files: **3 / 3 assembled**;
 - total: **33 / 33**;
-- fully verified-input scenes: **20**;
-- source-secure shared-boundary scenes: **2**;
-- hold-bearing scenes: **11**;
+- fully verified-input scenes: **22**;
+- source-secure shared-boundary scenes: **3**;
+- hold-bearing scenes: **8**;
 - complete page-to-scene consistency audit: **33 / 33 PASS** in `SCENE_ASSEMBLY_AUDIT.md`;
 - contextual repairs: **0**;
 - source-wording normalizations: **0**;
@@ -101,7 +99,7 @@ Scene assembly is closed. Do not create a second scene layer and do not begin En
 Next:
 
 1. verify the scene-file inventory is exactly main `01–30` plus supplementary `01–03`, with no duplicate/missing files or numbering leakage;
-2. verify all 20 remaining terminal physical-page holds remain traceable through page records and scene files;
+2. verify all 16 remaining terminal physical-page holds remain traceable through page records and scene files;
 3. reconcile stale secondary index labels such as legacy `needs-review` entries with the terminal `blocked` classification without altering canonical page text;
 4. run the work-level Tamil release/closure decision under the repository's terminal-source-condition policy;
 5. synchronize README / handover / next-chat prompt with that closure outcome;
