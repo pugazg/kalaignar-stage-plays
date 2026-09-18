@@ -38,9 +38,9 @@ For every assembled scene:
 | 13 | `scenes/main-13.md` | 51–52 | — | PASS |
 | 14 | `scenes/main-14.md` | 52–53 | — | PASS |
 | 15 | `scenes/main-15.md` | 53–59 | — | PASS |
-| 16 | `scenes/main-16.md` | 59–64 | 60, 61 | PASS — holds preserved |
-| 17 | `scenes/main-17.md` | 64–68 | 65 | PASS — canonical provisional page-layer wording retained |
-| 18 | `scenes/main-18.md` | 68–72 | 69 | PASS — holds preserved |
+| 16 | `scenes/main-16.md` | 59–64 | — | PASS |
+| 17 | `scenes/main-17.md` | 64–68 | — | PASS |
+| 18 | `scenes/main-18.md` | 68–72 | — * | PASS — source-secure boundary case |
 | 19 | `scenes/main-19.md` | 72–75 | 72, 73, 74 | PASS — explicit/provisional holds preserved |
 | 20 | `scenes/main-20.md` | 75–80 | 77, 79 | PASS — explicit/provisional holds preserved |
 | 21 | `scenes/main-21.md` | 80–85 | — | PASS |
@@ -68,18 +68,15 @@ For every assembled scene:
 
 ## Front-matter audit
 
-- **20 / 33** scenes use only globally `verified` physical page records and correctly use `assembled_from_verified_pages: true`, `page_record_fidelity: "passed"`, `source_condition_scans: []`.
-- **2 / 33** source-secure boundary cases — main Scene **28** and supplementary Scene **2** — correctly use `assembled_from_verified_pages: false`, `page_record_fidelity: "passed"`, `source_condition_scans: []` because a shared contributing physical page is globally blocked only for later-scene text.
-- **11 / 33** hold-bearing scenes correctly use `assembled_from_verified_pages: false`, `status: "assembly-held"`, and list their scene-relevant terminal scans under `source_condition_scans`.
+- **22 / 33** scenes use only globally `verified` physical page records and correctly use `assembled_from_verified_pages: true`, `page_record_fidelity: "passed"`, `source_condition_scans: []`.
+- **3 / 33** source-secure boundary cases — main Scenes **18**, **28** and supplementary Scene **2** — correctly use `assembled_from_verified_pages: false`, `page_record_fidelity: "passed"`, `source_condition_scans: []` because a shared contributing physical page is globally blocked only for later-scene text.
+- **8 / 33** hold-bearing scenes correctly use `assembled_from_verified_pages: false`, `status: "assembly-held"`, and list their scene-relevant terminal scans under `source_condition_scans`.
 - No hold-bearing scene is falsely promoted to source-verified/release-final status.
 
 ## Terminal-hold traceability audit
 
 Scene-relevant hold ownership is preserved as follows:
 
-- Scene 16 → `60, 61`;
-- Scene 17 → `65`;
-- Scene 18 → `69`;
 - Scene 19 → `72, 73, 74`;
 - Scene 20 → `77, 79`;
 - Scene 23 → `88, 90`;
@@ -129,8 +126,8 @@ Documented physical continuations remain explicit through archival boundary comm
 - main scene files assembled: **30 / 30**;
 - supplementary scene files assembled: **3 / 3**;
 - total Tamil scene files assembled: **33 / 33**;
-- source-secure scene files: **22 / 33**;
-- hold-bearing scene files: **11 / 33**;
+- source-secure scene files: **25 / 33**;
+- hold-bearing scene files: **8 / 33**;
 - all scene files page-record-consistency audited: **33 / 33 — PASS**;
 - terminal source-condition loci repaired from context: **0**;
 - source wording normalized by assembly: **0**;
@@ -143,7 +140,7 @@ Documented physical continuations remain explicit through archival boundary comm
 The Tamil page layer, structural layer and scene-assembly layer are now complete for the current source evidence. The **next archival activity is a Tamil pre-release / work-level closure gate**:
 
 1. verify scene-file inventory is exactly main `01–30` plus supplementary `01–03` with no duplicates or numbering leakage;
-2. verify all 20 remaining terminal physical-page holds remain traceable from page records through the scene layer; scans 1, 21, 27, 43, 47, 48, 51 and 52 are now fully verified after user adjudication;
+2. verify all 16 remaining terminal physical-page holds remain traceable from page records through the scene layer; scans 1, 21, 27, 43, 47, 48, 51 and 52 are now fully verified after user adjudication;
 3. reconcile README / handover / prompt status and any stale `needs-review` labels in secondary indexes without changing the canonical page records or pretending terminal holds are resolved;
 4. decide/document the work-level Tamil release state under the repository's terminal-source-condition policy;
 5. do **not** begin English translation unless explicitly authorized.
