@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
-All **131 physical scans** are registered, source-processed and closure-audited. Canonical `pages/*.md` records remain the detailed source-first authority. The earlier secondary-index label `needs-review` has now been reconciled with the terminal classification: all 16 current-source-condition pages are **`blocked`**, not pending ordinary review.
+All **131 physical scans** are registered, source-processed and closure-audited. Canonical `pages/*.md` records remain the detailed source-first authority. The earlier secondary-index label `needs-review` has now been reconciled with the terminal classification: all 13 current-source-condition pages are **`blocked`**, not pending ordinary review.
 
 | Scan(s) | Printed page(s) | Section / scene | Status | Source note |
 |---:|---:|---|---|---|
@@ -38,7 +38,8 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 | 96–97 | 94–95 | `காட்சி 25.` | verified | Opening direction `சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`; physical continuations preserved. |
 | 98–100 | 96–98 | `காட்சி 25.` / `காட்சி 26.` opener | blocked | Compact cue, two directions and dense entrance direction remain terminal holds. |
 | 101–111 | 99–109 | `காட்சி 26.` through `காட்சி 28.` | verified | Full closure PASS; includes `மோகஸ்திரத்தில் மயங்கிய இவர்`, `தங்கள் முடியைக் கவிழ்க்க`, execution-platform sequence and forged-letter exposure. |
-| 112–113 | 110–111 | `காட்சி 28.` close / `காட்சி 29.` | blocked | Scene-28 close and Scene-29 anchor secure; Scene-29 opening parenthetical and one place/compound word remain held. |
+| 112 | 110 | `காட்சி 28.` close / `காட்சி 29.` opener | blocked | Scene-28 close and Scene-29 anchor secure; dense Scene-29 opening parenthetical remains held. |
+| 113 | 111 | `காட்சி 29.` | verified | Accommodation-line compound user-adjudicated as `தலைநகரிலேயே`; page fully closed. |
 | 114–127 | 112–125 | `காட்சி 29.` close / `காட்சி 30.` / supplementary Scenes 1–2 | verified | Full PASS; includes `கலப்புமணம்`, `மக்களாட்சி`, `மன்னராட்சியை ஒழிப்பேன்`, Scene-30 opener `சித்ராவும்`, and supplementary Scenes 1–2 text. |
 | 128 | 126 | supplementary `காட்சி 2.` close / `காட்சி 3.` | verified | Full Scene-3 opening household/prop/action parenthetical user-adjudicated and closed. |
 | 129 | 127 | supplementary `காட்சி 3.` | verified | Complete dialogue/actions PASS. |
@@ -63,7 +64,7 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 
 ## Terminal-status rule
 
-The 16 `blocked` records are not unreviewed. Each has already received direct source review plus difficult-reading/residual review. Their exact unresolved loci are consolidated in `../TERMINAL_SOURCE_CONDITION_HOLDS.md`. Reopen only if genuinely stronger source evidence becomes available. Do not replace terminal wording from OCR expectation, plot continuity, grammar, modern spelling or another edition.
+The 13 `blocked` records are not unreviewed. Each has already received direct source review plus difficult-reading/residual review. Their exact unresolved loci are consolidated in `../TERMINAL_SOURCE_CONDITION_HOLDS.md`. Reopen only if genuinely stronger source evidence becomes available. Do not replace terminal wording from OCR expectation, plot continuity, grammar, modern spelling or another edition.
 
 ## Next activity
 
