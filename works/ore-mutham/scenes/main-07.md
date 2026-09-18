@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [24, 25, 26, 27]
 printed_pages: [22, 23, 24, 25]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-hold"
-source_condition_scans: [27]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -84,7 +84,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 <!-- source boundary: scan 26 / p.24 -> scan 27 / p.25 -->
 
-[opening parenthetical stage direction: `குமரி வருகை.` is secure; the remainder of the small bold instruction remains held for character-by-character review]
+(குமரி வருகை. 1-வது காலி விபீஷணனிடம் கூறுதல்.)
 
 இமய:- என்ன ரகசியம்?
 
@@ -105,7 +105,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ## Assembly provenance
 
 - assembled from canonical Scene-7 segments of `0024.md`–`0027.md`;
-- scan 27 remains terminally `blocked` only for the Scene-7 opening parenthetical beyond secure `குமரி வருகை.`; the Scene-7 closing direction is user-adjudicated and closed;
+- scan 27 is fully verified after user adjudication of the Scene-7 opening and closing directions on 2026-09-18;
 - scan 24 is shared with Scene 6 and scan 27 is shared with Scene 8; only the source-visible Scene-7 segments are imported;
 - source wording, speaker-label punctuation, historical spelling and stage-direction form remain unchanged;
 - no OCR, plot continuity, modern spelling, grammar repair or another-edition completion was used.
