@@ -5,11 +5,11 @@ section: "main-play"
 source_scene: "../../scenes/main-13.md"
 source_scan_pages: [51, 52]
 printed_pages: [49, 50]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [52]
+source_condition_scans: []
 ---
 
 # Scene 13
@@ -30,7 +30,7 @@ Guard 1: Get lost! Lord Mahavishnu himself became a woman. He and Lord Shiva eve
 
 Guard 2: They're gods, man! They'll turn into women, they'll even bear children!
 
-[Source-held: a source-visible comic/song parenthetical is substantially legible on scan 52, but its exact wording remains unresolved; no lyrics or action are reconstructed.]
+(Guard 1 sings the story of the gods Vishnu and Narada becoming women and bearing children; Guard 2 sings the refrain, and they leave frolicking.)
 
 Guard 2: Hey! There's a light in that hut over there!
 
@@ -43,7 +43,7 @@ Guard 2: Then that's fine. We can get some merchandise for our Vibhishanan. Come
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-13.md`; no OCR, PDF redrafting, later edition or secondary English witness was used.
-- Scan 52 remains a terminal Tamil source hold. The comic/song parenthetical is carried as an explicit `Source-held` locus; no missing lyric or comic action is supplied.
+- Scan 52 is now verified. The formerly held comic/song parenthetical was user-adjudicated on 2026-09-18 and is translated directly.
 - The guards' deliberately coarse, objectifying slang is preserved rather than sanitized. `சாமான்` / `சரக்கு` are rendered as `piece of goods` / `merchandise` in that register.
 - The Mahavishnu/Shiva transformation-and-child joke is translated only at the source's immediate dramatic sense; no external mythological explanation is inserted.
 - The scan-51 terminal hold belongs to Scene 12 before the Scene-13 anchor and is therefore not inherited here.
