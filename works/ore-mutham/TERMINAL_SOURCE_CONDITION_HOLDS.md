@@ -2,15 +2,16 @@
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
-Status: **TERMINAL CLASSIFICATION COMPLETE — 28 / 28 CURRENT-SOURCE-CONDITION HOLDS CLASSIFIED `blocked`**.
+Status: **TERMINAL CLASSIFICATION COMPLETE — 27 / 27 CURRENT-SOURCE-CONDITION HOLDS CLASSIFIED `blocked`**.
 
 This inventory records only unresolved source loci. It does not authorize contextual completion, modernization, OCR substitution, another-edition import, punctuation normalization or speaker/stage-direction repair. Every listed page has already received direct source review and at least one residual/difficult-reading pass. A `blocked` page may be reopened only if genuinely stronger source evidence becomes available.
 
-The remaining **103 / 131** scans are `verified`; the 28 records below are the complete current terminal hold set.
+The remaining **104 / 131** scans are `verified`; the 27 records below are the complete current terminal hold set.
+
+Post-closure adjudication: scan **1** has been removed from this inventory after the user confirmed the vertical author lettering as `மு.கருணாநிதி` and the lower-left artist/signature as `Anand` on 2026-09-18.
 
 | Scan | Printed page | Section / scene | Exact unresolved locus | Secure surrounding evidence |
 |---:|---:|---|---|---|
-| 1 | — | front cover | Tiny lower-left artist/signature mark only. | Principal title `ஒரே முத்தம்` and vertical author lettering `மு.கருணாநிதி` are secure; author reading user-adjudicated from the source on 2026-09-18. |
 | 21 | 19 | main `காட்சி 6.` | Small bold opening parenthetical stage direction, full exact wording. | `காட்சி 6.` / `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.` and later `(புத்தன் போய்விடுகிறான். ஒருவன் மிருதங்கம் அடிக்கத் துவங்குகிறான்)` are secure. |
 | 27 | 25 | main `காட்சி 7.` close / `காட்சி 8.` opener | Opening parenthetical beyond secure `குமரி வருகை.`; scene-7 closing parenthetical; dense scene-8 opening parenthetical; closing movement parenthetical. | `காட்சி 8.` / `இடம்:- முல்லைக்காட்டுப் பகுதி.` are secure. |
 | 43 | 41 | main `காட்சி 11.` | One compact bold parenthetical stage-direction cluster between the early `சித்ரா` / `விபீஷ` exchange and `விபீஷ - ஏமாற்றம்! எங்கே அவள்?`. | Surrounding dialogue and the later entrance/action block are secure. |
@@ -41,4 +42,4 @@ The remaining **103 / 131** scans are `verified`; the 28 records below are the c
 
 ## Terminal rule
 
-These 28 records are not pending ordinary review. They are **current-source-condition holds**. Future scene assembly must preserve their page-level hold markers and must not invent, regularize or silently omit unresolved wording. The hold set can change only if a stronger rendering, a better scan of the same edition, or another genuinely stronger source witness is explicitly introduced and adjudicated under `STAGE_PLAY_PROCESSING_GUIDE.md`.
+These 27 records are not pending ordinary review. They are **current-source-condition holds**. Future scene assembly must preserve their page-level hold markers and must not invent, regularize or silently omit unresolved wording. The hold set can change only if a stronger rendering, a better scan of the same edition, or another genuinely stronger source witness is explicitly introduced and adjudicated under `STAGE_PLAY_PROCESSING_GUIDE.md`.
