@@ -21,7 +21,7 @@ A physical scan may contain the close of one scene and the heading/opening of th
 | 3 | scan 11 / p.9 | `இடம்:- மாளிகையில் ஒருபுறம்.` | 11–15 | 9–13 | — |
 | 4 | scan 15 / p.13 | `இடம்:- இமயாவின் மாளிகை` | 15–19 | 13–17 | — |
 | 5 | scan 19 / p.17 | `இடம்:- முல்லைக்காட்டு நகரத்தெரு` | 19–20 | 17–18 | — |
-| 6 | scan 21 / p.19 | `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.` | 21–24 | 19–22 | **21** |
+| 6 | scan 21 / p.19 | `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.` | 21–24 | 19–22 | — |
 | 7 | scan 24 / p.22 | `இடம்: இமயாவின் மது மண்டபம்` | 24–27 | 22–25 | **27** |
 | 8 | scan 27 / p.25 | `இடம்:- முல்லைக்காட்டுப் பகுதி.` | 27–32 | 25–30 | **27** |
 | 9 | scan 32 / p.30 | `இடம்:- விபீஷணன் அறை` | 32–37 | 30–35 | — |
@@ -51,7 +51,7 @@ A physical scan may contain the close of one scene and the heading/opening of th
 
 Main-play extent: **scans 8–118 / printed pp.6–116**. All **30** scene anchors are source-secure.
 
-Main scenes containing an unresolved locus within their own scene text: **17 / 30** — scenes **6–8, 11–14, 16–20, 23–26, 29**.
+Main scenes containing an unresolved locus within their own scene text: **16 / 30** — scenes **7–8, 11–14, 16–20, 23–26, 29**.
 
 ## Separate supplementary section — `நகைச் சுவைப் பகுதி.`
 
@@ -67,7 +67,7 @@ Supplementary extent: **scans 119–130 / printed pp.117–128**. The section is
 
 ## Non-scene physical matter
 
-- scans **1–7**: front matter; scan **1** is a terminal current-source-condition hold on non-literary cover marks while the principal title is secure;
+- scans **1–7**: front matter; scan **1** is fully verified after user adjudication of the cover author/signature marks;
 - scan **131**: verified non-literary back-cover publisher advertisement.
 
 ## Structural / assembly checkpoint
@@ -75,8 +75,8 @@ Supplementary extent: **scans 119–130 / printed pp.117–128**. The section is
 - physical scans represented: **131 / 131**;
 - main-play scene anchors verified structurally: **30 / 30**;
 - supplementary scene anchors verified structurally: **3 / 3**;
-- verified physical scans: **104 / 131**;
-- terminal current-source-condition physical scans: **27 / 131**, all classified `blocked`;
+- verified physical scans: **105 / 131**;
+- terminal current-source-condition physical scans: **26 / 131**, all classified `blocked`;
 - boundary-aware scene-range audit: **COMPLETE**;
 - main scenes assembled and page-record-audited: **1–5 / 30**;
 - supplementary scenes assembled: **0 / 3**;
