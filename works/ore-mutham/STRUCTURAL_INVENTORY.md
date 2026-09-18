@@ -31,9 +31,9 @@ A physical scan may contain the close of one scene and the heading/opening of th
 | 13 | scan 51 / p.49 | `இடம்: தெருவில்.` | 51–52 | 49–50 | — |
 | 14 | scan 52 / p.50 | `இடம்: புத்தன் முகாம்` | 52–53 | 50–51 | — |
 | 15 | scan 53 / p.51 | `இடம்: விபீஷணன் மண்டபம்.` | 53–59 | 51–57 | — |
-| 16 | scan 59 / p.57 | `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.` | 59–64 | 57–62 | **60, 61** |
-| 17 | scan 64 / p.62 | `இடம்:- விசாரண மண்டபம்` | 64–68 | 62–66 | **65** |
-| 18 | scan 68 / p.66 | `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.` | 68–72 | 66–70 | **69** |
+| 16 | scan 59 / p.57 | `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.` | 59–64 | 57–62 | — |
+| 17 | scan 64 / p.62 | `இடம்:- விசாரண மண்டபம்` | 64–68 | 62–66 | — |
+| 18 | scan 68 / p.66 | `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.` | 68–72 | 66–70 | — * |
 | 19 | scan 72 / p.70 | `இடம்:- வசந்த மண்டபம்.` | 72–75 | 70–73 | **72, 73, 74** |
 | 20 | scan 75 / p.73 | `இடம்:- மலையன் வீடு.` | 75–80 | 73–78 | **77, 79** |
 | 21 | scan 80 / p.78 | `இடம்:- விபீஷணன் மாளிகை.` | 80–85 | 78–83 | — |
@@ -51,7 +51,7 @@ A physical scan may contain the close of one scene and the heading/opening of th
 
 Main-play extent: **scans 8–118 / printed pp.6–116**. All **30** scene anchors are source-secure.
 
-Main scenes containing an unresolved locus within their own scene text: **10 / 30** — scenes **16–20, 23–26, 29**.
+Main scenes containing an unresolved locus within their own scene text: **7 / 30** — scenes **19–20, 23–26, 29**.
 
 ## Separate supplementary section — `நகைச் சுவைப் பகுதி.`
 
@@ -75,8 +75,8 @@ Supplementary extent: **scans 119–130 / printed pp.117–128**. The section is
 - physical scans represented: **131 / 131**;
 - main-play scene anchors verified structurally: **30 / 30**;
 - supplementary scene anchors verified structurally: **3 / 3**;
-- verified physical scans: **111 / 131**;
-- terminal current-source-condition physical scans: **20 / 131**, all classified `blocked`;
+- verified physical scans: **115 / 131**;
+- terminal current-source-condition physical scans: **16 / 131**, all classified `blocked`;
 - boundary-aware scene-range audit: **COMPLETE**;
 - main scenes assembled and page-record-audited: **1–5 / 30**;
 - supplementary scenes assembled: **0 / 3**;
