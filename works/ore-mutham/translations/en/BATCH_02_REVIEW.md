@@ -1,6 +1,6 @@
 # ஒரே முத்தம் — English Translation Batch 2 Review
 
-Status: **PASS / LOCKED — SOURCE HOLDS PRESERVED**
+Status: **PASS / LOCKED**
 
 Batch scope:
 
@@ -19,8 +19,8 @@ No OCR, controlling PDF, web text, later edition, outside summary or secondary E
 | English artifact | Tamil source scans | Source condition | Result |
 |---|---:|---|---|
 | `main-06.md` | 21–24 | source-secure | PASS |
-| `main-07.md` | 24–27 | hold-bearing — scan 27 | PASS WITH SOURCE HOLDS |
-| `main-08.md` | 27–32 | source-secure boundary case — scan 27 globally blocked only for Scene 7 | PASS |
+| `main-07.md` | 24–27 | source-secure | PASS |
+| `main-08.md` | 27–32 | source-secure | PASS |
 | `main-09.md` | 32–37 | source-secure | PASS |
 | `main-10.md` | 37–40 | source-secure | PASS |
 
@@ -44,13 +44,13 @@ Scan 21 was subsequently resolved by user source adjudication against the suppli
 
 ### Scene 7 — scan 27
 
-The opening parenthetical remains held beyond secure Kumari entrance wording. The Scene-7 closing direction is now source-secure after user adjudication on 2026-09-18.
+The formerly held Scene-7 opening and closing directions on scan 27 were user-adjudicated on 2026-09-18. Scene 7 is now source-secure.
 
 ### Scene 8 — scan 27
 
-Both formerly held Scene-8 directions on scan 27 were user-adjudicated on 2026-09-18 and are now translated directly. Scan 27 remains globally blocked only for an earlier Scene-7 locus, so Scene 8 is source-secure.
+Both formerly held Scene-8 directions on scan 27 were user-adjudicated on 2026-09-18 and are translated directly. Scan 27 is now fully verified.
 
-Batch review therefore passes **with source holds**. This does not resolve or downgrade the underlying Tamil `blocked` status.
+Batch review remains **PASS / LOCKED**. All Batch-2 scenes are now source-secure after later user source adjudications; no Tamil hold was resolved by translation itself.
 
 ## Source-sensitive checks
 
@@ -98,7 +98,7 @@ In addition to Batch-1 choices, stable unless later review explicitly refines th
 - present: **5 / 5**;
 - reviewed: **5 / 5**;
 - total English scene progress: **10 / 33**;
-- source-hold-bearing English scenes completed in this batch: **1**; whole-work current hold-bearing total: **15 / 15**;
+- current source-hold-bearing English scenes in this batch: **0**; whole-work current hold-bearing total: **11 / 11**;
 - unresolved blocking English issues: **0**;
 - Tamil source holds resolved by translation: **0**;
 - secondary-English contamination: **0**.
