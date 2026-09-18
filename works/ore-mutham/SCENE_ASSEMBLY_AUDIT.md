@@ -30,10 +30,10 @@ For every assembled scene:
 | 5 | `scenes/main-05.md` | 19–20 | — | PASS |
 | 6 | `scenes/main-06.md` | 21–24 | — | PASS |
 | 7 | `scenes/main-07.md` | 24–27 | 27 | PASS — holds preserved |
-| 8 | `scenes/main-08.md` | 27–32 | 27 | PASS — holds preserved |
+| 8 | `scenes/main-08.md` | 27–32 | — * | PASS — source-secure boundary case |
 | 9 | `scenes/main-09.md` | 32–37 | — | PASS |
 | 10 | `scenes/main-10.md` | 37–40 | — | PASS |
-| 11 | `scenes/main-11.md` | 41–46 | 43 | PASS — hold preserved |
+| 11 | `scenes/main-11.md` | 41–46 | — | PASS |
 | 12 | `scenes/main-12.md` | 46–51 | 47, 48, 51 | PASS — holds preserved |
 | 13 | `scenes/main-13.md` | 51–52 | 52 | PASS — hold preserved |
 | 14 | `scenes/main-14.md` | 52–53 | 52 | PASS — hold preserved |
@@ -54,7 +54,7 @@ For every assembled scene:
 | 29 | `scenes/main-29.md` | 112–117 | 112, 113 | PASS — holds preserved |
 | 30 | `scenes/main-30.md` | 117–118 | — | PASS |
 
-`*` Main Scene 28 uses only the secure pre-`காட்சி 29.` segment of globally blocked scan 112. The scan-112 held locus belongs to Scene 29 and is not imported into Scene 28.
+`*` Main Scene 8 uses only the source-secure Scene-8 segment of globally blocked scan 27; the remaining scan-27 hold belongs to Scene 7. Main Scene 28 uses only the secure pre-`காட்சி 29.` segment of globally blocked scan 112. The scan-112 held locus belongs to Scene 29 and is not imported into Scene 28.
 
 ## Supplementary `நகைச் சுவைப் பகுதி.` — 3 / 3 assembled
 
@@ -68,9 +68,9 @@ For every assembled scene:
 
 ## Front-matter audit
 
-- **14 / 33** scenes use only globally `verified` physical page records and correctly use `assembled_from_verified_pages: true`, `page_record_fidelity: "passed"`, `source_condition_scans: []`.
-- **2 / 33** source-secure boundary cases — main Scene **28** and supplementary Scene **2** — correctly use `assembled_from_verified_pages: false`, `page_record_fidelity: "passed"`, `source_condition_scans: []` because a shared contributing physical page is globally blocked only for later-scene text.
-- **17 / 33** hold-bearing scenes correctly use `assembled_from_verified_pages: false`, `status: "assembly-held"`, and list their scene-relevant terminal scans under `source_condition_scans`.
+- **15 / 33** scenes use only globally `verified` physical page records and correctly use `assembled_from_verified_pages: true`, `page_record_fidelity: "passed"`, `source_condition_scans: []`.
+- **3 / 33** source-secure boundary cases — main Scenes **8**, **28** and supplementary Scene **2** — correctly use `assembled_from_verified_pages: false`, `page_record_fidelity: "passed"`, `source_condition_scans: []` because a shared contributing physical page is globally blocked only for later-scene text.
+- **15 / 33** hold-bearing scenes correctly use `assembled_from_verified_pages: false`, `status: "assembly-held"`, and list their scene-relevant terminal scans under `source_condition_scans`.
 - No hold-bearing scene is falsely promoted to source-verified/release-final status.
 
 ## Terminal-hold traceability audit
@@ -78,8 +78,6 @@ For every assembled scene:
 Scene-relevant hold ownership is preserved as follows:
 
 - Scene 7 → `27`;
-- Scene 8 → `27`;
-- Scene 11 → `43`;
 - Scene 12 → `47, 48, 51`;
 - Scene 13 → `52`;
 - Scene 14 → `52`;
@@ -135,8 +133,8 @@ Documented physical continuations remain explicit through archival boundary comm
 - main scene files assembled: **30 / 30**;
 - supplementary scene files assembled: **3 / 3**;
 - total Tamil scene files assembled: **33 / 33**;
-- source-secure scene files: **15 / 33**;
-- hold-bearing scene files: **17 / 33**;
+- source-secure scene files: **18 / 33**;
+- hold-bearing scene files: **15 / 33**;
 - all scene files page-record-consistency audited: **33 / 33 — PASS**;
 - terminal source-condition loci repaired from context: **0**;
 - source wording normalized by assembly: **0**;
@@ -149,7 +147,7 @@ Documented physical continuations remain explicit through archival boundary comm
 The Tamil page layer, structural layer and scene-assembly layer are now complete for the current source evidence. The **next archival activity is a Tamil pre-release / work-level closure gate**:
 
 1. verify scene-file inventory is exactly main `01–30` plus supplementary `01–03` with no duplicates or numbering leakage;
-2. verify all 26 remaining terminal physical-page holds remain traceable from page records through the scene layer; scans 1 and 21 are now fully verified after user adjudication; scan 1 is outside the scene layer and scan 21 now makes Scene 6 source-secure;
+2. verify all 25 remaining terminal physical-page holds remain traceable from page records through the scene layer; scans 1, 21 and 43 are now fully verified after user adjudication; scan 27 remains blocked only for Scene 7, while Scene 8 is source-secure on its segment;
 3. reconcile README / handover / prompt status and any stale `needs-review` labels in secondary indexes without changing the canonical page records or pretending terminal holds are resolved;
 4. decide/document the work-level Tamil release state under the repository's terminal-source-condition policy;
 5. do **not** begin English translation unless explicitly authorized.
