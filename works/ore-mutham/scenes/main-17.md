@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [64, 65, 66, 67, 68]
 printed_pages: [62, 63, 64, 65, 66]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-hold"
-source_condition_scans: [65]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -111,7 +111,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ## Assembly provenance
 
 - assembled from canonical Scene-17 segments of `0064.md`–`0068.md`;
-- scan 65 remains terminally `blocked`; the historical-type/spacing-sensitive `மகா` clause is retained exactly as represented in the page layer and is not regularized;
+- scan 65 is fully verified after user source adjudication of the historical-type/spacing-sensitive `மகா` clause on 2026-09-18;
 - the scan-67→68 physical `இமயா` / `வோடு` continuation is preserved explicitly rather than silently joined;
 - scan 64 is shared with Scene 16 and scan 68 with Scene 18; only source-visible Scene-17 segments are imported;
 - no grammar-based, contextual, OCR, modern-spelling or another-edition repair was introduced.
