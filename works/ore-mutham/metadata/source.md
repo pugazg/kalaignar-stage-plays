@@ -45,6 +45,8 @@ Established source decisions must not be reverted without new source evidence. I
 
 - scan 1: vertical author lettering `மு.கருணாநிதி` and lower-left artist/signature `Anand` — both user-adjudicated and scan fully verified on 2026-09-18;
 - scan 21: Scene-6 opening direction `[புத்தன். குமரி, சில வீரர்கள், குமரி தெரு நடனக்காரி வேடத்தில் இருக்கிறாள். வீரர்கள் அவள் சொந்தக்காரர்போல் இருக்கிறார்கள். புத்தன் சாதாரண உடையில் காணப்படுதல்)` — user-adjudicated against the supplied scan and fully verified on 2026-09-18;
+- scan 27: Scene-7 closing `(இமயா வாயில் கைவைத்து பொத்திக் கொள்கிறான்)`, Scene-8 opening `(ஒரு கிராமசந்திரசுற்றுப்புறத்தில் பொன்னியும், அவள் தோழிகளும் கண்ணாமூச்சு ஆடிக் கொண்டிருக்கிறார்கள் பல பல விளையாட்டுகள், பாடலுடன். காலிகள் ஒருபுறமிருந்து இதைக் கவனிக்கிறார்கள் .)`, and Scene-8 movement `(பொன்னியின் அருகே நெருங்க, பொன்னி கோஷ்டி வேறு பக்கம் திரும்ப எத்தனிக்க)` — user-adjudicated on 2026-09-18; scan 27 remains blocked only for the separate Scene-7 opening parenthetical beyond `குமரி வருகை.`;
+- scan 43: `(விபீஷணன் ஸ்தம்பித்து நின்றதும், இரவு நினைவுகள் சில உருண்டோடுதல், மயக்கம் தெளிந்தவனாய்.)` — user-adjudicated and scan fully verified on 2026-09-18;
 - scans 11 / 15 / 19: `இடம்:- மாளிகையில் ஒருபுறம்.`, `இடம்:- இமயாவின் மாளிகை`, `இடம்:- முல்லைக்காட்டு நகரத்தெரு`;
 - scan 22: `புயலைப்போல`;
 - scan 24: `(2-வது காவியைக் காட்டி)`;
@@ -133,9 +135,9 @@ The secure same-edition bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No op
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- visually verified: **105 / 131**;
-- `needs-review` / source-condition holds: **26 / 131** (`27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
-- completed historical-glyph passes: **105 / 131**;
+- visually verified: **106 / 131**;
+- `needs-review` / source-condition holds: **25 / 131** (`27`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
+- completed historical-glyph passes: **106 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary-comedy source-visible scene anchors: **3**;
 - formal structural inventory: **not started**;
@@ -144,4 +146,4 @@ The secure same-edition bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No op
 
 ## Exact next source activity
 
-Residual source re-audit is complete for all current open pages. Perform a **terminal residual-hold/source-condition classification and formal structural inventory**: preserve the remaining 26 unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
+Residual source re-audit is complete for all current open pages. Perform a **terminal residual-hold/source-condition classification and formal structural inventory**: preserve the remaining 25 unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
