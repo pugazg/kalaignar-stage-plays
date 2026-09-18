@@ -66,7 +66,10 @@ Established source decisions must not be reverted without new source evidence. I
 - scan 50: `வெளியில்` / `உள்ளே` alternation and physical `மகுடத் / தைக்`, `தண் / டனை` inset splits;
 - scan 56: `இமய` / `இமா` / `விபீஷ -`; first secure `னொ` witness `இன்னொன்று`;
 - scan 63: **`காலப்பனிபோல்`** and physical `அல்` / `லது` boundary into scan 64;
-- scan 65: **`ஆசைப்படச் சொன்னார்`** remains secure although a separate source-condition hold remains;
+- scan 60: opening parenthetical `முதல்நாள்` user-adjudicated; scan fully verified on 2026-09-18;
+- scan 61: `ஓடுவதா?`, `வீரனாகச் சாகிறேன்`, and `[காதல் கீதம்]` user-adjudicated; scan fully verified on 2026-09-18;
+- scan 65: `ராஜப் பிரதிநிதியாக உம்மை நியமித்தால், உமக்கு ஒரு பிரதிநிதி! உம். இமயா!` user-adjudicated; `ஆசைப்படச் சொன்னார்` retained; scan fully verified on 2026-09-18;
+- scan 69: `இன்பபுரிச் சிம்மாசனத்தில், அவனை ஏற்ற விட்டுவைத்ததாக அர்த்தம்.` and `அவைகளை நாம் கைப்பற்றாவிட்டால், இன்பபுரியின் அழிவை அனுமதித்தவர்களாவோம்.` user-adjudicated; scan fully verified on 2026-09-18;
 - scan 66: **`ஹ ஹ ஹா!`** / **`சிங்கநாகன்`**;
 - scan 67: **`வேம்பொடு`**;
 - scan 68: **`வாழ்க இந்நாட்டு வளம்!`**;
@@ -139,9 +142,9 @@ The secure same-edition bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No op
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- visually verified: **111 / 131**;
-- `needs-review` / source-condition holds: **20 / 131** (`60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
-- completed historical-glyph passes: **111 / 131**;
+- visually verified: **115 / 131**;
+- `needs-review` / source-condition holds: **16 / 131** (`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
+- completed historical-glyph passes: **115 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary-comedy source-visible scene anchors: **3**;
 - formal structural inventory: **not started**;
@@ -150,4 +153,4 @@ The secure same-edition bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No op
 
 ## Exact next source activity
 
-Residual source re-audit is complete for all current open pages. Perform a **terminal residual-hold/source-condition classification and formal structural inventory**: preserve the remaining 20 unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
+Residual source re-audit is complete for all current open pages. Perform a **terminal residual-hold/source-condition classification and formal structural inventory**: preserve the remaining 16 unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
