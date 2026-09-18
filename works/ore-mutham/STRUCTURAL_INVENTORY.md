@@ -58,10 +58,8 @@ Main scenes containing an unresolved locus within their own scene text: **7 / 30
 | Supplement scene | Source anchor | Source location | Boundary-aware contributing scans | Printed-page range | Current-source-condition scans inside scene |
 |---:|---|---|---:|---:|---|
 | 1 | scan 119 / p.117 | `இடம்:- சந்தேகம் வீடு.` | 119–125 | 117–123 | — |
-| 2 | scan 125 / p.123 | `இடம்:- வயல் வெளி.` | 125–128 | 123–126 | — * |
-| 3 | scan 128 / p.126 | `இடம்:- சந்தேகம் வீடு.` | 128–130 | 126–128 | **128, 130** |
-
-`*` Supplementary Scene 2 needs the secure pre-`காட்சி 3.` portion of scan 128. Scan 128 is page-level `blocked`, but its unresolved locus is only in the supplementary Scene-3 opening parenthetical after that anchor; no unresolved wording belongs to supplementary Scene 2.
+| 2 | scan 125 / p.123 | `இடம்:- வயல் வெளி.` | 125–128 | 123–126 | — |
+| 3 | scan 128 / p.126 | `இடம்:- சந்தேகம் வீடு.` | 128–130 | 126–128 | — |
 
 Supplementary extent: **scans 119–130 / printed pp.117–128**. The section is separately headed **`நகைச் சுவைப் பகுதி.`** on scan 119 and restarts scene numbering at **1**. These are supplementary scenes **1–3**, not main scenes 31–33.
 
@@ -75,8 +73,8 @@ Supplementary extent: **scans 119–130 / printed pp.117–128**. The section is
 - physical scans represented: **131 / 131**;
 - main-play scene anchors verified structurally: **30 / 30**;
 - supplementary scene anchors verified structurally: **3 / 3**;
-- verified physical scans: **115 / 131**;
-- terminal current-source-condition physical scans: **16 / 131**, all classified `blocked`;
+- verified physical scans: **117 / 131**;
+- terminal current-source-condition physical scans: **14 / 131**, all classified `blocked`;
 - boundary-aware scene-range audit: **COMPLETE**;
 - main scenes assembled and page-record-audited: **1–5 / 30**;
 - supplementary scenes assembled: **0 / 3**;
