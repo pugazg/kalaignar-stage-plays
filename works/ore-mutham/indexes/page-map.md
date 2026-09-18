@@ -40,9 +40,9 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 | 101–111 | 99–109 | `காட்சி 26.` through `காட்சி 28.` | verified | Full closure PASS; includes `மோகஸ்திரத்தில் மயங்கிய இவர்`, `தங்கள் முடியைக் கவிழ்க்க`, execution-platform sequence and forged-letter exposure. |
 | 112–113 | 110–111 | `காட்சி 28.` close / `காட்சி 29.` | blocked | Scene-28 close and Scene-29 anchor secure; Scene-29 opening parenthetical and one place/compound word remain held. |
 | 114–127 | 112–125 | `காட்சி 29.` close / `காட்சி 30.` / supplementary Scenes 1–2 | verified | Full PASS; includes `கலப்புமணம்`, `மக்களாட்சி`, `மன்னராட்சியை ஒழிப்பேன்`, Scene-30 opener `சித்ராவும்`, and supplementary Scenes 1–2 text. |
-| 128 | 126 | supplementary `காட்சி 2.` close / `காட்சி 3.` | blocked | Scene-2 close, `என் கொலப் பெருமையே போச்சு!`, and Scene-3 anchor secure; dense Scene-3 opening parenthetical remains held. |
+| 128 | 126 | supplementary `காட்சி 2.` close / `காட்சி 3.` | verified | Full Scene-3 opening household/prop/action parenthetical user-adjudicated and closed. |
 | 129 | 127 | supplementary `காட்சி 3.` | verified | Complete dialogue/actions PASS. |
-| 130 | 128 | supplementary `காட்சி 3.` / dramatic-text close | blocked | Final dialogue/publication endpoint secure; concluding action and final bracketed epilogue remain held. |
+| 130 | 128 | supplementary `காட்சி 3.` / dramatic-text close | verified | Concluding action and full bracketed epilogue user-adjudicated; final dramatic-text page fully closed. |
 | 131 | — | back-cover advertisement | verified | Complete publisher catalogue/imprint PASS; non-literary back matter. |
 
 ## Final physical-page checkpoint
@@ -50,10 +50,10 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 - physical scans registered: **131 / 131**;
 - raw source pass: **131 / 131 — COMPLETE**;
 - physical-range closure audit: **131 / 131 — COMPLETE**;
-- visually verified: **115 / 131** — `1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`;
-- terminal current-source-condition / `blocked`: **16 / 131** — `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`;
+- visually verified: **117 / 131** — `1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–131` excluding `128`?
+- terminal current-source-condition / `blocked`: **14 / 131** — `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`;
 - ordinary `needs-review`: **0**;
-- historical-glyph PASS: **115 / 131**;
+- historical-glyph PASS: **117 / 131**;
 - main-play source-visible anchors: **30 / 30**;
 - supplementary anchors: **3 / 3**;
 - boundary-aware structural inventory: **COMPLETE**;
