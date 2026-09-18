@@ -85,7 +85,7 @@ Scene-relevant terminal dependencies:
 - 26 → `100`
 - 29 → `112`
 
-All **14 remaining blocked physical scans** are scene-relevant and remain traceable through scene files. Scans 1, 21, 27, 43, 47, 48, 51 and 52 are now fully verified after user adjudication on 2026-09-18; Scenes 7, 8, 12, 13 and 14 are source-secure.
+All **13 remaining blocked physical scans** are scene-relevant and remain traceable through scene files. Scans 1, 21, 27, 43, 47, 48, 51 and 52 are now fully verified after user adjudication on 2026-09-18; Scenes 7, 8, 12, 13 and 14 are source-secure.
 
 `SCENE_ASSEMBLY_AUDIT.md`: **PASS — 33 / 33**.
 
