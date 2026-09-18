@@ -5,7 +5,7 @@ section: "supplementary-comedy"
 source_scan_pages: [125, 126, 127, 128]
 printed_pages: [123, 124, 125, 126]
 status: "assembly-reviewed"
-assembled_from_verified_pages: false
+assembled_from_verified_pages: true
 page_record_fidelity: "passed"
 source_condition_scans: []
 language: "ta"
@@ -106,7 +106,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 சம:- ஆம்பளையா? அன்னிய ஆம்பளை முகத்தை நான் பார்த்ததே கிடையாதே...
 
-<!-- source boundary: scan 127 / p.125 -> scan 128 / p.126; scan 128 is globally blocked only after the Scene-3 anchor -->
+<!-- source boundary: scan 127 / p.125 -> scan 128 / p.126 -->
 
 சந்:- பசப்பாதே!... சந்தேகப்பட்டு கேக்கிறேன். பட்டுப் பட்டுன்னு பதில் சொல்லு!
 
@@ -128,9 +128,8 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 ## Assembly provenance
 
-- assembled from the Scene-2 portion of verified transition record `0125.md`, verified page records `0126.md`–`0127.md`, plus only the source-secure Scene-2 prefix of transition record `0128.md`;
-- scan 128 is globally `blocked` solely because the later supplementary Scene-3 opening parenthetical after source heading `காட்சி 3.` remains held; no held scan-128 wording belongs to or is imported into supplementary Scene 2;
-- because a contributing physical page record is globally blocked, `assembled_from_verified_pages` is deliberately `false` even though supplementary Scene-2 text itself is source-secure end to end; `source_condition_scans` remains empty because there is no unresolved locus inside Scene 2;
+- assembled from verified page records `0125.md`–`0128.md`; scan 128 is now fully verified after user source adjudication on 2026-09-18;
+- `assembled_from_verified_pages` is therefore `true`; supplementary Scene 2 remains source-secure end to end with `source_condition_scans: []`;
 - the supplementary numbering remains source-numbered `காட்சி 2.` and is not renumbered as main Scene 32;
 - page boundaries are retained as non-rendered archival comments; source wording, punctuation, speaker labels and stage directions are unchanged;
 - no OCR, contextual completion, modernization or another-edition wording was introduced.
