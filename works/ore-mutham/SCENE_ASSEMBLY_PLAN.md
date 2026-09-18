@@ -84,7 +84,7 @@ These use `status: "assembly-held"`, `assembled_from_verified_pages: false`, `pa
 5. Every explicit `[source-held: ...]` / equivalent marker remains verbatim in the scene layer.
 6. Where a blocked page carries canonical provisional wording instead of an explicit marker, retain that wording exactly and preserve the terminal scan dependency in front matter/provenance.
 7. A hold-bearing scene remains non-release-final even though its page-record assembly fidelity has passed.
-8. Scan 1 and scan 131 remain outside scene assembly.
+8. Scan 1 (now verified) and scan 131 remain outside scene assembly.
 9. No Tamil wording is altered by assembly.
 10. English translation is a separate later phase requiring explicit authorization.
 
@@ -108,7 +108,7 @@ Scene assembly is closed. Do not create a second scene layer and do not begin En
 Next:
 
 1. verify the scene-file inventory is exactly main `01–30` plus supplementary `01–03`, with no duplicate/missing files or numbering leakage;
-2. verify all 28 terminal physical-page holds remain traceable through page records and, where scene-relevant, through scene files;
+2. verify all 27 remaining terminal physical-page holds remain traceable through page records and scene files;
 3. reconcile stale secondary index labels such as legacy `needs-review` entries with the terminal `blocked` classification without altering canonical page text;
 4. run the work-level Tamil release/closure decision under the repository's terminal-source-condition policy;
 5. synchronize README / handover / next-chat prompt with that closure outcome;
