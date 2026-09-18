@@ -22,14 +22,14 @@ A physical scan may contain the close of one scene and the heading/opening of th
 | 4 | scan 15 / p.13 | `இடம்:- இமயாவின் மாளிகை` | 15–19 | 13–17 | — |
 | 5 | scan 19 / p.17 | `இடம்:- முல்லைக்காட்டு நகரத்தெரு` | 19–20 | 17–18 | — |
 | 6 | scan 21 / p.19 | `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.` | 21–24 | 19–22 | — |
-| 7 | scan 24 / p.22 | `இடம்: இமயாவின் மது மண்டபம்` | 24–27 | 22–25 | **27** |
-| 8 | scan 27 / p.25 | `இடம்:- முல்லைக்காட்டுப் பகுதி.` | 27–32 | 25–30 | — * |
+| 7 | scan 24 / p.22 | `இடம்: இமயாவின் மது மண்டபம்` | 24–27 | 22–25 | — |
+| 8 | scan 27 / p.25 | `இடம்:- முல்லைக்காட்டுப் பகுதி.` | 27–32 | 25–30 | — |
 | 9 | scan 32 / p.30 | `இடம்:- விபீஷணன் அறை` | 32–37 | 30–35 | — |
 | 10 | scan 37 / p.35 | `இடம்: பவளமலைச் சாரல்` | 37–40 | 35–38 | — |
 | 11 | scan 41 / p.39 | `இடம்: விபீஷணன் தனியறை` | 41–46 | 39–44 | — |
-| 12 | scan 46 / p.44 | `இடம்: ஆற்றோரம்` | 46–51 | 44–49 | **47, 48, 51** |
-| 13 | scan 51 / p.49 | `இடம்: தெருவில்.` | 51–52 | 49–50 | **52** |
-| 14 | scan 52 / p.50 | `இடம்: புத்தன் முகாம்` | 52–53 | 50–51 | **52** |
+| 12 | scan 46 / p.44 | `இடம்: ஆற்றோரம்` | 46–51 | 44–49 | — |
+| 13 | scan 51 / p.49 | `இடம்: தெருவில்.` | 51–52 | 49–50 | — |
+| 14 | scan 52 / p.50 | `இடம்: புத்தன் முகாம்` | 52–53 | 50–51 | — |
 | 15 | scan 53 / p.51 | `இடம்: விபீஷணன் மண்டபம்.` | 53–59 | 51–57 | — |
 | 16 | scan 59 / p.57 | `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.` | 59–64 | 57–62 | **60, 61** |
 | 17 | scan 64 / p.62 | `இடம்:- விசாரண மண்டபம்` | 64–68 | 62–66 | **65** |
@@ -47,11 +47,11 @@ A physical scan may contain the close of one scene and the heading/opening of th
 | 29 | scan 112 / p.110 | `இடம்:- அரண்மனை நந்தவனம்.` | 112–117 | 110–115 | **112, 113** |
 | 30 | scan 117 / p.115 | `இடம்:- குமரியின் படுக்கை.` | 117–118 | 115–116 | — |
 
-`*` Scene 8 uses only source-secure Scene-8 material on globally blocked scan 27; the sole remaining scan-27 hold belongs to Scene 7. Scene 28 needs the secure pre-`காட்சி 29.` portion of scan 112. Scan 112 is page-level `blocked`, but its unresolved locus is only in the Scene-29 opening parenthetical after the Scene-29 anchor; no unresolved wording belongs to Scene 28.
+`*` Scene 28 needs the secure pre-`காட்சி 29.` portion of scan 112. Scan 112 is page-level `blocked`, but its unresolved locus is only in the Scene-29 opening parenthetical after the Scene-29 anchor; no unresolved wording belongs to Scene 28.
 
 Main-play extent: **scans 8–118 / printed pp.6–116**. All **30** scene anchors are source-secure.
 
-Main scenes containing an unresolved locus within their own scene text: **14 / 30** — scenes **7, 12–14, 16–20, 23–26, 29**.
+Main scenes containing an unresolved locus within their own scene text: **10 / 30** — scenes **16–20, 23–26, 29**.
 
 ## Separate supplementary section — `நகைச் சுவைப் பகுதி.`
 
@@ -75,8 +75,8 @@ Supplementary extent: **scans 119–130 / printed pp.117–128**. The section is
 - physical scans represented: **131 / 131**;
 - main-play scene anchors verified structurally: **30 / 30**;
 - supplementary scene anchors verified structurally: **3 / 3**;
-- verified physical scans: **106 / 131**;
-- terminal current-source-condition physical scans: **25 / 131**, all classified `blocked`;
+- verified physical scans: **111 / 131**;
+- terminal current-source-condition physical scans: **20 / 131**, all classified `blocked`;
 - boundary-aware scene-range audit: **COMPLETE**;
 - main scenes assembled and page-record-audited: **1–5 / 30**;
 - supplementary scenes assembled: **0 / 3**;
