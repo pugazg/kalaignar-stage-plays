@@ -33,8 +33,8 @@ Supplementary numbering remains **1–3**, never main Scenes 31–33.
 ## Batch reviews
 
 - `BATCH_01_REVIEW.md` — main 1–5 — **PASS / LOCKED**;
-- `BATCH_02_REVIEW.md` — main 6–10 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- `BATCH_03_REVIEW.md` — main 11–15 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- `BATCH_02_REVIEW.md` — main 6–10 — **PASS / LOCKED**;
+- `BATCH_03_REVIEW.md` — main 11–15 — **PASS / LOCKED**;
 - `BATCH_04_REVIEW.md` — main 16–20 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
 - `BATCH_05_REVIEW.md` — main 21–25 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
 - `BATCH_06_REVIEW.md` — main 26–30 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
