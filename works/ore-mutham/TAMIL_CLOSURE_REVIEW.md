@@ -44,7 +44,7 @@ Terminal scans:
 
 `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112`.
 
-All 16 remaining blocked scans have already received direct source inspection plus difficult-reading/residual review. They are not queued for ordinary re-review. Reopen only if genuinely stronger source evidence appears.
+All 13 remaining blocked scans have already received direct source inspection plus difficult-reading/residual review. They are not queued for ordinary re-review. Reopen only if genuinely stronger source evidence appears.
 
 ### Page map matches repository state — PASS
 
@@ -72,11 +72,11 @@ Assembly classes:
 
 Hold-bearing main scenes: **19–20, 23–26, 29**.
 
-Hold-bearing supplementary scene: **3**.
+Hold-bearing supplementary scene: **none**.
 
 ### Terminal-hold traceability — PASS
 
-All **16** remaining blocked physical scans are traceable through the scene layer wherever their unresolved locus is scene-relevant. Scans **1, 21, 27, 43, 47, 48, 51, and 52** are no longer blocked after user source adjudication on 2026-09-18. Scenes 7, 8, 12, 13 and 14 are now source-secure.
+All **13** remaining blocked physical scans are traceable through the scene layer wherever their unresolved locus is scene-relevant. Scans **1, 21, 27, 43, 47, 48, 51, and 52** are no longer blocked after user source adjudication on 2026-09-18. Scenes 7, 8, 12, 13 and 14 are now source-secure.
 
 Scene dependency map:
 
