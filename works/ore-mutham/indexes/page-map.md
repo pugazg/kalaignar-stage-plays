@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
-All **131 physical scans** are registered, source-processed and closure-audited. Canonical `pages/*.md` records remain the detailed source-first authority. The earlier secondary-index label `needs-review` has now been reconciled with the terminal classification: all 20 current-source-condition pages are **`blocked`**, not pending ordinary review.
+All **131 physical scans** are registered, source-processed and closure-audited. Canonical `pages/*.md` records remain the detailed source-first authority. The earlier secondary-index label `needs-review` has now been reconciled with the terminal classification: all 16 current-source-condition pages are **`blocked`**, not pending ordinary review.
 
 | Scan(s) | Printed page(s) | Section / scene | Status | Source note |
 |---:|---:|---|---|---|
@@ -18,11 +18,11 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 | 49–50 | 47–48 | `காட்சி 12.` | verified | `மலரைக் காப்பாற்றினாய்`; source `வெளியில்` / `உள்ளே`; physical inset word breaks preserved. |
 | 51–52 | 49–50 | `காட்சி 12.` close / `காட்சி 13.` / `காட்சி 14.` opener | verified | User adjudication closes the full scan-51 letter-swap/sleep parenthetical and both scan-52 comic/dawn parentheticals. |
 | 53–59 | 51–57 | `காட்சி 14.` close / `காட்சி 15.` / `காட்சி 16.` opener | verified | Full PASS; source label variation retained; `இன்னொன்று` secure `னொ` witness. |
-| 60–61 | 58–59 | `காட்சி 16.` | blocked | Opening lexical cluster, interrogative word and bracketed cue remain held. |
+| 60–61 | 58–59 | `காட்சி 16.` | verified | User adjudication resolves `முதல்நாள்`, `ஓடுவதா?`, `வீரனாகச் சாகிறேன்`, and `[காதல் கீதம்]`. |
 | 62–64 | 60–62 | `காட்சி 16.` close / `காட்சி 17.` | verified | `காலப்பனிபோல்`; physical `அல்` / `லது` boundary preserved. |
-| 65 | 63 | `காட்சி 17.` | blocked | `ஆசைப்படச் சொன்னார்` secure; separate `மகா` historical-type/spacing clause remains terminally held. |
+| 65 | 63 | `காட்சி 17.` | verified | Historical-type `மகா` clause user-adjudicated and closed; `ஆசைப்படச் சொன்னார்` retained. |
 | 66–68 | 64–66 | `காட்சி 17.` close / `காட்சி 18.` | verified | `ஹ ஹ ஹா!`, `சிங்கநாகன்`, `வேம்பொடு`, `வாழ்க இந்நாட்டு வளம்!`. |
-| 69 | 67 | `காட்சி 18.` | blocked | Place-name and consequence-clause clusters remain terminal holds. |
+| 69 | 67 | `காட்சி 18.` | verified | `இன்பபுரிச் சிம்மாசனத்தில்...` and `அவைகளை நாம் கைப்பற்றாவிட்டால்...` user-adjudicated and closed. |
 | 70–71 | 68–69 | `காட்சி 18.` | verified | Full PASS; `ஆலகாலமா?`. |
 | 72–74 | 70–72 | `காட்சி 18.` close / `காட்சி 19.` | blocked | Lexical/place-name, stage-direction and caste-description clusters remain terminal holds. |
 | 75–76 | 73–74 | `காட்சி 19.` close / `காட்சி 20.` | verified | `இடம்:- மலையன் வீடு.`; full PASS. |
@@ -50,10 +50,10 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 - physical scans registered: **131 / 131**;
 - raw source pass: **131 / 131 — COMPLETE**;
 - physical-range closure audit: **131 / 131 — COMPLETE**;
-- visually verified: **111 / 131** — `1–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`;
-- terminal current-source-condition / `blocked`: **20 / 131** — `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`;
+- visually verified: **115 / 131** — `1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`;
+- terminal current-source-condition / `blocked`: **16 / 131** — `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`;
 - ordinary `needs-review`: **0**;
-- historical-glyph PASS: **111 / 131**;
+- historical-glyph PASS: **115 / 131**;
 - main-play source-visible anchors: **30 / 30**;
 - supplementary anchors: **3 / 3**;
 - boundary-aware structural inventory: **COMPLETE**;
@@ -63,7 +63,7 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 
 ## Terminal-status rule
 
-The 20 `blocked` records are not unreviewed. Each has already received direct source review plus difficult-reading/residual review. Their exact unresolved loci are consolidated in `../TERMINAL_SOURCE_CONDITION_HOLDS.md`. Reopen only if genuinely stronger source evidence becomes available. Do not replace terminal wording from OCR expectation, plot continuity, grammar, modern spelling or another edition.
+The 16 `blocked` records are not unreviewed. Each has already received direct source review plus difficult-reading/residual review. Their exact unresolved loci are consolidated in `../TERMINAL_SOURCE_CONDITION_HOLDS.md`. Reopen only if genuinely stronger source evidence becomes available. Do not replace terminal wording from OCR expectation, plot continuity, grammar, modern spelling or another edition.
 
 ## Next activity
 
