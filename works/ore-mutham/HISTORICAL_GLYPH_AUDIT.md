@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **RESIDUAL RE-AUDIT COMPLETE — 103 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 28 RETAIN EXPLICIT SOURCE-CONDITION TEXT/GLYPH HOLDS**
+Status: **RESIDUAL RE-AUDIT COMPLETE — 104 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 27 RETAIN EXPLICIT SOURCE-CONDITION TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -130,7 +130,7 @@ No positive same-edition reference is yet promoted for `ணொ / ணோ / றொ
 
 ### Scans 1–20
 
-- scan 1 remains open only on the tiny lower-left artist/signature mark; principal title and vertical author lettering `மு.கருணாநிதி` are secure, with the author reading user-adjudicated from the source on 2026-09-18;
+- scan 1 PASS / verified: principal title `ஒரே முத்தம்`, vertical author lettering `மு.கருணாநிதி`, and lower-left artist/signature `Anand` are user-adjudicated and closed (2026-09-18);
 - scans 2–20 PASS / verified;
 - scan 11 location `இடம்:- மாளிகையில் ஒருபுறம்.`;
 - scan 15 location `இடம்:- இமயாவின் மாளிகை`;
@@ -250,11 +250,11 @@ Reviewed scans **92, 94–95, 98–100, 112–113, 117, 128, 130** directly from
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- full historical-glyph passes: **103 / 131** (`2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`);
-- visually verified: **103 / 131**;
-- `needs-review`: **28 / 131** (`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
+- full historical-glyph passes: **104 / 131** (`1–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`);
+- visually verified: **104 / 131**;
+- `needs-review`: **27 / 131** (`21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Every current `needs-review` page has now received at least one residual re-audit directly against the controlling source. Next, perform a **terminal residual-hold/source-condition classification and formal structural inventory**: retain the remaining **28** exact unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
+Every current `needs-review` page has now received at least one residual re-audit directly against the controlling source. Next, perform a **terminal residual-hold/source-condition classification and formal structural inventory**: retain the remaining **27** exact unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
