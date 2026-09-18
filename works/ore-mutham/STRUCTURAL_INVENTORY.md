@@ -44,7 +44,7 @@ A physical scan may contain the close of one scene and the heading/opening of th
 | 26 | scan 100 / p.98 | `இடம்:- மகாவீரர் தர்பார்.` | 100–104 | 98–102 | **100** |
 | 27 | scan 104 / p.102 | `இடம்:- இன்பபுரி அரண்மனைத் தெரு.` | 104–105 | 102–103 | — |
 | 28 | scan 106 / p.104 | `இடம்:- தூக்குமேடை.` | 106–112 | 104–110 | — * |
-| 29 | scan 112 / p.110 | `இடம்:- அரண்மனை நந்தவனம்.` | 112–117 | 110–115 | **112, 113** |
+| 29 | scan 112 / p.110 | `இடம்:- அரண்மனை நந்தவனம்.` | 112–117 | 110–115 | **112** |
 | 30 | scan 117 / p.115 | `இடம்:- குமரியின் படுக்கை.` | 117–118 | 115–116 | — |
 
 `*` Scene 28 needs the secure pre-`காட்சி 29.` portion of scan 112. Scan 112 is page-level `blocked`, but its unresolved locus is only in the Scene-29 opening parenthetical after the Scene-29 anchor; no unresolved wording belongs to Scene 28.
@@ -73,8 +73,8 @@ Supplementary extent: **scans 119–130 / printed pp.117–128**. The section is
 - physical scans represented: **131 / 131**;
 - main-play scene anchors verified structurally: **30 / 30**;
 - supplementary scene anchors verified structurally: **3 / 3**;
-- verified physical scans: **117 / 131**;
-- terminal current-source-condition physical scans: **14 / 131**, all classified `blocked`;
+- verified physical scans: **118 / 131**;
+- terminal current-source-condition physical scans: **13 / 131**, all classified `blocked`;
 - boundary-aware scene-range audit: **COMPLETE**;
 - main scenes assembled and page-record-audited: **1–5 / 30**;
 - supplementary scenes assembled: **0 / 3**;
