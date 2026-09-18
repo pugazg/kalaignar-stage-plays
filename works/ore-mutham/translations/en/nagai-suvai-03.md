@@ -5,18 +5,18 @@ section: "supplementary-comedy"
 source_scene: "../../scenes/nagai-suvai-03.md"
 source_scan_pages: [128, 129, 130]
 printed_pages: [126, 127, 128]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [128, 130]
+source_condition_scans: []
 ---
 
 # Comedy Section — Scene 3
 
 Location: Sandhegam's house.
 
-[Source-held: the Scene-3 opening household/prop/action parenthetical is structurally secure, but several dense exact-character clusters remain unresolved. No action wording is reconstructed from the comic context.]
+(A large grain bin, a chicken, a plough, a ploughshare, and stacked *viratti* implements. Holding the chicken, Samayochitham and Adhirshtam sing, to the tune of “Pura Pattu,” about escaping thanks to the chicken. While they are singing, Sandhegam knocks on the door and calls out. Samayochitham hides Adhirshtam inside the grain bin and opens the door.)
 
 Sandhegam: Savitri!
 
@@ -70,14 +70,14 @@ Adhirshtam: Forget the price, sir, forget the price! As long as one gets the thi
 
 Sandhegam: Then lift it up and take it!
 
-[Source-held: a dense concluding action parenthetical immediately follows. The action sequence is source-visible, but several exact historical-type clusters remain unresolved and are not reconstructed.]
+(Adhirshtam lifts Samayochitham and, lost in delight, dances. Both are in bliss. Sandhegam sticks his head out from inside the grain bin.)
 
-[Source-held: the final bold bracketed epilogue begins securely `In the end Samayochitham becomes a leprosy patient.` The publication-ending bracket, ellipsis pattern and remaining exact wording are held rather than completed.]
+[In the end Samayochitham develops leprosy. She regrets her disgraceful conduct.......... She meets Chithra, who has become an ascetic....... She follows her path.]
 
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/nagai-suvai-03.md`.
-- Scans 128 and 130 remain terminal Tamil source holds. All three held loci—the opening direction, concluding action direction and final epilogue—remain visibly unresolved.
+- Scans 128 and 130 are now verified after user source adjudication on 2026-09-18. The opening direction, concluding action direction and final epilogue are translated directly from the resolved Tamil.
 - Supplementary numbering remains its own Scene 3, not main Scene 33.
 - The grain-bin / lover double meanings and the source's comic innuendo are retained without inventing held action.
 - `Savitri` / `Satyavan` continue the couple's earlier role-play; `Adhirshtam` remains the character name whose literal sense is `Luck`.
