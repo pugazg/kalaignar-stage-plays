@@ -1,6 +1,6 @@
 # ஒரே முத்தம் — English Translation Batch 3 Review
 
-Status: **PASS / LOCKED — SOURCE HOLDS PRESERVED**
+Status: **PASS / LOCKED**
 
 Batch scope:
 
@@ -19,9 +19,9 @@ No OCR, controlling PDF, web text, later edition, outside summary or secondary E
 | English artifact | Tamil source scans | Source condition | Result |
 |---|---:|---|---|
 | `main-11.md` | 41–46 | source-secure | PASS |
-| `main-12.md` | 46–51 | hold-bearing — scans 47, 48, 51 | PASS WITH SOURCE HOLDS |
-| `main-13.md` | 51–52 | hold-bearing — scan 52 | PASS WITH SOURCE HOLD |
-| `main-14.md` | 52–53 | hold-bearing — scan 52 | PASS WITH SOURCE HOLD |
+| `main-12.md` | 46–51 | source-secure | PASS |
+| `main-13.md` | 51–52 | source-secure | PASS |
+| `main-14.md` | 52–53 | source-secure | PASS |
 | `main-15.md` | 53–59 | source-secure | PASS |
 
 Review checks completed for all five scenes:
@@ -44,24 +44,17 @@ The compact bold parenthetical after Chithra produces the ring was user-adjudica
 
 ### Scene 12 — scans 47, 48, 51
 
-All scene-relevant holds remain explicit:
-
-- the single unresolved source word in Kumari's lodging line;
-- the hut-transition stage direction;
-- Puthan's source-visible action toward Chithra;
-- the unresolved remainder of the long scan-51 parenthetical after Chithra replaces the letters with blank rolls.
-
-The secure action of taking the real letters, hiding them, inserting blank rolls and pretending to sleep is translated; the unresolved continuation is not invented.
+The formerly held scan-47 lodging word, both scan-48 stage directions, and the full scan-51 letter-swap/sleep/group-entry parenthetical were user-adjudicated on 2026-09-18. Scene 12 is now source-secure.
 
 ### Scene 13 — scan 52
 
-The comic/song parenthetical remains `Source-held`; no missing lyric, gesture or comic action is supplied. The secure drunken-guard dialogue is translated completely.
+The formerly held comic/song parenthetical on scan 52 was user-adjudicated on 2026-09-18 and is now translated directly. Scene 13 is source-secure.
 
 ### Scene 14 — scan 52
 
-The dawn-stage parenthetical remains `Source-held`. Only the secure descriptive elements already preserved in the Tamil scene marker are carried into English: Chithra's message/pigeon action and the later waking movements. Exact missing wording is not reconstructed.
+The formerly held full dawn/departure parenthetical on scan 52 was user-adjudicated on 2026-09-18 and is now translated directly. Scene 14 is source-secure.
 
-Batch review therefore passes **with source holds**. This does not resolve or downgrade any underlying Tamil `blocked` status.
+Batch review remains **PASS / LOCKED**. All Batch-3 scenes are now source-secure after later user source adjudications; no Tamil hold was resolved by translation itself.
 
 ## Source-sensitive checks
 
@@ -110,7 +103,7 @@ Existing stable choices remain unchanged, including Puthan, Mahaveerar, Yaalitht
 - reviewed: **5 / 5**;
 - total English scene progress: **15 / 33**;
 - completed English batches: **3 / 7**;
-- source-hold-bearing English scenes represented through Batches 1–3 now total **5**; whole-work current hold-bearing total: **15 / 15**;
+- current source-hold-bearing English scenes through Batches 1–3: **0**; whole-work current hold-bearing total: **11 / 11**;
 - unresolved blocking English issues: **0**;
 - Tamil source holds resolved by translation: **0**;
 - secondary-English contamination: **0**.
