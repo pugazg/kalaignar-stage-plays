@@ -94,12 +94,12 @@ Vibhishanan: Crown! Woman! If you want them, do not speak.
 
 Imaya: I am not speaking.
 
-[Source-held: the Scene-7 closing parenthetical stage direction remains unresolved at the exact-word level.]
+(Imaya covers his mouth with his hand.)
 
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-07.md`; no OCR, PDF redrafting, later edition or secondary English witness was used.
-- Scan 27 remains a terminal Tamil source hold. Both held stage-direction loci are preserved visibly and no missing wording is inferred.
+- Scan 27 remains a terminal Tamil source hold only for the opening parenthetical beyond secure Kumari entrance wording. The Scene-7 closing direction is now source-secure after user adjudication on 2026-09-18.
 - The source's explicit strategy of caste division in the name of God is translated directly and not neutralized.
 - `கள்ளையும், சாராயத்தையும் கலக்க` is retained as the literal political metaphor `mix toddy and arrack` rather than replaced by an explanatory paraphrase.
 - `பழைய விபீஷணர்` is rendered `the old Vibhishana`, preserving the source's treachery allusion without adding external exposition to the dramatic body.
