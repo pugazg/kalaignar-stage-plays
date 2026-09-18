@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [68, 69, 70, 71, 72]
 printed_pages: [66, 67, 68, 69, 70]
-status: "assembly-held"
+status: "assembly-reviewed"
 assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-hold"
-source_condition_scans: [69]
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -42,11 +42,11 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 குமரி:- விபீஷணனை விட்டுவைத்தால்......
 
-புத்த:- விட்டுவைத்தால், முல்லைக்காட்டையே எரிக்க விட்டுவைத்ததாக அர்த்தம்! கோழிப் பண்ணைக்குக் குள்ளநரியைக் காவலுக்கு விட்டுவைத்ததாக அர்த்தம். [ஒரு source place-name cluster held] சிம்மாசனத்தில், அவன் ஏற விட்டுவைத்ததாக அர்த்தம்.
+புத்த:- விட்டுவைத்தால், முல்லைக்காட்டையே எரிக்க விட்டுவைத்ததாக அர்த்தம்! கோழிப் பண்ணைக்குக் குள்ளநரியைக் காவலுக்கு விட்டுவைத்ததாக அர்த்தம். இன்பபுரிச் சிம்மாசனத்தில், அவனை ஏற்ற விட்டுவைத்ததாக அர்த்தம்.
 
 குமரி:- மீண்டும் அவனைப் பிடிப்பதென்றால்,......?
 
-புத்த:- அந்தக் கடிதங்களில் இருக்கிறது அவன் வாழ்வு அவைகளை நாம் கைப்பற்றிவிட்டால், [ஒரு source clause held].
+புத்த:- அந்தக் கடிதங்களில் இருக்கிறது அவன் வாழ்வு அவைகளை நாம் கைப்பற்றாவிட்டால், இன்பபுரியின் அழிவை அனுமதித்தவர்களாவோம்.
 
 1-வது வீ:- அப்படியானால்?
 
@@ -135,7 +135,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ## Assembly provenance
 
 - assembled from canonical Scene-18 segments of `0068.md`–`0072.md`;
-- scan 69 carries the Scene-18 terminal holds; both source-held clusters are retained verbatim and are not reconstructed;
+- scan 69 is fully verified after user source adjudication on 2026-09-18; Scene 18 has no unresolved locus. Scan 72 remains globally blocked only for Scene-19 text after the Scene-19 anchor;
 - scan 72 is globally `blocked`, but its held lexical/place-name locus belongs only to Scene 19 after the `காட்சி 19.` anchor; Scene 18 uses only the secure pre-anchor prefix;
 - scan 68 is shared with Scene 17 and scan 72 with Scene 19; source segment boundaries are preserved;
 - no political-context completion, OCR expectation, grammar repair, modern spelling or another-edition wording was introduced.
