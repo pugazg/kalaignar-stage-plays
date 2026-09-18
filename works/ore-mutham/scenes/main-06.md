@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [21, 22, 23, 24]
 printed_pages: [19, 20, 21, 22]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-hold"
-source_condition_scans: [21]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -16,7 +16,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 இடம்:- முல்லைக்காட்டில் ஒரு வீடு.
 
-[opening parenthetical stage direction remains held at exact-word level; do not restore the earlier provisional wording from context]
+[புத்தன். குமரி, சில வீரர்கள், குமரி தெரு நடனக்காரி வேடத்தில் இருக்கிறாள். வீரர்கள் அவள் சொந்தக்காரர்போல் இருக்கிறார்கள். புத்தன் சாதாரண உடையில் காணப்படுதல்)
 
 புத்தன்:- பத்திரம்! பவளமலைச் சாரலுக்கு வந்து சேருங்கள். நானும் இரவு அங்கு வந்துவிடுகிறேன்
 
@@ -123,7 +123,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ## Assembly provenance
 
 - assembled from canonical scene-6 segments of page records `0021.md`–`0024.md`;
-- scan 21 remains terminally `blocked`; its opening parenthetical hold is retained verbatim and is not reconstructed;
+- scan 21 is verified; its opening parenthetical was resolved by user source adjudication against the supplied scan on 2026-09-18;
 - scan 24 is a shared transition page; Scene 6 ends immediately before source heading `காட்சி 7.`;
 - page boundaries are preserved as non-rendered archival comments;
 - no OCR, contextual completion, modernization, grammar repair, another-edition wording or source normalization was introduced.
