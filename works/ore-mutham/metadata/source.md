@@ -15,7 +15,7 @@ The supplied scan is the controlling authority. OCR, context, plot continuity, a
 
 Source-visible:
 
-- scan 1: front cover `ஒரே முத்தம்`;
+- scan 1: front cover `ஒரே முத்தம்`; vertical author lettering `மு.கருணாநிதி`; lower-left artist/signature `Anand` (user source adjudication, 2026-09-18);
 - scan 3: title page, author and `ஐந்தாம் பதிப்பு.`;
 - scan 4: edition history through fifth edition December 1964, publisher/printer/price;
 - scan 5: publisher `பதிப்புரை.`;
@@ -43,6 +43,7 @@ The supplementary scenes must not be silently renumbered as main-play scenes 31�
 
 Established source decisions must not be reverted without new source evidence. Important examples include:
 
+- scan 1: vertical author lettering `மு.கருணாநிதி` and lower-left artist/signature `Anand` — both user-adjudicated and scan fully verified on 2026-09-18;
 - scans 11 / 15 / 19: `இடம்:- மாளிகையில் ஒருபுறம்.`, `இடம்:- இமயாவின் மாளிகை`, `இடம்:- முல்லைக்காட்டு நகரத்தெரு`;
 - scan 22: `புயலைப்போல`;
 - scan 24: `(2-வது காவியைக் காட்டி)`;
@@ -131,9 +132,9 @@ The secure same-edition bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No op
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- visually verified: **103 / 131**;
-- `needs-review` / source-condition holds: **28 / 131** (`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
-- completed historical-glyph passes: **103 / 131**;
+- visually verified: **104 / 131**;
+- `needs-review` / source-condition holds: **27 / 131** (`21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
+- completed historical-glyph passes: **104 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary-comedy source-visible scene anchors: **3**;
 - formal structural inventory: **not started**;
@@ -142,4 +143,4 @@ The secure same-edition bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No op
 
 ## Exact next source activity
 
-Residual source re-audit is complete for all current open pages. Perform a **terminal residual-hold/source-condition classification and formal structural inventory**: preserve the remaining 28 unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
+Residual source re-audit is complete for all current open pages. Perform a **terminal residual-hold/source-condition classification and formal structural inventory**: preserve the remaining 27 unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
