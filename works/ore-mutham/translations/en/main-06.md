@@ -5,18 +5,18 @@ section: "main-play"
 source_scene: "../../scenes/main-06.md"
 source_scan_pages: [21, 22, 23, 24]
 printed_pages: [19, 20, 21, 22]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [21]
+source_condition_scans: []
 ---
 
 # Scene 6
 
 Location: A house in Mullaikadu.
 
-[Source-held: the opening parenthetical stage direction remains unresolved at the exact-word level; no wording is inferred.]
+(Puthan, Kumari, and a few soldiers. Kumari is dressed as a street dancer. The soldiers appear to be her relatives. Puthan is seen in ordinary clothes.)
 
 Puthan: Be careful! Reach the slopes of Pavalamalai. I too will come there tonight.
 
@@ -117,7 +117,7 @@ Kumari: I will escape through cunning. When the Prince arrives, tell him this: i
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-06.md`; no OCR, PDF redrafting, later edition or secondary English witness was used.
-- Scan 21 remains a terminal Tamil source hold. The unresolved opening stage direction is retained visibly as `Source-held` and is not reconstructed.
+- Scan 21 is now verified. The formerly held opening direction was user-adjudicated from the supplied source scan on 2026-09-18 and is translated directly here.
 - `ரம்பை` is rendered as `Rambha`, preserving the mythic beauty comparison used by the guards.
 - The source's colloquial and sexually predatory register is retained without softening the guards' conduct.
 - The Tamil clause `ஆனா, ஆளு என்னுட்டந்தான் இருக்குங்க!` is semantically awkward in the locked scene artifact; the English stays deliberately close rather than silently repairing it.
