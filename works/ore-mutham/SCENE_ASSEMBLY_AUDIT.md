@@ -54,7 +54,7 @@ For every assembled scene:
 | 29 | `scenes/main-29.md` | 112–117 | 112, 113 | PASS — holds preserved |
 | 30 | `scenes/main-30.md` | 117–118 | — | PASS |
 
-`*` Main Scene 28 uses only the secure pre-`காட்சி 29.` segment of globally blocked scan 112. The scan-112 held locus belongs to Scene 29 and is not imported into Scene 28.
+`*` Main Scene 18 uses only the secure pre-`காட்சி 19.` segment of globally blocked scan 72; the scan-72 held locus belongs to Scene 19. Main Scene 28 uses only the secure pre-`காட்சி 29.` segment of globally blocked scan 112. The scan-112 held locus belongs to Scene 29 and is not imported into Scene 28.
 
 ## Supplementary `நகைச் சுவைப் பகுதி.` — 3 / 3 assembled
 
