@@ -50,7 +50,7 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 - physical scans registered: **131 / 131**;
 - raw source pass: **131 / 131 — COMPLETE**;
 - physical-range closure audit: **131 / 131 — COMPLETE**;
-- visually verified: **117 / 131** — `1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–131` excluding `128`?
+- visually verified: **117 / 131** — `1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–131`
 - terminal current-source-condition / `blocked`: **14 / 131** — `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`;
 - ordinary `needs-review`: **0**;
 - historical-glyph PASS: **117 / 131**;
