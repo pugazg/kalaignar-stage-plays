@@ -63,13 +63,11 @@ Whole-work fidelity result: **PASS**.
 
 ## 4. Terminal-source-hold preservation
 
-Tamil source closure currently contains **17 hold-bearing scene artifacts**. Every one has a reviewed English counterpart that preserves the unresolved locus/loci transparently:
+Tamil source closure currently contains **15 hold-bearing scene artifacts**. Every one has a reviewed English counterpart that preserves the unresolved locus/loci transparently:
 
 Main:
 
 - 7 → `[27]`
-- 8 → `[27]`
-- 11 → `[43]`
 - 12 → `[47, 48, 51]`
 - 13 → `[52]`
 - 14 → `[52]`
@@ -88,7 +86,7 @@ Supplementary:
 
 - Scene 3 → `[128, 130]`.
 
-Source-hold-bearing English scenes reviewed: **17 / 17**.
+Source-hold-bearing English scenes reviewed: **15 / 15**.
 
 Tamil terminal source holds resolved by English translation: **0**.
 
@@ -121,9 +119,9 @@ No convention in the English layer silently normalizes or overwrites the Tamil a
 
 ## 7. Final English state
 
-**ENGLISH TRANSLATION COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE — 33 / 33 SCENES PRESENT AND REVIEWED; 7 / 7 BATCHES PASS / LOCKED; 17 / 17 CURRENT HOLD-BEARING SCENES TRANSLATED WITH HOLDS PRESERVED; 0 TAMIL HOLDS RESOLVED BY TRANSLATION; 0 SECONDARY-ENGLISH CONTAMINATION.**
+**ENGLISH TRANSLATION COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE — 33 / 33 SCENES PRESENT AND REVIEWED; 7 / 7 BATCHES PASS / LOCKED; 15 / 15 CURRENT HOLD-BEARING SCENES TRANSLATED WITH HOLDS PRESERVED; 0 TAMIL HOLDS RESOLVED BY TRANSLATION; 0 SECONDARY-ENGLISH CONTAMINATION.**
 
-This closure means the independent Tamil→English archival translation workflow is complete for the current closed Tamil scene layer. It does **not** claim that the 26 remaining terminal Tamil source-condition pages have become verified. Scans 1 and 21 were separately verified by user source adjudication on 2026-09-18; scan 21 consequently removed Scene 6 from the hold-bearing set.
+This closure means the independent Tamil→English archival translation workflow is complete for the current closed Tamil scene layer. It does **not** claim that the 25 remaining terminal Tamil source-condition pages have become verified. Scans 1, 21 and 43 were separately verified by user source adjudication on 2026-09-18. Scan 27 remains blocked only for Scene 7; Scene 8 is now source-secure.
 
 ## 8. Reopening / future-phase rule
 
