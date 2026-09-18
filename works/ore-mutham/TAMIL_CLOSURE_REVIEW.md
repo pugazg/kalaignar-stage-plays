@@ -36,22 +36,22 @@ This is the work-level closure gate required by `STAGE_PLAY_PROCESSING_GUIDE.md`
 
 Current physical-page state:
 
-- `verified`: **103 / 131**;
-- terminal current-source-condition `blocked`: **28 / 131**;
+- `verified`: **104 / 131**;
+- terminal current-source-condition `blocked`: **27 / 131**;
 - ordinary `needs-review`: **0**.
 
 Terminal scans:
 
-`1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
+`21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
 
-All 28 have already received direct source inspection plus difficult-reading/residual review. They are not queued for ordinary re-review. Reopen only if genuinely stronger source evidence appears.
+All 27 remaining blocked scans have already received direct source inspection plus difficult-reading/residual review. They are not queued for ordinary re-review. Reopen only if genuinely stronger source evidence appears.
 
 ### Page map matches repository state — PASS
 
 `indexes/page-map.md` has been reconciled from stale `needs-review` labels to the canonical terminal `blocked` classification:
 
-- verified **103**;
-- blocked **28**;
+- verified **104**;
+- blocked **27**;
 - needs-review **0**;
 - structural inventory **complete**;
 - Tamil scene assembly **33 / 33 complete**.
@@ -76,10 +76,7 @@ Hold-bearing supplementary scene: **3**.
 
 ### Terminal-hold traceability — PASS
 
-Of the 28 blocked physical scans:
-
-- scan **1** is non-scene front-cover material;
-- all other **27** blocked scans are traceable through the scene layer wherever their unresolved locus is scene-relevant.
+All **27** remaining blocked physical scans are traceable through the scene layer wherever their unresolved locus is scene-relevant. Scan **1** is no longer blocked: user source adjudication on 2026-09-18 closed the author lettering as `மு.கருணாநிதி` and the lower-left signature as `Anand`.
 
 Scene dependency map:
 
@@ -118,7 +115,7 @@ The controlling PDF is recorded by identity/checksum but is not committed.
 
 ## Work-level Tamil release state
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 28 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 27 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
 
 This means:
 
@@ -129,7 +126,7 @@ This means:
 - every surviving ambiguity is explicitly marked and traceable;
 - no remaining terminal ambiguity has been converted into invented text.
 
-It does **not** mean all 131 scans are `verified`: 103 are verified and 28 remain `blocked` by current source condition.
+It does **not** mean all 131 scans are `verified`: 104 are verified and 27 remain `blocked` by current source condition.
 
 ## Reopening rule
 
