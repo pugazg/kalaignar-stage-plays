@@ -36,13 +36,13 @@ This is the work-level closure gate required by `STAGE_PLAY_PROCESSING_GUIDE.md`
 
 Current physical-page state:
 
-- `verified`: **117 / 131**;
-- terminal current-source-condition `blocked`: **14 / 131**;
+- `verified`: **118 / 131**;
+- terminal current-source-condition `blocked`: **13 / 131**;
 - ordinary `needs-review`: **0**.
 
 Terminal scans:
 
-`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`.
+`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112`.
 
 All 16 remaining blocked scans have already received direct source inspection plus difficult-reading/residual review. They are not queued for ordinary re-review. Reopen only if genuinely stronger source evidence appears.
 
@@ -50,8 +50,8 @@ All 16 remaining blocked scans have already received direct source inspection pl
 
 `indexes/page-map.md` has been reconciled from stale `needs-review` labels to the canonical terminal `blocked` classification:
 
-- verified **117**;
-- blocked **14**;
+- verified **118**;
+- blocked **13**;
 - needs-review **0**;
 - structural inventory **complete**;
 - Tamil scene assembly **33 / 33 complete**.
@@ -86,7 +86,7 @@ Scene dependency map:
 - 24 → `94, 95`
 - 25 → `98, 99`
 - 26 → `100`
-- 29 → `112, 113`
+- 29 → `112`
 
 Shared globally blocked pages whose unresolved locus belongs only to the following scene remain correctly segment-scoped: Scene 18 does not inherit Scene-19 scan-72 holds; Scene 28 does not inherit Scene-29 scan-112 holds; Scene 23 does not inherit Scene-24 scan-94 holds.
 
@@ -104,7 +104,7 @@ The controlling PDF is recorded by identity/checksum but is not committed.
 
 ## Work-level Tamil release state
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 14 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 13 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
 
 This means:
 
@@ -115,7 +115,7 @@ This means:
 - every surviving ambiguity is explicitly marked and traceable;
 - no remaining terminal ambiguity has been converted into invented text.
 
-It does **not** mean all 131 scans are `verified`: 117 are verified and 14 remain `blocked` by current source condition.
+It does **not** mean all 131 scans are `verified`: 118 are verified and 13 remain `blocked` by current source condition.
 
 ## Reopening rule
 
