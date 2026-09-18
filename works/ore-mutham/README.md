@@ -180,8 +180,8 @@ Final English artifacts:
 Completed review batches:
 
 - Batch 1 — main **1–5** — **PASS / LOCKED**;
-- Batch 2 — main **6–10** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- Batch 3 — main **11–15** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- Batch 2 — main **6–10** — **PASS / LOCKED**;
+- Batch 3 — main **11–15** — **PASS / LOCKED**;
 - Batch 4 — main **16–20** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
 - Batch 5 — main **21–25** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
 - Batch 6 — main **26–30** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
