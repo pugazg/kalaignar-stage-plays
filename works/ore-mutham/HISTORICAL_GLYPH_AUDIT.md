@@ -130,7 +130,7 @@ No positive same-edition reference is yet promoted for `ணொ / ணோ / றொ
 
 ### Scans 1–20
 
-- scan 1 remains open on the tiny lower-left artist/signature mark; principal title and vertical author lettering are secure;
+- scan 1 remains open only on the tiny lower-left artist/signature mark; principal title and vertical author lettering `மு.கருணாநிதி` are secure, with the author reading user-adjudicated from the source on 2026-09-18;
 - scans 2–20 PASS / verified;
 - scan 11 location `இடம்:- மாளிகையில் ஒருபுறம்.`;
 - scan 15 location `இடம்:- இமயாவின் மாளிகை`;
