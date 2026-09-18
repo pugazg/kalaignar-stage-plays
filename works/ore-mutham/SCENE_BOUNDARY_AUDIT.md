@@ -46,15 +46,14 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 | Supplement scene | Contributing scans | Shared transition scan(s) | Terminal unresolved locus inside this scene? |
 |---:|---:|---|---|
 | 1 | 119–125 | 125 with Scene 2 | no |
-| 2 | 125–128 | 125 with Scene 1; 128 with Scene 3 | **no Scene-2 unresolved locus**; scan 128 is blocked only for Scene-3 text after the Scene-3 anchor |
-| 3 | 128–130 | 128 with Scene 2 | **scans 128, 130** |
+| 2 | 125–128 | 125 with Scene 1; 128 with Scene 3 | no |
+| 3 | 128–130 | 128 with Scene 2 | no |
 
 ## Permanent boundary consequences
 
 - Scene assembly is **segment-aware**, not merely page-status-aware.
 - A globally blocked shared scan does not automatically make both adjacent scene segments unresolved.
 - Main Scene 28 uses the secure pre-`காட்சி 29.` portion of scan 112 without importing the Scene-29 hold.
-- Supplementary Scene 2 uses the secure pre-`காட்சி 3.` portion of scan 128 without importing the Scene-3 hold.
 - Scene 23 does not inherit scan 94's later Scene-24 hold.
 - Scene 18 does not inherit scan 72's later Scene-19 hold.
 
@@ -64,7 +63,7 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 
 Main: **1–17, 21–22, 27, 30**.
 
-Supplementary: **Scene 1**.
+Supplementary: **Scenes 1–3**.
 
 ### Source-secure shared-boundary cases
 
@@ -75,7 +74,7 @@ Supplementary: **Scene 1**.
 
 Main: **19–20, 23–26, 29**.
 
-Supplementary: **Scene 3**.
+Supplementary: **none**.
 
 ## Assembly closure
 
