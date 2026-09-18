@@ -51,7 +51,7 @@ For every assembled scene:
 | 26 | `scenes/main-26.md` | 100–104 | 100 | PASS — hold preserved |
 | 27 | `scenes/main-27.md` | 104–105 | — | PASS |
 | 28 | `scenes/main-28.md` | 106–112 | — * | PASS — source-secure boundary case |
-| 29 | `scenes/main-29.md` | 112–117 | 112, 113 | PASS — holds preserved |
+| 29 | `scenes/main-29.md` | 112–117 | 112 | PASS — hold preserved |
 | 30 | `scenes/main-30.md` | 117–118 | — | PASS |
 
 `*` Main Scene 18 uses only the secure pre-`காட்சி 19.` segment of globally blocked scan 72; the scan-72 held locus belongs to Scene 19. Main Scene 28 uses only the secure pre-`காட்சி 29.` segment of globally blocked scan 112. The scan-112 held locus belongs to Scene 29 and is not imported into Scene 28.
@@ -81,7 +81,7 @@ Scene-relevant hold ownership is preserved as follows:
 - Scene 24 → `94, 95`;
 - Scene 25 → `98, 99`;
 - Scene 26 → `100`;
-- Scene 29 → `112, 113`;
+- Scene 29 → `112`;
 
 This ownership is segment-aware. Globally blocked transition scans are not automatically attributed to both adjacent scenes.
 
@@ -137,7 +137,7 @@ Documented physical continuations remain explicit through archival boundary comm
 The Tamil page layer, structural layer and scene-assembly layer are now complete for the current source evidence. The **next archival activity is a Tamil pre-release / work-level closure gate**:
 
 1. verify scene-file inventory is exactly main `01–30` plus supplementary `01–03` with no duplicates or numbering leakage;
-2. verify all 14 remaining terminal physical-page holds remain traceable from page records through the scene layer; scans 1, 21, 27, 43, 47, 48, 51 and 52 are now fully verified after user adjudication;
+2. verify all 13 remaining terminal physical-page holds remain traceable from page records through the scene layer; scans 1, 21, 27, 43, 47, 48, 51 and 52 are now fully verified after user adjudication;
 3. reconcile README / handover / prompt status and any stale `needs-review` labels in secondary indexes without changing the canonical page records or pretending terminal holds are resolved;
 4. decide/document the work-level Tamil release state under the repository's terminal-source-condition policy;
 5. do **not** begin English translation unless explicitly authorized.
