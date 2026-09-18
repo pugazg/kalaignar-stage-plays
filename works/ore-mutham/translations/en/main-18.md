@@ -5,11 +5,11 @@ section: "main-play"
 source_scene: "../../scenes/main-18.md"
 source_scan_pages: [68, 69, 70, 71, 72]
 printed_pages: [66, 67, 68, 69, 70]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [69]
+source_condition_scans: []
 ---
 
 # Scene 18
@@ -40,11 +40,11 @@ Puthan: Father's way is strange! Everything he ought to hate becomes milk to him
 
 Kumari: If Vibhishanan is left alone......
 
-Puthan: If he is left alone, it means leaving all of Mullaikadu to burn! It means leaving a little fox to guard the chicken farm. It means allowing him to mount the [Source-held: dense place-name cluster on scan 69] throne.
+Puthan: If he is left alone, it means leaving all of Mullaikadu to burn! It means leaving a little fox to guard the chicken farm. It means allowing him to ascend the throne of Inbapuri.
 
 Kumari: If we are to catch him again......?
 
-Puthan: His life is in those letters. If we get hold of them, [Source-held: the consequence clause after `அவைகளை நாம் கைப்பற்றிவிட்டால்` on scan 69 remains unresolved at exact-word level].
+Puthan: His life is in those letters. If we fail to get hold of them, we will have allowed the destruction of Inbapuri.
 
 Warrior 1: Then?
 
@@ -127,7 +127,7 @@ Kumari: (Smiling) Many thanks.
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-18.md`; no OCR, PDF redrafting, later edition or secondary English witness was used.
-- Scan 69 contains two terminal holds: a dense place-name cluster before `சிம்மாசனத்தில்` and the consequence clause after `அவைகளை நாம் கைப்பற்றிவிட்டால்`. Both remain explicit `Source-held` loci.
-- Scan 72 is globally blocked, but its unresolved locus belongs to Scene 19 after the Scene-19 anchor; Scene 18 remains dependent only on scan 69.
+- Scan 69 is now verified after user source adjudication on 2026-09-18. The place-name cluster resolves as `இன்பபுரிச்`, and the consequence line is `அவைகளை நாம் கைப்பற்றாவிட்டால், இன்பபுரியின் அழிவை அனுமதித்தவர்களாவோம்.`
+- Scan 72 remains globally blocked, but its unresolved locus belongs to Scene 19 after the Scene-19 anchor; Scene 18 is source-secure and does not inherit that hold.
 - `ஆலகாலம்` is retained as `Alakala poison`, preserving the source poison/nectar contrast with `அமிர்தம்`.
 - Kumari's escalating attempt to secure permission to travel with Puthan is retained turn by turn rather than compressed.
