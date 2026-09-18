@@ -18,7 +18,7 @@ No OCR, controlling PDF, web text, later edition, outside summary or secondary E
 
 | English artifact | Tamil source scans | Source condition | Result |
 |---|---:|---|---|
-| `main-11.md` | 41–46 | hold-bearing — scan 43 | PASS WITH SOURCE HOLD |
+| `main-11.md` | 41–46 | source-secure | PASS |
 | `main-12.md` | 46–51 | hold-bearing — scans 47, 48, 51 | PASS WITH SOURCE HOLDS |
 | `main-13.md` | 51–52 | hold-bearing — scan 52 | PASS WITH SOURCE HOLD |
 | `main-14.md` | 52–53 | hold-bearing — scan 52 | PASS WITH SOURCE HOLD |
@@ -40,7 +40,7 @@ Review checks completed for all five scenes:
 
 ### Scene 11 — scan 43
 
-The compact bold parenthetical after Chithra produces the ring remains an explicit English `Source-held` marker. No stage action is reconstructed. All secure dialogue and the later Chithra/Vibhishanan confrontation are translated.
+The compact bold parenthetical after Chithra produces the ring was user-adjudicated from scan 43 on 2026-09-18 and is now translated directly. Scene 11 is source-secure.
 
 ### Scene 12 — scans 47, 48, 51
 
@@ -110,7 +110,7 @@ Existing stable choices remain unchanged, including Puthan, Mahaveerar, Yaalitht
 - reviewed: **5 / 5**;
 - total English scene progress: **15 / 33**;
 - completed English batches: **3 / 7**;
-- source-hold-bearing English scenes completed: **7 / 18**;
+- source-hold-bearing English scenes represented through Batches 1–3 now total **5**; whole-work current hold-bearing total: **15 / 15**;
 - unresolved blocking English issues: **0**;
 - Tamil source holds resolved by translation: **0**;
 - secondary-English contamination: **0**.
