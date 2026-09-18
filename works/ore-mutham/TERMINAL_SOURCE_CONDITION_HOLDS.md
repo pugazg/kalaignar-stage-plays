@@ -2,20 +2,16 @@
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
-Status: **TERMINAL CLASSIFICATION COMPLETE — 20 / 20 CURRENT-SOURCE-CONDITION HOLDS CLASSIFIED `blocked`**.
+Status: **TERMINAL CLASSIFICATION COMPLETE — 16 / 16 CURRENT-SOURCE-CONDITION HOLDS CLASSIFIED `blocked`**.
 
 This inventory records only unresolved source loci. It does not authorize contextual completion, modernization, OCR substitution, another-edition import, punctuation normalization or speaker/stage-direction repair. Every listed page has already received direct source review and at least one residual/difficult-reading pass. A `blocked` page may be reopened only if genuinely stronger source evidence becomes available.
 
-The remaining **111 / 131** scans are `verified`; the 20 records below are the complete current terminal hold set.
+The remaining **115 / 131** scans are `verified`; the 16 records below are the complete current terminal hold set.
 
-Post-closure user adjudications on 2026-09-18 removed scans **1, 21, 27, 43, 47, 48, 51, and 52** from this inventory. Scan 27 is now fully closed, including `(குமரி வருகை. 1-வது காலி விபீஷணனிடம் கூறுதல்.)`. Scans 47–48 and 51–52 are also fully closed from the supplied source readings.
+Post-closure user adjudications on 2026-09-18 removed scans **1, 21, 27, 43, 47, 48, 51, 52, 60, 61, 65, and 69** from this inventory. Scan 27 is now fully closed, including `(குமரி வருகை. 1-வது காலி விபீஷணனிடம் கூறுதல்.)`. Scans 47–48 and 51–52 are also fully closed from the supplied source readings.
 
 | Scan | Printed page | Section / scene | Exact unresolved locus | Secure surrounding evidence |
 |---:|---:|---|---|---|
-| 60 | 58 | main `காட்சி 16.` | Compact lexical cluster in the opening parenthetical before `புத்தன் நின்ற இடத்தில்`. | Surrounding opening action and dialogue are secure. |
-| 61 | 59 | main `காட்சி 16.` | First interrogative word in the opening `புத்த` line before `பொன்னி!`; one small bracketed stage/song cue near the bottom. | Remaining dialogue and repeated source speaker labels are secure. |
-| 65 | 63 | main `காட்சி 17.` | Historical-type / joining / spacing in the short `மகா` clause around `உமக்கு ஒரு பிரதிநிதி உம்.` after `பிரதிநிதி`. | `ஆசைப்படச் சொன்னார்` is secure. |
-| 69 | 67 | main `காட்சி 18.` | Dense place-name cluster immediately before `சிம்மாசனத்தில்`; consequence clause after `அவைகளை நாம் கைப்பற்றிவிட்டால்`. | Surrounding strategic dialogue is secure. |
 | 72 | 70 | main `காட்சி 18.` close / `காட்சி 19.` | Dense historical-type lexical/place-name cluster represented provisionally in the page layer by `மூலக்காட்டில்`. | `காட்சி 19.` / `இடம்:- வசந்த மண்டபம்.` are secure. |
 | 73 | 71 | main `காட்சி 19.` | Two compact bold stage-direction blocks: informer whisper / `சித்ரா` observation; later feigned-anger / reaction direction. | Broad action and dialogue order are secure. |
 | 74 | 72 | main `காட்சி 19.` | Dense phrase before `அளவுக்கு` in the early `பொன்னி` description; dense caste-description cluster after `தீண்டப்படாத`. | Surrounding dialogue is secure; no caste wording is supplied from context. |
@@ -35,4 +31,4 @@ Post-closure user adjudications on 2026-09-18 removed scans **1, 21, 27, 43, 47,
 
 ## Terminal rule
 
-These 20 records are not pending ordinary review. They are **current-source-condition holds**. Future scene assembly must preserve their page-level hold markers and must not invent, regularize or silently omit unresolved wording. The hold set can change only if a stronger rendering, a better scan of the same edition, or another genuinely stronger source witness is explicitly introduced and adjudicated under `STAGE_PLAY_PROCESSING_GUIDE.md`.
+These 16 records are not pending ordinary review. They are **current-source-condition holds**. Future scene assembly must preserve their page-level hold markers and must not invent, regularize or silently omit unresolved wording. The hold set can change only if a stronger rendering, a better scan of the same edition, or another genuinely stronger source witness is explicitly introduced and adjudicated under `STAGE_PLAY_PROCESSING_GUIDE.md`.
