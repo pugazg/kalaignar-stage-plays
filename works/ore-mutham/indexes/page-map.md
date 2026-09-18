@@ -2,11 +2,11 @@
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
-All **131 physical scans** are registered, source-processed and closure-audited. Canonical `pages/*.md` records remain the detailed source-first authority. The earlier secondary-index label `needs-review` has now been reconciled with the terminal classification: all 28 current-source-condition pages are **`blocked`**, not pending ordinary review.
+All **131 physical scans** are registered, source-processed and closure-audited. Canonical `pages/*.md` records remain the detailed source-first authority. The earlier secondary-index label `needs-review` has now been reconciled with the terminal classification: all 27 current-source-condition pages are **`blocked`**, not pending ordinary review.
 
 | Scan(s) | Printed page(s) | Section / scene | Status | Source note |
 |---:|---:|---|---|---|
-| 1 | — | front cover | blocked | Principal title and vertical author lettering `மு.கருணாநிதி` secure (user-adjudicated 2026-09-18); only the tiny lower-left artist/signature mark remains held. |
+| 1 | — | front cover | verified | Principal title `ஒரே முத்தம்`, vertical author lettering `மு.கருணாநிதி`, and lower-left artist/signature `Anand` are user-adjudicated and closed (2026-09-18). |
 | 2–20 | — / 6–18 | front matter through `காட்சி 5.` | verified | Full closure PASS; durable scene-location corrections retained. |
 | 21 | 19 | `காட்சி 6.` | blocked | Small bold opening direction remains exact-character held; surrounding text secure. |
 | 22–26 | 20–24 | `காட்சி 6.` / `காட்சி 7.` | verified | Full PASS; includes `புயலைப்போல`, `ஏழைகள்!`, `கடித்துத் தின்றுவிடுவார்`, `ஆனா`, `(2-வது காவியைக் காட்டி)`. |
@@ -50,10 +50,10 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 - physical scans registered: **131 / 131**;
 - raw source pass: **131 / 131 — COMPLETE**;
 - physical-range closure audit: **131 / 131 — COMPLETE**;
-- visually verified: **103 / 131** — `2–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`;
-- terminal current-source-condition / `blocked`: **28 / 131** — `1`, `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`;
+- visually verified: **104 / 131** — `1–20`, `22–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`;
+- terminal current-source-condition / `blocked`: **27 / 131** — `21`, `27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`;
 - ordinary `needs-review`: **0**;
-- historical-glyph PASS: **103 / 131**;
+- historical-glyph PASS: **104 / 131**;
 - main-play source-visible anchors: **30 / 30**;
 - supplementary anchors: **3 / 3**;
 - boundary-aware structural inventory: **COMPLETE**;
@@ -63,7 +63,7 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 
 ## Terminal-status rule
 
-The 28 `blocked` records are not unreviewed. Each has already received direct source review plus difficult-reading/residual review. Their exact unresolved loci are consolidated in `../TERMINAL_SOURCE_CONDITION_HOLDS.md`. Reopen only if genuinely stronger source evidence becomes available. Do not replace terminal wording from OCR expectation, plot continuity, grammar, modern spelling or another edition.
+The 27 `blocked` records are not unreviewed. Each has already received direct source review plus difficult-reading/residual review. Their exact unresolved loci are consolidated in `../TERMINAL_SOURCE_CONDITION_HOLDS.md`. Reopen only if genuinely stronger source evidence becomes available. Do not replace terminal wording from OCR expectation, plot continuity, grammar, modern spelling or another edition.
 
 ## Next activity
 
