@@ -48,14 +48,14 @@ Hold-bearing Tamil scenes keep their unresolved loci visibly unresolved in Engli
 
 Final hold-bearing English inventory:
 
-- main **6–8**;
+- main **7–8**;
 - main **11–14**;
 - main **16–20**;
 - main **23–26**;
 - main **29**;
 - supplementary **3**.
 
-Total source-hold-bearing English scenes: **18 / 18 reviewed**.
+Total source-hold-bearing English scenes: **17 / 17 reviewed**.
 
 Tamil terminal holds resolved by English translation: **0**.
 
@@ -95,7 +95,7 @@ The final remainder contained only **8** scenes and was completed in one iterati
 - English scenes present: **33 / 33**;
 - English scenes reviewed: **33 / 33**;
 - batches: **7 / 7 PASS / LOCKED**;
-- source-hold-bearing English scenes: **18 / 18**;
+- source-hold-bearing English scenes: **17 / 17**;
 - unresolved blocking English issues: **0**;
 - Tamil source holds resolved by English translation: **0**;
 - secondary-English contamination: **0**.
