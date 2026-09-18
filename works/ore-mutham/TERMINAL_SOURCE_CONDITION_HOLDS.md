@@ -2,18 +2,17 @@
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
-Status: **TERMINAL CLASSIFICATION COMPLETE — 26 / 26 CURRENT-SOURCE-CONDITION HOLDS CLASSIFIED `blocked`**.
+Status: **TERMINAL CLASSIFICATION COMPLETE — 25 / 25 CURRENT-SOURCE-CONDITION HOLDS CLASSIFIED `blocked`**.
 
 This inventory records only unresolved source loci. It does not authorize contextual completion, modernization, OCR substitution, another-edition import, punctuation normalization or speaker/stage-direction repair. Every listed page has already received direct source review and at least one residual/difficult-reading pass. A `blocked` page may be reopened only if genuinely stronger source evidence becomes available.
 
-The remaining **105 / 131** scans are `verified`; the 26 records below are the complete current terminal hold set.
+The remaining **106 / 131** scans are `verified`; the 25 records below are the complete current terminal hold set.
 
-Post-closure adjudications removed scans **1** and **21** from this inventory on 2026-09-18. Scan 1 was closed as `மு.கருணாநிதி` / `Anand`; scan 21's opening direction was closed as `[புத்தன். குமரி, சில வீரர்கள், குமரி தெரு நடனக்காரி வேடத்தில் இருக்கிறாள். வீரர்கள் அவள் சொந்தக்காரர்போல் இருக்கிறார்கள். புத்தன் சாதாரண உடையில் காணப்படுதல்)`.
+Post-closure adjudications removed scans **1**, **21**, and **43** from this inventory on 2026-09-18. Scan 1 was closed as `மு.கருணாநிதி` / `Anand`; scan 21's opening direction was closed; scan 43's compact parenthetical was closed as `(விபீஷணன் ஸ்தம்பித்து நின்றதும், இரவு நினைவுகள் சில உருண்டோடுதல், மயக்கம் தெளிந்தவனாய்.)`. Scan 27 remains listed only for its still-unresolved Scene-7 opening parenthetical beyond secure `குமரி வருகை.`.
 
 | Scan | Printed page | Section / scene | Exact unresolved locus | Secure surrounding evidence |
 |---:|---:|---|---|---|
-| 27 | 25 | main `காட்சி 7.` close / `காட்சி 8.` opener | Opening parenthetical beyond secure `குமரி வருகை.`; scene-7 closing parenthetical; dense scene-8 opening parenthetical; closing movement parenthetical. | `காட்சி 8.` / `இடம்:- முல்லைக்காட்டுப் பகுதி.` are secure. |
-| 43 | 41 | main `காட்சி 11.` | One compact bold parenthetical stage-direction cluster between the early `சித்ரா` / `விபீஷ` exchange and `விபீஷ - ஏமாற்றம்! எங்கே அவள்?`. | Surrounding dialogue and the later entrance/action block are secure. |
+| 27 | 25 | main `காட்சி 7.` close / `காட்சி 8.` opener | Scene-7 opening parenthetical beyond secure `குமரி வருகை.` only. | Scene-7 closing `(இமயா வாயில் கைவைத்து பொத்திக் கொள்கிறான்)` and both Scene-8 directions are user-adjudicated / secure; `காட்சி 8.` / `இடம்:- முல்லைக்காட்டுப் பகுதி.` are secure. |
 | 47 | 45 | main `காட்சி 12.` | One lodging word between `எங்கள்` and `கிட்டத்தான்`. | The lodging invitation and all surrounding dialogue are secure. |
 | 48 | 46 | main `காட்சி 12.` | Two compact stage directions: road/palanquin-to-hut transition after `அதுதான் எங்கள் குடில்.`; `புத்தன்` action toward `சித்ரா` before `குமரி:- இவரு எனக்கு மச்சான் முறைங்க.` | Dramatic action is clear; exact wording remains held. |
 | 51 | 49 | main `காட்சி 12.` close / `காட்சி 13.` | Remainder of the long pre-scene parenthetical after the secure sequence about hiding letters, replacing them with blank scrolls and pretending to sleep. | `காட்சி 13.` / `இடம்: தெருவில்.` are secure. |
@@ -41,4 +40,4 @@ Post-closure adjudications removed scans **1** and **21** from this inventory on
 
 ## Terminal rule
 
-These 26 records are not pending ordinary review. They are **current-source-condition holds**. Future scene assembly must preserve their page-level hold markers and must not invent, regularize or silently omit unresolved wording. The hold set can change only if a stronger rendering, a better scan of the same edition, or another genuinely stronger source witness is explicitly introduced and adjudicated under `STAGE_PLAY_PROCESSING_GUIDE.md`.
+These 25 records are not pending ordinary review. They are **current-source-condition holds**. Future scene assembly must preserve their page-level hold markers and must not invent, regularize or silently omit unresolved wording. The hold set can change only if a stronger rendering, a better scan of the same edition, or another genuinely stronger source witness is explicitly introduced and adjudicated under `STAGE_PLAY_PROCESSING_GUIDE.md`.
