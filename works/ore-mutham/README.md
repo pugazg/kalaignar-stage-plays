@@ -123,6 +123,7 @@ Historical glyphs are decoded by character identity, never global replacement. T
 
 Do not revert prior source-closed corrections, including:
 
+- scan 1 vertical author lettering `மு.கருணாநிதி` (user source adjudication, 2026-09-18); the separate tiny lower-left artist/signature mark remains held;
 - scan 23 `ஏழைகள்!`, `கடித்துத் தின்றுவிடுவார்`, `ஆனா`;
 - scan 36 `மன்னனைக்`;
 - scan 39 `புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`;
