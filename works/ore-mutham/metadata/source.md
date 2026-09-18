@@ -94,7 +94,7 @@ All ten scans close full visual + 13-family gates. Durable forms include `மோ
 
 ### Scans 111–120
 
-Scans **111 and 114–120** close full visual + glyph gates. Scans **112–113** retain explicit source-condition holds. Secure evidence includes `பறைச்சியல்லவா?`, `கொய்யாக்கனி!`, `கலப்புமணம்`, `மக்களாட்சியாக மாற்றுவேன்`, `மன்னராட்சியை ஒழிப்பேன்`, scan 117 `சித்ராவும்`, the complete main-play ending and the start of the separate `நகைச் சுவைப் பகுதி.`
+Scans **111, 113–120** close full visual + glyph gates. Scan **112** retains an explicit source-condition hold. Secure evidence includes `பறைச்சியல்லவா?`, `கொய்யாக்கனி!`, `கலப்புமணம்`, `மக்களாட்சியாக மாற்றுவேன்`, `மன்னராட்சியை ஒழிப்பேன்`, scan 117 `சித்ராவும்`, the complete main-play ending and the start of the separate `நகைச் சுவைப் பகுதி.`
 
 ### Scans 121–131
 
@@ -109,7 +109,7 @@ Scans **111 and 114–120** close full visual + glyph gates. Scans **112–113**
 - **Batch 2:** reviewed `35–36, 38–39, 41–46`; promoted **35, 36, 38, 39, 41, 42, 44, 45, 46**.
 - **Batch 3:** reviewed `47–52, 60–61, 65–66`; promoted **49, 50, 66**.
 - **Batch 4:** reviewed `69, 72–74, 77–79, 88–90`; promoted **78, 89**.
-- **Batch 5:** reviewed `92, 94–95, 98–100, 112–113, 117, 128, 130`; originally promoted **92, 117**; scans **128** and **130** were subsequently user-adjudicated and verified on 2026-09-18.
+- **Batch 5:** reviewed `92, 94–95, 98–100, 112–113, 117, 128, 130`; originally promoted **92, 117**; scans **113, 128, 130** were subsequently user-adjudicated and verified on 2026-09-18.
 
 Every current open page has therefore received at least one residual source re-audit. No residual batch used semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction.
 
@@ -142,9 +142,9 @@ The secure same-edition bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No op
 - page records created/source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - directly confirmed printed pages: **pp.6–128**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- visually verified: **117 / 131**;
-- `needs-review` / source-condition holds: **14 / 131** (`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`);
-- completed historical-glyph passes: **117 / 131**;
+- visually verified: **118 / 131**;
+- `needs-review` / source-condition holds: **13 / 131** (`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112`);
+- completed historical-glyph passes: **118 / 131**;
 - main-play source-visible scene anchors: **30**;
 - supplementary-comedy source-visible scene anchors: **3**;
 - formal structural inventory: **not started**;
@@ -153,4 +153,4 @@ The secure same-edition bank is maintained in `HISTORICAL_GLYPH_AUDIT.md`. No op
 
 ## Exact next source activity
 
-Residual source re-audit is complete for all current open pages. Perform a **terminal residual-hold/source-condition classification and formal structural inventory**: preserve the remaining 14 unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
+Residual source re-audit is complete for all current open pages. Perform a **terminal residual-hold/source-condition classification and formal structural inventory**: preserve the remaining 13 unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
