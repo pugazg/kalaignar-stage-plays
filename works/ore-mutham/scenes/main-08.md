@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [27, 28, 29, 30, 31, 32]
 printed_pages: [25, 26, 27, 28, 29, 30]
-status: "assembly-held"
+status: "assembly-reviewed"
 assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-hold"
-source_condition_scans: [27]
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -16,7 +16,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 இடம்:- முல்லைக்காட்டுப் பகுதி.
 
-[dense parenthetical scene-8 opening stage direction remains held at exact-word level; do not reconstruct it from plot continuity]
+(ஒரு கிராமசந்திரசுற்றுப்புறத்தில் பொன்னியும், அவள் தோழிகளும் கண்ணாமூச்சு ஆடிக் கொண்டிருக்கிறார்கள் பல பல விளையாட்டுகள், பாடலுடன். காலிகள் ஒருபுறமிருந்து இதைக் கவனிக்கிறார்கள் .)
 
 1-வது கா:- ஏய்! இந்தக் குயிலுக்குக் குறி வையுங்கள்!
 
@@ -24,7 +24,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 1-வது கா:- பறந்துவிடப் போகிறாள்.
 
-[closing parenthetical movement direction remains held at exact-word level]
+(பொன்னியின் அருகே நெருங்க, பொன்னி கோஷ்டி வேறு பக்கம் திரும்ப எத்தனிக்க)
 
 <!-- source boundary: scan 27 / p.25 -> scan 28 / p.26 -->
 
@@ -173,7 +173,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ## Assembly provenance
 
 - assembled from canonical Scene-8 segments of `0027.md`–`0032.md`;
-- scan 27 is terminally `blocked`; both Scene-8 hold markers are retained verbatim and no held wording is reconstructed;
+- scan 27 remains globally `blocked` only for an earlier Scene-7 opening parenthetical; both Scene-8 directions on scan 27 are user-adjudicated and source-secure;
 - scan 27 is shared with Scene 7 and scan 32 is shared with Scene 9; only source-visible Scene-8 segments are imported;
 - page boundaries are retained as archival comments; source wording, punctuation, speaker labels and historical spellings are unchanged;
 - no OCR, plot reconstruction, modern spelling, grammar repair or another-edition wording was introduced.
