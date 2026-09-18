@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [41, 42, 43, 44, 45, 46]
 printed_pages: [39, 40, 41, 42, 43, 44]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-hold"
-source_condition_scans: [43]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -62,7 +62,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 சித்ரா:- தெரு நடனக்காரிக்குப் போட்டமோதிரமே, அந்த திவ்ய மோதிரம்.
 
-[ஒரு சிறிய bold parenthetical stage-direction cluster source-ல் உள்ளது; high-resolution / nearest-neighbour / contrast variants-லும் முழு exact wording இன்னும் பாதுகாப்பாகத் தீராததால் held.]
+(விபீஷணன் ஸ்தம்பித்து நின்றதும், இரவு நினைவுகள் சில உருண்டோடுதல், மயக்கம் தெளிந்தவனாய்.)
 
 விபீஷ - ஏமாற்றம்! எங்கே அவள்?
 
@@ -153,7 +153,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ## Assembly provenance
 
 - assembled from canonical Scene-11 segments of `0041.md`–`0046.md`;
-- scan 43 remains terminally `blocked`; its compact bold parenthetical hold is retained verbatim and is not reconstructed;
+- scan 43 is verified; its formerly held compact parenthetical was resolved by user source adjudication on 2026-09-18;
 - scan 46 is shared with Scene 12; Scene 11 ends immediately before source heading `காட்சி 12.`;
 - source wording, punctuation, speaker labels, historical forms and stage-direction notation are unchanged;
 - no OCR expectation, contextual repair, modernization or another-edition completion was used.
