@@ -2,21 +2,16 @@
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
-Status: **TERMINAL CLASSIFICATION COMPLETE — 25 / 25 CURRENT-SOURCE-CONDITION HOLDS CLASSIFIED `blocked`**.
+Status: **TERMINAL CLASSIFICATION COMPLETE — 20 / 20 CURRENT-SOURCE-CONDITION HOLDS CLASSIFIED `blocked`**.
 
 This inventory records only unresolved source loci. It does not authorize contextual completion, modernization, OCR substitution, another-edition import, punctuation normalization or speaker/stage-direction repair. Every listed page has already received direct source review and at least one residual/difficult-reading pass. A `blocked` page may be reopened only if genuinely stronger source evidence becomes available.
 
-The remaining **106 / 131** scans are `verified`; the 25 records below are the complete current terminal hold set.
+The remaining **111 / 131** scans are `verified`; the 20 records below are the complete current terminal hold set.
 
-Post-closure adjudications removed scans **1**, **21**, and **43** from this inventory on 2026-09-18. Scan 1 was closed as `மு.கருணாநிதி` / `Anand`; scan 21's opening direction was closed; scan 43's compact parenthetical was closed as `(விபீஷணன் ஸ்தம்பித்து நின்றதும், இரவு நினைவுகள் சில உருண்டோடுதல், மயக்கம் தெளிந்தவனாய்.)`. Scan 27 remains listed only for its still-unresolved Scene-7 opening parenthetical beyond secure `குமரி வருகை.`.
+Post-closure user adjudications on 2026-09-18 removed scans **1, 21, 27, 43, 47, 48, 51, and 52** from this inventory. Scan 27 is now fully closed, including `(குமரி வருகை. 1-வது காலி விபீஷணனிடம் கூறுதல்.)`. Scans 47–48 and 51–52 are also fully closed from the supplied source readings.
 
 | Scan | Printed page | Section / scene | Exact unresolved locus | Secure surrounding evidence |
 |---:|---:|---|---|---|
-| 27 | 25 | main `காட்சி 7.` close / `காட்சி 8.` opener | Scene-7 opening parenthetical beyond secure `குமரி வருகை.` only. | Scene-7 closing `(இமயா வாயில் கைவைத்து பொத்திக் கொள்கிறான்)` and both Scene-8 directions are user-adjudicated / secure; `காட்சி 8.` / `இடம்:- முல்லைக்காட்டுப் பகுதி.` are secure. |
-| 47 | 45 | main `காட்சி 12.` | One lodging word between `எங்கள்` and `கிட்டத்தான்`. | The lodging invitation and all surrounding dialogue are secure. |
-| 48 | 46 | main `காட்சி 12.` | Two compact stage directions: road/palanquin-to-hut transition after `அதுதான் எங்கள் குடில்.`; `புத்தன்` action toward `சித்ரா` before `குமரி:- இவரு எனக்கு மச்சான் முறைங்க.` | Dramatic action is clear; exact wording remains held. |
-| 51 | 49 | main `காட்சி 12.` close / `காட்சி 13.` | Remainder of the long pre-scene parenthetical after the secure sequence about hiding letters, replacing them with blank scrolls and pretending to sleep. | `காட்சி 13.` / `இடம்: தெருவில்.` are secure. |
-| 52 | 50 | main `காட்சி 13.` close / `காட்சி 14.` | Upper comic/song parenthetical; long scene-14 dawn-stage parenthetical involving `சித்ரா`'s message/pigeon and the waking movements of `குமரி` / `புத்தன்`. | `காட்சி 14.` / `இடம்: புத்தன் முகாம்` are secure. |
 | 60 | 58 | main `காட்சி 16.` | Compact lexical cluster in the opening parenthetical before `புத்தன் நின்ற இடத்தில்`. | Surrounding opening action and dialogue are secure. |
 | 61 | 59 | main `காட்சி 16.` | First interrogative word in the opening `புத்த` line before `பொன்னி!`; one small bracketed stage/song cue near the bottom. | Remaining dialogue and repeated source speaker labels are secure. |
 | 65 | 63 | main `காட்சி 17.` | Historical-type / joining / spacing in the short `மகா` clause around `உமக்கு ஒரு பிரதிநிதி உம்.` after `பிரதிநிதி`. | `ஆசைப்படச் சொன்னார்` is secure. |
@@ -40,4 +35,4 @@ Post-closure adjudications removed scans **1**, **21**, and **43** from this inv
 
 ## Terminal rule
 
-These 25 records are not pending ordinary review. They are **current-source-condition holds**. Future scene assembly must preserve their page-level hold markers and must not invent, regularize or silently omit unresolved wording. The hold set can change only if a stronger rendering, a better scan of the same edition, or another genuinely stronger source witness is explicitly introduced and adjudicated under `STAGE_PLAY_PROCESSING_GUIDE.md`.
+These 20 records are not pending ordinary review. They are **current-source-condition holds**. Future scene assembly must preserve their page-level hold markers and must not invent, regularize or silently omit unresolved wording. The hold set can change only if a stronger rendering, a better scan of the same edition, or another genuinely stronger source witness is explicitly introduced and adjudicated under `STAGE_PLAY_PROCESSING_GUIDE.md`.
