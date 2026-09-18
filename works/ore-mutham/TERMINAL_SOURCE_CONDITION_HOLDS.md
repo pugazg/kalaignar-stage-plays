@@ -10,7 +10,7 @@ The remaining **103 / 131** scans are `verified`; the 28 records below are the c
 
 | Scan | Printed page | Section / scene | Exact unresolved locus | Secure surrounding evidence |
 |---:|---:|---|---|---|
-| 1 | — | front cover | Small stylized white Tamil lettering inside the vertical cover device; tiny lower-left artist/signature mark. | Principal title `ஒரே முத்தம்` is secure. |
+| 1 | — | front cover | Tiny lower-left artist/signature mark only. | Principal title `ஒரே முத்தம்` and vertical author lettering `மு.கருணாநிதி` are secure; author reading user-adjudicated from the source on 2026-09-18. |
 | 21 | 19 | main `காட்சி 6.` | Small bold opening parenthetical stage direction, full exact wording. | `காட்சி 6.` / `இடம்:- முல்லைக்காட்டில் ஒரு வீடு.` and later `(புத்தன் போய்விடுகிறான். ஒருவன் மிருதங்கம் அடிக்கத் துவங்குகிறான்)` are secure. |
 | 27 | 25 | main `காட்சி 7.` close / `காட்சி 8.` opener | Opening parenthetical beyond secure `குமரி வருகை.`; scene-7 closing parenthetical; dense scene-8 opening parenthetical; closing movement parenthetical. | `காட்சி 8.` / `இடம்:- முல்லைக்காட்டுப் பகுதி.` are secure. |
 | 43 | 41 | main `காட்சி 11.` | One compact bold parenthetical stage-direction cluster between the early `சித்ரா` / `விபீஷ` exchange and `விபீஷ - ஏமாற்றம்! எங்கே அவள்?`. | Surrounding dialogue and the later entrance/action block are secure. |
