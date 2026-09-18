@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [52, 53]
 printed_pages: [50, 51]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-hold"
-source_condition_scans: [52]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -16,7 +16,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 இடம்: புத்தன் முகாம்
 
-([வெளிச்சம் / dawn-stage parenthetical: `சித்ரா` எழுதி பயண்படுத்தும்/அனுப்பும் செய்தி, ஒரு புறாவை பாடிக்கொண்டு போகிறாள்/அனுப்புகிறாள், பின்னர் `குமரி`யும் `புத்தன்`உம் விழித்தெழும் அசைவுகள் source-visible; several exact words retained as a source hold])
+(வெளிச்சம். சூரிய உதயமாகிவிட்டது. சித்ரா எழுந்து பயணப்படுகிறாள். சூரிய உதயத்தைக் குறித்து ஒரு துறவி பாடிக்கொண்டு போகிறான். சித்ரா பயணப்படுவதற்கு முன் குமரியும், புத்தனும் பெட்டியைத் திறந்து பார்க்க,அதில் சித்ரா வைத்திருந்த கடிதச் சுருள்களைத் தாங்கள் சேகரித்த உண்மை ஆதாரம் என்று எண்ணி மூடிவிடுகிறார்கள். சித்ரா விடைபெற்றுச் செல்லும் காட்சி மௌனமாகவே நடைபெறுகிறது)
 
 <!-- source boundary: scan 52 / p.50 -> scan 53 / p.51 -->
 
@@ -31,6 +31,6 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ## Assembly provenance
 
 - assembled from canonical Scene-14 segments of `0052.md` and `0053.md`;
-- scan 52 remains terminally `blocked`; the Scene-14 dawn-stage parenthetical hold is retained verbatim;
+- scan 52 is fully verified; the Scene-14 dawn-stage parenthetical was user-adjudicated on 2026-09-18;
 - scan 52 is shared with Scene 13 and scan 53 with Scene 15; only source-visible Scene-14 segments are imported;
-- no exact wording is supplied for the held dawn-stage direction from plot continuity, OCR, grammar, modern spelling or another edition.
+- the resolved wording comes from user source adjudication against the supplied scan; no plot-based reconstruction was used.
