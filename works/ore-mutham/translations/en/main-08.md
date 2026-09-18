@@ -5,18 +5,18 @@ section: "main-play"
 source_scene: "../../scenes/main-08.md"
 source_scan_pages: [27, 28, 29, 30, 31, 32]
 printed_pages: [25, 26, 27, 28, 29, 30]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [27]
+source_condition_scans: []
 ---
 
 # Scene 8
 
 Location: A part of Mullaikadu.
 
-[Source-held: the dense opening parenthetical stage direction remains unresolved at the exact-word level; no wording is reconstructed from plot continuity.]
+(In the surroundings of a village square, Ponni and her friends are playing blindman’s buff, with many different games and songs. The rowdies watch this from one side.)
 
 Guard 1: Hey! Take aim at this cuckoo!
 
@@ -24,7 +24,7 @@ Guard 2: Vibhishanan's favourite bird!
 
 Guard 1: She is going to fly away.
 
-[Source-held: the closing movement direction in this opening sequence remains unresolved at the exact-word level.]
+(As they move closer to Ponni, Ponni’s group tries to turn away in another direction.)
 
 Guard 1: Stop!
 
@@ -163,7 +163,7 @@ Puthan: No need. It is enough if you go. Ponni! I will come.
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-08.md`; no OCR, PDF redrafting, later edition or secondary English witness was used.
-- Scan 27 remains a terminal Tamil source hold. Both opening stage-direction loci remain visibly `Source-held`; no action is invented from surrounding plot.
+- Scan 27 remains globally blocked only for an earlier Scene-7 opening parenthetical. Both Scene-8 directions on scan 27 were user-adjudicated from the supplied scan on 2026-09-18, so Scene 8 is source-secure.
 - Ponni and Malayan are established here as recurring names.
 - The source's explicit anti-caste and anti-untouchability rhetoric is translated directly and retains its repeated reversal of who is truly `untouchable`.
 - `சாதி இரண்டொழிய வேறில்லை` and `ஒன்றே குலமும் ஒருவனே தேவனும்` are rendered by their immediate propositional sense only; no external attribution is inserted into the dramatic body.
