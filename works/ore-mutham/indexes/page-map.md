@@ -6,7 +6,7 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 
 | Scan(s) | Printed page(s) | Section / scene | Status | Source note |
 |---:|---:|---|---|---|
-| 1 | — | front cover | blocked | Principal title secure; tiny stylized/artist marks remain terminal source-condition holds. |
+| 1 | — | front cover | blocked | Principal title and vertical author lettering `மு.கருணாநிதி` secure (user-adjudicated 2026-09-18); only the tiny lower-left artist/signature mark remains held. |
 | 2–20 | — / 6–18 | front matter through `காட்சி 5.` | verified | Full closure PASS; durable scene-location corrections retained. |
 | 21 | 19 | `காட்சி 6.` | blocked | Small bold opening direction remains exact-character held; surrounding text secure. |
 | 22–26 | 20–24 | `காட்சி 6.` / `காட்சி 7.` | verified | Full PASS; includes `புயலைப்போல`, `ஏழைகள்!`, `கடித்துத் தின்றுவிடுவார்`, `ஆனா`, `(2-வது காவியைக் காட்டி)`. |
