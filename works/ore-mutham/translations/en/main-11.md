@@ -5,11 +5,11 @@ section: "main-play"
 source_scene: "../../scenes/main-11.md"
 source_scan_pages: [41, 42, 43, 44, 45, 46]
 printed_pages: [39, 40, 41, 42, 43, 44]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [43]
+source_condition_scans: []
 ---
 
 # Scene 11
@@ -58,7 +58,7 @@ Vibhishanan: (Startled) This ring. (He feels around his fingers, searching.)
 
 Chithra: The very ring you put on the street dancer—that divine ring.
 
-[Source-held: a small bold parenthetical stage-direction cluster is present on scan 43; even after high-resolution review its full exact wording remains unresolved, so no action is reconstructed here.]
+(Vibhishanan stands stunned; a few memories of the night roll past; his daze clears.)
 
 Vibhishanan: Deception! Where is she?
 
@@ -143,7 +143,7 @@ Vibhishanan: (To himself) Nalayini—Savitri! Fine stories that came to mind at 
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-11.md`; no OCR, PDF redrafting, later edition or secondary English witness was used.
-- Scan 43 remains a terminal Tamil source hold. Its compact bold parenthetical is retained as an explicit `Source-held` locus; no stage action is reconstructed.
+- Scan 43 is verified. Its formerly held compact parenthetical was user-adjudicated from the supplied scan on 2026-09-18 and is translated directly here.
 - Rama, Indra, Ahalya, Parandhaman, the Gopika women, Nalayini and Savitri are retained as source allusions without inserting external mythological exposition into the dramatic body.
 - The source's repeated accusations around chastity, marital symbols and betrayal are translated directly, including *thali*, turmeric and forehead mark.
 - `உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்` is kept close to the locked source as `your daring would make the sacrificial altar my swing`; the unusual image is not silently rationalized into a different sentence.
