@@ -5,7 +5,7 @@ section: "main-play"
 source_scan_pages: [27, 28, 29, 30, 31, 32]
 printed_pages: [25, 26, 27, 28, 29, 30]
 status: "assembly-reviewed"
-assembled_from_verified_pages: false
+assembled_from_verified_pages: true
 page_record_fidelity: "passed"
 source_condition_scans: []
 language: "ta"
@@ -173,7 +173,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ## Assembly provenance
 
 - assembled from canonical Scene-8 segments of `0027.md`–`0032.md`;
-- scan 27 remains globally `blocked` only for an earlier Scene-7 opening parenthetical; both Scene-8 directions on scan 27 are user-adjudicated and source-secure;
+- scan 27 is fully verified; both Scene-8 directions were user-adjudicated on 2026-09-18;
 - scan 27 is shared with Scene 7 and scan 32 is shared with Scene 9; only source-visible Scene-8 segments are imported;
 - page boundaries are retained as archival comments; source wording, punctuation, speaker labels and historical spellings are unchanged;
 - no OCR, plot reconstruction, modern spelling, grammar repair or another-edition wording was introduced.
