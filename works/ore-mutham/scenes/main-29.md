@@ -7,7 +7,7 @@ printed_pages: [110, 111, 112, 113, 114, 115]
 status: "assembly-held"
 assembled_from_verified_pages: false
 page_record_fidelity: "passed-with-terminal-source-holds"
-source_condition_scans: [112, 113]
+source_condition_scans: [112]
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -32,7 +32,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 சித்:- இளவரசே! பெண்கள் சமுதாயம் “புருஷனைக் காட்டிக்கொடுத்தவள், காட்டிக் கொடுத்தவள்” என்று தலைமுறை தலைமுறையாக என்னைத் தூற்றும். அதற்கு இதுதான் பிராயச்சித்தம்.
 
-புத்த:- அப்படியானால் [source-held: one exact place/compound word] நீங்கள் தங்குவதற்கு, ஒரு இடம் அமைத்துத் தருகிறேன்.
+புத்த:- அப்படியானால் தலைநகரிலேயே நீங்கள் தங்குவதற்கு, ஒரு இடம் அமைத்துத் தருகிறேன்.
 
 சித்:- சந்நியாசி வேஷத்தில் ஊரை ஏய்ப்பவர்களுக்கெல்லாம் உட்கார்ந்துகொள்ள ஒரு இடம் வேண்டும்! என் மன ஆசைகள் குமுறிக்கொண்டிருக்கும் வரையில், இப்படி அலங்கரித்துக் கொண்டிருக்கிறேன். இளவரசே! ஒரு வேண்டுதல். உங்கள் இருவரையும் ஒன்று சேர்க்க ஓயாது கஷ்டப்பட்டவள் குமரி, அவள் மரணப் படுக்கையில் கிடக்கிறாள். அவளை மறந்து விடாதீர்கள்.
 
@@ -127,7 +127,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ## Assembly provenance
 
 - assembled from canonical Scene-29 segments of `0112.md`–`0117.md`;
-- terminal source-condition scans 112 and 113 retain their two explicit `[source-held: ...]` markers verbatim;
+- scan 112 remains the sole terminal source-condition dependency for the unresolved Scene-29 opening direction; scan 113 is fully verified after user adjudication of `தலைநகரிலேயே` on 2026-09-18;
 - scan 112 is shared with Scene 28 and scan 117 with Scene 30; only source-visible Scene-29 segments are imported;
 - source caste terminology, political terminology, speaker labels, punctuation and stage directions are preserved without normalization;
-- no held opening direction or place/compound word is reconstructed from costume, location, social argument, OCR, grammar or another edition.
+- the scan-113 accommodation word comes from user source adjudication against the supplied scan; the remaining scan-112 opening direction is not reconstructed from costume, location, social argument, OCR, grammar or another edition.
