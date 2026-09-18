@@ -17,10 +17,10 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 | 5 | 19–20 | 19 with Scene 4 | no |
 | 6 | 21–24 | 24 with Scene 7 | no |
 | 7 | 24–27 | 24 with Scene 6; 27 with Scene 8 | **scan 27 — Scene-7 material itself includes held parenthetical wording** |
-| 8 | 27–32 | 27 with Scene 7; 32 with Scene 9 | **scan 27** |
+| 8 | 27–32 | 27 with Scene 7; 32 with Scene 9 | **no Scene-8 unresolved locus**; scan 27 is blocked only for Scene-7 opening text |
 | 9 | 32–37 | 32 with Scene 8; 37 with Scene 10 | no |
 | 10 | 37–40 | 37 with Scene 9 | no |
-| 11 | 41–46 | 46 with Scene 12 | **scan 43** |
+| 11 | 41–46 | 46 with Scene 12 | no |
 | 12 | 46–51 | 46 with Scene 11; 51 with Scene 13 | **scans 47, 48, 51** |
 | 13 | 51–52 | 51 with Scene 12; 52 with Scene 14 | **scan 52**; scan-51 hold belongs to Scene 12 before the Scene-13 anchor |
 | 14 | 52–53 | 52 with Scene 13; 53 with Scene 15 | **scan 52** |
@@ -55,7 +55,7 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 - A globally blocked shared scan does not automatically make both adjacent scene segments unresolved.
 - Main Scene 28 uses the secure pre-`காட்சி 29.` portion of scan 112 without importing the Scene-29 hold.
 - Supplementary Scene 2 uses the secure pre-`காட்சி 3.` portion of scan 128 without importing the Scene-3 hold.
-- Scene 7 does carry a Scene-7-specific hold on scan 27 and therefore remains hold-bearing.
+- Scene 7 carries the sole remaining scan-27 hold and therefore remains hold-bearing; Scene 8 no longer inherits that earlier-scene hold.
 - Scene 23 does not inherit scan 94's later Scene-24 hold.
 - Scene 18 does not inherit scan 72's later Scene-19 hold.
 
@@ -63,18 +63,19 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 
 ### Fully verified physical-page inputs
 
-Main: **1–6, 9–10, 15, 21–22, 27, 30**.
+Main: **1–6, 9–11, 15, 21–22, 27, 30**.
 
 Supplementary: **Scene 1**.
 
 ### Source-secure shared-boundary cases
 
+- main Scene **8** — source-secure Scene-8 segment of globally blocked scan 27;
 - main Scene **28**;
 - supplementary Scene **2**.
 
 ### Hold-bearing scenes
 
-Main: **6–8, 11–14, 16–20, 23–26, 29**.
+Main: **7, 12–14, 16–20, 23–26, 29**.
 
 Supplementary: **Scene 3**.
 
