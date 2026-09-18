@@ -21,7 +21,7 @@ No OCR, controlling PDF, web text, later edition, outside summary or secondary E
 | `main-26.md` | 100–104 | hold-bearing — scan 100 | PASS WITH SOURCE HOLD |
 | `main-27.md` | 104–105 | source-secure | PASS |
 | `main-28.md` | 106–112 | source-secure shared-boundary | PASS |
-| `main-29.md` | 112–117 | hold-bearing — scans 112, 113 | PASS WITH SOURCE HOLDS |
+| `main-29.md` | 112–117 | hold-bearing — scan 112 | PASS WITH SOURCE HOLD |
 | `main-30.md` | 117–118 | source-secure | PASS |
 
 Review checks completed for all five scenes:
@@ -46,7 +46,7 @@ The dense entrance direction remains source-held. English carries only the secur
 
 Scene 27 is fully source-secure. Scene 28 is also source-secure end to end even though transition scan 112 is globally blocked later: the unresolved scan-112 locus belongs only to Scene 29 after the `காட்சி 29.` anchor and is not imported into Scene 28.
 
-### Scene 29 — scans 112, 113
+### Scene 29 — scan 112
 
 The dense Buddhist-nun/garden opening direction remains source-held at exact-word level. The one unresolved place/compound word in Puthan's accommodation line remains explicitly held. No costume, place or action wording is completed from context.
 
