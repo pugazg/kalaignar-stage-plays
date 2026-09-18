@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
-All **131 physical scans** are registered, source-processed and closure-audited. Canonical `pages/*.md` records remain the detailed source-first authority. The earlier secondary-index label `needs-review` has now been reconciled with the terminal classification: all 25 current-source-condition pages are **`blocked`**, not pending ordinary review.
+All **131 physical scans** are registered, source-processed and closure-audited. Canonical `pages/*.md` records remain the detailed source-first authority. The earlier secondary-index label `needs-review` has now been reconciled with the terminal classification: all 20 current-source-condition pages are **`blocked`**, not pending ordinary review.
 
 | Scan(s) | Printed page(s) | Section / scene | Status | Source note |
 |---:|---:|---|---|---|
@@ -10,13 +10,13 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 | 2–20 | — / 6–18 | front matter through `காட்சி 5.` | verified | Full closure PASS; durable scene-location corrections retained. |
 | 21 | 19 | `காட்சி 6.` | verified | Opening direction resolved by user source adjudication on 2026-09-18: `[புத்தன். குமரி, சில வீரர்கள், குமரி தெரு நடனக்காரி வேடத்தில் இருக்கிறாள். வீரர்கள் அவள் சொந்தக்காரர்போல் இருக்கிறார்கள். புத்தன் சாதாரண உடையில் காணப்படுதல்)`. |
 | 22–26 | 20–24 | `காட்சி 6.` / `காட்சி 7.` | verified | Full PASS; includes `புயலைப்போல`, `ஏழைகள்!`, `கடித்துத் தின்றுவிடுவார்`, `ஆனா`, `(2-வது காவியைக் காட்டி)`. |
-| 27 | 25 | `காட்சி 7.` close / `காட்சி 8.` opener | blocked | Only the Scene-7 opening parenthetical beyond secure `குமரி வருகை.` remains held; the Scene-7 closing direction and both Scene-8 directions are user-adjudicated / secure. |
+| 27 | 25 | `காட்சி 7.` close / `காட்சி 8.` opener | verified | All four formerly held directions are user-adjudicated / secure, including `(குமரி வருகை. 1-வது காலி விபீஷணனிடம் கூறுதல்.)`. |
 | 28–42 | 26–40 | `காட்சி 8.` through `காட்சி 11.` | verified | Residual passes closed the former lexical/direction holds; durable forms include `மாறுவதில்லை`, `மன்னனைக்`, `புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`, `அநியாயமாவது அக்கிரமமாவது.`, `பாஷைகளே`. |
 | 43 | 41 | `காட்சி 11.` | verified | Formerly held compact parenthetical resolved by user source adjudication on 2026-09-18: `(விபீஷணன் ஸ்தம்பித்து நின்றதும், இரவு நினைவுகள் சில உருண்டோடுதல், மயக்கம் தெளிந்தவனாய்.)`. |
 | 44–46 | 42–44 | `காட்சி 11.` close / `காட்சி 12.` opener | verified | Durable forms include `அரும்பிலேயே`, `மரண தண்டனை அதற்குத்தீர்ப்பு.`, `உன் சாகசம் என் ஊஞ்சலாக்கும் பலிபீடம்`; `இடம்: ஆற்றோரம்`. |
-| 47–48 | 45–46 | `காட்சி 12.` | blocked | One lodging word and two compact stage directions remain held. |
+| 47–48 | 45–46 | `காட்சி 12.` | verified | User adjudication resolves `ஜாகை`, the palanquin/interior transition, and `[சித்ராவிடம் புத்தனைக்காட்டி]`. |
 | 49–50 | 47–48 | `காட்சி 12.` | verified | `மலரைக் காப்பாற்றினாய்`; source `வெளியில்` / `உள்ளே`; physical inset word breaks preserved. |
-| 51–52 | 49–50 | `காட்சி 12.` close / `காட்சி 13.` / `காட்சி 14.` opener | blocked | Long pre-scene parenthetical plus comic/dawn parentheticals remain terminal holds. |
+| 51–52 | 49–50 | `காட்சி 12.` close / `காட்சி 13.` / `காட்சி 14.` opener | verified | User adjudication closes the full scan-51 letter-swap/sleep parenthetical and both scan-52 comic/dawn parentheticals. |
 | 53–59 | 51–57 | `காட்சி 14.` close / `காட்சி 15.` / `காட்சி 16.` opener | verified | Full PASS; source label variation retained; `இன்னொன்று` secure `னொ` witness. |
 | 60–61 | 58–59 | `காட்சி 16.` | blocked | Opening lexical cluster, interrogative word and bracketed cue remain held. |
 | 62–64 | 60–62 | `காட்சி 16.` close / `காட்சி 17.` | verified | `காலப்பனிபோல்`; physical `அல்` / `லது` boundary preserved. |
@@ -50,10 +50,10 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 - physical scans registered: **131 / 131**;
 - raw source pass: **131 / 131 — COMPLETE**;
 - physical-range closure audit: **131 / 131 — COMPLETE**;
-- visually verified: **106 / 131** — `1–26`, `28–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`;
-- terminal current-source-condition / `blocked`: **25 / 131** — `27`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`;
+- visually verified: **111 / 131** — `1–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`;
+- terminal current-source-condition / `blocked`: **20 / 131** — `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`;
 - ordinary `needs-review`: **0**;
-- historical-glyph PASS: **106 / 131**;
+- historical-glyph PASS: **111 / 131**;
 - main-play source-visible anchors: **30 / 30**;
 - supplementary anchors: **3 / 3**;
 - boundary-aware structural inventory: **COMPLETE**;
@@ -63,7 +63,7 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 
 ## Terminal-status rule
 
-The 25 `blocked` records are not unreviewed. Each has already received direct source review plus difficult-reading/residual review. Their exact unresolved loci are consolidated in `../TERMINAL_SOURCE_CONDITION_HOLDS.md`. Reopen only if genuinely stronger source evidence becomes available. Do not replace terminal wording from OCR expectation, plot continuity, grammar, modern spelling or another edition.
+The 20 `blocked` records are not unreviewed. Each has already received direct source review plus difficult-reading/residual review. Their exact unresolved loci are consolidated in `../TERMINAL_SOURCE_CONDITION_HOLDS.md`. Reopen only if genuinely stronger source evidence becomes available. Do not replace terminal wording from OCR expectation, plot continuity, grammar, modern spelling or another edition.
 
 ## Next activity
 
