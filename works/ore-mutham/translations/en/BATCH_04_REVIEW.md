@@ -18,9 +18,9 @@ No OCR, controlling PDF, web text, later edition, outside summary or secondary E
 
 | English artifact | Tamil source scans | Source condition | Result |
 |---|---:|---|---|
-| `main-16.md` | 59–64 | hold-bearing — scans 60, 61 | PASS WITH SOURCE HOLDS |
-| `main-17.md` | 64–68 | hold-bearing — scan 65 | PASS WITH SOURCE HOLD |
-| `main-18.md` | 68–72 | hold-bearing — scan 69 | PASS WITH SOURCE HOLDS |
+| `main-16.md` | 59–64 | source-secure | PASS |
+| `main-17.md` | 64–68 | source-secure | PASS |
+| `main-18.md` | 68–72 | source-secure boundary case — scan 72 globally blocked only for Scene 19 | PASS |
 | `main-19.md` | 72–75 | hold-bearing — scans 72, 73, 74 | PASS WITH SOURCE HOLDS |
 | `main-20.md` | 75–80 | hold-bearing — scans 77, 79 | PASS WITH SOURCE HOLDS |
 
@@ -40,15 +40,15 @@ Review checks completed for all five scenes:
 
 ### Scene 16 — scans 60, 61
 
-The unresolved lexical cluster in the opening parenthetical, the first interrogative word of a Puthan line, and the small bracketed stage/song cue remain explicit `Source-held` loci. The Shakuntala/Dushyanta sequence is translated only from secure Tamil wording.
+The formerly held scan-60/61 loci were user-adjudicated on 2026-09-18: `முதல்நாள்`, `ஓடுவதா?`, `வீரனாகச் சாகிறேன்`, and `[காதல் கீதம்]`. Scene 16 is now source-secure.
 
 ### Scene 17 — scan 65
 
-The short Mahaveerar clause whose historical-type joining/spacing remains unresolved is carried as `Source-held`. The English does not regularize it from syntax. `ஆசைப்படச் சொன்னார்` and all later trial dialogue remain translated from secure wording.
+The formerly held Mahaveerar clause on scan 65 was user-adjudicated on 2026-09-18. Scene 17 is now source-secure; the unusual syntax remains translated conservatively rather than regularized.
 
 ### Scene 18 — scan 69
 
-The dense place-name cluster before `சிம்மாசனத்தில்` and the consequence clause after `அவைகளை நாம் கைப்பற்றிவிட்டால்` remain unresolved in English. The globally blocked scan 72 does not add a Scene-18 hold because its unresolved locus belongs to Scene 19 after the scene anchor.
+The formerly held scan-69 place-name and consequence clauses were user-adjudicated on 2026-09-18. Scene 18 is now source-secure. The globally blocked scan 72 does not add a Scene-18 hold because its unresolved locus belongs to Scene 19 after the scene anchor.
 
 ### Scene 19 — scans 72, 73, 74
 
@@ -91,7 +91,7 @@ The caste/custom dispute between Malayan and Ponni, the rough-path/love-path ext
 - reviewed: **5 / 5**;
 - cumulative English scene progress after Batch 4: **20 / 33**;
 - cumulative completed batches: **4 / 7**;
-- cumulative source-hold-bearing English scenes completed: **12 / 18**;
+- current source-hold-bearing English scenes in Batch 4: **2** (Scenes 19–20); whole-work current hold-bearing total: **8 / 8**;
 - unresolved blocking English issues: **0**;
 - Tamil source holds resolved by translation: **0**;
 - secondary-English contamination: **0**.
