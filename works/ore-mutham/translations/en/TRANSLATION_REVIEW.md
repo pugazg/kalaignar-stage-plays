@@ -124,7 +124,7 @@ No convention in the English layer silently normalizes or overwrites the Tamil a
 
 **ENGLISH TRANSLATION COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE — 33 / 33 SCENES PRESENT AND REVIEWED; 7 / 7 BATCHES PASS / LOCKED; 18 / 18 HOLD-BEARING SCENES TRANSLATED WITH HOLDS PRESERVED; 0 TAMIL HOLDS RESOLVED BY TRANSLATION; 0 SECONDARY-ENGLISH CONTAMINATION.**
 
-This closure means the independent Tamil→English archival translation workflow is complete for the current closed Tamil scene layer. It does **not** claim that the 28 underlying terminal Tamil source-condition pages have become verified.
+This closure means the independent Tamil→English archival translation workflow is complete for the current closed Tamil scene layer. It does **not** claim that the 27 remaining terminal Tamil source-condition pages have become verified. Scan 1, which was outside the scene layer, was separately verified by user source adjudication on 2026-09-18.
 
 ## 8. Reopening / future-phase rule
 
