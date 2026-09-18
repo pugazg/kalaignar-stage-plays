@@ -122,7 +122,7 @@ Samayochitham: O Panchali Amman! Make my husband tell the truth! If it is true t
 
 ## Translation notes
 
-- Immediate authority: closed Tamil `../../scenes/nagai-suvai-02.md`; the scene is source-secure end to end despite contributing transition scan 128 being globally blocked only after the Scene-3 anchor.
+- Immediate authority: closed Tamil `../../scenes/nagai-suvai-02.md`; the scene is source-secure end to end, and contributing scan 128 is now fully verified after user source adjudication on 2026-09-18.
 - Supplementary numbering remains its own Scene 2, not main Scene 32.
 - The name-puns `Sandhegam` (doubt) and `Adhirshtam` (luck) are retained. Samayochitham's line about praying for `Adhirshtam` deliberately keeps both the person's name and its literal comic sense available.
 - The source insult `சண்டாளி` is carried as `Chandala woman` rather than silently modernized.
