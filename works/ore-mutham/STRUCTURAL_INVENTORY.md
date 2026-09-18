@@ -75,8 +75,8 @@ Supplementary extent: **scans 119–130 / printed pp.117–128**. The section is
 - physical scans represented: **131 / 131**;
 - main-play scene anchors verified structurally: **30 / 30**;
 - supplementary scene anchors verified structurally: **3 / 3**;
-- verified physical scans: **103 / 131**;
-- terminal current-source-condition physical scans: **28 / 131**, all classified `blocked`;
+- verified physical scans: **104 / 131**;
+- terminal current-source-condition physical scans: **27 / 131**, all classified `blocked`;
 - boundary-aware scene-range audit: **COMPLETE**;
 - main scenes assembled and page-record-audited: **1–5 / 30**;
 - supplementary scenes assembled: **0 / 3**;
