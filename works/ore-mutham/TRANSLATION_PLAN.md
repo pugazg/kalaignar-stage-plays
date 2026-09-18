@@ -77,7 +77,7 @@ Future editorial refinement must be explicit and globally consistent; it must no
 
 ## 5. Terminal-source-hold rule — final state
 
-The Tamil closure contains **28 terminal current-source-condition blocked pages** and **18 hold-bearing scene artifacts**.
+The Tamil closure currently contains **27 terminal current-source-condition blocked pages** and **18 hold-bearing scene artifacts**. Scan 1 was subsequently fully verified by user source adjudication on 2026-09-18 and never belonged to the scene layer.
 
 Permanent English rule remains:
 
