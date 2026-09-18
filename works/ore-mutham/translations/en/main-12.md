@@ -5,11 +5,11 @@ section: "main-play"
 source_scene: "../../scenes/main-12.md"
 source_scan_pages: [46, 47, 48, 49, 50, 51]
 printed_pages: [44, 45, 46, 47, 48, 49]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [47, 48, 51]
+source_condition_scans: []
 ---
 
 # Scene 12
@@ -32,7 +32,7 @@ Kumari: Madam! You can go in the morning.
 
 Chithra: I was thinking the same. But where can I stay?
 
-Kumari: Our [Source-held: one source word] is close by, madam. You can stay there. Perhaps you may not like a poor hut.
+Kumari: Our place is nearby, madam. You can stay there. Perhaps you may not like a poor hut.
 
 Chithra: If I worry about such things, will anything get done?
 
@@ -46,13 +46,13 @@ Chithra: What you are doing now is the greater help. Do you know how much I woul
 
 Kumari: All right, come, madam. That is our hut.
 
-[Source-held: after the palanquin departs, the source has a transition into the hut interior; the exact wording of the stage direction remains unresolved.]
+[As the palanquin departs, the scene changes. Inside the camp, Kumari and the others enter while introducing Chithra to Puthan and the others.]
 
 Kumari: This blessed woman is the one who saved me.
 
 Puthan: So you must be Master Vibhishanan's wife. Greetings.
 
-[Source-held: Puthan performs a source-visible action toward Chithra; the exact wording remains unresolved.]
+[Pointing out Puthan to Chithra.]
 
 Kumari: He is my *machan* by relation.
 
@@ -133,13 +133,13 @@ Vibhishanan's Voice and Shadow:
 
 “If you want to see me alive, you must recover the letters.”
 
-[She takes the letters and hides them, places blank rolls of paper in the box, and closes it as before. She lies on the bed pretending to sleep. Source-held: the remainder of this long parenthetical stage direction remains unresolved at the exact-word level.]
+[She takes the letters and hides them, places blank letter-scrolls in the box, and closes it as before. She lies on the bed pretending to sleep. Puthan, Kumari and the others come inside and lie down.]
 
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-12.md`; no OCR, PDF redrafting, later edition or secondary English witness was used.
-- Scene-relevant terminal holds remain on scans 47, 48 and 51. The single held source word in Kumari's lodging line, two held stage actions around the hut transition, and the unresolved remainder of the long scan-51 parenthetical are all carried transparently rather than inferred.
+- Scans 47, 48 and 51 are now verified after user source adjudication on 2026-09-18. The formerly held lodging word, two stage directions and the long scan-51 parenthetical are translated directly from the resolved Tamil.
 - `மச்சான்` is retained as *machan* because the exact kinship sense is context-sensitive and the closed Tamil layer does not authorize a narrower English relation.
 - The peacock/ostrich comparison, gunpowder/fire-water imagery, `pool of poison / spring of love` contrast, and jasmine-flower metaphor are retained rather than flattened into prose explanation.
 - The inset `Vibhishanan's Voice and Shadow` lines are translated as repeated intrusive memories/voices without changing their structural placement.
-- The secure action of replacing the real letters with blank rolls is translated exactly as represented; the held remainder of that direction is not reconstructed.
+- The resolved action of replacing the real letters with blank rolls and the subsequent entry of Puthan, Kumari and the others is translated directly.
