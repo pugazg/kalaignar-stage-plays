@@ -73,7 +73,7 @@ Main:
 - 24 → `[94, 95]`
 - 25 → `[98, 99]`
 - 26 → `[100]`
-- 29 → `[112, 113]`
+- 29 → `[112]`
 
 Source-hold-bearing English scenes reviewed: **7 / 7**.
 
@@ -109,7 +109,7 @@ No convention in the English layer silently normalizes or overwrites the Tamil a
 
 **ENGLISH TRANSLATION COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE — 33 / 33 SCENES PRESENT AND REVIEWED; 7 / 7 BATCHES PASS / LOCKED; 7 / 7 CURRENT HOLD-BEARING SCENES TRANSLATED WITH HOLDS PRESERVED; 0 TAMIL HOLDS RESOLVED BY TRANSLATION; 0 SECONDARY-ENGLISH CONTAMINATION.**
 
-This closure means the independent Tamil→English archival translation workflow is complete for the current closed Tamil scene layer. It does **not** claim that the 14 remaining terminal Tamil source-condition pages have become verified. Scans 1, 21, 27, 43, 47, 48, 51 and 52 were separately verified by user source adjudication on 2026-09-18. Scenes 7, 8, 12–18 and all three supplementary scenes are now source-secure.
+This closure means the independent Tamil→English archival translation workflow is complete for the current closed Tamil scene layer. It does **not** claim that the 13 remaining terminal Tamil source-condition pages have become verified. Scans 1, 21, 27, 43, 47, 48, 51 and 52 were separately verified by user source adjudication on 2026-09-18. Scenes 7, 8, 12–18 and all three supplementary scenes are now source-secure.
 
 ## 8. Reopening / future-phase rule
 
