@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — 131 / 131 SOURCE-PROCESSED; 105 VERIFIED + 26 TERMINAL `blocked`; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY TAMIL SCENES ASSEMBLED; FULL TAMIL SCENE AUDIT PASS 33 / 33; ENGLISH TRANSLATION COMPLETE / CLOSED — 33 / 33 ENGLISH SCENES REVIEWED; 7 / 7 BATCHES PASS / LOCKED; FINAL ENGLISH REVIEW PASS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — 131 / 131 SOURCE-PROCESSED; 106 VERIFIED + 25 TERMINAL `blocked`; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY TAMIL SCENES ASSEMBLED; FULL TAMIL SCENE AUDIT PASS 33 / 33; ENGLISH TRANSLATION COMPLETE / CLOSED — 33 / 33 ENGLISH SCENES REVIEWED; 7 / 7 BATCHES PASS / LOCKED; FINAL ENGLISH REVIEW PASS.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -48,17 +48,17 @@ Supplementary scenes remain source-numbered **1–3**, never main scenes 31–33
 
 ## Final physical-page state
 
-Verified scans — **105 / 131**:
+Verified scans — **106 / 131**:
 
-`1–26`, `28–42`, `44–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`.
+`1–26`, `28–46`, `49–50`, `53–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`.
 
-Terminal current-source-condition / `blocked` scans — **26 / 131**:
+Terminal current-source-condition / `blocked` scans — **25 / 131**:
 
-`27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
+`27`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
 
 Ordinary `needs-review`: **0**.
 
-All 26 terminal records were directly reviewed and received difficult-reading/residual escalation. They are not pending ordinary review. Reopen only with genuinely stronger source evidence.
+All 25 terminal records were directly reviewed and received difficult-reading/residual escalation. They are not pending ordinary review. Reopen only with genuinely stronger source evidence.
 
 ## Tamil scene layer — COMPLETE
 
@@ -71,15 +71,13 @@ Total: **33 / 33**.
 
 Assembly classes:
 
-- fully verified-input scenes: **14** — main `1–6, 9–10, 15, 21–22, 27, 30` + supplementary 1;
-- source-secure shared-boundary scenes: **2** — main 28 and supplementary 2;
-- hold-bearing scenes: **17** — main `7–8, 11–14, 16–20, 23–26, 29` + supplementary 3.
+- fully verified-input scenes: **15** — main `1–6, 9–11, 15, 21–22, 27, 30` + supplementary 1;
+- source-secure shared-boundary scenes: **3** — main 8, main 28 and supplementary 2;
+- hold-bearing scenes: **15** — main `7, 12–14, 16–20, 23–26, 29` + supplementary 3.
 
 Scene-relevant terminal dependencies:
 
 - 7 → `27`
-- 8 → `27`
-- 11 → `43`
 - 12 → `47, 48, 51`
 - 13 → `52`
 - 14 → `52`
@@ -95,7 +93,7 @@ Scene-relevant terminal dependencies:
 - 29 → `112, 113`
 - supplementary 3 → `128, 130`.
 
-All **26 remaining blocked physical scans** are scene-relevant and remain traceable through scene files. Scans 1 and 21 are now fully verified after user adjudication on 2026-09-18; scan 21 resolves Scene 6's opening direction.
+All **25 remaining blocked physical scans** are scene-relevant and remain traceable through scene files. Scans 1, 21 and 43 are now fully verified after user adjudication on 2026-09-18; scan 27 remains blocked only for Scene 7 while Scene 8 is source-secure.
 
 `SCENE_ASSEMBLY_AUDIT.md`: **PASS — 33 / 33**.
 
@@ -124,6 +122,8 @@ Do not revert prior source-closed corrections, including:
 
 - scan 1 vertical author lettering `மு.கருணாநிதி` and lower-left artist/signature `Anand` (user source adjudication, 2026-09-18); scan 1 is fully verified;
 - scan 21 Scene-6 opening direction `[புத்தன். குமரி, சில வீரர்கள், குமரி தெரு நடனக்காரி வேடத்தில் இருக்கிறாள். வீரர்கள் அவள் சொந்தக்காரர்போல் இருக்கிறார்கள். புத்தன் சாதாரண உடையில் காணப்படுதல்)` (user source adjudication, 2026-09-18); scan 21 is fully verified;
+- scan 27 Scene-7 closing `(இமயா வாயில் கைவைத்து பொத்திக் கொள்கிறான்)` plus both Scene-8 directions user-adjudicated on 2026-09-18; only the separate Scene-7 opening parenthetical remains held;
+- scan 43 `(விபீஷணன் ஸ்தம்பித்து நின்றதும், இரவு நினைவுகள் சில உருண்டோடுதல், மயக்கம் தெளிந்தவனாய்.)` user-adjudicated on 2026-09-18; scan 43 is fully verified;
 - scan 23 `ஏழைகள்!`, `கடித்துத் தின்றுவிடுவார்`, `ஆனா`;
 - scan 36 `மன்னனைக்`;
 - scan 39 `புயல்காற்றைப் புருஷனாகப் பெற்றிருக்கும்`;
@@ -163,9 +163,9 @@ Do not revert prior source-closed corrections, including:
 
 Work-level state:
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 26 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 25 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
 
-This state is deliberately different from “131/131 verified”: **105** pages are verified; **26** remain terminally blocked by current source condition. Every page/scene has been processed, every difficult locus revisited, every remaining ambiguity explicitly documented, and no ambiguity fabricated away.
+This state is deliberately different from “131/131 verified”: **106** pages are verified; **25** remain terminally blocked by current source condition. Every page/scene has been processed, every difficult locus revisited, every remaining ambiguity explicitly documented, and no ambiguity fabricated away.
 
 ## Reopening rule
 
@@ -199,7 +199,7 @@ English closure metrics:
 
 - expected / present / reviewed scene artifacts: **33 / 33**;
 - completed batches: **7 / 7**;
-- source-hold-bearing English scenes completed: **17 / 17**;
+- source-hold-bearing English scenes completed: **15 / 15**;
 - Tamil terminal holds resolved by translation: **0**;
 - unresolved blocking English issues: **0**;
 - secondary-English witness contamination: **0**.
