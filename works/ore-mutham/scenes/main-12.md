@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [46, 47, 48, 49, 50, 51]
 printed_pages: [44, 45, 46, 47, 48, 49]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-holds"
-source_condition_scans: [47, 48, 51]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -34,7 +34,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 சித்ரா:- நானும் அதைத்தான் நினைத்தேன். ஆனால் தங்குவது?
 
-குமரி:- எங்கள் [ஒரு source word held] கிட்டத்தான் இருக்கும்மா. அங்கே தங்கலாம். ஒருவேளை ஏழைக் குடிசை உங்களுக்குப் பிடிக்காது.
+குமரி:- எங்கள் ஜாகை கிட்டத்தான் இருக்கும்மா. அங்கே தங்கலாம். ஒருவேளை ஏழைக் குடிசை உங்களுக்குப் பிடிக்காது.
 
 சித்ரா:- அதெல்லாம் பார்த்தால் காரியம் நடக்குமா?
 
@@ -50,13 +50,13 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 குமரி:- சரி புறப்படுங்கள் அம்மா. அதுதான் எங்கள் குடில்.
 
-[பல்லக்குப் புறப்பட்ட பின் திரைமாற்றம் / குடில்-உட்புறம் செல்லும் source stage direction; exact wording held]
+[பல்லக்குப் புறப்படவே திரைமாறுகிறது.முகாம் உட்புறம் புத்தனுக்கும், மற்றவர்களுக்கும் சித்ராவை அறிமுகப்படுத்திக் கொண்டே குமரி முதலியோர் வருதல்]
 
 குமரி:- இந்தப் புண்ணியவதிதான் என்னைக் காப்பாத்தினங்க.
 
 புத்த:- விபீஷண எஜமானுடைய மனைவியாவார்க்கும். வணக்கமுங்க.
 
-[சித்ராவிடம் புத்தன் காட்டும் source stage action; exact wording held]
+[சித்ராவிடம் புத்தனைக்காட்டி]
 
 குமரி:- இவரு எனக்கு மச்சான் முறைங்க.
 
@@ -144,12 +144,12 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 “என்னை உயிரோடு காணவேண்டுமானால். கடிதங்களை மீண்டும் கைப்பற்றியாகவேண்டும்”
 
-[கடிதங்களை எடுத்து ஒளித்துப் பெட்டியில் வெற்றுக் கடிதச் சுருள்களை வைத்துவிட்டு, பெட்டியை முன்போல் மூடிவிடுகிறாள். படுக்கையில் படுத்துத் தூங்குவது போல் பாசாங்கு செய்கிறாள். [remainder of this long parenthetical retained as an exact-word source hold]]
+[கடிதங்களை எடுத்து ஒளித்துப் பெட்டியில் வெற்றுக் கடிதச்சுருள்களை வைத்துவிட்டு, பெட்டியை முன்போல் மூடிவிடுகிறாள். படுக்கையில் படுத்துத் தூங்குவதுபோல் பாசாங்கு செய்கிறாள். புத்தன் குமரி முதலியோர் உள் வந்து படுக்கிறார்கள்]
 
 ## Assembly provenance
 
 - assembled from canonical Scene-12 segments of `0046.md`–`0051.md`;
-- scene-relevant terminal source-condition scans are 47, 48 and 51; every held marker is retained exactly as represented in the page layer;
+- scans 47, 48 and 51 are fully verified after user source adjudication on 2026-09-18; no Scene-12 source hold remains;
 - scan 46 is shared with Scene 11 and scan 51 with Scene 13; only source-visible Scene-12 segments are imported;
 - the printed line-breaking in the `விபீஷணன் குரலும் நிழலும்` inset on scan 50 is preserved;
-- no held wording was inferred from dramatic action, conversational sense, OCR, grammar, modern spelling or another edition.
+- the resolved wording comes from user source adjudication against the supplied scans; no contextual reconstruction was used.
