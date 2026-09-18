@@ -36,22 +36,22 @@ This is the work-level closure gate required by `STAGE_PLAY_PROCESSING_GUIDE.md`
 
 Current physical-page state:
 
-- `verified`: **111 / 131**;
-- terminal current-source-condition `blocked`: **20 / 131**;
+- `verified`: **115 / 131**;
+- terminal current-source-condition `blocked`: **16 / 131**;
 - ordinary `needs-review`: **0**.
 
 Terminal scans:
 
-`60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
+`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
 
-All 20 remaining blocked scans have already received direct source inspection plus difficult-reading/residual review. They are not queued for ordinary re-review. Reopen only if genuinely stronger source evidence appears.
+All 16 remaining blocked scans have already received direct source inspection plus difficult-reading/residual review. They are not queued for ordinary re-review. Reopen only if genuinely stronger source evidence appears.
 
 ### Page map matches repository state — PASS
 
 `indexes/page-map.md` has been reconciled from stale `needs-review` labels to the canonical terminal `blocked` classification:
 
-- verified **111**;
-- blocked **20**;
+- verified **115**;
+- blocked **16**;
 - needs-review **0**;
 - structural inventory **complete**;
 - Tamil scene assembly **33 / 33 complete**.
@@ -67,22 +67,19 @@ Scene inventory is exactly:
 
 Assembly classes:
 
-- source-secure scenes: **22 / 33**;
-- hold-bearing scenes: **11 / 33**.
+- source-secure scenes: **25 / 33**;
+- hold-bearing scenes: **8 / 33**.
 
-Hold-bearing main scenes: **16–20, 23–26, 29**.
+Hold-bearing main scenes: **19–20, 23–26, 29**.
 
 Hold-bearing supplementary scene: **3**.
 
 ### Terminal-hold traceability — PASS
 
-All **20** remaining blocked physical scans are traceable through the scene layer wherever their unresolved locus is scene-relevant. Scans **1, 21, 27, 43, 47, 48, 51, and 52** are no longer blocked after user source adjudication on 2026-09-18. Scenes 7, 8, 12, 13 and 14 are now source-secure.
+All **16** remaining blocked physical scans are traceable through the scene layer wherever their unresolved locus is scene-relevant. Scans **1, 21, 27, 43, 47, 48, 51, and 52** are no longer blocked after user source adjudication on 2026-09-18. Scenes 7, 8, 12, 13 and 14 are now source-secure.
 
 Scene dependency map:
 
-- 16 → `60, 61`
-- 17 → `65`
-- 18 → `69`
 - 19 → `72, 73, 74`
 - 20 → `77, 79`
 - 23 → `88, 90`
@@ -92,7 +89,7 @@ Scene dependency map:
 - 29 → `112, 113`
 - supplementary 3 → `128, 130`.
 
-Shared globally blocked pages whose unresolved locus belongs only to the following scene remain correctly segment-scoped: Scene 28 does not inherit Scene-29 scan-112 holds; supplementary Scene 2 does not inherit Scene-3 scan-128 holds; Scene 23 does not inherit Scene-24 scan-94 holds; Scene 18 does not inherit Scene-19 scan-72 holds.
+Shared globally blocked pages whose unresolved locus belongs only to the following scene remain correctly segment-scoped: Scene 18 does not inherit Scene-19 scan-72 holds; Scene 28 does not inherit Scene-29 scan-112 holds; supplementary Scene 2 does not inherit Scene-3 scan-128 holds; Scene 23 does not inherit Scene-24 scan-94 holds.
 
 ### No silent normalization — PASS
 
@@ -108,7 +105,7 @@ The controlling PDF is recorded by identity/checksum but is not committed.
 
 ## Work-level Tamil release state
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 20 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 16 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
 
 This means:
 
@@ -119,7 +116,7 @@ This means:
 - every surviving ambiguity is explicitly marked and traceable;
 - no remaining terminal ambiguity has been converted into invented text.
 
-It does **not** mean all 131 scans are `verified`: 111 are verified and 20 remain `blocked` by current source condition.
+It does **not** mean all 131 scans are `verified`: 115 are verified and 16 remain `blocked` by current source condition.
 
 ## Reopening rule
 
