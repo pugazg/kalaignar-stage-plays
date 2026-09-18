@@ -43,7 +43,6 @@ These use `status: "assembly-reviewed"`, `assembled_from_verified_pages: true`, 
 
 - main Scene **18** — secure pre-`காட்சி 19.` segment of blocked scan 72;
 - main Scene **28** — secure pre-`காட்சி 29.` segment of blocked scan 112;
-- supplementary Scene **2** — secure pre-`காட்சி 3.` segment of blocked scan 128.
 
 These use `assembled_from_verified_pages: false`, `page_record_fidelity: "passed"`, `source_condition_scans: []`, with explicit boundary-only provenance.
 
