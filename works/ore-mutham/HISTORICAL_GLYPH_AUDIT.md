@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **RESIDUAL RE-AUDIT COMPLETE — 115 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 16 RETAIN EXPLICIT SOURCE-CONDITION TEXT/GLYPH HOLDS**
+Status: **RESIDUAL RE-AUDIT COMPLETE — 117 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 14 RETAIN EXPLICIT SOURCE-CONDITION TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -198,8 +198,8 @@ Eight pages PASS / verified: **111, 114–120**. Scans **112–113** remain open
 ### Scans 121–131
 
 - scans **121–127**, **129**, **131** PASS / verified;
-- scan **128** remains open only on the dense `காட்சி 3.` opening parenthetical; `என் கொலப் பெருமையே போச்சு!` and `இடம்:- சந்தேகம் வீடு.` are secure;
-- scan **130** remains open on the dense concluding action parenthetical and final bracketed epilogue; printed p.128 and the dramatic-text endpoint are secure;
+- scan **128** is now PASS / verified after user source adjudication of the full supplementary `காட்சி 3.` opening parenthetical on 2026-09-18;
+- scan **130** is now PASS / verified after user source adjudication of the concluding action parenthetical and final bracketed epilogue on 2026-09-18;
 - scan 131 closes the complete publisher catalogue/prices/imprint and supplies later `னொ` witness `மின்னொளி`.
 
 ## Residual-hold re-audit — batch 1
@@ -244,7 +244,7 @@ Reviewed scans **69, 72–74, 77–79, 88–90** directly from the controlling s
 Reviewed scans **92, 94–95, 98–100, 112–113, 117, 128, 130** directly from the controlling source.
 
 - promoted: **92, 117** — **2 pages**;
-- remain open from this batch: **94–95, 98–100, 112–113, 128, 130**;
+- scans **128** and **130** were subsequently user-adjudicated and verified on 2026-09-18; remain open from this batch: **94–95, 98–100, 112–113**;
 - scan 92 closes the sword-action parenthetical **`(விபீஷணன் வாளை உருவிப் பொன்னியின் மேல் வீசுந்தோரணையில் நின்றுகொண்டு)`**;
 - scan 117 closes the scene-30 opening cluster as **`சித்ராவும்`**;
 - no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
@@ -254,11 +254,11 @@ Reviewed scans **92, 94–95, 98–100, 112–113, 117, 128, 130** directly from
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- full historical-glyph passes: **115 / 131** (`1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`);
-- visually verified: **115 / 131**;
-- `needs-review`: **16 / 131** (`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
+- full historical-glyph passes: **117 / 131** (`1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–131`);
+- visually verified: **117 / 131**;
+- `needs-review`: **14 / 131** (`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Every current `needs-review` page has now received at least one residual re-audit directly against the controlling source. Next, perform a **terminal residual-hold/source-condition classification and formal structural inventory**: retain the remaining **16** exact unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
+Every current `needs-review` page has now received at least one residual re-audit directly against the controlling source. Next, perform a **terminal residual-hold/source-condition classification and formal structural inventory**: retain the remaining **14** exact unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
