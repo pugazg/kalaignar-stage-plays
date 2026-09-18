@@ -5,18 +5,18 @@ section: "main-play"
 source_scene: "../../scenes/main-16.md"
 source_scan_pages: [59, 60, 61, 62, 63, 64]
 printed_pages: [57, 58, 59, 60, 61, 62]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [60, 61]
+source_condition_scans: []
 ---
 
 # Scene 16
 
 Location: The same place where Ponni and Puthan met before.
 
-(Puthan comes searching for Ponni. Ponni too comes with Puthan in her thoughts. Neither notices the other. Ponni [Source-held: one small lexical cluster in the opening stage direction remains unresolved] stands where Puthan had stood and lets out a deep sigh. Unexpectedly they see each other and become embarrassed by what they were doing.)
+(Puthan comes searching for Ponni. Ponni too comes with Puthan in her thoughts. Neither notices the other. Ponni stands where Puthan had stood the previous day and lets out a deep sigh. Unexpectedly they see each other and become embarrassed by what they were doing.)
 
 Puthan: Ponni!
 
@@ -38,7 +38,7 @@ Puthan: Ponni! Your game has gone to waste. See—I am aiming a spear at my ches
 
 Ponni: Ah! Run here. (She suffers anxiously.)
 
-Puthan: [Source-held: the first interrogative word in this line remains unresolved] Ponni! I will die taking the spear in my chest. I will not show my back—(toward the bushes) Hmm.... stab! Why are you frightening me? Your spear will split my heart, that is all! Hmm...... throw it. Let me die as a warrior. (Ponni, startled, cries “Ayyo!” and runs to seize Puthan; Puthan bursts into thunderous laughter.)
+Puthan: Run away? Ponni! I will die taking the spear in my chest. I will not show my back—(toward the bushes) Hmm.... stab! Why are you frightening me? Your spear will split my heart, that is all! Hmm...... throw it. I will die as a warrior. (Ponni, startled, cries “Ayyo!” and runs to seize Puthan; Puthan bursts into thunderous laughter.)
 
 Puthan: One lie has sprouted into three lies!
 
@@ -60,7 +60,7 @@ Puthan: It is natural for the eyelids to protect the eye;
 
 Ponni: And natural for a spear striking the eyelid to strike the eye too.
 
-[Source-held: a small bracketed stage/song cue on scan 61 remains unresolved at exact-word level.]
+[Love song]
 
 Puthan: Ponni....
 
@@ -127,7 +127,7 @@ Puthan: Am I blind like Dushyanta? Or a traitor? Even if the ring disappears, yo
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-16.md`; no OCR, PDF redrafting, later edition or secondary English witness was used.
-- Scan 60 retains one unresolved lexical cluster in the opening parenthetical. Scan 61 retains the first interrogative word of a Puthan line and a small stage/song cue. All three loci remain visibly `Source-held` and are not reconstructed.
+- Scans 60 and 61 are now verified after user source adjudication on 2026-09-18. The formerly held `முதல்நாள்`, `ஓடுவதா?`, and `[காதல் கீதம்]` loci are translated directly.
 - The romance imagery—eye/eyelid, bell/sound, dam/sacrifice, veena/music and pond/stillness—is translated directly rather than summarized.
 - `கணையாழி` is rendered `ring`, consistent with the already established dramatic use of rings in this English layer.
 - Shakuntala and Dushyanta are retained as source allusions without external explanation in the dramatic body.
