@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **RESIDUAL RE-AUDIT COMPLETE — 111 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 20 RETAIN EXPLICIT SOURCE-CONDITION TEXT/GLYPH HOLDS**
+Status: **RESIDUAL RE-AUDIT COMPLETE — 115 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 16 RETAIN EXPLICIT SOURCE-CONDITION TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -164,8 +164,9 @@ After residual-hold batches 2–3:
 After residual-hold batches 3–4:
 
 - verified: scans **62–64, 66–68, 70–71, 75–76, 78, 80**;
-- open: scans **61, 65, 69, 72–74, 77, 79**;
-- scan 65 retains source-secure `ஆசைப்படச் சொன்னார்`, but one short historical-type/spacing clause remains open;
+- scans **60, 61, 65, 69** are now PASS / verified after user source adjudication on 2026-09-18;
+- open: scans **72–74, 77, 79**;
+- scan 65 is fully closed; source-secure `ஆசைப்படச் சொன்னார்` remains retained and the historical-type/spacing clause is user-adjudicated;
 - scan 66 closes **`ஹ ஹ ஹா!`** and **`சிங்கநாகன்`**;
 - scan 78 closes the formerly held lexical cluster as **`வெளிநாட்டுக்`** and supplies secure `அணையாத` for `ணை` comparison;
 - durable corrections/resolutions remain `காலப்பனிபோல்`, `வேம்பொடு`, `வாழ்க இந்நாட்டு வளம்!`, `ஆலகாலமா?`;
@@ -222,7 +223,7 @@ Reviewed scans **35–36, 38–39, 41–46** with stronger source renderings.
 Reviewed scans **47–52, 60–61, 65–66** directly from the controlling source.
 
 - promoted: **49, 50, 66** — **3 pages**;
-- remain open from this batch: **60, 61, 65**; scans **47, 48, 51, 52** were subsequently user-adjudicated and verified on 2026-09-18;
+- scans **47, 48, 51, 52, 60, 61, 65** were subsequently user-adjudicated and verified on 2026-09-18;
 - scan 49 closes `மலரைக் காப்பாற்றினாய்` within a full-page PASS;
 - scan 50 closes the complete inset / inside-outside page with physical line-breaking preserved;
 - scan 66 closes source **`ஹ ஹ ஹா!`** and **`சிங்கநாகன்`**;
@@ -233,7 +234,7 @@ Reviewed scans **47–52, 60–61, 65–66** directly from the controlling sourc
 Reviewed scans **69, 72–74, 77–79, 88–90** directly from the controlling source.
 
 - promoted: **78, 89** — **2 pages**;
-- remain open from this batch: **69, 72–74, 77, 79, 88, 90**;
+- scan **69** was subsequently user-adjudicated and verified on 2026-09-18; remain open from this batch: **72–74, 77, 79, 88, 90**;
 - scan 78 resolves **`வெளிநாட்டுக்`**;
 - scan 89 resolves **`(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`**;
 - no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
@@ -253,11 +254,11 @@ Reviewed scans **92, 94–95, 98–100, 112–113, 117, 128, 130** directly from
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- full historical-glyph passes: **111 / 131** (`1–59`, `62–64`, `66–68`, `70–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`);
-- visually verified: **111 / 131**;
-- `needs-review`: **20 / 131** (`60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
+- full historical-glyph passes: **115 / 131** (`1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–127`, `129`, `131`);
+- visually verified: **115 / 131**;
+- `needs-review`: **16 / 131** (`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`);
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
 
-Every current `needs-review` page has now received at least one residual re-audit directly against the controlling source. Next, perform a **terminal residual-hold/source-condition classification and formal structural inventory**: retain the remaining **20** exact unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
+Every current `needs-review` page has now received at least one residual re-audit directly against the controlling source. Next, perform a **terminal residual-hold/source-condition classification and formal structural inventory**: retain the remaining **16** exact unresolved loci explicitly, verify the **30 main-play + 3 supplementary scene anchors** against the page map, and prepare the scene-assembly plan without changing source text. Do not begin English translation.
