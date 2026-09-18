@@ -5,11 +5,11 @@ section: "main-play"
 source_scene: "../../scenes/main-07.md"
 source_scan_pages: [24, 25, 26, 27]
 printed_pages: [22, 23, 24, 25]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [27]
+source_condition_scans: []
 ---
 
 # Scene 7
@@ -78,7 +78,7 @@ Vibhishanan: Imaya! This is the very policy of the old Vibhishana!
 
 Imaya: A good policy. A policy the country needs.
 
-[Source-held: Kumari's entrance is secure; the remainder of the small bold opening stage direction on scan 27 remains unresolved at the exact-word level.]
+(Kumari enters. Guard 1 tells Vibhishanan.)
 
 Imaya: What is the secret?
 
@@ -99,7 +99,7 @@ Imaya: I am not speaking.
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-07.md`; no OCR, PDF redrafting, later edition or secondary English witness was used.
-- Scan 27 remains a terminal Tamil source hold only for the opening parenthetical beyond secure Kumari entrance wording. The Scene-7 closing direction is now source-secure after user adjudication on 2026-09-18.
+- Scan 27 is fully verified. The formerly held Scene-7 opening and closing directions were user-adjudicated from the supplied scan on 2026-09-18 and are translated directly here.
 - The source's explicit strategy of caste division in the name of God is translated directly and not neutralized.
 - `கள்ளையும், சாராயத்தையும் கலக்க` is retained as the literal political metaphor `mix toddy and arrack` rather than replaced by an explanatory paraphrase.
 - `பழைய விபீஷணர்` is rendered `the old Vibhishana`, preserving the source's treachery allusion without adding external exposition to the dramatic body.
