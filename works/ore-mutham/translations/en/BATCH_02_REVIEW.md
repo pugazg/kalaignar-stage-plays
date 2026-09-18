@@ -18,7 +18,7 @@ No OCR, controlling PDF, web text, later edition, outside summary or secondary E
 
 | English artifact | Tamil source scans | Source condition | Result |
 |---|---:|---|---|
-| `main-06.md` | 21–24 | hold-bearing — scan 21 | PASS WITH SOURCE HOLD |
+| `main-06.md` | 21–24 | source-secure | PASS |
 | `main-07.md` | 24–27 | hold-bearing — scan 27 | PASS WITH SOURCE HOLDS |
 | `main-08.md` | 27–32 | hold-bearing — scan 27 | PASS WITH SOURCE HOLDS |
 | `main-09.md` | 32–37 | source-secure | PASS |
@@ -40,7 +40,7 @@ Review checks completed for all five scenes:
 
 ### Scene 6 — scan 21
 
-The unresolved opening parenthetical remains an explicit English `Source-held` marker. No provisional action is supplied. Secure dialogue and stage action from scans 21–24 are translated normally.
+Scan 21 was subsequently resolved by user source adjudication against the supplied scan on 2026-09-18. The opening direction is now source-secure in Tamil and translated directly in `main-06.md`; Scene 6 no longer carries a source hold.
 
 ### Scene 7 — scan 27
 
@@ -98,7 +98,7 @@ In addition to Batch-1 choices, stable unless later review explicitly refines th
 - present: **5 / 5**;
 - reviewed: **5 / 5**;
 - total English scene progress: **10 / 33**;
-- source-hold-bearing English scenes completed: **3 / 18**;
+- source-hold-bearing English scenes completed in this batch: **2**; whole-work current hold-bearing total: **17 / 17**;
 - unresolved blocking English issues: **0**;
 - Tamil source holds resolved by translation: **0**;
 - secondary-English contamination: **0**.
