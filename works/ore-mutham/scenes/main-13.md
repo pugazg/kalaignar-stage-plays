@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [51, 52]
 printed_pages: [49, 50]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-hold"
-source_condition_scans: [52]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -32,7 +32,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 2 வது கா:- அவங்கள்லாம் கடவுளுடா? பொம்பளையாவும் மாறுவாங்க, புள்ளையும் பெறுவாங்க!
 
-([source-visible comic/song parenthetical substantially legible; exact wording retained for second pass])
+(கடவுள்கள். விஷ்ணு, நாரதர் பெண்களாய் மாறிப் பிள்ளைபெற்ற கதை 1-வது காலி பாட 2-வது காலி பின்பாட்டுப் பாட கும்மாளமடித்துக்கொண்டே செல்லல்)
 
 2 வது கா:- ஏய்! அதோ அந்தக் குடிசையில் விளக்குத் தெரியுது!
 
@@ -45,7 +45,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ## Assembly provenance
 
 - assembled from canonical Scene-13 segments of `0051.md` and `0052.md`;
-- scan 52 remains terminally `blocked`; the Scene-13 comic/song parenthetical hold is retained verbatim;
+- scan 52 is fully verified; the Scene-13 comic/song parenthetical was user-adjudicated on 2026-09-18;
 - the separate scan-51 terminal hold belongs to Scene 12 before the `காட்சி 13.` anchor and is not imported here;
 - scan 52 is shared with Scene 14; Scene 13 ends immediately before source heading `காட்சி 14.`;
-- no held wording was completed from comedy context, OCR, grammar, modern spelling or another edition.
+- the resolved wording comes from user source adjudication against the supplied scan; no contextual completion was used.
