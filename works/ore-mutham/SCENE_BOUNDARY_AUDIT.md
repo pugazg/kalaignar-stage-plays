@@ -38,7 +38,7 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 | 26 | 100–104 | 104 with Scene 27 | **scan 100** |
 | 27 | 104–105 | 104 with Scene 26 | no |
 | 28 | 106–112 | 112 with Scene 29 | **no Scene-28 unresolved locus**; scan 112 is blocked only for Scene-29 text after the Scene-29 anchor |
-| 29 | 112–117 | 112 with Scene 28; 117 with Scene 30 | **scans 112, 113** |
+| 29 | 112–117 | 112 with Scene 28; 117 with Scene 30 | **scan 112** |
 | 30 | 117–118 | 117 with Scene 29 | no |
 
 ## Supplementary `நகைச் சுவைப் பகுதி.` boundary-aware ranges
