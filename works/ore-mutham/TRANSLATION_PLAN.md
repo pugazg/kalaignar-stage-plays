@@ -77,7 +77,7 @@ Future editorial refinement must be explicit and globally consistent; it must no
 
 ## 5. Terminal-source-hold rule — final state
 
-The Tamil closure currently contains **27 terminal current-source-condition blocked pages** and **18 hold-bearing scene artifacts**. Scan 1 was subsequently fully verified by user source adjudication on 2026-09-18 and never belonged to the scene layer.
+The Tamil closure currently contains **26 terminal current-source-condition blocked pages** and **17 hold-bearing scene artifacts**. Scans 1 and 21 were subsequently fully verified by user source adjudication on 2026-09-18. Scan 1 never belonged to the scene layer; scan 21 resolution makes Scene 6 source-secure.
 
 Permanent English rule remains:
 
@@ -89,7 +89,7 @@ Permanent English rule remains:
 
 Final result:
 
-- hold-bearing English scenes reviewed: **18 / 18**;
+- hold-bearing English scenes reviewed: **17 / 17**;
 - Tamil terminal holds resolved through translation: **0**.
 
 Source-secure shared-boundary main Scene 28 and supplementary Scene 2 remain source-secure because their globally blocked transition-page loci belong only to the following scenes.
@@ -143,7 +143,7 @@ The penultimate iteration completed main **16–25** as Batches 4–5. The final
 - main: **30 / 30**;
 - supplementary: **3 / 3**;
 - batches: **7 / 7 PASS / LOCKED**;
-- hold-bearing English scenes: **18 / 18**;
+- hold-bearing English scenes: **17 / 17**;
 - unresolved blocking English issues: **0**;
 - Tamil source holds resolved by English translation: **0**;
 - secondary-English contamination: **0**.
