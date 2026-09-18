@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — 131 / 131 SOURCE-PROCESSED; 117 VERIFIED + 14 TERMINAL `blocked`; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY TAMIL SCENES ASSEMBLED; FULL TAMIL SCENE AUDIT PASS 33 / 33; ENGLISH TRANSLATION COMPLETE / CLOSED — 33 / 33 ENGLISH SCENES REVIEWED; 7 / 7 BATCHES PASS / LOCKED; FINAL ENGLISH REVIEW PASS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — 131 / 131 SOURCE-PROCESSED; 118 VERIFIED + 13 TERMINAL `blocked`; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY TAMIL SCENES ASSEMBLED; FULL TAMIL SCENE AUDIT PASS 33 / 33; ENGLISH TRANSLATION COMPLETE / CLOSED — 33 / 33 ENGLISH SCENES REVIEWED; 7 / 7 BATCHES PASS / LOCKED; FINAL ENGLISH REVIEW PASS.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -48,17 +48,17 @@ Supplementary scenes remain source-numbered **1–3**, never main scenes 31–33
 
 ## Final physical-page state
 
-Verified scans — **117 / 131**:
+Verified scans — **118 / 131**:
 
-`1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `114–131`.
+`1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `113–131`.
 
-Terminal current-source-condition / `blocked` scans — **14 / 131**:
+Terminal current-source-condition / `blocked` scans — **13 / 131**:
 
-`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`.
+`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112`.
 
 Ordinary `needs-review`: **0**.
 
-All 14 terminal records were directly reviewed and received difficult-reading/residual escalation. They are not pending ordinary review. Reopen only with genuinely stronger source evidence.
+All 13 terminal records were directly reviewed and received difficult-reading/residual escalation. They are not pending ordinary review. Reopen only with genuinely stronger source evidence.
 
 ## Tamil scene layer — COMPLETE
 
@@ -83,7 +83,7 @@ Scene-relevant terminal dependencies:
 - 24 → `94, 95`
 - 25 → `98, 99`
 - 26 → `100`
-- 29 → `112, 113`
+- 29 → `112`
 
 All **14 remaining blocked physical scans** are scene-relevant and remain traceable through scene files. Scans 1, 21, 27, 43, 47, 48, 51 and 52 are now fully verified after user adjudication on 2026-09-18; Scenes 7, 8, 12, 13 and 14 are source-secure.
 
@@ -155,9 +155,9 @@ Do not revert prior source-closed corrections, including:
 
 Work-level state:
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 14 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 13 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
 
-This state is deliberately different from “131/131 verified”: **117** pages are verified; **14** remain terminally blocked by current source condition. Every page/scene has been processed, every difficult locus revisited, every remaining ambiguity explicitly documented, and no ambiguity fabricated away.
+This state is deliberately different from “131/131 verified”: **118** pages are verified; **13** remain terminally blocked by current source condition. Every page/scene has been processed, every difficult locus revisited, every remaining ambiguity explicitly documented, and no ambiguity fabricated away.
 
 ## Reopening rule
 
