@@ -36,22 +36,22 @@ This is the work-level closure gate required by `STAGE_PLAY_PROCESSING_GUIDE.md`
 
 Current physical-page state:
 
-- `verified`: **105 / 131**;
-- terminal current-source-condition `blocked`: **26 / 131**;
+- `verified`: **106 / 131**;
+- terminal current-source-condition `blocked`: **25 / 131**;
 - ordinary `needs-review`: **0**.
 
 Terminal scans:
 
-`27`, `43`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
+`27`, `47–48`, `51–52`, `60–61`, `65`, `69`, `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112–113`, `128`, `130`.
 
-All 26 remaining blocked scans have already received direct source inspection plus difficult-reading/residual review. They are not queued for ordinary re-review. Reopen only if genuinely stronger source evidence appears.
+All 25 remaining blocked scans have already received direct source inspection plus difficult-reading/residual review. They are not queued for ordinary re-review. Reopen only if genuinely stronger source evidence appears.
 
 ### Page map matches repository state — PASS
 
 `indexes/page-map.md` has been reconciled from stale `needs-review` labels to the canonical terminal `blocked` classification:
 
-- verified **105**;
-- blocked **26**;
+- verified **106**;
+- blocked **25**;
 - needs-review **0**;
 - structural inventory **complete**;
 - Tamil scene assembly **33 / 33 complete**.
@@ -67,22 +67,20 @@ Scene inventory is exactly:
 
 Assembly classes:
 
-- source-secure scenes: **16 / 33**;
-- hold-bearing scenes: **17 / 33**.
+- source-secure scenes: **18 / 33**;
+- hold-bearing scenes: **15 / 33**.
 
-Hold-bearing main scenes: **7–8, 11–14, 16–20, 23–26, 29**.
+Hold-bearing main scenes: **7, 12–14, 16–20, 23–26, 29**.
 
 Hold-bearing supplementary scene: **3**.
 
 ### Terminal-hold traceability — PASS
 
-All **26** remaining blocked physical scans are traceable through the scene layer wherever their unresolved locus is scene-relevant. Scans **1** and **21** are no longer blocked after user source adjudication on 2026-09-18. Scan 1 closed `மு.கருணாநிதி` / `Anand`; scan 21 closed the Scene-6 opening direction.
+All **25** remaining blocked physical scans are traceable through the scene layer wherever their unresolved locus is scene-relevant. Scans **1**, **21**, and **43** are no longer blocked after user source adjudication on 2026-09-18. Scan 27 remains blocked only for its Scene-7 opening parenthetical; its Scene-8 segment is source-secure.
 
 Scene dependency map:
 
 - 7 → `27`
-- 8 → `27`
-- 11 → `43`
 - 12 → `47, 48, 51`
 - 13 → `52`
 - 14 → `52`
@@ -114,7 +112,7 @@ The controlling PDF is recorded by identity/checksum but is not committed.
 
 ## Work-level Tamil release state
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 26 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 25 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
 
 This means:
 
@@ -125,7 +123,7 @@ This means:
 - every surviving ambiguity is explicitly marked and traceable;
 - no remaining terminal ambiguity has been converted into invented text.
 
-It does **not** mean all 131 scans are `verified`: 105 are verified and 26 remain `blocked` by current source condition.
+It does **not** mean all 131 scans are `verified`: 106 are verified and 25 remain `blocked` by current source condition.
 
 ## Reopening rule
 
