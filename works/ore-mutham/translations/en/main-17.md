@@ -5,11 +5,11 @@ section: "main-play"
 source_scene: "../../scenes/main-17.md"
 source_scan_pages: [64, 65, 66, 67, 68]
 printed_pages: [62, 63, 64, 65, 66]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [65]
+source_condition_scans: []
 ---
 
 # Scene 17
@@ -42,7 +42,7 @@ Puthan: What slander? You tortured and piled up those who would not pay tax—th
 
 Imaya: Yes! I thought so even then.
 
-Mahaveerar: Do not speak. If I appoint you as Royal Representative—[Source-held: the short historical-type/joining-sensitive clause immediately following `பிரதிநிதி` on scan 65 remains unresolved at exact-source level.] Imaya! It is true that you desired this throne, is it not?
+Mahaveerar: Do not speak. If I appoint you as Royal Representative, a representative for you! Hmm. Imaya! It is true that you desired this throne, is it not?
 
 Imaya: I had no desire. He told me to desire it. So I did.
 
@@ -101,7 +101,7 @@ Vibhishanan: Long live the Maharaja! Long live justice! Members of the assembly!
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-17.md`; no OCR, PDF redrafting, later edition or secondary English witness was used.
-- Scan 65 remains terminally blocked because of a short historical-type/joining/spacing-sensitive `மகா` clause. That exact clause is carried as a visible `Source-held` locus rather than regularized through grammar or context.
+- Scan 65 is now verified after user source adjudication on 2026-09-18. The formerly held `மகா` clause is translated directly without grammatical regularization.
 - Vibhishanan's rhetorical reversal—from accused conspirator to self-declared guardian of truth, law and country—is translated without smoothing the contradictions.
 - `அதர்மம்`, `சாஸ்திர`, `சம்பிரதாயம்` are rendered conservatively as `adharma`, `shastras` and `traditions` where the source's ideological register matters.
 - The neem/sugarcane proverb and final patriotic slogans are retained as source rhetoric.
