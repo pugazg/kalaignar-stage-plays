@@ -38,7 +38,7 @@ Supplementary numbering remains **1–3**, never main Scenes 31–33.
 - `BATCH_04_REVIEW.md` — main 16–20 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
 - `BATCH_05_REVIEW.md` — main 21–25 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
 - `BATCH_06_REVIEW.md` — main 26–30 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- `BATCH_07_REVIEW.md` — supplementary 1–3 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**.
+- `BATCH_07_REVIEW.md` — supplementary 1–3 — **PASS / LOCKED**.
 
 Completed batches: **7 / 7**.
 
@@ -51,13 +51,12 @@ Final hold-bearing English inventory:
 - main **19–20**;
 - main **23–26**;
 - main **29**;
-- supplementary **3**.
 
-Total source-hold-bearing English scenes: **8 / 8 reviewed**.
+Total source-hold-bearing English scenes: **7 / 7 reviewed**.
 
 Tamil terminal holds resolved by English translation: **0**.
 
-Source-secure shared-boundary main Scene 28 and supplementary Scene 2 do not inherit the following scene's hold.
+Source-secure shared-boundary main Scenes 18 and 28 do not inherit the following scene's hold. Supplementary Scenes 1–3 are now source-secure.
 
 ## Stable terminology
 
@@ -93,7 +92,7 @@ The final remainder contained only **8** scenes and was completed in one iterati
 - English scenes present: **33 / 33**;
 - English scenes reviewed: **33 / 33**;
 - batches: **7 / 7 PASS / LOCKED**;
-- source-hold-bearing English scenes: **8 / 8**;
+- source-hold-bearing English scenes: **7 / 7**;
 - unresolved blocking English issues: **0**;
 - Tamil source holds resolved by English translation: **0**;
 - secondary-English contamination: **0**.
