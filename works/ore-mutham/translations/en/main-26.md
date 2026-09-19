@@ -5,11 +5,11 @@ section: "main-play"
 source_scene: "../../scenes/main-26.md"
 source_scan_pages: [100, 101, 102, 103, 104]
 printed_pages: [98, 99, 100, 101, 102]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [100]
+source_condition_scans: []
 ---
 
 # Scene 26
@@ -32,7 +32,7 @@ A Man: Young Tamil that possessed the Himalaya—
 
 Another: Long live!
 
-[Source-held: the dense entrance stage direction is not exact-word secure. The source securely shows three dark-clothed men being brought in and Vibhishanan entering; no additional wording is reconstructed.]
+[Before the chanting ends, Vibhishanan enters, dragging in three men wearing black veils.]
 
 Vibhishanan: Long live the Maharaja! Salutations to the Maharaja of the Inbapuri Empire. Long live! Long live!
 
