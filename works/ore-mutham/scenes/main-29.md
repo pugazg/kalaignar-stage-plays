@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [112, 113, 114, 115, 116, 117]
 printed_pages: [110, 111, 112, 113, 114, 115]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-holds"
-source_condition_scans: [112]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -16,7 +16,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 இடம்:- அரண்மனை நந்தவனம்.
 
-[source-held: dense scene-29 opening parenthetical; source securely shows `சித்ரா` in Buddhist-nun dress moving through the garden, with `இளவரசர்` / `பொன்னி` and `புத்தன்` in the entrance blocking].
+(பாடிக்கொண்டே, பெளத்த பிக்ஷுணியாகச் சித்ரா போகிறாள். இளவரசரும், பொன்னியும் வருதல் குறுக்கிட்ட புத்தன்)
 
 புத்த:- சித்ராதேவி! இதென்ன கோலம்?
 
@@ -127,7 +127,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ## Assembly provenance
 
 - assembled from canonical Scene-29 segments of `0112.md`–`0117.md`;
-- scan 112 remains the sole terminal source-condition dependency for the unresolved Scene-29 opening direction; scan 113 is fully verified after user adjudication of `தலைநகரிலேயே` on 2026-09-18;
+- scans 112–113 are fully verified; scan 112's Scene-29 opening direction was resolved from the source image plus word-level cross-witness, and scan 113 remains closed with `தலைநகரிலேயே`;
 - scan 112 is shared with Scene 28 and scan 117 with Scene 30; only source-visible Scene-29 segments are imported;
 - source caste terminology, political terminology, speaker labels, punctuation and stage directions are preserved without normalization;
-- the scan-113 accommodation word comes from user source adjudication against the supplied scan; the remaining scan-112 opening direction is not reconstructed from costume, location, social argument, OCR, grammar or another edition.
+- the scan-113 accommodation word and scan-112 opening direction are both source-closed; no unresolved Scene-29 locus remains.
