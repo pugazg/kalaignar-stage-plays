@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [100, 101, 102, 103, 104]
 printed_pages: [98, 99, 100, 101, 102]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-hold"
-source_condition_scans: [100]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -18,7 +18,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 (ஒரு தமிழ்ப் புலவர் பாடுகிறார். அவருக்கு பரிசு அளிக்கப்படுகிறது)
 
-மகா வீ:- வாழ்க தமிழ்ப்புலவரே! உணர்ச்சி பொங்கும் உமது கவிதையில், தமிழன் வீரம் தெரிகிறது. தேன் நடை ததும்பும் உமது கவிதையில் தமிழின் இனிமை தெரிகிறது. இந்தக் கவிதை தமிழன்னைக்குப் புதுமாலை! இந்த மரகதமாலை, தமிழ் வளர்க்கும் தங்கள் தடந்தோள்களை அலங்கரிக்கட்டும். தமிழர்க்குப் புதுவாழ்வு தரத் தங்கள் கவிதைகள் பேரறுகளாகப் பெருகட்டும். வாழ்க தமிழ்!
+மகா வீ:- வாழ்க தமிழ்ப்புலவரே! உணர்ச்சி பொங்கும் உமது கவிதையில், தமிழின் வீரம் தெரிகிறது. தேன் நடை ததும்பும் உமது கவிதையில் தமிழின் இனிமை தெரிகிறது. இந்தக் கவிதை தமிழன்னைக்குப் புதுமாலை! இந்த மரகதமாலை, தமிழ் வளர்க்கும் தங்கள் தடந்தோள்களை அலங்கரிக்கட்டும். தமிழர்க்குப் புதுவாழ்வு தரத் தங்கள் கவிதைகள் பேராறுகளாகப் பெருகட்டும். வாழ்க தமிழ்!
 
 ஒருவன்:- தமிழ்
 
@@ -32,7 +32,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 மற்:- வாழ்க!
 
-[source-held: dense entrance stage direction; source securely shows three dark-clothed men being brought in and `விபீஷணன்` entering, but the exact full wording remains below closure threshold]
+(முழக்கம் முடிவதற்குள், மூன்று கருப்பு முக்காடு போட்டவர்களை இழுத்துக்கொண்டு, விபீஷணன் பிரவேசிக்கிறான்)
 
 விபீஷ:- வாழ்க மகாராஜா! இன்பபுரி சாம்ராஜ்ய மகாராஜாவுக்கு வணக்கம். வாழ்க! வாழ்க!
 
@@ -115,7 +115,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ## Assembly provenance
 
 - assembled from canonical Scene-26 segments of `0100.md`–`0104.md`;
-- scan 100 remains terminally `blocked`; its explicit dense entrance `[source-held: ...]` marker is retained verbatim;
+- scan 100 is fully verified after source-image review plus word-level cross-witness; the Scene-26 entrance direction is source-closed;
 - scan 104 is shared with Scene 27; Scene 26 ends immediately before source heading `காட்சி 27.`;
 - the scan-102→103 accusation continuation remains explicit;
 - no entrance wording, plot detail, grammar, OCR expectation, modern spelling or another-edition text was used to fill the held source cluster.
