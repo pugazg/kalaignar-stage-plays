@@ -5,11 +5,11 @@ section: "main-play"
 source_scene: "../../scenes/main-20.md"
 source_scan_pages: [75, 76, 77, 78, 79, 80]
 printed_pages: [73, 74, 75, 76, 77, 78]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [77, 79]
+source_condition_scans: []
 ---
 
 # Scene 20
@@ -56,7 +56,7 @@ Ponni: Do not say that. He has sworn upon the kingdom.
 
 Malayan: Kingdom or oath—it is all acting, child, acting! Who is this man who swore upon the kingdom? Government itself is bound by shastra and custom.
 
-In the shastra, one must not marry a woman who has lost caste [Source-held: final word/ending after `செய்யக்கூடா` on scan 77 remains unresolved]. Hmm...... what is going to happen!
+What if the shastra says one must not marry a woman who has lost caste? Hmm...... what is going to happen!
 
 (Two of Vibhishanan's soldiers enter.)
 
@@ -78,13 +78,13 @@ Soldier: Vibhishanan's order.
 
 Malayan: I don't understand anything... hmm. Come, Ponni!
 
-[Source-held: a dense bold transition direction beginning `திரையில் ஒரு இருள் ...` on scan 77 leads into Kumari and Puthan appearing, with Puthan looking around; exact wording remains unresolved.]
+[Darkness on the curtain, then light again. In the same scene Kumari and Puthan enter. Puthan looks around; seeing this, Kumari becomes suspicious.]
 
 Kumari: Whom are you looking for?
 
 Puthan: No one. We can rest.
 
-[Source-held: the final bold parenthetical on scan 77 describes Kumari and Puthan in different/simple dress; its exact full wording remains unresolved.]
+[Kumari and Puthan are in different clothes: Kumari appears as an ordinary woman and Puthan as an ordinary man.]
 
 Kumari: What a rough, rugged path! Prince! Don't poets give some comparison for a forest path?
 
@@ -128,13 +128,11 @@ Puthan: It is all true. But if the lover abandons the beloved, all of it becomes
 
 Kumari: Then you will not abandon your beloved? (Joyfully.)
 
-Puthan: How could I? Even if the sea turns to rock and the sun to ice, I will not abandon my beloved.
+Puthan: How could I? Even if the sea becomes a desert and the sun turns to ice, I will not abandon my beloved.
 
 Kumari: (Eagerly) Aththaan! (She moves to embrace him.)
 
-Puthan: Keep away from me. Are you a woman—or what they call a Brahma-rakshasi? With lust risen to your head, destroying a man's life—you are unfit to remain in a world where men live!
-
-[Source-held: scan 79 contains several compact historical-type letterform/spacing decisions within Kumari's dense lower-page speech. The secure dramatic sense below is translated, but the exact Tamil letter/spacing decisions remain unresolved.]
+Puthan: Pah! Leave me. Are you a woman—or what they call a Brahma-rakshasi? With lust risen to your head, forcing an embrace on a man, you are unfit to remain in a world where men live!
 
 Kumari: Forgive me. Do not speak to me as though speaking to some contemptible prostitute. My love is not the frenzy of a Brahma-rakshasa spirit—it is the beating of my heart! Was it a crime to tell you of it? It is a flood of desire that no dam can stop. The waves of this helpless woman's mind, struggling in that flood, cry, “Love! Love!” For showing you my love, do I deserve words this harsh to the ear? Is this how the Prince of Inbapuri speaks? Is the man I loved with all my heart pushing me into the fire? No. Save this orphan.
 
@@ -145,7 +143,6 @@ Puthan: Do not speak!
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-20.md`; no OCR, PDF redrafting, later edition or secondary English witness was used.
-- Scan 77 contains three terminal loci: the final word/ending in Malayan's shastra line and two dense transition/costume stage directions. All remain visibly source-held.
-- Scan 79 remains terminal because of compact historical-type letterform/spacing decisions inside Kumari's lower-page speech. The English translates only its secure dramatic sense and does not claim those Tamil decisions are resolved.
+- Scans 77 and 79 are now source-closed after direct image review plus the user transcription used strictly as a word-level cross-witness. The English follows the resolved Tamil word layer while punctuation/structure remain source-governed.
 - `அத்தான்` remains `Aththaan`, consistent with the earlier English layer where the source kinship/affection term is deliberately not narrowed.
 - The path-of-love exchange and Kumari's rejected declaration are preserved turn by turn, including the source's severe language rather than softened into summary.
