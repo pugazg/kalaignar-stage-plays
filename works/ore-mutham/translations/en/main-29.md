@@ -5,18 +5,18 @@ section: "main-play"
 source_scene: "../../scenes/main-29.md"
 source_scan_pages: [112, 113, 114, 115, 116, 117]
 printed_pages: [110, 111, 112, 113, 114, 115]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [112]
+source_condition_scans: []
 ---
 
 # Scene 29
 
 Location: The palace garden.
 
-[Source-held: the dense opening parenthetical remains unresolved at exact-word level. The source securely shows Chithra in Buddhist-nun dress moving through the garden, with the Prince, Ponni and Puthan involved in the entrance blocking. No missing wording is reconstructed.]
+[Singing as she goes, Chithra passes through dressed as a Buddhist nun. The Prince and Ponni enter; Puthan intercepts her.]
 
 Puthan: Lady Chithra! What is this appearance?
 
@@ -117,7 +117,7 @@ Puthan: Ah!...
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-29.md`.
-- Scan 112 remains the sole terminal Tamil source hold for Scene 29. Scan 113 is fully verified after user source adjudication of `தலைநகரிலேயே`; the accommodation line is translated directly as `in the capital itself`.
+- Scans 112–113 are source-closed. The Scene-29 opening direction was resolved from the source image plus word-level cross-witness, and `தலைநகரிலேயே` remains translated as `in the capital itself`.
 - The source's caste terminology and `கலப்புமணம்` argument are translated directly. `பறைச்சி` is represented as `Paraiyar woman` to preserve the caste reference without replacing the Tamil artifact.
 - `மக்களாட்சி` is rendered `democracy` and `மன்னராட்சி` as `monarchy`; the source explicitly develops popular representation, removal of abusive rulers and a people's movement.
 - The scene's anti-caste, republican and popular-sovereignty argument is not softened or summarized away.
