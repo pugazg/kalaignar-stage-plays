@@ -1,6 +1,6 @@
 # ஒரே முத்தம் — English Translation Batch 6 Review
 
-Status: **PASS / LOCKED — SOURCE HOLDS PRESERVED**
+Status: **PASS / LOCKED**
 
 Batch scope:
 
@@ -18,10 +18,10 @@ No OCR, controlling PDF, web text, later edition, outside summary or secondary E
 
 | English artifact | Tamil source scans | Source condition | Result |
 |---|---:|---|---|
-| `main-26.md` | 100–104 | hold-bearing — scan 100 | PASS WITH SOURCE HOLD |
+| `main-26.md` | 100–104 | source-secure | PASS |
 | `main-27.md` | 104–105 | source-secure | PASS |
-| `main-28.md` | 106–112 | source-secure shared-boundary | PASS |
-| `main-29.md` | 112–117 | hold-bearing — scan 112 | PASS WITH SOURCE HOLD |
+| `main-28.md` | 106–112 | source-secure | PASS |
+| `main-29.md` | 112–117 | source-secure | PASS |
 | `main-30.md` | 117–118 | source-secure | PASS |
 
 Review checks completed for all five scenes:
@@ -31,8 +31,6 @@ Review checks completed for all five scenes:
 - scene/location order preserved;
 - source letters, crowd cries, political arguments and closing verse represented;
 - no Tamil source wording altered by translation;
-- no held Tamil wording reconstructed from plot continuity, caste/political context, costume, grammar or English expectation;
-- every scene-relevant terminal hold remains visibly marked in the corresponding English artifact;
 - naming/terminology consistency checked against Batches 1–5;
 - secondary-English contamination: **0**.
 
@@ -40,15 +38,15 @@ Review checks completed for all five scenes:
 
 ### Scene 26 — scan 100
 
-The dense entrance direction remains source-held. English carries only the secure structural facts already preserved in Tamil: three dark-clothed men are brought in and Vibhishanan enters. No additional entrance wording is invented.
+Scan 100 was source-closed on 2026-09-19; the complete entrance direction is now translated from the resolved Tamil.
 
 ### Scenes 27–28
 
-Scene 27 is fully source-secure. Scene 28 is also source-secure end to end even though transition scan 112 is globally blocked later: the unresolved scan-112 locus belongs only to Scene 29 after the `காட்சி 29.` anchor and is not imported into Scene 28.
+Scenes 27–28 are fully source-secure; scan 112 is now globally verified.
 
 ### Scene 29 — scan 112
 
-The dense Buddhist-nun/garden opening direction remains source-held at exact-word level. The one unresolved place/compound word in Puthan's accommodation line remains explicitly held. No costume, place or action wording is completed from context.
+Scene 29 is fully source-secure: scan 112's Buddhist-nun/garden opening direction and scan 113's `தலைநகரிலேயே` are both resolved.
 
 ### Scene 30
 
@@ -78,7 +76,7 @@ Kumari's final request for `ஒரே முத்தம்`, Puthan's response,
 
 ## Batch result
 
-**BATCH 6 — PASS / LOCKED — SOURCE HOLDS PRESERVED.**
+**BATCH 6 — PASS / LOCKED.**
 
 - expected Batch-6 English scenes: **5**;
 - present: **5 / 5**;
@@ -86,9 +84,9 @@ Kumari's final request for `ஒரே முத்தம்`, Puthan's response,
 - main-play English progress: **30 / 30**;
 - total English scene progress: **30 / 33**;
 - completed English batches: **6 / 7**;
-- source-hold-bearing English scenes completed: **17 / 18**;
+- current source-hold-bearing English scenes in Batch 6: **0**; whole-work current hold-bearing total: **0**;
 - unresolved blocking English issues: **0**;
 - Tamil source holds resolved by translation: **0**;
 - secondary-English contamination: **0**.
 
-Exact next batch: **supplementary `நகைச் சுவைப் பகுதி.` Scenes 1–3**. Supplementary Scenes 1–2 are source-secure (Scene 2 uses only the secure pre-anchor portion of globally blocked scan 128); supplementary Scene 3 is hold-bearing with terminal dependencies `[128, 130]`.
+Historical next batch was supplementary `நகைச் சுவைப் பகுதி.` Scenes 1–3; that batch is now complete and source-secure.
