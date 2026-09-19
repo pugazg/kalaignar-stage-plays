@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [87, 88, 89, 90, 91, 92, 93, 94]
 printed_pages: [85, 86, 87, 88, 89, 90, 91, 92]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-holds"
-source_condition_scans: [88, 90]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -54,11 +54,11 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 விபீஷ:- அவள் முகமே சொல்லுகிறதே!
 
-(விபீஷணன் சிப்பாய்களுக்கு ஜாடை காட்டவே — அவர்கள் புத்தனுக்குப் பின்னால் நின்று [source-held: exact final action wording])
+(விபீஷணன் சிப்பாய்களுக்கு ஜாடை காட்டவே — அவர்கள் புத்தனுக்குப் பின் மறைந்து நெருங்குதல்)
 
 புத்த:- முகக் குறிப்பில் குற்றவாளியைக் கண்டு பிடிக்கிறீர். ரேகை சாஸ்திரம் படித்திருக்கிறீரோ?
 
-விபீஷ:- ஆமாம். முகத்தில் காணப்படும் சுருக்கங்கள், அவள் வாழ்வின் அமைப்பைக் காட்டும் ரேகைகள். உதாரணமாக, முகத்தைப் பார்த்ததுமே [source-held: final comparison clause continues into scan 89].
+விபீஷ:- ஆமாம். முகத்தில் காணப்படும் சுருக்கங்கள், அவள் வாழ்வின் அமைப்பைக் காட்டும் ரேகைகள். உதாரணமாக, முகத்தைப் பார்த்ததுமே இது கிழம், இது வாலிபம், என்று
 
 <!-- source boundary: scan 88 / p.86 -> scan 89 / p.87 -->
 
@@ -104,7 +104,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 விபீஷ:- மடக்காமல் பேசமுடியுமா? மடக்கித்தான் பேசுகிறேன். மடமையின் சிகரமே! மதிகெட்ட மன்னனுக்குப் பிறந்த மண்டூகமே!
 
-புத்த:- விபீஷணா! நீ [source-held: exact insult cluster]. என் உடைய உணர்ச்சி அலைகளையும், தூணில் கட்டிவிட்டதாக எண்ணி உளறுகிறாய். என் உணர்ச்சி வெள்ளத்தின் முன், இந்தத் தூண் ஒரு துரும்பு!
+புத்த:- விபீஷணா! நீ ஓணான் குஞ்சு! ஓதிய மிளார். என் உடைய உணர்ச்சி அலைகளையும், தூணில் கட்டிவிட்டதாக எண்ணி உளறுகிறாய். என் உணர்ச்சி வெள்ளத்தின் முன், இந்தத் தூண் ஒரு துரும்பு!
 
 <!-- source boundary: scan 90 / p.88 -> scan 91 / p.89 -->
 
@@ -205,7 +205,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ## Assembly provenance
 
 - assembled from canonical Scene-23 segments of `0087.md`–`0094.md`;
-- terminal source-condition scans relevant to Scene 23 are 88 and 90; all explicit `[source-held: ...]` markers are retained verbatim;
-- scan 94 is globally `blocked`, but its held signpost/route locus occurs only after the `காட்சி 24.` anchor; Scene 23 imports only the secure pre-anchor prefix;
+- scans 88 and 90 are fully verified after source-image review plus word-level cross-witness; the soldier-action ending, comparison clause, and `ஓணான் குஞ்சு! ஓதிய மிளார்.` insult are source-closed;
+- scan 94 is now fully verified; Scene 23 still imports only its pre-`காட்சி 24.` prefix by source segmentation;
 - scan 87 is shared with Scene 22 and scan 94 with Scene 24; source segmentation is preserved;
 - scan-88→89 and scan-93→94 continuations remain explicit; no held comparison/insult wording is reconstructed from later text, rhetoric, OCR or context.
