@@ -1,6 +1,6 @@
 # ஒரே முத்தம் — Final English Translation Review
 
-Status: **PASS / COMPLETE — 33 / 33 ENGLISH SCENES REVIEWED; TERMINAL TAMIL SOURCE HOLDS PRESERVED**
+Status: **PASS / COMPLETE — 33 / 33 ENGLISH SCENES REVIEWED; 0 TAMIL SOURCE HOLDS REMAIN**
 
 Immediate authority: the closed Tamil scene layer under `../../scenes/`.
 
@@ -33,9 +33,9 @@ Supplementary scenes remain independently numbered **1–3** and are not represe
 - `BATCH_01_REVIEW.md` — main 1–5 — **PASS / LOCKED**;
 - `BATCH_02_REVIEW.md` — main 6–10 — **PASS / LOCKED**;
 - `BATCH_03_REVIEW.md` — main 11–15 — **PASS / LOCKED**;
-- `BATCH_04_REVIEW.md` — main 16–20 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- `BATCH_05_REVIEW.md` — main 21–25 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- `BATCH_06_REVIEW.md` — main 26–30 — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- `BATCH_04_REVIEW.md` — main 16–20 — **PASS / LOCKED**;
+- `BATCH_05_REVIEW.md` — main 21–25 — **PASS / LOCKED**;
+- `BATCH_06_REVIEW.md` — main 26–30 — **PASS / LOCKED**;
 - `BATCH_07_REVIEW.md` — supplementary 1–3 — **PASS / LOCKED**.
 
 Completed batches: **7 / 7**.
@@ -53,8 +53,8 @@ The final review confirms across all 33 scene artifacts:
 - stable proper-name and place-name forms used consistently across reviewed English;
 - no Tamil page record or Tamil scene artifact altered by translation;
 - no OCR text used as translation authority;
-- no plot-continuity completion used for source-held wording;
-- no grammatical/familiar-spelling repair used to resolve Tamil holds;
+- former source-held wording was resolved only through the Tamil source workflow, never by English inference;
+- no grammatical/familiar-spelling repair was used as Tamil authority;
 - no later/other edition wording imported;
 - no published/secondary English translation used as drafting authority;
 - secondary-English contamination: **0**.
@@ -63,31 +63,15 @@ Whole-work fidelity result: **PASS**.
 
 ## 4. Terminal-source-hold preservation
 
-Tamil source closure currently contains **7 hold-bearing scene artifacts**. Every one has a reviewed English counterpart that preserves the unresolved locus/loci transparently:
+Tamil source closure now contains **0 hold-bearing scene artifacts**. All former holds were resolved in the Tamil source workflow; none was resolved by English inference.
 
-Main:
-
-- 19 → `[72, 73, 74]`
-- 20 → `[77, 79]`
-- 23 → `[88, 90]`
-- 24 → `[94, 95]`
-- 25 → `[98, 99]`
-- 26 → `[100]`
-- 29 → `[112]`
-
-Source-hold-bearing English scenes reviewed: **7 / 7**.
+Source-hold-bearing English scenes reviewed: **0**.
 
 Tamil terminal source holds resolved by English translation: **0**.
 
-A `passed-with-source-holds` English artifact means all source-secure Tamil content passed Tamil→English fidelity review while the unresolved Tamil locus remained visibly unresolved. It never means that the underlying Tamil source has been solved.
-
 ## 5. Source-secure shared-boundary cases
 
-The final review preserves the Tamil segment-level boundary rule:
-
-- main Scene 28 is source-secure in English although physical scan 112 is globally blocked later for Scene 29;
-
-Neither scene imports the following scene's terminal hold.
+No current shared-boundary hold exception remains. Historical segment boundaries remain documented in the Tamil archival layer.
 
 ## 6. Stable translation conventions
 
@@ -107,9 +91,9 @@ No convention in the English layer silently normalizes or overwrites the Tamil a
 
 ## 7. Final English state
 
-**ENGLISH TRANSLATION COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE — 33 / 33 SCENES PRESENT AND REVIEWED; 7 / 7 BATCHES PASS / LOCKED; 7 / 7 CURRENT HOLD-BEARING SCENES TRANSLATED WITH HOLDS PRESERVED; 0 TAMIL HOLDS RESOLVED BY TRANSLATION; 0 SECONDARY-ENGLISH CONTAMINATION.**
+**ENGLISH TRANSLATION COMPLETE / CLOSED — 33 / 33 SCENES PRESENT AND REVIEWED; 7 / 7 BATCHES PASS / LOCKED; 0 CURRENT HOLD-BEARING SCENES; 0 TAMIL HOLDS RESOLVED BY TRANSLATION; 0 SECONDARY-ENGLISH CONTAMINATION.**
 
-This closure means the independent Tamil→English archival translation workflow is complete for the current closed Tamil scene layer. It does **not** claim that the 13 remaining terminal Tamil source-condition pages have become verified. Scans 1, 21, 27, 43, 47, 48, 51 and 52 were separately verified by user source adjudication on 2026-09-18. Scenes 7, 8, 12–18 and all three supplementary scenes are now source-secure.
+This closure means the independent Tamil→English archival translation workflow is complete for a Tamil layer that is now **131 / 131 verified** and **33 / 33 source-secure**. The final 13 former hold pages were source-adjudicated on 2026-09-19 using page images plus the user transcription strictly as a word-level cross-witness.
 
 ## 8. Reopening / future-phase rule
 
