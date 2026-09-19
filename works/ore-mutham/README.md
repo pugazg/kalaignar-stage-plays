@@ -4,7 +4,7 @@ Archive slug: `ore-mutham`.
 
 ## Current status
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — 131 / 131 SOURCE-PROCESSED; 118 VERIFIED + 13 TERMINAL `blocked`; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY TAMIL SCENES ASSEMBLED; FULL TAMIL SCENE AUDIT PASS 33 / 33; ENGLISH TRANSLATION COMPLETE / CLOSED — 33 / 33 ENGLISH SCENES REVIEWED; 7 / 7 BATCHES PASS / LOCKED; FINAL ENGLISH REVIEW PASS.**
+**COMPLETE / VERIFIED / CLOSED — TAMIL 131 / 131 SCANS VERIFIED; 30 / 30 MAIN + 3 / 3 SUPPLEMENTARY SCENES SOURCE-SECURE; 0 BLOCKED; ENGLISH 33 / 33 SCENES REVIEWED; 7 / 7 BATCHES PASS / LOCKED; FINAL ENGLISH REVIEW PASS.**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -48,17 +48,17 @@ Supplementary scenes remain source-numbered **1–3**, never main scenes 31–33
 
 ## Final physical-page state
 
-Verified scans — **118 / 131**:
+Verified scans — **131 / 131**:
 
-`1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `113–131`.
+`1–131`.
 
-Terminal current-source-condition / `blocked` scans — **13 / 131**:
+Terminal current-source-condition / `blocked` scans — **0 / 131**:
 
-`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112`.
+None.
 
 Ordinary `needs-review`: **0**.
 
-All 13 terminal records were directly reviewed and received difficult-reading/residual escalation. They are not pending ordinary review. Reopen only with genuinely stronger source evidence.
+All former terminal records are now source-adjudicated. The final 13 pages were closed on 2026-09-19 using the page images plus user transcription strictly as a word-level cross-witness; punctuation/structure remained source-controlled.
 
 ## Tamil scene layer — COMPLETE
 
@@ -71,21 +71,15 @@ Total: **33 / 33**.
 
 Assembly classes:
 
-- fully verified-input scenes: **24** — main `1–17, 21–22, 27, 30` + supplementary `1–3`;
-- source-secure shared-boundary scenes: **2** — main 18 and main 28;
-- hold-bearing scenes: **7** — main `19–20, 23–26, 29`; supplementary section now has no holds.
+- fully verified-input scenes: **33** — main `1–30` + supplementary `1–3`;
+- source-secure shared-boundary exceptions: **0**;
+- hold-bearing scenes: **0**.
 
 Scene-relevant terminal dependencies:
 
 - 19 → `72, 73, 74`
-- 20 → `77, 79`
-- 23 → `88, 90`
-- 24 → `94, 95`
-- 25 → `98, 99`
-- 26 → `100`
-- 29 → `112`
 
-All **13 remaining blocked physical scans** are scene-relevant and remain traceable through scene files. Scans 1, 21, 27, 43, 47, 48, 51 and 52 are now fully verified after user adjudication on 2026-09-18; Scenes 7, 8, 12, 13 and 14 are source-secure.
+All **131 / 131** physical scans are verified and all **33 / 33** Tamil scenes are source-secure.
 
 `SCENE_ASSEMBLY_AUDIT.md`: **PASS — 33 / 33**.
 
@@ -96,7 +90,7 @@ All **13 remaining blocked physical scans** are scene-relevant and remain tracea
 
 ## Boundary-aware rule
 
-Physical transition scans can contribute secure text to one scene while carrying a hold belonging only to the next. Important retained cases include Scene 18 vs Scene 19 on scan 72, main Scene 28 vs Scene 29 on scan 112, and Scene 23 vs Scene 24 on scan 94.
+Physical transition-scan provenance remains documented, but all formerly shared blocked scans are now verified.
 
 The same segment-level rule is preserved in the completed English layer.
 
@@ -106,7 +100,7 @@ Mandatory family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Historical glyphs are decoded by character identity, never global replacement. Terminal blocked pages do not contribute new secure witnesses at their unresolved loci.
+Historical glyphs are decoded by character identity, never global replacement. No terminal blocked page remains; newly resolved word forms are recorded through explicit source adjudication.
 
 ## Durable source findings
 
@@ -155,9 +149,9 @@ Do not revert prior source-closed corrections, including:
 
 Work-level state:
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 13 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / VERIFIED / CLOSED — 131 / 131 VERIFIED; 0 BLOCKED; 33 / 33 TAMIL SCENES SOURCE-SECURE.**
 
-This state is deliberately different from “131/131 verified”: **118** pages are verified; **13** remain terminally blocked by current source condition. Every page/scene has been processed, every difficult locus revisited, every remaining ambiguity explicitly documented, and no ambiguity fabricated away.
+Current state is **131 / 131 verified**. Every page/scene has been processed and every formerly difficult locus has an explicit source-adjudication trail.
 
 ## Reopening rule
 
@@ -178,9 +172,9 @@ Completed review batches:
 - Batch 1 — main **1–5** — **PASS / LOCKED**;
 - Batch 2 — main **6–10** — **PASS / LOCKED**;
 - Batch 3 — main **11–15** — **PASS / LOCKED**;
-- Batch 4 — main **16–20** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- Batch 5 — main **21–25** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
-- Batch 6 — main **26–30** — **PASS / LOCKED — SOURCE HOLDS PRESERVED**;
+- Batch 4 — main **16–20** — **PASS / LOCKED**;
+- Batch 5 — main **21–25** — **PASS / LOCKED**;
+- Batch 6 — main **26–30** — **PASS / LOCKED**;
 - Batch 7 — supplementary **1–3** — **PASS / LOCKED**.
 
 Final English review:
@@ -191,7 +185,7 @@ English closure metrics:
 
 - expected / present / reviewed scene artifacts: **33 / 33**;
 - completed batches: **7 / 7**;
-- source-hold-bearing English scenes completed: **7 / 7**;
+- source-hold-bearing English scenes: **0**;
 - Tamil terminal holds resolved by translation: **0**;
 - unresolved blocking English issues: **0**;
 - secondary-English witness contamination: **0**.
