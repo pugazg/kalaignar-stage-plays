@@ -33,25 +33,23 @@ A physical scan may contain the close of one scene and the heading/opening of th
 | 15 | scan 53 / p.51 | `இடம்: விபீஷணன் மண்டபம்.` | 53–59 | 51–57 | — |
 | 16 | scan 59 / p.57 | `இடம்:- பொன்னியும் புத்தனும் முன்பு சந்தித்த அதே இடம்.` | 59–64 | 57–62 | — |
 | 17 | scan 64 / p.62 | `இடம்:- விசாரண மண்டபம்` | 64–68 | 62–66 | — |
-| 18 | scan 68 / p.66 | `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.` | 68–72 | 66–70 | — * |
-| 19 | scan 72 / p.70 | `இடம்:- வசந்த மண்டபம்.` | 72–75 | 70–73 | **72, 73, 74** |
-| 20 | scan 75 / p.73 | `இடம்:- மலையன் வீடு.` | 75–80 | 73–78 | **77, 79** |
+| 18 | scan 68 / p.66 | `இடம்:- விசாரண மண்டபத்துக்கு வெளியே.` | 68–72 | 66–70 | — |
+| 19 | scan 72 / p.70 | `இடம்:- வசந்த மண்டபம்.` | 72–75 | 70–73 | — |
+| 20 | scan 75 / p.73 | `இடம்:- மலையன் வீடு.` | 75–80 | 73–78 | — |
 | 21 | scan 80 / p.78 | `இடம்:- விபீஷணன் மாளிகை.` | 80–85 | 78–83 | — |
 | 22 | scan 85 / p.83 | `இடம்: பொன்னியின் குடிசை.` | 85–87 | 83–85 | — |
-| 23 | scan 87 / p.85 | `இடம்:- விபீஷணன் மாளிகை.` | 87–94 | 85–92 | **88, 90** |
-| 24 | scan 94 / p.92 | `இடம்:- தெருவில்.` | 94–95 | 92–93 | **94, 95** |
-| 25 | scan 96 / p.94 | `இடம்: விபீஷணன் மாளிகை.` | 96–99 | 94–97 | **98, 99** |
-| 26 | scan 100 / p.98 | `இடம்:- மகாவீரர் தர்பார்.` | 100–104 | 98–102 | **100** |
+| 23 | scan 87 / p.85 | `இடம்:- விபீஷணன் மாளிகை.` | 87–94 | 85–92 | — |
+| 24 | scan 94 / p.92 | `இடம்:- தெருவில்.` | 94–95 | 92–93 | — |
+| 25 | scan 96 / p.94 | `இடம்: விபீஷணன் மாளிகை.` | 96–99 | 94–97 | — |
+| 26 | scan 100 / p.98 | `இடம்:- மகாவீரர் தர்பார்.` | 100–104 | 98–102 | — |
 | 27 | scan 104 / p.102 | `இடம்:- இன்பபுரி அரண்மனைத் தெரு.` | 104–105 | 102–103 | — |
 | 28 | scan 106 / p.104 | `இடம்:- தூக்குமேடை.` | 106–112 | 104–110 | — * |
-| 29 | scan 112 / p.110 | `இடம்:- அரண்மனை நந்தவனம்.` | 112–117 | 110–115 | **112** |
+| 29 | scan 112 / p.110 | `இடம்:- அரண்மனை நந்தவனம்.` | 112–117 | 110–115 | — |
 | 30 | scan 117 / p.115 | `இடம்:- குமரியின் படுக்கை.` | 117–118 | 115–116 | — |
-
-`*` Scene 28 needs the secure pre-`காட்சி 29.` portion of scan 112. Scan 112 is page-level `blocked`, but its unresolved locus is only in the Scene-29 opening parenthetical after the Scene-29 anchor; no unresolved wording belongs to Scene 28.
 
 Main-play extent: **scans 8–118 / printed pp.6–116**. All **30** scene anchors are source-secure.
 
-Main scenes containing an unresolved locus within their own scene text: **7 / 30** — scenes **19–20, 23–26, 29**.
+Main scenes containing an unresolved locus within their own scene text: **0 / 30**.
 
 ## Separate supplementary section — `நகைச் சுவைப் பகுதி.`
 
@@ -73,11 +71,11 @@ Supplementary extent: **scans 119–130 / printed pp.117–128**. The section is
 - physical scans represented: **131 / 131**;
 - main-play scene anchors verified structurally: **30 / 30**;
 - supplementary scene anchors verified structurally: **3 / 3**;
-- verified physical scans: **118 / 131**;
-- terminal current-source-condition physical scans: **13 / 131**, all classified `blocked`;
+- verified physical scans: **131 / 131**;
+- terminal current-source-condition physical scans: **0 / 131**;
 - boundary-aware scene-range audit: **COMPLETE**;
-- main scenes assembled and page-record-audited: **1–5 / 30**;
-- supplementary scenes assembled: **0 / 3**;
+- main scenes assembled and page-record-audited: **30 / 30**;
+- supplementary scenes assembled: **3 / 3**;
 - unresolved wording invented during inventory/assembly: **0**;
 - source wording modified during inventory/assembly: **0**;
-- English translation: **not authorized / not started**.
+- English translation: **COMPLETE / CLOSED — 33 / 33 scenes reviewed**.
