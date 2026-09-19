@@ -2,7 +2,7 @@
 
 Status: **PASS — TAMIL TRANSCRIPTION / STRUCTURAL / SCENE-ASSEMBLY WORKFLOW COMPLETE FOR CURRENT SOURCE EVIDENCE**.
 
-This is the work-level closure gate required by `STAGE_PLAY_PROCESSING_GUIDE.md`. It does **not** claim that terminal source-condition characters have become legible. It records that all recoverable work required by the current controlling scan has been completed, all unresolved loci were escalated/revisited, and every remaining unresolved locus is explicitly preserved rather than fabricated.
+This is the work-level closure gate required by `STAGE_PLAY_PROCESSING_GUIDE.md`. All formerly terminal source-condition loci have now been source-adjudicated. The final 13-page set was resolved on 2026-09-19 using the supplied page images plus the user transcription strictly as a word-level cross-witness; punctuation, spacing and structure remained source-image/page-layer controlled.
 
 ## Controlling source
 
@@ -36,22 +36,22 @@ This is the work-level closure gate required by `STAGE_PLAY_PROCESSING_GUIDE.md`
 
 Current physical-page state:
 
-- `verified`: **118 / 131**;
-- terminal current-source-condition `blocked`: **13 / 131**;
+- `verified`: **131 / 131**;
+- terminal current-source-condition `blocked`: **0 / 131**;
 - ordinary `needs-review`: **0**.
 
 Terminal scans:
 
-`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112`.
+No blocked scans remain.
 
-All 13 remaining blocked scans have already received direct source inspection plus difficult-reading/residual review. They are not queued for ordinary re-review. Reopen only if genuinely stronger source evidence appears.
+All formerly blocked scans are now verified. Reopen only if genuinely stronger source evidence appears and record any change as a new adjudication.
 
 ### Page map matches repository state — PASS
 
 `indexes/page-map.md` has been reconciled from stale `needs-review` labels to the canonical terminal `blocked` classification:
 
-- verified **118**;
-- blocked **13**;
+- verified **131**;
+- blocked **0**;
 - needs-review **0**;
 - structural inventory **complete**;
 - Tamil scene assembly **33 / 33 complete**.
@@ -67,8 +67,8 @@ Scene inventory is exactly:
 
 Assembly classes:
 
-- source-secure scenes: **26 / 33**;
-- hold-bearing scenes: **7 / 33**.
+- source-secure scenes: **33 / 33**;
+- hold-bearing scenes: **0 / 33**.
 
 Hold-bearing main scenes: **19–20, 23–26, 29**.
 
@@ -76,19 +76,13 @@ Hold-bearing supplementary scene: **none**.
 
 ### Terminal-hold traceability — PASS
 
-All **13** remaining blocked physical scans are traceable through the scene layer wherever their unresolved locus is scene-relevant. Scans **1, 21, 27, 43, 47, 48, 51, and 52** are no longer blocked after user source adjudication on 2026-09-18. Scenes 7, 8, 12, 13 and 14 are now source-secure.
+All **131 / 131** physical scans are verified. All **33 / 33** Tamil scenes are source-secure.
 
 Scene dependency map:
 
 - 19 → `72, 73, 74`
-- 20 → `77, 79`
-- 23 → `88, 90`
-- 24 → `94, 95`
-- 25 → `98, 99`
-- 26 → `100`
-- 29 → `112`
 
-Shared globally blocked pages whose unresolved locus belongs only to the following scene remain correctly segment-scoped: Scene 18 does not inherit Scene-19 scan-72 holds; Scene 28 does not inherit Scene-29 scan-112 holds; Scene 23 does not inherit Scene-24 scan-94 holds.
+Shared-page segmentation remains documented for provenance, but no globally blocked page remains.
 
 ### No silent normalization — PASS
 
@@ -104,7 +98,7 @@ The controlling PDF is recorded by identity/checksum but is not committed.
 
 ## Work-level Tamil release state
 
-**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — WITH 13 EXPLICIT TERMINAL SOURCE-CONDITION PAGE HOLDS.**
+**TAMIL ARCHIVAL TRANSCRIPTION COMPLETE / VERIFIED / CLOSED — 131 / 131 SCANS VERIFIED; 33 / 33 TAMIL SCENES SOURCE-SECURE; 0 BLOCKED; 0 NEEDS-REVIEW.**
 
 This means:
 
@@ -115,7 +109,7 @@ This means:
 - every surviving ambiguity is explicitly marked and traceable;
 - no remaining terminal ambiguity has been converted into invented text.
 
-It does **not** mean all 131 scans are `verified`: 118 are verified and 13 remain `blocked` by current source condition.
+All **131 / 131** scans are now `verified`; no terminal `blocked` or ordinary `needs-review` scan remains.
 
 ## Reopening rule
 
