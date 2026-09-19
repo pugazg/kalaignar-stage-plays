@@ -60,7 +60,7 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 - boundary-aware structural inventory: **COMPLETE**;
 - Tamil scene assembly: **33 / 33 COMPLETE**;
 - complete page-to-scene consistency audit: **33 / 33 PASS**;
-- English translation: **not authorized / not started**.
+- English translation: **COMPLETE / CLOSED — 33 / 33 scenes reviewed; 7 / 7 batches PASS / LOCKED**.
 
 ## Terminal-status rule
 
@@ -68,4 +68,4 @@ No blocked records remain. `../TERMINAL_SOURCE_CONDITION_HOLDS.md` is retained a
 
 ## Next activity
 
-Proceed to the **Tamil pre-release / work-level closure gate**. The page map is now synchronized with the canonical terminal `blocked` classification. Verify final scene/file inventory and terminal-hold traceability, then document the work-level Tamil release state. Do not begin English translation without explicit authorization.
+No ordinary Tamil page-layer, scene-assembly or English-translation work remains. The page map is synchronized with final closure: **131 / 131 verified; 0 blocked; 33 / 33 Tamil scenes source-secure; English 33 / 33 reviewed**.
