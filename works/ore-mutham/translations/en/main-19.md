@@ -5,11 +5,11 @@ section: "main-play"
 source_scene: "../../scenes/main-19.md"
 source_scan_pages: [72, 73, 74, 75]
 printed_pages: [70, 71, 72, 73]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [72, 73, 74]
+source_condition_scans: []
 ---
 
 # Scene 19
@@ -18,7 +18,7 @@ Location: The spring pavilion.
 
 (Vibhishanan and Chithra are happy.)
 
-Vibhishanan: He roared as though a sea-sluice had been opened and opened the box to take out the letters. Ah! What majesty! What delight! In a single instant it all vanished as though lightning had struck. Chithra! From now on, in [Source-held: the dense historical-type place-name cluster before `சிம்மாசனத்தில்` on scan 72 remains unresolved] he is the uncrowned king. My rule begins.
+Vibhishanan: He roared as though a sea-sluice had been opened and opened the box to take out the letters. Ah! What majesty! What delight! In a single instant it all vanished as though lightning had struck. Chithra! From now on, in Mullaikadu he is the uncrowned king. My rule begins.
 
 Chithra: Wasn't what happened until now also your rule?
 
@@ -38,7 +38,7 @@ Vibhishanan: Tell him to come in.
 
 Vibhishanan: What news? Is it done?
 
-[Source-held: a compact stage direction on scan 73 shows Guard 1 whispering secretly into Vibhishanan's ear; Chithra comes near and observes; Vibhishanan notices and speaks indirectly. Exact source wording remains unresolved.]
+[Guard 1 whispers something secretly into Vibhishanan's ear. Chithra comes near and observes; noticing this, Vibhishanan speaks indirectly.]
 
 Vibhishanan: What is her name? Ponni?
 
@@ -48,7 +48,7 @@ Vibhishanan: An untouchable woman, practising the courtesan's trade. She is ruin
 
 Guard 1: First I [source wording here is carried only at secure dramatic sense], then I investigated. What I'm saying now is true. I've seen her directly. The whole town is laughing.
 
-[Source-held: a compact scan-73 direction shows Vibhishanan pretending anger for Chithra's benefit while grasping the matter; exact wording remains unresolved.]
+[For Chithra's benefit, Vibhishanan pretends to be angry while grasping the matter.]
 
 Vibhishanan: The town will laugh—clap and laugh that such prostitution goes on under Vibhishanan's rule! Hmm.... Is that prostitute beautiful enough to practise prostitution?
 
@@ -62,7 +62,7 @@ Vibhishanan: Gold! The demoness who sells beauty is named Gold! You call her gol
 
 Guard 1: Pure gold, sir! Put briefly, if nine Rathis were joined into one, she would have that much grace.
 
-Vibhishanan: A prostitute who brings men under her sway. A description of her beauty. Yes. Are you speaking so beautifully to the [Source-held: dense phrase before `அளவுக்கு` on scan 74] extent?
+Vibhishanan: A prostitute who brings men under her sway. A description of her beauty. Yes. Does she speak beautifully enough to draw that male fool in?
 
 Guard 1: Her speech is like a parrot, sir! Ah! What speech!
 
@@ -78,7 +78,7 @@ Vibhishanan: Hmm. Bring her and her father here at once. Prostitution! Prostitut
 
 (Guard 1 leaves.)
 
-Vibhishanan: Did you see, Chithra? Prince Puthan is hunting pleasure. A prostitute called Ponni—he passes his time with her. Do you know who that Ponni is? Malayan's daughter from the Paraiyar village. An untouchable [Source-held: dense caste-description cluster on scan 74]. I have sent men to cut down the cruelty of her prostitution.
+Vibhishanan: Did you see, Chithra? Prince Puthan is hunting pleasure. A prostitute called Ponni—he passes his time with her. Do you know who that Ponni is? Malayan's daughter from the Paraiyar village. A scorpion of an untouchable lineage! I have sent men to cut down the cruelty of her prostitution.
 
 Chithra: This news is completely false!
 
@@ -97,7 +97,7 @@ Vibhishanan: Whatever sort of rat she may be, it makes no difference. Under the 
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-19.md`; no OCR, PDF redrafting, later edition or secondary English witness was used.
-- Scene-relevant terminal scans are 72, 73 and 74. The provisional place-name cluster, both compact stage directions, the dense phrase before `அளவுக்கு`, and the caste-description cluster all remain visibly source-held.
+- Scans 72–74 are now source-closed after direct image review plus the user transcription used strictly as a word-level cross-witness. `காலி` is retained per user source adjudication.
 - The source's discriminatory caste language and law are translated directly as historical dramatic content; the English does not soften, endorse or replace them with modern terminology.
 - `பறையர்` is carried as `Paraiyar` because the source explicitly names the caste community.
 - The source's deliberately objectifying language about Ponni is retained as the speech of Vibhishanan and his guard rather than neutralized into summary.
