@@ -5,11 +5,11 @@ section: "main-play"
 source_scene: "../../scenes/main-23.md"
 source_scan_pages: [87, 88, 89, 90, 91, 92, 93, 94]
 printed_pages: [85, 86, 87, 88, 89, 90, 91, 92]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [88, 90]
+source_condition_scans: []
 ---
 
 # Scene 23
@@ -52,11 +52,11 @@ Puthan: Governance means thinking before doing anything! What evidence is there 
 
 Vibhishanan: Her face itself says so!
 
-(Vibhishanan signals the soldiers. They stand behind Puthan [Source-held: the exact final action wording of this scan-88 parenthetical remains unresolved].)
+(Vibhishanan signals the soldiers; they hide behind Puthan and move closer.)
 
 Puthan: You discover criminals from the signs on their faces. Have you studied palmistry?
 
-Vibhishanan: Yes. The wrinkles seen on a face are lines that show the structure of a person's life. For example, merely by seeing a face [Source-held: the page-ending comparison clause on scan 88 remains unresolved].
+Vibhishanan: Yes. The wrinkles seen on a face are lines that show the structure of a person's life. For example, merely by seeing a face, one can say, “this is old age, this is youth,”
 
 —we say it, don't we? The Prince is young. His education in the world is not enough.
 
@@ -98,7 +98,7 @@ Puthan: Traitor! Fold your tongue.
 
 Vibhishanan: Can one speak without folding it? I am speaking by folding it. Summit of stupidity! Frog born to a senseless king!
 
-Puthan: Vibhishanan! You [Source-held: exact old-type insult cluster immediately after `நீ` on scan 90 remains unresolved]. You babble imagining that you have tied my waves of feeling to this pillar too. Before the flood of my feeling, this pillar is a mere splinter!
+Puthan: Vibhishanan! You — *ōṇān kuñcu! ōtiya miḷār!* You babble imagining that you have tied my waves of feeling to this pillar too. Before the flood of my feeling, this pillar is a mere splinter!
 
 Vibhishanan: Oho! Will you take a Vishvarupa? Wait a little, little Maharaja! I will demolish and rebuild this palace to suit the Vishvarupa you intend to take. One word—tell me now the measure of the breadth of your Vishvarupa.
 
@@ -191,7 +191,7 @@ Vibhishanan: Those dogs' tongues must be torn out. I will come myself.
 ## Translation notes
 
 - Immediate authority: closed Tamil `../../scenes/main-23.md`; no OCR, PDF redrafting, later edition or secondary English witness was used.
-- Scene-relevant terminal scans are 88 and 90. The scan-88 soldier-action ending and comparison clause, and the scan-90 insult cluster, remain visible `Source-held` loci.
+- Scans 88 and 90 are now source-closed. The archaic insult `ஓணான் குஞ்சு! ஓதிய மிளார்.` is retained in transliteration rather than assigned an uncertain modern gloss.
 - Scan 94 is globally blocked, but its unresolved signpost/route locus belongs to Scene 24 after the Scene-24 anchor; Scene 23 does not inherit that hold.
 - `யாளித்துறை` in this scene is translated under the established person-name baseline `Yaaliththathar`; the closed Tamil source form is not altered.
 - `நாழிகை` is retained as `naazhigai`, preserving the source time-unit rather than silently converting it.
