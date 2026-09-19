@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [96, 97, 98, 99]
 printed_pages: [94, 95, 96, 97]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-holds"
-source_condition_scans: [98, 99]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -77,7 +77,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 யாளி:- ஏ! மனசாட்சியே! நீ மறைந்துவிட்டாய். ஏ! நெஞ்சத் துடிப்புகளே! நீங்கள் தயவுசெய்து நின்று விடக்கூடாதா?
 
-[source-held: compact stage-direction wording immediately after `நின்று விடக்கூடாதா?`; source visibly begins with `இளவரசன்` but exact full wording remains below closure threshold]
+[இளவரசன் கையிலளித்து]
 
 விபீஷ:- புத்தா! நீ எழுது! பொன்னியின் உயிரில் உனக்கு ஆசையிருந்தால் எழுது!
 
@@ -92,17 +92,17 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 தங்கள் அன்புள்ள,
 புத்தன்.
 
-([source-held: opening word of stage direction] இடையே, இக்கடிதம் எழுதி முடிக்கப்படுகிறது)
+(தகராறுகளுக்கிடையே, இக்கடிதம் எழுதி முடிக்கப்படுகிறது)
 
 விபீஷ:- வேலை முடிந்தது. வெற்றி எனதே. விபீஷண மகாராஜாவுக்கு!
 
 சிப்பாய்கள்:- ஜே! ஜே!
 
-([source-held: full final stage direction]; source visibly ends with `பரிகாசப் பார்வை வீசுகிறான் விபீஷணன்`)
+(மீசைமேல் கைபோட்டு. கட்டுண்டவர்கள்மீது பரிகாசப் பார்வை வீசுகிறான் விபீஷணன்)
 
 ## Assembly provenance
 
 - assembled from canonical Scene-25 page records `0096.md`–`0099.md`;
-- terminal source-condition scans 98 and 99 retain all three explicit source-held stage-direction markers verbatim;
+- scans 98 and 99 are fully verified after source-image review plus user transcription used strictly as a word-level cross-witness; all three formerly held stage directions are source-closed;
 - physical continuations `சொல்`→`லப்` across scans 96→97 and `பதார்த்தங்`→`களில்` across scans 97→98 remain explicit and are not silently respelled;
 - no held action wording is reconstructed from plot continuity, later wording, OCR, grammar or another edition.
