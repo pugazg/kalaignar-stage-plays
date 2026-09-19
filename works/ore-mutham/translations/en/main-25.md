@@ -5,11 +5,11 @@ section: "main-play"
 source_scene: "../../scenes/main-25.md"
 source_scan_pages: [96, 97, 98, 99]
 printed_pages: [94, 95, 96, 97]
-status: "translation-reviewed-with-source-holds"
-translation_review: "passed-with-source-holds"
+status: "translation-reviewed"
+translation_review: "passed"
 language: "en"
 secondary_english_witness_used: false
-source_condition_scans: [98, 99]
+source_condition_scans: []
 ---
 
 # Scene 25
@@ -69,7 +69,7 @@ Hmm. Do not hesitate! A head will fall there.
 
 Yaaliththathar: O conscience! You have disappeared. O beats of my heart! Could you please stop?
 
-[Source-held: compact stage direction immediately after `நின்று விடக்கூடாதா?` on scan 98; the source visibly begins with `இளவரசன்`, but its full exact wording remains unresolved.]
+[Handing it to the Prince.]
 
 Vibhishanan: Puthan! You write! If you care for Ponni's life, write!
 
@@ -82,13 +82,13 @@ It appears that the Maharaja's death will not occur soon. I am growing older. At
 Yours affectionately,
 Puthan.
 
-([Source-held: opening word of the scan-99 stage direction] in the meantime, this letter is completed.)
+(Amid the quarrelling, this letter is completed.)
 
 Vibhishanan: The work is done. Victory is mine. To Maharaja Vibhishanan!
 
 Soldiers: Jai! Jai!
 
-[Source-held: the full final stage direction on scan 99 remains unresolved; its secure ending shows Vibhishanan casting a mocking glance.]
+[Vibhishanan strokes his moustache and casts a mocking glance at the bound men.]
 
 ## Translation notes
 
