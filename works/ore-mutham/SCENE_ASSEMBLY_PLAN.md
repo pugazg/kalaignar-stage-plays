@@ -77,11 +77,4 @@ None.
 
 Scene assembly is closed. Do not create a second scene layer and do not begin English translation.
 
-Next:
-
-1. verify the scene-file inventory is exactly main `01–30` plus supplementary `01–03`, with no duplicate/missing files or numbering leakage;
-2. verify terminal physical-page hold count is **0** and all page/scene status files agree;
-3. confirm all **131 / 131** pages and **33 / 33** scenes are source-secure;
-4. retain this plan as a closed historical assembly record;
-5. synchronize README / handover / next-chat prompt with that closure outcome;
-6. do **not** begin English translation unless explicitly authorized.
+No ordinary assembly activity remains. This plan is retained as a closed historical record. Final state: **131 / 131 pages verified; 33 / 33 Tamil scenes source-secure; 0 holds; English 33 / 33 reviewed and closed**.
