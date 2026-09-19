@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
-All **131 physical scans** are registered, source-processed and closure-audited. Canonical `pages/*.md` records remain the detailed source-first authority. The earlier secondary-index label `needs-review` has now been reconciled with the terminal classification: all 13 current-source-condition pages are **`blocked`**, not pending ordinary review.
+All **131 physical scans** are registered, source-processed and closure-audited. Canonical `pages/*.md` records remain the detailed source-first authority. The earlier secondary-index label `needs-review` has now been reconciled with the terminal classification: there are now **0 `blocked` pages** and **0 ordinary `needs-review` pages**; all **131 / 131** scans are verified.
 
 | Scan(s) | Printed page(s) | Section / scene | Status | Source note |
 |---:|---:|---|---|---|
@@ -24,21 +24,21 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 | 66–68 | 64–66 | `காட்சி 17.` close / `காட்சி 18.` | verified | `ஹ ஹ ஹா!`, `சிங்கநாகன்`, `வேம்பொடு`, `வாழ்க இந்நாட்டு வளம்!`. |
 | 69 | 67 | `காட்சி 18.` | verified | `இன்பபுரிச் சிம்மாசனத்தில்...` and `அவைகளை நாம் கைப்பற்றாவிட்டால்...` user-adjudicated and closed. |
 | 70–71 | 68–69 | `காட்சி 18.` | verified | Full PASS; `ஆலகாலமா?`. |
-| 72–74 | 70–72 | `காட்சி 18.` close / `காட்சி 19.` | blocked | Lexical/place-name, stage-direction and caste-description clusters remain terminal holds. |
+| 72–74 | 70–72 | `காட்சி 18.` close / `காட்சி 19.` | verified | Final lexical/stage-direction clusters source-closed; scan 73 retains user-confirmed `காலி`. |
 | 75–76 | 73–74 | `காட்சி 19.` close / `காட்சி 20.` | verified | `இடம்:- மலையன் வீடு.`; full PASS. |
-| 77 | 75 | `காட்சி 20.` | blocked | Opening-line ending and two dense transition/costume parentheticals remain held. |
+| 77 | 75 | `காட்சி 20.` | verified | Opening-line ending and both transition/costume directions source-closed. |
 | 78 | 76 | `காட்சி 20.` | verified | `வெளிநாட்டுக்`; full PASS. |
-| 79 | 77 | `காட்சி 20.` | blocked | Dense lower-page `குமரி` speech remains terminally character/spacing-sensitive; 79→80 continuation secure. |
+| 79 | 77 | `காட்சி 20.` | verified | Dense lower-page `குமரி` word layer source-closed; 79→80 continuation preserved. |
 | 80–87 | 78–85 | `காட்சி 20.` close through `காட்சி 23.` opener | verified | Full PASS; includes `பாவம் வறுமையின் கஷ்டம்,`; Scene 21/22/23 anchors secure. |
-| 88 | 86 | `காட்சி 23.` | blocked | Compact stage-action and page-ending comparison remain held. |
+| 88 | 86 | `காட்சி 23.` | verified | Compact stage-action and page-ending comparison source-closed. |
 | 89 | 87 | `காட்சி 23.` | verified | `(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`; full PASS. |
-| 90 | 88 | `காட்சி 23.` | blocked | Exact insult cluster after `விபீஷணா! நீ` remains held. |
+| 90 | 88 | `காட்சி 23.` | verified | Old-type insult cluster source-closed as `ஓணான் குஞ்சு! ஓதிய மிளார்.` |
 | 91–93 | 89–91 | `காட்சி 23.` | verified | Includes `ஓஹோ!`, `சற்றுப்`, closed sword-action parenthetical and forced-letter block. |
-| 94–95 | 92–93 | `காட்சி 23.` close / `காட்சி 24.` | blocked | Route/signpost punctuation/spacing and dense monologue historical-type decisions remain terminal holds; `வரி கொடுக்கமாட்டேன்னு`, `எழுத்துக்கள்` secure. |
+| 94–95 | 92–93 | `காட்சி 23.` close / `காட்சி 24.` | verified | Route/signpost and dense monologue word layer source-closed; punctuation/spacing remain source-governed. |
 | 96–97 | 94–95 | `காட்சி 25.` | verified | Opening direction `சில சிப்பாய்களால், யாளித்தத்தர் அழைத்து வரப்படுகிறார்`; physical continuations preserved. |
-| 98–100 | 96–98 | `காட்சி 25.` / `காட்சி 26.` opener | blocked | Compact cue, two directions and dense entrance direction remain terminal holds. |
+| 98–100 | 96–98 | `காட்சி 25.` / `காட்சி 26.` opener | verified | Compact cue, two Scene-25 directions and Scene-26 entrance direction source-closed. |
 | 101–111 | 99–109 | `காட்சி 26.` through `காட்சி 28.` | verified | Full closure PASS; includes `மோகஸ்திரத்தில் மயங்கிய இவர்`, `தங்கள் முடியைக் கவிழ்க்க`, execution-platform sequence and forged-letter exposure. |
-| 112 | 110 | `காட்சி 28.` close / `காட்சி 29.` opener | blocked | Scene-28 close and Scene-29 anchor secure; dense Scene-29 opening parenthetical remains held. |
+| 112 | 110 | `காட்சி 28.` close / `காட்சி 29.` opener | verified | Scene-29 opening parenthetical source-closed; `பெளத்த ... பிக்ஷுணியாகச்` / `சித்ரா போகிறாள்` retained. |
 | 113 | 111 | `காட்சி 29.` | verified | Accommodation-line compound user-adjudicated as `தலைநகரிலேயே`; page fully closed. |
 | 114–127 | 112–125 | `காட்சி 29.` close / `காட்சி 30.` / supplementary Scenes 1–2 | verified | Full PASS; includes `கலப்புமணம்`, `மக்களாட்சி`, `மன்னராட்சியை ஒழிப்பேன்`, Scene-30 opener `சித்ராவும்`, and supplementary Scenes 1–2 text. |
 | 128 | 126 | supplementary `காட்சி 2.` close / `காட்சி 3.` | verified | Full Scene-3 opening household/prop/action parenthetical user-adjudicated and closed. |
@@ -51,10 +51,10 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 - physical scans registered: **131 / 131**;
 - raw source pass: **131 / 131 — COMPLETE**;
 - physical-range closure audit: **131 / 131 — COMPLETE**;
-- visually verified: **118 / 131** — `1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `113–131`
-- terminal current-source-condition / `blocked`: **13 / 131** — `72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112`;
+- visually verified: **131 / 131** — `1–131`;
+- terminal current-source-condition / `blocked`: **0 / 131**;
 - ordinary `needs-review`: **0**;
-- historical-glyph PASS: **118 / 131**;
+- historical-glyph PASS: **131 / 131**;
 - main-play source-visible anchors: **30 / 30**;
 - supplementary anchors: **3 / 3**;
 - boundary-aware structural inventory: **COMPLETE**;
@@ -64,7 +64,7 @@ All **131 physical scans** are registered, source-processed and closure-audited.
 
 ## Terminal-status rule
 
-The 13 `blocked` records are not unreviewed. Each has already received direct source review plus difficult-reading/residual review. Their exact unresolved loci are consolidated in `../TERMINAL_SOURCE_CONDITION_HOLDS.md`. Reopen only if genuinely stronger source evidence becomes available. Do not replace terminal wording from OCR expectation, plot continuity, grammar, modern spelling or another edition.
+No blocked records remain. `../TERMINAL_SOURCE_CONDITION_HOLDS.md` is retained as a historical closure ledger; all former loci are source-adjudicated.
 
 ## Next activity
 
