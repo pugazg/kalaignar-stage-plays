@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [75, 76, 77, 78, 79, 80]
 printed_pages: [73, 74, 75, 76, 77, 78]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-holds"
-source_condition_scans: [77, 79]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -60,7 +60,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 <!-- source boundary: scan 76 / p.74 -> scan 77 / p.75 -->
 
-சாஸ்திரத்திலே, சாதி கெட்டவளைக் கல்யாணம் செய்யக்கூடா [source-held: final word/ending]? உம்...... என்ன நடக்கப் போகிறதோ!
+சாஸ்திரத்திலே, சாதி கெட்டவளைக் கல்யாணம் செய்யக்கூடாதென்றால்? உம்...... என்ன நடக்கப் போகிறதோ!
 
 (விபீஷணன் சிப்பாய் இருவர் வருதல்)
 
@@ -82,13 +82,13 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 மலை:- ஒன்றும் புரியலையே...உம். புறப்படு பொன்னி!
 
-[source-held: dense bold parenthetical beginning `திரையில் ஒரு இருள் ...`; it transitions to `குமரி` and `புத்தன்` appearing, with `புத்தன்` looking around. Exact wording is not silently completed.]
+(திரையில் ஒரு இருள் மீண்டும் ஒளி, அதே காட்சியில் குமரியும் புத்தனும் வருகிறார்கள். புத்தன் சுற்று முற்றும் பார்க்கிறான். அதைக் கண்டு சந்தேகமுற்று)
 
 குமரி:- யாரைத் தேடுகிறீர்கள்?
 
 புத்த:- யாரையுமில்லை. இளைப்பாறலாம்.
 
-[source-held: final bold parenthetical describing `குமரி` / `புத்தன்` in different/simple dress; exact full wording remains under enlarged review.]
+(குமரியும் புத்தனும், வேறு உடைகளில் இருத்தல் குமரி சாதாரணப் பெண்ணாகவும். புத்தன் சாதாரண மனிதனாகவும் காட்சியளித்தல்)
 
 <!-- source boundary: scan 77 / p.75 -> scan 78 / p.76 -->
 
@@ -130,19 +130,19 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 புத்த:- மற்றவர் மனதை மாற்ற நினைப்பதும் அப்படித்தான்.
 
-குமரி:- காதல், காந்தம் என்கிறார்கள். உள்ளங்களை ஒன்றுக இணைக்கும் கயிறு என்கிறார்கள். எல்லாம் பொய்யா?
+குமரி:- காதல், காந்தம் என்கிறார்கள். உள்ளங்களை ஒன்றாக இணைக்கும் கயிறு என்கிறார்கள். எல்லாம் பொய்யா?
 
-புத்த:- எல்லாம் உண்மை. ஆனால் காதலன் காதலியைக் கைவிட்டு விட்டால், அவருக்கு இதெல்லாம் பொய்யாகிவிடும்.
+புத்த:- எல்லாம் உண்மை. ஆனால் காதலன் காதலியைக் கைவிட்டு விட்டால், அவளுக்கு இதெல்லாம் பொய்யாகிவிடும்.
 
-குமரி:- அப்படியானால், நீங்கள் காதலியைக் கைவிட மாட்டீர்களோ? (சந்தோஷமாய்)
+குமரி:- அப்படியானால், நீங்கள் காதலியைக் கைவிட மாட்டீர்களே? (சந்தோஷமாய்)
 
-புத்த:- அதெப்படி முடியும்? கடல் பாறையானாலும், கதிரவன் பனிக்கட்டியானாலும், என் காதலியைக் கைவிட மாட்டேன்.
+புத்த:- அதெப்படி முடியும்? கடல் பாலைவனமானாலும், கதிரவன் பனிக்கட்டியானாலும், என் காதலியைக் கைவிட மாட்டேன்.
 
 குமரி:- (ஆவலாக) அத்தான்! (தழுவச் செல்ல)
 
-புத்த:- தூர விடு என்னை. நீ பெண்ணா? அல்லது பிரம்ம ராட்சசி என்பார்களே, அதுவா? காமவெறி தலைக்கேறி ஒரு ஆடவன் வாழ்வில் அணைக்கும் நீ ஆண்கள் இருக்கும் உலகத்திலே இருக்க அருகதையற்றவள்!
+புத்த:- தூ! விடு என்னை. நீ பெண்ணா? அல்லது பிரம்ம ராட்சசி என்பார்களே, அதுவா? காமவெறி தலைக்கேறி ஒரு ஆடவனை வலுவில் அணைக்கும் நீ ஆண்கள் இருக்கும் உலகத்திலே இருக்க அருகதையற்றவள்!
 
-குமரி:- மன்னித்துவிடுங்கள். கேவலம், ஒரு விபசாரியைப் பேசுவதுபோலப் பேசாதீர்கள். என் காதல்! பிரம்மராட்சசப் பேயாட்டமல்ல, இதயத் துடிப்பு! அதை எடுத்துச் சொன்னது குற்றமா? அணை போட்டுத் தடுக்க முடியாத ஆசை வெள்ளம். அதில் தத்தளித்த இந்த அபலையின் மனஅலைகள், காதல்! காதல்! என்று ஒலிக்கின்றன. காதலிக் காட்டியதற்கு இவ்வளவு கர்ணகடூரமான சொற்களா? இன்பபுரியின் இளவரசா இப்படிப்
+குமரி:- மன்னித்துவிடுங்கள். கேவலம், ஒரு விபசாரியைப் பேசுவதுபோலப் பேசாதீர்கள். என் காதல்! பிரம்மராட்சசப் பேயாட்டமல்ல, இதயத் துடிப்பு! அதை எடுத்துச் சொன்னது குற்றமா? அணை போட்டுத் தடுக்க முடியாத ஆசை வெள்ளம். அதில் தத்தளித்த இந்த அபலையின் மனஅலைகள், காதல்! காதல்! என்று ஒலிக்கின்றன. காதலைக் காட்டியதற்கு இவ்வளவு கர்ணகடூரமான சொற்களா? இன்பபுரியின் இளவரசரா இப்படிப்
 
 <!-- source boundary: scan 79 / p.77 -> scan 80 / p.78; physical continuation -->
 
@@ -156,7 +156,6 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 - assembled from canonical Scene-20 segments of `0075.md`–`0080.md`;
 - terminal source-condition scans are 77 and 79;
-- scan 77's explicit top-line and two parenthetical `[source-held: ...]` markers are retained verbatim;
-- scan 79's dense lower-page `குமரி` speech is retained exactly as the provisional canonical page layer carries it; the secure 79→80 continuation is preserved explicitly and no spacing/letterform normalization is attempted;
+- scans 77 and 79 are fully verified after source-image review plus user transcription used strictly as a word-level cross-witness; the transition/costume directions and dense `குமரி` word layer are source-closed while page punctuation/structure remains source-governed;
 - scan 75 is shared with Scene 19 and scan 80 with Scene 21; Scene 20 ends before source heading `காட்சி 21.`;
 - no contextual, OCR, grammatical, modern-spelling or another-edition completion was introduced.
