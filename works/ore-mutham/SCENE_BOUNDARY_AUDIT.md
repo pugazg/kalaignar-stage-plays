@@ -84,4 +84,4 @@ Supplementary: **none**.
 
 ## Exact next activity
 
-Proceed to the **Tamil pre-release / work-level closure gate**. Verify the exact scene-file inventory and terminal-hold traceability, reconcile stale secondary `needs-review` labels with the terminal `blocked` classification, decide/document the Tamil work-level release state under current-source evidence, and synchronize durable status documents. Do **not** begin English translation unless explicitly authorized.
+No ordinary boundary-audit activity remains. Final state: **131 / 131 pages verified; 33 / 33 Tamil scenes source-secure; 0 hold-bearing scenes; English translation complete 33 / 33**.
