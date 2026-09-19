@@ -4,10 +4,10 @@ work: "ore-mutham"
 section: "main-play"
 source_scan_pages: [72, 73, 74, 75]
 printed_pages: [70, 71, 72, 73]
-status: "assembly-held"
-assembled_from_verified_pages: false
-page_record_fidelity: "passed-with-terminal-source-holds"
-source_condition_scans: [72, 73, 74]
+status: "assembly-reviewed"
+assembled_from_verified_pages: true
+page_record_fidelity: "passed"
+source_condition_scans: []
 language: "ta"
 source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 ---
@@ -18,7 +18,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 (விபீஷணனும். சித்ராவும் மகிழ்ச்சியோடிருத்தல்)
 
-விபீஷ:- கடல் மடை திறந்ததுமாதிரி கர்ஜித்துவிட்டுக் கடிதங்களை எடுக்கப் பெட்டியைத் திறந்தான். அடடா! என்ன கம்பீரம்! என்ன களிப்பு! அத்தனையும் ஒரே நொடியில் இடி விழுந்ததுபோல் அழிந்துவிட்டன. சித்ரா! இனி மூலக்காட்டில் இவர்தான் முடிசூடா மன்னர். என் ஆட்சி ஆரம்பம்.
+விபீஷ:- கடல் மடை திறந்ததுமாதிரி கர்ஜித்துவிட்டுக் கடிதங்களை எடுக்கப் பெட்டியைத் திறந்தான். அடடா! என்ன கம்பீரம்! என்ன களிப்பு! அத்தனையும் ஒரே நொடியில் இடி விழுந்ததுபோல் அழிந்துவிட்டன. சித்ரா! இனி முல்லைக்காட்டில் இவர்தான் முடிசூடா மன்னர். என் ஆட்சி ஆரம்பம்.
 
 சித்ரா:- இதுவரை நடந்ததும் உங்களாட்சிதானே?
 
@@ -34,13 +34,13 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 விபீஷ:- வரச் சொல்.
 
-[1-வது காவி வருகிறான்]
+[1-வது காலி வருகிறான்]
 
 விபீஷ:- என்ன விசேஷம் முடிந்ததா?
 
 <!-- source boundary: scan 72 / p.70 -> scan 73 / p.71 -->
 
-[1-வது காவி விபீஷணன் காதில் ரகசியமாகச் சொல்லுகிறான் ஏதோ. அதைச் சித்ரா அருகே வந்து கவனிக்கவே அதைக்கண்ட விபீஷணன் ஜாடையாகப் பேசுகிறான்]
+[1-வது காலி விபீஷணன் காதில் ரகசியமாகச் சொல்லுகிறான் ஏதோ. அதைச் சித்ரா அருகே வந்து கவனிக்கவே அதைக்கண்ட விபீஷணன் ஜாடையாகப் பேசுகிறான்]
 
 விபீஷ:- பெயர் என்ன? பொன்னியா?
 
@@ -66,7 +66,7 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 1-வது கா:- தங்கமே தாங்க! சுருக்கமாகச் சொன்னா, ஒன்பது ரதியை ஒண்ணச் சேர்த்தா எப்படி இருக்குமோ, அவ்வளவு ஒய்யாரமுங்க.
 
-விபீஷ:- ஆடவர்களை வசப்படுத்தும் விபசாரி. அவள் அழகைப்பற்றி வர்ணனை. ஆமாம். அந்த [source-held: dense phrase before `அளவுக்கு`] அளவுக்கு அழகாகப் பேசுகிறீரோ?
+விபீஷ:- ஆடவர்களை வசப்படுத்தும் விபசாரி. அவள் அழகைப்பற்றி வர்ணனை. ஆமாம். அந்த ஆண் மூடனை இழுக்கும் அளவுக்கு அழகாகப் பேசுகிறீரோ?
 
 1-வது கா:- பேச்சிலே கிளிங்க! அடடா! பேச்சா அது!
 
@@ -80,9 +80,9 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 விபீஷ:- உம்; அவளையும், அவள் அப்பனையும் உடனே அழைத்து வாருங்கள். விபசாரம்! விபீஷணன் ராஜ்யத்தில் விபசாரம்! வரட்டும் பார்க்கிறேன் ஒரு கை.
 
-(1-வது காவி சென்று விடவே)
+(1-வது காலி சென்று விடவே)
 
-விபீஷ:- பார்த்தாயா சித்ரா? இளவரசன் புத்தன், இன்ப வேட்டையாடுகிறான். பொன்னியாம் ஒரு விபசாரி, அவளோடு பொழுது போக்குகிறான். யார் தெரியுமா அந்தப் பொன்னி? பறையர் கிராமத்திலவன் மலையன் மகள். தீண்டப்படாத [source-held: dense caste-description cluster]. அதன் விபசாரக் கொடுமை நறுக்க, ஆள் அனுப்பியிருக்கிறேன்.
+விபீஷ:- பார்த்தாயா சித்ரா? இளவரசன் புத்தன், இன்ப வேட்டையாடுகிறான். பொன்னியாம் ஒரு விபசாரி, அவளோடு பொழுது போக்குகிறான். யார் தெரியுமா அந்தப் பொன்னி? பறையர் கிராமத்திலவன் மலையன் மகள். தீண்டப்படாத வம்சத்துத்தேள்!. அதன் விபசாரக் கொடுமை நறுக்க, ஆள் அனுப்பியிருக்கிறேன்.
 
 சித்ரா:- இந்தச் செய்தி சுத்தப் பொய்!
 
@@ -104,8 +104,6 @@ source_filename: "TVA_BOK_0064325_ஒரே_முத்தம்.pdf"
 
 - assembled from canonical Scene-19 segments of `0072.md`–`0075.md`;
 - terminal source-condition scans are 72, 73 and 74;
-- scan 72's `மூலக்காட்டில்` lexical/place-name cluster remains provisional exactly as carried by the canonical page layer; it is not replaced from context;
-- scan 73's two compact bracketed stage directions are retained exactly as currently represented in the page layer and remain terminally character-sensitive;
-- scan 74's two explicit `[source-held: ...]` markers are retained verbatim, including the caste-description hold;
+- scans 72–74 are fully verified after source-image review plus user transcription used strictly as a word-level cross-witness; `முல்லைக்காட்டில்`, the two scan-73 directions with `காலி`, `ஆண் மூடனை இழுக்கும்`, and `வம்சத்துத்தேள்` are source-closed;
 - scan 72 is shared with Scene 18 and scan 75 with Scene 20; only source-visible Scene-19 segments are imported;
 - no contextual, caste-term, OCR, grammatical, modern-spelling or another-edition completion was used.
