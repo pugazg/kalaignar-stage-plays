@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Audit — ஒரே முத்தம்
 
-Status: **RESIDUAL RE-AUDIT COMPLETE — 118 / 131 SCANS PASSED; ALL 131 SCANS SOURCE-PROCESSED AND CLOSURE-AUDITED; 13 RETAIN EXPLICIT SOURCE-CONDITION TEXT/GLYPH HOLDS**
+Status: **COMPLETE / PASS — 131 / 131 SCANS PASSED; 0 SOURCE-CONDITION TEXT/GLYPH HOLDS**
 
 Controlling source: `TVA_BOK_0064325_ஒரே_முத்தம்.pdf`.
 
@@ -165,7 +165,7 @@ After residual-hold batches 3–4:
 
 - verified: scans **62–64, 66–68, 70–71, 75–76, 78, 80**;
 - scans **60, 61, 65, 69** are now PASS / verified after user source adjudication on 2026-09-18;
-- open: scans **72–74, 77, 79**;
+- scans **72–74, 77, 79** were finally source-adjudicated on 2026-09-19 using the supplied page images plus user transcription strictly as a word-level cross-witness;
 - scan 65 is fully closed; source-secure `ஆசைப்படச் சொன்னார்` remains retained and the historical-type/spacing clause is user-adjudicated;
 - scan 66 closes **`ஹ ஹ ஹா!`** and **`சிங்கநாகன்`**;
 - scan 78 closes the formerly held lexical cluster as **`வெளிநாட்டுக்`** and supplies secure `அணையாத` for `ணை` comparison;
@@ -178,7 +178,7 @@ After residual-hold batches 3–4:
 After residual-hold batches 4–5:
 
 - verified: scans **81–87, 89, 91–93, 96–97**;
-- open: scans **88, 90, 94–95, 98–100**;
+- scans **88, 90, 94–95, 98–100** were finally source-adjudicated on 2026-09-19 under the same word-level cross-witness rule;
 - scan 82 resolves `பாவம் வறுமையின் கஷ்டம்,` and `உன் வாழ்க்கையைக் கெடுத்துக் கொண்டாய்.`;
 - scan 89 closes the held ambush direction with `வாளை` and supplies secure `விபீஷணா`, `வாளை`, `இவனை` reference material;
 - scan 91 corrects raw-pass `ஓஃகே!` → `ஓஹோ!` and `சுற்றுப்` → `சற்றுப்`;
@@ -193,7 +193,7 @@ All ten scans close **PASS / verified** after enlarged source review. Durable co
 
 ### Scans 111–120
 
-Eight pages PASS / verified: **111, 114–120**. Scans **112–113** remain open on narrow explicit holds. Residual batch 5 closes scan 117's scene-opening cluster as **`சித்ராவும்`**. Durable source forms include `பறைச்சியல்லவா?`, `கொய்யாக்கனி!`, `கலப்புமணம்`, `மக்களாட்சியாக மாற்றுவேன்`, `மன்னராட்சியை ஒழிப்பேன்`, the complete main-play ending, and the start of the separately numbered `நகைச் சுவைப் பகுதி.`
+Scans **111–120** are PASS / verified; scan 112 was finally source-adjudicated on 2026-09-19 and scan 113 had already been closed as `தலைநகரிலேயே`. Residual batch 5 closes scan 117's scene-opening cluster as **`சித்ராவும்`**. Durable source forms include `பறைச்சியல்லவா?`, `கொய்யாக்கனி!`, `கலப்புமணம்`, `மக்களாட்சியாக மாற்றுவேன்`, `மன்னராட்சியை ஒழிப்பேன்`, the complete main-play ending, and the start of the separately numbered `நகைச் சுவைப் பகுதி.`
 
 ### Scans 121–131
 
@@ -234,7 +234,7 @@ Reviewed scans **47–52, 60–61, 65–66** directly from the controlling sourc
 Reviewed scans **69, 72–74, 77–79, 88–90** directly from the controlling source.
 
 - promoted: **78, 89** — **2 pages**;
-- scan **69** was subsequently user-adjudicated and verified on 2026-09-18; remain open from this batch: **72–74, 77, 79, 88, 90**;
+- scan **69** was user-adjudicated on 2026-09-18; scans **72–74, 77, 79, 88, 90** were subsequently source-closed on 2026-09-19.
 - scan 78 resolves **`வெளிநாட்டுக்`**;
 - scan 89 resolves **`(மறைந்து வருபவரில் ஒருவன், இளவரசனின் வாளை விபீஷணனுக்குச் சுட்டிக் காட்டுதல்)`**;
 - no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
@@ -244,7 +244,7 @@ Reviewed scans **69, 72–74, 77–79, 88–90** directly from the controlling s
 Reviewed scans **92, 94–95, 98–100, 112–113, 117, 128, 130** directly from the controlling source.
 
 - promoted: **92, 117** — **2 pages**;
-- scans **128** and **130** were subsequently user-adjudicated and verified on 2026-09-18; remain open from this batch: **94–95, 98–100, 112–113**;
+- scans **113, 128, 130** were user-adjudicated on 2026-09-18; scans **94–95, 98–100, 112** were subsequently source-closed on 2026-09-19.
 - scan 92 closes the sword-action parenthetical **`(விபீஷணன் வாளை உருவிப் பொன்னியின் மேல் வீசுந்தோரணையில் நின்றுகொண்டு)`**;
 - scan 117 closes the scene-30 opening cluster as **`சித்ராவும்`**;
 - no semantic repair, global replacement, OCR expectation, modern-spelling substitution, another-edition completion or plot-based reconstruction was used.
@@ -254,9 +254,9 @@ Reviewed scans **92, 94–95, 98–100, 112–113, 117, 128, 130** directly from
 - physical scans: **131**;
 - source-processed: **131 / 131 — RAW SOURCE PASS COMPLETE**;
 - closure-audited: **131 / 131 — COMPLETE PHYSICAL-RANGE CLOSURE PASS**;
-- full historical-glyph passes: **118 / 131** (`1–71`, `75–76`, `78`, `80–87`, `89`, `91–93`, `96–97`, `101–111`, `113–131`);
-- visually verified: **118 / 131**;
-- `needs-review`: **13 / 131** (`72–74`, `77`, `79`, `88`, `90`, `94–95`, `98–100`, `112`);
+- full historical-glyph passes: **131 / 131** (`1–131`);
+- visually verified: **131 / 131**;
+- `needs-review`: **0 / 131**;
 - checksum: **`60780e340e6b0c6d6f3956af8beeb69692fab3f20e843c6ed4275b9962aae220`**.
 
 ## Exact next activity
