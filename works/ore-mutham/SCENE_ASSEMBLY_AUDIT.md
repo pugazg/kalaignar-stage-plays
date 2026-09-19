@@ -121,10 +121,4 @@ Documented physical continuations remain explicit through archival boundary comm
 
 ## Exact next activity
 
-The Tamil page layer, structural layer and scene-assembly layer are now complete for the current source evidence. The **next archival activity is a Tamil pre-release / work-level closure gate**:
-
-1. verify scene-file inventory is exactly main `01–30` plus supplementary `01–03` with no duplicates or numbering leakage;
-2. verify terminal physical-page hold count is **0** and all 33 scene files are source-secure;
-3. reconcile README / handover / prompt status and any stale `needs-review` labels in secondary indexes without changing the canonical page records or pretending terminal holds are resolved;
-4. decide/document the work-level Tamil release state under the repository's terminal-source-condition policy;
-5. do **not** begin English translation unless explicitly authorized.
+The Tamil page, structural and scene-assembly layers are **COMPLETE / VERIFIED / CLOSED**. Final state: **131 / 131 pages verified; 33 / 33 scene files source-secure; 0 terminal holds**. English translation is also **COMPLETE / CLOSED — 33 / 33 reviewed**. No ordinary next activity is authorized.
