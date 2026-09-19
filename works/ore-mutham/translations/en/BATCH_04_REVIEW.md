@@ -1,6 +1,6 @@
 # ஒரே முத்தம் — English Translation Batch 4 Review
 
-Status: **PASS / LOCKED — SOURCE HOLDS PRESERVED**
+Status: **PASS / LOCKED**
 
 Batch scope:
 
@@ -20,9 +20,9 @@ No OCR, controlling PDF, web text, later edition, outside summary or secondary E
 |---|---:|---|---|
 | `main-16.md` | 59–64 | source-secure | PASS |
 | `main-17.md` | 64–68 | source-secure | PASS |
-| `main-18.md` | 68–72 | source-secure boundary case — scan 72 globally blocked only for Scene 19 | PASS |
-| `main-19.md` | 72–75 | hold-bearing — scans 72, 73, 74 | PASS WITH SOURCE HOLDS |
-| `main-20.md` | 75–80 | hold-bearing — scans 77, 79 | PASS WITH SOURCE HOLDS |
+| `main-18.md` | 68–72 | source-secure | PASS |
+| `main-19.md` | 72–75 | source-secure | PASS |
+| `main-20.md` | 75–80 | source-secure | PASS |
 
 Review checks completed for all five scenes:
 
@@ -30,8 +30,6 @@ Review checks completed for all five scenes:
 - all source-secure stage directions represented;
 - scene/location order preserved;
 - no Tamil source wording altered by translation;
-- no held Tamil wording reconstructed from romance context, caste context, mythology, grammar or English expectation;
-- every scene-relevant terminal hold remains visibly marked in the corresponding English artifact;
 - political, caste, romantic and coercive rhetoric retained without neutralizing it;
 - naming/terminology consistency checked against Batches 1–3;
 - secondary-English contamination: **0**.
@@ -48,17 +46,17 @@ The formerly held Mahaveerar clause on scan 65 was user-adjudicated on 2026-09-1
 
 ### Scene 18 — scan 69
 
-The formerly held scan-69 place-name and consequence clauses were user-adjudicated on 2026-09-18. Scene 18 is now source-secure. The globally blocked scan 72 does not add a Scene-18 hold because its unresolved locus belongs to Scene 19 after the scene anchor.
+The formerly held scan-69 place-name and consequence clauses were user-adjudicated on 2026-09-18. Scene 18 is source-secure, and scan 72 is now fully verified.
 
 ### Scene 19 — scans 72, 73, 74
 
-The provisional place-name cluster, both compact stage directions, the dense phrase before `அளவுக்கு`, and the caste-description cluster remain visibly source-held. No caste wording is supplied from context.
+Scans 72–74 were source-closed on 2026-09-19 from the page images plus the user transcription used strictly as a word-level cross-witness. `காலி` is retained per user adjudication.
 
 ### Scene 20 — scans 77, 79
 
-The final word/ending in Malayan's shastra line and the two scan-77 transition/costume parentheticals remain explicit holds. The lower-page Kumari speech on scan 79 is translated only at secure dramatic sense; its compact historical-type letterform/spacing decisions remain unresolved.
+Scans 77 and 79 were source-closed on 2026-09-19; the shastra ending, transition/costume directions and dense Kumari word layer are now secure.
 
-Batch review therefore passes **with source holds**. This does not resolve or downgrade any underlying Tamil `blocked` status.
+Batch review remains **PASS / LOCKED** with all five scenes now source-secure.
 
 ## Source-sensitive checks
 
@@ -80,18 +78,18 @@ The source's caste-discriminatory law and derogatory speech about Ponni are tran
 
 ### Scene 20
 
-The caste/custom dispute between Malayan and Ponni, the rough-path/love-path extended metaphor, `Aththaan`, Puthan's harsh rejection and Kumari's long declaration remain intact. Source-sensitive uncertainty in scan 79 is not silently converted into exact-word certainty.
+The caste/custom dispute between Malayan and Ponni, the rough-path/love-path extended metaphor, `Aththaan`, Puthan's harsh rejection and Kumari's long declaration remain intact. The formerly source-sensitive scan-79 word layer is now source-adjudicated; the translation remains faithful to the resolved Tamil.
 
 ## Batch result
 
-**BATCH 4 — PASS / LOCKED — SOURCE HOLDS PRESERVED.**
+**BATCH 4 — PASS / LOCKED.**
 
 - expected Batch-4 English scenes: **5**;
 - present: **5 / 5**;
 - reviewed: **5 / 5**;
 - cumulative English scene progress after Batch 4: **20 / 33**;
 - cumulative completed batches: **4 / 7**;
-- current source-hold-bearing English scenes in Batch 4: **2** (Scenes 19–20); whole-work current hold-bearing total: **8 / 8**;
+- current source-hold-bearing English scenes in Batch 4: **0**; whole-work current hold-bearing total: **0**;
 - unresolved blocking English issues: **0**;
 - Tamil source holds resolved by translation: **0**;
 - secondary-English contamination: **0**.
