@@ -27,18 +27,18 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 | 15 | 53–59 | 53 with Scene 14; 59 with Scene 16 | no |
 | 16 | 59–64 | 59 with Scene 15; 64 with Scene 17 | no |
 | 17 | 64–68 | 64 with Scene 16; 68 with Scene 18 | no |
-| 18 | 68–72 | 68 with Scene 17; 72 with Scene 19 | **no Scene-18 unresolved locus**; scan 72 is blocked only for Scene-19 text after the anchor |
-| 19 | 72–75 | 72 with Scene 18; 75 with Scene 20 | **scans 72, 73, 74** |
-| 20 | 75–80 | 75 with Scene 19; 80 with Scene 21 | **scans 77, 79** |
+| 18 | 68–72 | 68 with Scene 17; 72 with Scene 19 | no |
+| 19 | 72–75 | 72 with Scene 18; 75 with Scene 20 | no |
+| 20 | 75–80 | 75 with Scene 19; 80 with Scene 21 | no |
 | 21 | 80–85 | 80 with Scene 20; 85 with Scene 22 | no |
 | 22 | 85–87 | 85 with Scene 21; 87 with Scene 23 | no |
-| 23 | 87–94 | 87 with Scene 22; 94 with Scene 24 | **scans 88, 90**; the scan-94 hold is after the Scene-24 anchor |
-| 24 | 94–95 | 94 with Scene 23 | **scans 94, 95** |
-| 25 | 96–99 | — | **scans 98, 99** |
-| 26 | 100–104 | 104 with Scene 27 | **scan 100** |
+| 23 | 87–94 | 87 with Scene 22; 94 with Scene 24 | no |
+| 24 | 94–95 | 94 with Scene 23 | no |
+| 25 | 96–99 | — | no |
+| 26 | 100–104 | 104 with Scene 27 | no |
 | 27 | 104–105 | 104 with Scene 26 | no |
-| 28 | 106–112 | 112 with Scene 29 | **no Scene-28 unresolved locus**; scan 112 is blocked only for Scene-29 text after the Scene-29 anchor |
-| 29 | 112–117 | 112 with Scene 28; 117 with Scene 30 | **scan 112** |
+| 28 | 106–112 | 112 with Scene 29 | no |
+| 29 | 112–117 | 112 with Scene 28; 117 with Scene 30 | no |
 | 30 | 117–118 | 117 with Scene 29 | no |
 
 ## Supplementary `நகைச் சுவைப் பகுதி.` boundary-aware ranges
@@ -52,27 +52,23 @@ The canonical `pages/*.md` records control. A transition scan may therefore cont
 ## Permanent boundary consequences
 
 - Scene assembly is **segment-aware**, not merely page-status-aware.
-- A globally blocked shared scan does not automatically make both adjacent scene segments unresolved.
-- Main Scene 28 uses the secure pre-`காட்சி 29.` portion of scan 112 without importing the Scene-29 hold.
-- Scene 23 does not inherit scan 94's later Scene-24 hold.
-- Scene 18 does not inherit scan 72's later Scene-19 hold.
+- All shared transition scans are now globally verified; segment-aware boundaries remain preserved for provenance.
 
 ## Final assembly classes
 
 ### Fully verified physical-page inputs
 
-Main: **1–17, 21–22, 27, 30**.
+Main: **1–30**.
 
 Supplementary: **Scenes 1–3**.
 
 ### Source-secure shared-boundary cases
 
-- main Scene **28**;
-- supplementary Scene **2**.
+None — all contributing physical scans are now verified.
 
 ### Hold-bearing scenes
 
-Main: **19–20, 23–26, 29**.
+Main: **none**.
 
 Supplementary: **none**.
 
@@ -84,7 +80,7 @@ Supplementary: **none**.
 - complete page-to-scene consistency audit: **PASS — 33 / 33** in `SCENE_ASSEMBLY_AUDIT.md`;
 - terminal source-condition wording inferred during assembly: **0**;
 - source wording normalized during assembly: **0**;
-- English translation: **not authorized / not started**.
+- English translation: **COMPLETE / CLOSED — 33 / 33 scenes reviewed**.
 
 ## Exact next activity
 
