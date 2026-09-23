@@ -52,7 +52,7 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - visual text fidelity audit: **63 / 63 scans checked — COMPLETE**;
 - fidelity PASS: **63 / 63 — scans 1–63**;
 - fidelity terminal source-condition hold: **0**;
-- fidelity source-proven / user-confirmed correction loci: **281**;
+- fidelity source-proven / user-confirmed correction loci: **282**;
 - alignment repair: **physical page records 31–63 have now been rebuilt/re-anchored source-first; final scan 63 is source-confirmed as the combined final dialogue / literary close / imprint page**;
 - full page-state reconciliation: **COMPLETE — 63 / 63 verified; 0 terminal source-condition holds**;
 - scene assembly: **18 / 18 assembled and reviewed — COMPLETE; all 18 source-secure**;
