@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை
 
-Status: **COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE — P0 PASS; TAMIL 18/18 CLOSED; ENGLISH 18/18 CLOSED WITH FINAL REVIEW PASS; SCENE-5 SOURCE HOLD PRESERVED**
+Status: **COMPLETE / VERIFIED / CLOSED — P0 PASS; TAMIL 63/63 VERIFIED, 18/18 SCENES SOURCE-SECURE; ENGLISH 18/18 CLOSED WITH FINAL REVIEW PASS; 0 SOURCE HOLDS**
 
 Repository work id: `nachuk-koppai`.
 
@@ -46,19 +46,19 @@ A preliminary visual intake locates **18 numbered scenes**. This is structural i
 - user-supplied first-pass baseline: **available for scans 1–10** at `first-pass/BATCH_01_USER_TRANSCRIPTION.md`;
 - initial visual verification PASS: **63 / 63 — COMPLETE**;
 - historical-glyph H-GATE checked: **63 / 63 — COMPLETE**;
-- H-GATE PASS: **62 / 63**;
-- H-GATE needs-review: **1 / 63 — terminal source-condition hold on scan 22**;
-- final verified pages: **62 / 63**;
+- H-GATE PASS: **63 / 63**;
+- H-GATE needs-review: **0 / 63**;
+- final verified pages: **63 / 63**;
 - visual text fidelity audit: **63 / 63 scans checked — COMPLETE**;
-- fidelity PASS: **62 / 63 — scans 1–21, 23–63**;
-- fidelity terminal source-condition hold: **1 — scan 22**;
+- fidelity PASS: **63 / 63 — scans 1–63**;
+- fidelity terminal source-condition hold: **0**;
 - fidelity source-proven / user-confirmed correction loci: **281**;
 - alignment repair: **physical page records 31–63 have now been rebuilt/re-anchored source-first; final scan 63 is source-confirmed as the combined final dialogue / literary close / imprint page**;
-- full page-state reconciliation: **COMPLETE — 63 / 63; 62 verified + 1 terminal source-condition hold**;
-- scene assembly: **18 / 18 assembled and reviewed — COMPLETE; 17 clean scenes + Scene 5 carrying the sole inherited scan-22 source hold**;
+- full page-state reconciliation: **COMPLETE — 63 / 63 verified; 0 terminal source-condition holds**;
+- scene assembly: **18 / 18 assembled and reviewed — COMPLETE; all 18 source-secure**;
 - final scene consistency audit: **PASS / COMPLETE**;
 - Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE**;
-- English translation: **18 / 18 reviewed — Batches 01–04 PASS / LOCKED; final whole-work translation review PASS; English CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE; Scene 5 preserves the sole scan-22 source hold**.
+- English translation: **18 / 18 reviewed — Batches 01–04 PASS / LOCKED; final whole-work translation review PASS; 0 source-hold-bearing scenes**.
 
 ## User-supplied contextual note
 
@@ -90,14 +90,14 @@ All source-dependent work must use the **attached PDF only**. Do not visit TDL/W
 16. Batch 11 scans **51–55 COMPLETE — 5 PASS / 0 needs-review**; all five records were independently source-first realigned;
 17. Batch 12 scans **56–60 COMPLETE — 5 PASS / 0 needs-review**; all five records were independently source-first realigned;
 18. Batch 13 scans **61–63 COMPLETE — 3 PASS / 0 needs-review**; final alignment and closure are source-reconciled;
-19. full 63-page state reconciliation: **COMPLETE**; scan 20 is user-confirmed as `வேணும்னாலும்`; scan 35 is user-confirmed as `சுடகோடி`; only scan 22 remains a terminal source-condition hold; scans 6, 8, 9 and 10 stale Pass-A dispositions were repaired;
+19. full 63-page state reconciliation: **COMPLETE**; scan 20 is user-confirmed as `வேணும்னாலும்`; scan 35 is user-confirmed as `சுடகோடி`; scan 22 is now user-confirmed as exact source `ஷெ ஷெ`; no terminal source-condition hold remains; scans 6, 8, 9 and 10 stale Pass-A dispositions were repaired;
 20. Tamil scene assembly Batch 01: **Scenes 1–5 COMPLETE / REVIEWED**;
-21. Scene 5 explicitly carries the scan 22 unresolved-cluster hold and the user's song/performance interpretation as a non-transcription note;
+21. Scene 5 preserves the user-confirmed exact source `ஷெ ஷெ` on scan 22; no inherited hold remains;
 22. Scene assembly Batch 02: **Scenes 6–18 COMPLETE / REVIEWED** — all 13 remaining scenes processed in one iteration under the new up-to-15-scenes rule;
-23. total Tamil scene assembly: **18 / 18 COMPLETE**; Scene 5 is the only hold-bearing scene, inheriting scan 22;
+23. total Tamil scene assembly: **18 / 18 COMPLETE / SOURCE-SECURE**; hold-bearing scenes: **0**;
 24. full 18-scene assembly consistency audit: **PASS / COMPLETE** — 18/18 files present, physical dramatic scan coverage 5–63 complete, 12 shared boundaries correctly split, documented cross-page joins verified, no running headers/non-authorial marks in dramatic bodies;
-25. Tamil scene layer: **CLOSED FOR CURRENT SOURCE EVIDENCE** with Scene 5 carrying the sole scan-22 terminal source-condition hold;
-26. English Translation Batch 01 — **Scenes 1–5 COMPLETE / REVIEWED / PASS / LOCKED**; Scene 5 preserves scan 22 as an explicit source hold;
+25. Tamil scene layer: **COMPLETE / VERIFIED / CLOSED — 18 / 18 source-secure; 0 source holds**;
+26. English Translation Batch 01 — **Scenes 1–5 COMPLETE / REVIEWED / PASS / LOCKED**; Scene 5 is now source-secure with `ஷெ ஷெ` retained untranslated;
 27. English Translation Batch 02 — **Scenes 6–10 COMPLETE / REVIEWED / PASS / LOCKED**; Scene 9 preserves user-confirmed `சுடகோடி` as `Sudakodi` without invented meaning;
 28. English Translation Batch 03 — **Scenes 11–15 COMPLETE / REVIEWED / PASS / LOCKED**; widow-remarriage, alcohol and social-reform rhetoric preserved;
 29. English Translation Batch 04 — **Scenes 16–18 COMPLETE / REVIEWED / PASS / LOCKED**;
