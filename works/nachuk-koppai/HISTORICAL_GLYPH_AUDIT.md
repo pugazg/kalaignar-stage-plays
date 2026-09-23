@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை — Historical Glyph Audit
 
-Status: **H-GATE COMPLETE ACROSS 63/63 PAGES — CURRENT STATE 62 PASS / 1 TERMINAL SOURCE-CONDITION NEEDS-REVIEW (SCAN 22)**
+Status: **H-GATE COMPLETE / PASS — 63 / 63 PAGES; 0 NEEDS-REVIEW**
 
 Authority: attached `ACL-TDD_00314_நச்சுக்_கோப்பை.pdf` only.
 
@@ -9,8 +9,8 @@ Authority: attached `ACL-TDD_00314_நச்சுக்_கோப்பை.p
 The batch tables below preserve historical checkpoint states. The authoritative current state after the 63-page fidelity pass, page-state reconciliation, and the user's scan-20 correction is:
 
 - H-GATE checked: **63 / 63**;
-- H-GATE PASS / verified: **62 / 63**;
-- terminal source-condition needs-review: **1 / 63 — scan 22**;
+- H-GATE PASS / verified: **63 / 63**;
+- terminal source-condition needs-review: **0 / 63**;
 - scan 20 is resolved as **`வேணும்னாலும்`** and verified;
 - scan 35 is resolved as **`சுடகோடி`** by direct user/source confirmation and verified.
 
@@ -221,3 +221,8 @@ Repository-wide page-layer totals:
 - final verified pages: **16 / 63**.
 
 The page layer has now completed both Pass A and H-GATE coverage. Work-level page-state reconciliation is the next gate before scene assembly.
+
+
+## Final scan-22 adjudication
+
+User source adjudication confirms the formerly unresolved scan-22 clusters after `சாந்தா` as exactly **`ஷெ ஷெ`**. The earlier `ஷை ஷெ` guess remains rejected. Scan 22 is now H-GATE **PASS / verified**, bringing the final total to **63 / 63 PASS**.
