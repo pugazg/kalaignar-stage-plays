@@ -37,11 +37,7 @@ Preserve:
 
 ## Source-hold rule
 
-The closed Tamil layer contains one terminal source-condition hold:
-
-- scan 22 / Scene 5 — two adjacent unidentified source clusters after `சாந்தா`.
-
-English Scene 5 must visibly preserve that hold. Translation may not resolve, downgrade or infer characters for it. The user's interpretation that it probably marks a song/performance cue remains an interpretation note only.
+The closed Tamil layer contains **0 terminal source-condition holds**. Scan 22 / Scene 5 is resolved with exact source `ஷெ ஷெ`; English retains that source vocalization untranslated rather than assigning unsupported meaning.
 
 ## Naming / terminology lock through Batch 04
 
@@ -73,7 +69,7 @@ Stable unless a later batch review documents a justified refinement:
 - expected English scenes: **18**;
 - present / reviewed: **18 / 18**;
 - completed batches: **4 / 4**;
-- source-hold-bearing English scenes: **1 — Scene 5**;
+- source-hold-bearing English scenes: **0**;
 - unresolved blocking English issues: **0**;
 - secondary-English contamination: **0**;
 - Tamil files altered by translation: **0**.
