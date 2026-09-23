@@ -24,13 +24,13 @@ Translation plan: `../../TRANSLATION_PLAN.md`.
 
 ## Source-hold policy / final result
 
-Scene 5 alone inherits the terminal Tamil source-condition hold from scan 22.
+Scene 5 is source-secure; scan 22 is resolved as exact source `ஷெ ஷெ`.
 
 Final hold state:
 
-- source-hold-bearing English scenes: **1 / 18 — Scene 5**;
+- source-hold-bearing English scenes: **0 / 18**;
 - `source_condition_scans: [22]` retained;
-- explicit `Source-held` marker retained;
+- no `Source-held` marker remains; `ஷெ ஷெ` is retained untranslated in Scene 5;
 - no guessed source characters introduced;
 - Tamil holds resolved by English translation: **0**.
 
@@ -44,7 +44,7 @@ Scene 18 preserves the source-sensitive police-language performance text, exclud
 - English scenes reviewed: **18 / 18**;
 - batches: **4 / 4 PASS / LOCKED**;
 - final whole-work review: **PASS**;
-- source-hold-bearing English scenes: **1 / 18**;
+- source-hold-bearing English scenes: **0 / 18**;
 - unresolved blocking English issues: **0**;
 - secondary English witness used: **no**.
 
