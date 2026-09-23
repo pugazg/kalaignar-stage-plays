@@ -2,7 +2,7 @@
 
 Scope: **Scenes 1–5**.
 
-Status: **COMPLETE — 5 / 5 ASSEMBLED AND REVIEWED; SCENE 5 CARRIES 1 INHERITED SOURCE HOLD**
+Status: **COMPLETE / CLOSED — 5 / 5 ASSEMBLED AND REVIEWED; 0 SOURCE HOLDS**
 
 ## Authority
 
@@ -16,7 +16,7 @@ Assembly was performed only from the reconciled canonical page records. The cont
 | 2 | 8–18 | PASS / assembly-reviewed | none |
 | 3 | 18–20 | PASS / assembly-reviewed | none |
 | 4 | 20–21 | PASS / assembly-reviewed | none |
-| 5 | 22–24 | PASS-WITH-SOURCE-HOLD / assembly-reviewed | scan 22 unidentified clusters after `சாந்தா` |
+| 5 | 22–24 | PASS / assembly-reviewed | scan 22 resolved as exact source `ஷெ ஷெ` |
 
 ## Shared-boundary handling
 
@@ -40,14 +40,14 @@ Running title/author headers and non-authorial source marks were not inserted in
 
 - scan 20 is resolved as `வேணும்னாலும்`; Scene 3 is clean;
 - scan 35 is resolved as `சுடகோடி`; it does not affect this batch;
-- the sole remaining page-layer hold is scan 22;
-- Scene 5 preserves the readable line `ஏகா — பாட்டு. சாந்தா` and records the two adjacent unreadable source clusters separately;
+- scan 22 is fully verified;
+- Scene 5 preserves the source line `ஏகா — பாட்டு. சாந்தா                      ஷெ ஷெ` exactly;
 - the user's interpretation that this likely marks a song being played/performed is retained only as a performance note.
 
 ## Batch result
 
 **PASS / COMPLETE FOR ASSEMBLY INTEGRITY.**
 
-Scene 5 remains explicitly hold-bearing because the underlying scan 22 clusters are unresolved textually. No guess was introduced.
+Scene 5 is source-secure. The formerly disputed clusters are user-confirmed as exact source `ஷெ ஷெ`; no guess is retained.
 
 Next assembly batch: **Scenes 6–10**.
