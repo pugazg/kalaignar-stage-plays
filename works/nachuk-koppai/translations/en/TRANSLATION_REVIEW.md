@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை — Final English Translation Review
 
-Status: **PASS / COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE — 18 / 18 ENGLISH SCENES REVIEWED; 4 / 4 BATCHES PASS / LOCKED; SCENE 5 SOURCE HOLD PRESERVED**
+Status: **PASS / COMPLETE / CLOSED — 18 / 18 ENGLISH SCENES REVIEWED; 4 / 4 BATCHES PASS / LOCKED; 0 TAMIL SOURCE HOLDS REMAIN**
 
 Immediate authority: the closed Tamil scene layer under `../../scenes/`.
 
@@ -35,11 +35,11 @@ Confirmed across the set:
 - `language: "en"` is used throughout;
 - `secondary_english_witness_used: false` is used throughout;
 - source-secure scenes carry ordinary `translation-reviewed / passed` state;
-- Scene 5 alone carries `translation-reviewed-with-source-holds / passed-with-source-holds`.
+- all 18 scenes carry ordinary source-secure translation-reviewed / passed state.
 
 ## 3. Batch closure
 
-- `BATCH_01_REVIEW.md` — Scenes 1–5 — **PASS / LOCKED — Scene 5 source hold preserved**;
+- `BATCH_01_REVIEW.md` — Scenes 1–5 — **PASS / LOCKED**;
 - `BATCH_02_REVIEW.md` — Scenes 6–10 — **PASS / LOCKED**;
 - `BATCH_03_REVIEW.md` — Scenes 11–15 — **PASS / LOCKED**;
 - `BATCH_04_REVIEW.md` — Scenes 16–18 — **PASS / LOCKED**.
@@ -70,21 +70,19 @@ Whole-work fidelity result: **PASS**.
 
 ## 5. Source-condition transparency
 
-The closed Tamil layer contains one terminal source-condition hold:
+The closed Tamil layer contains **0 terminal source-condition holds**.
 
-- scan **22** / Scene **5** — two adjacent unidentified source clusters after `சாந்தா`.
+Scan **22** / Scene **5** is source-closed with the user-confirmed exact Tamil form `ஷெ ஷெ`. The English retains `ஷெ ஷெ` untranslated as a source vocalization rather than assigning an unsupported lexical meaning.
 
 Final English state:
 
-- source-hold-bearing English scenes: **1 / 18 — Scene 5**;
-- Scene 5 carries `source_condition_scans: [22]`;
-- an explicit `Source-held` marker is present;
-- the earlier guessed character forms are absent;
-- no English wording is invented for the two unreadable clusters;
-- the user's view that the locus likely indicates a song/performance remains only an interpretation note;
-- Tamil source holds resolved by translation: **0**.
+- source-hold-bearing English scenes: **0 / 18**;
+- `source_condition_scans: []` in Scene 5;
+- no `Source-held` marker remains;
+- the earlier `ஷை ஷெ` guess remains absent;
+- Tamil source holds resolved by translation: **0** — resolution occurred in the Tamil source workflow.
 
-Result: **PASS — HOLD PRESERVED TRANSPARENTLY**.
+Result: **PASS — FULLY SOURCE-SECURE**.
 
 ## 6. Source-sensitive reviewed readings
 
@@ -148,7 +146,7 @@ No reviewed English convention overwrites the Tamil archive.
 
 ## 8. Final English state
 
-**ENGLISH TRANSLATION COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE — 18 / 18 SCENES PRESENT AND REVIEWED; 4 / 4 BATCHES PASS / LOCKED; WHOLE-WORK TAMIL→ENGLISH FIDELITY PASS; 1 / 1 HOLD-BEARING SCENE PRESERVES ITS TAMIL HOLD; 0 TAMIL HOLDS RESOLVED BY TRANSLATION; 0 ENGLISH BLOCKERS; 0 SECONDARY-ENGLISH CONTAMINATION.**
+**ENGLISH TRANSLATION COMPLETE / CLOSED — 18 / 18 SCENES PRESENT AND REVIEWED; 4 / 4 BATCHES PASS / LOCKED; WHOLE-WORK TAMIL→ENGLISH FIDELITY PASS; 0 HOLD-BEARING SCENES; 0 TAMIL HOLDS RESOLVED BY TRANSLATION; 0 ENGLISH BLOCKERS; 0 SECONDARY-ENGLISH CONTAMINATION.**
 
 No English translation scene remains pending.
 
@@ -162,4 +160,4 @@ Reopen only for a separately authorized phase, such as:
 - comparison against an explicitly introduced independent English witness;
 - genuinely stronger Tamil source evidence that first passes the Tamil reopening/adjudication rules and then requires corresponding English revision.
 
-The separate P0 SHA-256 fingerprint remains pending. It is **not** part of English closure and must not be computed/promoted unless separately authorized.
+The P0 SHA-256 fingerprint is already recorded and PASS / COMPLETE in the work-level source-intake record.
