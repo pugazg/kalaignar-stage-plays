@@ -1,6 +1,6 @@
 # நச்சுக்கோப்பை — English Translation Batch 01 Review
 
-Status: **PASS / LOCKED — SOURCE HOLD PRESERVED**
+Status: **PASS / LOCKED**
 
 Batch scope:
 
@@ -22,7 +22,7 @@ No OCR, controlling PDF, web text, later edition, outside summary, plot memory o
 | `02.md` | 8–18 | source-secure | PASS |
 | `03.md` | 18–20 | source-secure | PASS |
 | `04.md` | 20–21 | source-secure | PASS |
-| `05.md` | 22–24 | hold-bearing — scan 22 | PASS WITH SOURCE HOLD |
+| `05.md` | 22–24 | source-secure | PASS |
 
 Review checks completed across all five scenes:
 
@@ -34,7 +34,6 @@ Review checks completed across all five scenes:
 - caste/class/gender rhetoric retained rather than neutralized;
 - colloquial and comic register retained where feasible;
 - no Tamil source wording altered by translation;
-- no source-held characters reconstructed;
 - names and terminology checked across the batch;
 - secondary-English contamination: **0**;
 - unresolved blocking English issues: **0**.
@@ -59,9 +58,9 @@ Wedding ritual terms `nalungu`, `namaskaram` and `dakshina` are retained. The th
 
 The rationing-era rice exchange and Kandhan's address to Money remain direct. `padi` is retained as the rice measure. The workers' advance and Pazhani's student/worker political hope are not neutralized.
 
-### Scene 5 — scan 22 source hold
+### Scene 5 — scan 22 adjudication
 
-The two unreadable source clusters after `சாந்தா` remain visibly held in English. No letters, syllables or performance instruction are invented.
+The user confirms the exact source text after `சாந்தா` is `ஷெ ஷெ`. English retains `ஷெ ஷெ` untranslated as a source vocalization; no unsupported lexical meaning is added.
 
 The user's view that the locus probably signals a song/performance is retained only as an interpretation note.
 
@@ -69,13 +68,13 @@ The scene's wartime, generational and social rhetoric remains explicit; the hist
 
 ## Batch result
 
-**BATCH 01 — PASS / LOCKED — SOURCE HOLD PRESERVED.**
+**BATCH 01 — PASS / LOCKED.**
 
 - expected Batch-01 English scenes: **5**;
 - present: **5 / 5**;
 - reviewed: **5 / 5**;
 - total English scene progress: **5 / 18**;
-- source-hold-bearing English scenes completed: **1**;
+- source-hold-bearing English scenes: **0**;
 - Tamil source holds resolved by translation: **0**;
 - unresolved blocking English issues: **0**;
 - secondary-English contamination: **0**.
