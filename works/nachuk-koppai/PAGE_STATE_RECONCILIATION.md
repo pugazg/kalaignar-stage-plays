@@ -30,9 +30,9 @@ Disposition: **RESOLVED / VERIFIED by user-confirmed source reading**.
 
 Location: two adjacent source clusters after `சாந்தா` in the `ஏகா — பாட்டு.` line.
 
-Strongest-pixel reinspection confirms both marks are physically present, but their character identity is not secure enough for Unicode transcription. The former guessed reading remains withdrawn.
+User source adjudication confirms both printed marks as exactly `ஷெ ஷெ`. The former `ஷை ஷெ` guess remains withdrawn.
 
-Disposition: **TERMINAL SOURCE-CONDITION HOLD**.
+Disposition: **RESOLVED / VERIFIED**.
 
 ### Scan 35 — printed p.31
 
@@ -63,8 +63,8 @@ All 63 page files were checked for:
 
 Result:
 
-- verified: **62 / 63**;
-- terminal source-condition `needs-review`: **1 / 63** — scan **22**;
+- verified: **63 / 63**;
+- terminal source-condition `needs-review`: **0 / 63**;
 - blocked: **0**;
 - missing page records: **0**;
 - fidelity coverage: **63 / 63**;
@@ -101,7 +101,7 @@ Shared physical pages must be split at their source-visible scene headings durin
 
 Terminal-hold propagation:
 
-- scan 22 hold belongs to **Scene 5**.
+- scan 22 is resolved as exact source `ஷெ ஷெ`; Scene 5 has no source hold.
 
 Scan 20 is resolved as `வேணும்னாலும்`; **Scene 3 has no remaining page-level hold**. Scan 35 is resolved as `சுடகோடி`; **Scene 9 has no remaining page-level hold**.
 
@@ -118,9 +118,9 @@ The non-authorial mark remains separate from literary text.
 
 ## Reconciliation result
 
-**PASS / COMPLETE FOR CURRENT SOURCE EVIDENCE, WITH 1 EXPLICIT TERMINAL SOURCE-CONDITION HOLD.**
+**PASS / COMPLETE / VERIFIED — 63 / 63; 0 TERMINAL SOURCE-CONDITION HOLDS.**
 
-The Tamil page layer is now ready for scene assembly. The one remaining hold on scan 22 is not permission to guess and must be carried into Scene 5 explicitly.
+The Tamil page layer is fully verified. Scan 22 is closed with exact source `ஷெ ஷெ` and Scene 5 is source-secure.
 
 P0 SHA-256 remains separately pending and was not expanded into this reconciliation.
 
@@ -148,12 +148,12 @@ This resolves the former provisional-word hold without changing the already reta
 
 The user also noted that the meaning of `சுடகோடி` is unknown. The archive therefore preserves the printed form and does not substitute a contextual or Sanskritized alternative.
 
-Scan 22 remains unresolved at the character level. The user's interpretation that the two marks may indicate a song being played is recorded as a performance hypothesis only, because the marks themselves are not source-secure Unicode text.
+Scan 22 is now resolved at the character level by user source adjudication: the two marks are exactly `ஷெ ஷெ`. Any performance interpretation remains secondary to that literal transcription.
 
 Current reconciled page state:
 
-- verified: **62 / 63**;
-- terminal source-condition holds: **1 / 63 — scan 22**;
-- fidelity PASS: **62 / 63**;
-- H-GATE PASS: **62 / 63**;
+- verified: **63 / 63**;
+- terminal source-condition holds: **0 / 63**;
+- fidelity PASS: **63 / 63**;
+- H-GATE PASS: **63 / 63**;
 - cumulative textual correction loci remain **281**; scan 35 is a hold-resolution without a canonical text change.
