@@ -70,40 +70,17 @@ This contextual note is useful project metadata but is **not promoted into contr
 
 All source-dependent work must use the **attached PDF only**. Do not visit TDL/Wikisource or another copy to complete unreadable text. Preserve an unresolved locus until the attached scan itself is readable enough.
 
-## Next activity
+## Final closure
 
-1. compute the remaining SHA-256 fingerprint of the attached PDF when local-byte checksum execution is available;
-2. page-layer Pass A is now **COMPLETE — 63 / 63 canonical and initial PASS**;
-3. Batch 07 H-GATE is **CHECKED — scan 63 PASS / verified; scans 61–62 needs-review**;
-4. H-GATE coverage is now **63 / 63 COMPLETE**;
-5. user-directed word-by-word visual fidelity phase is now active at **5 scans per iteration**;
-6. Batch 01 scans **1–5 CLOSED — 5 PASS / 0 needs-review**, after resolving scans 3–4 from source pixels;
-7. Batch 02 scans **6–10 CLOSED — 5 PASS / 0 needs-review**, after resolving scan 8;
-8. Batch 03 scans **11–15 CLOSED — 5 PASS / 0 needs-review**;
-9. Batch 04 scans **16–20 COMPLETE — 4 PASS / 1 needs-review (scan 20)**;
-10. Batch 05 scans **21–25 COMPLETE — 4 PASS / 1 needs-review (scan 22)**;
-11. Batch 06 scans **26–30 COMPLETE — 5 PASS / 0 needs-review**;
-12. Batch 07 scans **31–35 COMPLETE — 4 PASS / 1 needs-review (scan 35)**; all five records were source-first realigned;
-13. Batch 08 scans **36–40 COMPLETE — 5 PASS / 0 needs-review**; all five records were independently source-first realigned;
-14. Batch 09 scans **41–45 COMPLETE — 5 PASS / 0 needs-review**; all five records were independently source-first realigned;
-15. Batch 10 scans **46–50 COMPLETE — 5 PASS / 0 needs-review**; all five records were independently source-first realigned;
-16. Batch 11 scans **51–55 COMPLETE — 5 PASS / 0 needs-review**; all five records were independently source-first realigned;
-17. Batch 12 scans **56–60 COMPLETE — 5 PASS / 0 needs-review**; all five records were independently source-first realigned;
-18. Batch 13 scans **61–63 COMPLETE — 3 PASS / 0 needs-review**; final alignment and closure are source-reconciled;
-19. full 63-page state reconciliation: **COMPLETE**; scan 20 is user-confirmed as `வேணும்னாலும்`; scan 35 is user-confirmed as `சுடகோடி`; scan 22 is now user-confirmed as exact source `ஷெ ஷெ`; no terminal source-condition hold remains; scans 6, 8, 9 and 10 stale Pass-A dispositions were repaired;
-20. Tamil scene assembly Batch 01: **Scenes 1–5 COMPLETE / REVIEWED**;
-21. Scene 5 preserves the user-confirmed exact source `ஷெ ஷெ` on scan 22; no inherited hold remains;
-22. Scene assembly Batch 02: **Scenes 6–18 COMPLETE / REVIEWED** — all 13 remaining scenes processed in one iteration under the new up-to-15-scenes rule;
-23. total Tamil scene assembly: **18 / 18 COMPLETE / SOURCE-SECURE**; hold-bearing scenes: **0**;
-24. full 18-scene assembly consistency audit: **PASS / COMPLETE** — 18/18 files present, physical dramatic scan coverage 5–63 complete, 12 shared boundaries correctly split, documented cross-page joins verified, no running headers/non-authorial marks in dramatic bodies;
-25. Tamil scene layer: **COMPLETE / VERIFIED / CLOSED — 18 / 18 source-secure; 0 source holds**;
-26. English Translation Batch 01 — **Scenes 1–5 COMPLETE / REVIEWED / PASS / LOCKED**; Scene 5 is now source-secure with `ஷெ ஷெ` retained untranslated;
-27. English Translation Batch 02 — **Scenes 6–10 COMPLETE / REVIEWED / PASS / LOCKED**; Scene 9 preserves user-confirmed `சுடகோடி` as `Sudakodi` without invented meaning;
-28. English Translation Batch 03 — **Scenes 11–15 COMPLETE / REVIEWED / PASS / LOCKED**; widow-remarriage, alcohol and social-reform rhetoric preserved;
-29. English Translation Batch 04 — **Scenes 16–18 COMPLETE / REVIEWED / PASS / LOCKED**;
-30. total English scene coverage: **18 / 18 COMPLETE; 4 / 4 batches PASS / LOCKED**;
-31. final whole-work Tamil→English translation review — **PASS / COMPLETE**;
-32. English layer — **COMPLETE / CLOSED FOR CURRENT TAMIL SOURCE EVIDENCE**;
-33. P0 SHA-256 fingerprint — **PASS / COMPLETE**: `a2794d34304feff5618e6ac91eaa93149340f40820b334b713de588295b04bc4`;
-34. no Tamil, English, source-intake or checksum activity remains pending under current source evidence;
-35. reopen only for genuinely stronger source evidence or a separately authorized editorial / witness-comparison phase.
+- Tamil page layer: **63 / 63 verified**;
+- H-GATE: **63 / 63 PASS**;
+- visual-text fidelity: **63 / 63 PASS**;
+- terminal source-condition holds: **0**;
+- Tamil scenes: **18 / 18 source-secure**;
+- English scenes: **18 / 18 reviewed**;
+- English batches: **4 / 4 PASS / LOCKED**;
+- final English review: **PASS / COMPLETE**;
+- scan 22 source form: **\`ஏகா — பாட்டு. சாந்தா                      ஷெ ஷெ\`**;
+- SHA-256: **PASS / COMPLETE** — \`a2794d34304feff5618e6ac91eaa93149340f40820b334b713de588295b04bc4\`.
+
+No routine Tamil, scene-assembly, translation, source-intake or checksum activity remains pending. Reopen only for genuinely stronger source evidence or a separately authorized new phase.
