@@ -29,7 +29,7 @@ Current coverage: **63 / 63 scans — COMPLETE**.
 Current fidelity results:
 - PASS: **62** — scans **1–21, 23–63**;
 - TERMINAL SOURCE-CONDITION HOLD: **0**;
-- source-proven / user-confirmed textual correction loci in fidelity phase: **281**.
+- source-proven / user-confirmed textual correction loci in fidelity phase: **282**.
 
 ## Batch 01 summary
 
