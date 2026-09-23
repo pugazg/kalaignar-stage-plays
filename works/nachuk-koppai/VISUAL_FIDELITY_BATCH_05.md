@@ -2,7 +2,7 @@
 
 Scope: physical scans **21–25**.
 
-Status: **COMPLETE — 4 PASS / 1 NEEDS-REVIEW**
+Status: **COMPLETE / CLOSED — 5 PASS / 0 NEEDS-REVIEW**
 
 ## Method
 
@@ -13,7 +13,7 @@ Every visible publication-text token was compared directly against the attached 
 | Scan | Fidelity result | Source-proven correction loci | Remaining hold |
 |---:|---|---:|---|
 | 21 | PASS | 9 | none |
-| 22 | NEEDS-REVIEW | 8 | two adjacent unidentified source glyph clusters after `சாந்தா` |
+| 22 | PASS | 9 | user-confirmed exact source `ஷெ ஷெ` after `சாந்தா` |
 | 23 | PASS | 9 | none |
 | 24 | PASS | 3 | none |
 | 25 | PASS | 7 | none |
@@ -47,7 +47,7 @@ Cumulative correction loci through scan 25: **73**.
 - restored source order `சாப்பாடு வேண்டாமாம்!`;
 - `சர்ந்தா` → `சாந்தா`.
 
-The earlier guessed `ஷை ஷெ` after `சாந்தா` has been withdrawn. Two adjacent source glyph clusters are visibly present there, but their character identity is not secure enough to transcribe. They remain the sole scan-22 hold.
+The earlier guessed `ஷை ஷெ` remains withdrawn. User source adjudication confirms the printed form after `சாந்தா` is exactly `ஷெ ஷெ`; scan 22 is now PASS / verified.
 
 ### Scan 23
 
@@ -79,7 +79,7 @@ The earlier guessed `ஷை ஷெ` after `சாந்தா` has been withdraw
 ## Durable holds after Batch 05
 
 - scan 20 — `வேணும்லும்`;
-- scan 22 — two adjacent unidentified source glyph clusters after `சாந்தா`.
+- scan 22 — resolved as exact source `ஷெ ஷெ` after `சாந்தா`; no hold remains.
 
 ## Next
 
