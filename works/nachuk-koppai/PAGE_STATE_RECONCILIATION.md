@@ -156,4 +156,4 @@ Current reconciled page state:
 - terminal source-condition holds: **0 / 63**;
 - fidelity PASS: **63 / 63**;
 - H-GATE PASS: **63 / 63**;
-- cumulative textual correction loci remain **281**; scan 35 is a hold-resolution without a canonical text change.
+- cumulative textual correction loci: **282**; scan 35 was a hold-resolution without a canonical text change, while scan 22 adds the source-confirmed `ஷெ ஷெ` transcription.
