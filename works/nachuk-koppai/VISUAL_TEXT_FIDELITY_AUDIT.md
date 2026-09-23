@@ -14,7 +14,7 @@ Method: every visible publication-text token is compared in reading order agains
 | 02 | 6–10 | **5 PASS / COMPLETE** |
 | 03 | 11–15 | **5 PASS / COMPLETE** |
 | 04 | 16–20 | **5 PASS / COMPLETE** |
-| 05 | 21–25 | **4 PASS / 1 NEEDS-REVIEW** |
+| 05 | 21–25 | **5 PASS / 0 NEEDS-REVIEW** |
 | 06 | 26–30 | **5 PASS / COMPLETE** |
 | 07 | 31–35 | **5 PASS / COMPLETE** |
 | 08 | 36–40 | **5 PASS / COMPLETE** |
@@ -28,7 +28,7 @@ Current coverage: **63 / 63 scans — COMPLETE**.
 
 Current fidelity results:
 - PASS: **62** — scans **1–21, 23–63**;
-- TERMINAL SOURCE-CONDITION HOLD: **1** — scan **22**;
+- TERMINAL SOURCE-CONDITION HOLD: **0**;
 - source-proven / user-confirmed textual correction loci in fidelity phase: **281**.
 
 ## Batch 01 summary
@@ -63,7 +63,7 @@ Current fidelity results:
 ## Batch 05 summary
 
 - scans 21, 23, 24 and 25 — PASS after **28** source-proven correction loci;
-- scan 22 — NEEDS-REVIEW after **8** source-proven corrections; the only remaining locus is the pair of adjacent unidentified source glyph clusters after `சாந்தா`;
+- scan 22 — PASS after user source adjudication confirms the formerly held clusters as exact source `ஷெ ஷெ`;
 - Batch 05 total source-proven correction loci: **36**;
 - cumulative fidelity correction loci: **73**.
 
@@ -166,14 +166,14 @@ Reconciliation actions:
 - the repaired downstream page alignment is now authoritative through scan **63**;
 - scan **63** remains the source-proven combined **final dialogue + முற்றும் + printer imprint** page;
 - the remaining loci on scans **20, 22 and 35** were re-read during reconciliation; scan 20 was subsequently resolved as `வேணும்னாலும்` and scan 35 as `சுடகோடி` by direct user/source confirmation;
-- scan **22** remains the sole **terminal source-condition hold for the current attached PDF**.
+- scan **22** is resolved / verified with exact source `ஷெ ஷெ`; no terminal source-condition hold remains.
 
 Reconciled page state:
 
-- verified / PASS: **62 / 63**;
-- terminal source-condition `needs-review`: **1 / 63** — scan **22**;
+- verified / PASS: **63 / 63**;
+- terminal source-condition `needs-review`: **0 / 63**;
 - blocked: **0**;
 - word-by-word fidelity coverage: **63 / 63 COMPLETE**;
 - page-state reconciliation: **COMPLETE**.
 
-Scene assembly may now begin from the reconciled page layer. Scene 3 is clean after scan 20 and Scene 9 is clean after scan 35; only Scene 5 must carry the scan 22 source-cluster hold.
+The reconciled page layer is fully verified: Scenes 3, 5 and 9 are all clean after the scan-20, scan-22 and scan-35 adjudications.
