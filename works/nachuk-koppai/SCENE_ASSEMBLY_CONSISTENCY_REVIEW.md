@@ -100,26 +100,26 @@ Confirmed preserved in the scene layer:
 
 No contextual modernization was introduced for `சுடகோடி`.
 
-## Sole inherited source hold
+## Source-hold closure
 
-Scene 5 alone remains hold-bearing because scan 22 contains two adjacent source clusters after `சாந்தா` whose character identity is not source-secure.
+No inherited source hold remains. Scan 22 is user-confirmed as exact source `ஷெ ஷெ`, and Scene 5 is source-secure.
 
 Audit confirms:
 
-- the earlier guessed Unicode reading is **not present** in Scene 5;
+- the earlier guessed `ஷை ஷெ` reading is **not present**; Scene 5 preserves exact source `ஷெ ஷெ`;
 - no replacement characters were invented;
 - the readable source line remains preserved;
 - the user's interpretation that the locus likely indicates a song being played/performed is recorded only as a **performance interpretation note**, not as transcription.
 
-This terminal source-condition hold does **not** prevent Tamil scene-layer closure.
+No terminal source-condition hold remains.
 
 ## Final Tamil scene-layer state
 
 - Tamil scenes: **18 / 18 assembled / reviewed**;
 - final consistency audit: **PASS**;
 - clean scenes: **17 / 18**;
-- hold-bearing scenes: **1 / 18 — Scene 5**;
-- underlying page-layer terminal hold: **scan 22 only**;
+- hold-bearing scenes: **0 / 18**;
+- underlying page-layer terminal holds: **0**;
 - omitted dramatic scans: **0**;
 - unintended duplicated dramatic scans: **0**.
 
@@ -127,6 +127,6 @@ This terminal source-condition hold does **not** prevent Tamil scene-layer closu
 
 **TAMIL SCENE ASSEMBLY / CONSISTENCY REVIEW — PASS / COMPLETE / CLOSED FOR CURRENT SOURCE EVIDENCE.**
 
-English translation may now begin from this closed Tamil scene layer. Scene 5's terminal source condition must be preserved explicitly and must not be guessed away.
+English translation derives from a fully source-secure Tamil scene layer; Scene 5 retains `ஷெ ஷெ` as source text.
 
 The separate P0 SHA-256 fingerprint remains pending and was not expanded into this audit.
