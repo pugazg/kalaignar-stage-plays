@@ -29,7 +29,7 @@ This preliminary map records physical scan identity and visually located scene o
 | 19 | Scene 3 | drama | complete | PASS | PASS | `verified` | printed p.15; speaker/name repaired; unusual forms confirmed |
 | 20 | Scenes 3 / 4 | shared scene-boundary page | complete | PASS | PASS | `verified` | user-confirmed source reading `வேணும்னாலும்`; Scene 3/4 boundary secure |
 | 21 | Scene 4 | drama | complete | PASS | PASS | `verified` | printed p.17; fidelity repairs resolved header/labels/source forms |
-| 22 | Scene 5 | scene opener | complete | PASS | NEEDS-REVIEW | `needs-review` | printed p.18; terminal source-condition hold: two adjacent source clusters after `சாந்தா`; Scene 5 opener secure |
+| 22 | Scene 5 | scene opener | complete | PASS | PASS | `verified` | printed p.18; user-confirmed exact source `ஷெ ஷெ` after `சாந்தா`; Scene 5 opener fully verified |
 | 23 | Scene 5 | drama | complete | PASS | PASS | `verified` | printed p.19; fidelity wording/punctuation repairs source-resolved |
 | 24 | Scenes 5 / 6 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.20; Scene 5 closes / Scene 6 opens; speaker/spacing source-resolved |
 | 25 | Scenes 6 / 7 | shared scene-boundary page | complete | PASS | PASS | `verified` | printed p.21; Scene 6 closes / Scene 7 opens; wording/scene/name holds resolved |
@@ -89,6 +89,6 @@ This preliminary map records physical scan identity and visually located scene o
 - dramatic physical scan coverage — **5–63 complete / no omissions**;
 - shared scene-boundary pages — **12 / 12 correctly split**;
 - clean scenes — **17 / 18**;
-- hold-bearing scene — **Scene 5**, inherited from scan 22;
+- hold-bearing scenes — **0**; scan 22 is verified with exact source `ஷெ ஷெ`;
 - Tamil scene layer — **CLOSED FOR CURRENT SOURCE EVIDENCE**;
 - next phase — **English translation**.
