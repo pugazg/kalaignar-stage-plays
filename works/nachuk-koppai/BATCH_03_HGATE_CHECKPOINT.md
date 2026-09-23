@@ -2,7 +2,7 @@
 
 Scope: scans **21–30**.
 
-Status: **CHECK COMPLETE / BATCH NOT CLOSED — 0 PASS, 10 NEEDS-REVIEW**
+Status: **HISTORICAL CHECKPOINT — SUPERSEDED BY FINAL SOURCE RECONCILIATION; CURRENT FINAL STATE FOR SCANS 21–30: 10 / 10 PASS**
 
 ## Result
 
@@ -32,3 +32,8 @@ Status: **CHECK COMPLETE / BATCH NOT CLOSED — 0 PASS, 10 NEEDS-REVIEW**
 All ten scans remain durable `needs-review` holds. The reduced attached-page images do not support source-secure replacements for those loci. Do not repeatedly re-read the same reduced renders without stronger attached-source readability.
 
 Proceed forward to Batch 04 Pass A while preserving these holds exactly.
+
+
+## Final reconciliation note
+
+This checkpoint records an earlier reduced-render stage and is retained for audit history. Subsequent direct source work resolved all scans 21–30. In particular, scan 22 is user-confirmed as `ஏகா — பாட்டு. சாந்தா                      ஷெ ஷெ`; the earlier `ஷை ஷெ` guess is rejected. Current final state for this batch is **10 / 10 PASS / verified**.
